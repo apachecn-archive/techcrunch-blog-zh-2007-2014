@@ -1,0 +1,1356 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="google-site-verification" content="LErd7nApOu6V7ZRNJc2gezDhAFGIXGLkzMiliBdA-Lo" />
+		<link rel="icon" type="image/png" href="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/images/favicon.png">
+		<link rel="manifest" href="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/assets/js/frontend/manifest.json">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name='robots' content='max-image-preview:large, index, follow, max-snippet:-1, max-video-preview:-1' />
+<!-- OneTrust Cookies Consent Notice start -->
+
+
+	<script id="onetrust-js" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="6c29ea09-d6c8-4b6f-84c1-6243f4d8a788"></script>
+
+	<script type="text/javascript">
+
+	function OptanonWrapper() {
+		window.dataLayer.push({event: 'OneTrustGroupsUpdated'});
+	}
+
+	</script>
+
+	<!-- OneTrust Cookies Consent Notice end -->
+		<link rel="stylesheet" href="https://a.pub.network/core/pubfig/cls.css">
+	<script data-cfasync="false" type="text/javascript">
+		// Initialize Ads Manager API while the main code loads
+		var stshared_ads_manager = stshared_ads_manager || {};
+		stshared_ads_manager.queue = stshared_ads_manager.queue || [];
+		stshared_ads_manager.initAds = function () {
+			stshared_ads_manager._adInitCalled = true;
+		}
+    // It's not ideal to have this logic live here but the logic needs to be available when freestar is loaded.
+    stshared_ads_manager.getTargeting = function () {
+      var pathname = window.location.pathname;
+      if (pathname.toLowerCase().includes("vegas")) {
+        return { subcategory: "vegas" };
+      }
+      return null;
+    }
+
+		var freestar = freestar || {};
+		freestar.hitTime = Date.now();
+		freestar.queue = freestar.queue || [];
+		freestar.config = freestar.config || {};
+		freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+		freestar.config.enabled_slots = [];
+
+    (function() {
+      var targeting = stshared_ads_manager.getTargeting();
+      if (targeting) {
+        freestar.config.targeting = [{
+          "smartertravel_adhesion": targeting,
+        }];
+      }
+    })();
+
+    stshared_ads_manager.queue.push(function() {
+      if (window.ats) {
+        ats.start({
+          placementID: "106",
+          storageType: "localStorage",
+          detectionType: "url",
+          detectionSubject: "pidHashes",
+          logging: "error",
+          urlParameter: "esha256",
+          urlHashType: "sha256",
+          urlRegex: "[A-Fa-f0-9]{64}",
+        });
+      }
+    });
+
+		freestar.initCallback = function () { (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots) }
+
+    // pull in freestar code
+    !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/smartertravel-com";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,d.className="optanon-category-C0004",d.type="text/plain",c.parentNode.insertBefore(d,c)}(window,document);
+	</script>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v15.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Expert Travel Tips, Stories &amp; Timely Travel News</title>
+	<meta name="description" content="SmarterTravel provides independent expert advice and unbiased reviews for the best travel deals, destinations, and money-saving travel tips that help feed your passion for seeing the world." />
+	<link rel="canonical" href="https://www.smartertravel.com/" />
+	<link rel="next" href="https://www.smartertravel.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="SmarterTravel" />
+	<meta property="og:description" content="SmarterTravel provides independent expert advice and unbiased reviews for the best travel deals, destinations, and money-saving travel tips that help feed your passion for seeing the world." />
+	<meta property="og:url" content="https://www.smartertravel.com/" />
+	<meta property="og:site_name" content="SmarterTravel" />
+	<meta property="og:image" content="https://www.smartertravel.com/wp-content/uploads/2019/09/ST@1x-1200x627.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="627" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@smartertravel" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.smartertravel.com/#website","url":"https://www.smartertravel.com/","name":"SmarterTravel","description":"The Best Trips Start Here","potentialAction":[{"@type":"SearchAction","target":"https://www.smartertravel.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://www.smartertravel.com/#webpage","url":"https://www.smartertravel.com/","name":"Expert Travel Tips, Stories & Timely Travel News","isPartOf":{"@id":"https://www.smartertravel.com/#website"},"description":"SmarterTravel provides independent expert advice and unbiased reviews for the best travel deals, destinations, and money-saving travel tips that help feed your passion for seeing the world.","breadcrumb":{"@id":"https://www.smartertravel.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.smartertravel.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.smartertravel.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.smartertravel.com/","url":"https://www.smartertravel.com/","name":"Home"}}]}]}</script>
+	<meta name="msvalidate.01" content="D9F1D80CAF63C556A57E98FDD9E12947" />
+	<meta name="google-site-verification" content="gSbJHRk-M7ixWpFRWXwl8EYk7QH3fLccKBOc-oGUbZA" />
+	<meta name="yandex-verification" content="0d494dfbed6309f0" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:"0 0 1em 0"}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.1.1/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://c0.wp.com/c/6.1.1/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='st-shared-plugin-css-css' href='https://stmllc.wpenginepowered.com/wp-content/plugins/smartertravel-shared/assets/css/smartertravel-shared-plugin.min.css?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' type='text/css' media='' />
+<link rel='stylesheet' id='st-css' href='https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/assets/css/smarter-travel.min.css?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' type='text/css' media='all' />
+<link rel='stylesheet' id='elasticpress-autosuggest-css' href='https://stmllc.wpenginepowered.com/wp-content/plugins/elasticpress/dist/css/autosuggest-styles.css?ver=c8c6023b345f6f95c1e8' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css' href='https://stmllc.wpenginepowered.com/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=1675336315' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/11.8.4/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.smartertravel.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smartertravel.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.smartertravel.com/wp-includes/wlwmanifest.xml" />
+	<style>img#wpstats{display:none}</style>
+		<div class="popUpSFG">
+	<div class="overLayBg"></div>
+	<div class="outerWrap">
+		<div class="contentWrap">
+			<div class="closePopup"></div>
+			<div class="innerWrap left-section">
+				<div class="sign-up-desc">
+					<h6>Are You a Travel Insider?</h6>
+					<p>Be the first to discover secret destinations, travel hacks, and more.</p>
+					<div class="emailWrapper">
+						<input type="email" class="entry-gate-email" placeholder="Enter Your Email"/>
+						<button id="entry-gate-submit" class="submit">Sign Up</button>
+						<div class="errorInput"></div>
+					</div>
+					<p class="disclaimer">By proceeding, you agree to our <a href="https://www.smartertravel.com/privacy-policy/">Privacy Policy</a> and <a href="https://www.smartertravel.com/terms-of-use/">Terms of Use</a>.</p>					<div class="errorMessage">
+						<p class="emailPara">
+							Please enter valid email address						</p>
+					</div>
+				</div>
+				<div class="successMsg">
+					<p>Thanks! You&#039;re all signed up.</p>
+				</div>
+			</div>
+			<div class="closePopup closePopup-mobile"></div>
+		</div>
+	</div>
+</div>
+	<script>
+		var ST_REST = {"nonce":"07c9297e1b","base_url":"https:\/\/www.smartertravel.com\/wp-json\/smartertravel\/v1\/","site_url":"https:\/\/www.smartertravel.com","base_default_api":"https:\/\/www.smartertravel.com\/wp-json\/wp\/v2\/","spinner":"https:\/\/www.smartertravel.com\/wp-admin\/images\/spinner-2x.gif","auth":false};
+	</script>
+	<link type="text/plain" rel="author" href="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/humans.txt" />	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+				{ (i[r].q=i[r].q||[]).push(arguments)}
+				,i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-81375237-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+		<meta property="fb:pages" content="68491249493">
+	<! –– AdRecover Test- AdBlocking Measurement ––>
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/39459/adRecover.js?ts=1567535882876'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+				<style type="text/css" id="wp-custom-css">
+			/* Added by Dave for WFH 2020 calendar test 11/18/2020 */
+.day-row {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	margin:2% 0 0; 
+}
+.day-block {
+	width: 100%;
+	padding: 0 24px 40px;
+	border: 2px dashed rgba(0,0,0,0.2);
+	margin: 8px 0;
+}
+
+.thanksgiving {
+	border: 2px dashed #e14e00;
+}
+.hanukkah {
+	border: 2px dashed #00d2ff;
+}
+.xmas {
+	border: 2px dashed #eb0300;
+}
+.black-fri {
+	border: 2px dashed #000;
+}
+
+@media (min-width:768px) {
+	.day-block {
+		width: 32%;
+		margin: 0;
+		padding: 24px 16px;
+	}
+	.day-block .heading {
+		font-size: 20px;
+		margin-top: 0;
+	}
+	.day-block p, 
+	.day-block ul,
+	.day-block ol {
+		font-size: 16px;
+		margin-top: 8px;
+		line-height: 1.5;
+	}
+}		</style>
+			</head>
+	<body class="home blog wp-embed-responsive">
+			<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGXM5GV"
+	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-MGXM5GV');</script>
+	<!-- End Google Tag Manager -->
+			<header class="headernav">
+	<div class="headernav-heading">
+		<div class="headernav-site_title">
+			<a class="headernav-site_title-link" href="https://www.smartertravel.com/">
+				<svg viewBox="0 0 258 30" role="presentation" class="icon icon-logo" aria-label="logo"><title>Smarter Travel</title>
+	<path d="M11.9,6.7 C10.9,5.4 9.9,4.7 8.7,4.7 C7.9,4.7 7.1,5 6.5,5.5 C5.9,6 5.5,6.8 5.5,7.7 C5.5,8.5 5.8,9.2 6.3,9.9 C6.8,10.6 7.8,11.4 9.3,12.4 C10.5,13.2 11.4,14 12.3,14.7 C13.1,15.4 13.8,16.1 14.3,16.9 C14.8,17.6 15.2,18.4 15.4,19.1 C15.6,19.9 15.7,20.7 15.7,21.6 C15.7,22.7 15.5,23.7 15.1,24.6 C14.7,25.5 14.1,26.4 13.4,27 C12.7,27.7 11.9,28.2 10.9,28.6 C9.9,29 8.9,29.2 7.9,29.2 C6.4,29.2 5.1,28.9 3.8,28.3 C2.5,27.7 1.4,26.7 0.4,25.5 L4,22.4 C4.5,23.3 5.1,24 5.7,24.4 C6.3,24.8 7,25 7.8,25 C8.3,25 8.7,24.9 9.2,24.7 C9.6,24.5 10,24.3 10.3,23.9 C10.6,23.6 10.8,23.2 11,22.8 C11.2,22.4 11.3,21.9 11.3,21.4 C11.3,20.6 11,19.8 10.4,19 C9.8,18.2 8.7,17.2 7.1,16 C5,14.5 3.5,13.1 2.6,11.8 C1.7,10.5 1.3,9.1 1.3,7.6 C1.3,6.6 1.5,5.7 1.9,4.8 C2.3,3.9 2.8,3.1 3.5,2.5 C3.9,2 4.7,1.4 5.7,1 C6.6,0.6 7.6,0.4 8.7,0.4 C9.9,0.4 11.1,0.7 12.2,1.2 C13.3,1.7 14.4,2.6 15.4,3.9 L11.9,6.7 L11.9,6.7 Z" fill="#5C6670"></path>
+	<path d="M21.1,29 L21.1,0.7 L25,0.7 L30.9,14.8 L36.9,0.7 L40.7,0.7 L40.7,29 L36.6,29 L36.6,11.6 L30.9,24.3 L25.3,11.6 L25.3,29 L21.1,29 Z" fill="#5C6670"></path>
+	<path d="M45.7,29 C45.9,27.8 46.2,26.5 46.5,25.1 C46.8,23.9 47.1,22.4 47.5,20.7 C47.9,19 48.3,17.1 48.8,15 C49.3,13.1 49.7,11.2 50.1,9.5 C50.5,7.8 50.9,6.3 51.3,5 C51.7,3.5 52.1,2.1 52.5,0.8 L56.9,0.8 C57.3,2.1 57.7,3.5 58.1,5 C58.4,6.3 58.8,7.8 59.3,9.5 C59.7,11.2 60.2,13 60.6,15 C61.1,17.1 61.5,19 61.9,20.7 C62.3,22.4 62.6,23.9 62.9,25.1 C63.2,26.6 63.5,27.9 63.8,29 L59.1,29 C59,28.6 58.9,28.1 58.8,27.6 C58.7,27.1 58.6,26.6 58.5,26 C58.4,25.4 58.2,24.7 58.1,23.9 L51.3,23.9 C51.1,24.7 51,25.4 50.9,26 C50.8,26.6 50.7,27.1 50.6,27.6 C50.5,28.1 50.4,28.6 50.4,29 L45.7,29 L45.7,29 L45.7,29 Z M57.3,19.8 C56.9,17.9 56.6,16.2 56.3,14.7 C56,13.2 55.7,11.8 55.5,10.7 C55.2,9.4 54.9,8.2 54.7,7.1 C54.5,8.2 54.2,9.4 53.9,10.7 C53.7,11.8 53.4,13.2 53.1,14.7 C52.8,16.2 52.5,18 52.1,19.8 L57.3,19.8 L57.3,19.8 L57.3,19.8 Z" fill="#5C6670"></path>
+	<path d="M72.9,29 L68.6,29 L68.6,0.9 C69.1,0.8 69.7,0.7 70.4,0.6 C71.1,0.5 71.9,0.5 72.8,0.5 C74.4,0.5 75.9,0.7 77.4,1.2 C78.8,1.7 80.1,2.3 81.1,3.2 C82.2,4.1 83,5.2 83.6,6.4 C84.2,7.7 84.5,9.1 84.5,10.8 C84.5,12.4 84.1,14 83.4,15.5 C82.6,17 81.6,18.2 80.2,19.1 L84.6,29 L79.7,29 L76.2,20.6 C75.7,20.8 75.2,20.9 74.6,20.9 C74,21 73.5,21 72.8,21 L72.8,29 L72.9,29 L72.9,29 Z M80.3,10.6 C80.3,9.9 80.2,9.2 79.9,8.5 C79.6,7.8 79.2,7.2 78.6,6.6 C78,6 77.4,5.6 76.6,5.3 C75.8,5 74.9,4.8 73.9,4.8 L73.5,4.8 L73.1,4.8 L73.1,16.8 L73.3,16.8 C75.7,16.8 77.4,16.2 78.6,15.1 C79.7,14 80.3,12.5 80.3,10.6 L80.3,10.6 L80.3,10.6 Z" fill="#5C6670"></path>
+	<path d="M103.4,0.7 L103.4,4.9 L97.6,4.9 L97.6,29 L93.2,29 L93.2,4.9 L87.4,4.9 L87.4,0.7 L103.4,0.7 Z" fill="#5C6670"></path>
+	<path d="M121.9,0.7 L121.9,4.9 L112.3,4.9 L112.3,13.7 L121.4,13.7 L121.4,18 L112.3,18 L112.3,24.7 L121.9,24.7 L121.9,29 L108,29 L108,0.7 L121.9,0.7 Z" fill="#5C6670"></path>
+	<path d="M131.8,29 L127.5,29 L127.5,0.9 C128,0.8 128.6,0.7 129.3,0.6 C130,0.5 130.8,0.5 131.7,0.5 C133.3,0.5 134.8,0.7 136.3,1.2 C137.7,1.7 139,2.3 140,3.2 C141.1,4.1 141.9,5.2 142.5,6.4 C143.1,7.7 143.4,9.1 143.4,10.8 C143.4,12.4 143,14 142.3,15.5 C141.5,17 140.5,18.2 139.1,19.1 L143.5,29 L138.6,29 L135.1,20.6 C134.6,20.8 134.1,20.9 133.5,20.9 C132.9,21 132.4,21 131.7,21 L131.7,29 L131.8,29 L131.8,29 Z M139.2,10.6 C139.2,9.9 139.1,9.2 138.8,8.5 C138.5,7.8 138.1,7.2 137.5,6.6 C136.9,6 136.3,5.6 135.5,5.3 C134.7,5 133.8,4.8 132.8,4.8 L132.4,4.8 L132,4.8 L132,16.8 L132.2,16.8 C134.6,16.8 136.3,16.2 137.5,15.1 C138.6,14 139.2,12.5 139.2,10.6 L139.2,10.6 L139.2,10.6 Z" fill="#5C6670"></path>
+	<path d="M162.3,0.7 L162.3,4.9 L156.5,4.9 L156.5,29 L152.1,29 L152.1,4.9 L146.3,4.9 L146.3,0.7 L162.3,0.7 Z" fill="#0089BB"></path>
+	<path d="M170.9,29 L166.6,29 L166.6,0.9 C167.1,0.8 167.7,0.7 168.4,0.6 C169.1,0.5 169.9,0.5 170.8,0.5 C172.4,0.5 173.9,0.7 175.4,1.2 C176.8,1.7 178.1,2.3 179.1,3.2 C180.2,4.1 181,5.2 181.6,6.4 C182.2,7.7 182.5,9.1 182.5,10.8 C182.5,12.4 182.1,14 181.4,15.5 C180.6,17 179.6,18.2 178.2,19.1 L182.6,29 L177.7,29 L174.2,20.6 C173.7,20.8 173.2,20.9 172.6,20.9 C172,21 171.5,21 170.8,21 L170.8,29 L170.9,29 L170.9,29 Z M178.3,10.6 C178.3,9.9 178.2,9.2 177.9,8.5 C177.6,7.8 177.2,7.2 176.6,6.6 C176,6 175.4,5.6 174.6,5.3 C173.8,5 172.9,4.8 171.9,4.8 L171.5,4.8 L171.1,4.8 L171.1,16.8 L171.3,16.8 C173.7,16.8 175.4,16.2 176.6,15.1 C177.7,14 178.3,12.5 178.3,10.6 L178.3,10.6 L178.3,10.6 Z" fill="#0089BB"></path>
+	<path d="M185.4,29 C185.6,27.8 185.9,26.5 186.2,25.1 C186.5,23.9 186.8,22.4 187.2,20.7 C187.6,19 188,17.1 188.5,15 C189,13.1 189.4,11.2 189.8,9.5 C190.2,7.8 190.6,6.3 191,5 C191.4,3.5 191.8,2.1 192.2,0.8 L196.6,0.8 C197,2.1 197.4,3.5 197.8,5 C198.2,6.3 198.5,7.8 199,9.5 C199.4,11.2 199.9,13 200.3,15 C200.8,17.1 201.2,19 201.6,20.7 C202,22.4 202.3,23.9 202.6,25.1 C202.9,26.6 203.2,27.9 203.5,29 L198.8,29 C198.7,28.6 198.6,28.1 198.5,27.6 C198.4,27.1 198.3,26.6 198.2,26 C198.1,25.4 197.9,24.7 197.8,23.9 L191,23.9 C190.8,24.7 190.7,25.4 190.6,26 C190.5,26.6 190.4,27.1 190.3,27.6 C190.2,28.1 190.1,28.6 190.1,29 L185.4,29 L185.4,29 L185.4,29 Z M197.1,19.8 C196.7,17.9 196.4,16.2 196.1,14.7 C195.8,13.2 195.5,11.8 195.3,10.7 C195,9.4 194.7,8.2 194.5,7.1 C194.3,8.2 194,9.4 193.7,10.7 C193.5,11.8 193.2,13.2 192.9,14.7 C192.6,16.2 192.3,18 191.9,19.8 L197.1,19.8 L197.1,19.8 L197.1,19.8 Z" fill="#0089BB"></path>
+	<path d="M222,0.7 L215.3,29 L210,29 L203.4,0.7 L208.2,0.7 L212.7,23.7 L217.2,0.7 L222,0.7 Z" fill="#0089BB"></path>
+	<path d="M240,0.7 L240,4.9 L230.4,4.9 L230.4,13.7 L239.4,13.7 L239.4,18 L230.4,18 L230.4,24.7 L240,24.7 L240,29 L226.1,29 L226.1,0.7 L240,0.7 Z" fill="#0089BB"></path>
+	<path d="M257.5,24.7 L257.5,29 L244.8,29 L244.8,0.7 L249.2,0.7 L249.2,24.7 L257.5,24.7 Z" fill="#0089BB"></path>
+</svg>			</a>
+		</div>
+	</div>
+
+	<nav class="headernav-nav"><ul id="menu-top-menu" class="headernav-menu"><li id="menu-item-96571" class="menu-item menu-item-type-taxonomy menu-item-object-st_article_types menu-item-96571 headernav-menu-item"><a href="https://www.smartertravel.com/article-types/expert-tips/" class="headernav-menu-link"><span>Expert Tips</span></a></li>
+<li id="menu-item-96580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96580 headernav-menu-item"><a href="https://www.smartertravel.com/destinations/" class="headernav-menu-link"><span>Destinations</span></a></li>
+<li id="menu-item-96574" class="menu-item menu-item-type-taxonomy menu-item-object-st_article_types menu-item-96574 headernav-menu-item"><a href="https://www.smartertravel.com/article-types/latest-news/" class="headernav-menu-link"><span>Latest News</span></a></li>
+<li id="menu-item-96577" class="menu-item menu-item-type-taxonomy menu-item-object-st_article_types menu-item-96577 headernav-menu-item"><a href="https://www.smartertravel.com/article-types/travel-gear/" class="headernav-menu-link"><span>Travel Gear</span></a></li>
+<li id="menu-item-96583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96583 headernav-menu-item"><a href="https://hotels.smartertravel.com/?audit=T&#038;utm_medium=referral&#038;utm_source=smartertravel&#038;utm_content=navlink" class="headernav-menu-link"><span>Hotels</span></a></li>
+</ul>
+		<div class="headernav-submenu">
+			<div class="headernav-submenu-content">
+				<div class="headernav-submenu-deals">
+					<a href="https://www.smartertravel.com/deals/airfare">
+						<div class="headernav-submenu-deals-item">
+							<span class="headernav-submenu-deals-item-icon"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-plane" aria-label="plane"><path d="M22.2 3.4c-.9 0-1.8 0-2.2.4l-3.5 4H2.7l-.9 1.4 9.7 3.1-2.6 3.5h-4l-1.3 1.3 2.7.9v1.3c0 .5.4.9.9.9h1.3l.9 2.6 1.3-1.3v-4l3.5-2.6 3.1 9.7 1.3-.9V10l4-3.5c.4-.4.4-1.3.4-2.2 0-.4-.4-.9-.8-.9"/></svg></span>
+							<span class="headernav-submenu-deals-item-text">flights</span>
+						</div>
+					</a>
+					<a href="https://www.smartertravel.com/deals/vacation-package">
+						<div class="headernav-submenu-deals-item">
+							<span class="headernav-submenu-deals-item-icon"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-vacation" aria-label="vacation"><path d="M6.7 8.9c-.9 1.6-1.3 3.7.3 7.9 0-2.2 1.6-5.6 2.6-6.6 1.3 0 2.6 1.3 2.6 1.3 0-1.3-.3-2-.8-2.8 2-.1 5.2.2 6 2.8-1.3-4-3.9-5.3-5.2-5.3 1.3-1.3 1.3-1.3 3.9-1.3-4-3-6.5-.6-7.4.6-.4-.8-.4-2.3-.4-3.2 0 0-1.3 1.4-1.6 3.1-1.6-.5-3.3-1.8-3.3-1.8.6.6 1.3 2.6 1.8 2.9-2.1 1.7-1.8 6.3-1.8 6.3 1.2-2.4 2.1-3.7 3.3-3.9"/><path d="M18.2 19.6c-.9-1.6-2.7-4.8-4.7-7.4 0 0-2.5-.1-2.6-.2 1.6 2.2 3.2 5 3.8 7.3-4.2.2-7.7 1.7-9.3 3.9h18.9c-1.4-1.7-3.2-3-6.1-3.6"/></svg></span>
+							<span class="headernav-submenu-deals-item-text">vacations</span>
+						</div>
+					</a>
+					<a href="https://www.smartertravel.com/deals/hotel">
+						<div class="headernav-submenu-deals-item">
+							<span class="headernav-submenu-deals-item-icon"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-hotel" aria-label="hotel"><path d="M23.4 13.2v-.5c0-.9-.4-1.6-1.1-2.2-.8-.6-1.7-.9-2.7-.9h-7.1c-.2 0-.3.1-.5.2-.1.1-.2.2-.2.4v3.1h11.6zm-12.3-2.1c0-.6-.3-1.1-.8-1.5S9.2 9 8.5 9s-1.3.2-1.8.6-.8.9-.8 1.5.3 1.1.8 1.5c.5.4 1.1.6 1.8.6s1.3-.2 1.8-.6c.6-.4.8-.9.8-1.5zm-5.8 2.6h17.5c.2 0 .3.1.5.2.1.1.2.2.2.4V18h-2.6v-2.1H5.3V18H2.7V8c0-.1.1-.3.2-.4.1-.1.3-.1.4-.1h1.3c.2 0 .3.1.5.2.1 0 .2.1.2.3v5.7z"/></svg></span>
+							<span class="headernav-submenu-deals-item-text">hotels</span>
+						</div>
+					</a>
+					<a href="https://www.smartertravel.com/deals/car-rental">
+						<div class="headernav-submenu-deals-item">
+							<span class="headernav-submenu-deals-item-icon"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-car" aria-label="car"><path d="M10.2 18.4h6.1c-.1.2-.2.5-.2.8 0 1 .8 1.8 1.8 1.8h1.2c1 0 1.8-.8 1.8-1.8 0-.3-.1-.6-.2-.8h.7c.6 0 1.1-.5 1.1-1.1v-4.2c0-.6-.5-1.1-1.1-1.1H21l-2.2-4.3c-.5-1.3-1.6-1.2-1.6-1.2h-1.5v-.2c0-.6-.5-1.1-1.1-1.1h-2.9c-.6 0-1.1.5-1.1 1.1v.2H9.4C8 6.5 7.5 7.7 7.5 7.7L5.3 12h-.4c-.6 0-1.1.5-1.1 1.1v4.2c0 .6.5 1.1 1.1 1.1h.7c-.1.2-.2.5-.2.8 0 1 .8 1.8 1.8 1.8h1.2c1 0 1.8-.8 1.8-1.8.2-.3.1-.6 0-.8zm10-3.1c0 .5-.4.9-.9.9s-.9-.4-.9-.9.4-.9.9-.9.9.4.9.9zM9 8.2h8.5l1.9 3.8H7.1L9 8.2zm-1.8 6.2c.5 0 .9.4.9.9s-.4.9-.9.9-.9-.4-.9-.9c-.1-.5.4-.9.9-.9z"/></svg></span>
+							<span class="headernav-submenu-deals-item-text">cars</span>
+						</div>
+					</a>
+				</div>
+				<div class="headernav-submenu-buttons">
+					<a href="https://www.smartertravel.com/deals" class="headernav-submenu-buttons-button">
+						<span>
+							All Deals						</span>
+					</a>
+					<a href="https://www.smartertravel.com/compare-prices/%20" class="headernav-submenu-buttons-button">
+						<span>
+							Compare Prices						</span>
+					</a>
+				</div>
+			</div>
+			<div class="headernav-submenu-newsletter">
+				<section class="subnav-newsletter st-newsletter js-st-newsletter-subscription-widget">
+			
+			<div>
+				<p class="subnav-newsletter-calltoaction st-newsletter-calltoaction">Get Daily Travel Tips &amp; Deals!</p>
+				<p class="disclaimer">By proceeding, you agree to our <a href="https://www.smartertravel.com/privacy-policy/">Privacy Policy</a> and <a href="https://www.smartertravel.com/terms-of-use/">Terms of Use</a>.</p>
+			</div>
+			<form class="subnav-newsletter-form js-newsletter-form st-newsletter-form">
+				<input name="email" class="subnav-newsletter-input st-newsletter-input" type="email" required="required" placeholder="enter your email address…">
+				<button class="subnav-newsletter-submit newsletter__submit">Sign Up</button>
+			</form>
+		</section>			</div>
+		</div>
+
+	</nav>	<nav id="headernav-social-js" class="headernav-social">
+		<ul>
+			<li id="more-networks" class="extra-networks">
+				<ul id="networks-follow" class="more-networks">
+					<li class="social-network show-desktop"><a href="http://www.instagram.com/smartertravel/" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-instagram" aria-label="instagram"><path d="M17.8 5.4H7.9c-1.3 0-2.5 1.1-2.5 2.4v9.8c0 1.3 1.1 2.4 2.5 2.4h9.9c1.3 0 2.5-1.1 2.5-2.4V7.8c-.1-1.3-1.2-2.4-2.5-2.4zm-7.6 6.4h5.3c.1.3.2.6.2.9 0 1.5-1.3 2.8-2.8 2.8S10 14.2 10 12.7c0-.3.1-.7.2-.9zm8.2 0v5.4c0 .5-.4.9-.9.9H8.2c-.5 0-.9-.4-.9-.9v-5.4h1.4c-.1.3-.1.6-.1.9 0 2.3 1.9 4.1 4.2 4.1 2.3 0 4.2-1.9 4.2-4.1 0-.3 0-.6-.1-.9h1.5zm0-3.2c0 .3-.2.5-.5.5H17c-.3 0-.5-.2-.5-.5v-.9c0-.3.2-.5.5-.5h.9c.3 0 .5.2.5.5v.9z"/></svg></a></li>
+					<li class="social-network show-desktop"><a href="https://www.youtube.com/channel/UCTV310vTfmE4NGTYgC10K9w" target="_blank"><svg width="30px" height="30px" viewBox="0 0 30 30" role="presentation" class="icon icon-youtube" aria-label="youtube"><g id="Combined-Shape-2" transform="translate(4.000000, 7.000000)">
+        <path d="M11.2381456,-0.000400693703 C12.4662491,0.00497043999 18.0777373,0.0533106432 19.6081432,0.488372472 C20.550551,0.751919542 21.2936034,1.52373596 21.5473285,2.50262508 C21.959632,4.0674358 21.9973651,7.11675776 22.0003561,7.85463808 L22.0001283,8.1114332 C21.9965187,8.69675332 21.9580167,11.8944308 21.5473285,13.5151276 C21.2936034,14.4940167 20.550551,15.2658332 19.6081432,15.5293802 C17.8864366,16 10.9996101,16 10.9996101,16 L10.9895659,15.9999946 C10.6968672,15.9997583 4.09224404,15.9891235 2.39107708,15.5105554 C1.44866925,15.2470084 0.705616928,14.475192 0.451891743,13.4963028 C0.0554461415,11.9479638 0.00589044138,8.90070081 -0.000304021142,8.16307786 L-0.000304021142,7.83662216 C0.00589044138,7.10234503 0.0554461415,4.0674358 0.451891743,2.50262508 C0.705616928,1.52373596 1.46679248,0.733094751 2.39107708,0.469547682 C3.92148296,0.0512189998 9.53297117,0.00473803517 10.7610747,-0.000426516462 Z M8.80669961,4.57335205 L8.80669961,11.4255759 L14.5336395,7.99946396 L8.80669961,4.57335205 Z" id="Combined-Shape"></path>
+    </g></svg></a></li>
+					<li class="social-network show-desktop"><a href="http://www.pinterest.com/smartertravel/" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-pinterest" aria-label="pinterest"><path d="M12.4 4.6c-2.7.3-5.3 2.5-5.4 5.6-.1 1.9.5 3.3 2.3 3.7.8-1.4-.3-1.7-.4-2.7-.7-4.1 4.7-6.9 7.5-4 1.9 2 .7 8.1-2.5 7.5-3-.6 1.5-5.5-.9-6.4-1.9-.8-3 2.4-2.1 3.9-.5 2.7-1.7 5.2-1.2 8.6 1.5-1.1 2-3.3 2.5-5.5.8.5 1.2 1 2.2 1 3.6.3 5.6-3.6 5.1-7.3-.6-3.1-3.7-4.8-7.1-4.4"/></svg></a></li>
+					<li class="social-network show-desktop"><a href="http://www.facebook.com/smartertravel" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-facebook" aria-label="facebook"><path d="M14.3 20.4h-2.7v-7.3H9.8v-2.5h1.8V9.1c0-2 .5-3.3 2.9-3.3h2v2.5h-1.2c-.9 0-1 .4-1 1v1.3h2.2l-.3 2.5h-1.9v7.3z"/></svg></a></li>
+					<li class="social-network hide-desktop"><a href="http://www.twitter.com/smartertravel" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-twitter" aria-label="twitter"><path d="M20.6 9.7c-.5.2-1.1.4-1.7.5.6-.4 1.1-1 1.3-1.6-.6.3-1.2.6-1.9.7-.5-.6-1.3-.9-2.1-.9-1.6 0-2.9 1.3-2.9 3 0 .2 0 .5.1.7-2.4-.1-4.6-1.3-6-3.1-.3.3-.4.8-.4 1.3 0 1 .5 1.9 1.3 2.5-.5 0-.9-.1-1.3-.4 0 1.4 1 2.6 2.3 2.9-.2.1-.5.1-.8.1-.2 0-.4 0-.5-.1.4 1.2 1.4 2 2.7 2.1-1 .8-2.3 1.3-3.6 1.3h-.7c1.3.8 2.8 1.3 4.5 1.3 5.4 0 8.3-4.5 8.3-8.5v-.4c.5-.3 1-.8 1.4-1.4"/></svg></a></li>
+				</ul>
+			</li>
+			<li id="expand-social" class="more_social"><svg viewBox="0 0 32 32" role="presentation" class="icon icon-ellipsis" aria-label="ellipsis"><title>ellipsis</title>
+    <path d="M26.4833333,16.18 C26.4833333,16.7520029 26.2796687,17.2416646 25.8723333,17.649 C25.464998,18.0563354 24.9666696,18.26 24.3773333,18.26 C23.8053305,18.26 23.3156687,18.0563354 22.9083333,17.649 C22.500998,17.2416646 22.2973333,16.7520029 22.2973333,16.18 C22.2973333,15.5906637 22.500998,15.0923354 22.9083333,14.685 C23.3156687,14.2776646 23.8053305,14.074 24.3773333,14.074 C24.9666696,14.074 25.464998,14.2776646 25.8723333,14.685 C26.2796687,15.0923354 26.4833333,15.5906637 26.4833333,16.18 L26.4833333,16.18 Z M18.5533333,16.18 C18.5533333,16.7520029 18.3496687,17.2416646 17.9423333,17.649 C17.534998,18.0563354 17.0366696,18.26 16.4473333,18.26 C15.8753305,18.26 15.3813354,18.0563354 14.9653333,17.649 C14.5493313,17.2416646 14.3413333,16.7520029 14.3413333,16.18 C14.3413333,15.5906637 14.5493313,15.0923354 14.9653333,14.685 C15.3813354,14.2776646 15.8753305,14.074 16.4473333,14.074 C17.0366696,14.074 17.534998,14.2776646 17.9423333,14.685 C18.3496687,15.0923354 18.5533333,15.5906637 18.5533333,16.18 L18.5533333,16.18 Z M10.6233333,16.18 C10.6233333,16.7520029 10.424002,17.2416646 10.0253333,17.649 C9.62666468,18.0563354 9.13266962,18.26 8.54333334,18.26 C7.95399706,18.26 7.45566871,18.0563354 7.04833334,17.649 C6.64099797,17.2416646 6.43733334,16.7520029 6.43733334,16.18 C6.43733334,15.5906637 6.64099797,15.0923354 7.04833334,14.685 C7.45566871,14.2776646 7.95399706,14.074 8.54333334,14.074 C9.13266962,14.074 9.62666468,14.2776646 10.0253333,14.685 C10.424002,15.0923354 10.6233333,15.5906637 10.6233333,16.18 L10.6233333,16.18 Z"/>
+</svg></li>
+
+		</ul>
+					<div class="nav-newsletter-signup">
+				<section class="header-newsletter st-newsletter js-st-newsletter-subscription-widget">
+			
+			<div>
+				<p class="header-newsletter-calltoaction st-newsletter-calltoaction">Get Daily Travel Tips &amp; Deals!</p>
+				<p class="disclaimer">By proceeding, you agree to our <a href="https://www.smartertravel.com/privacy-policy/">Privacy Policy</a> and <a href="https://www.smartertravel.com/terms-of-use/">Terms of Use</a>.</p>
+			</div>
+			<form class="header-newsletter-form js-newsletter-form st-newsletter-form">
+				<input name="email" class="header-newsletter-input st-newsletter-input" type="email" required="required" placeholder="your email…">
+				<button class="header-newsletter-submit newsletter__submit">Sign Up</button>
+			</form>
+		</section>			</div>
+			</nav>
+		<div id="headernav-search-js" class="headernav-search">
+		<form
+		role="search"
+        method="get"
+        action="https://www.smartertravel.com/"
+        >
+			<button id="search-icon" class="headernav-search-button"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-search" aria-label="search"><path d="M9.9 18.5c2.1 0 4.1-.8 5.6-2.1 0 .5.2 1.1.7 1.7l4.6 5.4c.8.9 2.1 1 2.9.2.8-.8.7-2.1-.2-2.9l-5.4-4.6c-.6-.5-1.2-.7-1.7-.7 1.3-1.5 2.1-3.5 2.1-5.6 0-4.8-3.9-8.6-8.6-8.6S1.3 5.1 1.3 9.8s3.9 8.7 8.6 8.7zm0-14.4c3.2 0 5.7 2.6 5.7 5.7 0 3.2-2.6 5.7-5.7 5.7S4.2 13 4.2 9.8c0-3.1 2.6-5.7 5.7-5.7z"/></svg></button>
+			<input type="text" name="s" class="headernav-search-input" placeholder="...begin search">
+		</form>
+	</div>
+	<div id="close-js" class="headernav-close">X</div>
+	
+	<button type="button" role="button" class="headernav-handle" aria-label="Toggle Navigation" aria-controls="menu" aria-expanded="false">
+		<div class="headernav-handle_hamburger-icon">
+      <span></span>
+    </div>
+	</button>
+	<nav class="offcanvas"><ul id="menu-top-menu-1" class="offcanvas-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-st_article_types menu-item-96571 offcanvas-menu-item"><a href="https://www.smartertravel.com/article-types/expert-tips/" class="offcanvas-menu-link"><span>Expert Tips</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96580 offcanvas-menu-item"><a href="https://www.smartertravel.com/destinations/" class="offcanvas-menu-link"><span>Destinations</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-st_article_types menu-item-96574 offcanvas-menu-item"><a href="https://www.smartertravel.com/article-types/latest-news/" class="offcanvas-menu-link"><span>Latest News</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-st_article_types menu-item-96577 offcanvas-menu-item"><a href="https://www.smartertravel.com/article-types/travel-gear/" class="offcanvas-menu-link"><span>Travel Gear</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96583 offcanvas-menu-item"><a href="https://hotels.smartertravel.com/?audit=T&#038;utm_medium=referral&#038;utm_source=smartertravel&#038;utm_content=navlink" class="offcanvas-menu-link"><span>Hotels</span></a></li>
+</ul>	<div id="offcanvas-search-js" class="offcanvas-search">
+		<form
+		role="search"
+        method="get"
+        action="https://www.smartertravel.com/"
+        >
+			<button id="search-icon" class="headernav-search-button"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-search" aria-label="search"><path d="M9.9 18.5c2.1 0 4.1-.8 5.6-2.1 0 .5.2 1.1.7 1.7l4.6 5.4c.8.9 2.1 1 2.9.2.8-.8.7-2.1-.2-2.9l-5.4-4.6c-.6-.5-1.2-.7-1.7-.7 1.3-1.5 2.1-3.5 2.1-5.6 0-4.8-3.9-8.6-8.6-8.6S1.3 5.1 1.3 9.8s3.9 8.7 8.6 8.7zm0-14.4c3.2 0 5.7 2.6 5.7 5.7 0 3.2-2.6 5.7-5.7 5.7S4.2 13 4.2 9.8c0-3.1 2.6-5.7 5.7-5.7z"/></svg></button>
+			<input type="text" name="s" class="headernav-search-input" placeholder="...begin search">
+		</form>
+	</div>
+	<div id="close-js" class="offcanvas-close">X</div>
+		<nav id="offcanvas-social-js" class="offcanvas-social">
+		<ul>
+			<li id="more-networks" class="extra-networks">
+				<ul id="networks-follow" class="more-networks">
+					<li class="social-network show-desktop"><a href="http://www.instagram.com/smartertravel/" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-instagram" aria-label="instagram"><path d="M17.8 5.4H7.9c-1.3 0-2.5 1.1-2.5 2.4v9.8c0 1.3 1.1 2.4 2.5 2.4h9.9c1.3 0 2.5-1.1 2.5-2.4V7.8c-.1-1.3-1.2-2.4-2.5-2.4zm-7.6 6.4h5.3c.1.3.2.6.2.9 0 1.5-1.3 2.8-2.8 2.8S10 14.2 10 12.7c0-.3.1-.7.2-.9zm8.2 0v5.4c0 .5-.4.9-.9.9H8.2c-.5 0-.9-.4-.9-.9v-5.4h1.4c-.1.3-.1.6-.1.9 0 2.3 1.9 4.1 4.2 4.1 2.3 0 4.2-1.9 4.2-4.1 0-.3 0-.6-.1-.9h1.5zm0-3.2c0 .3-.2.5-.5.5H17c-.3 0-.5-.2-.5-.5v-.9c0-.3.2-.5.5-.5h.9c.3 0 .5.2.5.5v.9z"/></svg></a></li>
+					<li class="social-network show-desktop"><a href="https://www.youtube.com/channel/UCTV310vTfmE4NGTYgC10K9w" target="_blank"><svg width="30px" height="30px" viewBox="0 0 30 30" role="presentation" class="icon icon-youtube" aria-label="youtube"><g id="Combined-Shape-2" transform="translate(4.000000, 7.000000)">
+        <path d="M11.2381456,-0.000400693703 C12.4662491,0.00497043999 18.0777373,0.0533106432 19.6081432,0.488372472 C20.550551,0.751919542 21.2936034,1.52373596 21.5473285,2.50262508 C21.959632,4.0674358 21.9973651,7.11675776 22.0003561,7.85463808 L22.0001283,8.1114332 C21.9965187,8.69675332 21.9580167,11.8944308 21.5473285,13.5151276 C21.2936034,14.4940167 20.550551,15.2658332 19.6081432,15.5293802 C17.8864366,16 10.9996101,16 10.9996101,16 L10.9895659,15.9999946 C10.6968672,15.9997583 4.09224404,15.9891235 2.39107708,15.5105554 C1.44866925,15.2470084 0.705616928,14.475192 0.451891743,13.4963028 C0.0554461415,11.9479638 0.00589044138,8.90070081 -0.000304021142,8.16307786 L-0.000304021142,7.83662216 C0.00589044138,7.10234503 0.0554461415,4.0674358 0.451891743,2.50262508 C0.705616928,1.52373596 1.46679248,0.733094751 2.39107708,0.469547682 C3.92148296,0.0512189998 9.53297117,0.00473803517 10.7610747,-0.000426516462 Z M8.80669961,4.57335205 L8.80669961,11.4255759 L14.5336395,7.99946396 L8.80669961,4.57335205 Z" id="Combined-Shape"></path>
+    </g></svg></a></li>
+					<li class="social-network show-desktop"><a href="http://www.pinterest.com/smartertravel/" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-pinterest" aria-label="pinterest"><path d="M12.4 4.6c-2.7.3-5.3 2.5-5.4 5.6-.1 1.9.5 3.3 2.3 3.7.8-1.4-.3-1.7-.4-2.7-.7-4.1 4.7-6.9 7.5-4 1.9 2 .7 8.1-2.5 7.5-3-.6 1.5-5.5-.9-6.4-1.9-.8-3 2.4-2.1 3.9-.5 2.7-1.7 5.2-1.2 8.6 1.5-1.1 2-3.3 2.5-5.5.8.5 1.2 1 2.2 1 3.6.3 5.6-3.6 5.1-7.3-.6-3.1-3.7-4.8-7.1-4.4"/></svg></a></li>
+					<li class="social-network show-desktop"><a href="http://www.facebook.com/smartertravel" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-facebook" aria-label="facebook"><path d="M14.3 20.4h-2.7v-7.3H9.8v-2.5h1.8V9.1c0-2 .5-3.3 2.9-3.3h2v2.5h-1.2c-.9 0-1 .4-1 1v1.3h2.2l-.3 2.5h-1.9v7.3z"/></svg></a></li>
+					<li class="social-network hide-desktop"><a href="http://www.twitter.com/smartertravel" target="_blank"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-twitter" aria-label="twitter"><path d="M20.6 9.7c-.5.2-1.1.4-1.7.5.6-.4 1.1-1 1.3-1.6-.6.3-1.2.6-1.9.7-.5-.6-1.3-.9-2.1-.9-1.6 0-2.9 1.3-2.9 3 0 .2 0 .5.1.7-2.4-.1-4.6-1.3-6-3.1-.3.3-.4.8-.4 1.3 0 1 .5 1.9 1.3 2.5-.5 0-.9-.1-1.3-.4 0 1.4 1 2.6 2.3 2.9-.2.1-.5.1-.8.1-.2 0-.4 0-.5-.1.4 1.2 1.4 2 2.7 2.1-1 .8-2.3 1.3-3.6 1.3h-.7c1.3.8 2.8 1.3 4.5 1.3 5.4 0 8.3-4.5 8.3-8.5v-.4c.5-.3 1-.8 1.4-1.4"/></svg></a></li>
+				</ul>
+			</li>
+			<li id="expand-social" class="more_social"><svg viewBox="0 0 32 32" role="presentation" class="icon icon-ellipsis" aria-label="ellipsis"><title>ellipsis</title>
+    <path d="M26.4833333,16.18 C26.4833333,16.7520029 26.2796687,17.2416646 25.8723333,17.649 C25.464998,18.0563354 24.9666696,18.26 24.3773333,18.26 C23.8053305,18.26 23.3156687,18.0563354 22.9083333,17.649 C22.500998,17.2416646 22.2973333,16.7520029 22.2973333,16.18 C22.2973333,15.5906637 22.500998,15.0923354 22.9083333,14.685 C23.3156687,14.2776646 23.8053305,14.074 24.3773333,14.074 C24.9666696,14.074 25.464998,14.2776646 25.8723333,14.685 C26.2796687,15.0923354 26.4833333,15.5906637 26.4833333,16.18 L26.4833333,16.18 Z M18.5533333,16.18 C18.5533333,16.7520029 18.3496687,17.2416646 17.9423333,17.649 C17.534998,18.0563354 17.0366696,18.26 16.4473333,18.26 C15.8753305,18.26 15.3813354,18.0563354 14.9653333,17.649 C14.5493313,17.2416646 14.3413333,16.7520029 14.3413333,16.18 C14.3413333,15.5906637 14.5493313,15.0923354 14.9653333,14.685 C15.3813354,14.2776646 15.8753305,14.074 16.4473333,14.074 C17.0366696,14.074 17.534998,14.2776646 17.9423333,14.685 C18.3496687,15.0923354 18.5533333,15.5906637 18.5533333,16.18 L18.5533333,16.18 Z M10.6233333,16.18 C10.6233333,16.7520029 10.424002,17.2416646 10.0253333,17.649 C9.62666468,18.0563354 9.13266962,18.26 8.54333334,18.26 C7.95399706,18.26 7.45566871,18.0563354 7.04833334,17.649 C6.64099797,17.2416646 6.43733334,16.7520029 6.43733334,16.18 C6.43733334,15.5906637 6.64099797,15.0923354 7.04833334,14.685 C7.45566871,14.2776646 7.95399706,14.074 8.54333334,14.074 C9.13266962,14.074 9.62666468,14.2776646 10.0253333,14.685 C10.424002,15.0923354 10.6233333,15.5906637 10.6233333,16.18 L10.6233333,16.18 Z"/>
+</svg></li>
+
+		</ul>
+			</nav>
+	
+	<div class="offcanvas-menu-newsletter">
+		<section class="offcanvas-newsletter st-newsletter js-st-newsletter-subscription-widget">
+			
+			<div>
+				<p class="offcanvas-newsletter-calltoaction st-newsletter-calltoaction">Get Daily Travel Tips &amp; Deals!</p>
+				<p class="disclaimer">By proceeding, you agree to our <a href="https://www.smartertravel.com/privacy-policy/">Privacy Policy</a> and <a href="https://www.smartertravel.com/terms-of-use/">Terms of Use</a>.</p>
+			</div>
+			<form class="offcanvas-newsletter-form js-newsletter-form st-newsletter-form">
+				<input name="email" class="offcanvas-newsletter-input st-newsletter-input" type="email" required="required" placeholder="your email…">
+				<button class="offcanvas-newsletter-submit newsletter__submit">Sign Up</button>
+			</form>
+		</section>	</div>
+
+	</nav></header>
+
+
+	<figure class="hero">
+				<a href="https://www.smartertravel.com/top-10-stunning-spring-destinations/">
+			<picture class="hero-picture">
+				<img
+					src="https://stmllc.wpenginepowered.com/wp-content/uploads/2017/06/mt-fuji-spring-cherry-blossoms-SIZED-DOWN-karn684-shutterstock_415251361-e1644861070520-1400x500.jpg"
+					alt="Mount Fuji with cherry blossoms in the foreground"
+					title="mt fuji spring cherry blossoms SIZED DOWN karn684 shutterstock_415251361"
+					class="hero-image"
+					nopin="nopin"
+					 data-pin-media="https://www.smartertravel.com/wp-content/uploads/2022/07/AdobeStock_61845643-1024x680.jpeg" data-pin-description="20 Gorgeous Hotels &#038; Resorts in Honolulu" 					data-object-fit="cover"
+					itemprop="image">
+			</picture>
+		</a>
+
+		<figcaption class="hero-group">
+			<h1 class="hero-heading">
+				<a href="https://www.smartertravel.com/top-10-stunning-spring-destinations/" class="hero-heading-link">Top 10 Stunning Spring Destinations</a>			</h1>
+			<div class="hero-author">
+				<a class="tile-provider" href="https://www.smartertravel.com/author/caroline_costello/">Caroline Costello</a>			</div>
+							<div class="hero-category">
+					<a href="https://www.smartertravel.com/category/cities/" class="hero-category-link">Cities</a>				</div>		</figcaption>
+	</figure>
+
+	<div class='tiles tiles--2 tiles-landing-hero tiles-landing-large-hero  tiles--top'>	<article class="tile tile--featured">
+
+		<h3 class="tile-title">
+			<a href="https://www.smartertravel.com/10-most-overrated-tourist-traps/">10 Most Overrated Tourist Traps</a>		</h3>
+
+		<a class="tile-image" href="https://www.smartertravel.com/10-most-overrated-tourist-traps/" tabindex="-1"><img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2013/01/AdobeStock_339657702-700x500.jpeg" alt="Times Square at night"></a><a class="tile-category" href="https://www.smartertravel.com/category/arts-and-culture/"> Arts &amp; Culture</a><a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+		<article class="tile tile--featured">
+
+		<h3 class="tile-title">
+			<a href="https://www.smartertravel.com/avoid-norovirus-traveling/">How to Avoid Norovirus When Traveling</a>		</h3>
+
+		<a class="tile-image" href="https://www.smartertravel.com/avoid-norovirus-traveling/" tabindex="-1"><img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_424385049-700x500.jpeg" alt="Close up of person washing hands"></a><a class="tile-category" href="https://www.smartertravel.com/category/health-and-wellness/"> Health &amp; Wellness</a><a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+	</div><div class='tiles tiles--3 tiles-landing-hero tiles-landing-large-hero '>	<article class="tile tile--featured">
+
+		<h3 class="tile-title">
+			<a href="https://www.smartertravel.com/things-you-didnt-know-about-tsa-precheck-global-entry/">8 Surprising Things You Didn’t Know About TSA PreCheck &amp; Global Entry</a>		</h3>
+
+		<a class="tile-image" href="https://www.smartertravel.com/things-you-didnt-know-about-tsa-precheck-global-entry/" tabindex="-1"><img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_92513656-375x250.jpeg" alt="Close up of person&#039;s hands putting phone in airport security line bin"></a><a class="tile-category" href="https://www.smartertravel.com/category/air-travel/"> Air Travel</a><a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+		<article class="tile tile--featured">
+
+		<h3 class="tile-title">
+			<a href="https://www.smartertravel.com/the-best-flight-booking-sites/">The 14 Best Flight Search Sites for Booking Cheap Airfare</a>		</h3>
+
+		<a class="tile-image" href="https://www.smartertravel.com/the-best-flight-booking-sites/" tabindex="-1"><img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2019/01/airplane-flying-over-paris-eiffel-tower-375x250.jpg" alt="airplane flying over eiffel tower in paris france"></a><a class="tile-category" href="https://www.smartertravel.com/category/booking-strategy/"> Booking Strategy</a><a class="tile-provider" href="https://www.smartertravel.com/author/carlunger/">Carl Unger</a>	</article>
+		<article class="tile tile--featured">
+
+		<h3 class="tile-title">
+			<a href="https://www.smartertravel.com/general-warning-info-mexico-city-warnings-dangers/">Traveling to Mexico? Here&#8217;s What You Need to Know: A Comprehensive Guide to the Safety Warnings and Precautions You Should Take Before Visiting Mexico</a>		</h3>
+
+		<a class="tile-image" href="https://www.smartertravel.com/general-warning-info-mexico-city-warnings-dangers/" tabindex="-1"><img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2017/02/AdobeStock_209557055-375x250.jpeg" alt="Panorama of Mexico City skyline on clear day"></a><a class="tile-category" href="https://www.smartertravel.com/category/safety/"> Safety</a><a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+	</div><section class="home-newsletter st-newsletter js-st-newsletter-subscription-widget">
+			
+			<div>
+				<p class="home-newsletter-calltoaction st-newsletter-calltoaction"><span class="newsletter-calltoaction-accent">Get our top travel tips and deals!</span> Sign up for our newsletter.</p>
+				<p class="disclaimer">By proceeding, you agree to our <a href="https://www.smartertravel.com/privacy-policy/">Privacy Policy</a> and <a href="https://www.smartertravel.com/terms-of-use/">Terms of Use</a>.</p>
+			</div>
+			<form class="home-newsletter-form js-newsletter-form st-newsletter-form">
+				<input name="email" class="home-newsletter-input st-newsletter-input" type="email" required="required" placeholder="enter your email address ...">
+				<button class="home-newsletter-submit newsletter__submit">Sign Up</button>
+			</form>
+		</section>	<section class="tiles tiles--2 tiles-contains-4">
+			<article
+		id="post-200791"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/honolulu-resorts/"
+				aria-label="This links to 20 Gorgeous Hotels &#038; Resorts in Honolulu."
+				 >
+				20 Gorgeous Hotels &#038; Resorts in Honolulu			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/honolulu-resorts/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to 20 Gorgeous Hotels &#038; Resorts in Honolulu."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2022/07/AdobeStock_61845643-700x500.jpeg" alt="Surfboards lined up on the beach in Waikiki, Honolulu, Hawaii" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/hotels-resorts/" title="View all posts in Hotels &amp; Resorts" class="tile-category"> Hotels &amp; Resorts</a> <a class="tile-provider" href="https://www.smartertravel.com/author/mjohnson/">Megan Johnson</a>	</article>
+
+		<article
+		id="post-94031"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/8-foods-you-should-never-eat-before-flying/"
+				aria-label="This links to 8 Foods You Should Never Eat Before Flying."
+				 >
+				8 Foods You Should Never Eat Before Flying			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/8-foods-you-should-never-eat-before-flying/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to 8 Foods You Should Never Eat Before Flying."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2019/04/mcdonalds-burger-hero-nt1920-700x500.jpg" alt="fast food burger and fries" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/in-flight-experience/" title="View all posts in In-Flight Experience" class="tile-category"> In-Flight Experience</a> <a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-448057"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/why-are-airplane-cabin-lights-dimmed-for-takeoff-and-landing/"
+				aria-label="This links to Why Are Airplane Cabin Lights Dimmed for Takeoff and Landing?."
+				 >
+				Why Are Airplane Cabin Lights Dimmed for Takeoff and Landing?			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/why-are-airplane-cabin-lights-dimmed-for-takeoff-and-landing/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Why Are Airplane Cabin Lights Dimmed for Takeoff and Landing?."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_41637435-scaled-e1678994960511-700x500.jpeg" alt="Empty airplane cabin with lights dimmed" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/in-flight-experience/" title="View all posts in In-Flight Experience" class="tile-category"> In-Flight Experience</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-421267"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/best-coffee-makers-delivery-services/"
+				aria-label="This links to The Best Coffee Machines and Delivery Services."
+				 >
+				The Best Coffee Machines and Delivery Services			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/best-coffee-makers-delivery-services/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The Best Coffee Machines and Delivery Services."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/04/Bodum-Pour-Over-Coffee-Maker-with-Permanent-Filter-hero-700x500.jpg" alt="Bodum Pour Over Coffee Maker with Permanent Filter" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/at-home/" title="View all posts in At Home" class="tile-category"> At Home</a> <a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+
+		</section>
+		<section class="tiles tiles--2 tiles-contains-4">
+			<article
+		id="post-294502"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/airplane-etiquette-violations/"
+				aria-label="This links to Airplane Etiquette Violations: 7 Ways to Make Enemies on a Plane."
+				 >
+				Airplane Etiquette Violations: 7 Ways to Make Enemies on a Plane			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/airplane-etiquette-violations/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Airplane Etiquette Violations: 7 Ways to Make Enemies on a Plane."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2019/04/man-plane-headache-700x500.png" alt="man airplane headache" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/etiquette/" title="View all posts in Travel Etiquette" class="tile-category"> Travel Etiquette</a> <a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-84993"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/reasons-you-smell-bad-when-traveling/"
+				aria-label="This links to 7 Reasons You Smell Bad When Traveling."
+				 >
+				7 Reasons You Smell Bad When Traveling			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/reasons-you-smell-bad-when-traveling/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to 7 Reasons You Smell Bad When Traveling."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2015/04/man-sunglasses-airplane-sitting-mobile-phone-700x500.jpg" alt="Man with dark hair is reading text message on mobile phone in airplane seat" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/health-and-wellness/" title="View all posts in Health &amp; Wellness" class="tile-category"> Health &amp; Wellness</a> <a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-447938"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/is-it-possible-to-open-emergency-exit-mid-flight/"
+				aria-label="This links to Is It Possible to Open the Door on a Plane Mid Flight?."
+				 >
+				Is It Possible to Open the Door on a Plane Mid Flight?			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/is-it-possible-to-open-emergency-exit-mid-flight/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Is It Possible to Open the Door on a Plane Mid Flight?."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_94058113-700x500.jpeg" alt="Close up of exit sign in exit row of plane" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/air-travel/" title="View all posts in Air Travel" class="tile-category"> Air Travel</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-447843"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/mistakes-you-can-make-at-an-all-inclusive-resort/"
+				aria-label="This links to The 5 Biggest Mistakes You Can Make at an All-Inclusive Resort."
+				 >
+				The 5 Biggest Mistakes You Can Make at an All-Inclusive Resort			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/mistakes-you-can-make-at-an-all-inclusive-resort/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The 5 Biggest Mistakes You Can Make at an All-Inclusive Resort."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_267619020-700x500.jpeg" alt="Senior couple relaxing by the pool at an all-inclusive resort" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/travel-tips-advice/" title="View all posts in Travel Tips &amp; Advice" class="tile-category"> Travel Tips &amp; Advice</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		</section>
+		<section class="speedbumps">
+		<a href="https://www.smartertravel.com/destinations/" class="speedbumps-section-link">        <picture class="speedbumps-picture">
+            <img
+                src="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/images/speedbump/travel-destinations-1.jpg"
+                alt=""
+                class="speedbumps-image"
+                data-object-fit="cover"
+                itemprop="image">
+        </picture>
+        </a>		<div class="speedbumps-section">
+			<h2 class="speedbumps-heading has-link">
+				<a href="https://www.smartertravel.com/destinations/" class="speedbumps-heading-link">Travel Destinations</a>			</h2>
+			<div class="speedbumps-group">
+									
+					<figure class="speedbump-item speedbump-item-1">
+						<a href="https://www.smartertravel.com/virtual-vacations-you-can-take-from-home/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/04/young-teenage-girl-sitting-by-the-window-and-working-on-a-laptop-computer-with-her-husky-dog-laying_t20_lRbr3o-scaled-e1585769100821-150x150.jpg" alt="woman sitting at window looking at laptop" title="woman sitting at window looking at laptop" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									32 Vacations You Can Take from Home								</h3>
+							</figcaption>
+						</a>
+					</figure>
+									
+					<figure class="speedbump-item speedbump-item-2">
+						<a href="https://www.smartertravel.com/hard-to-plan-dream-trips/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/03/Ecuador_Galapagos_Islands_Seals-150x150.jpg" alt="ecuador galapagos islands seal." title="Ecuador_Galapagos_Islands_Seals" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									8 Hard-to-Plan Dream Trips to Research at Home While You Have the Time								</h3>
+							</figcaption>
+						</a>
+					</figure>
+									
+					<figure class="speedbump-item speedbump-item-3">
+						<a href="https://www.smartertravel.com/virtual-tours-live-streams/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/03/sistine-chapel-ceiling-150x150.jpg" alt="sistine chapel ceiling vatican rome." title="sistine-chapel-ceiling" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									21 Sites Offering Virtual Tours and Live Streams for Travelers Stuck at Home								</h3>
+							</figcaption>
+						</a>
+					</figure>
+							</div>
+		</div>
+	</section>
+
+		<section class="tiles tiles--2 tiles-contains-4">
+			<article
+		id="post-93511"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/10-amazing-overwater-bungalows-you-can-sleep-in/"
+				aria-label="This links to The 19 Best Overwater Bungalows in the World."
+				 >
+				The 19 Best Overwater Bungalows in the World			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/10-amazing-overwater-bungalows-you-can-sleep-in/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The 19 Best Overwater Bungalows in the World."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2022/06/20-Best-Overwater-Bungalows-Feature-Image-700x400.jpg" alt="View of overwater bungalow at sunset" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/hotels-resorts/" title="View all posts in Hotels &amp; Resorts" class="tile-category"> Hotels &amp; Resorts</a> <a class="tile-provider" href="https://www.smartertravel.com/author/mjohnson/">Megan Johnson</a>	</article>
+
+		<article
+		id="post-170038"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/st-patricks-day-ireland-really-like/"
+				aria-label="This links to What St. Patrick&#8217;s Day in Ireland Is Really Like."
+				 >
+				What St. Patrick&#8217;s Day in Ireland Is Really Like			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/st-patricks-day-ireland-really-like/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to What St. Patrick&#8217;s Day in Ireland Is Really Like."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2017/04/AdobeStock_493481979-scaled-e1678122964325-700x500.jpeg" alt="Saint Patrick&#039;s Day parade in Dublin, Ireland in 2022" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/experiential-travel/" title="View all posts in Experiential Travel" class="tile-category"> Experiential Travel</a> <a class="tile-provider" href="https://www.smartertravel.com/author/shannon_mcmahon/">Shannon McMahon</a>	</article>
+
+		<article
+		id="post-265678"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/cheapest-caribbean-islands/"
+				aria-label="This links to The Cheapest Caribbean Islands to Find Your Paradise."
+				 >
+				The Cheapest Caribbean Islands to Find Your Paradise			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/cheapest-caribbean-islands/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The Cheapest Caribbean Islands to Find Your Paradise."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/03/AdobeStock_113838291-700x500.jpeg" alt="Aerial view of Montego Bay, Jamaica" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/island/" title="View all posts in Island" class="tile-category"> Island</a> <a class="tile-provider" href="https://www.smartertravel.com/author/sarahschlichter/">Sarah Schlichter</a>	</article>
+
+		<article
+		id="post-199466"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/american-parks-lottery-system/"
+				aria-label="This links to 5 American Parks You&#8217;ll Need to Win a Lottery to Visit."
+				 >
+				5 American Parks You&#8217;ll Need to Win a Lottery to Visit			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/american-parks-lottery-system/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to 5 American Parks You&#8217;ll Need to Win a Lottery to Visit."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2021/01/AdobeStock_48512186-700x500.jpeg" alt="The Wave" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/outdoors/" title="View all posts in Outdoors" class="tile-category"> Outdoors</a> <a class="tile-provider" href="https://www.smartertravel.com/author/caroline_morse/">Caroline Morse Teel</a>	</article>
+
+		</section>
+		<section class="speedbumps">
+		<a href="https://www.smartertravel.com/article-types/travel-gear/" class="speedbumps-section-link">        <picture class="speedbumps-picture">
+            <img
+                src="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/images/speedbump/travel-gear-1.jpg"
+                alt=""
+                class="speedbumps-image"
+                data-object-fit="cover"
+                itemprop="image">
+        </picture>
+        </a>		<div class="speedbumps-section">
+			<h2 class="speedbumps-heading has-link">
+				<a href="https://www.smartertravel.com/article-types/travel-gear/" class="speedbumps-heading-link">Travel Gear</a>			</h2>
+			<div class="speedbumps-group">
+									
+					<figure class="speedbump-item speedbump-item-1">
+						<a href="https://www.smartertravel.com/airbnb-refunds-covid19/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/04/lego-door_t20_nRY2o7-scaled-e1587586733539-150x150.jpg" alt="" title="lego-door-concept" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									OP-ED: Travelers Should Be Entitled to Airbnb Refunds During the COVID-19 Pandemic								</h3>
+							</figcaption>
+						</a>
+					</figure>
+							</div>
+		</div>
+	</section>
+
+		<section class="tiles tiles--2 tiles-contains-4">
+			<article
+		id="post-447780"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/travel-pillows-that-actually-work/"
+				aria-label="This links to 5 Travel Pillows That Actually Work."
+				 >
+				5 Travel Pillows That Actually Work			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/travel-pillows-that-actually-work/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to 5 Travel Pillows That Actually Work."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_368935350-scaled-e1678135066363-700x500.jpeg" alt="Travel neck pillow on top of rolling suitcase in light colored living room" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/travel-gear/" title="View all posts in Family Travel Gear" class="tile-category"> Family Travel Gear</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-423183"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/best-rfid-blocking-wallets/"
+				aria-label="This links to The 24 Best RFID Wallets to Protect Your Identity."
+				 >
+				The 24 Best RFID Wallets to Protect Your Identity			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/best-rfid-blocking-wallets/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The 24 Best RFID Wallets to Protect Your Identity."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/04/Man_holding_black_wallet_full_of_money-700x500.jpg" alt="Man standing holding black wallet full of money." data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/money/" title="View all posts in Money" class="tile-category"> Money</a> <a class="tile-provider" href="https://www.smartertravel.com/author/mjohnson/">Megan Johnson</a>	</article>
+
+		<article
+		id="post-157300"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/valentines-gifts-for-travelers/"
+				aria-label="This links to The Ultimate Valentine&#8217;s Day Gift Guide for Travelers."
+				 >
+				The Ultimate Valentine&#8217;s Day Gift Guide for Travelers			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/valentines-gifts-for-travelers/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The Ultimate Valentine&#8217;s Day Gift Guide for Travelers."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2022/01/AdobeStock_217569313-1-700x500.jpeg" alt="Silhouette of couple on swing on beach" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/romantic-travel/" title="View all posts in Romantic Travel" class="tile-category"> Romantic Travel</a> <a class="tile-provider" href="https://www.smartertravel.com/author/ashley_rossi/">Ashley Rossi</a>	</article>
+
+		<article
+		id="post-219155"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/multi-purpose-tools-travel/"
+				aria-label="This links to 7 Essential Multipurpose Tools for Travel."
+				 >
+				7 Essential Multipurpose Tools for Travel			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/multi-purpose-tools-travel/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to 7 Essential Multipurpose Tools for Travel."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2018/06/AdobeStock_417465769-700x500.jpeg" alt="Aerial view of person packing backpack surrounded by maps, a camera, a globe, and a hat" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/packing/" title="View all posts in Packing" class="tile-category"> Packing</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		</section>
+		<section class="speedbumps">
+		<a href="/article-types/latest-news/" class="speedbumps-section-link">        <picture class="speedbumps-picture">
+            <img
+                src="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/images/speedbump/latest-news-1.jpg"
+                alt=""
+                class="speedbumps-image"
+                data-object-fit="cover"
+                itemprop="image">
+        </picture>
+        </a>		<div class="speedbumps-section">
+			<h2 class="speedbumps-heading has-link">
+				<a href="/article-types/latest-news/" class="speedbumps-heading-link">Latest News</a>			</h2>
+			<div class="speedbumps-group">
+									
+					<figure class="speedbump-item speedbump-item-1">
+						<a href="https://www.smartertravel.com/canceled-flight-refund-rights/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2019/10/man-holding-luggage-airport-waiting-contributor-use-only-150x150.jpg" alt="business man with luggage airport seating area" title="man-holding-luggage-airport-waiting-contributor-use-only" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									OP-ED: You’re Entitled to a Refund for Any Canceled Flight, Even During a Pandemic								</h3>
+							</figcaption>
+						</a>
+					</figure>
+							</div>
+		</div>
+	</section>
+
+		<section class="tiles tiles--2 tiles-contains-4">
+			<article
+		id="post-447933"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/southwest-airlines-experiments-with-new-boarding-processes/"
+				aria-label="This links to Southwest Airlines Experiments With New Boarding Processes."
+				 >
+				Southwest Airlines Experiments With New Boarding Processes			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/southwest-airlines-experiments-with-new-boarding-processes/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Southwest Airlines Experiments With New Boarding Processes."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_516643592-scaled-e1678720294103-700x500.jpeg" alt="Wing of Southwest Airlines plane as seen from plane window" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/airline-industry-news/" title="View all posts in Airline Industry News" class="tile-category"> Airline Industry News</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-447794"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/lie-flat-economy-seats/"
+				aria-label="This links to Air New Zealand Will Offer Lie-Flat Economy Seats Next Year."
+				 >
+				Air New Zealand Will Offer Lie-Flat Economy Seats Next Year			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/lie-flat-economy-seats/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Air New Zealand Will Offer Lie-Flat Economy Seats Next Year."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/Skynest-feature-image-700x400.jpg" alt="People resting in Sky Nest, lay-flat economy seats on Air New Zealand that resemble bunk beds" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/airline-industry-news/" title="View all posts in Airline Industry News" class="tile-category"> Airline Industry News</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-447796"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/would-you-pay-extra-for-a-kid-free-flight/"
+				aria-label="This links to Would You Pay Extra for a Kid-Free Flight?."
+				 >
+				Would You Pay Extra for a Kid-Free Flight?			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/would-you-pay-extra-for-a-kid-free-flight/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Would You Pay Extra for a Kid-Free Flight?."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2023/03/AdobeStock_377905544-700x500.jpeg" alt="Empty plane cabin" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/in-flight-experience/" title="View all posts in In-Flight Experience" class="tile-category"> In-Flight Experience</a> <a class="tile-provider" href="https://www.smartertravel.com/author/cteel/">Caroline Morse Teel</a>	</article>
+
+		<article
+		id="post-280821"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/top-destinations-spring-break/"
+				aria-label="This links to The 8 Top Destinations for Spring Break 2023."
+				 >
+				The 8 Top Destinations for Spring Break 2023			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/top-destinations-spring-break/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to The 8 Top Destinations for Spring Break 2023."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2019/02/spring-break-destinations-feature-image-700x400.png" alt="Woman in pool surrounded by palm trees and umbrellas" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/category/booking-strategy/" title="View all posts in Booking Strategy" class="tile-category"> Booking Strategy</a> <a class="tile-provider" href="https://www.smartertravel.com/author/mjohnson/">Megan Johnson</a>	</article>
+
+		</section>
+		<section class="speedbumps">
+		<a href="https://www.smartertravel.com/deals/" class="speedbumps-section-link">        <picture class="speedbumps-picture">
+            <img
+                src="https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/images/speedbump/travel-deals-1.jpg"
+                alt=""
+                class="speedbumps-image"
+                data-object-fit="cover"
+                itemprop="image">
+        </picture>
+        </a>		<div class="speedbumps-section">
+			<h2 class="speedbumps-heading has-link">
+				<a href="https://www.smartertravel.com/deals/" class="speedbumps-heading-link">Travel Deals</a>			</h2>
+			<div class="speedbumps-group">
+									
+					<figure class="speedbump-item speedbump-item-1">
+						<a href="https://www.smartertravel.com/cheapest-caribbean-islands/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2020/03/AdobeStock_113838291-150x150.jpeg" alt="Aerial view of Montego Bay, Jamaica" title="Jamaica island, Montego Bay" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									The Cheapest Caribbean Islands to Find Your Paradise								</h3>
+							</figcaption>
+						</a>
+					</figure>
+									
+					<figure class="speedbump-item speedbump-item-2">
+						<a href="https://www.smartertravel.com/all-inclusive-vacations-under-500/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2010/01/cayman-islands-sunset-150x150.jpg" alt="sunset in cayman islands" title="cayman-islands-sunset" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									7 Tropical Vacations Under $500, Including Airfare and Hotel								</h3>
+							</figcaption>
+						</a>
+					</figure>
+									
+					<figure class="speedbump-item speedbump-item-3">
+						<a href="https://www.smartertravel.com/cheapest-places-to-fly-right-now/" class="speedbump-item-link">
+							<picture class="speedbump-item-picture">
+								<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2019/12/travel-cityscape-greece-hat-tourist-athens-girl-acropolis-view_t20_go984a-150x150.jpg" alt="Athens Greece cheapest places to fly spring." title="travel-cityscape-greece-hat-tourist-athens-girl-acropolis-view_t20_go984a" class="speedbump-item-image" data-object-fit="cover">							</picture>
+							<figcaption class="speedbump-item-caption">
+								<h3 class="speedbump-item-heading">
+									The 10 Cheapest Places to Fly This Spring (2020)								</h3>
+							</figcaption>
+						</a>
+					</figure>
+							</div>
+		</div>
+	</section>
+
+		<section class="tiles tiles--2 tiles-contains-4">
+			<article
+		id="post-74194"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/deals/shop-and-save-with-country-inns-suites/"
+				aria-label="This links to Shop and Save with Country Inns &amp; Suites."
+				 >
+				Shop and Save with Country Inns &amp; Suites			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/deals/shop-and-save-with-country-inns-suites/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Shop and Save with Country Inns &amp; Suites."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2015/09/Louisiana-New-Orleans-Bourbon-Street-Horse-Railing-Hero-700x500.jpg" alt="Shop and Save with Country Inns &amp; Suites" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/travel/hotel/" title="View all posts in Hotel &amp; Lodging Deals" class="tile-category"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon tile-icon" aria-label="hotel"><path d="M23.4 13.2v-.5c0-.9-.4-1.6-1.1-2.2-.8-.6-1.7-.9-2.7-.9h-7.1c-.2 0-.3.1-.5.2-.1.1-.2.2-.2.4v3.1h11.6zm-12.3-2.1c0-.6-.3-1.1-.8-1.5S9.2 9 8.5 9s-1.3.2-1.8.6-.8.9-.8 1.5.3 1.1.8 1.5c.5.4 1.1.6 1.8.6s1.3-.2 1.8-.6c.6-.4.8-.9.8-1.5zm-5.8 2.6h17.5c.2 0 .3.1.5.2.1.1.2.2.2.4V18h-2.6v-2.1H5.3V18H2.7V8c0-.1.1-.3.2-.4.1-.1.3-.1.4-.1h1.3c.2 0 .3.1.5.2.1 0 .2.1.2.3v5.7z"/></svg> Hotel &amp; Lodging Deals</a> <a class="tile-provider" href="https://www.smartertravel.com/author/patricia_magana/">Patricia Magaña</a>	</article>
+
+		<article
+		id="post-64066"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/deals/229-chicago-discounted-rates-and-free-breakfast/"
+				aria-label="This links to $229 &#8212; Chicago: Discounted Rates and Free Breakfast."
+				 >
+				$229 &#8212; Chicago: Discounted Rates and Free Breakfast			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/deals/229-chicago-discounted-rates-and-free-breakfast/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to $229 &#8212; Chicago: Discounted Rates and Free Breakfast."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2018/08/Untitled-design-1-1-700x500.png" alt="$229 &#8212; Chicago: Discounted Rates and Free Breakfast" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/travel/hotel/" title="View all posts in Hotel &amp; Lodging Deals" class="tile-category"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon tile-icon" aria-label="hotel"><path d="M23.4 13.2v-.5c0-.9-.4-1.6-1.1-2.2-.8-.6-1.7-.9-2.7-.9h-7.1c-.2 0-.3.1-.5.2-.1.1-.2.2-.2.4v3.1h11.6zm-12.3-2.1c0-.6-.3-1.1-.8-1.5S9.2 9 8.5 9s-1.3.2-1.8.6-.8.9-.8 1.5.3 1.1.8 1.5c.5.4 1.1.6 1.8.6s1.3-.2 1.8-.6c.6-.4.8-.9.8-1.5zm-5.8 2.6h17.5c.2 0 .3.1.5.2.1.1.2.2.2.4V18h-2.6v-2.1H5.3V18H2.7V8c0-.1.1-.3.2-.4.1-.1.3-.1.4-.1h1.3c.2 0 .3.1.5.2.1 0 .2.1.2.3v5.7z"/></svg> Hotel &amp; Lodging Deals</a> <a class="tile-price" href="https://www.smartertravel.com/deals/229-chicago-discounted-rates-and-free-breakfast/">$229+</a><a class="tile-provider" href="https://www.smartertravel.com/author/francesca_miele/">Francesca Miele</a>	</article>
+
+		<article
+		id="post-64047"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/deals/188-honolulu-save-on-oceanview-rooms/"
+				aria-label="This links to $188 &#8212; Honolulu: Save on Oceanview Rooms."
+				 >
+				$188 &#8212; Honolulu: Save on Oceanview Rooms			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/deals/188-honolulu-save-on-oceanview-rooms/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to $188 &#8212; Honolulu: Save on Oceanview Rooms."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2016/02/Honolulu-3-Hero-700x500.jpg" alt="$188 &#8212; Honolulu: Save on Oceanview Rooms" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/travel/hotel/" title="View all posts in Hotel &amp; Lodging Deals" class="tile-category"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon tile-icon" aria-label="hotel"><path d="M23.4 13.2v-.5c0-.9-.4-1.6-1.1-2.2-.8-.6-1.7-.9-2.7-.9h-7.1c-.2 0-.3.1-.5.2-.1.1-.2.2-.2.4v3.1h11.6zm-12.3-2.1c0-.6-.3-1.1-.8-1.5S9.2 9 8.5 9s-1.3.2-1.8.6-.8.9-.8 1.5.3 1.1.8 1.5c.5.4 1.1.6 1.8.6s1.3-.2 1.8-.6c.6-.4.8-.9.8-1.5zm-5.8 2.6h17.5c.2 0 .3.1.5.2.1.1.2.2.2.4V18h-2.6v-2.1H5.3V18H2.7V8c0-.1.1-.3.2-.4.1-.1.3-.1.4-.1h1.3c.2 0 .3.1.5.2.1 0 .2.1.2.3v5.7z"/></svg> Hotel &amp; Lodging Deals</a> <a class="tile-price" href="https://www.smartertravel.com/deals/188-honolulu-save-on-oceanview-rooms/">$188+</a><a class="tile-provider" href="https://www.smartertravel.com/author/abigail_lamay/">Abigail Lamay</a>	</article>
+
+		<article
+		id="post-122680"
+		class="tile ">
+				<h3 class="tile-title ">
+			<a 
+				href="https://www.smartertravel.com/deals/montego-bay-book-3-nights-get-4th-night-free/"
+				aria-label="This links to Montego Bay: Book 3 Nights, Get the 4th Night Free."
+				 >
+				Montego Bay: Book 3 Nights, Get the 4th Night Free			</a>
+		</h3>
+
+				<a 
+			href="https://www.smartertravel.com/deals/montego-bay-book-3-nights-get-4th-night-free/" 
+			class="tile-image" 
+			tab-index="-1"
+			aria-label="This links to Montego Bay: Book 3 Nights, Get the 4th Night Free."
+			 >
+			<img src="https://stmllc.wpenginepowered.com/wp-content/uploads/2016/06/Montego-Bay-Jamaica-Hero-700x500.jpg" alt="Montego Bay: Book 3 Nights, Get the 4th Night Free" data-object-fit="cover" itemprop="image" nopin="nopin">		</a>
+
+		<a href="https://www.smartertravel.com/travel/hotel/" title="View all posts in Hotel &amp; Lodging Deals" class="tile-category"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon tile-icon" aria-label="hotel"><path d="M23.4 13.2v-.5c0-.9-.4-1.6-1.1-2.2-.8-.6-1.7-.9-2.7-.9h-7.1c-.2 0-.3.1-.5.2-.1.1-.2.2-.2.4v3.1h11.6zm-12.3-2.1c0-.6-.3-1.1-.8-1.5S9.2 9 8.5 9s-1.3.2-1.8.6-.8.9-.8 1.5.3 1.1.8 1.5c.5.4 1.1.6 1.8.6s1.3-.2 1.8-.6c.6-.4.8-.9.8-1.5zm-5.8 2.6h17.5c.2 0 .3.1.5.2.1.1.2.2.2.4V18h-2.6v-2.1H5.3V18H2.7V8c0-.1.1-.3.2-.4.1-.1.3-.1.4-.1h1.3c.2 0 .3.1.5.2.1 0 .2.1.2.3v5.7z"/></svg> Hotel &amp; Lodging Deals</a> <a class="tile-provider" href="https://www.smartertravel.com/author/abigail_lamay/">Abigail Lamay</a>	</article>
+
+		</section>
+	
+		<footer class="footer" role="contentinfo">
+	<section class="footer-newsletter st-newsletter js-st-newsletter-subscription-widget">
+			
+			<div>
+				<p class="footer-newsletter-calltoaction st-newsletter-calltoaction">Travel Smarter! Sign up for our free newsletter.</p>
+				<p class="disclaimer">By proceeding, you agree to our <a href="https://www.smartertravel.com/privacy-policy/">Privacy Policy</a> and <a href="https://www.smartertravel.com/terms-of-use/">Terms of Use</a>.</p>
+			</div>
+			<form class="footer-newsletter-form js-newsletter-form st-newsletter-form">
+				<input name="email" class="footer-newsletter-input st-newsletter-input" type="email" required="required" placeholder="enter your email address ...">
+				<button class="footer-newsletter-submit newsletter__submit">Sign Up</button>
+			</form>
+		</section><nav class="footer-social">
+	<p class="footer-social-calltoaction">Connect With Us</p>
+	<ul class="footer-social-list">
+		<li><a href="https://www.instagram.com/smartertravel/"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-instagram" aria-label="instagram"><path d="M17.8 5.4H7.9c-1.3 0-2.5 1.1-2.5 2.4v9.8c0 1.3 1.1 2.4 2.5 2.4h9.9c1.3 0 2.5-1.1 2.5-2.4V7.8c-.1-1.3-1.2-2.4-2.5-2.4zm-7.6 6.4h5.3c.1.3.2.6.2.9 0 1.5-1.3 2.8-2.8 2.8S10 14.2 10 12.7c0-.3.1-.7.2-.9zm8.2 0v5.4c0 .5-.4.9-.9.9H8.2c-.5 0-.9-.4-.9-.9v-5.4h1.4c-.1.3-.1.6-.1.9 0 2.3 1.9 4.1 4.2 4.1 2.3 0 4.2-1.9 4.2-4.1 0-.3 0-.6-.1-.9h1.5zm0-3.2c0 .3-.2.5-.5.5H17c-.3 0-.5-.2-.5-.5v-.9c0-.3.2-.5.5-.5h.9c.3 0 .5.2.5.5v.9z"/></svg></a></li>
+		<li><a href="https://www.youtube.com/channel/UCTV310vTfmE4NGTYgC10K9w"><svg width="30px" height="30px" viewBox="0 0 30 30" role="presentation" class="icon icon-youtube" aria-label="youtube"><g id="Combined-Shape-2" transform="translate(4.000000, 7.000000)">
+        <path d="M11.2381456,-0.000400693703 C12.4662491,0.00497043999 18.0777373,0.0533106432 19.6081432,0.488372472 C20.550551,0.751919542 21.2936034,1.52373596 21.5473285,2.50262508 C21.959632,4.0674358 21.9973651,7.11675776 22.0003561,7.85463808 L22.0001283,8.1114332 C21.9965187,8.69675332 21.9580167,11.8944308 21.5473285,13.5151276 C21.2936034,14.4940167 20.550551,15.2658332 19.6081432,15.5293802 C17.8864366,16 10.9996101,16 10.9996101,16 L10.9895659,15.9999946 C10.6968672,15.9997583 4.09224404,15.9891235 2.39107708,15.5105554 C1.44866925,15.2470084 0.705616928,14.475192 0.451891743,13.4963028 C0.0554461415,11.9479638 0.00589044138,8.90070081 -0.000304021142,8.16307786 L-0.000304021142,7.83662216 C0.00589044138,7.10234503 0.0554461415,4.0674358 0.451891743,2.50262508 C0.705616928,1.52373596 1.46679248,0.733094751 2.39107708,0.469547682 C3.92148296,0.0512189998 9.53297117,0.00473803517 10.7610747,-0.000426516462 Z M8.80669961,4.57335205 L8.80669961,11.4255759 L14.5336395,7.99946396 L8.80669961,4.57335205 Z" id="Combined-Shape"></path>
+    </g></svg></a></li>
+		<li><a href="https://www.pinterest.com/smartertravel"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-pinterest" aria-label="pinterest"><path d="M12.4 4.6c-2.7.3-5.3 2.5-5.4 5.6-.1 1.9.5 3.3 2.3 3.7.8-1.4-.3-1.7-.4-2.7-.7-4.1 4.7-6.9 7.5-4 1.9 2 .7 8.1-2.5 7.5-3-.6 1.5-5.5-.9-6.4-1.9-.8-3 2.4-2.1 3.9-.5 2.7-1.7 5.2-1.2 8.6 1.5-1.1 2-3.3 2.5-5.5.8.5 1.2 1 2.2 1 3.6.3 5.6-3.6 5.1-7.3-.6-3.1-3.7-4.8-7.1-4.4"/></svg></a></li>
+		<li><a href="https://www.facebook.com/smartertravel"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-facebook" aria-label="facebook"><path d="M14.3 20.4h-2.7v-7.3H9.8v-2.5h1.8V9.1c0-2 .5-3.3 2.9-3.3h2v2.5h-1.2c-.9 0-1 .4-1 1v1.3h2.2l-.3 2.5h-1.9v7.3z"/></svg></a></li>
+		<li><a href="https://twitter.com/smartertravel"><svg viewBox="0 0 26.1 26.1" role="presentation" class="icon icon-twitter" aria-label="twitter"><path d="M20.6 9.7c-.5.2-1.1.4-1.7.5.6-.4 1.1-1 1.3-1.6-.6.3-1.2.6-1.9.7-.5-.6-1.3-.9-2.1-.9-1.6 0-2.9 1.3-2.9 3 0 .2 0 .5.1.7-2.4-.1-4.6-1.3-6-3.1-.3.3-.4.8-.4 1.3 0 1 .5 1.9 1.3 2.5-.5 0-.9-.1-1.3-.4 0 1.4 1 2.6 2.3 2.9-.2.1-.5.1-.8.1-.2 0-.4 0-.5-.1.4 1.2 1.4 2 2.7 2.1-1 .8-2.3 1.3-3.6 1.3h-.7c1.3.8 2.8 1.3 4.5 1.3 5.4 0 8.3-4.5 8.3-8.5v-.4c.5-.3 1-.8 1.4-1.4"/></svg></a></li>
+	</ul>
+</nav>
+<nav class="footer-navigation">
+	<ul class="footer-navigation-list footer-navigation-list-primary">
+		<li><a href="https://www.smartertravel.com/privacy-policy">Privacy and Cookies Statement</a></li>
+		<li><a href="https://www.smartertravel.com/terms-of-use">Terms of Use</a></li>
+		<li><a href="https://www.smartertravel.com/copyright-agent">Copyright Agent</a></li>
+		<li><a href="https://www.smartertravel.com/manage-subscriptions">Newsletters</a></li>
+		<li><a href="https://smartertravelmedia.zendesk.com/hc/en-us/requests/new?ticket_form_id=4416914546068" target="_blank">Contact Us</a></li>
+		<li><a href="https://www.smartertravel.com/about-us">About Us</a></li>
+	</ul>
+	<ul class="footer-navigation-list footer-navigation-list-secondary testing-qweqw">
+		<li><a href="https://www.smartertravel.com/help">Help</a></li>
+		<li><a href="https://www.smartertravel.com/advertise">Advertise</a></li>
+		<li><a href="https://www.smartertravel.com/careers/" target="_blank">Careers</a></li>
+		<li><a href="https://www.smartertravel.com/feed">RSS</a></li>
+		<li><a href="https://www.smartertravel.com/sitemap_index.xml">Site Map</a></li>
+	</ul>
+</nav><p class="footer-disclosure">
+	We hand-pick everything we recommend and select items through testing and reviews. Some products are sent to us free of charge with no incentive to offer a favorable review. We offer our unbiased opinions and do not accept compensation to review products. All items are in stock and prices are accurate at the time of publication. If you buy something through our links, we may earn a commission.</p><p class="footer-copyright">© 2023 Smarter Travel Media LLC. All Rights Reserved.</p>
+
+		<script data-cfasync="false" type='text/javascript'>
+			stshared_ads_manager.queue.push(function() {
+				freestar.newStickyFooter('smartertravel_adhesion');
+			});
+		</script>
+		</footer>
+		<!-- MS-CHK -->		<meta http-equiv="imagetoolbar" content="no"><!-- disable image toolbar (if any) -->
+		<style>
+			:root {
+				-webkit-user-select: none;
+				-webkit-touch-callout: none;
+				-ms-user-select: none;
+				-moz-user-select: none;
+				user-select: none;
+			}
+		</style>
+		<script type="text/javascript">
+			/*<![CDATA[*/
+			document.oncontextmenu = function(event) {
+				if (event.target.tagName != 'INPUT' && event.target.tagName != 'TEXTAREA') {
+					event.preventDefault();
+				}
+			};
+			document.ondragstart = function() {
+				if (event.target.tagName != 'INPUT' && event.target.tagName != 'TEXTAREA') {
+					event.preventDefault();
+				}
+			};
+			/*]]>*/
+		</script>
+		<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.7"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ui_atversion":"300"}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.7","plugin_mode":"AddThis","anonymous_profile_id":"wp-a9ca9a2e51dc26dc0fa2bac8069c71fa","page_info":{"template":"home","post_type":["post","st_deals"]},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script class='optanon-category-C0004' data-cfasync="false" type="text/plain" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab968a1f65661cd" async="async"></script><script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.8.4/modules/contact-form/js/form-styles.js' id='contact-form-styles-js'></script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/plugins/smartertravel-shared/assets/js/set-up-cross-site-cookies.min.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='st-cross-site-tracking-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' id='st-shared-plugin-js-js-extra'>
+/* <![CDATA[ */
+var STSharedTracking = [];
+var StSharedTAPricing = {"i18n":{"string":"String"},"config":{"apiURL":"https:\/\/p.meta.smartertravel.com\/api\/hotelPricing\/byHotelIds?key=4e75c4ad-ba28-405c-90c4-94dee4991585&referring_domain=smartertravel.com&mcid=18671","isDebug":false}};
+var StSharedMCIDs = {"web":"18671"};
+var stsharedNewsLetter = {"restURL":"https:\/\/www.smartertravel.com\/wp-json\/st\/v1\/newsletter","isDebug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' id='st-shared-plugin-js-js-before'>
+/* <![CDATA[ */ var __stsharedTrackingObj = {"pageName":"home","pageType":"entry","pageTemplate":"","articleDetails":{"title":"","author":"","category":"","publish_date":"","travel_type":"","provider":"","location1":"","location2":"","price":""},"fareDetails":{"date1":"","date2":"","airline":"","location1":"\"\"","location2":"\"\"","price":""},"userWishList":"","audience":null}; /* ]]> */
+</script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/plugins/smartertravel-shared/assets/js/smartertravel-shared-plugin.min.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='st-shared-plugin-js-js'></script>
+<script type='text/javascript' id='st-app-js-extra'>
+/* <![CDATA[ */
+var SmarterTravelParams = {"awdUrl":"https:\/\/www.smartertravel.com\/departure-city-fares\/","destinationAirportCode":"","awdClient":{"url":"https:\/\/awdapi.airfarewatchdog.com:8443\/airfarewatchdog","sourceId":"60965","apiKey":"c37233dc874042b2c226e65c71c7fa4d"},"templates":{"comparisonSearch":"\t<div class=\"comparison\">\n\t\t<h1 class=\"comparison-heading\">Compare Prices<\/h1>\n\n\t\t<div class=\"comparison-search-group\">\n\t\t\t<form class=\"js-newsletter-form\">\n\t\t\t\t<div class=\"comparison-search-tabs\">\n\t\t\t\t\t\t\t\t\t\t\t<a data-search-type=\"air\"\n\t\t\t\t\t\t   class=\"button button-tab button-tab-0\">\n\t\t\t\t\t\t\t<svg viewBox=\"0 0 26.1 26.1\" role=\"presentation\" class=\"icon button-icon is-left\" aria-label=\"plane\"><path d=\"M22.2 3.4c-.9 0-1.8 0-2.2.4l-3.5 4H2.7l-.9 1.4 9.7 3.1-2.6 3.5h-4l-1.3 1.3 2.7.9v1.3c0 .5.4.9.9.9h1.3l.9 2.6 1.3-1.3v-4l3.5-2.6 3.1 9.7 1.3-.9V10l4-3.5c.4-.4.4-1.3.4-2.2 0-.4-.4-.9-.8-.9\"\/><\/svg>\t\t\t\t\t\t\t<span class=\"button-text\">\n\t\t\t\t\t\tFlight\t\t\t\t\t<\/span>\n\t\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t\t\t\t\t<a data-search-type=\"vacation\"\n\t\t\t\t\t\t   class=\"button button-tab button-tab-1\">\n\t\t\t\t\t\t\t<svg viewBox=\"0 0 26.1 26.1\" role=\"presentation\" class=\"icon button-icon is-left\" aria-label=\"vacation\"><path d=\"M6.7 8.9c-.9 1.6-1.3 3.7.3 7.9 0-2.2 1.6-5.6 2.6-6.6 1.3 0 2.6 1.3 2.6 1.3 0-1.3-.3-2-.8-2.8 2-.1 5.2.2 6 2.8-1.3-4-3.9-5.3-5.2-5.3 1.3-1.3 1.3-1.3 3.9-1.3-4-3-6.5-.6-7.4.6-.4-.8-.4-2.3-.4-3.2 0 0-1.3 1.4-1.6 3.1-1.6-.5-3.3-1.8-3.3-1.8.6.6 1.3 2.6 1.8 2.9-2.1 1.7-1.8 6.3-1.8 6.3 1.2-2.4 2.1-3.7 3.3-3.9\"\/><path d=\"M18.2 19.6c-.9-1.6-2.7-4.8-4.7-7.4 0 0-2.5-.1-2.6-.2 1.6 2.2 3.2 5 3.8 7.3-4.2.2-7.7 1.7-9.3 3.9h18.9c-1.4-1.7-3.2-3-6.1-3.6\"\/><\/svg>\t\t\t\t\t\t\t<span class=\"button-text\">\n\t\t\t\t\t\tVacations\t\t\t\t\t<\/span>\n\t\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t\t\t\t\t<a data-search-type=\"hotel\"\n\t\t\t\t\t\t   class=\"button button-tab button-tab-2\">\n\t\t\t\t\t\t\t<svg viewBox=\"0 0 26.1 26.1\" role=\"presentation\" class=\"icon button-icon is-left\" aria-label=\"hotel\"><path d=\"M23.4 13.2v-.5c0-.9-.4-1.6-1.1-2.2-.8-.6-1.7-.9-2.7-.9h-7.1c-.2 0-.3.1-.5.2-.1.1-.2.2-.2.4v3.1h11.6zm-12.3-2.1c0-.6-.3-1.1-.8-1.5S9.2 9 8.5 9s-1.3.2-1.8.6-.8.9-.8 1.5.3 1.1.8 1.5c.5.4 1.1.6 1.8.6s1.3-.2 1.8-.6c.6-.4.8-.9.8-1.5zm-5.8 2.6h17.5c.2 0 .3.1.5.2.1.1.2.2.2.4V18h-2.6v-2.1H5.3V18H2.7V8c0-.1.1-.3.2-.4.1-.1.3-.1.4-.1h1.3c.2 0 .3.1.5.2.1 0 .2.1.2.3v5.7z\"\/><\/svg>\t\t\t\t\t\t\t<span class=\"button-text\">\n\t\t\t\t\t\tHotels\t\t\t\t\t<\/span>\n\t\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t\t\t\t\t<a data-search-type=\"car\"\n\t\t\t\t\t\t   class=\"button button-tab button-tab-3\">\n\t\t\t\t\t\t\t<svg viewBox=\"0 0 26.1 26.1\" role=\"presentation\" class=\"icon button-icon is-left\" aria-label=\"car\"><path d=\"M10.2 18.4h6.1c-.1.2-.2.5-.2.8 0 1 .8 1.8 1.8 1.8h1.2c1 0 1.8-.8 1.8-1.8 0-.3-.1-.6-.2-.8h.7c.6 0 1.1-.5 1.1-1.1v-4.2c0-.6-.5-1.1-1.1-1.1H21l-2.2-4.3c-.5-1.3-1.6-1.2-1.6-1.2h-1.5v-.2c0-.6-.5-1.1-1.1-1.1h-2.9c-.6 0-1.1.5-1.1 1.1v.2H9.4C8 6.5 7.5 7.7 7.5 7.7L5.3 12h-.4c-.6 0-1.1.5-1.1 1.1v4.2c0 .6.5 1.1 1.1 1.1h.7c-.1.2-.2.5-.2.8 0 1 .8 1.8 1.8 1.8h1.2c1 0 1.8-.8 1.8-1.8.2-.3.1-.6 0-.8zm10-3.1c0 .5-.4.9-.9.9s-.9-.4-.9-.9.4-.9.9-.9.9.4.9.9zM9 8.2h8.5l1.9 3.8H7.1L9 8.2zm-1.8 6.2c.5 0 .9.4.9.9s-.4.9-.9.9-.9-.4-.9-.9c-.1-.5.4-.9.9-.9z\"\/><\/svg>\t\t\t\t\t\t\t<span class=\"button-text\">\n\t\t\t\t\t\tCars\t\t\t\t\t<\/span>\n\t\t\t\t\t\t<\/a>\n\t\t\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t<div class=\"comparison-search-content\">\n\t\t\t\t\t<div id=\"comparison-search-react-component\"><\/div>\n\t\t\t\t\t<div class=\"comparison-enable-departure-subscription comparison-search-form-group\"<% if ( ! departureAirportCode ) { %> style=\"display: none;\"<% } %>>\n                        \t\t\t\t\t\t<input type=\"checkbox\" id=\"comparison-search-form-checkbox\" class=\"comparison-search-form-checkbox st-enable-user-subscription\">\n\t\t\t\t\t\t<label for=\"comparison-search-form-checkbox\" class=\"comparison-search-form-checkbox-label\">\n\t\t\t\t\t\t\t<svg viewBox=\"0 0 26 23\" role=\"presentation\" class=\"icon comparison-search-form-checkbox-icon\" aria-label=\"check\"><defs><path d=\"M22.1481311,3.18376204 C21.8021837,2.90026336 21.2917694,2.95034005 21.0078008,3.2956269 L8.61202532,18.3565951 L4.38287838,14.1408648 C4.06690764,13.8254624 3.55365772,13.8254624 3.23728188,14.1408648 C2.92090604,14.4562671 2.92090604,14.967534 3.23728188,15.2829363 L8.0983703,20.1290676 C8.25068441,20.280913 8.45687558,20.3657203 8.67116856,20.3657203 C8.68453655,20.3657203 8.69790454,20.3653165 8.71086745,20.3649126 C8.9393386,20.353605 9.15241631,20.2465863 9.29784387,20.0701063 L22.2607463,4.32017981 C22.5443098,3.97570065 22.4940786,3.46645303 22.1481311,3.18376204\" id=\"path-1\"><\/path><filter x=\"-50%\" y=\"-50%\" width=\"200%\" height=\"200%\" filterUnits=\"objectBoundingBox\" id=\"filter-2\"><feMorphology radius=\"1.30000001\" operator=\"dilate\" in=\"SourceAlpha\" result=\"shadowSpreadOuter1\"><\/feMorphology><feOffset dx=\"0\" dy=\"0\" in=\"shadowSpreadOuter1\" result=\"shadowOffsetOuter1\"><\/feOffset><feComposite in=\"shadowOffsetOuter1\" in2=\"SourceAlpha\" operator=\"out\" result=\"shadowOffsetOuter1\"><\/feComposite><feColorMatrix values=\"0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0\" type=\"matrix\" in=\"shadowOffsetOuter1\"><\/feColorMatrix><\/filter><\/defs><g id=\"Page-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Fill-1\"><use fill=\"black\" fill-opacity=\"1\" filter=\"url(#filter-2)\" xlink:href=\"#path-1\"><\/use><use stroke=\"#E7745C\" stroke-width=\"1\" fill=\"#E7745C\" fill-rule=\"evenodd\" xlink:href=\"#path-1\"><\/use><\/g><\/g><\/svg>\n\t\t\t\t\t\t\t<span class=\"comparison-search-form-checkbox-label-text\">\n\t\t\t\t\t\t\t\t<span class=\"comparison-destination-flight-text\">\n\t\t\t\t\t\t\t\tSend me low fares from <span class=\"comparison-departure-city-code\"><%= departureAirportCode %><\/span><span class=\"comparison-destination-city-code\"><% if ( destinationAirportCode ) { %> to <% } %><%= destinationAirportCode %><\/span>\t\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t\t\t<span class=\"comparison-destination-default-text\">Send me daily deals and travel tips<\/span>\n\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t<\/label>\n\t\t\t\t\t<\/div>\n\n\t\t\t\t\t<div class=\"comparison-search-form-group\">\n\t\t\t\t\t\t<input type=\"email\" class=\"st-newsletter-input js-st-newsletter-subscription-widget comparison-search-form-input ux-hidden\" aria-hidden=\"true\" placeholder=\"Email Address (optional)&hellip;\">\n\t\t\t\t\t<\/div>\n\t\t\t\t\t<button id=\"comparison-search-submit\" class=\"button button-dark-alt\">\n\t\t\t\t\t\t<span class=\"button-text\">Compare Prices<\/span>\n\t\t\t\t\t\t<svg viewBox=\"0 0 7 11\" role=\"presentation\" class=\"icon button-icon is-right\" aria-label=\"arrow-right\"><path d=\"M7.6483193,2.94820039 L3.62745825,7.05007288 L-0.373907713,2.9672596 L-0.948200392,3.55395166 L1.34490885,5.89326197 L3.05397787,7.63593628 L3.62745825,8.22179968 L4.20175093,7.63593628 L5.15782234,6.66060216 L8.22179968,3.5340638 L7.6483193,2.94820039 Z\" transform=\"translate(3.636800, 5.585000) rotate(-90.000000) translate(-3.636800, -5.585000) \"><\/path><\/svg>\t\t\t\t\t<\/button>\n\t\t\t\t<\/div>\n\t\t\t<\/form>\n\t\t\t<p class=\"disclaimer\">By proceeding, you agree to our <a href=\"https:\/\/www.smartertravel.com\/privacy-policy\/\">Privacy Policy<\/a> and <a href=\"https:\/\/www.smartertravel.com\/terms-of-use\/\">Terms of Use<\/a>.<\/p>\t\t<\/div>\n\t<\/div>\n","dealsSearch":"<form>\n\t<section class=\"deal-search\">\n                    <div class=\"deal-search-primary-header <%= price ? 'cost' : 'find-cheap-label' %>\">\n                <%= price ? price : labels[ searchType ].label_find_cheap %>\n            <\/div>\n        \n\t\t<div class=\"deal-search-group st-newsletter\">\n\n\t\t\t<% if ( price ) { %>\n\t\t\t\t<header class=\"deal-search-header\">\n\t\t\t\t\t<h3 class=\"deal-search-heading\">Search for this Deal<\/h3>\n\t\t\t\t<\/header>\n\t\t\t<% } %>\n\n\t\t\t<div class=\"deal-search-form st-newsletter-form js-newsletter-form\">\n\t\t\t\t<div id=\"deal-search-react-component-fields\"><\/div>\n\n\t\t\t\t<% if ( 'air' === searchType ) { %>\n\t\t\t\t\t<div class=\"deal-enable-departure-subscription deal-search-form-group\"<% if ( ! departureAirportCode ) { %> style=\"display: none;\"<% } %>>\n                        \t\t\t\t\t\t<input type=\"checkbox\" id=\"deal-search-form-checkbox\" class=\"deal-search-form-checkbox st-enable-user-subscription\">\n\t\t\t\t\t\t<label class=\"deal-search-form-checkbox-label\" for=\"deal-search-form-checkbox\">\n\t\t\t\t\t\t\t<svg viewBox=\"0 0 26 23\" role=\"presentation\" class=\"icon deal-search-form-checkbox-icon\" aria-label=\"check\"><defs><path d=\"M22.1481311,3.18376204 C21.8021837,2.90026336 21.2917694,2.95034005 21.0078008,3.2956269 L8.61202532,18.3565951 L4.38287838,14.1408648 C4.06690764,13.8254624 3.55365772,13.8254624 3.23728188,14.1408648 C2.92090604,14.4562671 2.92090604,14.967534 3.23728188,15.2829363 L8.0983703,20.1290676 C8.25068441,20.280913 8.45687558,20.3657203 8.67116856,20.3657203 C8.68453655,20.3657203 8.69790454,20.3653165 8.71086745,20.3649126 C8.9393386,20.353605 9.15241631,20.2465863 9.29784387,20.0701063 L22.2607463,4.32017981 C22.5443098,3.97570065 22.4940786,3.46645303 22.1481311,3.18376204\" id=\"path-1\"><\/path><filter x=\"-50%\" y=\"-50%\" width=\"200%\" height=\"200%\" filterUnits=\"objectBoundingBox\" id=\"filter-2\"><feMorphology radius=\"1.30000001\" operator=\"dilate\" in=\"SourceAlpha\" result=\"shadowSpreadOuter1\"><\/feMorphology><feOffset dx=\"0\" dy=\"0\" in=\"shadowSpreadOuter1\" result=\"shadowOffsetOuter1\"><\/feOffset><feComposite in=\"shadowOffsetOuter1\" in2=\"SourceAlpha\" operator=\"out\" result=\"shadowOffsetOuter1\"><\/feComposite><feColorMatrix values=\"0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0\" type=\"matrix\" in=\"shadowOffsetOuter1\"><\/feColorMatrix><\/filter><\/defs><g id=\"Page-1\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Fill-1\"><use fill=\"black\" fill-opacity=\"1\" filter=\"url(#filter-2)\" xlink:href=\"#path-1\"><\/use><use stroke=\"#E7745C\" stroke-width=\"1\" fill=\"#E7745C\" fill-rule=\"evenodd\" xlink:href=\"#path-1\"><\/use><\/g><\/g><\/svg>\n\t\t\t\t\t\t\t<span class=\"deal-search-form-checkbox-label-text\">\n\t\t\t\t\t\t\t\tSend me low fares from <span class=\"deal-departure-city-code\"><%= departureAirportCode %><\/span><span class=\"deal-destination-city-code\"><% if ( destinationAirportCode ) { %> to <% } %><%= destinationAirportCode %><\/span>\t\t\t\t\t\t\t<\/span>\n\t\t\t\t\t\t<\/label>\n\t\t\t\t\t<\/div>\n\n\t\t\t\t\t<div class=\"deal-search-form-group\">\n\t\t\t\t\t\t<input type=\"email\" class=\"st-newsletter-input js-st-newsletter-subscription-widget deal-search-form-input ux-hidden\" aria-hidden=\"true\" placeholder=\"Email Address (optional)&hellip;\">\n\t\t\t\t\t<\/div>\n\t\t\t\t<% } %>\n\n\t\t\t\t<a id=\"deals-search-submit\" class=\"button button-dark-alt\">\n\t\t\t\t\t<span class=\"button-text\"><%= btnText %><\/span>\n\t\t\t\t\t<svg viewBox=\"0 0 7 11\" role=\"presentation\" class=\"icon button-icon is-right\" aria-label=\"arrow-right\"><path d=\"M7.6483193,2.94820039 L3.62745825,7.05007288 L-0.373907713,2.9672596 L-0.948200392,3.55395166 L1.34490885,5.89326197 L3.05397787,7.63593628 L3.62745825,8.22179968 L4.20175093,7.63593628 L5.15782234,6.66060216 L8.22179968,3.5340638 L7.6483193,2.94820039 Z\" transform=\"translate(3.636800, 5.585000) rotate(-90.000000) translate(-3.636800, -5.585000) \"><\/path><\/svg>\t\t\t\t<\/a>\n\t\t\t<\/div>\n\n\t\t<\/div>\n\n\t<\/section>\n<\/form>\n"},"newsletter_e_send_id":"","labels":{"dealsSearch":{"air":{"icon":"plane","label":"Flight","label_find_cheap":"Find Flight Deals"},"vacation":{"icon":"vacation","label":"Vacations","label_find_cheap":"Find Vacation Deals"},"hotel":{"icon":"hotel","label":"Hotels","label_find_cheap":"Find Hotel Deals"},"car":{"icon":"car","label":"Cars","label_find_cheap":"Find Car Deals"}}}};
+var st_subscription = {"text":{"stdealalert":"SmarterTravel Newsletter","stupdates":"SmarterTravel Updates","stSpotlight":"SmarterTravel Spotlight","sttripreminder":"SmarterTravel Trip Reminder","stroute":"City to City Route Alert","stdeparture":"Departure City Fare Alert","departure_airport":"Departure Airport","change_frequency":"Change Frequency","from":"From","to":"To","daily":"Daily","weekly":"Weekly","frequent":"2-3 times per week","add":"Add","remove":"Remove","save":"Save Changes","unsubscribe_all":"Unsubscribe from all Emails","edit":"(edit)","ok":"ok","subscribed":"Subscribed","unsubscribed":"Unsubscribed","update":"Update"},"response":{"success":"Success! Expect your first SmarterTravel newsletter soon.","failure":"Please enter a valid email address.","unsubscribe_all_success":"Unsubscribed from all emails!"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/app/build/app.min.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='st-app-js'></script>
+<script type='text/javascript' id='smartertravel-more-stories-js-extra'>
+/* <![CDATA[ */
+var stApiBaseEndpoint = {"currentPost":"200791","currentCategories":[],"destinations":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/app/plugins/smartertravel-more-stories/assets/js/smartertravel-more-stories.min.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='smartertravel-more-stories-js'></script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/assets/js/vendor/smartertravel/keyValuesAPI.min.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='st-tds-js'></script>
+<script type='text/javascript' async="async" src='https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/assets/js/vendor/smartertravel/footer.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='st-ads-footer-js'></script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/themes/smarter-travel/assets/js/smarter-travel.min.js?ver=36.0-011bf218aa12eec16f3463e3eb8eab543be0e5e5' id='st-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='elasticpress-autosuggest-js-extra'>
+/* <![CDATA[ */
+var epas = {"query":"{\"from\":0,\"size\":15,\"post_filter\":{\"bool\":{\"must\":[{\"bool\":{\"must\":[{\"bool\":{\"should\":{\"bool\":{\"should\":[{\"bool\":{\"must_not\":[{\"exists\":{\"field\":\"meta.ep_exclude_from_search\"}}]}},{\"bool\":{\"must_not\":[{\"terms\":{\"meta.ep_exclude_from_search.raw\":[\"1\"]}}]}}]}}}}]}},{\"terms\":{\"post_type.raw\":[\"post\",\"page\",\"destination-guide\",\"st_deals\",\"product_type\",\"traveler_type\"]}},{\"term\":{\"post_status\":\"publish\"}}]}},\"query\":{\"function_score\":{\"query\":{\"bool\":{\"should\":[{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.post_tag.name^1\",\"terms.category.name^1\"],\"boost\":3}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.post_tag.name^1\",\"terms.category.name^1\",\"post_title.suggest^1\",\"term_suggest^1\"],\"operator\":\"and\",\"boost\":1,\"fuzziness\":\"auto\"}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"cross_fields\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"terms.post_tag.name^1\",\"terms.category.name^1\"],\"boost\":1,\"analyzer\":\"standard\",\"tie_breaker\":0.5,\"operator\":\"and\"}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"post\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":3}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"post_title.suggest^1\"],\"operator\":\"and\",\"boost\":1,\"fuzziness\":\"auto\"}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"cross_fields\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":1,\"analyzer\":\"standard\",\"tie_breaker\":0.5,\"operator\":\"and\"}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"page\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":3}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"post_title.suggest^1\"],\"operator\":\"and\",\"boost\":1,\"fuzziness\":\"auto\"}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"cross_fields\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":1,\"analyzer\":\"standard\",\"tie_breaker\":0.5,\"operator\":\"and\"}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"destination-guide\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":3}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"post_title.suggest^1\"],\"operator\":\"and\",\"boost\":1,\"fuzziness\":\"auto\"}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"cross_fields\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":1,\"analyzer\":\"standard\",\"tie_breaker\":0.5,\"operator\":\"and\"}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"st_deals\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":3}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"post_title.suggest^1\"],\"operator\":\"and\",\"boost\":1,\"fuzziness\":\"auto\"}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"cross_fields\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":1,\"analyzer\":\"standard\",\"tie_breaker\":0.5,\"operator\":\"and\"}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"product_type\"}}]}},{\"bool\":{\"must\":[{\"bool\":{\"should\":[{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"phrase\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":3}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\",\"post_title.suggest^1\"],\"operator\":\"and\",\"boost\":1,\"fuzziness\":\"auto\"}},{\"multi_match\":{\"query\":\"ep_autosuggest_placeholder\",\"type\":\"cross_fields\",\"fields\":[\"post_title^1\",\"post_excerpt^1\",\"post_content^1\",\"post_author.display_name^1\"],\"boost\":1,\"analyzer\":\"standard\",\"tie_breaker\":0.5,\"operator\":\"and\"}}]}}],\"filter\":[{\"match\":{\"post_type.raw\":\"traveler_type\"}}]}}]}},\"functions\":[{\"exp\":{\"post_date_gmt\":{\"scale\":\"14d\",\"decay\":0.25,\"offset\":\"7d\"}}},{\"weight\":0.001}],\"score_mode\":\"sum\",\"boost_mode\":\"multiply\"}},\"sort\":[{\"_score\":{\"order\":\"desc\"}}]}","placeholder":"ep_autosuggest_placeholder","endpointUrl":"https:\/\/engineering-5ff5cde647b81.clients.hosted-elasticpress.io\/engineering-5ff5cde647b81-smartertravelcom-post-1\/autosuggest","selector":"ep-autosuggest","defaultSelectors":".ep-autosuggest, input[type=\"search\"], .search-field","action":"navigate","mimeTypes":[],"http_headers":[],"triggerAnalytics":"","addSearchTermHeader":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/plugins/elasticpress/dist/js/autosuggest-script.js?ver=ec3cdbbdf5e4c33f5cdd' id='elasticpress-autosuggest-js'></script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&#038;ver=83ec8aa758f883d6da14' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stmllc.wpenginepowered.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=54eb31dc971b63b49278' id='jetpack-lazy-images-js'></script>
+	<script src='https://stats.wp.com/e-202311.js' defer></script>
+	<script>
+		_stq = window._stq || [];
+		_stq.push([ 'view', {v:'ext',blog:'185131542',post:'0',tz:'-4',srv:'www.smartertravel.com',j:'1:11.8.4'} ]);
+		_stq.push([ 'clickTrackerInit', '185131542', '0' ]);
+	</script>
+<!-- This site is optimized with Phil Singleton's WP SEO Structured Data pro plugin v1.3.0 - https://kcseopro.com/wordpress-seo-structured-data-schema-plugin/ -->
+<script type="application/ld+json">{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "url": "https://www.smartertravel.com",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.smartertravel.com/?s={query}",
+        "query-input": "required name=query"
+    }
+}</script><script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "additionalType": [
+        "https://en.wikipedia.org/wiki/Editorial",
+        "https://en.wikipedia.org/wiki/Website",
+        "https://en.wikipedia.org/wiki/TripAdvisor"
+    ],
+    "name": "SmarterTravel",
+    "logo": "https://www.smartertravel.com/wp-content/uploads/2019/07/ST-color_500.png",
+    "url": "https://www.smartertravel.com",
+    "sameAs": [
+        "https://www.facebook.com/smartertravel",
+        "https://twitter.com/smartertravel",
+        "https://www.pinterest.com/smartertravel/",
+        "https://www.youtube.com/channel/UCTV310vTfmE4NGTYgC10K9w",
+        "https://www.instagram.com/smartertravel/?hl=en"
+    ],
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-617-886-5555",
+        "contactType": "customer service",
+        "email": "help@smartertravel.com",
+        "contactOption": "TollFree",
+        "areaServed": [
+            "US"
+        ],
+        "availableLanguage": null
+    },
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "United States",
+        "addressLocality": "Boston",
+        "addressRegion": "MA",
+        "postalCode": "02114",
+        "streetAddress": "226 Causeway Street"
+    }
+}</script>
+<!-- / WP SEO Structured Data pro plugin. -->
+
+	</body>
+</html>
