@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>First OpenSocial Application Hacked Within 45 Minutes | TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">首个在45分钟内被黑的OpenSocial应用程序| TechCrunch</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2007/11/02/first-opensocial-application-hacked-within-45-minutes/">https://web.archive.org/web/https://techcrunch.com/2007/11/02/first-opensocial-application-hacked-within-45-minutes/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated"><img alt=""/>没多久就有人破解了第一个<a href="https://web.archive.org/web/20230328091334/https://techcrunch.com/2007/10/30/details-revealed-google-opensocial-to-be-common-apis-for-building-social-apps/"> OpenSocial </a>应用程序。事实上，只花了45分钟。</p>
+<p class="translated">一名化名为“黑客”的开发人员称自己“只是一个业余爱好者”，并声称已经破坏了Plaxo上名为emote的RockYou OpenSocial应用程序(有关该应用程序的详细信息，请参阅Plaxo博客<a href="https://web.archive.org/web/20230328091334/http://blog.plaxo.com/archives/2007/11/first_peek_at_o.html">)。具体来说，他声称在Plaxo副总裁营销John McCrea的个人资料发布后45分钟内添加了一些表情符号。</a></p>
+<p class="translated">在一封电子邮件中，McCrea说他自己添加了所有的表情符号，他的账户似乎没有被黑。但当我要求黑客侵入我的Plaxo账户时，他在几分钟内添加了四条快速表情信息，比如“迈克尔·阿林顿穿上了我的珠宝”和“迈克尔·阿林顿是w00t”(见左图，这些都不是我添加的)。这位脾气暴躁的家伙接着又在麦克瑞的账户上增加了一项，这一点他很难否认:</p>
+<p class="translated"><img src="../Images/86e69bce015683ac35f9be69b62094fc.png" class="border" alt="" data-original-src="https://web.archive.org/web/20230328091334im_/https://techcrunch.com/wp-content/uploads/2007/11/plaxohack2.jpg"/></p>
+<p class="translated">黑客还指出了RockYou代码的一些具体问题，包括一些相当幽默的评论:</p>
+<blockquote><p class="translated">里面有一些有趣的代码。一方面，该应用程序对我们大多数人来说似乎还没有上线(Plaxo的John McCrea以某种方式使用了它)——它当前加载了一个永不改变的“请等待”iframe。但是，请查看以下代码注释:</p>
+<p class="translated">// TODO:没有错误检查——我们很大胆……<br/>//TODO:弄清楚为什么这是必要的？？？</p>
+<p class="translated">此外，代码经常在Plaxo和“default”之间分支，后者看起来像是Orkut。事实上，有些硬编码的名字我敢打赌会出现在一些OpenSocial的截图中:</p>
+<p class="translated">if(getcontainer type()= " or Kut ")<br/>{<br/>friend id[iNumFriends]= " 11285577331363942034 "；<br/>friend name[iNumFriends]=“Raymond Chan”；<br/>iNumFriends = iNumFriends+1；</p>
+<p class="translated">friendid[iNumFriends]= " 15479081059638046412 "；<br/>friend name[in mfriends]=“沈嘉”；<br/>iNumFriends = iNumFriends+1；<br/> }</p></blockquote>
+<p class="translated">这个黑客家伙说他也成功黑了脸书的应用程序，包括Superpoke应用程序，但是更困难的是:</p>
+<blockquote><p class="translated">脸书应用程序没有这么简单。我发现脸书应用的主要问题是能够访问人们的应用相关历史；例如，直到最近，我还可以访问任何用户的SuperPoke动作提要。(我也可以超级用户；不知道他们有没有修好那个。最后，我可以访问所有的SuperPoke操作——他们没有修复那个，但它只是为了好玩。)据我所知，在其他应用中，这仍然是一个问题(例如，查看任何人的涂鸦帖子)。</p>
+<p class="translated">但是脸书建立他们平台的方式，实际上模仿一个用户并像这样改变个人资料信息是非常困难的。我相信这种问题可以通过RockYou的一些验证码轻松解决，但它不是平台固有的——不像脸书。如果脸书没有按照他们的方式设置事情，我可以在FB上做更多这样的事情。</p>
+<p class="translated">哦，脸书应用程序也容易被注入——我可以把任何我想要的FBML插入到一个流行应用程序的画布页上。但同样，我真的什么也做不了，因为与应用程序交互需要我拥有与该应用程序相关的代码，而这通常是不可用的。不确定Google的iframe实现是否也是如此。</p></blockquote>
+<p class="translated">当然，改变表情符号的能力并不是特别恶意的攻击；但是这么容易就做到了，这表明谷歌在稳定其新平台方面还有一些工作要做。如果他们不这样做，更具破坏性的事情可能正在发生。</p>
+<p class="translated">Plaxo的首席平台架构师Joseph Smarr表示，他已经将该应用程序暂时撤下:</p>
+<blockquote><p class="translated">嗨，刚刚抓住这个线程。迈克尔-谢谢你的信息。看起来确实有些地方不太对劲。虽然我怀疑这是良性的，例如，一些rockyou代码没有区分小工具的“所有者”和“查看者”(这种事情并不总是容易保持正确)，但我想谨慎起见，所以我现在将取消小工具的白名单。</p>
+<p class="translated">目前，我们正在维护一份严格的白名单，这样我们就不会有任何随机的潜在黑客来捣乱，而且这个平台本身仍然是一项正在进行中的工作。希望在生产中看到一些真正工作的OpenSocial代码的好处是值得忍受一些需要解决的问题。</p></blockquote>
+			</div>
+
+			</div>    
+</body>
+</html>

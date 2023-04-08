@@ -1,0 +1,508 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-GB" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="http://www.thelondondailynews.com/xmlrpc.php" />
+    
+<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page not found - The London Daily News</title>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - The London Daily News" />
+<meta property="og:site_name" content="The London Daily News" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found - The London Daily News" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="The London Daily News &raquo; Feed" href="http://www.thelondondailynews.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The London Daily News &raquo; Comments Feed" href="http://www.thelondondailynews.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.thelondondailynews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='google_font_open_sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C500italic%2C400%2C300&#038;ver=4.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://www.thelondondailynews.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.11' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://www.thelondondailynews.com/wp-content/themes/Newspaper/style.css?ver=6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.thelondondailynews.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.thelondondailynews.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.thelondondailynews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://www.thelondondailynews.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thelondondailynews.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thelondondailynews.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.3" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.thelondondailynews.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.thelondondailynews.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- JS generated by theme -->
+
+<script>
+    
+
+var tdBlocksArray = []; //here we store all the items for the current page
+
+//td_block class - each ajax block uses a object of this class for requests
+function tdBlock() {
+    this.id = '';
+    this.block_type = 1; //block type id (1-234 etc)
+    this.atts = '';
+    this.td_column_number = '';
+    this.td_current_page = 1; //
+    this.post_count = 0; //from wp
+    this.found_posts = 0; //from wp
+    this.max_num_pages = 0; //from wp
+    this.td_filter_value = ''; //current live filter value
+    this.is_ajax_running = false;
+    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+    this.header_color = '';
+    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+}
+
+    
+    
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var td_ajax_url="http:\/\/www.thelondondailynews.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=6.7";
+var td_get_template_directory_uri="http:\/\/www.thelondondailynews.com\/wp-content\/themes\/Newspaper";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="error404 wpb-js-composer js-comp-ver-4.11 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+
+<div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+
+<div id="td-outer-wrap">
+
+    <div class="td-transition-content-and-menu td-mobile-nav-wrap">
+        <div id="td-mobile-nav">
+    <!-- mobile menu close -->
+    <div class="td-mobile-close">
+        <a href="#">CLOSE</a>
+        <div class="td-nav-triangle"></div>
+    </div>
+
+    <div class="td-mobile-content">
+        <div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu" class=""><li id="menu-item-324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-324"><a href="http://www.thelondondailynews.com/category/news/">London News</a></li>
+<li id="menu-item-326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-326"><a href="http://www.thelondondailynews.com/category/london-politics/">London Politics</a></li>
+<li id="menu-item-327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-327"><a href="http://www.thelondondailynews.com/category/international-news/">International News</a></li>
+<li id="menu-item-325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-325"><a href="http://www.thelondondailynews.com/category/sports/">Sports</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347"><a href="http://www.thelondondailynews.com/category/editorial/">Editorial</a></li>
+</ul></div>    </div>
+</div>    </div>
+
+        <div class="td-transition-content-and-menu td-content-wrap">
+
+
+
+<!--
+Header style 1
+-->
+
+<div class="td-header-wrap td-header-style-1">
+
+    <div class="td-header-top-menu-full">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	<div class="td_data_time">Friday, 17 June, 2016</div></div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full">
+        <div class="td-container td-header-row td-header-header">
+            <div class="td-header-sp-logo">
+                    <a href="http://www.thelondondailynews.com/">
+        <img class="td-retina-data" data-retina="http://thelondondailynews.com/wp-content/uploads/2016/03/the-london-daily-news1-300x102.png" src="http://thelondondailynews.com/wp-content/uploads/2016/03/the-london-daily-news1-300x102.png" alt=""/>
+    </a>
+            </div>
+            <div class="td-header-sp-recs">
+                <div class="td-header-rec-wrap">
+    <div class="td-a-rec td-a-rec-id-header "><a href="https://www.thetrainline.com/" target="_blank" rel="nofollow"><img src="https://www.londontoolkit.com/Images/trainline_banner_bottom.png"></a></div>
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap td-header-gradient">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo">
+            <a href="http://www.thelondondailynews.com/">
+        <img class="td-retina-data" data-retina="http://thelondondailynews.com/wp-content/uploads/2016/03/the-london-daily-news1-300x102.png" src="http://thelondondailynews.com/wp-content/uploads/2016/03/the-london-daily-news1-300x102.png" alt=""/>
+    </a>
+    </div>
+    <div class="menu-td-demo-header-menu-container"><ul id="menu-td-demo-header-menu-1" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-324"><a href="http://www.thelondondailynews.com/category/news/">London News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-326"><a href="http://www.thelondondailynews.com/category/london-politics/">London Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-327"><a href="http://www.thelondondailynews.com/category/international-news/">International News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-325"><a href="http://www.thelondondailynews.com/category/sports/">Sports</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-347"><a href="http://www.thelondondailynews.com/category/editorial/">Editorial</a></li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form role="search" method="get" class="td-search-form" action="http://www.thelondondailynews.com/">
+				<div class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+</div><div class="td-main-content-wrap">
+    <div class="td-container">
+        <div class="td-pb-row">
+            <div class="td-pb-span12">
+                <div class="td-404-title">
+                    Ooops... Error 404                </div>
+
+                <div class="td-404-sub-title">
+                    Sorry, but the page you are looking for doesn't exist.                </div>
+
+                <div class="td-404-sub-sub-title">
+                    You can go to the                    <a href="http://www.thelondondailynews.com/">HOMEPAGE</a>
+
+                </div>
+
+
+                <h4 class="block-title"><span>OUR LATEST POSTS</span></h4>
+
+                
+
+	<div class="td-block-row">
+
+	<div class="td-block-span4">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.thelondondailynews.com/cristiano-ronaldo-blasts-iceland-celebrating-euro-draw/" rel="bookmark" title="Cristiano Ronaldo blasts Iceland for over-celebrating after Euro draw"><img width="324" height="160" class="entry-thumb" src="http://www.thelondondailynews.com/wp-content/uploads/2016/06/100692040_ronreuters-xlarge_transZCAs_UO4E1NchwqSOXfgrf4v9G1aSZyFKN8pasjopuE-324x160.jpg" alt="" title="Cristiano Ronaldo blasts Iceland for over-celebrating after Euro draw"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.thelondondailynews.com/cristiano-ronaldo-blasts-iceland-celebrating-euro-draw/" rel="bookmark" title="Cristiano Ronaldo blasts Iceland for over-celebrating after Euro draw">Cristiano Ronaldo blasts Iceland for over-celebrating after Euro draw</a></h3>
+            <div class="td-module-meta-info">
+                                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-15T09:20:46+00:00" >15 June, 2016</time></div>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.thelondondailynews.com/hamilton-wins-big-tony-awards-2016/" rel="bookmark" title="Hamilton wins big at Tony Awards 2016"><img width="324" height="160" class="entry-thumb" src="http://www.thelondondailynews.com/wp-content/uploads/2016/06/la-et-2016-tony-awards-show-hamilton-20160612-1-324x160.jpg" alt="" title="Hamilton wins big at Tony Awards 2016"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.thelondondailynews.com/hamilton-wins-big-tony-awards-2016/" rel="bookmark" title="Hamilton wins big at Tony Awards 2016">Hamilton wins big at Tony Awards 2016</a></h3>
+            <div class="td-module-meta-info">
+                                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-13T09:18:56+00:00" >13 June, 2016</time></div>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.thelondondailynews.com/euro-2016-england-denied-victory-marseille-stoppage-time/" rel="bookmark" title="Euro 2016: England was denied victory in Marseille in stoppage time"><img width="324" height="160" class="entry-thumb" src="http://www.thelondondailynews.com/wp-content/uploads/2016/06/352A30FF00000578-3636942-image-a-24_1465674528991-324x160.jpg" alt="" title="Euro 2016: England was denied victory in Marseille in stoppage time"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.thelondondailynews.com/euro-2016-england-denied-victory-marseille-stoppage-time/" rel="bookmark" title="Euro 2016: England was denied victory in Marseille in stoppage time">Euro 2016: England was denied victory in Marseille in stoppage time</a></h3>
+            <div class="td-module-meta-info">
+                                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-12T10:16:02+00:00" >12 June, 2016</time></div>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 --></div><!--./row-fluid-->
+
+	<div class="td-block-row">
+
+	<div class="td-block-span4">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.thelondondailynews.com/striking-unions-france-threaten-disrupt-euro-2016/" rel="bookmark" title="Striking unions in France threaten to disrupt Euro 2016"><img width="324" height="160" class="entry-thumb" src="http://www.thelondondailynews.com/wp-content/uploads/2016/06/35192EAE00000578-3633999-image-a-3_1465502297412-324x160.jpg" alt="" title="Striking unions in France threaten to disrupt Euro 2016"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.thelondondailynews.com/striking-unions-france-threaten-disrupt-euro-2016/" rel="bookmark" title="Striking unions in France threaten to disrupt Euro 2016">Striking unions in France threaten to disrupt Euro 2016</a></h3>
+            <div class="td-module-meta-info">
+                                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-10T12:33:07+00:00" >10 June, 2016</time></div>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.thelondondailynews.com/torrential-rain-causes-flash-floods-several-areas-london/" rel="bookmark" title="Torrential rain causes flash floods in several areas of London"><img width="324" height="160" class="entry-thumb" src="http://www.thelondondailynews.com/wp-content/uploads/2016/06/floodinglondon0706d-324x160.jpg" alt="" title="Torrential rain causes flash floods in several areas of London"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.thelondondailynews.com/torrential-rain-causes-flash-floods-several-areas-london/" rel="bookmark" title="Torrential rain causes flash floods in several areas of London">Torrential rain causes flash floods in several areas of London</a></h3>
+            <div class="td-module-meta-info">
+                                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-08T09:30:06+00:00" >8 June, 2016</time></div>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://www.thelondondailynews.com/ambulances-flames-outside-east-surrey-hospital/" rel="bookmark" title="Ambulances go up in flames outside East Surrey Hospital"><img width="324" height="160" class="entry-thumb" src="http://www.thelondondailynews.com/wp-content/uploads/2016/06/ambulance-flames-east-surrey-hospital-324x160.jpg" alt="" title="Ambulances go up in flames outside East Surrey Hospital"/></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="http://www.thelondondailynews.com/ambulances-flames-outside-east-surrey-hospital/" rel="bookmark" title="Ambulances go up in flames outside East Surrey Hospital">Ambulances go up in flames outside East Surrey Hospital</a></h3>
+            <div class="td-module-meta-info">
+                                <div class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-07T10:54:38+00:00" >7 June, 2016</time></div>                            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 --></div><!--./row-fluid-->            </div>
+        </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Footer -->
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                                        </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    &copy; The London Daily News 2016. All rights reserved.                </div>
+            </div>
+        </div>
+    </div>
+    </div><!--close content div-->
+</div><!--close td-outer-wrap-->
+
+	<div style="display:none">
+	</div>
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2015
+        Version: 6.7 (rara)
+        Deploy mode: deploy
+        
+        uid: 57634a0ec8a99
+    -->
+
+    <script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201624'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.thelondondailynews.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.3'></script>
+<script type='text/javascript' src='http://www.thelondondailynews.com/wp-content/themes/Newspaper/js/tagdiv_theme.js?ver=6.7'></script>
+<script type='text/javascript' src='http://www.thelondondailynews.com/wp-includes/js/wp-embed.min.js?ver=4.4.3'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'http://www.thelondondailynews.com/wp-content/themes/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'http://www.thelondondailynews.com/wp-content/themes/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+<script type='text/javascript' src='http://stats.wp.com/e-201624.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'112383332',post:'0',tz:'1',srv:'www.thelondondailynews.com'} ]);
+	_stq.push([ 'clickTrackerInit', '112383332', '0' ]);
+</script>
+
+</body>
+</html>

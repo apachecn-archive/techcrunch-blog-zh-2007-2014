@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="ICBM" content="42.348043, -71.077617" />
+<meta name="DC.title" content="Compete" />
+<meta name="description"
+          content=" Compete helps you benefit from click-sharing by
+                        providing free services that create a more trusted,
+                        transparent, and valuable Internet." />
+<meta name="keywords"
+          content="compete, toolbar, snapshot, search, community, metrics,
+                        site traffic, engagement, attention, rank, analytics,
+                        deals, coupons, promotional codes, trust scores" />
+<title>File Not Found | Compete</title>
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/site_media/css/universal/framework.css" media="all" charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="/site_media/css/help/help_base.css" media="all" charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="/site_media/css/help/errors.css" media="all" charset="utf-8" />
+</head><body id="error" class="">
+<div class="wrapper">
+    <div class="header">
+        <h1><a href="https://www.compete.com"><img src="/site_media/images/help/compete_logo_4ac.png" width="90" height="16" alt="Compete logo"></a></h1>
+    </div>
+    <div class="page">
+        <div class="content">
+            <div class="article">
+                <img src="https://securemedia.compete.com/site_media/images/help/404-robot.gif" width="290" height="345" alt="404 robot" class="float-right" />
+                <h2 style="margin:85px 0 15px; padding:0 0 15px; font-size:24px; color:#666; width:300px; font-weight:lighter; line-height:1.1; border-bottom:1px #eee solid;"><span style="font-size:64px; color:#333; font-weight:bold;">Oh snap!</span>
+                <br />It seems that something went wrong.</h2>
+                <ul style="color:#3ae; font-size:14px; line-height:2;">
+                    <li><a href="javascript:history.go(-1);">Return to the previous page you were on</a></li>
+                    <li><a href="/">Return to compete.com</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p class="copyright">Compete &copy; 2000 - 2011 All Rights Reserved</p>
+    </div>
+</div>
+</body>
+</html>
