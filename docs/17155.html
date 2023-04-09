@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Impala: Another Google Inspired Platform Enters The Mainstream Data World • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">Impala:另一个受谷歌启发的平台进入主流数据世界TechCrunch</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2013/12/15/impala-another-google-inspired-platform-enters-the-mainstream-data-world/">https://web.archive.org/web/https://techcrunch.com/2013/12/15/impala-another-google-inspired-platform-enters-the-mainstream-data-world/</a></blockquote><div><div class="article-content">
+				<p dir="ltr" class="translated">亚马逊网络服务<a target="_blank" href="https://web.archive.org/web/20221222050301/http://aws.typepad.com/aws/2013/12/analyze-large-data-sets-with-impala.html">增加了对<a target="_blank" href="https://web.archive.org/web/20221222050301/http://blog.cloudera.com/blog/2012/10/cloudera-impala-real-time-queries-in-apache-hadoop-for-real/">黑斑羚</a>的支持</a>，这是由大数据初创公司<a target="_blank" href="https://web.archive.org/web/20221222050301/http://cloudera.com/"> Cloudera </a>开发的谷歌启发的查询工具。它为大量数据提供实时、并行处理。有了Impala，开发人员可以加载新数据或访问现有数据，在AWS Elastic MapReduce集群上使用类似SQL的语言运行查询。它更快，更容易访问，并显示了SQL在分布式计算的开源系统Hadoop中的使用越来越多。从更广泛的角度来看，Impala反映了谷歌如何深刻影响市场及其发明者，以创建新的数据平台和潜在的更丰富的应用生态系统。</p>
+<p dir="ltr" class="translated">去年推出的Impala基于<a target="_blank" href="https://web.archive.org/web/20221222050301/http://research.google.com/pubs/pub36632.html">谷歌Dremel </a>，是这家搜索公司在大数据分析领域的开创性工作的继承者，该公司开发了<a target="_blank" href="https://web.archive.org/web/20221222050301/http://research.google.com/archive/mapreduce.html"> MapReduce </a>，这是谷歌开发的一项技术，用于查询其庞大的云宇宙中存储的数据。正如谷歌首席产品经理William Vambenepe所说，Dremel也是谷歌自己的数据分析平台<a target="_blank" href="https://web.archive.org/web/20221222050301/https://developers.google.com/bigquery/"> Big Query </a>的基础。<a target="_blank" href="https://web.archive.org/web/20221222050301/http://incubator.apache.org/drill/">阿帕奇演练</a>基于谷歌Dremel。<a> Hortonworks </a>已经宣布<a target="_blank" href="https://web.archive.org/web/20221222050301/http://hortonworks.com/hadoop/tez/"> Tez </a>，这是其<a target="_blank" href="https://web.archive.org/web/20221222050301/http://hortonworks.com/labs/stinger/"> Stinger Initiative </a>的一部分，旨在与<a target="_blank" href="https://web.archive.org/web/20221222050301/http://hive.apache.org/"> Hive </a>一起工作，后者是用于查询Hadoop的数据库。Hortonworks表示，Stinger通过熟悉的SQL语义提供了“100倍的Pb级性能提升。”</p>
+<p dir="ltr" class="translated"><a> Citus Data </a>有自己的基于Google Dremel的分析数据库。它的创新在于PostgresSQL核心中的并行计算来执行查询。<a target="_blank" href="https://web.archive.org/web/20221222050301/http://www.mapr.com/support/community-resources/drill"> MapR </a>也在支持Drill提供自己的能力。<a> JethroData </a>是一家基于Hadoop的分析数据库公司，利用了Google Dremel项目的原则。</p>
+<p dir="ltr" class="translated">Hadapt 先于所有这些公司推出了其“自适应分析平台”，为Apache Hadoop开源项目带来了SQL的原生实现。</p>
+<h1 class="translated">为什么Dremel是新的灵感？</h1>
+<p dir="ltr" class="translated">对于像Twitter这样处理数Pb数据的互联网公司来说，Hadoop是一项重要的技术。对于现在也必须处理前所未有的信息量的传统组织来说，Hadoop也变得越来越重要。正是针对这部分新一代用户，Impala才有用武之地。它为他们提供了一种查询数据的方法，而这在以前需要深厚的技术知识。</p>
+<p dir="ltr" class="translated">Hadoop在过去是一项复杂的任务，需要具有多种才能的人来释放其潜力。这些人是最初的数据科学家，他们学习了编程艺术、集群管理和数据分析。他们来自互联网公司，这些公司需要发明自己的方法来处理和分析他们服务的大量数据。例如，杰夫·哈默巴赫尔离开脸书，成为Cloudera的联合创始人之一。Doug Cutting在雅虎工作时创造了Hadoop。在那里，他用它来帮助开发一个基于Lucene的开源搜索引擎，这也是Cutting最初创建的。切割现在在Cloudera也有效。</p>
+<p dir="ltr" class="translated">谷歌以MapReduce领先，它将一组节点视为并行处理数据的集群。它跨集群映射数据，然后减少数据以回答问题。</p>
+<p dir="ltr" class="translated">除了MapReduce之外，Google Dremel代表了下一代Hadoop技术的一个支柱，由不断增长的开源项目生态系统加强，如<a target="_blank" href="https://web.archive.org/web/20221222050301/http://hive.apache.org/"> Hive </a>和<a target="_blank" href="https://web.archive.org/web/20221222050301/http://pig.apache.org/">Pig</a>——所有这些都旨在用更高级的语言抽象MapReduce的复杂性。</p>
+<p dir="ltr" class="translated">Dremel的优势在于它的即时分析。但它主要是用来查询的，而它的对手Google F1是一个巨大的关系数据库，最初是用来管理Google的在线广告的。</p>
+<p dir="ltr" class="translated">Impala的价值来自于它的分析能力。这就是为什么它被视为Tableau(数据可视化技术)等商业智能工具的自然补充。分析师可以使用Impala快速查询数据，然后在他们选择的商业智能工具中运行。</p>
+<p dir="ltr" class="translated">Hadoop在很大程度上并未被视为一个应用开发平台。但是随着Impala越来越广泛的使用，以及新的组件被添加到Hadoop环境中，这种情况可能会改变。这一点在今年早些时候最新版本的Hadoop中变得很明显。在新版本中出现了<a target="_blank" href="https://web.archive.org/web/20221222050301/http://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/WritingYarnApplications.html"> Yarn </a>，它将MapReduce抽象为一个调度器和一个资源管理器。它允许扩展到Hadoop以前无法实现的范围之外。</p>
+<p id="speakable-summary" class="translated">Hadoop带来的应用生态系统在Impala和Yarn中都很明显。两者都简化了Hadoop，并为最终用户提供了更深入的功能。然后是Hadoop的应用框架Cascading，<a target="_blank" href="https://web.archive.org/web/20221222050301/http://www.concurrentinc.com/"> Concurrent </a>已经将其商业化。它把<a target="_blank" href="https://web.archive.org/web/20221222050301/http://www.concurrentinc.com/case-studies/twitter/"> Twitter </a>、<a target="_blank" href="https://web.archive.org/web/20221222050301/http://www.concurrentinc.com/case-studies/etsy/"> Etsy </a>和<a target="_blank" href="https://web.archive.org/web/20221222050301/http://www.concurrentinc.com/case-studies/airbnb/"> Airbnb </a>算作客户。</p>
+<p class="translated">长期以来，谷歌一直领先于市场。但Hadoop和平台层的创新表明，谷歌与其同行之间的差异正在开始缩小。</p>
+<p class="translated"><em>专题图片由<a target="_blank" href="https://web.archive.org/web/20221222050301/http://sheep.arces.net/generation-243/dead.cgi?id=14933">电动绵羊</a>通过知识共享提供)</em></p>
+			</div>
+
+			</div>    
+</body>
+</html>

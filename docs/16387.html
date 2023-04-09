@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>SlickLogin Aims To Kill The Password By Singing A Silent Song To Your Smartphone | TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">SlickLogin旨在通过对着你的智能手机唱一首无声的歌曲来杀死密码</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2013/09/09/slicklogin-wants-to-kill-the-password-by-singing-a-silent-song-to-your-smartphone/">https://web.archive.org/web/https://techcrunch.com/2013/09/09/slicklogin-wants-to-kill-the-password-by-singing-a-silent-song-to-your-smartphone/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated">密码<a target="_blank" href="https://web.archive.org/web/20230326080047/http://arstechnica.com/security/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/">需要死亡</a>，SlickLogin正试图帮助杀死它。</p>
+<p class="translated">今天，<a target="_blank" href="https://web.archive.org/web/20230326080047/http://www.slicklogin.com/"> SlickLogin </a>在《扰乱SF 2013战场》中发布了封闭测试版，让你通过把手机放在离它几英寸的地方，就可以在电脑上登录网站。</p>
+<p class="translated">想法是这样的:作为一个用户，你可以去任何你想登录的支持SlickLogin的网站。点击登录按钮，将手机靠近笔记本电脑，你就可以登录了。SlickLogin可以用作现有凭证的二级验证层(考虑RSA密钥或基于SMS的双因素系统，无需键入任何代码)，或者，如果服务提供商选择，可以放弃用户名/密码键入。</p>
+<p class="translated">那么，它是如何工作的呢？</p>
+<p class="translated">SlickLogin可以使用一系列协议来开始验证你的手机位置:WiFi，蓝牙，NFC，二维码等视觉标记，当然，还有GPS。然而，他们自诩的“秘方”是他们使用了独特的声音，故意让人耳听不到。你的电脑通过扬声器播放声音，而智能手机上的应用程序使用设备的内置麦克风来拾取音频。</p>
+<p class="translated">一旦它处理了声音，识别出是你(或者至少是拿着你手机的人)站在你的电脑前，它就会向服务器发出绿灯，让你登录。SlickLogin不要求你的公司建立一个全新的移动应用程序；相反，你只需在现有的应用程序中添加5行代码。</p>
+<p class="translated"><img decoding="async" src="../Images/e1ebf3a7115a1f5547e33d803738c610.png" alt="slickpix" class="aligncenter size-large wp-image-875378" srcset="https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg 1500w, https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?resize=150,107 150w, https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?resize=300,213 300w, https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?resize=768,546 768w, https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?resize=680,483 680w, https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?resize=1200,853 1200w, https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?resize=50,36 50w" sizes="(max-width: 640px) 100vw, 640px" data-original-src="https://web.archive.org/web/20230326080047im_/https://techcrunch.com/wp-content/uploads/2013/09/slickpix.jpg?w=640"/></p>
+<p class="translated">当然，这并不是我们第一次看到高频声音被用来传输数据。据说，尚未推出的支付服务Clinkle使用高频声音让用户向附近的其他人汇款。SonicNotify正在利用这一概念让电视广告商和零售店向手机发送内容。<a target="_blank" href="https://web.archive.org/web/20230326080047/http://chirp.io/">啁啾</a>正试图建立一个完整的文件传输协议的基础上的想法。然而，这是我第一次看到它用于登录和双重认证。</p>
+<p class="translated">我最关心的问题是我想大多数用户都会有的:它有多安全？</p>
+<p class="translated">我与SlickLogin的创始人就安全问题谈了很长时间，他们似乎已经覆盖了他们的基地(或者至少是我能想到的没有大量安全背景的各种基地)——这是有意义的，因为所有3名创始人都是以色列国防部队专门从事安全工作的毕业生。</p>
+<p class="translated">一切都被高度加密，所以中间人攻击是不可能的。你不能把音频信号录下来，然后再回放，因为音频是和那个时刻唯一联系在一起的。你不能只是拿着你的手机对着别人的音频信号(或者用定向麦克风从房间的另一边抓起它)，希望在他们之前登录他们的帐户；你的手机上不会存储他们的登录凭证，而且这一关键部分也不会包含在声音中。如果有的话，你只要把它们登录到你自己的账户就行了。</p>
+<p class="translated">如果有人偷了你的手机呢？</p>
+<p class="translated">“如果他们能进入你的手机，他们就已经进入了你的账户，”创始人回应道。</p>
+<p class="translated">奇怪的是，SlickLogin <em>是否让服务提供商选择允许用户在不解锁手机的情况下登录，这似乎有点冒险。SlickLogin说，他们希望服务能够按照他们认为合适的方式来设置他们的安全标准。</em></p>
+<p class="translated">SlickLogin表示，他们正在与一家“大型国际银行”合作进行概念验证(尽管他们没有具体说明是哪家)。</p>
+<p class="translated">这项服务将在今天晚些时候进入封闭测试阶段；如果你有兴趣在你的网站上进行试验，你可以在<a target="_blank" href="https://web.archive.org/web/20230326080047/http://www.slicklogin.com/">页面底部找到注册框。</a></p>
+<p class="translated">我们很快会有他们的舞台演示视频。</p>
+<h4 class="translated">扰乱评委问答</h4>
+<p class="translated"><strong>我使用双因素认证。让我们所有人都转向slick-login的主要竞争对手是什么？</strong></p>
+<p class="translated">用户的无缝体验。我们还更具成本效益，因为我们不需要任何新硬件。</p>
+<p class="translated">信号是由什么产生的？</p>
+<p class="translated">笔记本电脑。</p>
+<p class="translated">所以，如果我把笔记本电脑调成静音，它就不能用了？</p>
+<p class="translated">我们将检测到我们听不到任何声音，并要求您打开扬声器。</p>
+<p class="translated"><strong>信号是否随着每次登录而变化？</strong></p>
+<p class="translated">这是一把不同的钥匙。完全不同。</p>
+<p class="translated"><strong>我的手机需要联网吗？</strong></p>
+<p class="translated">现在，是的。但是我们已经申请了一项没有它也能工作的方法的专利。</p>
+<p class="translated"><strong>如何把这个变成一个公司？所以它不仅仅是一个很酷的功能？</strong></p>
+<p class="translated">我们将与大型企业合作，为他们的用户和员工提供安全保障。</p>
+<p> </p><p embedded-video-placeholder="5545238be4b08df3b6cd1449" post-id="893159"/> 
+			</div>
+
+			</div>    
+</body>
+</html>
