@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Google Jumps Head First Into Web Services With Google App Engine • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">谷歌凭借谷歌应用引擎TechCrunch率先进入网络服务领域</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2008/04/07/google-jumps-head-first-into-web-services-with-google-app-engine/amp/">https://web.archive.org/web/https://techcrunch.com/2008/04/07/google-jumps-head-first-into-web-services-with-google-app-engine/amp/</a></blockquote><div><div class="content">
+
+			
+	
+		
+		
+
+		
+<p class="translated">我们对谷歌应用引擎发布活动<a href="https://web.archive.org/web/20230126110333/http://techcrunch.com/2008/04/07/live-from-google-campfire-one/">的现场报道在这里</a> ( <strong>更新:</strong>我们已经在这里构建并发布了<a href="https://web.archive.org/web/20230126110333/http://techcrunch.com/2008/04/08/techcrunch-labs-our-experience-building-and-launching-app-on-google-app-engine/">测试应用。</a></p>
+<p class="translated">【T6<amp-img src="https://web.archive.org/web/20230126110333im_/https://techcrunch.com/wp-content/uploads/2008/04/google_appengine.png" class="shot2 amp-wp-enforced-sizes amp-wp-cbdc213 i-amphtml-layout-intrinsic i-amphtml-layout-size-defined" layout="intrinsic" data-amp-original-style="border:0;" i-amphtml-layout="intrinsic"><i-amphtml-sizer class="i-amphtml-sizer"><img alt="" aria-hidden="true" class="i-amphtml-intrinsic-sizer" role="presentation" src=""/></i-amphtml-sizer><noscript><img decoding="async" src="../Images/5265da6dfc95dc1cfc34f34851bf6d6e.png" class="shot2 amp-wp-cbdc213" data-amp-original-style="border:0;" data-original-src="https://web.archive.org/web/20230126110333im_/https://techcrunch.com/wp-content/uploads/2008/04/google_appengine.png"/></noscript></amp-img></p>
+<p class="translated">谷歌不再仅仅谈论在云中托管应用程序。今晚太平洋时间9点，他们将发布<a href="https://web.archive.org/web/20230126110333/http://code.google.com/appengine/">谷歌应用引擎</a> ( <strong>更新</strong>:网站上线)，这是一个雄心勃勃的新项目，提供一个全栈、托管、自动可扩展的网络应用平台。它由Python应用服务器、<a href="https://web.archive.org/web/20230126110333/http://labs.google.com/papers/bigtable.html"> BigTable </a>数据库访问(这里预计<a href="https://web.archive.org/web/20230126110333/http://techcrunch.com/2008/04/04/source-google-to-launch-bigtable-as-web-service/">这里</a>和<a href="https://web.archive.org/web/20230126110333/http://techcrunch.com/2008/04/06/major-google-announcement-monday-evening-is-it-bigtable/">这里</a>)和<a href="https://web.archive.org/web/20230126110333/http://labs.google.com/papers/gfs.html"> GFS </a>数据存储服务组成。</p>
+<p class="translated">乍一看，这是亚马逊提供的一套<a href="https://web.archive.org/web/20230126110333/http://www.amazon.com/b?ie=UTF8&amp;node=342335011&amp;me=A36L942TSJ2AJA">网络服务</a>的完全竞争对手，包括<a href="https://web.archive.org/web/20230126110333/http://aws.amazon.com/s3">【S3】</a>(存储)、<a href="https://web.archive.org/web/20230126110333/http://aws.amazon.com/ec2"> EC2 </a>(虚拟服务器)和<a href="https://web.archive.org/web/20230126110333/http://www.amazon.com/SimpleDB-AWS-Service-Pricing/b/ref=sc_fe_l_2?ie=UTF8&amp;node=342335011&amp;no=3440661&amp;me=A36L942TSJ2AJA"> SimpleDB </a>(数据库)。</p>
+<p class="translated">与Amazon Web Services的松散耦合架构不同，它由几个本质上独立的服务组成，开发人员可以随意将这些服务捆绑在一起，Google的架构更加统一，但灵活性较差。例如，亚马逊可以独立于任何其他服务使用他们的存储服务S3，而谷歌使用他们的BigTable服务将需要编写和部署一个Python脚本到他们的应用服务器，这将创建一个web可访问的BigTable接口。</p>
+<p class="translated">这一切意味着:谷歌应用引擎是为那些想在谷歌资源上运行他们的整个应用程序栈的开发者设计的。相比之下，亚马逊提供了更多的点菜服务，开发者可以挑选他们想要使用的资源。</p>
+<p class="translated">谷歌产品经理Tom Stocky在今天的采访中向我描述了这项新服务。开发人员只需将他们的Python代码上传到Google，启动应用程序，就可以通过多平台桌面应用程序监控使用情况和其他指标。</p>
+<p class="translated">来自谷歌的更多细节:</p>
+<blockquote><p class="translated">今天，我们宣布了Google App Engine的预览版，这是一个应用托管工具，开发者可以使用它在Google的基础设施上构建可扩展的web应用。目标是让web开发人员更容易构建和扩展应用程序，而不是专注于系统管理和维护。</p>
+<p class="translated">利用谷歌应用引擎，开发者可以:</p>
+<ul>
+<li class="translated"><strong>写一次代码，部署。</strong>为web服务和数据存储供应和配置多台机器既昂贵又耗时。Google App Engine通过根据需要动态提供计算资源，使部署web应用程序变得更加容易。开发人员编写代码，Google App Engine负责剩下的工作。</li>
+<li class="translated">吸收交通高峰。当一个web应用程序大受欢迎时，流量的突然增加可能会让各种规模的应用程序不堪重负，从初创公司到大型公司，他们发现自己每年都要对数据库和整个系统进行几次架构调整。通过自动复制和负载平衡，Google App Engine利用Bigtable和Google可扩展基础架构的其他组件，可以更容易地从一个用户扩展到一百万个用户。</li>
+<li class="translated"><strong>轻松集成其他谷歌服务。</strong>对于开发人员来说，为每个新应用从头开始编写认证和电子邮件等组件是不必要的，也是低效的。使用Google App Engine的开发人员可以利用内置组件和Google更广泛的API库，为简单但重要的功能提供即插即用功能。</li>
+</ul>
+</blockquote>
+<p class="translated"><big> <strong>谷歌应用引擎:局限性</strong> </big></p>
+<p class="translated">这项服务正在测试阶段，有很多限制。</p>
+<p class="translated">首先，只有前10，000名注册测试版的开发者才被允许部署应用程序。</p>
+<p class="translated">这项服务在测试期间是完全免费的，但是有使用上限。应用程序每天不能使用超过500 MB的总存储、2亿兆周期/天的CPU时间和10 GB的带宽(双向)。我们被告知，对于典型的网络应用程序来说，这相当于大约500万次页面浏览量/月。测试期结束后，这些上限将被取消，但开发者需要为任何超额支付费用。谷歌尚未确定这项服务的价格。</p>
+<p class="translated">当前的一个限制是要求应用程序用Python编写，Python是一种用于构建现代web应用程序的流行脚本语言(Ruby和PHP等被广泛使用)。Google说Python只是第一个被支持的语言，并且整个基础设施被设计成语言中立的。谷歌最初对Python的关注是有意义的，因为他们在内部使用Python作为他们的脚本语言(他们在2005年雇佣了Python的创造者吉多·范·罗苏姆)。</p>
+<p class="translated"><strong>更新</strong>:吉多·范·罗苏姆在发布会上谈论App Engine:</p>
+
+
+
+
+		
+
+			
+	
+		
+
+			<amp-pixel src="https://web.archive.org/web/20230126110333im_/https://ampmetrics.techcrunch.com/pixel.gif" placeholder="" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout="fixed"/>
+		<amp-analytics data-credentials="include" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout="fixed">
+		
+	</amp-analytics>
+	<amp-pixel src="https://web.archive.org/web/20230126110333im_/https://pixel.wp.com/g.gif?v=ext&amp;blog=136296444&amp;post=15888&amp;tz=-8&amp;srv=techcrunch.com&amp;host=techcrunch.com&amp;rand=RANDOM&amp;ref=DOCUMENT_REFERRER" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout="fixed"/><amp-analytics id="tc_googleanalytics" type="googleanalytics" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout="fixed"/><amp-analytics id="tc_comscore" type="comscore" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout="fixed"/><amp-analytics id="tc_parsely" type="parsely" class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout="fixed"/>	</div>
+
+</div>    
+</body>
+</html>

@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>Next Year's Headline: Microsoft fails to do anything significant with Powerset • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">明年的头条:微软未能在Powerset TechCrunch上做任何有意义的事情</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2008/07/18/next-years-headline-microsoft-fails-to-do-anything-significant-with-powerset/">https://web.archive.org/web/https://techcrunch.com/2008/07/18/next-years-headline-microsoft-fails-to-do-anything-significant-with-powerset/</a></blockquote><div><header class="article__header ">
+	<p class="article__title-wrapper">
+						</p><h1 class="article__title translated">明年的头条:微软未能在Powerset上做任何有意义的事情</h1>
+		
+
+			
+	
+	</header>
+
+			<div class="article-content">
+				<p id="speakable-summary" class="translated">有一个明显的细节，每个报道微软收购Powerset的人都没有提到:Powerset是一家基于Unix的公司。它的所有核心组件——它的应用程序、打包系统和持续集成系统——都是为在Unix平台上运行而设计和编写的。</p>
+<p class="translated">作为一家大型软件公司，微软非常支持自己的工艺。不出所料，微软的所有产品，包括Live search，都运行在Windows服务器上。因此，我们来到了微软-Powerset矛盾的根源。虽然把软件从Unix移植到Windows并非不可能，但不可否认，这是一项地狱般的任务。Powerset在过去的三年中开发了一个大型的代码库，自然地，它选择了在其开发栈中使用许多开源项目，这些项目都必须进行移植。它使用的大部分软件已经是跨平台的，但是那些不是真正的问题。</p>
+<p class="translated">当Powerset推出时，开发者凯文·克拉克<a href="https://web.archive.org/web/20230204060554/http://glu.ttono.us/articles/2008/05/12/holy-god-powerset-launches">对Powerset所依赖的开源技术大声疾呼</a>。下面给出了这些技术与Windows兼容性的状态。</p>
+<p class="translated">【Powerset使用的开源技术的Windows兼容性</p>
+<table summary="Windows Compatibility of the open source technologies Powerset uses">
+<tbody>
+<tr>
+<td class="translated"><strong> Hadoop/Hbase </strong></td>
+<td class="translated">要求Cgywin在Windows上运行。</td>
+</tr>
+<tr>
+<td class="translated"><strong>红宝石</strong></td>
+<td class="translated">在Windows上运行缓慢，这是微软使用IronRuby的好机会？</td>
+</tr>
+<tr>
+<td class="translated"><strong> Ruby on Rails </strong></td>
+<td class="translated">将在Ruby运行的任何地方运行。IronRuby <a href="https://web.archive.org/web/20230204060554/http://www.iunknown.com/2008/05/ironruby-and-rails.html">最近达到了Rails奇点</a>。</td>
+</tr>
+<tr>
+<td class="translated"><strong> Merb </strong></td>
+<td class="translated">与Rails的情况相同。目前还没有关于IronRuby功能的消息。</td>
+</tr>
+<tr>
+<td class="translated"><strong>上帝</strong></td>
+<td class="translated">不在Windows期间运行。也没有计划Windows支持。然而，<a href="https://web.archive.org/web/20230204060554/http://rubyisawesome.com/">写上帝</a>的好撒玛利亚人恰好为Powerset工作。也许他们可以求他做一个Windows版本。</td>
+</tr>
+<tr>
+<td class="translated"><strong>杂种狗</strong></td>
+<td class="translated">在Windows上完全支持。</td>
+</tr>
+<tr>
+<td class="translated">Mootools </td>
+<td class="translated">JavaScript——他们的战斗是在浏览器而不是操作系统。</td>
+</tr>
+<tr>
+<td class="translated"><strong>二郎</strong></td>
+<td class="translated">良好的Windows支持！</td>
+</tr>
+<tr>
+<td class="translated"><strong>雅司病</strong></td>
+<td class="translated">基于Erlang，也适用于Windows。</td>
+</tr>
+<tr>
+<td class="translated"><strong> Memcached </strong></td>
+<td class="translated">有一个非官方的Windows端口，不应该在生产环境中使用。</td>
+</tr>
+</tbody>
+</table>
+<p class="translated">总而言之，任何需要Cgywin的东西都无法在像Live.com这样的高流量生产环境中运行。Windows上的官方Ruby解释器太慢，而IronRuby太新，没有经过充分的现场测试，无法支持微软的搜索。使用上帝不是一个选项，所以他们将不得不寻找一些其他的方法来管理他们在Windows上的进程。替换Memcached并不困难。最后，Erlang在Windows上的地位似乎不错，但转型仍将是艰难的。</p>
+<p class="translated">如果微软想利用Powerset的现有IP，让Ruby进入最佳状态是很重要的。根据Ruby on Rails播客上的<a href="https://web.archive.org/web/20230204060554/http://podcast.rubyonrails.org/programs/1/episodes/github-and-powerset">采访</a>，“组织的所有部分都使用Ruby”。包括他们开发的所有自然语言解析和至少60%的内部工具。</p>
+<p class="translated">最有可能的情况是，微软将放弃Powerset的大部分代码，并将移植核心技术和实现Windows Live搜索的必要捆绑的任务交给团队——Powerset工程师可能会愤愤不平地接受这项任务，这取决于他们认为哪个平台更优越。Powerset的核心实际上是语义搜索技术，它是从PARC学来的，并在此基础上进行了扩展。换句话说，微软确实想要PARC的技术，但它买下了Powerset <a href="https://web.archive.org/web/20230204060554/http://blogs.msdn.com/livesearch/archive/2008/07/01/powerset-joins-live-search.aspx">【为了他们的人民】</a>，因为Powerset的工程师是唯一真正了解PARC东西的人。</p>
+<p class="translated">微软声称Powerset的语义搜索将在年底出现在Live search中，这是微软向其股东广播的胡言乱语，以帮助证明他们1亿美元的收购是合理的。切换到Windows平台不是一件小事，而<a href="https://web.archive.org/web/20230204060554/http://www.techcrunchit.com/2008/07/16/google-where-companies-go-to-die/">切换到一个不熟悉的封闭平台放大了复杂性</a>。然而，有传言说微软在内部运行一些BSD服务器，在这种情况下，Powerset集成实际上是可能的。最终，这次收购感觉像是微软的一次研发实验。语义搜索仍然是计算机科学的一个灰色地带，微软正在通过收购Powerset来碰运气。</p>
+
+			</div>
+
+			</div>    
+</body>
+</html>

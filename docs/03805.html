@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>RockYou Hack: From Bad To Worse | TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">RockYou Hack:每况愈下| TechCrunch</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/">https://web.archive.org/web/http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated"><img decoding="async" class="alignleft" title="ry" src="../Images/36f85565311e70063c84fc35967442a8.png" alt="" data-original-src="https://web.archive.org/web/20230403194353im_/http://www.crunchbase.com/assets/images/resized/0000/2836/2836v23-max-250x250.png"/> <a href="https://web.archive.org/web/20230403194353/https://techcrunch.com/2009/12/14/rockyou-hacked/">今天早些时候有消息传出</a>社交应用网站<a href="https://web.archive.org/web/20230403194353/http://www.rockyou.com/"> RockYou </a>遭遇数据泄露，导致超过3200万用户账户被曝光。更严重的是，发现RockYou在其数据库中以纯文本形式存储所有用户帐户数据，将所有这些信息暴露给攻击者。rock你还没有通知用户这个漏洞，他们的博客出奇地沉默——但是安全漏洞的细节越来越糟糕。</p>
+<p class="translated">第一个问题是RockYou试图淡化整个事件，首先通过不通知用户来掩盖它，然后在官方声明中淡化它，称它是一个只影响“旧”应用程序的问题。对最初的入侵负有责任的黑客公布了他检索到的一小部分数据集，并能够表明他不仅可以访问他们的整个数据库，而且密码也明文存储。这件事现在看起来比最初怀疑的还要糟糕。数据集还包含一个表，其中RockYou存储了社交网络和其他合作伙伴网站的用户凭据。</p>
+<p class="translated">该数据库由一个包含合作伙伴数据的表和另一个存储了用户输入的那些合作伙伴站点的凭据的表组成。这包括社交网络，如MySpace和webmail账户。</p>
+<blockquote><p class="translated">data user account[32603388]<br/>= = = = = = = = = = = = = = = = = = = = = = = =<br/>1 | Jenna plane runner @ hotmail . com | MEK * * * * * | MySpace | 0 | bebo . com<br/>2 | PhD lance @ Gmail . com | MEK * * * * * | MySpace | 1 |<br/>3 | Jenna plane runner @ Gmail . com | MEK * * * * * | MySpace | 0 |<br/>5 | teams package @ Gmail . com | pro * * * * * | MySpace | 1 | |</p></blockquote>
+<p class="translated">最初的利用利用了一个微不足道的SQL注入漏洞，这种技术已经被很好地记录了十多年。这种利用漏洞的方法在执行过程中极其简单，但在影响上却是灾难性的RockYou和网站用户现在正在艰难地学习这一点。更令人惊讶的是，这种情况没有更早发生——因为RockYou平台是安全漏洞和不良做法的瑞士奶酪。</p>
+<h3 class="translated">你错在哪里</h3>
+<p class="translated"><strong>糟糕的密码策略</strong></p>
+<p class="translated">RockYou帐户创建只强制使用最小长度为5个字符的密码，没有大小写、数字或标点符号的要求。该平台实际上鼓励简单的密码，不允许任何标点符号。</p>
+<p class="translated"><img decoding="async" class="aligncenter" src="../Images/fd7bd7a41755ce8e2eb465eb358af8da.png" alt="" data-original-src="https://web.archive.org/web/20230403194353im_/http://img.skitch.com/20091215-bphfym3a9qd4rq7rxa1ssr4ag8.png"/></p>
+<p class="translated"><strong>密码中的明码</strong></p>
+<p class="translated">RockYou您仍然明文存储密码，并通过电子邮件明文传输用户密码。尽管攻击发生在10多天前，并且RockYou知道这次攻击，但今天注册RockYou帐户的用户仍然会将他们的密码以纯文本形式存储，并以明文形式通过电子邮件发送给他们。</p>
+<p class="translated"><img decoding="async" class="aligncenter" title="ru2" src="../Images/83f6cebb9c840850fc94b561c91b763a.png" alt="" data-original-src="https://web.archive.org/web/20230403194353im_/http://img.skitch.com/20091215-812g6sw7fktsrikjshi1p74j5a.png"/></p>
+<p class="translated"><strong>密码反模式</strong></p>
+<p class="translated">RockYou在共享数据或应用程序时，提示用户将其第三方站点凭据直接输入到RockYou站点。脸书的整合需要适当的脸书认证，今天的MySpace整合也应用了类似的技术，但是对于大多数其他网站来说，同样的旧的疯狂的密码请求表单仍然存在。告诉您的用户您不会存储他们的密码不是一个解决方案。</p>
+<p class="translated"><img decoding="async" class="aligncenter" title="ru3" src="../Images/8f1c8a2a1c0f1e13377ed9faa29597f4.png" alt="" data-original-src="https://web.archive.org/web/20230403194353im_/http://img.skitch.com/20091215-e3bw7hc8t7gdf49bqnyyqgy142.png"/></p>
+<p class="translated"><strong>可怕的反应</strong></p>
+<p class="translated">RockYou几天前就知道了这个漏洞，黑客的嘲讽让这个问题变得众所周知，RockYou也做出了回应(尽管他们的用户仍然没有意识到这个问题，除非他们在网上阅读新闻)。</p>
+<p class="translated">网站<a href="https://web.archive.org/web/20230403194353/http://www.rockyou.com/privacypolicy.php">隐私政策和相关的“安全”部分</a>声明:</p>
+<blockquote><p class="translated">我们对数据安全的承诺:<br/> RockYou！使用商业上合理的物理、管理和技术保护措施来保护您个人信息的完整性和安全性。但是，我们不能保证或担保您传输给RockYou的任何信息的安全性！你这样做是自担风险的。一旦我们收到你传送的信息，洛克你！尽商业上合理的努力确保我们系统的安全性。但是，请注意，这并不保证这些信息不会因违反我们的任何物理、技术或管理保护措施而被访问、披露、更改或销毁。</p>
+<p class="translated">如果摇滚你！获悉安全系统遭到破坏，我们可能会尝试以电子方式通知您，以便您采取适当的保护措施。摇滚你！可以在石头上贴个通知吗！如果出现安全漏洞。根据您居住的地方，您可能有合法权利收到安全漏洞的书面通知。要接收安全违规的免费书面通知(或撤销您对接收电子通知的同意)，您应该使用此联系表通知我们。</p></blockquote>
+<p class="translated">下次你注册网络服务时，花点时间看看他们在告知用户数据泄露方面的立场，看看他们有多尊重用户的隐私。</p>
+<p class="translated">你对一件非常严肃的事情沾沾自喜。他们没有采取措施来纠正导致违规的问题，也没有以适当或充分的方式解决用户的问题。适当的反应应该是关闭网站几个小时，并强制用户输入新密码，新密码将以哈希或加密的形式存储。可悲的是，公司能够如此自满地逍遥法外，因为大多数用户不会发现这一点，大多数用户永远不会受到它的影响，而且服务提供商对用户的私人数据不负任何责任。</p>
+<p class="translated">如果你知道任何一家公司有类似的政策，比如明文发送电子邮件密码——在评论中提出来，或者给我们发邮件告诉我们beta.techcrunch.com的建议。我们将确保跟进他们中的每一个人，并在必要时召集他们。</p>
+
+			</div>
+
+			</div>    
+</body>
+</html>

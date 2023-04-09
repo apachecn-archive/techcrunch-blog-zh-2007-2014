@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Chrome OS: The Code Clues Are Out There • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">Chrome OS:代码线索就在那里TechCrunch</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2009/09/01/chrome-os-the-code-clues-are-out-there/">https://web.archive.org/web/https://techcrunch.com/2009/09/01/chrome-os-the-code-clues-are-out-there/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated"><img class="alignright size-full wp-image-97910" title="screen-shot-2009-09-01-at-50522-am" src="../Images/f83bba200c2b816ee2b875b80b1befb1.png" alt="screen-shot-2009-09-01-at-50522-am" data-original-src="https://web.archive.org/web/20221006090348im_/https://beta.techcrunch.com/wp-content/uploads/2009/09/screen-shot-2009-09-01-at-50522-am.png"/>一个<a href="https://web.archive.org/web/20221006090348/http://www.beta.techcrunch.com/2009/08/31/builds-of-chrome-get-updated-to-show-off-their-snow-leopard-spots/">雪豹上工作的Chrome</a>和<a href="https://web.archive.org/web/20221006090348/http://www.beta.techcrunch.com/2009/09/01/chrome-is-gaining-desktop-notifications/"> Chrome桌面通知</a>都很有趣，但是说实话，大家真正想了解的Chrome相关信息是<a href="https://web.archive.org/web/20221006090348/http://www.beta.techcrunch.com/2009/07/07/google-drops-a-nuclear-bomb-on-microsoft-and-its-made-of-chrome/"> Chrome OS </a>。今天有新闻，因为看起来操作系统可能刚刚向世界展示了自己，如果只是轻微的。</p>
+<p class="translated">不，我们不是在谈论那些<a href="https://web.archive.org/web/20221006090348/http://www.beta.techcrunch.com/2009/08/31/more-alleged-screenshots-of-google-chrome-os-my-what-big-icons-you-have/">大图标截图</a>，相反，这种揭示隐藏在代码提交中。</p>
+<p class="translated">正如你在<a href="https://web.archive.org/web/20221006090348/http://src.chromium.org/viewvc/chrome/trunk/src/chrome/browser/chromeos/compact_navigation_bar.cc?view=log">这个目录</a>中看到的，有几处提到了“chromeos”几天前，一个@chromium.org地址的“brettw”写了这样一段话:</p>
+<blockquote><p class="translated">将紧凑导航栏移动到chromeos目录。</p>
+<p class="translated">概括chromeos规则，这样我们就不必列出排除的每个文件。</p></blockquote>
+<p class="translated">鉴于Chromium虽然是开源的，但在很大程度上仍然是谷歌的一个项目，一个@chromium.org电子邮件地址似乎表明这是谷歌的一名员工。快速浏览一下他一直在做的<a href="https://web.archive.org/web/20221006090348/http://code.google.com/u/brettw@chromium.org/updates">工作</a>就会发现，它一直都是Chrome。快速的谷歌搜索显示他是<a href="https://web.archive.org/web/20221006090348/http://www.google.com/profiles/brettw">布雷特·威尔逊</a>，他是谷歌的一名软件工程师，你可以在谷歌输入输出<a href="https://web.archive.org/web/20221006090348/http://www.youtube.com/watch?v=IiN9fxwjcL0">这里</a>看到他在工作。</p>
+<p class="translated">就在那条消息之前，Wilson更详细地描述了“紧凑导航栏”:</p>
+<blockquote><p class="translated">修正和增强了紧凑的导航条和状态区域。</p>
+<p class="translated">这使得紧凑的导航栏在Nicolas的要求下默认关闭。可以在命令行上使用–compact-nav来启用它。当此功能启用时，它还添加了<br/>不同的标签打开选项。它们可以从状态区的应用菜单中访问<br/>。按钮现在延伸到<br/>屏幕的顶部，以便于点击。</p>
+<p class="translated">无论紧凑导航栏是否启用，状态区域都会启用。我<br/>修复了背景，所以当窗口失去焦点时它会显示为未选中，<br/>我还修复了时间格式，使分钟总是2位数。</p>
+<p class="translated">Chrome按钮现在已经连接上了，并且只打开了一个占位符页面的标签。</p></blockquote>
+<p class="translated">里面有些有趣的东西。看起来Chrome OS可能会有一些紧凑的导航栏，有各种标签打开选项(包括点击“Chrome按钮”)。似乎在所谓的“状态区”中有一个应用程序菜单，其中显然包含了当前时间。</p>
+<p class="translated">现在，当然这些东西可能与正在开发的新版Chrome有关，而不是Chrome操作系统。但请记住上面的最新更新(“将紧凑导航栏移动到chromeos目录”)，然后看看它之前的那个更新:</p>
+<blockquote><p class="translated">在紧凑的地址栏和状态栏中添加首次尝试。状态栏<br/>包含一个时钟、一个应用菜单和一个非工作电池指示器。<br/>紧凑地址栏可以通过browser_window_gtk.cc中的COMPACT_NAV_BAR进行切换</p></blockquote>
+<p class="translated">因此，这个状态栏显然有一个时钟，应用程序菜单，和电池指示器。当然，这些都是Chrome操作系统的味道，而不是网络浏览器Chrome。我在这里只是推测，但似乎有理由假设这个状态栏可能是Chrome OS的主上层dock的名称。</p>
+<p class="translated">这很难确定，考虑到所有的代码名和嵌套目录，试图通过Chromium.org目录挖掘更多信息就更难了。以下是我挖掘到的更多信息:</p>
+<p class="translated">本页讨论了与Chrome操作系统相关的cookies。值得注意的是:</p>
+<blockquote><p class="translated">[Chrome OS]增加了启动时注入公司cookies的支持</p>
+<p class="translated">为了支持Chrome OS的单点登录，我们需要一种将cookies注入Chrome的方法。</p>
+<p class="translated">最终，我想用DBus的适当用法来取代这种管道阅读，但是Chrome OS还没有出现。</p></blockquote>
+<p class="translated">所以，是的，看起来Chrome OS的工作进展顺利，但“还没有”</p>
+<p class="translated"><strong>更新</strong>:正如评论员<a href="https://web.archive.org/web/20221006090348/http://twitter.com/gasi"> Daniel Gasienica </a>指出的，克里斯·梅西纳<a href="https://web.archive.org/web/20221006090348/http://twitter.com/chrismessina/status/3674628722">昨天自己做了一些调查</a>，似乎已经在谷歌的服务器上找到了<a href="https://web.archive.org/web/20221006090348/http://code.google.com/p/chromium-os/?redir=1">一个可以开发Chrome操作系统的区域</a>。现在你得到一个“403禁止”，意味着有东西在那里。</p>
+<p class="translated"><em>【感谢<a href="https://web.archive.org/web/20221006090348/http://twitter.com/sinkercat">赛</a></em></p>
+<p class="translated"><em>【图片:华纳兄弟】<br/> </em></p>
+
+			</div>
+
+			</div>    
+</body>
+</html>

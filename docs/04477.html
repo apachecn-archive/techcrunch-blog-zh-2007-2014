@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>A TC Teardown: What Makes Groupon Tick • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">TC的解散:是什么让Groupon成功了</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/http://techcrunch.com/2010/05/02/teardown-groupon/">https://web.archive.org/web/http://techcrunch.com/2010/05/02/teardown-groupon/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated"><img decoding="async" src="../Images/f23ddb97ac96324f62d492dedd4a36a6.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/bugati-teardown.jpg"/></p>
+<p class="translated"><em> <strong>编者按</strong>:团购网站如雨后春笋般成长。在这篇拆解文章中，客座作者<a href="https://web.archive.org/web/20230205064218/http://www.crunchbase.com/person/steven-carpenter">史蒂文·卡彭特</a>详细拆解了最大的社交商务网站Groupon及其竞争对手，看看到底发生了什么。卡彭特是TechCrunch40强企业Cake Financial的创始人兼首席执行官，该公司为主流投资者开发了一项管理投资的服务，今年早些时候被卖给了E*Trade。在加入Cake之前，Steve负责数字音乐管理战略和Rhapsody的日常运营。他还曾担任金融服务初创公司myCFO的业务开发总监，该公司由吉姆·克拉克创立，得到凯鹏华盈(Kleiner Perkins)和在线照片网站Snapfish的支持。</em></p>
+<p class="translated">关于芝加哥本地每日交易公司Groupon的快速发展和成功，已经有很多报道。这是有充分理由的。除了YouTube (12个月),没有其他创业公司从成立到估值超过10亿美元的速度更快，Groupon在两周前通过最近的1 . 35亿美元注入在16个月内实现了这一目标。前所未有的是，“团体优惠券”的普及者在短短3个月内将其估值提高了4倍。这是怎么回事？Groupon是风险投资估值泡沫的又一个例子，还是下一个经久不衰的消费互联网品牌之一？</p>
+<p class="translated"><strong>拆机</strong></p>
+<p class="translated">为了找到答案，我用Groupon网站上最近一个季度的数据对其业务进行了分解，将我的发现与我对2009年最后三个月的计算进行了比较，然后将所有这些与主要竞争对手进行了比较。我进行了两项分析:1)去年11月的一天和今年4月的一天，我查看了Groupon网络上的每笔交易，以了解收入如何增长，以及该公司如何受益于对新城市的快速开放支持。然后，我分析了2009年第四季度和2010年Q1 5个城市(旧金山、波斯顿、圣路易斯、圣地亚哥和丹佛)的Groupon网站上列出的每一笔交易，以确定公司进入市场后的增长情况，并了解产品组合的变化。关键的发现是，Groupon在所有方面都实现了可观的收入增长:更多的客户、更高的交易价格和快速扩张的市场。</p>
+<p class="translated">【Groupon如何赚钱</p>
+<p class="translated">Groupon把你妈妈以前买的旧的<a href="https://web.archive.org/web/20230205064218/http://www.entertainment.com/discount/home.shtml">娱乐优惠券书</a>带到了社交网络上。Groupon在它现在支持的52个城市中的每一个城市销售“每日交易”,为当地餐馆、服务提供商、活动和会员提供大量优惠，并收取佣金。诀窍在于，只有当足够多的人买进时，交易才会被“触发”。这就产生了与朋友和家人分享交易的动机，直到“交易开始”这对当地企业来说非常好，因为他们可以设置优惠参数，并且知道他们将提前售出的最低优惠数量。通过将社交网络和病毒式传播与难以复制的交易相结合，Groupon创造了一种网络效应商业，这使其模式极具吸引力(因此，每周似乎都会有新的<a href="https://web.archive.org/web/20230205064218/https://techcrunch.com/2010/04/07/groupon-clones-pop-up-like-mushrooms-in-the-united-states-too/">模仿者</a>)。</p>
+<p class="translated"><strong>交通</strong></p>
+<p class="translated"><img decoding="async" src="../Images/f7bbf8be8bfda96e31a37b87341911e5.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/grouponcompete.jpg"/></p>
+<p class="translated">今年3月，Groupon的独立访客数量接近300万，高于9月份的90万。就流量而言，它现在比<a href="https://web.archive.org/web/20230205064218/http://woot.com/"> Woot </a>更大，并迅速接近Zappos(500万)。据<a href="https://web.archive.org/web/20230205064218/http://siteanalytics.compete.com/groupon.com+buywithmee.com+livingsocial.com+ideeli.com+woot.com/"> Compete </a>报道，Groupon从脸书获得的流量超过包括谷歌在内的任何其他网站，当人们搜索时，他们输入“Groupon”——这意味着它已经享受到了品牌资产的好处，因为该公司已经成为该类别的同义词。因此，Groupon在搜索引擎营销上花的钱很少(相对于网飞或亚马逊)，这是一个显著的成本优势。相比之下，领先的直接竞争对手<a href="https://web.archive.org/web/20230205064218/http://livingsocial.com/"> LivingSocial </a>的用户数量持平于90万，但现在似乎又开始增加。</p>
+<p class="translated">人们在买什么？</p>
+<p class="translated">餐馆、按摩、健身俱乐部和博物馆的折扣会员、当地活动、旅游景点和商品的优惠券继续构成销售的主体。你可以通过在Groupon上购买的商品了解一个城市的很多情况。也就是说:</p>
+<ul>
+<li class="translated"><span>波士顿居民喜欢激光脱毛(655次购买)，骑赛格威在镇上滑翔(4311次)，学习如何驾驶直升机(2575次)。希望不是在同一天。</span></li>
+<li class="translated"><span> <span>圣路易斯居民喜爱他们的植物和园艺用品(6106种)，当然还有Llwelyn ' s Pub(5832种)</span> </span></li>
+<li class="translated"><span> <span> <span>圣迭戈人热衷于钢管舞和无限制的狂欢游乐设施(3875)</span></span></span></li>
+<li class="translated"><span> <span> <span> <span>丹佛爱他们一些冷石头奶精(7110)和速度滚道(1938)</span></span></span></span></li>
+<li class="translated"><span> <span> <span> <span> <span>亚特兰大被打入纳斯卡(1063)</span></span></span></span></span></li>
+<li class="translated"><span> <span> <span> <span> <span> <span>芝加哥人欣赏高大的船只【7，119】</span></span></span></span></span></span></li>
+</ul>
+<p class="translated">如果你看看按购买数量排名的前10项交易，你会发现当地商家似乎对Groupon营销渠道越来越适应了。餐馆优惠券也将很受欢迎，但折扣服装、鲜花、房屋清洁和当地活动(如游艇展)等优惠也越来越多地出现在网站上。如下图所示，从2009年第四季度到2010年第一季度，“活动”取代“餐饮”成为排名第一的类别，“商品”大幅跃升。我的猜测是，随着Groupon销售队伍的壮大，以及这些更多的本地商家开始尝试独特的优惠，这种情况将变得更加普遍。消费者将从中受益，因为他们有机会以很高的折扣买到更多自己喜欢的东西。</p>
+<p class="translated"><img decoding="async" src="../Images/b9ae6e3b6f769c5603421a626f637862.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/grouponcategories.png"/></p>
+<p class="translated"><img decoding="async" src="../Images/6b6b27ab544fa6897929258574222c36.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/groupondeals.png"/></p>
+<p class="translated"><strong>Groupon的业务有多大，增长速度有多快？</strong></p>
+<p class="translated">2010年4月16日，Groupon有31笔交易，45910名付费用户，售出了价值近130万美元的优惠券。与2009年11月6日的17笔交易、10，018名客户和240，000美元的总销售额相比，这是一个显著的增长。根据我观察的每一项指标——每天的交易数量、平均客户/交易、平均交易价格、平均总收入/交易——Groupon看到了巨大的增长。尤其重要的是，它的平均交易价格正在上升(从24.65美元上升到44.94美元)，并且正在迅速打开新的市场。</p>
+<p class="translated">所有这些都是导致Groupon收入快速增长的原因。假设30%的收入份额，Groupon去年11月净赚72，000美元，假设每个月有20个交易日，每月运营费用接近150万美元。4月份，这使5X跃升至38万美元，这意味着每月的运行率为760万美元。正如你从下面的图表中看到的，不仅交易数量在增加，而且每笔交易的客户数量增加了一倍多，Groupon能够提高每笔交易的价格。(更多的交易+更多的顾客)X(更高的价格)的公式似乎在起作用。</p>
+<p class="translated">基于这些数字和公司的增长率，Groupon年的收入应该会轻松超过1.5亿美元。随着收入的增加，其中大部分将是纯利润，因为该公司没有任何实物库存，其客户获取成本非常低。</p>
+<p class="translated"><img decoding="async" src="../Images/e59a2a1561ac8b69af7b3b8301fcc2c4.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/grupontable3.png"/></p>
+<p class="translated">Groupon上市后表现如何？</p>
+<p class="translated"><img decoding="async" src="../Images/19979f893f0f17ae90486a3ac5ed8ff8.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/groupontable4.png"/> <br/>(注意:由于某种原因，没有列出每天的交易，但这似乎是两个时间段的情况，因此我们正在进行比较。)</p>
+<p class="translated">虽然这两个时间段的交易数量几乎相同(106笔对107笔)，但Groupon的平均每笔销售总收入翻了一番多，从2.3万美元增至4.7万美元。该公司每笔交易的平均客户数量翻了一番，从874人增加到1800多人，交易价格从第四季度的27.20美元增加到Q1的38.36美元。我还觉得有趣的是，Q1最受欢迎的交易是7119英镑(16美元一张在芝加哥乘坐高大船只的门票)，是第四季度最受欢迎的交易的两倍多(丹佛15美元一顿素食晚餐的2918英镑)。</p>
+<p class="translated">激烈的竞争对Groupon有何影响？</p>
+<p class="translated">显然，我不是唯一一个运行这些数字的人。由于这种戏剧性的增长和新兴的每日交易类别的巨大利润潜力，许多公司正试图成为T2的快速追随者。你可以在下面看到Groupon与其两个资金最雄厚的追随者LivingSocial和<a href="https://web.archive.org/web/20230205064218/http://www.buywithme.com/"> BuyWithMe </a>(最近带来了一位经验丰富的首席执行官谢丽尔·罗斯纳，前TicketsNow和Hotels.com首席执行官)<span>。迄今为止，Groupon已经筹集了1.71亿美元，雇佣了200多名员工，服务于52个市场。它的第二大竞争对手LivingSocial已经筹集了4900万美元，雇佣了大约50名员工，服务于14个市场。</span></p>
+<p class="translated"><img decoding="async" src="../Images/21a77e5b84e0eab0e6229178ad089be7.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/taleoftape2.jpg"/></p>
+<p class="translated">在媒体喜欢提到的竞争对手中，事实是只有LivingSocial建立了足够的吸引力，提供了足够的数据来进行比较。LivingSocial现在有14个市场，而Groupon有52个。我比较了Groupon和LivingSocial在4月16日同一天的每日交易。</p>
+<p class="translated">正如你在下面看到的，LivingSocial看起来很像6个月前的Groupon。LivingSocial有10笔交易，而Groupon有31笔。在每项指标上，客户总数(45，910对5，976)、每笔交易的平均客户数(1，481对598)、平均交易价格(44.94美元对29.00美元)以及每笔交易的平均总收入(40，753美元对18，276美元)，Groupon都遥遥领先。数据显示，Groupon尚未感受到所有新进入者的冲击。</p>
+<p class="translated"><img decoding="async" src="../Images/e4d279090a6b17ae1de49a501a27b6ef.png" alt="" data-original-src="https://web.archive.org/web/20230205064218im_/https://techcrunch.com/wp-content/uploads/2010/05/groupontable5.png"/></p>
+<p class="translated"><strong>价值10亿美元的问题:这是一个赢家通吃的市场吗？</strong></p>
+<p class="translated">我认为网上这类报价的潜力是一个50多亿美元的机会。没有理由认为这个概念不能扩展到几乎任何类别或服务提供商。</p>
+<p class="translated">但我不认为这是一个赢家通吃的市场，就像易贝接手时的拍卖市场一样。</p>
+<p class="translated">没有真正的技术优势，没有任何东西阻止本地供应商使用多种平台，买家不在乎他们在哪里购买，只要交易是好的。</p>
+<p class="translated">也就是说，我认为这是一个赢家通吃的市场，看起来更像搜索，大部分收入将落入领先者手中。肯定有网络效应在起作用，而且它们似乎比我最初设想的更强。当Groupon进入一个新市场时，它是从零开始，但它可以利用其平台上的重大投资。这就是为什么它筹集了这么多资金，并在竞争前竞相进入新的城市。问题是，像LivingSocial和BuyWithMe这样的快速跟随者是否能够成长为迷你Groupon，而Groupon已经在一个城市站稳了脚跟。</p>
+<p class="translated"><em>布加迪拆解照片来源:Flickr/ <a href="https://web.archive.org/web/20230205064218/http://www.flickr.com/photos/davidvillarreal/4443367472/in/photostream/">大卫·比利亚雷亚尔·费尔南德斯</a> <br/> </em></p>
+<p/>
+			</div>
+
+			</div>    
+</body>
+</html>

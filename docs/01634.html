@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Google App Engine "Accidentally" Blocks PayPal • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">谷歌应用引擎“意外”屏蔽了PayPal TechCrunch</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2008/06/10/google-app-engine-accidentally-blocks-paypal/">https://web.archive.org/web/https://techcrunch.com/2008/06/10/google-app-engine-accidentally-blocks-paypal/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated"><a href="https://web.archive.org/web/20230218170328/http://www.crunchbase.com/product/google-app-engine"> <img decoding="async" src="../Images/766bec7e8efa6e8afa7db5fca4a427ab.png" class="shot2" data-original-src="https://web.archive.org/web/20230218170328im_/https://techcrunch.com/wp-content/uploads/2008/06/googlepaypal.jpg"/> </a>这里有一个阴谋论者的问题:原来<a href="https://web.archive.org/web/20230218170328/http://code.google.com/appengine/">谷歌应用引擎</a>，他们的新平台<a href="https://web.archive.org/web/20230218170328/https://techcrunch.com/2008/04/07/google-jumps-head-first-into-web-services-with-google-app-engine/">建立和托管第三方网络应用</a>，正在阻止应用程序与贝宝集成支付。</p>
+<p class="translated">开发使用PayPal处理支付的应用程序的开发者通常需要应用程序向PayPal服务发送请求。这些请求中使用的URL都在paypal.com域名上，并且在www.sandbox.paypal.com的URL上有一个测试环境设置。在Google App Engine应用程序中，对这些URL的请求会返回一个普通的“下载”错误，没有具体的细节。</p>
+<p class="translated">许多开发人员在讨论这个问题的谷歌应用引擎论坛上抱怨(也在黑客新闻上)，他们也发现了一种通过使用第三方代理(如TinyURL)绕过限制的方法。然后，今天早上，一位名为Marzia Niccolai的谷歌员工写了一条评论，称该错误是由他们的反钓鱼保护引起的:</p>
+<blockquote><p class="translated">感谢您的报告！这是一个错误，我们已经找到了问题所在。我们的反网络钓鱼保护出现错误，阻止使用URLFetch服务获取某些特定的URL域。这是我们的疏忽，这些特定的域名限制将在未来几天内删除。</p></blockquote>
+<p class="translated">通常像这样的事情不会引起太多的关注。但是谷歌和易贝之间有太多不愉快的血缘关系，这一点毋庸置疑，当然，谷歌的反钓鱼黑名单并没有将paypal.com域名列为钓鱼网站。</p>
+<p class="translated">到目前为止，大多数对此发表评论的开发者都坚信这是谷歌故意设置的障碍。到目前为止，我们只能相信谷歌的话，屏蔽贝宝是一个意外，因为他们的反钓鱼规则的工作方式。但是有这么多涉及Paypal的钓鱼网站，你可能会认为在执行他们的规则时，他们至少会检查一下真正的Paypal网站是否仍然工作。此外，<a href="https://web.archive.org/web/20230218170328/http://www.google.com/safebrowsing/diagnostic?site=http://paypal.com/">Google.com网络钓鱼</a>测试显示<strong> Paypal被认为是一个安全的网站</strong>。</p>
+<p class="translated">为什么App Engine会不一样？让事情更加可疑的是，这个网络钓鱼测试工具是上个月推出的<a href="https://web.archive.org/web/20230218170328/http://googleonlinesecurity.blogspot.com/2008/05/safe-browsing-diagnostic-to-rescue.html">。</a></p>
+<p class="translated">我们已经给谷歌发了邮件征求意见，并将在有消息时更新这篇文章。</p>
+<p class="translated"><b>更新</b>:在帖子中，我们提到一些开发者使用第三方服务器和/或域名来代理对PayPal的请求。事实证明，即使是那些代理请求也不再起作用了(它们在某个时候起作用了)，这让该线程中的一名开发人员得出结论，“我猜他们正在他们(谷歌)的网关上阻止PayPal。”。</p>
+			</div>
+
+			</div>    
+</body>
+</html>

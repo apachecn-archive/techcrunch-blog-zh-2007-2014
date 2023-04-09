@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>RSSCloud Vs. PubSubHubbub: Why The Fat Pings Win | TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">RSSCloud Vs. PubSubHubbub:为什么胖Pings会赢</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2009/09/09/rsscloud-vs-pubsubhubbub-why-the-fat-pings-win/">https://web.archive.org/web/https://techcrunch.com/2009/09/09/rsscloud-vs-pubsubhubbub-why-the-fat-pings-win/</a></blockquote><div><div class="article-content">
+				<p id="speakable-summary" class="translated"><img decoding="async" class="shot2" src="../Images/79aabc24ce7fe53861178a9b8e747391.png" alt="" data-original-src="https://web.archive.org/web/20230321184118im_/https://techcrunch.com/wp-content/uploads/2009/09/fat-ping.jpg"/></p>
+<p class="translated"><em> <strong>编者按</strong>:随着最近RSSCloud和PubSubHubbub之间的<a href="https://web.archive.org/web/20230321184118/http://www.techcrunchit.com/2009/07/23/hey-you-get-off-of-my-cloud/">争论</a>，我们想听听开发者的意见，他能告诉我们哪一个可能更好，为什么。以下客座博文由<a href="https://web.archive.org/web/20230321184118/http://www.joshfraser.com/"> Josh Fraser </a>撰写，他是<a href="https://web.archive.org/web/20230321184118/http://www.eventvue.com/"> EventVue </a>的联合创始人，空闲时是PubSubHubbub的活跃撰稿人。他为PubSubHubbub贡献了几个客户端库，包括一个WordPress插件。猜猜他站在辩论的哪一边。</em></p>
+<p class="translated">在过去的几个月里，实时网络的兴起引起了很多关注。问题是网络的设计并没有考虑到实时性。技术社区非常需要支持新的协议，这些协议将推动web应用程序工作方式的根本转变。今天，我想看看两个在网络上实现实时通知的领先协议。虽然有像XEP-0060这样的支持实时通知的旧协议，但<a href="https://web.archive.org/web/20230321184118/http://code.google.com/p/pubsubhubbub/"> PubSubHubbub </a> (PuSH)和<a href="https://web.archive.org/web/20230321184118/http://www.rsscloud.org/"> rssCloud </a>是两个很有希望获得采用的新协议。</p>
+<p class="translated">PuSH和rssCloud都解决了当今web应用程序工作方式中的一个根本缺陷。目前，在网上获取更新需要不断的轮询。订户被迫表现得像唠叨的孩子一样，问“我们到了吗？”订阅者必须不断地ping发布者，询问是否有新的更新，即使99%的情况下回答是“没有”。这是非常低效的，浪费资源，并且一旦新内容出现就很难找到。两个协议<a href="https://web.archive.org/web/20230321184118/https://techcrunch.com/2009/07/09/speeding-up-rss/">颠倒了当前的模型</a>,因此更新是事件驱动的，而不是请求驱动的。我的意思是，这两种协议都通过告诉用户“不要问我们是否有新的东西”来消除轮询的需要。我们会告诉你的。”</p>
+<p class="translated">戴夫·温纳比任何人都更早提出这个想法，这值得称赞。事实上，&lt; cloud &gt;元素在2001年就被添加到RSS 2.0规范中，但直到最近才被重新启用(很大程度上是为了响应人们对推送的兴趣)。rssCloud本周取得了重大进展，<a href="/web/20230321184118/https://techcrunch.com/2009/09/09/2009/09/07/wordpress-enables-rsscloud-in-post-feeds/">宣布【WordPress正在</a><a href="https://web.archive.org/web/20230321184118/https://techcrunch.com/2009/09/07/wordpress-enables-rsscloud-in-post-feeds/">为WordPress.com 750万博客添加rssCloud支持</a>。相比之下，目前有超过1亿个订阅源支持推送，采用者包括Friendfeed、Blogger、<a href="https://web.archive.org/web/20230321184118/https://techcrunch.com/2009/08/05/google-reader-speeds-up-sharing-with-pubsubhubbub/"> Google Reader </a>、LiveJournal、<a href="https://web.archive.org/web/20230321184118/https://techcrunch.com/2009/08/19/google-continues-to-feed-the-pubsubhubbub-google-alerts-now-in-real-time/"> Google Alerts </a>和FeedBurner。我希望很快看到更多的服务采用这些新协议。</p>
+<p class="translated">但是如果你发现自己对它们的不同感到困惑，你并不孤单。</p>
+<p class="translated">从概念上讲，这两种协议非常相似。两者都在feed中添加了一个简单的声明，告诉订阅者哪个hub/cloud被委托负责处理订阅。这两种协议都有一个集中的中心，在新内容发布时通知订阅者。这两种协议都是基于HTTP的。</p>
+<p class="translated">然而，理解实现中的细微差别是很重要的。在我看来，推送是目前更好的协议。基本上有三个因素使推送成为更健壮的协议:</p>
+<p class="translated">首先，推送并不只是告诉你有什么东西改变了，它实际上向你发送了新的内容(也称为“胖ping”))这是rssCloud缺少的一个重要特性。fat pings不仅简化了订阅者的集成，还消除了无意中拒绝服务攻击的危险，因为成千上万的订阅者同时响应ping通知并请求更新的提要。这个问题在计算机科学中是众所周知的，通常被称为“雷群问题”虽然在rssCloud中解决这个问题相对简单，但它还没有得到解决。</p>
+<p class="translated">第二，PuSH允许可变的回调(通知发送的自定义URL ),而rssCloud不允许。rssCloud规范声明“通知被发送到发出请求的IP地址。您不能代表另一台服务器请求通知。这是非常有限的，因为您无法将处理订阅的服务器与接收ping通知的服务器分开。</p>
+<p class="translated">第三，PuSH对于处理退订有更友好的政策。在rssCloud中，每一个feed都会在25小时后自动退订。在推送中，有一个明确的取消订阅功能，可以选择在给定的时间后自动取消订阅。同样，当你大规模经营时，这个小细节很重要。有了rssCloud，RSS阅读器将负责每晚重新订阅数百万条feeds这远不如只在事情发生变化时才发送订阅/退订请求高效。</p>
+<p class="translated">这并不是说rssCloud没有任何好处。实现RSS云比实现推送中心要容易得多。从设计上来说，推送集线器实现起来并不简单。</p>
+<p class="translated">还有其他一些小差异，但这些是最重要的问题。其他一切都归结于语义。</p>
+<p class="translated">我想解决两个协议中的一些误解。例如，许多人认为rssCloud仅仅是构建Twitter的分布式替代品。这在很大程度上是因为戴夫·怀纳<a href="https://web.archive.org/web/20230321184118/http://rsscloud.org/walkthrough.html">为rssCloud </a>设定的目标是创建“一个松散耦合的类似Twitter的人际网络和140个字符的状态消息。”虽然这肯定是一个有趣的用例，但它促进了对协议及其功能的非常狭隘的看法。我认为rssCloud的潜力远比Dave认为的要大。</p>
+<p class="translated">对PuSH最大的误解是它在某种程度上被谷歌拥有和控制。这根本不是真的。不仅有很多像我一样的独立开发者在开发推送，还有其他的推送中心，比如不受谷歌控制的<a href="https://web.archive.org/web/20230321184118/http://superfeedr.com/"> SuperFeedr </a>。<a href="https://web.archive.org/web/20230321184118/http://www.crunchbase.com/person/brett-slatkin">布雷特·斯拉特金</a>指出:</p>
+<blockquote><p class="translated">我们的规范开发过程是完全透明的。您可以查看自2008年8月5日以来的所有代码签入。所有的讨论都在公共邮件列表上(没有谷歌内部的)。这个规范的要点是开放、去中心化，不受任何公司的控制。</p></blockquote>
+<p class="translated">总的来说，我相信PubSubHubbub和rssCloud都代表了网络的巨大进步。虽然我个人认为推是更好的选择，但竞争总是好的，会使两种协议都更强大。</p>
+<p class="translated">(图片来源:Flickr/ <a href="https://web.archive.org/web/20230321184118/http://www.flickr.com/photos/libertinus/171410082/"> Libertinus </a>)</p>
+			</div>
+
+			</div>    
+</body>
+</html>
