@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>BackBlaze Presents Their Bare-Bones, $7348, 135TB Storage Pod For Backup On The Cheap • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">BackBlaze在廉价的TechCrunch上展示了他们的裸机、7348，135TB的备份存储盒</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/https://techcrunch.com/2011/07/20/backblaze-presents-their-bare-bones-7348-135tb-storage-pod-for-backup-on-the-cheap/">https://web.archive.org/web/https://techcrunch.com/2011/07/20/backblaze-presents-their-bare-bones-7348-135tb-storage-pod-for-backup-on-the-cheap/</a></blockquote><div><header class="article__header ">
+	<p class="article__title-wrapper">
+						</p><h1 class="article__title translated">BackBlaze展示了他们的裸机，7348，135TB的廉价备份存储盒</h1>
+		
+
+			
+	
+			
+	</header>
+
+			<div class="article-content">
+				<p id="speakable-summary" class="translated">早在2008年，我们就报道过BackBlaze基于云的备份系统<a href="https://web.archive.org/web/20221224144415/https://techcrunch.com/2008/06/02/backblaze-online-backup-with-time-machines-finesse/">，当时5美元的无限存储空间听起来一定像是一份圣诞礼物。自那以后，业务已经有所成熟，但他们确定的一件事可能变得更加重要，那就是扩展硬件。随着云备份和媒体服务的全面启动，数据存储空间比以往任何时候都更有价值，提供数TB和数Pb的空间对新兴公司越来越重要。</a></p>
+<p class="translated">2009年，BackBlaze非常友好地让每个人都知道他们“存储舱”的绝密设计规格，他们声称这种定制服务器单元使他们的价格成为可能(首席执行官Gleb Budman在<a href="https://web.archive.org/web/20221224144415/http://vimeo.com/24750400">的Ignite talk </a>中解释)。现在他们又来了。想要以远低于戴尔和惠普的价格构建自己的超低成本存储解决方案吗？<a href="https://web.archive.org/web/20221224144415/http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets">他们已经做了实地调查，并提供了一份零件分解图</a>。</p>
+<p class="translated">以前版本中的许多项目都不再可用，这让他们和有志于云计算的爱好者都感到困难。新部件可能会在两年左右的时间内消失，但如果有什么变化的话，主要成本(驱动器)会下降，容量会增加，而其他部件(主板、RAM等)将保持充足。</p>
+<p class="translated"><a href="https://web.archive.org/web/20221224144415/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg"> <img decoding="async" src="../Images/c2dc6dc706a31c443238c8c6ee881f21.png" alt="" title="backblaze-storage-pod-main-components" class="alignright size-full wp-image-394312" srcset="https://web.archive.org/web/20221224144415im_/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg 560w, https://web.archive.org/web/20221224144415im_/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg?resize=105,150 105w, https://web.archive.org/web/20221224144415im_/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg?resize=210,300 210w, https://web.archive.org/web/20221224144415im_/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg?resize=476,680 476w, https://web.archive.org/web/20221224144415im_/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg?resize=35,50 35w" sizes="(max-width: 560px) 100vw, 560px" data-original-src="https://web.archive.org/web/20221224144415im_/https://techcrunch.com/wp-content/uploads/2011/07/backblaze-storage-pod-main-components.jpg"/> </a>基本布局是一个微型ATX服务器主板，带有常见的端口和插槽阵列。有六个SATA端口，但它们并不用于存储本身。相反，BackBlaze放入了四个PCI Express SATA卡，然后将四个端口中的三个连接到倍增器，每个倍增器有<em>五个</em>端口——这是一个很大的数字，最终在一个案例中加起来有45个硬盘。系统本身有两个760瓦PSU、4GB RAM和一个160GB驱动器。我认为最后一点有点奢侈，并这样说，但BackBlaze的Gleb Budman向我保证，这几乎是你现在可以得到的最便宜的新驱动器(约40美元)。这一切都在ProtoCase制造的消防车红色定制箱内，这是最昂贵的组件，售价350美元。</p>
+<p class="translated">一个不可避免的后果是更大规模的单元故障，但这可以通过大规模的冗余来控制，当然也有算法和绝密软件来避免这样的数据丢失。我猜如果SATA控制器失控(或其他什么，我不知道)，如果你采取了正确的预防措施，即使135TB的数据丢失也是可以管理的。这里更可能的故障(驱动器)似乎没有任何额外的风险。</p>
+<p class="translated">拥有低成本硬件的好处是显而易见的，但我认为这不仅仅是省钱。成为你的领域的主人是有价值的:BackBlaze以许多公司没有的方式控制着他们的硬件，他们不需要亚马逊或戴尔的支持或维护。此外，每个部分都很容易更换，他们设计了系统(这真的很简单，不说容易)，所以他们从头到尾都知道它。也许正是这种前瞻性的倾向让<a href="https://web.archive.org/web/20221224144415/https://techcrunch.com/2010/08/27/backblaze/">差点让他们被收购</a>？</p>
+<p class="translated">你可以在BackBlaze的博客上阅读更多的技术细节(比如文件系统变化和集群统计数据)<a href="https://web.archive.org/web/20221224144415/http://blog.backblaze.com/2011/07/20/petabytes-on-a-budget-v2-0revealing-more-secrets">。我也建立了自己的系统，虽然我没有8000美元来复制他们的产品，但我喜欢他们的风格。</a></p>
+<p/>
+			</div>
+
+			</div>    
+</body>
+</html>
