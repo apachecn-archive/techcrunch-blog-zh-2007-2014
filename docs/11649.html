@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Siri Cracked Open, Theoretically Opening It Up To Other Devices (Or Even Android!) • TechCrunch</title>
+<link href="../Styles/Style.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<h1 class="translated">Siri破解了，理论上向其他设备开放(甚至安卓！)TechCrunch</h1>
+<blockquote>原文：<a href="https://web.archive.org/web/http://techcrunch.com/2011/11/14/siri-cracked-open-theoretically-opening-it-up-to-other-devices-or-even-android/">https://web.archive.org/web/http://techcrunch.com/2011/11/14/siri-cracked-open-theoretically-opening-it-up-to-other-devices-or-even-android/</a></blockquote><div><header class="article__header ">
+	<p class="article__title-wrapper">
+						</p><h1 class="article__title translated">Siri破解了，理论上向其他设备开放(甚至安卓！)</h1>
+		
+
+			
+	
+			
+	</header>
+
+			<div class="article-content">
+				<p id="speakable-summary" class="translated">iPhone设计/开发公司<a href="https://web.archive.org/web/20230204122107/http://applidium.com/"> Applidium </a>的人声称已经破解了Siri，未经许可就可以查看它的(<a href="https://web.archive.org/web/20230204122107/https://techcrunch.com/2011/10/04/siri-my-humble-female-personal-secretary/">她？</a> <a href="https://web.archive.org/web/20230204122107/http://www.pcmag.com/article2/0,2817,2396168,00.asp">建文帝？</a>)内部运作方式。在一个罕见的(但相当欢迎。我是说，我们。可能不是苹果公司)的举动，他们继续做了一个相当详细的任务报告，他们是如何通过的。</p>
+<p class="translated">那么，这对你意味着什么？从理论上来说，这意味着对苹果语音便携助手的支持不仅可以侵入iPhone 4等设备，还可以侵入从笔记本电脑到安卓手机的任何设备。正如“理论上”的斜体字所暗示的那样，这里有一点问题。</p>
+<p class="translated">问题是:最后，<em>任何试图与Siri后端通信的东西都需要有一个有效的iPhone 4S识别字符串，对每个4S都是唯一的。在像这样的一次性实验中，用一个从真实的4S中提取的字符串来欺骗这个字符串有点简单——苹果不会(/不可能)真正注意到。</em></p>
+<p class="translated">然而，如果有人要拼凑一个Android应用程序并进行分发，来自同一个唯一id的大量请求几乎肯定会触发黑名单。除非该应用程序有一个真实的唯一id的大池来轮换，否则可疑的活动将非常容易识别。</p>
+<p class="translated">我强烈推荐阅读Applidium的过程的完整概要，但是这里有TL；灾难恢复故障:</p>
+<ul>
+<li class="translated">通过将Siri连接到本地路由器，然后在数据通过时将其转储，他们意识到Siri正在将其所有数据发送到一个我们将称为“Guzzoni”的服务器。</li>
+<li class="translated">所有发送到古佐尼的流量都是通过HTTPS协议发送的。HTTPS的“S”代表“安全”,这种流量不会受到简单的数据包嗅探。因此，他们有了一个新的想法:制作一个假的Guzzoni服务器，然后看看在另一端传来了什么。</li>
+<li class="translated">在一个非常聪明的SSL证书骗局之后，他们让Siri向他们的假服务器发送命令。每个命令都有一个“X-Ace-Host”字符串，这似乎是每个iPhone 4S所独有的。</li>
+<li class="translated">在弄清楚苹果是如何压缩(读取:而不是加密)数据后，Applidium能够对其进行解压缩，并解析出一个准确发送内容的粗略草图(包括苹果使用的音频编解码器)，以及Siri期望的回报。</li>
+</ul>
+<p class="translated">这个过程完成后，Applidium试图在没有任何iPhone 4S的情况下与Siri对话。他们的第一个挑战？从运行自定义脚本的笔记本电脑进行语音转文本。果然:奏效了。Siri咀嚼了声音文件(一段他们说“Siri的自主演示”的录音)，眼睛都没眨一下(因为他们的工具使用的是他们的iPhone 4S的实际唯一ID)，并返回了大量数据，详细说明Siri听到了什么，以及对每个单词有多确定。</p>
+<p class="translated">难以置信。Applidium的人已经为其他人提供了一些工具来重现他们的步骤——但是，就目前的情况来看，除了一个相当酷的概念验证之外，没有什么可以做的了。</p>
+			</div>
+
+			</div>    
+</body>
+</html>
