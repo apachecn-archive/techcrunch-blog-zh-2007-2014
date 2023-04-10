@@ -1,4 +1,4 @@
-# Su.pr 短链接能拯救 StumbleUpon 吗？(250 个私人测试邀请)TechCrunch
+# Su.pr 短链接能拯救 StumbleUpon 吗？(250 个私人测试邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/09/stumbleupons-supr-url-shortening-service-is-now-in-private-beta-250-invites/>
 

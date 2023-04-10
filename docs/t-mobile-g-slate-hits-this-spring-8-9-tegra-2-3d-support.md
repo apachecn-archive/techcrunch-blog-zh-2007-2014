@@ -1,4 +1,4 @@
-# T-Mobile G-Slate 今春上市:8.9 英寸、Tegra 2、3D 支持 TechCrunch
+# T-Mobile G-Slate 今春上市:8.9 英寸、Tegra 2、3D 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/02/t-mobile-g-slate-hits-this-spring-8-9-tegra-2-3d-support/>
 

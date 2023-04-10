@@ -1,4 +1,4 @@
-# 威瑞森无线将与 iTunes 一战——TechCrunch
+# 威瑞森无线将与 iTunes 一战——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/verizon-wireless-to-battle-itunes/>
 

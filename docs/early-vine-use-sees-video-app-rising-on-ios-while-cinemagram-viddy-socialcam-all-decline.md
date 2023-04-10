@@ -1,4 +1,4 @@
-# 早期 Vine 应用见证了视频应用在 iOS 上的崛起，而 Cinemagram、Viddy、Socialcam 都在衰落 TechCrunch
+# 早期 Vine 应用见证了视频应用在 iOS 上的崛起，而 Cinemagram、Viddy、Socialcam 都在衰落 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/early-vine-use-sees-video-app-rising-on-ios-while-cinemagram-viddy-socialcam-all-decline/>
 

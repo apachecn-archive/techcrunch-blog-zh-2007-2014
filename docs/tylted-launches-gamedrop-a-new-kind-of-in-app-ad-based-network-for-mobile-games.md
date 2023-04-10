@@ -1,4 +1,4 @@
-# Tylted 推出 GameDrop，这是一种新的基于广告的手机游戏应用程序网络 TechCrunch
+# Tylted 推出 GameDrop，这是一种新的基于广告的手机游戏应用程序网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/tylted-launches-gamedrop-a-new-kind-of-in-app-ad-based-network-for-mobile-games/>
 

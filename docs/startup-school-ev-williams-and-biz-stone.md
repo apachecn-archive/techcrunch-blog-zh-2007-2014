@@ -1,4 +1,4 @@
-# 创业学校:Ev Williams 和比兹·斯通承认，甚至 Twitter 一开始也认为 Twitter 很蠢 TechCrunch
+# 创业学校:Ev Williams 和比兹·斯通承认，甚至 Twitter 一开始也认为 Twitter 很蠢 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/24/startup-school-ev-williams-and-biz-stone/>
 

@@ -1,4 +1,4 @@
-# YotaPhone 背面有一个 E-Ink 显示屏，简直太棒了 TechCrunch
+# YotaPhone 背面有一个 E-Ink 显示屏，简直太棒了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/10/the-yotaphone-has-an-e-ink-display-on-the-back-and-thats-simply-awesome/>
 

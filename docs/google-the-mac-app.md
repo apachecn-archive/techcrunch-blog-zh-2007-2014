@@ -1,4 +1,4 @@
-# Google+，苹果应用 TechCrunch
+# Google+，苹果应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/google-the-mac-app/>
 

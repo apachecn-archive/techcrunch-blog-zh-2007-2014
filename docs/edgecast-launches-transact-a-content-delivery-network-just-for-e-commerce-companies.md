@@ -1,4 +1,4 @@
-# EdgeCast 专为电子商务公司推出新的内容交付网络 TechCrunch
+# EdgeCast 专为电子商务公司推出新的内容交付网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/22/edgecast-launches-transact-a-content-delivery-network-just-for-e-commerce-companies/>
 

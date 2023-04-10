@@ -1,4 +1,4 @@
-# 移动转账服务轻松完成 550 万美元的首轮融资 TechCrunch
+# 移动转账服务轻松完成 550 万美元的首轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/06/mobile-money-transfer-service-remitly-closes-5-5-million-series-a/>
 

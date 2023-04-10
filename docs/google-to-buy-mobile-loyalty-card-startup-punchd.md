@@ -1,4 +1,4 @@
-# 谷歌将收购移动积分卡初创公司 Punchd TechCrunch
+# 谷歌将收购移动积分卡初创公司 Punchd 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/08/google-to-buy-mobile-loyalty-card-startup-punchd/>
 

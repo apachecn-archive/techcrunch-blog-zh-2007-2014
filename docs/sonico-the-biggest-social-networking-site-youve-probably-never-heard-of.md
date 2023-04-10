@@ -1,4 +1,4 @@
-# Sonico:你可能从未听说过的最大的社交网站 TechCrunch
+# Sonico:你可能从未听说过的最大的社交网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/02/16/sonico-the-biggest-social-networking-site-youve-probably-never-heard-of/>
 

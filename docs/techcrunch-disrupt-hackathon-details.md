@@ -1,4 +1,4 @@
-# TechCrunch 扰乱黑客马拉松细节！TechCrunch
+# TechCrunch 扰乱黑客马拉松细节！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/08/techcrunch-disrupt-hackathon-details/>
 

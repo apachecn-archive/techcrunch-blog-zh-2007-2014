@@ -1,4 +1,4 @@
-# 贾维斯是一个私人助理，超越了 Siri，拥抱互联家庭 TechCrunch
+# 贾维斯是一个私人助理，超越了 Siri，拥抱互联家庭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/28/jarvis-is-a-personal-assistant-that-goes-beyond-siri-to-embrace-the-connected-home/>
 

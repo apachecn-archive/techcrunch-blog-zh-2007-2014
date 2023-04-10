@@ -1,4 +1,4 @@
-# iSpot.tv 脱颖而出，成为商业广告的 IMDB，并提供新的第二屏幕营销平台 TechCrunch
+# iSpot.tv 脱颖而出，成为商业广告的 IMDB，并提供新的第二屏幕营销平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/ispot-tv-launch/>
 

@@ -1,4 +1,4 @@
-# 现场报道:优步在芝加哥测试其颠覆性汽车服务 TechCrunch
+# 现场报道:优步在芝加哥测试其颠覆性汽车服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/spotted-uber-testing-its-disruptive-car-service-in-chicago/>
 

@@ -1,4 +1,4 @@
-# AOL 将以约 1000 万美元的价格出售 Bebo TechCrunch
+# AOL 将以约 1000 万美元的价格出售 Bebo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/aol-to-sell-bebo-for-around-10-million/>
 

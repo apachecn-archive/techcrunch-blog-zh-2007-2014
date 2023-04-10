@@ -1,4 +1,4 @@
-# 在雅虎的混乱中，美国在线收购了 TechCrunch
+# 在雅虎的混乱中，美国在线收购了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/03/exclusive-amid-yahoo-turmoil-aol-makes-an-acquisition/>
 

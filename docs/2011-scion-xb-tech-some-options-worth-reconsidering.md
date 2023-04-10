@@ -1,4 +1,4 @@
-# 2011 Scion xB 技术:物质之光 TechCrunch
+# 2011 Scion xB 技术:物质之光 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/18/2011-scion-xb-tech-some-options-worth-reconsidering/>
 

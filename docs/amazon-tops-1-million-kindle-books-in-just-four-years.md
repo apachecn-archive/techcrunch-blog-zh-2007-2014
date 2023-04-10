@@ -1,4 +1,4 @@
-# 亚马逊在短短四年内突破 100 万本 Kindle 图书 TechCrunch
+# 亚马逊在短短四年内突破 100 万本 Kindle 图书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/amazon-tops-1-million-kindle-books-in-just-four-years/>
 

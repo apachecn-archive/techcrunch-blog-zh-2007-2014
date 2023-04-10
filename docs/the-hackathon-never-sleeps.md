@@ -1,4 +1,4 @@
-# 黑客马拉松从不睡觉 TechCrunch
+# 黑客马拉松从不睡觉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/the-hackathon-never-sleeps/>
 

@@ -1,4 +1,4 @@
-# 微软收入增长 7%至 173.7 亿美元，每股收益 0.68 美元 TechCrunch
+# 微软收入增长 7%至 173.7 亿美元，每股收益 0.68 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/microsoft-revenue-up-7-to-17-37b-earnings-at-0-68-per-share/>
 

@@ -1,4 +1,4 @@
-# 爱立信预测，到 2016 年，移动宽带用户将达到 50 亿，数据流量将增长 10 倍 TechCrunch
+# 爱立信预测，到 2016 年，移动宽带用户将达到 50 亿，数据流量将增长 10 倍 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/ericsson-forecasts-5-billion-mobile-broadband-subscribers-data-traffic-to-grow-tenfold-by-2016/>
 

@@ -1,4 +1,4 @@
-# 你的 PC 符合《孤岛危机 2》的系统要求吗？–TechCrunch
+# 你的 PC 符合《孤岛危机 2》的系统要求吗？–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/18/does-your-pc-meet-crysis-2s-system-requirements/>
 

@@ -1,4 +1,4 @@
-# 社交表现平台 Rypple 来到 iPhone TechCrunch
+# 社交表现平台 Rypple 来到 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/social-performance-platform-rypple-comes-to-iphone/>
 

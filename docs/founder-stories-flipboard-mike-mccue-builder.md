@@ -1,4 +1,4 @@
-# (创始人故事)FlipBoard 的迈克麦库埃:建设者 TechCrunch
+# (创始人故事)FlipBoard 的迈克麦库埃:建设者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/09/founder-stories-flipboard-mike-mccue-builder/>
 

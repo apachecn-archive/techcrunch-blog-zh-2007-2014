@@ -1,4 +1,4 @@
-# 儿童视角的微软儿童版 Kinect TechCrunch
+# 儿童视角的微软儿童版 Kinect 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/a-childs-eye-view-of-microsofts-kinect-for-kids/>
 

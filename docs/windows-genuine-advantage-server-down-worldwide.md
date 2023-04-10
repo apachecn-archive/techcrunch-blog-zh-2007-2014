@@ -1,4 +1,4 @@
-# Windows Genuine Advantage 服务器全球宕机 TechCrunch
+# Windows Genuine Advantage 服务器全球宕机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/25/windows-genuine-advantage-server-down-worldwide/>
 

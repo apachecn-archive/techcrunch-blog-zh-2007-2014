@@ -1,4 +1,4 @@
-# Twitter 在手机上测试更具吸引力的个人资料设计 TechCrunch
+# Twitter 在手机上测试更具吸引力的个人资料设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/twitter-tests-more-inviting-profile-designs-on-mobile/>
 

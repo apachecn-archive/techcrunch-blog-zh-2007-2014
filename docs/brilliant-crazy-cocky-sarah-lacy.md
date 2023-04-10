@@ -1,4 +1,4 @@
-# 聪明、疯狂、自大:莎拉·莱西的新书仅此而已。但是...TechCrunch
+# 聪明、疯狂、自大:莎拉·莱西的新书仅此而已。但是...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/07/brilliant-crazy-cocky-sarah-lacy/>
 

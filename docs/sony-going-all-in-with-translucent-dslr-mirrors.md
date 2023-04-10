@@ -1,4 +1,4 @@
-# 索尼全力以赴打造半透明相机镜 TechCrunch
+# 索尼全力以赴打造半透明相机镜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/24/sony-going-all-in-with-translucent-dslr-mirrors/>
 

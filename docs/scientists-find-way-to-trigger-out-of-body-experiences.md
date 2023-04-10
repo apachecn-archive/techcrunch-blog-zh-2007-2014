@@ -1,4 +1,4 @@
-# 科学家找到引发灵魂出窍的方法 TechCrunch
+# 科学家找到引发灵魂出窍的方法 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/scientists-find-way-to-trigger-out-of-body-experiences/>
 

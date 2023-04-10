@@ -1,4 +1,4 @@
-# WhiteMagic:索尼展示用于相机和手机的下一代 LCD TechCrunch
+# WhiteMagic:索尼展示用于相机和手机的下一代 LCD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/whitemagic-sony-shows-next-generation-lcd-for-cameras-and-phones/>
 

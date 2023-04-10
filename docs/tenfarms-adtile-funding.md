@@ -1,4 +1,4 @@
-# TenFarms 筹集 270 万美元推出移动广告新途径 Adtile TechCrunch
+# TenFarms 筹集 270 万美元推出移动广告新途径 Adtile 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/07/tenfarms-adtile-funding/>
 

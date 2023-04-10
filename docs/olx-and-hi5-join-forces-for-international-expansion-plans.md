@@ -1,4 +1,4 @@
-# OLX 和 hi5 联手实施国际扩张计划 TechCrunch
+# OLX 和 hi5 联手实施国际扩张计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/06/olx-and-hi5-join-forces-for-international-expansion-plans/>
 

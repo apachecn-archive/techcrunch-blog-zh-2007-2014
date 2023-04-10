@@ -1,4 +1,4 @@
-# Nvidia 将 Kepler 引入移动设备，提供与 iPad 4 相同的图形处理能力，但电池消耗只有 iPad 4 的三分之一 TechCrunch
+# Nvidia 将 Kepler 引入移动设备，提供与 iPad 4 相同的图形处理能力，但电池消耗只有 iPad 4 的三分之一 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/24/nvidia-brings-kepler-to-mobile-offers-same-graphics-power-as-ipad-4-with-one-third-the-battery-drain/>
 

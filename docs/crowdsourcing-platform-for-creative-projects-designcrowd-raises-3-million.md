@@ -1,4 +1,4 @@
-# 创意项目设计众包平台众包融资 300 万美元 TechCrunch
+# 创意项目设计众包平台众包融资 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/crowdsourcing-platform-for-creative-projects-designcrowd-raises-3-million/>
 

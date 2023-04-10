@@ -1,4 +1,4 @@
-# Gov 2.0 中的机会金矿 TechCrunch
+# Gov 2.0 中的机会金矿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/23/the-goldmine-of-opportunities-in-gov-2-0/>
 

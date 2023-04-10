@@ -1,4 +1,4 @@
-# 音乐搜索初创公司 SoundHound 与 Spotify 合作提供即时流媒体服务 TechCrunch
+# 音乐搜索初创公司 SoundHound 与 Spotify 合作提供即时流媒体服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/music-search-startup-soundhound-partners-with-spotify-for-instant-streaming/>
 

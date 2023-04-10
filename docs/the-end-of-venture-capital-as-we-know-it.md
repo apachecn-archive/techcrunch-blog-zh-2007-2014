@@ -1,4 +1,4 @@
-# 我们所知的风险投资的终结？TechCrunch
+# 我们所知的风险投资的终结？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/06/the-end-of-venture-capital-as-we-know-it/>
 

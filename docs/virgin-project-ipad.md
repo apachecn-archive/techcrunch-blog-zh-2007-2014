@@ -1,4 +1,4 @@
-# 维珍的纯 iPad 项目登陆应用商店；每期 2.99 美元，需要 iOS 4.2 TechCrunch
+# 维珍的纯 iPad 项目登陆应用商店；每期 2.99 美元，需要 iOS 4.2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/30/virgin-project-ipad/>
 

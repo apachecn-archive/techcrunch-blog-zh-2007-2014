@@ -1,4 +1,4 @@
-# 盈利的旧金山金融公司推出新的支付方式[TCTV]TechCrunch
+# 盈利的旧金山金融公司推出新的支付方式[TCTV]
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/04/profitable-san-francisco-financial-company-launches-new-form-of-payment-tctv/>
 

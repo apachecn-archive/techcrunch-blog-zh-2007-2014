@@ -1,4 +1,4 @@
-# 实时网络直播。。。随你怎么称呼，需要一段时间才能理解 TechCrunch
+# 实时网络直播。。。随你怎么称呼，需要一段时间才能理解 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/30/live-web-real-time-call-it-what-you-will-its-gonna-take-a-while-to-get-it/>
 

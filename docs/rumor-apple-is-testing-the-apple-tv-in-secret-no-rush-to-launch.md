@@ -1,4 +1,4 @@
-# 谣言:苹果正在秘密测试苹果电视，不急于推出 TechCrunch
+# 谣言:苹果正在秘密测试苹果电视，不急于推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/19/rumor-apple-is-testing-the-apple-tv-in-secret-no-rush-to-launch/>
 

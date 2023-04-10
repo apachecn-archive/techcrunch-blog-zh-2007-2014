@@ -1,4 +1,4 @@
-# 呵呵呵:5000 个 Hulu 邀请我们的读者 TechCrunch
+# 呵呵呵:5000 个 Hulu 邀请我们的读者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/20/ho-ho-ho-2500-hulu-invites-for-our-readers/>
 

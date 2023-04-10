@@ -1,4 +1,4 @@
-# 你真的能在硅谷之外建立一个伟大的科技公司吗？TechCrunch
+# 你真的能在硅谷之外建立一个伟大的科技公司吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/can-you-really-build-a-great-tech-firm-outside-silicon-valley/>
 

@@ -1,4 +1,4 @@
-# T-Mobile 的 Galaxy S II 处理器透露:这是一款高通！TechCrunch
+# T-Mobile 的 Galaxy S II 处理器透露:这是一款高通！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/t-mobiles-galaxy-s-ii-processor-revealed-its-a-qualcomm/>
 

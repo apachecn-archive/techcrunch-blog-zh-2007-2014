@@ -1,4 +1,4 @@
-# IAC 旗下的 CityGrid Media 以大约 3000 万美元的价格收购了 Yext 旗下的付费广告业务 Felix TechCrunch
+# IAC 旗下的 CityGrid Media 以大约 3000 万美元的价格收购了 Yext 旗下的付费广告业务 Felix 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/20/iac-buys-yexts-pay-per-call-ad-business-felix-for-around-30-million/>
 

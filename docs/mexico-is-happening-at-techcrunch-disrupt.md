@@ -1,4 +1,4 @@
-# 墨西哥发生在 TechCrunch Disrupt TechCrunch
+# 墨西哥发生在 TechCrunch Disrupt 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/03/mexico-is-happening-at-techcrunch-disrupt/>
 

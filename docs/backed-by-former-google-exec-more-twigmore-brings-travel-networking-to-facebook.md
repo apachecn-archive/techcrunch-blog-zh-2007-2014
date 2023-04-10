@@ -1,4 +1,4 @@
-# 在前 Google Exec & More 的支持下，Twigmore 将旅游网络引入脸书 TechCrunch
+# 在前 Google Exec & More 的支持下，Twigmore 将旅游网络引入脸书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/18/backed-by-former-google-exec-more-twigmore-brings-travel-networking-to-facebook/>
 

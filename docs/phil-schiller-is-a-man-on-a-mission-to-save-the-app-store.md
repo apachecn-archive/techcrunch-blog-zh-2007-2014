@@ -1,4 +1,4 @@
-# 菲尔·席勒肩负使命:拯救应用商店 TechCrunch
+# 菲尔·席勒肩负使命:拯救应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/15/phil-schiller-is-a-man-on-a-mission-to-save-the-app-store/>
 

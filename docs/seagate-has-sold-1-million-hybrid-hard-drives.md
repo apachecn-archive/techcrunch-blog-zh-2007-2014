@@ -1,4 +1,4 @@
-# 希捷已售出 100 万块混合硬盘 TechCrunch
+# 希捷已售出 100 万块混合硬盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/seagate-has-sold-1-million-hybrid-hard-drives/>
 

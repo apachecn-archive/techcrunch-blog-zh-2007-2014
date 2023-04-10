@@ -1,4 +1,4 @@
-# Striiv 推出便携式健康设备，将健身与游戏融为一体 TechCrunch
+# Striiv 推出便携式健康设备，将健身与游戏融为一体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/striiv-launches-portable-health-device-that-blends-fitness-with-gaming/>
 

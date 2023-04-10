@@ -1,4 +1,4 @@
-# 热衷于...为什么女性擅长社交媒体(TCTV)TechCrunch
+# 热衷于...为什么女性擅长社交媒体(TCTV)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/why-women-excel-in-social-media-tctv/>
 

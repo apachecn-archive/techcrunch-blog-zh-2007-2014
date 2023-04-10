@@ -1,4 +1,4 @@
-# Lexus 雷克萨斯获得定位功能，便于位置管理 TechCrunch
+# Lexus 雷克萨斯获得定位功能，便于位置管理 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/lexus-gets-edestination-fucntionality-for-easy-location-management/>
 

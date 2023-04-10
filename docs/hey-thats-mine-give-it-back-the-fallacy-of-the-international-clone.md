@@ -1,4 +1,4 @@
-# 嘿，那是我的！还给我！国际克隆的谬误 TechCrunch
+# 嘿，那是我的！还给我！国际克隆的谬误 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/08/hey-thats-mine-give-it-back-the-fallacy-of-the-international-clone/>
 

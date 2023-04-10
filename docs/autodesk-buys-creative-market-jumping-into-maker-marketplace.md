@@ -1,4 +1,4 @@
-# Autodesk 收购 Creative Market，通过面向设计师和制造商的市场与 Adobe 抗衡 TechCrunch
+# Autodesk 收购 Creative Market，通过面向设计师和制造商的市场与 Adobe 抗衡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/autodesk-buys-creative-market-jumping-into-maker-marketplace/>
 

@@ -1,4 +1,4 @@
-# 移动网络买家比短信买家更好？TechCrunch
+# 移动网络买家比短信买家更好？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/mobile-web-buyers-better-than-sms-buyers/>
 

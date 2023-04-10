@@ -1,4 +1,4 @@
-# Gizmon iCA 可能是终极的 iPhone 相机外壳 TechCrunch
+# Gizmon iCA 可能是终极的 iPhone 相机外壳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/29/the-gizmon-ica-might-be-the-ultimate-iphone-camera-case/>
 

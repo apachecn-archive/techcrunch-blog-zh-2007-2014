@@ -1,4 +1,4 @@
-# Thrutu 为 iPhone 带来电话多任务处理应用 TechCrunch
+# Thrutu 为 iPhone 带来电话多任务处理应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/thrutu-brings-phone-call-multitasking-app-to-the-iphone/>
 

@@ -1,4 +1,4 @@
-# 作为 MySpace 首席执行官的额外津贴显然包括帕丽斯希尔顿 TechCrunch
+# 作为 MySpace 首席执行官的额外津贴显然包括帕丽斯希尔顿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/08/the-perks-of-being-the-myspace-cofounder-include-apparently-paris-hilton/>
 

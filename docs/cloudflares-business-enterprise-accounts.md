@@ -1,4 +1,4 @@
-# CloudFlare 借助支持、SLA、DDoS 缓解和 Railgun 推出业务和企业客户 TechCrunch
+# CloudFlare 借助支持、SLA、DDoS 缓解和 Railgun 推出业务和企业客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/06/cloudflares-business-enterprise-accounts/>
 

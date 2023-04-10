@@ -1,4 +1,4 @@
-# 雅虎自 2006 年初以来首次收于 38 美元以上 TechCrunch
+# 雅虎自 2006 年初以来首次收于 38 美元以上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/04/yahoo-closes-above-38-for-the-first-time-since-early-2006/>
 

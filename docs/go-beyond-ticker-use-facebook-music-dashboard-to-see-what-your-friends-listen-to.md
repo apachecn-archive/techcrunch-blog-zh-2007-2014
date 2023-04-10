@@ -1,4 +1,4 @@
-# 超越 Ticker，使用脸书音乐仪表盘查看您的朋友在听什么 TechCrunch
+# 超越 Ticker，使用脸书音乐仪表盘查看您的朋友在听什么 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/go-beyond-ticker-use-facebook-music-dashboard-to-see-what-your-friends-listen-to/>
 

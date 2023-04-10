@@ -1,4 +1,4 @@
-# 全新柯达 Easyshare superzoom 看起来很坚固 TechCrunch
+# 全新柯达 Easyshare superzoom 看起来很坚固 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/new-kodak-easyshare-superzoom-looks-solid/>
 

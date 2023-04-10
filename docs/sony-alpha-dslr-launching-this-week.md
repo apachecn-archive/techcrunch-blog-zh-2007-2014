@@ -1,4 +1,4 @@
-# 索尼阿尔法 DSLR 本周推出？TechCrunch
+# 索尼阿尔法 DSLR 本周推出？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/04/sony-alpha-dslr-launching-this-week/>
 

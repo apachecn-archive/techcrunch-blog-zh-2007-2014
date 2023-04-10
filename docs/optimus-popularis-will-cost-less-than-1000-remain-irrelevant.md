@@ -1,4 +1,4 @@
-# Optimus Popularis 的价格不到 1000 美元，仍然无关紧要 TechCrunch
+# Optimus Popularis 的价格不到 1000 美元，仍然无关紧要 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/optimus-popularis-will-cost-less-than-1000-remain-irrelevant/>
 

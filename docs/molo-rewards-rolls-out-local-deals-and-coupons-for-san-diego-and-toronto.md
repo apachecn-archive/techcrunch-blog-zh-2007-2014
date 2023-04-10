@@ -1,4 +1,4 @@
-# MoLo Rewards 推出圣地亚哥和多伦多的本地交易和优惠券 TechCrunch
+# MoLo Rewards 推出圣地亚哥和多伦多的本地交易和优惠券 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/15/molo-rewards-rolls-out-local-deals-and-coupons-for-san-diego-and-toronto/>
 

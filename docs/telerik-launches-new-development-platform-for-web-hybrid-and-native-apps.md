@@ -1,4 +1,4 @@
-# Telerik 为 Web、混合和本地应用推出新的开发平台 TechCrunch
+# Telerik 为 Web、混合和本地应用推出新的开发平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/telerik-launches-new-development-platform-for-web-hybrid-and-native-apps/>
 

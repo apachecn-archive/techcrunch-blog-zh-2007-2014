@@ -1,4 +1,4 @@
-# 谷歌版:分而治之 TechCrunch
+# 谷歌版:分而治之 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/01/google-editions-divide-and-conquer/>
 

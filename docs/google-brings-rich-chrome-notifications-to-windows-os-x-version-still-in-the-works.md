@@ -1,4 +1,4 @@
-# 谷歌为 Windows 带来丰富的 Chrome 通知，OS X 版本仍在开发中 TechCrunch
+# 谷歌为 Windows 带来丰富的 Chrome 通知，OS X 版本仍在开发中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/09/google-brings-rich-chrome-notifications-to-windows-os-x-version-still-in-the-works/>
 

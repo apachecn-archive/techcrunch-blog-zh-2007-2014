@@ -1,4 +1,4 @@
-# Synaptics 在视频中演示 Windows 8 触控板手势 TechCrunch
+# Synaptics 在视频中演示 Windows 8 触控板手势 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/synaptics-demonstrates-windows-8-trackpad-gestures-on-video/>
 

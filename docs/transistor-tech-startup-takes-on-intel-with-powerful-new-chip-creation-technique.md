@@ -1,4 +1,4 @@
-# 晶体管技术初创公司凭借强大的新芯片制造技术挑战英特尔 TechCrunch
+# 晶体管技术初创公司凭借强大的新芯片制造技术挑战英特尔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/transistor-tech-startup-takes-on-intel-with-powerful-new-chip-creation-technique/>
 

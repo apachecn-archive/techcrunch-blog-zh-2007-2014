@@ -1,4 +1,4 @@
-# 苹果在价值上超过微软会怎样？是的，什么时候。TechCrunch
+# 苹果在价值上超过微软会怎样？是的，什么时候。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/26/apple-microsoft-stock/>
 

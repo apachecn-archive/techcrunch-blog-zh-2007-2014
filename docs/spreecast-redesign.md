@@ -1,4 +1,4 @@
-# 社交视频广播初创公司 Spreecast 带着新设计走出测试版 TechCrunch
+# 社交视频广播初创公司 Spreecast 带着新设计走出测试版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/21/spreecast-redesign/>
 

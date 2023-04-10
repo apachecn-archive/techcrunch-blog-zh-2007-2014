@@ -1,4 +1,4 @@
-# FriendFeed 的搜索结果也是实时的 TechCrunch
+# FriendFeed 的搜索结果也是实时的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/02/friendfeed-makes-its-search-results-real-time-too/>
 

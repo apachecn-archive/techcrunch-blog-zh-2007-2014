@@ -1,4 +1,4 @@
-# Twilio Connect 简化了 Twilio 应用的销售 TechCrunch
+# Twilio Connect 简化了 Twilio 应用的销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/twilio-connect-makes-charging-for-twilio-powered-apps-less-complicated/>
 

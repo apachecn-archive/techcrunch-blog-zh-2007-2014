@@ -1,4 +1,4 @@
-# 谷歌将出售表演艺术 TechCrunch
+# 谷歌将出售表演艺术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/02/google-to-sell-performics/>
 

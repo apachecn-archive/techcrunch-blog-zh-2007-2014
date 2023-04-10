@@ -1,4 +1,4 @@
-# NTT Docomo 的案例让智能手机可以测量辐射、体脂、酒精 TechCrunch
+# NTT Docomo 的案例让智能手机可以测量辐射、体脂、酒精 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/ntt-docomos-cases-make-smartphones-measure-radiation-body-fat-alcohol/>
 

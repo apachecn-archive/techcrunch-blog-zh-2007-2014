@@ -1,4 +1,4 @@
-# 戴尔将收购数据中心解决方案提供商 force 10 Networks TechCrunch
+# 戴尔将收购数据中心解决方案提供商 force 10 Networks 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/dell-to-buy-data-center-solutions-provider-force10-networks/>
 

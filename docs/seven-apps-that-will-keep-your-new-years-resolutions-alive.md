@@ -1,4 +1,4 @@
-# 让你的新年决心保持活力的 7 个应用程序 TechCrunch
+# 让你的新年决心保持活力的 7 个应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/31/seven-apps-that-will-keep-your-new-years-resolutions-alive/>
 

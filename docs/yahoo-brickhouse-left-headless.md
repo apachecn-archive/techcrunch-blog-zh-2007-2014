@@ -1,4 +1,4 @@
-# Brickhouse Head 离开雅虎 TechCrunch
+# Brickhouse Head 离开雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/12/yahoo-brickhouse-left-headless/>
 

@@ -1,4 +1,4 @@
-# 脸书的 S-1 显示:每月有 8.45 亿用户，一半以上是日常用户，一半是移动用户 TechCrunch
+# 脸书的 S-1 显示:每月有 8.45 亿用户，一半以上是日常用户，一半是移动用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/01/facebooks-s-1-845-million-users-every-month-more-than-half-daily-and-nearly-half-mobile/>
 

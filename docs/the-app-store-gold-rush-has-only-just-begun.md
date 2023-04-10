@@ -1,4 +1,4 @@
-# App Store 淘金热才刚刚开始 TechCrunch
+# App Store 淘金热才刚刚开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/10/the-app-store-gold-rush-has-only-just-begun/>
 

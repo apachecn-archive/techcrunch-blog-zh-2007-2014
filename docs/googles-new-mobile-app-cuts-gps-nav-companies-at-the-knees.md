@@ -1,4 +1,4 @@
-# 谷歌新的移动应用程序令 GPS 导航公司望尘莫及 TechCrunch
+# 谷歌新的移动应用程序令 GPS 导航公司望尘莫及 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/28/googles-new-mobile-app-cuts-gps-nav-companies-at-the-knees/>
 

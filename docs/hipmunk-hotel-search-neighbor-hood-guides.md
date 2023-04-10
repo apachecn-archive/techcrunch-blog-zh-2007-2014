@@ -1,4 +1,4 @@
-# Hipmunk 推出改进的酒店搜索，并配有当地人撰写的社区指南 TechCrunch
+# Hipmunk 推出改进的酒店搜索，并配有当地人撰写的社区指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/hipmunk-hotel-search-neighbor-hood-guides/>
 

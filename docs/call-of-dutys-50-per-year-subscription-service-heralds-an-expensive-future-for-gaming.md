@@ -1,4 +1,4 @@
-# 使命召唤每年 50 美元的订阅服务预示着游戏昂贵的未来 TechCrunch
+# 使命召唤每年 50 美元的订阅服务预示着游戏昂贵的未来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/call-of-dutys-50-per-year-subscription-service-heralds-an-expensive-future-for-gaming/>
 

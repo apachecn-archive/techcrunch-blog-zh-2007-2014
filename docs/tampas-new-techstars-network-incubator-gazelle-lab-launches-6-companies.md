@@ -1,4 +1,4 @@
-# 坦帕的新 TechStars 网络孵化器 Gazelle Lab 成立了 6 家公司 TechCrunch
+# 坦帕的新 TechStars 网络孵化器 Gazelle Lab 成立了 6 家公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/tampas-new-techstars-network-incubator-gazelle-lab-launches-6-companies/>
 

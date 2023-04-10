@@ -1,4 +1,4 @@
-# 就在 Spotify 融入美国生活方式的同时，它也因专利侵权被起诉 TechCrunch
+# 就在 Spotify 融入美国生活方式的同时，它也因专利侵权被起诉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/just-as-spotify-settles-into-the-u-s-lifestyle-it-gets-sued-for-patent-infringement/>
 

@@ -1,4 +1,4 @@
-# 谷歌秘密向 Zynga 投资 1 亿多美元，准备推出谷歌游戏 TechCrunch
+# 谷歌秘密向 Zynga 投资 1 亿多美元，准备推出谷歌游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/10/google-secretly-invested-100-million-in-zynga-preparing-to-launch-google-games/>
 

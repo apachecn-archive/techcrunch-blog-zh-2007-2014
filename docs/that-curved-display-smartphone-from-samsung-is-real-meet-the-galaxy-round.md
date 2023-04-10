@@ -1,4 +1,4 @@
-# 三星的曲面显示智能手机是真的:认识 Galaxy Round TechCrunch
+# 三星的曲面显示智能手机是真的:认识 Galaxy Round 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/08/that-curved-display-smartphone-from-samsung-is-real-meet-the-galaxy-round/>
 

@@ -1,4 +1,4 @@
-# TomTom 最终承认它正在退出设备市场；股东欢欣鼓舞 TechCrunch
+# TomTom 最终承认它正在退出设备市场；股东欢欣鼓舞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/tomtom-finally-acknowledges-its-getting-out-of-devices-shareholders-rejoice/>
 

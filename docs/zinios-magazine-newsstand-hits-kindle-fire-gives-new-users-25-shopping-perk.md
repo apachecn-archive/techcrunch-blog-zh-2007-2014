@@ -1,4 +1,4 @@
-# Zinio 的杂志报摊推出 Kindle Fire，为新用户提供 25 美元的购物补贴 TechCrunch
+# Zinio 的杂志报摊推出 Kindle Fire，为新用户提供 25 美元的购物补贴 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/zinios-magazine-newsstand-hits-kindle-fire-gives-new-users-25-shopping-perk/>
 

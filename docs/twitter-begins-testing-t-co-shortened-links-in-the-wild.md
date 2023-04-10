@@ -1,4 +1,4 @@
-# Twitter 今天开始测试 t.co 缩短链接 TechCrunch
+# Twitter 今天开始测试 t.co 缩短链接 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/twitter-begins-testing-t-co-shortened-links-in-the-wild/>
 

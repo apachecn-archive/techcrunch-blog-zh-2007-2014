@@ -1,4 +1,4 @@
-# Brightcove 3(泄露的截图)TechCrunch
+# Brightcove 3(泄露的截图)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/12/brightcove-3-leaked-screenshots/>
 

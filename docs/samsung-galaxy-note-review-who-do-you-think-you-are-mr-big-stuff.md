@@ -1,4 +1,4 @@
-# 三星 Galaxy Note 评测:你以为你是谁？大人物先生？TechCrunch
+# 三星 Galaxy Note 评测:你以为你是谁？大人物先生？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/samsung-galaxy-note-review-who-do-you-think-you-are-mr-big-stuff/>
 

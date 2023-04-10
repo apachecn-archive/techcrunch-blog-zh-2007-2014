@@ -1,4 +1,4 @@
-# Pressly 将网站转变为平板电脑友好的 HTML5 网络应用 TechCrunch
+# Pressly 将网站转变为平板电脑友好的 HTML5 网络应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/pressly-turns-websites-into-tablet-friendly-html5-web-apps/>
 

@@ -1,4 +1,4 @@
-# Powhow:前谷歌公司推出网络视频直播课程在线市场 TechCrunch
+# Powhow:前谷歌公司推出网络视频直播课程在线市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/10/powhow-beta-launch/>
 

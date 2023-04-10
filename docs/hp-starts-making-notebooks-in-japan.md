@@ -1,4 +1,4 @@
-# 惠普开始在日本生产笔记本电脑 TechCrunch
+# 惠普开始在日本生产笔记本电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/hp-starts-making-notebooks-in-japan/>
 

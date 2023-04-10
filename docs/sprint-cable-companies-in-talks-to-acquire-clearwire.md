@@ -1,4 +1,4 @@
-# Sprint、有线电视公司正在谈判收购 Clearwire TechCrunch
+# Sprint、有线电视公司正在谈判收购 Clearwire 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/sprint-cable-companies-in-talks-to-acquire-clearwire/>
 

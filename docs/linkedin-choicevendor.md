@@ -1,4 +1,4 @@
-# LinkedIn 进行第二次收购:商业评论公司选择还是 TechCrunch
+# LinkedIn 进行第二次收购:商业评论公司选择还是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/23/linkedin-choicevendor/>
 

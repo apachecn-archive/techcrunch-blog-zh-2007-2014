@@ -1,4 +1,4 @@
-# Adobe 的硬件实验不仅仅是爱好:项目环境实践 TechCrunch
+# Adobe 的硬件实验不仅仅是爱好:项目环境实践 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/06/adobes-hardware-experiments-are-more-than-just-hobbies/>
 

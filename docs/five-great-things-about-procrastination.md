@@ -1,4 +1,4 @@
-# 关于拖延症的五件大事 TechCrunch
+# 关于拖延症的五件大事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/07/five-great-things-about-procrastination/>
 

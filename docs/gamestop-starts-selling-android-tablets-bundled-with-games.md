@@ -1,4 +1,4 @@
-# GameStop 开始销售捆绑游戏的 Android 平板电脑 TechCrunch
+# GameStop 开始销售捆绑游戏的 Android 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/gamestop-starts-selling-android-tablets-bundled-with-games/>
 

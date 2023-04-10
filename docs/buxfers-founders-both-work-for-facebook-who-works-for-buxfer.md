@@ -1,4 +1,4 @@
-# Buxfer 的创始人都为脸书工作。谁为巴克斯佛工作？TechCrunch
+# Buxfer 的创始人都为脸书工作。谁为巴克斯佛工作？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/buxfers-founders-both-work-for-facebook-who-works-for-buxfer/>
 

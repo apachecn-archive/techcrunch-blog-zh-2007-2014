@@ -1,4 +1,4 @@
-# 点评:罗技无线触控板是我的新好友 TechCrunch
+# 点评:罗技无线触控板是我的新好友 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/i-do-so-like-green-eggs-and-ham/>
 

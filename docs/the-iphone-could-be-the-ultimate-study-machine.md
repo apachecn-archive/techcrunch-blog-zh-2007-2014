@@ -1,4 +1,4 @@
-# iPhone 可能是终极学习机器 TechCrunch
+# iPhone 可能是终极学习机器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/17/the-iphone-could-be-the-ultimate-study-machine/>
 

@@ -1,4 +1,4 @@
-# 上线六个月后，网站监控初创公司 Verelo 关闭并返还资金 TechCrunch
+# 上线六个月后，网站监控初创公司 Verelo 关闭并返还资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/19/six-months-after-launch-website-monitoring-startup-verelo-to-shut-down-and-return-funding/>
 

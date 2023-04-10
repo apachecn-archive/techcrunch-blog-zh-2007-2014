@@ -1,4 +1,4 @@
-# 重大新闻:易贝以 2 亿美元收购 brands4friends 私人销售网站 TechCrunch
+# 重大新闻:易贝以 2 亿美元收购 brands4friends 私人销售网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/20/breaking-ebay-acquires-brands4friends-for-200-million/>
 

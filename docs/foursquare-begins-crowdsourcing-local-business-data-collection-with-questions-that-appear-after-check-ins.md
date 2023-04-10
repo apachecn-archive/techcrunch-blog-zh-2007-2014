@@ -1,4 +1,4 @@
-# Foursquare 开始众包本地商业数据收集，问题出现在签到之后 TechCrunch
+# Foursquare 开始众包本地商业数据收集，问题出现在签到之后 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/21/foursquare-begins-crowdsourcing-local-business-data-collection-with-questions-that-appear-after-check-ins/>
 

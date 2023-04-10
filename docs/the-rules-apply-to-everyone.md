@@ -1,4 +1,4 @@
-# 这些规则适用于所有人 TechCrunch
+# 这些规则适用于所有人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/13/the-rules-apply-to-everyone/>
 

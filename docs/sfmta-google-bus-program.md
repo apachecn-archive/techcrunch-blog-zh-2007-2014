@@ -1,4 +1,4 @@
-# 告诉旧金山市政府谷歌巴士应该在哪里 TechCrunch
+# 告诉旧金山市政府谷歌巴士应该在哪里 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/08/sfmta-google-bus-program/>
 

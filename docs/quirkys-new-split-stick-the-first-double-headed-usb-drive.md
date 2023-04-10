@@ -1,4 +1,4 @@
-# 古怪的分裂棒，首款双头闪存驱动器 TechCrunch
+# 古怪的分裂棒，首款双头闪存驱动器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/quirkys-new-split-stick-the-first-double-headed-usb-drive/>
 

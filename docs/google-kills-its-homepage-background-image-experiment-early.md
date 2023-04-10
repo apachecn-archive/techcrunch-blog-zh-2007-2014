@@ -1,4 +1,4 @@
-# 谷歌提前取消主页背景图片实验 TechCrunch
+# 谷歌提前取消主页背景图片实验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/10/google-kills-its-homepage-background-image-experiment-early/>
 

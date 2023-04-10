@@ -1,4 +1,4 @@
-# 认识 Digg 的新 CEO TechCrunch
+# 认识 Digg 的新 CEO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/31/meet-diggs-new-ceo/>
 

@@ -1,4 +1,4 @@
-# 华硕的 Kinect 克隆会像它的 Wii 克隆一样结束吗？TechCrunch
+# 华硕的 Kinect 克隆会像它的 Wii 克隆一样结束吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/will-asuss-kinect-clone-end-up-like-its-wii-clone/>
 

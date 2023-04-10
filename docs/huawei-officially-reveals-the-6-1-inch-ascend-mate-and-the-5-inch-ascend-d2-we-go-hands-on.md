@@ -1,4 +1,4 @@
-# 华为正式发布了 6.1 英寸的 Ascend Mate 和 5 英寸的 Ascend D2，我们动手吧 TechCrunch
+# 华为正式发布了 6.1 英寸的 Ascend Mate 和 5 英寸的 Ascend D2，我们动手吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/07/huawei-officially-reveals-the-6-1-inch-ascend-mate-and-the-5-inch-ascend-d2-we-go-hands-on/>
 

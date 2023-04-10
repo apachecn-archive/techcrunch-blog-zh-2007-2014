@@ -1,4 +1,4 @@
-# BlockBeacon 推出了一款 iPhone 应用程序，用于了解当地企业的最新动态 TechCrunch
+# BlockBeacon 推出了一款 iPhone 应用程序，用于了解当地企业的最新动态 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/20/blockbeacon-iphone/>
 

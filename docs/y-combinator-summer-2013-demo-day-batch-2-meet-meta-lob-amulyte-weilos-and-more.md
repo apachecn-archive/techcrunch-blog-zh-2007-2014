@@ -1,4 +1,4 @@
-# Y Combinator 年夏季演示日，第二批:与 Meta、Lob、Amulyte、Weilos 等会面 TechCrunch
+# Y Combinator 年夏季演示日，第二批:与 Meta、Lob、Amulyte、Weilos 等会面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/20/y-combinator-summer-2013-demo-day-batch-2-meet-meta-lob-amulyte-weilos-and-more/>
 

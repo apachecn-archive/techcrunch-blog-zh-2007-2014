@@ -1,4 +1,4 @@
-# 尼康炒作神秘周三发布 TechCrunch
+# 尼康炒作神秘周三发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/nikon-hypes-up-mystery-wednesday-launch/>
 

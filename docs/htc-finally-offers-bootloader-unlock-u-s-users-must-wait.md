@@ -1,4 +1,4 @@
-# HTC 终于提供 Bootloader 解锁，美国用户必须等待 TechCrunch
+# HTC 终于提供 Bootloader 解锁，美国用户必须等待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/15/htc-finally-offers-bootloader-unlock-u-s-users-must-wait/>
 

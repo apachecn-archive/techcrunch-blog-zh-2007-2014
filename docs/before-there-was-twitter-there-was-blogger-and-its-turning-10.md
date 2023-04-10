@@ -1,4 +1,4 @@
-# 在有 Twitter 之前，有 Blogger。快 10 岁了。TechCrunch
+# 在有 Twitter 之前，有 Blogger。快 10 岁了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/17/before-there-was-twitter-there-was-blogger-and-its-turning-10/>
 

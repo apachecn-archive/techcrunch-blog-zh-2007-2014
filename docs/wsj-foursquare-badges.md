@@ -1,4 +1,4 @@
-# 在与 NYT 的本地争斗中，华尔街日报拿出一些四方徽章 TechCrunch
+# 在与 NYT 的本地争斗中，华尔街日报拿出一些四方徽章 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/wsj-foursquare-badges/>
 

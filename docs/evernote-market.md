@@ -1,4 +1,4 @@
-# Evernote 宣布实体产品市场，包括便利贴…和袜子？TechCrunch
+# Evernote 宣布实体产品市场，包括便利贴…和袜子？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/26/evernote-market/>
 

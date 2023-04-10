@@ -1,4 +1,4 @@
-# Shutterfly 收购 ThisLife 的照片组织和分享平台 TechCrunch
+# Shutterfly 收购 ThisLife 的照片组织和分享平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/07/shutterfly-acquires-thislifes-photo-organization-and-sharing-platform/>
 

@@ -1,4 +1,4 @@
-# Umoove 推出 iOS 游戏，为移动设备上的面部跟踪手势界面创造条件 TechCrunch
+# Umoove 推出 iOS 游戏，为移动设备上的面部跟踪手势界面创造条件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/umoove-launches-ios-game-to-make-the-case-for-a-face-tracking-gesture-interface-on-mobile/>
 

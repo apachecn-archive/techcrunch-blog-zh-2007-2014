@@ -1,4 +1,4 @@
-# 谷歌和 Spotify 在美国发布 TechCrunch
+# 谷歌和 Spotify 在美国发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/google-spotify-launch-android-nexus-one/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=Twitter>
 

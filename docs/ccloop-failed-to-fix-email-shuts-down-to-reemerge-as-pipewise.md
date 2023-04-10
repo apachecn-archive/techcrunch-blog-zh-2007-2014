@@ -1,4 +1,4 @@
-# ccLoop 无法修复电子邮件，关闭以重新成为管道 TechCrunch
+# ccLoop 无法修复电子邮件，关闭以重新成为管道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/ccloop-failed-to-fix-email-shuts-down-to-reemerge-as-pipewise/>
 

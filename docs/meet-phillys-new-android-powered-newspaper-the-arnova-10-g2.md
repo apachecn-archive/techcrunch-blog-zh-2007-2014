@@ -1,4 +1,4 @@
-# 见见费城新推出的 Android 报纸:Arnova 10 G2 TechCrunch
+# 见见费城新推出的 Android 报纸:Arnova 10 G2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/meet-phillys-new-android-powered-newspaper-the-arnova-10-g2/>
 

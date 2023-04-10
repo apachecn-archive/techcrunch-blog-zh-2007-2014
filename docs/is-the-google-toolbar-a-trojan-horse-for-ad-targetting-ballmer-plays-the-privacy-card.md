@@ -1,4 +1,4 @@
-# 谷歌工具栏是广告定位的特洛伊木马吗？(鲍尔默打隐私牌)。TechCrunch
+# 谷歌工具栏是广告定位的特洛伊木马吗？(鲍尔默打隐私牌)。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/16/is-the-google-toolbar-a-trojan-horse-for-ad-targetting-ballmer-plays-the-privacy-card/>
 

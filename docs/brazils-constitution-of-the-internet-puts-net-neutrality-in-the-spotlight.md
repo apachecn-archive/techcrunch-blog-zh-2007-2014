@@ -1,4 +1,4 @@
-# 巴西的“互联网宪法”将网络中立置于聚光灯下 TechCrunch
+# 巴西的“互联网宪法”将网络中立置于聚光灯下 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/brazils-constitution-of-the-internet-puts-net-neutrality-in-the-spotlight/>
 

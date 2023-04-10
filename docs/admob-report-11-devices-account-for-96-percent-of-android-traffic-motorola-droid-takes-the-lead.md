@@ -1,4 +1,4 @@
-# AdMob 报告:三分之一的 Android 手机占据了 96%的流量，摩托罗拉 droid 领先 TechCrunch
+# AdMob 报告:三分之一的 Android 手机占据了 96%的流量，摩托罗拉 droid 领先 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/27/admob-report-11-devices-account-for-96-percent-of-android-traffic-motorola-droid-takes-the-lead/>
 

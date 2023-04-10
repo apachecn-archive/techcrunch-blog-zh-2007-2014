@@ -1,4 +1,4 @@
-# 德国法院暂停苹果-三星案件中的 Galaxy Tab 禁令 TechCrunch
+# 德国法院暂停苹果-三星案件中的 Galaxy Tab 禁令 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/galaxy-tab-apple-samsung/>
 

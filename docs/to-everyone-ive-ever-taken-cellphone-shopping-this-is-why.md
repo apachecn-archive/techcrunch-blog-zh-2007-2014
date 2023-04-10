@@ -1,4 +1,4 @@
-# 对所有我买过手机的人说:这就是为什么——TechCrunch
+# 对所有我买过手机的人说:这就是为什么——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/to-everyone-ive-ever-taken-cellphone-shopping-this-is-why/>
 

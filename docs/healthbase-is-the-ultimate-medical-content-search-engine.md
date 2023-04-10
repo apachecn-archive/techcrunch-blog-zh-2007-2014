@@ -1,4 +1,4 @@
-# HealthBase 是终极医疗内容搜索引擎 TechCrunch
+# HealthBase 是终极医疗内容搜索引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/02/healthbase-is-the-ultimate-medical-content-search-engine/>
 

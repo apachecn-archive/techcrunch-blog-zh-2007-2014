@@ -1,4 +1,4 @@
-# 口袋融资 500 万美元 B 轮；计划将其“保存以备后用”应用程序引入更多设备和平台 TechCrunch
+# 口袋融资 500 万美元 B 轮；计划将其“保存以备后用”应用程序引入更多设备和平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/pocket-raises-5m-series-b-plans-to-bring-its-save-for-later-app-to-more-devices-and-platforms/>
 

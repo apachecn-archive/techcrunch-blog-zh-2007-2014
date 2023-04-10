@@ -1,4 +1,4 @@
-# 实时搜索引擎 OneRiot 接入谷歌 Buzz 消防水管 TechCrunch
+# 实时搜索引擎 OneRiot 接入谷歌 Buzz 消防水管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/19/oneriot-now-taps-into-the-google-buzz-firehose/>
 

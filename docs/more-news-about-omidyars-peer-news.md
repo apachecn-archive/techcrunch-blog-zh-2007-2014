@@ -1,4 +1,4 @@
-# 关于 Omidyar 同行新闻的更多新闻 TechCrunch
+# 关于 Omidyar 同行新闻的更多新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/18/more-news-about-omidyars-peer-news/>
 

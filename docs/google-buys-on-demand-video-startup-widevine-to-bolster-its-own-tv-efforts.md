@@ -1,4 +1,4 @@
-# 谷歌收购视频点播服务 Widevine 以支持其电视业务 TechCrunch
+# 谷歌收购视频点播服务 Widevine 以支持其电视业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/03/google-buys-on-demand-video-startup-widevine-to-bolster-its-own-tv-efforts/>
 

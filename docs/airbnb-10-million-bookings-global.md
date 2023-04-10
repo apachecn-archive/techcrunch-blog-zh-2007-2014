@@ -1,4 +1,4 @@
-# Airbnb 实现快速增长:预订了 1000 万晚，20 万处活跃房产 TechCrunch
+# Airbnb 实现快速增长:预订了 1000 万晚，20 万处活跃房产 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/airbnb-10-million-bookings-global/>
 

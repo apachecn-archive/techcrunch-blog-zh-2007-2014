@@ -1,4 +1,4 @@
-# 我们正处于移动搜索的拐点吗？TechCrunch
+# 我们正处于移动搜索的拐点吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/are-we-at-an-inflection-point-for-mobile-search/>
 

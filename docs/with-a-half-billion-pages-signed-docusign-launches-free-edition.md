@@ -1,4 +1,4 @@
-# 签署了 5 亿页，DocuSign 推出免费版 TechCrunch
+# 签署了 5 亿页，DocuSign 推出免费版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/with-a-half-billion-pages-signed-docusign-launches-free-edition/>
 

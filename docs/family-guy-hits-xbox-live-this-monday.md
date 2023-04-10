@@ -1,4 +1,4 @@
-# 《一家人》本周一登陆 Xbox Live TechCrunch
+# 《一家人》本周一登陆 Xbox Live 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/family-guy-hits-xbox-live-this-monday/>
 

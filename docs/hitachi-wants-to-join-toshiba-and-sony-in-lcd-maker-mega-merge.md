@@ -1,4 +1,4 @@
-# 日立希望加入东芝和索尼的 LCD 制造商大合并 TechCrunch
+# 日立希望加入东芝和索尼的 LCD 制造商大合并 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/hitachi-wants-to-join-toshiba-and-sony-in-lcd-maker-mega-merge/>
 

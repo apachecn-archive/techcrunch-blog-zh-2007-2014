@@ -1,4 +1,4 @@
-# 《追捕 2》获得成熟 ESRB 评级，获准出售 TechCrunch
+# 《追捕 2》获得成熟 ESRB 评级，获准出售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/manhunt-2-gets-mature-esrb-rating-approved-for-sale/>
 

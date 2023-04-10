@@ -1,4 +1,4 @@
-# 第一个面向 Mac 图片的 Steam，让您享受观看乐趣的视频 TechCrunch
+# 第一个面向 Mac 图片的 Steam，让您享受观看乐趣的视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/22/first-steam-for-mac-pics-video-for-your-viewing-pleasure/>
 

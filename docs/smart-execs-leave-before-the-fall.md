@@ -1,4 +1,4 @@
-# 聪明的高管会在秋天之前离开。TechCrunch
+# 聪明的高管会在秋天之前离开。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/smart-execs-leave-before-the-fall/>
 

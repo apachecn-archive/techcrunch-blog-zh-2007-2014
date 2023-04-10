@@ -1,4 +1,4 @@
-# 联想推出 ThinkPad 平板电脑，这是一款你可能真正想要的安卓平板电脑 TechCrunch
+# 联想推出 ThinkPad 平板电脑，这是一款你可能真正想要的安卓平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/lenovo-thinkpad-tablet-ideapad-k1/>
 

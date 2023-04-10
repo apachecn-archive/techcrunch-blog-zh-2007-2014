@@ -1,4 +1,4 @@
-# 任天堂 3DS 获得相机更新，魅力马里奥版 TechCrunch
+# 任天堂 3DS 获得相机更新，魅力马里奥版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/nintendo-3ds-gets-camera-update-charming-mario-editions/>
 

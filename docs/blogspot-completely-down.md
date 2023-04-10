@@ -1,4 +1,4 @@
-# 博客彻底瘫痪了？TechCrunch
+# 博客彻底瘫痪了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/blogspot-completely-down/>
 

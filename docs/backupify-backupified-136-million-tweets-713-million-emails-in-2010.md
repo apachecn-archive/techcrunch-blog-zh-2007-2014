@@ -1,4 +1,4 @@
-# Backupify 年，Backupify 发布了 1.36 亿条推文，7.13 亿封电子邮件 TechCrunch
+# Backupify 年，Backupify 发布了 1.36 亿条推文，7.13 亿封电子邮件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/backupify-backupified-136-million-tweets-713-million-emails-in-2010/>
 

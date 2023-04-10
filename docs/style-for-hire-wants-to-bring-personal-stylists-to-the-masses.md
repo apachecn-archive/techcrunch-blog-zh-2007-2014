@@ -1,4 +1,4 @@
-# Style For Hire 希望将私人造型师带到大众中来 TechCrunch
+# Style For Hire 希望将私人造型师带到大众中来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/16/style-for-hire-wants-to-bring-personal-stylists-to-the-masses/>
 

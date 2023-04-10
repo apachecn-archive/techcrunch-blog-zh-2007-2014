@@ -1,4 +1,4 @@
-# 诺基亚第三季度利润超出预期，公司计划裁员 1800 人 TechCrunch
+# 诺基亚第三季度利润超出预期，公司计划裁员 1800 人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/21/nokias-q3-profit-beats-estimates-company-plans-to-cut-1800-jobs/>
 

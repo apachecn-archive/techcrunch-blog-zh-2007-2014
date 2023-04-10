@@ -1,4 +1,4 @@
-# 如果 Gogobot 还没有吸引你，这个新的类似 Flipboard 的布局将 TechCrunch
+# 如果 Gogobot 还没有吸引你，这个新的类似 Flipboard 的布局将 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/if-gogobot-hasnt-sucked-you-in-already-this-new-flipboard-like-layout-will/>
 

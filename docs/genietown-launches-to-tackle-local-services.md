@@ -1,4 +1,4 @@
-# GenieTown 启动本地服务 TechCrunch
+# GenieTown 启动本地服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/20/genietown-launches-to-tackle-local-services/>
 

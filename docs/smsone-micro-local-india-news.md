@@ -1,4 +1,4 @@
-# SMSONE:来自印度的微本地新闻让硅谷嫉妒 TechCrunch
+# SMSONE:来自印度的微本地新闻让硅谷嫉妒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/30/smsone-micro-local-india-news/>
 

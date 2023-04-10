@@ -1,4 +1,4 @@
-# 脸书·普克和 Snapchat:有什么区别？TechCrunch
+# 脸书·普克和 Snapchat:有什么区别？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/21/facebook-poke-vs-snapchat-what-is-the-difference/>
 

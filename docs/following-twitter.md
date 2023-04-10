@@ -1,4 +1,4 @@
-# 关注 Twitter TechCrunch
+# 关注 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/16/following-twitter/>
 

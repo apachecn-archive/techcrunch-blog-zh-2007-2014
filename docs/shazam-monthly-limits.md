@@ -1,4 +1,4 @@
-# Shazam 取消了 iOS 和 Android 设备的每月标记限制 TechCrunch
+# Shazam 取消了 iOS 和 Android 设备的每月标记限制 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/shazam-monthly-limits/>
 

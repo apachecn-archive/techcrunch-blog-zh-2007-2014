@@ -1,4 +1,4 @@
-# 《Outfit7》点击了 6000 万下载应用，仅在圣诞节一天就赚了 20 万美元 TechCrunch
+# 《Outfit7》点击了 6000 万下载应用，仅在圣诞节一天就赚了 20 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/23/outfit7-hits-60-million-downloaded-apps-made-200000-on-christmas-day-alone/>
 

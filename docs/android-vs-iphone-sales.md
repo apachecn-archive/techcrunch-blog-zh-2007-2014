@@ -1,4 +1,4 @@
-# 过去 3 个月，Android 的买家数量是 iPhone 的两倍 TechCrunch
+# 过去 3 个月，Android 的买家数量是 iPhone 的两倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/android-vs-iphone-sales/>
 

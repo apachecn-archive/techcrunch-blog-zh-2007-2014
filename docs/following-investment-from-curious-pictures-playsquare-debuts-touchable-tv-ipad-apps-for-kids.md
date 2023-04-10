@@ -1,4 +1,4 @@
-# 继好奇影业投资之后，PlaySquare 首次推出面向儿童的“可触摸电视”iPad 应用 TechCrunch
+# 继好奇影业投资之后，PlaySquare 首次推出面向儿童的“可触摸电视”iPad 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/11/following-investment-from-curious-pictures-playsquare-debuts-touchable-tv-ipad-apps-for-kids/>
 

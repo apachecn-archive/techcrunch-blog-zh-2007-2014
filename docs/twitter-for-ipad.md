@@ -1,4 +1,4 @@
-# Twitter 刚刚扼杀了另一个东西:他们自己的网站。iPad 版 Twitter 就是这么好。TechCrunch
+# Twitter 刚刚扼杀了另一个东西:他们自己的网站。iPad 版 Twitter 就是这么好。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/twitter-for-ipad/>
 

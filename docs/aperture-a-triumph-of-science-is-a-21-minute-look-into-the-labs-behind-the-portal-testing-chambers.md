@@ -1,4 +1,4 @@
-# Aperture:科学的胜利是对门户测试室背后的实验室的 21 分钟观察 TechCrunch
+# Aperture:科学的胜利是对门户测试室背后的实验室的 21 分钟观察 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/aperture-a-triumph-of-science-is-a-21-minute-look-into-the-labs-behind-the-portal-testing-chambers/>
 

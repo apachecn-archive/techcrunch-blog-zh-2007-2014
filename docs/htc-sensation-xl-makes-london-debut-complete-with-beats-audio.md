@@ -1,4 +1,4 @@
-# HTC Sensation XL 亮相伦敦，配备 Beats Audio TechCrunch
+# HTC Sensation XL 亮相伦敦，配备 Beats Audio 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/htc-sensation-xl-makes-london-debut-complete-with-beats-audio/>
 

@@ -1,4 +1,4 @@
-# G+让脸书处于守势了吗？TechCrunch
+# G+让脸书处于守势了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/07/g-plus-facebook-defensive/>
 

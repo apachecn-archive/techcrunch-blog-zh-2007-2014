@@ -1,4 +1,4 @@
-# “App Store”是否和微软的“Windows”一样通用？TechCrunch
+# “App Store”是否和微软的“Windows”一样通用？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/01/is-app-store-as-generic-as-microsofts-windows/>
 

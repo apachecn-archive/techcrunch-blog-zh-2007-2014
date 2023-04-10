@@ -1,4 +1,4 @@
-# 梅菲尔德基金支持印度孵化器 angel prime TechCrunch
+# 梅菲尔德基金支持印度孵化器 angel prime 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/24/mayfield-fund-backs-indian-incubator-angelprime/>
 

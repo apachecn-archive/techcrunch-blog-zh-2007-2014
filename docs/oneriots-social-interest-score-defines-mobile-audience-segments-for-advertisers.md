@@ -1,4 +1,4 @@
-# OneRiot 的“社交兴趣评分”为广告商定义了移动受众细分市场 TechCrunch
+# OneRiot 的“社交兴趣评分”为广告商定义了移动受众细分市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/24/oneriots-social-interest-score-defines-mobile-audience-segments-for-advertisers/>
 

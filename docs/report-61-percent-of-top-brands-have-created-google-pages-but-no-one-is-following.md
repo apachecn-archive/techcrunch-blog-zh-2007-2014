@@ -1,4 +1,4 @@
-# 报告:61%的顶级品牌创建了 Google+页面，但没有人关注 TechCrunch
+# 报告:61%的顶级品牌创建了 Google+页面，但没有人关注 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/report-61-percent-of-top-brands-have-created-google-pages-but-no-one-is-following/>
 

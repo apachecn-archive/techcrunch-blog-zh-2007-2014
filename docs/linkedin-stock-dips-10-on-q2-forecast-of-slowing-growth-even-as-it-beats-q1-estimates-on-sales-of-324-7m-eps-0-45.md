@@ -1,4 +1,4 @@
-# LinkedIn 的股票因增长放缓而下跌 10%，尽管它的销售额为 3.247 亿美元，超过了 Q1 的估计；每股收益 0.45 美元 TechCrunch
+# LinkedIn 的股票因增长放缓而下跌 10%，尽管它的销售额为 3.247 亿美元，超过了 Q1 的估计；每股收益 0.45 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/02/linkedin-stock-dips-10-on-q2-forecast-of-slowing-growth-even-as-it-beats-q1-estimates-on-sales-of-324-7m-eps-0-45/>
 

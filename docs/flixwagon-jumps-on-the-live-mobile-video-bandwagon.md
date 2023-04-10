@@ -1,4 +1,4 @@
-# FlixWagon 紧跟移动视频直播潮流 TechCrunch
+# FlixWagon 紧跟移动视频直播潮流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/18/flixwagon-jumps-on-the-live-mobile-video-bandwagon/>
 

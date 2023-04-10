@@ -1,4 +1,4 @@
-# HTC 首款 NFC 手机“HTC 惊艳”在中国发布 TechCrunch
+# HTC 首款 NFC 手机“HTC 惊艳”在中国发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/htcs-first-nfc-phone-htc-stunning-launching-in-china/>
 

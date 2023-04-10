@@ -1,4 +1,4 @@
-# Morpho 智能选择:新图像软件自动选择最佳照片 TechCrunch
+# Morpho 智能选择:新图像软件自动选择最佳照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/11/morpho-select-new-image-software-selects-best-shots-automatically/>
 

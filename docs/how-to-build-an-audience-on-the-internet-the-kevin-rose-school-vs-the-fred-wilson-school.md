@@ -1,4 +1,4 @@
-# 如何在互联网上建立受众:凯文·罗斯学派与弗雷德·威尔逊学派 TechCrunch
+# 如何在互联网上建立受众:凯文·罗斯学派与弗雷德·威尔逊学派 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/how-to-build-an-audience-on-the-internet-the-kevin-rose-school-vs-the-fred-wilson-school/>
 

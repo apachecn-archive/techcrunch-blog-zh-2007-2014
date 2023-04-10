@@ -1,4 +1,4 @@
-# 实时预订平台 BookingBug 与合作伙伴和智能联盟模式退出测试 TechCrunch
+# 实时预订平台 BookingBug 与合作伙伴和智能联盟模式退出测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/10/realtime-booking-platform-bookingbug-exits-beta-with-partners-and-smart-affiliate-model/>
 

@@ -1,4 +1,4 @@
-# HBO、苹果确认 iTunes 商店下载 TechCrunch
+# HBO、苹果确认 iTunes 商店下载 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/13/hbo-apple-confirm-itunes-store-downloads/>
 

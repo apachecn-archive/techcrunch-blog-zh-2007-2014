@@ -1,4 +1,4 @@
-# 国际视频网站 ViKi 推出 iPhone 应用程序，将与三星合作开发 Android 应用程序 TechCrunch
+# 国际视频网站 ViKi 推出 iPhone 应用程序，将与三星合作开发 Android 应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/international-video-site-viki-debuts-iphone-app-will-partner-with-samsung-for-android-app/>
 

@@ -1,4 +1,4 @@
-# 新的英特尔超极本参考型号可能会大幅削弱 MacBook Air TechCrunch
+# 新的英特尔超极本参考型号可能会大幅削弱 MacBook Air 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/new-intel-ultrabook-reference-models-could-undercut-macbook-air-significantly/>
 

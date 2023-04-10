@@ -1,4 +1,4 @@
-# 移动应用目录 Appolicious 深化与雅虎的整合；推出安卓应用 TechCrunch
+# 移动应用目录 Appolicious 深化与雅虎的整合；推出安卓应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/mobile-app-directory-appolicious-deepens-integration-with-yahoo-launches-android-app/>
 

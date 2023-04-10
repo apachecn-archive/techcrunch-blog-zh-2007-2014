@@ -1,4 +1,4 @@
-# 索尼 Cybershot TX55 可同时拍摄高清视频和 1200 万像素的静态照片 TechCrunch
+# 索尼 Cybershot TX55 可同时拍摄高清视频和 1200 万像素的静态照片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/24/sony-cybershot-tx55-shoots-hd-video-and-12-megapixel-stills-at-the-same-time/>
 

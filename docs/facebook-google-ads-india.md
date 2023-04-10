@@ -1,4 +1,4 @@
-# 在印度，脸书使用 Google AdWords 超越 Orkut TechCrunch
+# 在印度，脸书使用 Google AdWords 超越 Orkut 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/22/facebook-google-ads-india/>
 

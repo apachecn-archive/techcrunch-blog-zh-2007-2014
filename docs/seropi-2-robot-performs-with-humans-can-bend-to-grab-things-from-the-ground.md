@@ -1,4 +1,4 @@
-# SEROPI-2 机器人与人类一起表演，可以弯腰从地上抓取东西 TechCrunch
+# SEROPI-2 机器人与人类一起表演，可以弯腰从地上抓取东西 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/seropi-2-robot-performs-with-humans-can-bend-to-grab-things-from-the-ground/>
 

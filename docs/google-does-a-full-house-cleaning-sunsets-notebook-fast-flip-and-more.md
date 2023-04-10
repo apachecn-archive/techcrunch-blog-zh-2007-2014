@@ -1,4 +1,4 @@
-# 谷歌做了一个全面的清理:日落桌面，笔记本，快速翻转和更多 TechCrunch
+# 谷歌做了一个全面的清理:日落桌面，笔记本，快速翻转和更多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/google-does-a-full-house-cleaning-sunsets-notebook-fast-flip-and-more/>
 

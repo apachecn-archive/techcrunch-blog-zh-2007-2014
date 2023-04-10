@@ -1,4 +1,4 @@
-# OneClass 筹集 160 万美元，将其笔记协作平台扩展到大专以上 TechCrunch
+# OneClass 筹集 160 万美元，将其笔记协作平台扩展到大专以上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/21/oneclass-raises-1-6m-to-expand-its-note-collaboration-platform-beyond-post-secondary/>
 

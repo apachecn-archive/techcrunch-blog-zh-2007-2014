@@ -1,4 +1,4 @@
-# Vaavud 筹集了 375，000 美元用你的智能手机驯服风 TechCrunch
+# Vaavud 筹集了 375，000 美元用你的智能手机驯服风 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/23/vaavud-raises-375k-to-tame-the-wind-with-your-smartphone/>
 

@@ -1,4 +1,4 @@
-# 安德鲁·梅森希望 Groupon 投资者关注的一张幻灯片是 TechCrunch
+# 安德鲁·梅森希望 Groupon 投资者关注的一张幻灯片是 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/the-one-slide-andrew-mason-wants-groupon-investors-to-focus-on/>
 

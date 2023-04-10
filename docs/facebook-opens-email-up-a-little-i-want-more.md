@@ -1,4 +1,4 @@
-# 脸书把电子邮件打开了一点；我想要更多——TechCrunch
+# 脸书把电子邮件打开了一点；我想要更多——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/facebook-opens-email-up-a-little-i-want-more/>
 

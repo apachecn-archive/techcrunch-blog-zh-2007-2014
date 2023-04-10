@@ -1,4 +1,4 @@
-# 德国电信推出移动组件市场 TechCrunch
+# 德国电信推出移动组件市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/03/deutsche-telekom-launches-mobile-component-marketplace/>
 

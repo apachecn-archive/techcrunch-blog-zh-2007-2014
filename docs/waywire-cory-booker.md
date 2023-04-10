@@ -1,4 +1,4 @@
-# 科里·布克的#Waywire 成为“视频的 Pinterest ”,重新关注策展 TechCrunch
+# 科里·布克的#Waywire 成为“视频的 Pinterest ”,重新关注策展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/16/waywire-cory-booker/>
 

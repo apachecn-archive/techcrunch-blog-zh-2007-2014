@@ -1,4 +1,4 @@
-# OpenCandy 的 Pokki 将 Web 应用程序带到桌面，风格 TechCrunch
+# OpenCandy 的 Pokki 将 Web 应用程序带到桌面，风格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/opencandys-pokki-brings-web-apps-to-the-desktop-with-style/>
 

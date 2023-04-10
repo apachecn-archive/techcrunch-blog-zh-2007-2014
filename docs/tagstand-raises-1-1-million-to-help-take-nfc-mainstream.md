@@ -1,4 +1,4 @@
-# Tagstand 筹集 110 万美元帮助 NFC 成为主流 TechCrunch
+# Tagstand 筹集 110 万美元帮助 NFC 成为主流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/tagstand-raises-1-1-million-to-help-take-nfc-mainstream/>
 

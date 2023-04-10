@@ -1,4 +1,4 @@
-# 报告:超过 24%的前 10，000 网站现在使用脸书的官方插件 TechCrunch
+# 报告:超过 24%的前 10，000 网站现在使用脸书的官方插件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/report-over-24-of-the-webs-top-10000-sites-now-use-facebooks-official-widgets/>
 

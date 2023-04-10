@@ -1,4 +1,4 @@
-# 安迪·鲁宾:Android 日激活量达到 50 万 TechCrunch
+# 安迪·鲁宾:Android 日激活量达到 50 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/andy-rubin-daily-android-activations-reach-500000/>
 

@@ -1,4 +1,4 @@
-# LinkedIn 以 9000 万美元的股票和现金收购 Pulse TechCrunch
+# LinkedIn 以 9000 万美元的股票和现金收购 Pulse 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/linkedin-acquires-pulse-for-90m-in-stock-and-cash/>
 

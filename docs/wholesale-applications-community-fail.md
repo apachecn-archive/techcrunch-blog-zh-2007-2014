@@ -1,4 +1,4 @@
-# 批发应用社区听起来像是一场灾难 TechCrunch
+# 批发应用社区听起来像是一场灾难 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/02/15/wholesale-applications-community-fail/>
 

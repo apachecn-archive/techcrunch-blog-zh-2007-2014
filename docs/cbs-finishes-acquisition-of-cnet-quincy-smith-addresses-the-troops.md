@@ -1,4 +1,4 @@
-# 哥伦比亚广播公司完成对 CNET 的收购；莱斯利·莫维斯、昆西·史密斯和尼尔·阿什向军队致辞 TechCrunch
+# 哥伦比亚广播公司完成对 CNET 的收购；莱斯利·莫维斯、昆西·史密斯和尼尔·阿什向军队致辞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/30/cbs-finishes-acquisition-of-cnet-quincy-smith-addresses-the-troops/>
 

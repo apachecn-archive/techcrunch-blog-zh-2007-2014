@@ -1,4 +1,4 @@
-# 火花:用语义分析即时找到你的社交圈 TechCrunch
+# 火花:用语义分析即时找到你的社交圈 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/huohua-find-your-social-circle-instantly-with-semantic-analysis/>
 

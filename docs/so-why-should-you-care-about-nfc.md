@@ -1,4 +1,4 @@
-# 那么你为什么要关心 NFC 呢？TechCrunch
+# 那么你为什么要关心 NFC 呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/so-why-should-you-care-about-nfc/>
 

@@ -1,4 +1,4 @@
-# 不可避免地，Twitter 的个人资料照片变成了一场游戏 TechCrunch
+# 不可避免地，Twitter 的个人资料照片变成了一场游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/15/inevitably-twitter-profile-pics-turned-into-hotornot-game/>
 

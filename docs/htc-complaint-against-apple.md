@@ -1,4 +1,4 @@
-# HTC 对苹果的投诉与你如何使用手指无关 TechCrunch
+# HTC 对苹果的投诉与你如何使用手指无关 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/12/htc-complaint-against-apple/>
 

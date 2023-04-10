@@ -1,4 +1,4 @@
-# Cellity 给你的手机通讯录注入类固醇 TechCrunch
+# Cellity 给你的手机通讯录注入类固醇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/14/cellity-puts-your-mobile-address-book-on-steroids/>
 

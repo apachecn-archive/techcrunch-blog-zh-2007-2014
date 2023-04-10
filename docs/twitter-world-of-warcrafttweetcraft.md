@@ -1,4 +1,4 @@
-# Twitter +魔兽世界= tweet craft TechCrunch
+# Twitter +魔兽世界= tweet craft 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/04/twitter-world-of-warcrafttweetcraft/>
 

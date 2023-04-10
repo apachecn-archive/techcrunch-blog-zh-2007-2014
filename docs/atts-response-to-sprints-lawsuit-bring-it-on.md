@@ -1,4 +1,4 @@
-# 美国电话电报公司对 Sprint 诉讼的回应:来吧 TechCrunch
+# 美国电话电报公司对 Sprint 诉讼的回应:来吧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/atts-response-to-sprints-lawsuit-bring-it-on/>
 

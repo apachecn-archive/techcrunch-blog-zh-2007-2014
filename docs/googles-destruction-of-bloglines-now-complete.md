@@ -1,4 +1,4 @@
-# Bloglines 的破坏现在完成；创始人准备转向谷歌阅读器 TechCrunch
+# Bloglines 的破坏现在完成；创始人准备转向谷歌阅读器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/18/googles-destruction-of-bloglines-now-complete/>
 

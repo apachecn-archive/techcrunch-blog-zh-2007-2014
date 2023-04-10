@@ -1,4 +1,4 @@
-# 柯达发布两款新相机:PlayTouch 和超薄 M590 TechCrunch
+# 柯达发布两款新相机:PlayTouch 和超薄 M590 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/kodak-releases-two-new-cameras-the-playtouch-and-the-ultrathin-m590/>
 

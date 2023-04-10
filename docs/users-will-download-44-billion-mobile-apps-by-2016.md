@@ -1,4 +1,4 @@
-# 到 2016 年，用户将下载 440 亿个移动应用 TechCrunch
+# 到 2016 年，用户将下载 440 亿个移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/28/users-will-download-44-billion-mobile-apps-by-2016/>
 

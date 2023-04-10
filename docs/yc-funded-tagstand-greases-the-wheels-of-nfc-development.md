@@ -1,4 +1,4 @@
-# YC 资助的 Tagstand 推动了 NFC 的发展 TechCrunch
+# YC 资助的 Tagstand 推动了 NFC 的发展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/19/yc-funded-tagstand-greases-the-wheels-of-nfc-development/>
 

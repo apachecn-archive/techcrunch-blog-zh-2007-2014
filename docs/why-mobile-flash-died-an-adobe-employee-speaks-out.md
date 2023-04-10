@@ -1,4 +1,4 @@
-# 移动 Flash 死亡的原因:一名 Adobe 员工直言 TechCrunch
+# 移动 Flash 死亡的原因:一名 Adobe 员工直言 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/why-mobile-flash-died-an-adobe-employee-speaks-out/>
 

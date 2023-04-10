@@ -1,4 +1,4 @@
-# 法国电信、阳狮启动泛欧风险投资基金。目标:€3 亿 TechCrunch
+# 法国电信、阳狮启动泛欧风险投资基金。目标:€3 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/france-telecom-publicis-launch-vc-fund-target-300-million-euros/>
 

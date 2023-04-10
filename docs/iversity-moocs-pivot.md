@@ -1,4 +1,4 @@
-# 总部位于柏林的大学重新推出 MOOCs 平台，着眼于成为欧洲的 Coursera TechCrunch
+# 总部位于柏林的大学重新推出 MOOCs 平台，着眼于成为欧洲的 Coursera 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/11/iversity-moocs-pivot/>
 

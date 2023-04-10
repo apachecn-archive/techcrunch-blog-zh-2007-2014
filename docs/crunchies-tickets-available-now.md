@@ -1,4 +1,4 @@
-# 现已提供门票 TechCrunch
+# 现已提供门票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/crunchies-tickets-available-now/>
 

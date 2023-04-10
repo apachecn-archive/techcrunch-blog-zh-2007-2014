@@ -1,4 +1,4 @@
-# 移动电视和视频平台 MobiTV 申请 7500 万美元 IPO TechCrunch
+# 移动电视和视频平台 MobiTV 申请 7500 万美元 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/mobile-tv-and-video-platform-mobitv-files-for-75-million-ipo/>
 

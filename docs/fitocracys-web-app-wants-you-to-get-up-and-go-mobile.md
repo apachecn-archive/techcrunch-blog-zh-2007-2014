@@ -1,4 +1,4 @@
-# Fitocracy 的网络应用程序让你起身行动 TechCrunch
+# Fitocracy 的网络应用程序让你起身行动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/fitocracys-web-app-wants-you-to-get-up-and-go-mobile/>
 

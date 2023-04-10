@@ -1,4 +1,4 @@
-# 直播博客脸书广告公告(社交广告+Beacon+Insights)TechCrunch
+# 直播博客脸书广告公告(社交广告+Beacon+Insights)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/06/liveblogging-facebook-advertising-announcement/>
 

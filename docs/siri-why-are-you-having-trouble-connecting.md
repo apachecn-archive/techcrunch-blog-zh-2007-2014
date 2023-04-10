@@ -1,4 +1,4 @@
-# Siri，为什么连接有问题？TechCrunch
+# Siri，为什么连接有问题？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/07/siri-why-are-you-having-trouble-connecting/>
 

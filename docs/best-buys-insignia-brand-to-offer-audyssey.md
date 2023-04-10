@@ -1,4 +1,4 @@
-# 百思买 Insignia 品牌提供 Audyssey TechCrunch
+# 百思买 Insignia 品牌提供 Audyssey 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/best-buys-insignia-brand-to-offer-audyssey/>
 

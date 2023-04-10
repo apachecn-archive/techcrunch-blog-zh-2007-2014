@@ -1,4 +1,4 @@
-# Tigerlily 筹集 130 万美元(€90 万美元)帮助品牌避免雀巢式的粉丝页面灾难 TechCrunch
+# Tigerlily 筹集 130 万美元(€90 万美元)帮助品牌避免雀巢式的粉丝页面灾难 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/03/tigerlily-raises-1-3-million-e900k-to-help-brands-avoid-nestle-like-fan-page-disasters/>
 

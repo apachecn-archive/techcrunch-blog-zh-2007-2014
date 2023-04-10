@@ -1,4 +1,4 @@
-# 波尔克的 I-sonic 2 iPod Dock 支持高清播放，提醒你购买垃圾歌曲 TechCrunch
+# 波尔克的 I-sonic 2 iPod Dock 支持高清播放，提醒你购买垃圾歌曲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/10/polks-i-sonic-2-ipod-dock-does-hd-reminds-you-to-purchase-crappy-songs/>
 

@@ -1,4 +1,4 @@
-# 16 个月后，向 iPhone 的谷歌语音问好。等待是值得的。TechCrunch
+# 16 个月后，向 iPhone 的谷歌语音问好。等待是值得的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/16/google-voice-for-the-iphone/>
 

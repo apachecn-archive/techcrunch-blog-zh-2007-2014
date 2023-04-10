@@ -1,4 +1,4 @@
-# MeeGo 副总裁辞职，诺基亚 CEO 接听 Eric Schmidt 的电话 TechCrunch
+# MeeGo 副总裁辞职，诺基亚 CEO 接听 Eric Schmidt 的电话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/05/meego-android-nokia/>
 

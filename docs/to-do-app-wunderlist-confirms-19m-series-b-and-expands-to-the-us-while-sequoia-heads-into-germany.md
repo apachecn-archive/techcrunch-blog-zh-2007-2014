@@ -1,4 +1,4 @@
-# 待办事项应用 Wunderlist 确认 1900 万美元的 B 轮融资并扩展到美国，而红杉进军德国 TechCrunch
+# 待办事项应用 Wunderlist 确认 1900 万美元的 B 轮融资并扩展到美国，而红杉进军德国 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/to-do-app-wunderlist-confirms-19m-series-b-and-expands-to-the-us-while-sequoia-heads-into-germany/>
 

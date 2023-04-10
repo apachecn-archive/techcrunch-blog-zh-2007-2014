@@ -1,4 +1,4 @@
-# USB 企鹅鼠标让你大吃一惊 TechCrunch
+# USB 企鹅鼠标让你大吃一惊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/07/the-usb-penguin-mouse-makes-you-hollaback/>
 

@@ -1,4 +1,4 @@
-# Snapchat 要达到 30 亿美元的收入目标必须达到哪些？TechCrunch
+# Snapchat 要达到 30 亿美元的收入目标必须达到哪些？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/13/what-are-the-revenue-targets-snapchat-must-meet-to-be-worth-3-billion/>
 

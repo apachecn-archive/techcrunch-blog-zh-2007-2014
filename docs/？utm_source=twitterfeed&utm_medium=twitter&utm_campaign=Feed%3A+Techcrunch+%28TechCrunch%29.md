@@ -1,4 +1,4 @@
-# 苹果披露美国法律机构的客户数据请求数量，重申否认棱镜参与 TechCrunch
+# 苹果披露美国法律机构的客户数据请求数量，重申否认棱镜参与 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/17/apple-reveals-number-of-customer-data-requests-from-u-s-law-agencies-repeats-denial-of-prism-involvement/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29>
 

@@ -1,4 +1,4 @@
-# 亚马逊正在试验自动飞行送货无人机 TechCrunch
+# 亚马逊正在试验自动飞行送货无人机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/01/amazon-is-experimenting-with-autonomous-flying-delivery-drones/>
 

@@ -1,4 +1,4 @@
-# 在线导航系统 WalkMe 又筹集了 550 万美元，以确保我们再也不会在网站上迷路 TechCrunch
+# 在线导航系统 WalkMe 又筹集了 550 万美元，以确保我们再也不会在网站上迷路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/25/online-guidance-system-walkme-raises-another-5-5m-to-make-sure-that-we-never-get-lost-on-a-website-again/>
 

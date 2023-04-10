@@ -1,4 +1,4 @@
-# 黑莓 Bold 9930 在威瑞森上市，合约价 249 美元 TechCrunch
+# 黑莓 Bold 9930 在威瑞森上市，合约价 249 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/blackberry-bold-9930-goes-live-at-verizon-for-249-on-contract/>
 

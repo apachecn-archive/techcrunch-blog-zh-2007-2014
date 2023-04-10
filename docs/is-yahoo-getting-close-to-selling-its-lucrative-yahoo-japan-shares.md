@@ -1,4 +1,4 @@
-# 雅虎是否接近出售其利润丰厚的雅虎日本股份？TechCrunch
+# 雅虎是否接近出售其利润丰厚的雅虎日本股份？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/16/is-yahoo-getting-close-to-selling-its-lucrative-yahoo-japan-shares/>
 

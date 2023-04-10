@@ -1,4 +1,4 @@
-# 姜饼即将登陆 AOSP，极客们心潮澎湃 TechCrunch
+# 姜饼即将登陆 AOSP，极客们心潮澎湃 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/15/gingerbread-coming-soon-to-aosp-geek-hearts-all-aflutter/>
 

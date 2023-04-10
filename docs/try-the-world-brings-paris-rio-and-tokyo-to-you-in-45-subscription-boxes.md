@@ -1,4 +1,4 @@
-# 尝试世界通过 45 美元的订阅盒将巴黎、里约和东京带给您 TechCrunch
+# 尝试世界通过 45 美元的订阅盒将巴黎、里约和东京带给您 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/try-the-world-brings-paris-rio-and-tokyo-to-you-in-45-subscription-boxes/>
 

@@ -1,4 +1,4 @@
-# BitTorrent 将其同步文件同步应用程序带入测试版，准备添加优质的付费功能 TechCrunch
+# BitTorrent 将其同步文件同步应用程序带入测试版，准备添加优质的付费功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/17/bittorrent-takes-its-sync-file-synchronizing-app-into-beta-as-it-prepares-to-add-premium-paid-features/>
 

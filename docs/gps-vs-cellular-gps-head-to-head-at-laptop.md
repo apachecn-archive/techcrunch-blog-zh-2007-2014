@@ -1,4 +1,4 @@
-# GPS 与蜂窝 GPS:笔记本电脑上的对决 TechCrunch
+# GPS 与蜂窝 GPS:笔记本电脑上的对决 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/gps-vs-cellular-gps-head-to-head-at-laptop/>
 

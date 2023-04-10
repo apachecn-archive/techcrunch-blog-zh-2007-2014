@@ -1,4 +1,4 @@
-# 来源:谷歌正在谈判收购 Katango TechCrunch
+# 来源:谷歌正在谈判收购 Katango 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/source-google-in-talks-to-acquire-katango/>
 

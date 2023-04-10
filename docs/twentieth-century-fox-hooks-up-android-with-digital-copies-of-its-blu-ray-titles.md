@@ -1,4 +1,4 @@
-# 二十世纪福克斯公司将安卓系统与其蓝光产品的数字版本联系起来 TechCrunch
+# 二十世纪福克斯公司将安卓系统与其蓝光产品的数字版本联系起来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/twentieth-century-fox-hooks-up-android-with-digital-copies-of-its-blu-ray-titles/>
 

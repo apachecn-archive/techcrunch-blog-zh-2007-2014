@@ -1,4 +1,4 @@
-# Seva Search 筹集了 130 万美元，将消费者与当地企业联系起来 TechCrunch
+# Seva Search 筹集了 130 万美元，将消费者与当地企业联系起来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/seva-search-raises-1-3-million-to-connect-consumers-with-local-businesses/>
 

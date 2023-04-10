@@ -1,4 +1,4 @@
-# 在线购物伴侣 Zinc Save 会自动查找顶级零售商的购物折扣 TechCrunch
+# 在线购物伴侣 Zinc Save 会自动查找顶级零售商的购物折扣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/14/online-shopping-companion-zinc-save-automatically-finds-discounts-for-puchases-from-top-retailers/>
 

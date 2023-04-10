@@ -1,4 +1,4 @@
-# 筹集到 2000 万美元后，MyEdu 推出了新工具，帮助大学生与雇主建立联系 TechCrunch
+# 筹集到 2000 万美元后，MyEdu 推出了新工具，帮助大学生与雇主建立联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/10/with-20m-raised-myedu-launches-new-tools-to-help-college-students-actually-connect-with-employers/>
 

@@ -1,4 +1,4 @@
-# 欧洲风投真的表现优于美国，还是这只是一厢情愿？TechCrunch
+# 欧洲风投真的表现优于美国，还是这只是一厢情愿？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/is-european-vc-really-out-performing-the-us-or-is-this-wishful-thinking/>
 

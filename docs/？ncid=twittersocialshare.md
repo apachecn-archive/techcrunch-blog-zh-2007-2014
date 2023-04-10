@@ -1,4 +1,4 @@
-# [更新]这是美国 15 个最好的加速器 TechCrunch
+# [更新]这是美国 15 个最好的加速器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/10/these-are-the-15-best-accelerators-in-the-u-s/?ncid=twittersocialshare>
 

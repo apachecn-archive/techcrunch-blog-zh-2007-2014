@@ -1,4 +1,4 @@
-# 脸书推出简化的申请许可系统 TechCrunch
+# 脸书推出简化的申请许可系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/facebook-permissions-applications/>
 

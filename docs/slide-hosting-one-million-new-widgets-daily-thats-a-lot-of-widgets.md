@@ -1,4 +1,4 @@
-# Slide 用户每天添加 100 万个新插件:这是一个很大的插件数量 TechCrunch
+# Slide 用户每天添加 100 万个新插件:这是一个很大的插件数量 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/slide-hosting-one-million-new-widgets-daily-thats-a-lot-of-widgets/>
 

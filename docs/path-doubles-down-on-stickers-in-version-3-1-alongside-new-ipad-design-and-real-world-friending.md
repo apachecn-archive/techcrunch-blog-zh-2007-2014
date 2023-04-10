@@ -1,4 +1,4 @@
-# Path 在 3.1 版本中将贴纸翻倍，还有新的 iPad 设计和真实世界交友 TechCrunch
+# Path 在 3.1 版本中将贴纸翻倍，还有新的 iPad 设计和真实世界交友 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/09/path-doubles-down-on-stickers-in-version-3-1-alongside-new-ipad-design-and-real-world-friending/>
 

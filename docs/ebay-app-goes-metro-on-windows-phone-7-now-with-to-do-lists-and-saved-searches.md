@@ -1,4 +1,4 @@
-# 易贝应用在 Windows Phone 7 上大受欢迎，现在有了待办事项列表和保存的搜索 TechCrunch
+# 易贝应用在 Windows Phone 7 上大受欢迎，现在有了待办事项列表和保存的搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/11/ebay-app-goes-metro-on-windows-phone-7-now-with-to-do-lists-and-saved-searches/>
 

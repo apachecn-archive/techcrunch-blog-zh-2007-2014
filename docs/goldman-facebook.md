@@ -1,4 +1,4 @@
-# 高盛指责媒体关注扼杀了其在美国脸书的上市 TechCrunch
+# 高盛指责媒体关注扼杀了其在美国脸书的上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/17/goldman-facebook/>
 

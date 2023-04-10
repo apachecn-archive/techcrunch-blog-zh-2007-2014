@@ -1,4 +1,4 @@
-# 日立为手机开发低成本、高质量的 4.5 英寸液晶显示器 TechCrunch
+# 日立为手机开发低成本、高质量的 4.5 英寸液晶显示器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/hitachi-develops-low-cost-high-quality-4-5-inch-lcds-for-phones/>
 

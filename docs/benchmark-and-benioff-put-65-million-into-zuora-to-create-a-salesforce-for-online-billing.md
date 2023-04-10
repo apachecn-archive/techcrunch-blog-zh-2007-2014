@@ -1,4 +1,4 @@
-# Benchmark 和 Benioff 向 Zuora 投资 650 万美元，打造在线计费销售团队 TechCrunch
+# Benchmark 和 Benioff 向 Zuora 投资 650 万美元，打造在线计费销售团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/13/benchmark-and-benioff-put-65-million-into-zuora-to-create-a-salesforce-for-online-billing/>
 

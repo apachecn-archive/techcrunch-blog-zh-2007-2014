@@ -1,4 +1,4 @@
-# ExactTarget 以 9550 万美元收购 Pardot，以 2100 万美元收购 iGoDigital，整合营销解决方案 TechCrunch
+# ExactTarget 以 9550 万美元收购 Pardot，以 2100 万美元收购 iGoDigital，整合营销解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/12/exacttarget-buys-pardot-for-95-5m-and-igodigital-for-21m-as-marketing-solutions-consolidate/>
 

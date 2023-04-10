@@ -1,4 +1,4 @@
-# Twitter 在 2012 年赚了 3.5 亿美元，那么它什么时候能赚到 1B 的钱呢？TechCrunch
+# Twitter 在 2012 年赚了 3.5 亿美元，那么它什么时候能赚到 1B 的钱呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/god-bless-us-every-one/>
 

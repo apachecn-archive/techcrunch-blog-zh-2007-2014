@@ -1,4 +1,4 @@
-# 云解决方案公司 Appistry 获得 1200 万美元融资 TechCrunch
+# 云解决方案公司 Appistry 获得 1200 万美元融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/cloud-solutions-company-appistry-lands-12-million-in-funding/>
 

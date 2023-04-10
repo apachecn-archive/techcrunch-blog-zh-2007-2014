@@ -1,4 +1,4 @@
-# Tumblr 重新设计默认移动布局，专注于分享和图片 TechCrunch
+# Tumblr 重新设计默认移动布局，专注于分享和图片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/05/tumblr-redesigns-default-mobile-layout-to-focus-on-sharing-and-images/>
 

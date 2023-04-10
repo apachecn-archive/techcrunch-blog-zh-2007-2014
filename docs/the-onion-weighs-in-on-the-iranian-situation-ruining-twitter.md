@@ -1,4 +1,4 @@
-# 《洋葱报》终于报道了伊朗局势“摧毁”Twitter TechCrunch
+# 《洋葱报》终于报道了伊朗局势“摧毁”Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/the-onion-weighs-in-on-the-iranian-situation-ruining-twitter/>
 

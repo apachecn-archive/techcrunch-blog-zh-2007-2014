@@ -1,4 +1,4 @@
-# DoAT 以一种巧妙的方式快速添加了 iPhone 上的 Google+分享功能 TechCrunch
+# DoAT 以一种巧妙的方式快速添加了 iPhone 上的 Google+分享功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/doat-google-plus/>
 

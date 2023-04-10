@@ -1,4 +1,4 @@
-# Google Ventures 开业，投资范围几乎涵盖一切。TechCrunch
+# Google Ventures 开业，投资范围几乎涵盖一切。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/31/google-ventures-opens-for-business-investment-scope-covers-just-about-anything/>
 

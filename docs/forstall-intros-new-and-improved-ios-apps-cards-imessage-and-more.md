@@ -1,4 +1,4 @@
-# Forstall 推出新的和改进的 iOS 应用程序:Cards、iMessage 等 TechCrunch
+# Forstall 推出新的和改进的 iOS 应用程序:Cards、iMessage 等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/forstall-intros-new-and-improved-ios-apps-cards-imessage-and-more/>
 

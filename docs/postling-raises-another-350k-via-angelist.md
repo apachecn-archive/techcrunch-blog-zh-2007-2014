@@ -1,4 +1,4 @@
-# Postling 又筹集了 350，000 美元来发展其面向小型企业的营销仪表板 TechCrunch
+# Postling 又筹集了 350，000 美元来发展其面向小型企业的营销仪表板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/20/postling-raises-another-350k-via-angelist/>
 

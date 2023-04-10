@@ -1,4 +1,4 @@
-# 对于 Kindle 上的书籍，现在的销售额占印刷销售额的 35% TechCrunch
+# 对于 Kindle 上的书籍，现在的销售额占印刷销售额的 35% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/06/for-books-available-on-kindle-sales-are-now-tracking-at-35-percent-of-print-sales/>
 

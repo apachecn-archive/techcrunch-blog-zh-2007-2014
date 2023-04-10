@@ -1,4 +1,4 @@
-# 明星辛普森谈论她在波士顿机场被捕——因为穿了一件 LED 运动衫 TechCrunch
+# 明星辛普森谈论她在波士顿机场被捕——因为穿了一件 LED 运动衫 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/19/star-simpson-talks-about-her-arrest-at-boston-airport-for-wearing-an-led-sweatshirt/>
 

@@ -1,4 +1,4 @@
-# 轮班计划确保 Seed 将工作日程转移到云中 TechCrunch
+# 轮班计划确保 Seed 将工作日程转移到云中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/shiftplanning-secures-seed-to-move-work-schedules-to-the-cloud/>
 

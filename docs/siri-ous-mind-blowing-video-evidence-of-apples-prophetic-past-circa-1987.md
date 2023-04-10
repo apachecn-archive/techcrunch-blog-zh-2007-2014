@@ -1,4 +1,4 @@
-# 激动人心:苹果预言性过去的视频证据——大约 1987 年 TechCrunch
+# 激动人心:苹果预言性过去的视频证据——大约 1987 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/05/siri-ous-mind-blowing-video-evidence-of-apples-prophetic-past-circa-1987/>
 

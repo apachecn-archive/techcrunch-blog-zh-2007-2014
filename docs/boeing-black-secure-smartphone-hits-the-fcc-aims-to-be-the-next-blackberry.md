@@ -1,4 +1,4 @@
-# 波音黑色安全智能手机遭遇 FCC，目标是成为下一个黑莓 TechCrunch
+# 波音黑色安全智能手机遭遇 FCC，目标是成为下一个黑莓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/26/boeing-black-secure-smartphone-hits-the-fcc-aims-to-be-the-next-blackberry/>
 

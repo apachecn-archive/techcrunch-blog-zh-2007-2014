@@ -1,4 +1,4 @@
-# 将 Square 的 50 亿美元估值放入背景中 TechCrunch
+# 将 Square 的 50 亿美元估值放入背景中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/putting-squares-5b-valuation-into-context/>
 

@@ -1,4 +1,4 @@
-# Chartboost 正在打造下一个值得关注的游戏平台，他们正在向欧洲扩张 TechCrunch
+# Chartboost 正在打造下一个值得关注的游戏平台，他们正在向欧洲扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/chartboost-europe/>
 

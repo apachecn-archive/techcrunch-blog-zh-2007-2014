@@ -1,4 +1,4 @@
-# 软件比较服务 CatchFree 收购 KISSinsights，将重点转向实时客户反馈 TechCrunch
+# 软件比较服务 CatchFree 收购 KISSinsights，将重点转向实时客户反馈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/14/software-comparison-service-catchfree-acquires-kissinsights-shifts-focus-to-real-time-customer-feedback/>
 

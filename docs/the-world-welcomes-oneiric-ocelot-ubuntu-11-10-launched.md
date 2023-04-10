@@ -1,4 +1,4 @@
-# 世界欢迎梦幻豹猫:Ubuntu 11.10 TechCrunch
+# 世界欢迎梦幻豹猫:Ubuntu 11.10 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/the-world-welcomes-oneiric-ocelot-ubuntu-11-10-launched/>
 

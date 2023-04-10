@@ -1,4 +1,4 @@
-# 研究人员制造了新的电池，可以立即充电并保持数小时的电量 TechCrunch
+# 研究人员制造了新的电池，可以立即充电并保持数小时的电量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/18/researchers-build-new-batteries-that-charge-instantly-and-hold-hours-of-juice/>
 

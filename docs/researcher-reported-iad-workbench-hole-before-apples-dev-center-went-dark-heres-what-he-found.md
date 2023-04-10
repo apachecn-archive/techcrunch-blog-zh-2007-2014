@@ -1,4 +1,4 @@
-# 研究人员在苹果开发中心陷入黑暗之前报告了 iAd 工作台漏洞，以下是他的发现 TechCrunch
+# 研究人员在苹果开发中心陷入黑暗之前报告了 iAd 工作台漏洞，以下是他的发现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/researcher-reported-iad-workbench-hole-before-apples-dev-center-went-dark-heres-what-he-found/>
 

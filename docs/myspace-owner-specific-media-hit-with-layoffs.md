@@ -1,4 +1,4 @@
-# Myspace 所有者特有的媒体遭遇裁员 TechCrunch
+# Myspace 所有者特有的媒体遭遇裁员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/myspace-owner-specific-media-hit-with-layoffs/>
 

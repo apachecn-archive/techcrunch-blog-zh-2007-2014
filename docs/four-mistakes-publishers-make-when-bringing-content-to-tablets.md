@@ -1,4 +1,4 @@
-# 出版商在将内容引入平板电脑时犯的四个错误 TechCrunch
+# 出版商在将内容引入平板电脑时犯的四个错误 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/11/four-mistakes-publishers-make-when-bringing-content-to-tablets/>
 

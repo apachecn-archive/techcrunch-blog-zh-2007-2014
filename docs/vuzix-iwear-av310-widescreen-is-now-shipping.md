@@ -1,4 +1,4 @@
-# Vuzix iWear AV310 宽屏现已上市 TechCrunch
+# Vuzix iWear AV310 宽屏现已上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/19/vuzix-iwear-av310-widescreen-is-now-shipping/>
 

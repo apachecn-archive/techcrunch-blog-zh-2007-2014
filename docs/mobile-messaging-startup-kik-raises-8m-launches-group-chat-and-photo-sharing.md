@@ -1,4 +1,4 @@
-# 移动通讯初创公司 Kik 融资 800 万美元；启动群聊和照片共享 TechCrunch
+# 移动通讯初创公司 Kik 融资 800 万美元；启动群聊和照片共享 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/07/mobile-messaging-startup-kik-raises-8m-launches-group-chat-and-photo-sharing/>
 

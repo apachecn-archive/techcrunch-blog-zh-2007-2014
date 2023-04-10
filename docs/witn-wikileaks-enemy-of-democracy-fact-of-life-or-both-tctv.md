@@ -1,4 +1,4 @@
-# WITN:维基解密——民主的敌人，生活的事实...还是两者都有？TechCrunch
+# WITN:维基解密——民主的敌人，生活的事实...还是两者都有？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/29/witn-wikileaks-enemy-of-democracy-fact-of-life-or-both-tctv/>
 

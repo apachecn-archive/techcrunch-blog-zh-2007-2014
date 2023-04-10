@@ -1,4 +1,4 @@
-# 如果你不能打败他们，加入 Digg TechCrunch
+# 如果你不能打败他们，加入 Digg 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/29/if-you-cant-beat-em-join-digg/>
 

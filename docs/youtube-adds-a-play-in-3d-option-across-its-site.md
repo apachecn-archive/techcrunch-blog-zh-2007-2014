@@ -1,4 +1,4 @@
-# YouTube 在其网站上增加了“3D 播放”选项 TechCrunch
+# YouTube 在其网站上增加了“3D 播放”选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/05/youtube-adds-a-play-in-3d-option-across-its-site/>
 

@@ -1,4 +1,4 @@
-# 想知道媒体的发展方向吗？跟着钱走。TechCrunch
+# 想知道媒体的发展方向吗？跟着钱走。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/08/want-to-see-where-media-is-going-follow-the-money/>
 

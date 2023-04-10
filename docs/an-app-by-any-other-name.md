@@ -1,4 +1,4 @@
-# 任何其他名称的应用程序...TechCrunch
+# 任何其他名称的应用程序...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/27/an-app-by-any-other-name/>
 

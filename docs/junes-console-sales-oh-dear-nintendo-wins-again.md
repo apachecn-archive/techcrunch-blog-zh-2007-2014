@@ -1,4 +1,4 @@
-# 6 月游戏机销售:哦，天哪，任天堂又赢了 TechCrunch
+# 6 月游戏机销售:哦，天哪，任天堂又赢了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/16/junes-console-sales-oh-dear-nintendo-wins-again/>
 

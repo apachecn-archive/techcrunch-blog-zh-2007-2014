@@ -1,4 +1,4 @@
-# 社会新闻阅读器 FLUD 与美国在线达成协议；推出安卓应用 TechCrunch
+# 社会新闻阅读器 FLUD 与美国在线达成协议；推出安卓应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/social-news-reader-flud-strikes-a-deal-with-aol-launches-android-app/>
 

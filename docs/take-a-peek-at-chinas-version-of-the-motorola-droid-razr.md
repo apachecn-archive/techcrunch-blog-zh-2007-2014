@@ -1,4 +1,4 @@
-# 看一看中国版的摩托罗拉 Droid RAZR TechCrunch
+# 看一看中国版的摩托罗拉 Droid RAZR 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/take-a-peek-at-chinas-version-of-the-motorola-droid-razr/>
 

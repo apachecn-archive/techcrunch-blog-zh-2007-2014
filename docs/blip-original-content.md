@@ -1,4 +1,4 @@
-# Blip 进入原创内容游戏，拥有一个新工作室和三个独家系列 TechCrunch
+# Blip 进入原创内容游戏，拥有一个新工作室和三个独家系列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/28/blip-original-content/>
 

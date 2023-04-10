@@ -1,4 +1,4 @@
-# 威瑞森 Intros 分享一切计划:无限通话/文本和多达 10 台设备的共享数据 TechCrunch
+# 威瑞森 Intros 分享一切计划:无限通话/文本和多达 10 台设备的共享数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/12/verizon-wireless-intros-share-everything-plans-unlimited-talktext-and-shared-data-for-up-to-10-devices/>
 

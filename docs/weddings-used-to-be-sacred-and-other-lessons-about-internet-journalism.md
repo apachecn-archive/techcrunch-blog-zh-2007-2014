@@ -1,4 +1,4 @@
-# 婚礼曾经是神圣的，关于互联网新闻的其他教训 TechCrunch
+# 婚礼曾经是神圣的，关于互联网新闻的其他教训 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/weddings-used-to-be-sacred-and-other-lessons-about-internet-journalism/>
 

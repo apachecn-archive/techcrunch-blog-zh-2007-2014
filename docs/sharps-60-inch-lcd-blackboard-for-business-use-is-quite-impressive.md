@@ -1,4 +1,4 @@
-# 夏普的 60 英寸商用液晶黑板令人印象深刻 TechCrunch
+# 夏普的 60 英寸商用液晶黑板令人印象深刻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/sharps-60-inch-lcd-blackboard-for-business-use-is-quite-impressive/>
 

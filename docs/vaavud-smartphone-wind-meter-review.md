@@ -1,4 +1,4 @@
-# Vaavud 智能手机风速计现已上市，使用您的手机测量风速，就像测量未来一样 TechCrunch
+# Vaavud 智能手机风速计现已上市，使用您的手机测量风速，就像测量未来一样 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/29/vaavud-smartphone-wind-meter-review/>
 

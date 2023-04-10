@@ -1,4 +1,4 @@
-# 脸书即将命名 Sun Microsystems 园区为新总部 TechCrunch
+# 脸书即将命名 Sun Microsystems 园区为新总部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/01/facebook-headquarters-sun/>
 

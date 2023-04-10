@@ -1,4 +1,4 @@
-# Nike 为 Nike+问题道歉，承诺修复，新平台即将推出 TechCrunch
+# Nike 为 Nike+问题道歉，承诺修复，新平台即将推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/nike-apologizes-for-nike-issues-promises-fixes-new-platform-soon/>
 

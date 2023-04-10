@@ -1,4 +1,4 @@
-# Concur 以高达 1400 万英镑的价格收购总部位于伦敦的 global expense TechCrunch
+# Concur 以高达 1400 万英镑的价格收购总部位于伦敦的 global expense 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/07/concur-buys-london-based-globalexpense-for-up-to-14-million/>
 

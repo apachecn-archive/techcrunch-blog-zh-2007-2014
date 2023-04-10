@@ -1,4 +1,4 @@
-# 沃尔格林今天推出可扫描手机优惠券 TechCrunch
+# 沃尔格林今天推出可扫描手机优惠券 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/25/walgreens-launches-scannable-mobile-coupons-today/>
 

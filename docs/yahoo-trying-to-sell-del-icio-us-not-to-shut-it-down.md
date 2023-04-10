@@ -1,4 +1,4 @@
-# 雅虎试图卸载 Del.icio.us，而不是关闭它 TechCrunch
+# 雅虎试图卸载 Del.icio.us，而不是关闭它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/17/yahoo-trying-to-sell-del-icio-us-not-to-shut-it-down/>
 

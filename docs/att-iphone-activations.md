@@ -1,4 +1,4 @@
-# 美国电话电报公司报道 2010 年 2010 万部 iPhone 手机激活 TechCrunch
+# 美国电话电报公司报道 2010 年 2010 万部 iPhone 手机激活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/22/att-iphone-activations/>
 

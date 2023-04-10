@@ -1,4 +1,4 @@
-# 包包周回顾:塔格斯云杉生态智能 TechCrunch
+# 包包周回顾:塔格斯云杉生态智能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/bag-week-review-the-targus-spruce-ecosmart/>
 

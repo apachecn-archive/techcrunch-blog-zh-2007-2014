@@ -1,4 +1,4 @@
-# “对于那些不愿相信的人”TechCrunch
+# “对于那些不愿相信的人”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/01/for-those-who-dont-want-to-believe/>
 

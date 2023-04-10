@@ -1,4 +1,4 @@
-# Tinder 约会应用泄露用户位置的问题 TechCrunch
+# Tinder 约会应用泄露用户位置的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/problem-in-tinder-dating-app-leaked-user-locations/>
 

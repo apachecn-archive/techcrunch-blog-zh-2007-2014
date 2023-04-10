@@ -1,4 +1,4 @@
-# 领先的移动设备制造商承诺支持运营商主导的 NFC 项目 Isis TechCrunch
+# 领先的移动设备制造商承诺支持运营商主导的 NFC 项目 Isis 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/leading-mobile-device-makers-pledge-support-for-carrier-led-nfc-venture-isis/>
 

@@ -1,4 +1,4 @@
-# Albumatic 重新推出照片应用程序，专注于相册(而不是位置)，分享其 420 万美元资金的细节 TechCrunch
+# Albumatic 重新推出照片应用程序，专注于相册(而不是位置)，分享其 420 万美元资金的细节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/01/albumatic-relaunch/>
 

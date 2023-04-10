@@ -1,4 +1,4 @@
-# mSpot 的移动电影流媒体服务扩展到网络 TechCrunch
+# mSpot 的移动电影流媒体服务扩展到网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/23/mspots-mobile-movie-streaming-service-expands-to-the-web/>
 

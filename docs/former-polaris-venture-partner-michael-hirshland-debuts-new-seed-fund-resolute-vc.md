@@ -1,4 +1,4 @@
-# 前北极星风险投资合伙人迈克尔赫什兰首次亮相新的种子基金:坚决。VC TechCrunch
+# 前北极星风险投资合伙人迈克尔赫什兰首次亮相新的种子基金:坚决。VC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/former-polaris-venture-partner-michael-hirshland-debuts-new-seed-fund-resolute-vc/>
 

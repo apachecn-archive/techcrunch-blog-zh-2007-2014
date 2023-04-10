@@ -1,4 +1,4 @@
-# 前 Ask.com 首席执行官 Skip Battle 成为第一个加入 LinkedIn 董事会的外部人士 TechCrunch
+# 前 Ask.com 首席执行官 Skip Battle 成为第一个加入 LinkedIn 董事会的外部人士 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/08/former-ask-com-ceo-skip-battle-first-outsider-to-join-linkedin-board/>
 

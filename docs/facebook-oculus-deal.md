@@ -1,4 +1,4 @@
-# 脸书的$2B Oculus 交易发生在过去五天 TechCrunch
+# 脸书的$2B Oculus 交易发生在过去五天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/facebook-oculus-deal/>
 

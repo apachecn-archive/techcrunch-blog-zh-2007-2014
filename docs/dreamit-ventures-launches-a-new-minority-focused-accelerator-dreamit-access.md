@@ -1,4 +1,4 @@
-# DreamIt Ventures 推出了一个新的针对少数族裔的加速器，DreamIt Access TechCrunch
+# DreamIt Ventures 推出了一个新的针对少数族裔的加速器，DreamIt Access 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/29/dreamit-ventures-launches-a-new-minority-focused-accelerator-dreamit-access/>
 

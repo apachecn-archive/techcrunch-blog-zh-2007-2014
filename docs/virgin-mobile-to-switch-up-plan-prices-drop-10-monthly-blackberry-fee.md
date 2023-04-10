@@ -1,4 +1,4 @@
-# 维珍移动切换计划价格，降低 10 美元每月黑莓费？TechCrunch
+# 维珍移动切换计划价格，降低 10 美元每月黑莓费？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/06/virgin-mobile-to-switch-up-plan-prices-drop-10-monthly-blackberry-fee/>
 

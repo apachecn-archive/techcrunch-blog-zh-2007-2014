@@ -1,4 +1,4 @@
-# Flip v .我的廉价佳能相机:Flip 全线失利 TechCrunch
+# Flip v .我的廉价佳能相机:Flip 全线失利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/05/the-flip-v-my-cheap-canon-camera-flip-loses-across-the-board/>
 

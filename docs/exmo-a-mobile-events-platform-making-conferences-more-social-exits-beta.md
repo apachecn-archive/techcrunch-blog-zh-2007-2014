@@ -1,4 +1,4 @@
-# 使会议更加社会化的移动活动平台 EXMO 退出 Beta TechCrunch
+# 使会议更加社会化的移动活动平台 EXMO 退出 Beta 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/09/exmo-a-mobile-events-platform-making-conferences-more-social-exits-beta/>
 

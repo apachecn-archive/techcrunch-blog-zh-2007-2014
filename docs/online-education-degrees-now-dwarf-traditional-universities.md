@@ -1,4 +1,4 @@
-# 在线教育学位现在让传统大学相形见绌 TechCrunch
+# 在线教育学位现在让传统大学相形见绌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/09/online-education-degrees-now-dwarf-traditional-universities/>
 

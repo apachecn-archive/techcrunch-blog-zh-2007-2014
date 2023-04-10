@@ -1,4 +1,4 @@
-# 想为你的创业公司雇佣顶尖人才吗？以下是你应该知道的五件事。TechCrunch
+# 想为你的创业公司雇佣顶尖人才吗？以下是你应该知道的五件事。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/looking-to-hire-top-talent-for-your-startup-here-are-five-things-you-should-know/>
 

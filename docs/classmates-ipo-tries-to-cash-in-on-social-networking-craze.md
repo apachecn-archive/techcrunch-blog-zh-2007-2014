@@ -1,4 +1,4 @@
-# 同学 IPO 试图利用社交网络热潮赚钱 TechCrunch
+# 同学 IPO 试图利用社交网络热潮赚钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/26/classmates-ipo-tries-to-cash-in-on-social-networking-craze/>
 

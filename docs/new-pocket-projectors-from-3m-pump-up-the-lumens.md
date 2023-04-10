@@ -1,4 +1,4 @@
-# 3M 公司的新型袖珍投影仪提升了流明 TechCrunch
+# 3M 公司的新型袖珍投影仪提升了流明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/new-pocket-projectors-from-3m-pump-up-the-lumens/>
 

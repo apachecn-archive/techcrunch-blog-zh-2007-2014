@@ -1,4 +1,4 @@
-# 安桥发布两款 Windows 7 平板电脑 TechCrunch
+# 安桥发布两款 Windows 7 平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/28/onkyo-releases-two-windows-7-tablets/>
 

@@ -1,4 +1,4 @@
-# 无意中听到:史蒂夫·乔布斯说苹果平板电脑“将是我做过的最重要的事情。”TechCrunch
+# 无意中听到:史蒂夫·乔布斯说苹果平板电脑“将是我做过的最重要的事情。”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/24/steve-jobs-tablet-most-important/>
 

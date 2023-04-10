@@ -1,4 +1,4 @@
-# 随着 85 亿美元交易的完成，Skype 正式成为微软的一个部门 TechCrunch
+# 随着 85 亿美元交易的完成，Skype 正式成为微软的一个部门 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/skype-officially-becomes-a-microsoft-business-division-as-8-5b-deal-closes/>
 

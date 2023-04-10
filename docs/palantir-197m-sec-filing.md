@@ -1,4 +1,4 @@
-# SEC 文件显示，Palantir 正在筹集 1.97 亿美元的增长资本 TechCrunch
+# SEC 文件显示，Palantir 正在筹集 1.97 亿美元的增长资本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/27/palantir-197m-sec-filing/>
 

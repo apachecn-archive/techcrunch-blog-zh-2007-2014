@@ -1,4 +1,4 @@
-# 当谷歌圈碰撞时 TechCrunch
+# 当谷歌圈碰撞时 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/02/when-google-circles-collide/>
 

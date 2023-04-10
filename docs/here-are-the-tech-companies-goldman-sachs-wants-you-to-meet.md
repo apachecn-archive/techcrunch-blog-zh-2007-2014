@@ -1,4 +1,4 @@
-# 以下是高盛想让你见见的科技公司 TechCrunch
+# 以下是高盛想让你见见的科技公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/10/here-are-the-tech-companies-goldman-sachs-wants-you-to-meet/>
 

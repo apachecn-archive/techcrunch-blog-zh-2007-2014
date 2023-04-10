@@ -1,4 +1,4 @@
-# 开发者将他的微波炉改造成未来的微波炉 TechCrunch
+# 开发者将他的微波炉改造成未来的微波炉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/raspberry-pi-microwave-hack/>
 

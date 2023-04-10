@@ -1,4 +1,4 @@
-# TC Droidcast 第 23 集:三星的音乐奶昔，HTC 的 One 2 Punch TechCrunch
+# TC Droidcast 第 23 集:三星的音乐奶昔，HTC 的 One 2 Punch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/09/tc-droidcast-episode-23-samsungs-music-milk-shake-htcs-one-2-punch/>
 

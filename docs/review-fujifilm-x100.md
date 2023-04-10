@@ -1,4 +1,4 @@
-# 点评:富士 X100 TechCrunch
+# 点评:富士 X100 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/review-fujifilm-x100/>
 

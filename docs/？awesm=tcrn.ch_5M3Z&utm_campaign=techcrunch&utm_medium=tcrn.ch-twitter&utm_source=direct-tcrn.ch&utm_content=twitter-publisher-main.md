@@ -1,4 +1,4 @@
-# 社交手游火热。300 万美元热门 TechCrunch
+# 社交手游火热。300 万美元热门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/12/social-mobile-games-are-hot-3-million-hot/?awesm=tcrn.ch_5M3Z&utm_campaign=techcrunch&utm_medium=tcrn.ch-twitter&utm_source=direct-tcrn.ch&utm_content=twitter-publisher-main>
 

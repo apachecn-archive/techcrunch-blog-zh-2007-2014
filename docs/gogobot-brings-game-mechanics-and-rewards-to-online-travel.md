@@ -1,4 +1,4 @@
-# Gogobot 为在线旅游带来游戏机制和奖励 TechCrunch
+# Gogobot 为在线旅游带来游戏机制和奖励 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/07/gogobot-brings-game-mechanics-and-rewards-to-online-travel/>
 

@@ -1,4 +1,4 @@
-# 雷达网络和一个非常不安的投资者之间的讨厌的诉讼 TechCrunch
+# 雷达网络和一个非常不安的投资者之间的讨厌的诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/nasty-lawsuit-between-radar-networks-and-a-very-upset-investor/>
 

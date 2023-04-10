@@ -1,4 +1,4 @@
-# NuForce 镀金、镶满水晶的 USB 音频设备:卖给白痴的设备，毫无意义 TechCrunch
+# NuForce 镀金、镶满水晶的 USB 音频设备:卖给白痴的设备，毫无意义 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/nuforces-gold-plated-crystal-studded-usb-audio-device-a-device-sold-to-an-idiot-signifying-nothing/>
 

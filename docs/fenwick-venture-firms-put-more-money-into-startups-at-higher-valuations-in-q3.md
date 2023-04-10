@@ -1,4 +1,4 @@
-# Fenwick:风险投资公司在第三季度向估值更高的初创公司投入更多资金 TechCrunch
+# Fenwick:风险投资公司在第三季度向估值更高的初创公司投入更多资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/fenwick-venture-firms-put-more-money-into-startups-at-higher-valuations-in-q3/>
 

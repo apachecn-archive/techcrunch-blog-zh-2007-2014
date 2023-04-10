@@ -1,4 +1,4 @@
-# 在 Kinect 上移动——来自俄罗斯的 Displair 是一个无形的手势界面 TechCrunch
+# 在 Kinect 上移动——来自俄罗斯的 Displair 是一个无形的手势界面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/23/move-over-kinect-displair-from-russia-is-a-gesture-interface-in-thin-air-2/>
 

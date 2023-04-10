@@ -1,4 +1,4 @@
-# 视频:观看可爱的医疗保健机器人 RIBA II 在运行 TechCrunch
+# 视频:观看可爱的医疗保健机器人 RIBA II 在运行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/video-watch-cute-healthcare-robot-riba-ii-in-action/?utm_medium=twitter&utm_source=twitterfeed>
 

@@ -1,4 +1,4 @@
-# Andreessen Horowitz 在 Hadoop 数据平台分析平台领域领先 570 万美元 TechCrunch
+# Andreessen Horowitz 在 Hadoop 数据平台分析平台领域领先 570 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/08/andreessen-horowitz-leads-5-7m-round-in-analytics-platform-for-hadoop-data-platfora/>
 

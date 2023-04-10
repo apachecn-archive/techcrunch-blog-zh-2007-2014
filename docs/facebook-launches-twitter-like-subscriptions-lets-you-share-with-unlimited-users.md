@@ -1,4 +1,4 @@
-# 脸书推出类似 Twitter 的“订阅”，让你与无限用户分享 TechCrunch
+# 脸书推出类似 Twitter 的“订阅”，让你与无限用户分享 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/facebook-launches-twitter-like-subscriptions-lets-you-share-with-unlimited-users/>
 

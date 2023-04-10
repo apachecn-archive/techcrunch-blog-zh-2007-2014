@@ -1,4 +1,4 @@
-# HTML5 游戏初创公司 cannon 引诱星际争霸人物 Sean "Day[9]" Plott 成为设计角色 TechCrunch
+# HTML5 游戏初创公司 cannon 引诱星际争霸人物 Sean "Day[9]" Plott 成为设计角色 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/05/artillery-day-9-sean-plott/>
 

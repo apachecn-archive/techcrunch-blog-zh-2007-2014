@@ -1,4 +1,4 @@
-# 点评:谷歌的 Android 操作系统可能更适合平板电脑，Nexus 10 就是一个很好的例子 TechCrunch
+# 点评:谷歌的 Android 操作系统可能更适合平板电脑，Nexus 10 就是一个很好的例子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/02/review-googles-android-os-might-be-better-suited-for-tablets-and-the-nexus-10-is-a-shining-example/>
 

@@ -1,4 +1,4 @@
-# Twitter 拥有 105，779，710 名注册用户，每天增加 30 万用户 TechCrunch
+# Twitter 拥有 105，779，710 名注册用户，每天增加 30 万用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/14/twitter-has-105779710-registered-users-adding-300k-a-day/>
 

@@ -1,4 +1,4 @@
-# 为什么谷歌电视作为一个平台可能会推动苹果制造电视 TechCrunch
+# 为什么谷歌电视作为一个平台可能会推动苹果制造电视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/02/google-tv-apple-televisions/>
 

@@ -1,4 +1,4 @@
-# 走近麦肯齐&马尔手工制作的在线吉他 TechCrunch
+# 走近麦肯齐&马尔手工制作的在线吉他 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/up-close-with-mackenzie-marrs-handmade-online-only-guitars/>
 

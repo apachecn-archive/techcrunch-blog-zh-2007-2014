@@ -1,4 +1,4 @@
-# 带我去你的地铁:微软发布机器人开发者工作室 4 测试版 TechCrunch
+# 带我去你的地铁:微软发布机器人开发者工作室 4 测试版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/take-me-to-your-metro-microsoft-releases-robotics-developer-studio-4-beta/>
 

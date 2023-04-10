@@ -1,4 +1,4 @@
-# 与朋友一起玩手机，在 iPhone 和 Android 上发布 TechCrunch
+# 与朋友一起玩手机，在 iPhone 和 Android 上发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/08/bang-with-friends-goes-mobile-launches-on-iphone-and-android/>
 

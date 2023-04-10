@@ -1,4 +1,4 @@
-# Eink 的屏幕用雪花玻璃球解释 TechCrunch
+# Eink 的屏幕用雪花玻璃球解释 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/einks-screens-explained-with-a-snowglobe/>
 

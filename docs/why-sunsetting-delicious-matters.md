@@ -1,4 +1,4 @@
-# 为什么日落美味如此重要 TechCrunch
+# 为什么日落美味如此重要 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/19/why-sunsetting-delicious-matters/>
 

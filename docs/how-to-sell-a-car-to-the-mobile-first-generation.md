@@ -1,4 +1,4 @@
-# 如何向手机销售汽车-第一代 TechCrunch
+# 如何向手机销售汽车-第一代 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/18/how-to-sell-a-car-to-the-mobile-first-generation/>
 

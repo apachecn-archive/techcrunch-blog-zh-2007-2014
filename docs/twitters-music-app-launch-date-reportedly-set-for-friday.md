@@ -1,4 +1,4 @@
-# 据报道，Twitter 的音乐应用程序将于周五发布，但 Coachella 可能会被证明太混乱，不适合营销 TechCrunch
+# 据报道，Twitter 的音乐应用程序将于周五发布，但 Coachella 可能会被证明太混乱，不适合营销 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/twitters-music-app-launch-date-reportedly-set-for-friday/>
 

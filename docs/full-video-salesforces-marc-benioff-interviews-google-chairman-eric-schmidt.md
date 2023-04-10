@@ -1,4 +1,4 @@
-# 完整视频:Salesforce 的马克贝尼奥夫采访谷歌董事长埃里克施密特 TechCrunch
+# 完整视频:Salesforce 的马克贝尼奥夫采访谷歌董事长埃里克施密特 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/full-video-salesforces-marc-benioff-interviews-google-chairman-eric-schmidt/>
 

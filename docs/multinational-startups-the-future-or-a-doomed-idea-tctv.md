@@ -1,4 +1,4 @@
-# 跨国创业公司:未来还是注定的想法？TechCrunch
+# 跨国创业公司:未来还是注定的想法？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/multinational-startups-the-future-or-a-doomed-idea-tctv/>
 

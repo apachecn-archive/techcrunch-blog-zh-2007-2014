@@ -1,4 +1,4 @@
-# Intuit 与威瑞森无线合作，在零售店销售 Square 竞争对手 go payment TechCrunch
+# Intuit 与威瑞森无线合作，在零售店销售 Square 竞争对手 go payment 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/intuit-partners-with-verizon-wireless-to-sell-square-competitor-at-retail-stores/>
 

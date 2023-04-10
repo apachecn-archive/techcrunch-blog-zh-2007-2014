@@ -1,4 +1,4 @@
-# 脸书以 500 亿美元的估值融资 15 亿美元 TechCrunch
+# 脸书以 500 亿美元的估值融资 15 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/facebook-raises-1-5-billion-at-50-billion-valuation/>
 

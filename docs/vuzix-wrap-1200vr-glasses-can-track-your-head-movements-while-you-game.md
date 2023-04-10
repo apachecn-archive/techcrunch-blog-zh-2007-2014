@@ -1,4 +1,4 @@
-# Vuzix Wrap 1200VR 眼镜可以在你玩游戏时跟踪你的头部运动 TechCrunch
+# Vuzix Wrap 1200VR 眼镜可以在你玩游戏时跟踪你的头部运动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/vuzix-wrap-1200vr-glasses-can-track-your-head-movements-while-you-game/>
 

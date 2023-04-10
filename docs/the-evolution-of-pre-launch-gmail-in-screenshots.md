@@ -1,4 +1,4 @@
-# 截图中发布前 Gmail 的演变 TechCrunch
+# 截图中发布前 Gmail 的演变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/06/the-evolution-of-pre-launch-gmail-in-screenshots/>
 

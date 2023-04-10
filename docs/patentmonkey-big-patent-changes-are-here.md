@@ -1,4 +1,4 @@
-# PatentMonkey:专利大变革来了 TechCrunch
+# PatentMonkey:专利大变革来了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/25/patentmonkey-big-patent-changes-are-here/>
 

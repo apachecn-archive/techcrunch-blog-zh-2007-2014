@@ -1,4 +1,4 @@
-# Path 最终关闭了难以捉摸的系列 C TechCrunch
+# Path 最终关闭了难以捉摸的系列 C 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/10/path-finally-closes-that-elusive-series-c/>
 

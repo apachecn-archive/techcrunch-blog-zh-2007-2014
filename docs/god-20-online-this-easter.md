@@ -1,4 +1,4 @@
-# 上帝 2.0 今年复活节上线 TechCrunch
+# 上帝 2.0 今年复活节上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/21/god-20-online-this-easter/>
 

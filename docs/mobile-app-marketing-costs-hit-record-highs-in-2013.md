@@ -1,4 +1,4 @@
-# 2013 年移动应用营销成本创历史新高 TechCrunch
+# 2013 年移动应用营销成本创历史新高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/03/mobile-app-marketing-costs-hit-record-highs-in-2013/>
 

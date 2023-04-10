@@ -1,4 +1,4 @@
-# 克隆，到处都是克隆——“1024”、“2048”和其他流行付费游戏“三”的副本充斥着应用商店 TechCrunch
+# 克隆，到处都是克隆——“1024”、“2048”和其他流行付费游戏“三”的副本充斥着应用商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/24/clones-clones-everywhere-1024-2048-and-other-copies-of-popular-paid-game-threes-fill-the-app-stores/>
 

@@ -1,4 +1,4 @@
-# PhotoJoy:适合有孩子的多愁善感的博客作者 TechCrunch
+# PhotoJoy:适合有孩子的多愁善感的博客作者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/23/photojoy-perfect-for-sappy-bloggers-with-kids/>
 

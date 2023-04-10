@@ -1,4 +1,4 @@
-# 为什么脸书看起来不像这样？因为 Twitter 有。TechCrunch
+# 为什么脸书看起来不像这样？因为 Twitter 有。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/facebook-twitter-design/>
 

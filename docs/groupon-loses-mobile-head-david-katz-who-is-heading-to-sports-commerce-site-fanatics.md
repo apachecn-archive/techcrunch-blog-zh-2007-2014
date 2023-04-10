@@ -1,4 +1,4 @@
-# Groupon 失去了移动负责人大卫·卡茨，他正前往体育商务网站 Fanatics TechCrunch
+# Groupon 失去了移动负责人大卫·卡茨，他正前往体育商务网站 Fanatics 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/29/groupon-loses-mobile-head-david-katz-who-is-heading-to-sports-commerce-site-fanatics/>
 

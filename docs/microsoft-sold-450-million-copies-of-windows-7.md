@@ -1,4 +1,4 @@
-# 微软售出 4.5 亿份 Windows 7 TechCrunch
+# 微软售出 4.5 亿份 Windows 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/microsoft-sold-450-million-copies-of-windows-7/>
 

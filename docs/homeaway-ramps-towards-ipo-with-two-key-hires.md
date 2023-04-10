@@ -1,4 +1,4 @@
-# HomeAway 凭借两名关键员工和每年 2 亿美元的收入迈向 IPO TechCrunch
+# HomeAway 凭借两名关键员工和每年 2 亿美元的收入迈向 IPO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/14/homeaway-ramps-towards-ipo-with-two-key-hires/>
 

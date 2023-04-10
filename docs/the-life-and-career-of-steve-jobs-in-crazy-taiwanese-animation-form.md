@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯的生活和职业生涯，以疯狂的台湾动画形式 TechCrunch
+# 史蒂夫·乔布斯的生活和职业生涯，以疯狂的台湾动画形式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/the-life-and-career-of-steve-jobs-in-crazy-taiwanese-animation-form/>
 

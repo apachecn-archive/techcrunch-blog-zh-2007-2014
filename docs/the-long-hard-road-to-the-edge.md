@@ -1,4 +1,4 @@
-# 通往边缘的漫长艰难之路 TechCrunch
+# 通往边缘的漫长艰难之路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/27/the-long-hard-road-to-the-edge/>
 

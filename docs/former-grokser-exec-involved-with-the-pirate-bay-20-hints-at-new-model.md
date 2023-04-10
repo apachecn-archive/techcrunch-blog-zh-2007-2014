@@ -1,4 +1,4 @@
-# 参与海盗湾 2.0 的前格罗斯特高管暗示新模式 TechCrunch
+# 参与海盗湾 2.0 的前格罗斯特高管暗示新模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/16/former-grokser-exec-involved-with-the-pirate-bay-20-hints-at-new-model/>
 

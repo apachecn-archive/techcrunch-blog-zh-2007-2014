@@ -1,4 +1,4 @@
-# 移动应用库存有望在年底赶上在线展示广告支出 TechCrunch
+# 移动应用库存有望在年底赶上在线展示广告支出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/mobile-app-inventory-on-track-to-match-online-display-ad-spend-by-year-end/>
 

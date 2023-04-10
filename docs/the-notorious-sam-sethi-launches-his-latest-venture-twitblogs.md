@@ -1,4 +1,4 @@
-# 臭名昭著的萨姆·塞西启动了他的最新冒险——推特博客。TechCrunch
+# 臭名昭著的萨姆·塞西启动了他的最新冒险——推特博客。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/14/the-notorious-sam-sethi-launches-his-latest-venture-twitblogs/>
 

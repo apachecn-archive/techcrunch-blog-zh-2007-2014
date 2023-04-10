@@ -1,4 +1,4 @@
-# iPhone 占美国智能手机网络流量的 50 %, Android 已占 5% TechCrunch
+# iPhone 占美国智能手机网络流量的 50 %, Android 已占 5% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/24/iphone-now-50-percent-of-smartphone-web-traffic-in-the-us/>
 

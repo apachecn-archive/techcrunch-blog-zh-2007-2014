@@ -1,4 +1,4 @@
-# LinkedIn 推出 URL Shortener，增强内容共享选项 TechCrunch
+# LinkedIn 推出 URL Shortener，增强内容共享选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/linkedin-launches-url-shortener-enhances-sharing-options/>
 

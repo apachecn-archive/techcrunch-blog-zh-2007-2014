@@ -1,4 +1,4 @@
-# 《卫报》的大卫·利谈论朱利安阿桑奇和维基解密 TechCrunch
+# 《卫报》的大卫·利谈论朱利安阿桑奇和维基解密 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/12/the-guardians-david-leigh-talks-about-julian-assange-and-wikileaks/>
 

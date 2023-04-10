@@ -1,4 +1,4 @@
-# Adobe 放弃苹果，绕开 iOS 的 Flash 视频限制 TechCrunch
+# Adobe 放弃苹果，绕开 iOS 的 Flash 视频限制 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/adobe-gives-up-on-apple-works-around-ios-flash-video-limitations/>
 

@@ -1,4 +1,4 @@
-# YC 支持的 TerrAvion 推出航空影像作为农民服务 TechCrunch
+# YC 支持的 TerrAvion 推出航空影像作为农民服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/yc-backed-terravion-launches-aerial-imagery-as-a-service-for-farmers/>
 

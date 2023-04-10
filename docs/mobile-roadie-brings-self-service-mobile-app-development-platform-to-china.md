@@ -1,4 +1,4 @@
-# Mobile Roadie 为中国带来自助式移动应用开发平台 TechCrunch
+# Mobile Roadie 为中国带来自助式移动应用开发平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/mobile-roadie-brings-self-service-mobile-app-development-platform-to-china/>
 

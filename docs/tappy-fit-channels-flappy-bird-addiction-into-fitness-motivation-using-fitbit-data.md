@@ -1,4 +1,4 @@
-# Tappy Fit 使用 Fitbit 数据将 Flappy Bird 上瘾转化为健身动机 TechCrunch
+# Tappy Fit 使用 Fitbit 数据将 Flappy Bird 上瘾转化为健身动机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/21/tappy-fit-channels-flappy-bird-addiction-into-fitness-motivation-using-fitbit-data/>
 

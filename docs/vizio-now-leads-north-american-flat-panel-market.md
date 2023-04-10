@@ -1,4 +1,4 @@
-# VIZIO 现在引领北美平板市场 TechCrunch
+# VIZIO 现在引领北美平板市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/22/vizio-now-leads-north-american-flat-panel-market/>
 

@@ -1,4 +1,4 @@
-# 梅格·惠特曼是领导惠普的合适人选吗？TechCrunch
+# 梅格·惠特曼是领导惠普的合适人选吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/is-meg-whitman-the-right-person-to-lead-hp-tctv/>
 

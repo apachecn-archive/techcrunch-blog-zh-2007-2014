@@ -1,4 +1,4 @@
-# 脸书和易贝联手为社交商务注入新活力 TechCrunch
+# 脸书和易贝联手为社交商务注入新活力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/facebook-and-ebay-team-up-to-breathe-new-life-into-social-commerce/>
 

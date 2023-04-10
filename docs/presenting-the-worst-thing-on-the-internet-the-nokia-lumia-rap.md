@@ -1,4 +1,4 @@
-# 呈现互联网上最糟糕的东西:诺基亚 Lumia Rap TechCrunch
+# 呈现互联网上最糟糕的东西:诺基亚 Lumia Rap 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/10/presenting-the-worst-thing-on-the-internet-the-nokia-lumia-rap/>
 

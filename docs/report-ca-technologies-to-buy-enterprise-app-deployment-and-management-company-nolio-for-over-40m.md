@@ -1,4 +1,4 @@
-# 报告:CA Technologies 以超过 4000 万美元收购企业应用部署和管理公司 Nolio TechCrunch
+# 报告:CA Technologies 以超过 4000 万美元收购企业应用部署和管理公司 Nolio 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/24/report-ca-technologies-to-buy-enterprise-app-deployment-and-management-company-nolio-for-over-40m/>
 

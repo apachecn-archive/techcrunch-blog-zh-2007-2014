@@ -1,4 +1,4 @@
-# 亚马逊财报电话会议详情:网络服务消耗的带宽比 Amazon.com 多；Kindle 大受欢迎 TechCrunch
+# 亚马逊财报电话会议详情:网络服务消耗的带宽比 Amazon.com 多；Kindle 大受欢迎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/30/amazon-earnings-call-details-web-services-use-up-more-bandwidth-than-amazoncom-the-kindle-is-a-hit/>
 

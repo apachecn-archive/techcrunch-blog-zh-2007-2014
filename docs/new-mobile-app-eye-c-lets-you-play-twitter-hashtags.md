@@ -1,4 +1,4 @@
-# 新的移动应用程序 Eye-C 让你“玩”Twitter 标签 TechCrunch
+# 新的移动应用程序 Eye-C 让你“玩”Twitter 标签 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/new-mobile-app-eye-c-lets-you-play-twitter-hashtags/>
 

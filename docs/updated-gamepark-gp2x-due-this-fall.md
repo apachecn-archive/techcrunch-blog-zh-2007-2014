@@ -1,4 +1,4 @@
-# 今年秋季更新 Gamepark GP2X TechCrunch
+# 今年秋季更新 Gamepark GP2X 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/updated-gamepark-gp2x-due-this-fall/>
 

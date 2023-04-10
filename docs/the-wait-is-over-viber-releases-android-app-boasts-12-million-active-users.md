@@ -1,4 +1,4 @@
-# 等待结束了:Viber 发布 Android 应用，拥有 1200 万活跃用户 TechCrunch
+# 等待结束了:Viber 发布 Android 应用，拥有 1200 万活跃用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/the-wait-is-over-viber-releases-android-app-boasts-12-million-active-users/>
 

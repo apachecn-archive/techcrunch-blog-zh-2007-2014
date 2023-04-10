@@ -1,4 +1,4 @@
-# 诺基亚考虑涉足笔记本电脑行业 TechCrunch
+# 诺基亚考虑涉足笔记本电脑行业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/25/nokia-thinking-about-dabbling-in-the-laptop-biz/>
 

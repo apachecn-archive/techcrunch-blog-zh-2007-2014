@@ -1,4 +1,4 @@
-# 奥姆饿了；购买另一个博客(the appleblog)TechCrunch
+# 奥姆饿了；购买另一个博客(the appleblog)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/15/om-is-hungry-buys-another-blog-theappleblog/>
 

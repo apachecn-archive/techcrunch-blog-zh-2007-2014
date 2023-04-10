@@ -1,4 +1,4 @@
-# Asthmapolis 希望破解吸入器，帮助 2600 万美国人更好地跟踪和管理他们的哮喘 TechCrunch
+# Asthmapolis 希望破解吸入器，帮助 2600 万美国人更好地跟踪和管理他们的哮喘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/05/asthmapolis-wants-to-hack-the-inhaler-and-help-26-million-americans-better-track-and-manage-their-asthma/?guccounter=1>
 

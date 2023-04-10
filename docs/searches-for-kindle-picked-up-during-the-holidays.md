@@ -1,4 +1,4 @@
-# 假期期间搜索“Kindle”的人数增加 TechCrunch
+# 假期期间搜索“Kindle”的人数增加 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/23/searches-for-kindle-picked-up-during-the-holidays/>
 

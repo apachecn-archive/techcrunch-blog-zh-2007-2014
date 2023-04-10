@@ -1,4 +1,4 @@
-# 《纽约时报》看到第四季度互联网广告反弹 TechCrunch
+# 《纽约时报》看到第四季度互联网广告反弹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/10/new-york-times-rebound-internet-advertising-fourth-quarter/>
 

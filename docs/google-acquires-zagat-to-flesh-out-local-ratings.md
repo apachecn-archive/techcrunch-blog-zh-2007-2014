@@ -1,4 +1,4 @@
-# 谷歌收购 Zagat 充实本地评论 TechCrunch
+# 谷歌收购 Zagat 充实本地评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/google-acquires-zagat-to-flesh-out-local-ratings/>
 

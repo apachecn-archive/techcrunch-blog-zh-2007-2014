@@ -1,4 +1,4 @@
-# 苹果终于准备好切断我头上烦人的电线了吗？TechCrunch
+# 苹果终于准备好切断我头上烦人的电线了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/apple-wireless-headphones/>
 

@@ -1,4 +1,4 @@
-# 随着极光币“空投”的临近，当一个国家采用加密货币意味着什么？TechCrunch
+# 随着极光币“空投”的临近，当一个国家采用加密货币意味着什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/01/as-auroracoin-airdrop-approaches-what-does-it-mean-when-a-nation-adopts-a-cryptocurrency/>
 

@@ -1,4 +1,4 @@
-# AngelSoft 重新成为 Gust.com，现在连接创业公司和投资者 TechCrunch
+# AngelSoft 重新成为 Gust.com，现在连接创业公司和投资者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/angelsoft-relaunches-as-gust-com-now-connects-startups-to-investors/>
 

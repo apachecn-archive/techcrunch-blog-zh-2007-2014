@@ -1,4 +1,4 @@
-# 伊恩·罗杰斯谈音乐 CD 业的死亡:“我不在乎。”TechCrunch
+# 伊恩·罗杰斯谈音乐 CD 业的死亡:“我不在乎。”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/19/ian-rogers-on-the-death-of-the-music-cd-business-i-dont-care/>
 

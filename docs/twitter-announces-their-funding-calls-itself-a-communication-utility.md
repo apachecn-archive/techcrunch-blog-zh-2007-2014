@@ -1,4 +1,4 @@
-# Twitter 宣布他们的资助，称自己是一个交流工具 TechCrunch
+# Twitter 宣布他们的资助，称自己是一个交流工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/24/twitter-announces-their-funding-calls-itself-a-communication-utility/>
 

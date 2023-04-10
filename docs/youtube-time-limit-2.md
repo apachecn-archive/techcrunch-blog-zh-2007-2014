@@ -1,4 +1,4 @@
-# YouTube 开始取消视频时间限制 TechCrunch
+# YouTube 开始取消视频时间限制 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/09/youtube-time-limit-2/>
 

@@ -1,4 +1,4 @@
-# Salesforce 收购电子邮件联系人经理 Etacts TechCrunch
+# Salesforce 收购电子邮件联系人经理 Etacts 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/21/salesforce-buys-email-contact-manager-etacts/>
 

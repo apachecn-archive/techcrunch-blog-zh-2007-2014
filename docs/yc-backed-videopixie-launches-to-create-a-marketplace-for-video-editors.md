@@ -1,4 +1,4 @@
-# YC 支持的 Videopixie 推出，为视频编辑创造市场 TechCrunch
+# YC 支持的 Videopixie 推出，为视频编辑创造市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/19/yc-backed-videopixie-launches-to-create-a-marketplace-for-video-editors/>
 

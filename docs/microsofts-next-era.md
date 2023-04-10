@@ -1,4 +1,4 @@
-# 微软的新时代 TechCrunch
+# 微软的新时代 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/25/microsofts-next-era/>
 

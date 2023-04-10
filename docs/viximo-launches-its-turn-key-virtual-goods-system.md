@@ -1,4 +1,4 @@
-# Viximo 推出交钥匙虚拟商品系统 TechCrunch
+# Viximo 推出交钥匙虚拟商品系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/29/viximo-launches-its-turn-key-virtual-goods-system/>
 

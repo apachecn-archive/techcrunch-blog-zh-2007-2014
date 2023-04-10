@@ -1,4 +1,4 @@
-# Sprint 以 4.8 亿美元收购美国蜂窝频谱和客户，扩大中西部覆盖范围 TechCrunch
+# Sprint 以 4.8 亿美元收购美国蜂窝频谱和客户，扩大中西部覆盖范围 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/07/sprint-buying-u-s-cellular-spectrum-and-customers-for-480-million-to-expand-midwest-reach/>
 

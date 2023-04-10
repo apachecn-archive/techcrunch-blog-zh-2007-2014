@@ -1,4 +1,4 @@
-# 更多供应线泄漏暗示更小的 iPad TechCrunch
+# 更多供应线泄漏暗示更小的 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/more-supply-line-leaks-hint-at-smaller-ipad/>
 

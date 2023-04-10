@@ -1,4 +1,4 @@
-# TripIt 所有者 Concur 支持个性化旅游搜索引擎 Room 77 TechCrunch
+# TripIt 所有者 Concur 支持个性化旅游搜索引擎 Room 77 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/02/tripit-owner-concur-backs-personalized-travel-search-engine-room-77/>
 

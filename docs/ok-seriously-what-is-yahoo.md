@@ -1,4 +1,4 @@
-# 好吧，说真的，雅虎是什么？TechCrunch
+# 好吧，说真的，雅虎是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/28/ok-seriously-what-is-yahoo/>
 

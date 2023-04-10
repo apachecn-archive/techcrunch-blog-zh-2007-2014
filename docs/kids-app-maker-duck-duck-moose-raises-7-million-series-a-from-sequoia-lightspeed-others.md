@@ -1,4 +1,4 @@
-# 儿童应用程序制造商 Duck Duck Moose 从红杉、光速和其他公司获得 700 万美元的 A 轮融资 TechCrunch
+# 儿童应用程序制造商 Duck Duck Moose 从红杉、光速和其他公司获得 700 万美元的 A 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/kids-app-maker-duck-duck-moose-raises-7-million-series-a-from-sequoia-lightspeed-others/>
 

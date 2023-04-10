@@ -1,4 +1,4 @@
-# 利用分析，彭博测试版寻找创业创始人 TechCrunch
+# 利用分析，彭博测试版寻找创业创始人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/using-analytics-bloomberg-beta-seeks-out-startup-founders/>
 

@@ -1,4 +1,4 @@
-# Womply 的新交易创业公司将本地优惠加载到您的信用卡上 TechCrunch
+# Womply 的新交易创业公司将本地优惠加载到您的信用卡上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/womplys-new-deals-startup-loads-local-offers-onto-your-credit-cards/>
 

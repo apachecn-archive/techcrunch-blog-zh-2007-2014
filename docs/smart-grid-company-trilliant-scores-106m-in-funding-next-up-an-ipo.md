@@ -1,4 +1,4 @@
-# 智能电网公司 Trilliant 获得 1.06 亿美元融资——下一步，IPO？TechCrunch
+# 智能电网公司 Trilliant 获得 1.06 亿美元融资——下一步，IPO？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/15/smart-grid-company-trilliant-scores-106m-in-funding-next-up-an-ipo/>
 

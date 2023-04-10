@@ -1,4 +1,4 @@
-# 前往雅虎！而且没有！感叹号我一点办法都没有！TechCrunch
+# 前往雅虎！而且没有！感叹号我一点办法都没有！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/28/heading-to-yahoo-and-no-i-cant-do-anything-about-the-exclamation-mark/>
 

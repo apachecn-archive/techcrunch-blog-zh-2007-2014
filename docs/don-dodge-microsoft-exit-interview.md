@@ -1,4 +1,4 @@
-# 唐·道奇“微软大使”离职访谈 TechCrunch
+# 唐·道奇“微软大使”离职访谈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/09/don-dodge-microsoft-exit-interview/>
 

@@ -1,4 +1,4 @@
-# 创业故事 Flowtab 的衰亡 TechCrunch
+# 创业故事 Flowtab 的衰亡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/31/the-decline-and-fall-of-flowtab-a-startup-story/>
 

@@ -1,4 +1,4 @@
-# Rapt.fm 推出测试版，支持随时随地进行现场说唱比赛 TechCrunch
+# Rapt.fm 推出测试版，支持随时随地进行现场说唱比赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/05/rapt-fm-beta-public-launch/>
 

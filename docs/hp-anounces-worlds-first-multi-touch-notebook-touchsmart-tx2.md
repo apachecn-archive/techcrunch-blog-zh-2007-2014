@@ -1,4 +1,4 @@
-# 惠普发布全球首款多点触控笔记本电脑 touch smart tx2 TechCrunch
+# 惠普发布全球首款多点触控笔记本电脑 touch smart tx2 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/19/hp-anounces-worlds-first-multi-touch-notebook-touchsmart-tx2/>
 

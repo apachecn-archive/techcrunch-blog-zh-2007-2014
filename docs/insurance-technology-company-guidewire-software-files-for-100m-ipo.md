@@ -1,4 +1,4 @@
-# 保险技术公司凯德维亚软件公司 1 亿美元 IPO 文件 TechCrunch
+# 保险技术公司凯德维亚软件公司 1 亿美元 IPO 文件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/insurance-technology-company-guidewire-software-files-for-100m-ipo/>
 

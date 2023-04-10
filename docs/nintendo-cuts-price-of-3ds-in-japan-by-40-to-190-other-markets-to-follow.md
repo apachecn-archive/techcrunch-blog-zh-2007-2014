@@ -1,4 +1,4 @@
-# 任天堂将 3DS 在日本降价 40%至 190 美元，其他市场也将跟进 TechCrunch
+# 任天堂将 3DS 在日本降价 40%至 190 美元，其他市场也将跟进 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/nintendo-cuts-price-of-3ds-in-japan-by-40-to-190-other-markets-to-follow/>
 

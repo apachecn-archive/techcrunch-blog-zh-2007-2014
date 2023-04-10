@@ -1,4 +1,4 @@
-# CardFlick 推出基于位置的移动专业联系人共享应用 TechCrunch
+# CardFlick 推出基于位置的移动专业联系人共享应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/cardflick-launches-location-based-mobile-professional-contact-sharing-app/>
 

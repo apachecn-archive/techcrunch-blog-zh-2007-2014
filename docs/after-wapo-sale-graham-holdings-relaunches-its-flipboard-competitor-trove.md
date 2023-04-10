@@ -1,4 +1,4 @@
-# WaPo 出售后，格雷厄姆控股重新推出其 Flipboard 竞争对手 Trove TechCrunch
+# WaPo 出售后，格雷厄姆控股重新推出其 Flipboard 竞争对手 Trove 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/after-wapo-sale-graham-holdings-relaunches-its-flipboard-competitor-trove/>
 

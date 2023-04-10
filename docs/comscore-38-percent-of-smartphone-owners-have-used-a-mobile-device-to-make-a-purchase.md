@@ -1,4 +1,4 @@
-# comScore:38%的智能手机用户使用移动设备进行购物 TechCrunch
+# comScore:38%的智能手机用户使用移动设备进行购物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/comscore-38-percent-of-smartphone-owners-have-used-a-mobile-device-to-make-a-purchase/>
 

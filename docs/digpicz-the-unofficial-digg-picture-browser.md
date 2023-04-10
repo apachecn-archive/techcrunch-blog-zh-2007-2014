@@ -1,4 +1,4 @@
-# Digpicz:非官方的 Digg 图片浏览器 TechCrunch
+# Digpicz:非官方的 Digg 图片浏览器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/03/digpicz-the-unofficial-digg-picture-browser/>
 

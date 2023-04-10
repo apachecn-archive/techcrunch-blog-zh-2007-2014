@@ -1,4 +1,4 @@
-# 如果微软的年收入是“哇！”，苹果的是“神圣的 Sh*t！”TechCrunch
+# 如果微软的年收入是“哇！”，苹果的是“神圣的 Sh*t！”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/apple-is-a-100-billion-company/>
 

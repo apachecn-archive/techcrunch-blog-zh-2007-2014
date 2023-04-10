@@ -1,4 +1,4 @@
-# Google Play？Android Market 到底出了什么问题？TechCrunch
+# Google Play？Android Market 到底出了什么问题？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/06/google-play-what-the-hell-was-wrong-with-android-market/>
 

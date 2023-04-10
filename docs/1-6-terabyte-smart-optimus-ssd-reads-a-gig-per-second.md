@@ -1,4 +1,4 @@
-# 1.6 TB 智能 Optimus 固态硬盘每秒读取 1g 数据 TechCrunch
+# 1.6 TB 智能 Optimus 固态硬盘每秒读取 1g 数据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/1-6-terabyte-smart-optimus-ssd-reads-a-gig-per-second/>
 

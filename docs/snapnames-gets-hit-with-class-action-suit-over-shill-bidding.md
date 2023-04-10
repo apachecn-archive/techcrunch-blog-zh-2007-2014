@@ -1,4 +1,4 @@
-# SnapNames 因 Shill 投标被集体诉讼 TechCrunch
+# SnapNames 因 Shill 投标被集体诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/09/snapnames-gets-hit-with-class-action-suit-over-shill-bidding/>
 

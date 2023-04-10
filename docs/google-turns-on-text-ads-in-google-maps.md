@@ -1,4 +1,4 @@
-# 谷歌在谷歌地图中打开文本广告 TechCrunch
+# 谷歌在谷歌地图中打开文本广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/09/google-turns-on-text-ads-in-google-maps/>
 

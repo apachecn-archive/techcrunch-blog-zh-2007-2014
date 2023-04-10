@@ -1,4 +1,4 @@
-# 易贝收购地图显示其误入歧途 TechCrunch
+# 易贝收购地图显示其误入歧途 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/04/ebay-acquisition-map-shows-where-it-got-on-the-wrong-track/>
 

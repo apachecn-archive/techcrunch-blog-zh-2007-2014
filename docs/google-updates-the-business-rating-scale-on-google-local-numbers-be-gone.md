@@ -1,4 +1,4 @@
-# 谷歌在 Google+ Local 上更新商业评级量表，数字不见了 TechCrunch
+# 谷歌在 Google+ Local 上更新商业评级量表，数字不见了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/10/google-updates-the-business-rating-scale-on-google-local-numbers-be-gone/>
 

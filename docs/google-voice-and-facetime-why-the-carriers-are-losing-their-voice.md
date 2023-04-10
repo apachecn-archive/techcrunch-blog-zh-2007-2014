@@ -1,4 +1,4 @@
-# 谷歌语音和 face time——为什么运营商正在失去他们的声音 TechCrunch
+# 谷歌语音和 face time——为什么运营商正在失去他们的声音 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/07/google-voice-and-facetime-why-the-carriers-are-losing-their-voice/>
 

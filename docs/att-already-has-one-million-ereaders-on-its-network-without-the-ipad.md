@@ -1,4 +1,4 @@
-# 美国电话电报公司网络上已经有 100 万电子阅读器，不包括 iPad TechCrunch
+# 美国电话电报公司网络上已经有 100 万电子阅读器，不包括 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/28/att-already-has-one-million-ereaders-on-its-network-without-the-ipad/>
 

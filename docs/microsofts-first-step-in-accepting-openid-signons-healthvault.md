@@ -1,4 +1,4 @@
-# 微软接受 OpenID 登录的第一步——health vault TechCrunch
+# 微软接受 OpenID 登录的第一步——health vault 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/23/microsofts-first-step-in-accepting-openid-signons-healthvault/>
 

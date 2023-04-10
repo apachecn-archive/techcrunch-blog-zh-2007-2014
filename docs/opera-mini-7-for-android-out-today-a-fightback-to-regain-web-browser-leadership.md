@@ -1,4 +1,4 @@
-# 面向 Android 的 Opera Mini 7 今天发布:对网络浏览器领导地位的反击？TechCrunch
+# 面向 Android 的 Opera Mini 7 今天发布:对网络浏览器领导地位的反击？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/27/opera-mini-7-for-android-out-today-a-fightback-to-regain-web-browser-leadership/>
 

@@ -1,4 +1,4 @@
-# 苹果新的 CarPlay 系统将把数千万辆汽车变成 iPhone 配件 TechCrunch
+# 苹果新的 CarPlay 系统将把数千万辆汽车变成 iPhone 配件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/03/apples-new-carplay-system-will-turn-tens-of-millions-of-cars-into-iphone-accessories/>
 

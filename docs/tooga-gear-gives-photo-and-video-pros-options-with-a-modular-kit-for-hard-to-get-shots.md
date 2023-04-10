@@ -1,4 +1,4 @@
-# Tooga Gear 为照片和视频专业人士提供了一个模块化套件，可用于难以拍摄的照片 TechCrunch
+# Tooga Gear 为照片和视频专业人士提供了一个模块化套件，可用于难以拍摄的照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/tooga-gear-gives-photo-and-video-pros-options-with-a-modular-kit-for-hard-to-get-shots/>
 

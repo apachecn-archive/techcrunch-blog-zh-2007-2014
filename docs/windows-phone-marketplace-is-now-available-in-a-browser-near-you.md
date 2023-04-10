@@ -1,4 +1,4 @@
-# Windows Phone Marketplace 现已在您附近的浏览器中推出 TechCrunch
+# Windows Phone Marketplace 现已在您附近的浏览器中推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/windows-phone-marketplace-is-now-available-in-a-browser-near-you/>
 

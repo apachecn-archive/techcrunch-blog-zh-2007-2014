@@ -1,4 +1,4 @@
-# 更大的手机屏幕推动移动视频消费 TechCrunch
+# 更大的手机屏幕推动移动视频消费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/phablets-love-mobile-video/>
 

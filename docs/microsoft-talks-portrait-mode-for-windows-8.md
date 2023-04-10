@@ -1,4 +1,4 @@
-# 微软谈论 Windows 8 的纵向模式 TechCrunch
+# 微软谈论 Windows 8 的纵向模式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/microsoft-talks-portrait-mode-for-windows-8/>
 

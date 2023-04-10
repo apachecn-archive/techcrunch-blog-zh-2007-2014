@@ -1,4 +1,4 @@
-# YouTube 推出可嵌入的场外订阅按钮，推动频道订阅 TechCrunch
+# YouTube 推出可嵌入的场外订阅按钮，推动频道订阅 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/youtube-launches-embeddable-off-site-subscribe-buttons-to-boost-channel-subscriptions/>
 

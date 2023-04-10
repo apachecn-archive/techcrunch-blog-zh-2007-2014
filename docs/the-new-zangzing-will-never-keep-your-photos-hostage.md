@@ -1,4 +1,4 @@
-# 新的 ZangZing 永远不会扣押您的照片 TechCrunch
+# 新的 ZangZing 永远不会扣押您的照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/the-new-zangzing-will-never-keep-your-photos-hostage/>
 

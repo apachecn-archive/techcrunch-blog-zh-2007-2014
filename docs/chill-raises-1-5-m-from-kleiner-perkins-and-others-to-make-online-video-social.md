@@ -1,4 +1,4 @@
-# Chill 从凯鹏华盈(Kleiner Perkins)等公司筹集 150 万美元，用于在线视频社交 TechCrunch
+# Chill 从凯鹏华盈(Kleiner Perkins)等公司筹集 150 万美元，用于在线视频社交 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/chill-raises-1-5-m-from-kleiner-perkins-and-others-to-make-online-video-social/>
 

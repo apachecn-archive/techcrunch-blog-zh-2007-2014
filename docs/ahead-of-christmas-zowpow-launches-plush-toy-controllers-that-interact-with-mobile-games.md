@@ -1,4 +1,4 @@
-# 圣诞节前，ZowPow 推出了与手机游戏互动的毛绒玩具控制器 TechCrunch
+# 圣诞节前，ZowPow 推出了与手机游戏互动的毛绒玩具控制器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/04/ahead-of-christmas-zowpow-launches-plush-toy-controllers-that-interact-with-mobile-games/>
 

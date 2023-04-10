@@ -1,4 +1,4 @@
-# Rdio 的 iPad 应用程序现已在 App Store 中推出 TechCrunch
+# Rdio 的 iPad 应用程序现已在 App Store 中推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/rdios-ipad-app-now-available-in-the-app-store/>
 

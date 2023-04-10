@@ -1,4 +1,4 @@
-# IBM 收购网络安全情报公司 Q1 实验室 TechCrunch
+# IBM 收购网络安全情报公司 Q1 实验室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/ibm-buys-network-security-intelligence-company-q1-labs/>
 

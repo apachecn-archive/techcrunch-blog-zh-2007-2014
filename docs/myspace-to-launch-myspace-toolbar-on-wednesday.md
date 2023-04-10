@@ -1,4 +1,4 @@
-# MySpace 将于周三推出 MySpace 工具栏 TechCrunch
+# MySpace 将于周三推出 MySpace 工具栏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/09/myspace-to-launch-myspace-toolbar-on-wednesday/>
 

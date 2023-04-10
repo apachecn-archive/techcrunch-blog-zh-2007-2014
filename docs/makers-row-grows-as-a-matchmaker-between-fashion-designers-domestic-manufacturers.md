@@ -1,4 +1,4 @@
-# Maker's Row 成为时装设计师和国内制造商之间的媒人 TechCrunch
+# Maker's Row 成为时装设计师和国内制造商之间的媒人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/20/makers-row-grows-as-a-matchmaker-between-fashion-designers-domestic-manufacturers/>
 

@@ -1,4 +1,4 @@
-# 三星表示将在年底前推出四个版本的 Galaxy Note III TechCrunch
+# 三星表示将在年底前推出四个版本的 Galaxy Note III 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/samsung-said-to-launch-four-versions-of-the-galaxy-note-iii-by-the-end-of-the-year/>
 

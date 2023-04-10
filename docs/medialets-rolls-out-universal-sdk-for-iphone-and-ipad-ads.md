@@ -1,4 +1,4 @@
-# Medialets 为 iPhone 和 iPad 广告推出通用 SDK TechCrunch
+# Medialets 为 iPhone 和 iPad 广告推出通用 SDK 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/30/medialets-rolls-out-universal-sdk-for-iphone-and-ipad-ads/>
 

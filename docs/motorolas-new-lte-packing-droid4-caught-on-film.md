@@ -1,4 +1,4 @@
-# 摩托罗拉新的 LTE 包装机器人 4 被拍成电影 TechCrunch
+# 摩托罗拉新的 LTE 包装机器人 4 被拍成电影 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/motorolas-new-lte-packing-droid4-caught-on-film/>
 

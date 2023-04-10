@@ -1,4 +1,4 @@
-# Rizvi、SV Angel 和 Groupe Artemis 正在购买 Square 股票，二次发行估值为 50 亿美元 TechCrunch
+# Rizvi、SV Angel 和 Groupe Artemis 正在购买 Square 股票，二次发行估值为 50 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/squares-secondary-offering-rizvi-sv-angel-and-groupe-artemis-are-buying-shares-values-company-at-5b/>
 

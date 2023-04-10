@@ -1,4 +1,4 @@
-# 1 到 10，你对披头士:摇滚乐队有多兴奋？TechCrunch
+# 1 到 10，你对披头士:摇滚乐队有多兴奋？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/13/1-to-10-how-excited-are-you-about-the-beatles-rock-band/>
 

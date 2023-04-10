@@ -1,4 +1,4 @@
-# 微软旗下 Yammer 遭遇小规模裁员 TechCrunch
+# 微软旗下 Yammer 遭遇小规模裁员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/07/microsoft-owned-yammer-hit-with-small-round-of-layoffs/>
 

@@ -1,4 +1,4 @@
-# 三星 249 美元的 Galaxy Tab 2 7.0 将于 4 月 22 日在美国首次亮相，我们将亲自体验 TechCrunch
+# 三星 249 美元的 Galaxy Tab 2 7.0 将于 4 月 22 日在美国首次亮相，我们将亲自体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/samsungs-249-galaxy-tab-2-7-0-to-make-u-s-debut-on-april-22-we-go-hands-on/>
 

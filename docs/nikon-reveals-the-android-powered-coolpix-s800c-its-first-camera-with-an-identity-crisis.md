@@ -1,4 +1,4 @@
-# 尼康展示 Android 驱动的 Coolpix S800c，这是其第一款面临身份危机的相机 TechCrunch
+# 尼康展示 Android 驱动的 Coolpix S800c，这是其第一款面临身份危机的相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/08/22/nikon-reveals-the-android-powered-coolpix-s800c-its-first-camera-with-an-identity-crisis/>
 

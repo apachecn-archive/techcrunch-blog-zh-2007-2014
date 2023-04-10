@@ -1,4 +1,4 @@
-# 平和脸书昨天成了朋友。我仍然保持联系。TechCrunch
+# 平和脸书昨天成了朋友。我仍然保持联系。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/02/itunes-ping-facebook/>
 

@@ -1,4 +1,4 @@
-# TeamSnap 在线体育管理平台以未披露的金额收购 we play TechCrunch
+# TeamSnap 在线体育管理平台以未披露的金额收购 we play 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/21/teamsnap-online-sports-management-platform-acquires-weplay-for-an-undisclosed-amount/>
 

@@ -1,4 +1,4 @@
-# 谷歌眼镜现在可以阅读平面广告。哦，玩该死的数独游戏！TechCrunch
+# 谷歌眼镜现在可以阅读平面广告。哦，玩该死的数独游戏！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/10/google-goggle-print-ads-sudoku/>
 

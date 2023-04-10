@@ -1,4 +1,4 @@
-# Modus 为电子发现的数据驱动方法筹集了 1000 万美元 TechCrunch
+# Modus 为电子发现的数据驱动方法筹集了 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/11/modus-raises-10m-for-data-driven-approach-to-e-discovery/>
 

@@ -1,4 +1,4 @@
-# 热衷于...社交媒体:前 2000 年 TechCrunch
+# 热衷于...社交媒体:前 2000 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/31/keen-on-social-media-the-first-2000-years/>
 

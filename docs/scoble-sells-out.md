@@ -1,4 +1,4 @@
-# Scoble 出售 TechCrunch
+# Scoble 出售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/25/scoble-sells-out/>
 

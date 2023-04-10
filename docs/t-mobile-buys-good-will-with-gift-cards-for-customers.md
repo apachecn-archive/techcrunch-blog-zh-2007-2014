@@ -1,4 +1,4 @@
-# T-Mobile 用礼品卡为客户赢得好感 TechCrunch
+# T-Mobile 用礼品卡为客户赢得好感 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/t-mobile-buys-good-will-with-gift-cards-for-customers/>
 

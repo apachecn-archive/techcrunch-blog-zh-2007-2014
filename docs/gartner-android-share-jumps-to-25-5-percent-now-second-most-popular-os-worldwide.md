@@ -1,4 +1,4 @@
-# Gartner: Android 份额跃升至 25.5%，现为全球第二大最受欢迎的操作系统 TechCrunch
+# Gartner: Android 份额跃升至 25.5%，现为全球第二大最受欢迎的操作系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/10/gartner-android-share-jumps-to-25-5-percent-now-second-most-popular-os-worldwide/>
 

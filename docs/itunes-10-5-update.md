@@ -1,4 +1,4 @@
-# 想为明天的 iOS 5 做好准备？立即获取 iTunes 10.5 TechCrunch
+# 想为明天的 iOS 5 做好准备？立即获取 iTunes 10.5 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/itunes-10-5-update/>
 

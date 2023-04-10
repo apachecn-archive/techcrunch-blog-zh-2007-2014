@@ -1,4 +1,4 @@
-# Fantastical:我最喜欢的新日历应用 TechCrunch
+# Fantastical:我最喜欢的新日历应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/23/fantastical-my-favorite-new-calendar-app/>
 

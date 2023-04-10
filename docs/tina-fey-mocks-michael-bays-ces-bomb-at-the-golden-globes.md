@@ -1,4 +1,4 @@
-# 蒂娜·菲在金球奖上嘲笑迈克尔·贝的 CES 炸弹 TechCrunch
+# 蒂娜·菲在金球奖上嘲笑迈克尔·贝的 CES 炸弹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/12/tina-fey-mocks-michael-bays-ces-bomb-at-the-golden-globes/>
 

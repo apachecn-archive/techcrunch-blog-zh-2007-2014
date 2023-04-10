@@ -1,4 +1,4 @@
-# 纽约时报的文章在雅虎引起反响；他们的下一任首席执行官是谁？TechCrunch
+# 纽约时报的文章在雅虎引起反响；他们的下一任首席执行官是谁？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/15/nytimes-article-reverberates-through-yahoo-whos-their-next-ceo/>
 

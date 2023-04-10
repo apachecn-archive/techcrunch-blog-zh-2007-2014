@@ -1,4 +1,4 @@
-# YuMe 将视频广告网络移动化，为 iOS 设备推出新格式 TechCrunch
+# YuMe 将视频广告网络移动化，为 iOS 设备推出新格式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/11/yume-takes-video-ad-network-mobile-launches-new-formats-for-ios-devices/>
 

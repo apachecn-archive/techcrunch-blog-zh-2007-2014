@@ -1,4 +1,4 @@
-# 扰乱北京:我们带来了陈士骏、彼得·维斯特巴卡、菲尔·利宾和更多人 TechCrunch
+# 扰乱北京:我们带来了陈士骏、彼得·维斯特巴卡、菲尔·利宾和更多人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/disrupt-beijing-were-bringing-steve-chen-peter-vesterbacka-phil-libin-and-more/>
 

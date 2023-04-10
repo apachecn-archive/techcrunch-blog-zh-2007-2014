@@ -1,4 +1,4 @@
-# 37%已发布的安卓应用后来被删除，相比之下，iOS 应用只有 24%被删除 TechCrunch
+# 37%已发布的安卓应用后来被删除，相比之下，iOS 应用只有 24%被删除 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/37-of-published-android-apps-were-later-removed-compared-to-24-of-ios-apps/>
 

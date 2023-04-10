@@ -1,4 +1,4 @@
-# 谷歌不小心发布了下一次安卓搜索应用更新的细节 TechCrunch
+# 谷歌不小心发布了下一次安卓搜索应用更新的细节 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/google-accidentally-posts-details-about-its-next-android-search-app-update/>
 

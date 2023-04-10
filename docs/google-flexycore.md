@@ -1,4 +1,4 @@
-# 据报道，谷歌以 2300 万美元收购 Android 性能初创公司 flexy core TechCrunch
+# 据报道，谷歌以 2300 万美元收购 Android 性能初创公司 flexy core 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/22/google-flexycore/>
 

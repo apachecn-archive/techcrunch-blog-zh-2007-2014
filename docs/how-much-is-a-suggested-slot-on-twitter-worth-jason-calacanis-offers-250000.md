@@ -1,4 +1,4 @@
-# Twitter 上的一个推荐位置值多少钱？杰森·卡拉卡尼斯出价 25 万美元。TechCrunch
+# Twitter 上的一个推荐位置值多少钱？杰森·卡拉卡尼斯出价 25 万美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/12/how-much-is-a-suggested-slot-on-twitter-worth-jason-calacanis-offers-250000/>
 

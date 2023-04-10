@@ -1,4 +1,4 @@
-# 来自死亡之池的故事:Amp 'd Mobile 的肮脏遗迹 TechCrunch
+# 来自死亡之池的故事:Amp 'd Mobile 的肮脏遗迹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/11/tales-from-the-deadpool-ampd-mobiles-sordid-remains/>
 

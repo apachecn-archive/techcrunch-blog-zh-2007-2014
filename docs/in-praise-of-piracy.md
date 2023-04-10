@@ -1,4 +1,4 @@
-# 赞扬盗版 TechCrunch
+# 赞扬盗版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/05/in-praise-of-piracy/>
 

@@ -1,4 +1,4 @@
-# 亚马逊收购了 Yap 及其语音识别技术 TechCrunch
+# 亚马逊收购了 Yap 及其语音识别技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/amazon-snaps-up-yap-and-its-voice-recognition-technology/>
 

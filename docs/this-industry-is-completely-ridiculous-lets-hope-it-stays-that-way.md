@@ -1,4 +1,4 @@
-# 这个行业完全是荒谬的。让我们希望它保持这种方式。TechCrunch
+# 这个行业完全是荒谬的。让我们希望它保持这种方式。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/01/this-industry-is-completely-ridiculous-lets-hope-it-stays-that-way/>
 

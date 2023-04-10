@@ -1,4 +1,4 @@
-# 据传谷歌将很快推出 ITA 支持的旅游搜索产品 TechCrunch
+# 据传谷歌将很快推出 ITA 支持的旅游搜索产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/google-rumored-to-launch-ita-powered-travel-search-product-soon/>
 

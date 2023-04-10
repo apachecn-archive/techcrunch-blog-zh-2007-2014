@@ -1,4 +1,4 @@
-# iVerse Media 获得 400 万美元投资以发展其漫画+应用 TechCrunch
+# iVerse Media 获得 400 万美元投资以发展其漫画+应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/iverse-media-receives-4-million-investment-to-grow-its-comics-app/>
 

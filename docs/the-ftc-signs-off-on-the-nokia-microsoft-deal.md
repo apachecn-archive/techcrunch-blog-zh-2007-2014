@@ -1,4 +1,4 @@
-# FTC 签署诺基亚-微软交易——TechCrunch
+# FTC 签署诺基亚-微软交易——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/02/the-ftc-signs-off-on-the-nokia-microsoft-deal/>
 

@@ -1,4 +1,4 @@
-# Windows Live 推出新的社交网络中心，将 sky drive/照片存储提升至 25 GB TechCrunch
+# Windows Live 推出新的社交网络中心，将 sky drive/照片存储提升至 25 GB 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/02/windows-live-rolls-out-its-new-social-network-hub-boosts-skydrivephoto-storage-to-25-gb/>
 

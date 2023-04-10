@@ -1,4 +1,4 @@
-# 苹果派出新领导上台:Eddy Cue 将在纽约帮助推出日报 TechCrunch
+# 苹果派出新领导上台:Eddy Cue 将在纽约帮助推出日报 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/27/the-daily-launch-nyc/>
 

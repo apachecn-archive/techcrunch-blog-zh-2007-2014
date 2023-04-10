@@ -1,4 +1,4 @@
-# Storify 将拖放式社交监管引入 iPad TechCrunch
+# Storify 将拖放式社交监管引入 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/22/storify-brings-drag-and-drop-social-curation-to-the-ipad/>
 

@@ -1,4 +1,4 @@
-# CrowdStrike 筹集了 3000 万美元用于构建数据安全平台，使对手处于守势 TechCrunch
+# CrowdStrike 筹集了 3000 万美元用于构建数据安全平台，使对手处于守势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/crowdstrike-raises-30m-for-data-security-platform-built-to-put-adversaries-on-the-defensive/>
 

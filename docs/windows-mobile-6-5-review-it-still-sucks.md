@@ -1,4 +1,4 @@
-# Windows Mobile 6.5 评测:还是很烂。TechCrunch
+# Windows Mobile 6.5 评测:还是很烂。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/06/windows-mobile-6-5-review-it-still-sucks/>
 

@@ -1,4 +1,4 @@
-# 随着 Windows 8.1 超过 Vista 的市场份额，Update 1 泄露在线 TechCrunch
+# 随着 Windows 8.1 超过 Vista 的市场份额，Update 1 泄露在线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/03/as-windows-8-1-overtakes-vistas-market-share-update-1-leaks-online/>
 

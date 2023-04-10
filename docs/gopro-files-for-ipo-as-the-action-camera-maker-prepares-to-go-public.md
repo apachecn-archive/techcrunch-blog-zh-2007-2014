@@ -1,4 +1,4 @@
-# GoPro 申请 IPO，动作相机制造商准备上市 TechCrunch
+# GoPro 申请 IPO，动作相机制造商准备上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/07/gopro-files-for-ipo-as-the-action-camera-maker-prepares-to-go-public/>
 

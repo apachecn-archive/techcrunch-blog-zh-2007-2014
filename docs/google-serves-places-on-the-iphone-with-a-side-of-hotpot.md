@@ -1,4 +1,4 @@
-# 谷歌为 iPhone 上的位置提供火锅 TechCrunch
+# 谷歌为 iPhone 上的位置提供火锅 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/12/google-serves-places-on-the-iphone-with-a-side-of-hotpot/>
 

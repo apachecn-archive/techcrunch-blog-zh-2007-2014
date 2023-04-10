@@ -1,4 +1,4 @@
-# 硅谷传言:苹果为 Siri 支付了超过 2 亿美元，以进入移动搜索领域 TechCrunch
+# 硅谷传言:苹果为 Siri 支付了超过 2 亿美元，以进入移动搜索领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/apple-siri-200-million/>
 

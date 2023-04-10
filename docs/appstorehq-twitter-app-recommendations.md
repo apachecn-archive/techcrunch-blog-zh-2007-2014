@@ -1,4 +1,4 @@
-# AppStoreHQ 利用 Twitter 获取 iPhone 应用推荐 TechCrunch
+# AppStoreHQ 利用 Twitter 获取 iPhone 应用推荐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/21/appstorehq-twitter-app-recommendations/>
 

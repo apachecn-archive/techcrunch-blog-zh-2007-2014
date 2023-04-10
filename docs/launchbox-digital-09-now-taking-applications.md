@@ -1,4 +1,4 @@
-# launch box Digital’09 现在接受申请 TechCrunch
+# launch box Digital’09 现在接受申请 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/01/launchbox-digital-09-now-taking-applications/>
 

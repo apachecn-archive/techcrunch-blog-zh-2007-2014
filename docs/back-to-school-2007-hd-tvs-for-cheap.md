@@ -1,4 +1,4 @@
-# 重返校园 2007:廉价高清电视 TechCrunch
+# 重返校园 2007:廉价高清电视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/14/back-to-school-2007-hd-tvs-for-cheap/>
 

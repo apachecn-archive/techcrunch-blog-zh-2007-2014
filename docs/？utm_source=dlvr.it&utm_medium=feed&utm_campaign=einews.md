@@ -1,4 +1,4 @@
-# 戴尔推出了真正有意义的新平台即服务 TechCrunch
+# 戴尔推出了真正有意义的新平台即服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/16/dell-has-a-new-platform-as-a-service-that-actually-makes-sense/?utm_source=dlvr.it&utm_medium=feed&utm_campaign=einews>
 

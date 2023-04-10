@@ -1,4 +1,4 @@
-# HouseFix:将社会建议和责任引入家居装修 TechCrunch
+# HouseFix:将社会建议和责任引入家居装修 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/housefix-bringing-social-recommendations-and-accountability-to-home-improvement/>
 

@@ -1,4 +1,4 @@
-# 美国国家铁路客运公司为 12 条新的东海岸路线增加 WiFi，下一个是加州 TechCrunch
+# 美国国家铁路客运公司为 12 条新的东海岸路线增加 WiFi，下一个是加州 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/amtrak-adds-wifi-to-12-new-east-coast-routes-californias-up-next/>
 

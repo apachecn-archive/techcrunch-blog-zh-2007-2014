@@ -1,4 +1,4 @@
-# 索尼爱立信计划在 2012 年向 Xperia 产品线发布 Android 4.0 TechCrunch
+# 索尼爱立信计划在 2012 年向 Xperia 产品线发布 Android 4.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/sony-ericsson-plans-to-release-android-4-0-to-the-xperia-line-in-2012/>
 

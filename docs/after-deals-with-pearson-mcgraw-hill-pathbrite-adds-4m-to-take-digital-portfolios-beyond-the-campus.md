@@ -1,4 +1,4 @@
-# 在与 Pearson & McGraw Hill 达成交易后，Pathbrite 追加 400 万美元，将数字投资组合扩展到校园之外 TechCrunch
+# 在与 Pearson & McGraw Hill 达成交易后，Pathbrite 追加 400 万美元，将数字投资组合扩展到校园之外 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/04/after-deals-with-pearson-mcgraw-hill-pathbrite-adds-4m-to-take-digital-portfolios-beyond-the-campus/>
 

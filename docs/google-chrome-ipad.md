@@ -1,4 +1,4 @@
-# 谷歌 Chrome 在 iPad 上的样子 TechCrunch
+# 谷歌 Chrome 在 iPad 上的样子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/06/04/google-chrome-ipad/>
 

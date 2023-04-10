@@ -1,4 +1,4 @@
-# JS-Kit Scores 与 WorldNow 合作，增加 1900 万潜在用户 TechCrunch
+# JS-Kit Scores 与 WorldNow 合作，增加 1900 万潜在用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/29/js-kit-scores-deal-with-worldnow-adds-19-million-potential-users/>
 

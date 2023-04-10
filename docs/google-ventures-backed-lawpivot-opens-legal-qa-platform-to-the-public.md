@@ -1,4 +1,4 @@
-# 谷歌风投支持的 LawPivot 向公众开放法律问答平台 TechCrunch
+# 谷歌风投支持的 LawPivot 向公众开放法律问答平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/google-ventures-backed-lawpivot-opens-legal-qa-platform-to-the-public/>
 

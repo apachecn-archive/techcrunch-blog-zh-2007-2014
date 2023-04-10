@@ -1,4 +1,4 @@
-# 别着急谷歌-漫步者和 Yandex 签署广告网络协议，以排挤俄罗斯竞争对手 TechCrunch
+# 别着急谷歌-漫步者和 Yandex 签署广告网络协议，以排挤俄罗斯竞争对手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/23/not-so-fast-google-rambler-and-yandex-sign-ad-network-deal-to-freeze-out-competitors/>
 

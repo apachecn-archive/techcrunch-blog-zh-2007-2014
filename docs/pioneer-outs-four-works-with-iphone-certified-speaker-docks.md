@@ -1,4 +1,4 @@
-# 先锋输出四个“适用于 iPhone”认证扬声器坞站 TechCrunch
+# 先锋输出四个“适用于 iPhone”认证扬声器坞站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/27/pioneer-outs-four-works-with-iphone-certified-speaker-docks/>
 

@@ -1,4 +1,4 @@
-# Klout 推出品牌页面，帮助公司吸引有影响力的人 TechCrunch
+# Klout 推出品牌页面，帮助公司吸引有影响力的人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/17/klout-launches-brand-pages-to-help-companies-engage-influencers/>
 

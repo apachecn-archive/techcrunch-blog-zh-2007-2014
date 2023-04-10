@@ -1,4 +1,4 @@
-# 欢迎来到比扎罗世界——谷歌飞跃回到 2001 年 TechCrunch
+# 欢迎来到比扎罗世界——谷歌飞跃回到 2001 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/30/welcome-to-bizarro-world-google-takes-a-leap-back-to-2001/>
 

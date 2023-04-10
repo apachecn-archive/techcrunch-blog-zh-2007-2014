@@ -1,4 +1,4 @@
-# 配备 Retina 显示屏的 iPad Mini 评论:市场上最好的平板电脑 TechCrunch
+# 配备 Retina 显示屏的 iPad Mini 评论:市场上最好的平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/18/ipad-mini-retina-display-review/>
 

@@ -1,4 +1,4 @@
-# Google+ API 发布还有几个月 TechCrunch
+# Google+ API 发布还有几个月 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/google-api-launch-still-months-away/>
 

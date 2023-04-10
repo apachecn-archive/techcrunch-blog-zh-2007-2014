@@ -1,4 +1,4 @@
-# 诺基亚收购挪威移动操作系统公司 smarter phone TechCrunch
+# 诺基亚收购挪威移动操作系统公司 smarter phone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/06/nokia-acquires-norwegian-mobile-os-company-smarterphone/>
 

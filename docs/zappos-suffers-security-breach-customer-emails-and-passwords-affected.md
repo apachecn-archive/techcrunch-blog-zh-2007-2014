@@ -1,4 +1,4 @@
-# Zappos 遭遇安全漏洞；受影响的客户电子邮件和密码 TechCrunch
+# Zappos 遭遇安全漏洞；受影响的客户电子邮件和密码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/15/zappos-suffers-security-breach-customer-emails-and-passwords-affected/>
 

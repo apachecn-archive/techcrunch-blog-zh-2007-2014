@@ -1,4 +1,4 @@
-# 围绕平板电脑之火的定价烟雾 TechCrunch
+# 围绕平板电脑之火的定价烟雾 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/apple-tablet-pricing/>
 

@@ -1,4 +1,4 @@
-# QuBit 推出 OpenTag，这是一个免费的网站标签系统，旨在扰乱 TechCrunch
+# QuBit 推出 OpenTag，这是一个免费的网站标签系统，旨在扰乱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/qubit-launches-opentag-a-free-site-tagging-system-designed-to-disrupt/>
 

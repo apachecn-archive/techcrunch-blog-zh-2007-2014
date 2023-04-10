@@ -1,4 +1,4 @@
-# 小船，她死了 TechCrunch
+# 小船，她死了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/15/the-skiff-she-is-dead/>
 

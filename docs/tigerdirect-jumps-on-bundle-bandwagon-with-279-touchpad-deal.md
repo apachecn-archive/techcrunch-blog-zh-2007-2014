@@ -1,4 +1,4 @@
-# TigerDirect 凭借 279 美元的 TouchPad 交易紧跟捆绑销售潮流 TechCrunch
+# TigerDirect 凭借 279 美元的 TouchPad 交易紧跟捆绑销售潮流 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/tigerdirect-jumps-on-bundle-bandwagon-with-279-touchpad-deal/>
 

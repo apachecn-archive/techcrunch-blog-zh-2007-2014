@@ -1,4 +1,4 @@
-# Frontback Update 添加了用户资料和社交功能 TechCrunch
+# Frontback Update 添加了用户资料和社交功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/frontback-update-adds-user-profiles-and-social-features/>
 

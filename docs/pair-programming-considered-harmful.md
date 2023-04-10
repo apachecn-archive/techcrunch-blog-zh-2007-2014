@@ -1,4 +1,4 @@
-# 结对编程被认为是有害的？TechCrunch
+# 结对编程被认为是有害的？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/03/pair-programming-considered-harmful/>
 

@@ -1,4 +1,4 @@
-# 收入翻倍，视频广告网络 BrightRoll 融资 3000 万美元 TechCrunch
+# 收入翻倍，视频广告网络 BrightRoll 融资 3000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/video-brightroll-raises-30-million/>
 

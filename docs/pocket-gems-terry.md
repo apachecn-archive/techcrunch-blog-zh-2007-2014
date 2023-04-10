@@ -1,4 +1,4 @@
-# 手机游戏制造商 Pocket Gems 的首席执行官 Switcharoo:联合创始人 Terry 成为首席创意官 TechCrunch
+# 手机游戏制造商 Pocket Gems 的首席执行官 Switcharoo:联合创始人 Terry 成为首席创意官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/14/pocket-gems-terry/>
 

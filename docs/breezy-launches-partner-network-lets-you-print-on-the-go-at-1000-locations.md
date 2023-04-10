@@ -1,4 +1,4 @@
-# Breezy 推出合作伙伴网络，让您在 1000 个地点随时随地进行打印 TechCrunch
+# Breezy 推出合作伙伴网络，让您在 1000 个地点随时随地进行打印 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/breezy-launches-partner-network-lets-you-print-on-the-go-at-1000-locations/>
 

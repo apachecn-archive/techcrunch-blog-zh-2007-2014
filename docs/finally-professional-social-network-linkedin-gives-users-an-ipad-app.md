@@ -1,4 +1,4 @@
-# 最后，职业社交网络 LinkedIn 为用户提供了一款 iPad 应用 TechCrunch
+# 最后，职业社交网络 LinkedIn 为用户提供了一款 iPad 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/25/finally-professional-social-network-linkedin-gives-users-an-ipad-app/>
 

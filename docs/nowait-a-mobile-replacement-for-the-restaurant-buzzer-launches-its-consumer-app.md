@@ -1,4 +1,4 @@
-# NoWait 是餐厅蜂鸣器的移动替代品，它发布了消费者应用 TechCrunch
+# NoWait 是餐厅蜂鸣器的移动替代品，它发布了消费者应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/nowait-a-mobile-replacement-for-the-restaurant-buzzer-launches-its-consumer-app/>
 

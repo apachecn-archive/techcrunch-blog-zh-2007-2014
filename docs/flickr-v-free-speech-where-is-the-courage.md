@@ -1,4 +1,4 @@
-# Flickr 诉言论自由。他们的勇气在哪里？TechCrunch
+# Flickr 诉言论自由。他们的勇气在哪里？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/21/flickr-v-free-speech-where-is-the-courage/>
 

@@ -1,4 +1,4 @@
-# 佳能更新经典 PowerShot 相机，发布 S100 和 sx40hs TechCrunch
+# 佳能更新经典 PowerShot 相机，发布 S100 和 sx40hs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/canon-powershot-s100-sx40/>
 

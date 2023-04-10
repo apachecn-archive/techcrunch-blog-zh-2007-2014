@@ -1,4 +1,4 @@
-# 渴望进行更多收购的 Local.com 获得了 1200 万美元的信贷便利 TechCrunch
+# 渴望进行更多收购的 Local.com 获得了 1200 万美元的信贷便利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/hungry-for-more-acquisitions-local-com-secures-12-million-credit-facility/>
 

@@ -1,4 +1,4 @@
-# 乔恩·斯图尔特抨击苹果丢失 iPhone 的失败。那会留下痕迹的。TechCrunch
+# 乔恩·斯图尔特抨击苹果丢失 iPhone 的失败。那会留下痕迹的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/jon-stewart-rips-into-apple-over-lost-iphone-debacle-thats-going-to-leave-a-mark/>
 

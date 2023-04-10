@@ -1,4 +1,4 @@
-# Launchpad LA 获得风险投资:每个初创公司 5 万美元 TechCrunch
+# Launchpad LA 获得风险投资:每个初创公司 5 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/launchpad-la-receives-vc-funding-50000-per-startup/>
 

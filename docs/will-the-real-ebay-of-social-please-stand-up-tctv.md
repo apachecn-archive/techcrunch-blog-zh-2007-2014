@@ -1,4 +1,4 @@
-# 请真正的“社交易贝”站起来好吗？TechCrunch
+# 请真正的“社交易贝”站起来好吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/23/will-the-real-ebay-of-social-please-stand-up-tctv/>
 

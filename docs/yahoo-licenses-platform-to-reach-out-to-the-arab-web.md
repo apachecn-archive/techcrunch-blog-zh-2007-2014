@@ -1,4 +1,4 @@
-# 雅虎！接触阿拉伯网络的许可平台 TechCrunch
+# 雅虎！接触阿拉伯网络的许可平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/28/yahoo-licenses-platform-to-reach-out-to-the-arab-web/>
 

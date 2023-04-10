@@ -1,4 +1,4 @@
-# oneDrum 获得 100 万英镑资金用于办公协作 TechCrunch
+# oneDrum 获得 100 万英镑资金用于办公协作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/onedrum-secures-1m-in-funding-for-office-collaboration/>
 

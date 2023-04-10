@@ -1,4 +1,4 @@
-# 是的，但是你偷了 Zynga 的剧本吗，Playdom？TechCrunch
+# 是的，但是你偷了 Zynga 的剧本吗，Playdom？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/11/yeah-but-did-you-steal-the-zynga-playbook-playdom/>
 

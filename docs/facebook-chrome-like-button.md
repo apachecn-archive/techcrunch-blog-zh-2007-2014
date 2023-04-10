@@ -1,4 +1,4 @@
-# 脸书也悄悄推出了类似按钮的 Chrome 扩展 TechCrunch
+# 脸书也悄悄推出了类似按钮的 Chrome 扩展 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/facebook-chrome-like-button/>
 

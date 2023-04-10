@@ -1,4 +1,4 @@
-# Zenprise 筹集了 3000 万美元的新资金 TechCrunch
+# Zenprise 筹集了 3000 万美元的新资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/zenprise-raises-30-million/>
 

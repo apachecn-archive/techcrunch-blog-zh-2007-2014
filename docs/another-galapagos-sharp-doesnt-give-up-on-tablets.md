@@ -1,4 +1,4 @@
-# 另一个加拉帕戈斯:夏普不会放弃平板电脑 TechCrunch
+# 另一个加拉帕戈斯:夏普不会放弃平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/another-galapagos-sharp-doesnt-give-up-on-tablets/>
 

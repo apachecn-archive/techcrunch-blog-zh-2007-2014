@@ -1,4 +1,4 @@
-# GarageFuse 为汽车爱好者推出 3D 社交售后配置器 TechCrunch
+# GarageFuse 为汽车爱好者推出 3D 社交售后配置器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/garagefuse-launches-3d-social-aftermarket-configurator-for-car-enthusiasts/>
 

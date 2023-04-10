@@ -1,4 +1,4 @@
-# 阿什顿·库彻 Katalyst 媒体将于下周预告 Blah Girls TechCrunch
+# 阿什顿·库彻 Katalyst 媒体将于下周预告 Blah Girls 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/07/ashton-kutchers-katalyst-media-to-preview-blah-blah-blah-next-week/>
 

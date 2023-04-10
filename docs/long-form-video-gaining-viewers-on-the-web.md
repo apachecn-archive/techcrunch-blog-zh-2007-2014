@@ -1,4 +1,4 @@
-# 长篇视频赢得网络观众 TechCrunch
+# 长篇视频赢得网络观众 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/12/long-form-video-gaining-viewers-on-the-web/>
 

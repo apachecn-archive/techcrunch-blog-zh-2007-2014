@@ -1,4 +1,4 @@
-# 诺基亚的音乐+高级服务足以削弱 Lumia 的销量吗？不太可能。TechCrunch
+# 诺基亚的音乐+高级服务足以削弱 Lumia 的销量吗？不太可能。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/27/will-nokias-music-premium-service-be-enough-to-dent-lumia-sales-unlikely/>
 

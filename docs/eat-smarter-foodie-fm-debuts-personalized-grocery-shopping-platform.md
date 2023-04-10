@@ -1,4 +1,4 @@
-# 吃得更聪明:Foodie.fm 首次推出个性化杂货购物平台 TechCrunch
+# 吃得更聪明:Foodie.fm 首次推出个性化杂货购物平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/eat-smarter-foodie-fm-debuts-personalized-grocery-shopping-platform/>
 

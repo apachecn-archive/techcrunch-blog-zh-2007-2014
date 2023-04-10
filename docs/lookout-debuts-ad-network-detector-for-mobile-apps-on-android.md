@@ -1,4 +1,4 @@
-# Lookout 为 Android 上的移动应用推出广告网络检测器 TechCrunch
+# Lookout 为 Android 上的移动应用推出广告网络检测器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/23/lookout-debuts-ad-network-detector-for-mobile-apps-on-android/>
 

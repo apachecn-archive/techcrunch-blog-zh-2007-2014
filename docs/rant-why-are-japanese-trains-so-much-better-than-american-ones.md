@@ -1,4 +1,4 @@
-# 狂言:为什么日本火车比美国火车好那么多？TechCrunch
+# 狂言:为什么日本火车比美国火车好那么多？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/rant-why-are-japanese-trains-so-much-better-than-american-ones/>
 

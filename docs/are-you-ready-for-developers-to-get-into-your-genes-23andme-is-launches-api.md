@@ -1,4 +1,4 @@
-# 你准备好让开发者进入你的基因了吗？23AndMe Is 发布 API–TechCrunch
+# 你准备好让开发者进入你的基因了吗？23AndMe Is 发布 API–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/09/17/are-you-ready-for-developers-to-get-into-your-genes-23andme-is-launches-api/>
 

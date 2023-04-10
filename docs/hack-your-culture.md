@@ -1,4 +1,4 @@
-# 破解你的文化 TechCrunch
+# 破解你的文化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/01/hack-your-culture/>
 

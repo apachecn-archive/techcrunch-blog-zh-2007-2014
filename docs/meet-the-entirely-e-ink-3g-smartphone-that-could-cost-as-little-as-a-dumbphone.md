@@ -1,4 +1,4 @@
-# 认识一下完全 E-Ink 的 3G 智能手机，它的价格可能和一部傻瓜手机一样低 TechCrunch
+# 认识一下完全 E-Ink 的 3G 智能手机，它的价格可能和一部傻瓜手机一样低 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/27/meet-the-entirely-e-ink-3g-smartphone-that-could-cost-as-little-as-a-dumbphone/>
 

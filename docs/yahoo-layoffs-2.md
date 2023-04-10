@@ -1,4 +1,4 @@
-# 雅虎的裁员是否来得早？TechCrunch
+# 雅虎的裁员是否来得早？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/11/yahoo-layoffs-2/>
 

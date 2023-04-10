@@ -1,4 +1,4 @@
-# 热衷于...Robert Vamosi:当小工具背叛我们时+书籍赠品 TechCrunch
+# 热衷于...Robert Vamosi:当小工具背叛我们时+书籍赠品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/28/keen-on-robert-vamosi-when-gadgets-betray-us-book-giveaway/>
 

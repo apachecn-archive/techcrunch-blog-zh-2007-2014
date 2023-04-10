@@ -1,4 +1,4 @@
-# 脸书 iPhone TechCrunch
+# 脸书 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/18/the-facebook-iphone/>
 

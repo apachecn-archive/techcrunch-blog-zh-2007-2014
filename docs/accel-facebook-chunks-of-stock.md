@@ -1,4 +1,4 @@
-# Accel 以 350 亿美元的估值出售大量脸书股票 TechCrunch
+# Accel 以 350 亿美元的估值出售大量脸书股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/19/accel-facebook-chunks-of-stock/>
 

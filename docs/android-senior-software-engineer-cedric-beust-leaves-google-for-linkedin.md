@@ -1,4 +1,4 @@
-# Android 高级软件工程师 Cedric Beust 离开谷歌，加盟 LinkedIn TechCrunch
+# Android 高级软件工程师 Cedric Beust 离开谷歌，加盟 LinkedIn 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/android-senior-software-engineer-cedric-beust-leaves-google-for-linkedin/>
 

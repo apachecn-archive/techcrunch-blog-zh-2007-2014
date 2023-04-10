@@ -1,4 +1,4 @@
-# Twitter 期待已久的广告平台的全部细节:推广推文 TechCrunch
+# Twitter 期待已久的广告平台的全部细节:推广推文 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/12/full-details-on-twitters-long-awaited-ad-platform/>
 

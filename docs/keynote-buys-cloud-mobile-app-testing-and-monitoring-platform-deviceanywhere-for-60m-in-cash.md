@@ -1,4 +1,4 @@
-# Keynote 以 9000 万美元收购云移动应用测试和监控平台 device anywhere TechCrunch
+# Keynote 以 9000 万美元收购云移动应用测试和监控平台 device anywhere 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/10/keynote-buys-cloud-mobile-app-testing-and-monitoring-platform-deviceanywhere-for-60m-in-cash/>
 

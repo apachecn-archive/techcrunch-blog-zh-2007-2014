@@ -1,4 +1,4 @@
-# PeaTiX 寻求成为日本的 Eventbrite，从 500 家初创公司和其他公司筹集了 100 万美元 TechCrunch
+# PeaTiX 寻求成为日本的 Eventbrite，从 500 家初创公司和其他公司筹集了 100 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/03/peatix-1-million/>
 

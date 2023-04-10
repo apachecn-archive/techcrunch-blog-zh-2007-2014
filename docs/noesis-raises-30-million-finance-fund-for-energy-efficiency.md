@@ -1,4 +1,4 @@
-# 诺西斯为能源效率筹集了 3000 万美元的资金 TechCrunch
+# 诺西斯为能源效率筹集了 3000 万美元的资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/noesis-raises-30-million-finance-fund-for-energy-efficiency/>
 

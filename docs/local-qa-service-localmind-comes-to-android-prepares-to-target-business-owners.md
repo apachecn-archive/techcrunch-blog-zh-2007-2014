@@ -1,4 +1,4 @@
-# 本地问答服务 Localmind 加入 Android，准备面向企业主 TechCrunch
+# 本地问答服务 Localmind 加入 Android，准备面向企业主 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/local-qa-service-localmind-comes-to-android-prepares-to-target-business-owners/>
 

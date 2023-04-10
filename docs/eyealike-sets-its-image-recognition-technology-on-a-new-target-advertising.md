@@ -1,4 +1,4 @@
-# Eyealike 将其图像识别技术瞄准了一个新目标:广告 TechCrunch
+# Eyealike 将其图像识别技术瞄准了一个新目标:广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/12/eyealike-sets-its-image-recognition-technology-on-a-new-target-advertising/>
 

@@ -1,4 +1,4 @@
-# 100 万用户，Schoology 以 600 万美元收购 Blackboard、Moodle TechCrunch
+# 100 万用户，Schoology 以 600 万美元收购 Blackboard、Moodle 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/16/schoology-series-b/>
 

@@ -1,4 +1,4 @@
-# Google Places 停止窃取评论 TechCrunch
+# Google Places 停止窃取评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/google-places-stops-stealing-reviews/>
 

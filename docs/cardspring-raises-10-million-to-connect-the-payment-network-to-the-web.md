@@ -1,4 +1,4 @@
-# CardSpring 筹集了 1000 万美元将支付连接到网络 TechCrunch
+# CardSpring 筹集了 1000 万美元将支付连接到网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/cardspring-raises-10-million-to-connect-the-payment-network-to-the-web/>
 

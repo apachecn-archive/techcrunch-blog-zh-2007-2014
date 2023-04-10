@@ -1,4 +1,4 @@
-# 苹果 iOS 6 地图惨败 3 分钟解释 TechCrunch
+# 苹果 iOS 6 地图惨败 3 分钟解释 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/the-apple-ios-6-maps-fiasco-clarified-in-3-minutes/?_ga=2.183348326.1722593478.1530105519-1352618727.1511719279>
 

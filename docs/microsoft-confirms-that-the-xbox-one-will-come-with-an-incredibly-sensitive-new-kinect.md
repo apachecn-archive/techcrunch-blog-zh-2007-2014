@@ -1,4 +1,4 @@
-# 微软证实，Xbox One 将配备一款极其灵敏的新 Kinect TechCrunch
+# 微软证实，Xbox One 将配备一款极其灵敏的新 Kinect 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/21/microsoft-confirms-that-the-xbox-one-will-come-with-an-incredibly-sensitive-new-kinect/>
 

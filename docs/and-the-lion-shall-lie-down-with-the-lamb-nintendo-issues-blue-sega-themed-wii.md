@@ -1,4 +1,4 @@
-# 《狮子将与羔羊共眠》:任天堂发行蓝色世嘉主题 Wii TechCrunch
+# 《狮子将与羔羊共眠》:任天堂发行蓝色世嘉主题 Wii 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/and-the-lion-shall-lie-down-with-the-lamb-nintendo-issues-blue-sega-themed-wii/>
 

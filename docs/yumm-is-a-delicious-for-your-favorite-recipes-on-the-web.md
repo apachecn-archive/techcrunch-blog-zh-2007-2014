@@ -1,4 +1,4 @@
-# Yumm 是你在网上最喜欢的美味食谱 TechCrunch
+# Yumm 是你在网上最喜欢的美味食谱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/yumm-is-a-delicious-for-your-favorite-recipes-on-the-web/>
 

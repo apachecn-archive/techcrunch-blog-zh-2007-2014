@@ -1,4 +1,4 @@
-# TC Gadgets 网络广播第 3 集:手机、电视和肌肉 TechCrunch
+# TC Gadgets 网络广播第 3 集:手机、电视和肌肉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/tc-gadgets-webcast-episode-3-phones-tvs-and-muscles/>
 

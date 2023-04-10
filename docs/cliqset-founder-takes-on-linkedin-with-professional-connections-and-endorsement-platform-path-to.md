@@ -1,4 +1,4 @@
-# Cliqset 创始人以专业人脉和背书平台路径承担 LinkedIn。致 TechCrunch
+# Cliqset 创始人以专业人脉和背书平台路径承担 LinkedIn。致 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/cliqset-founder-takes-on-linkedin-with-professional-connections-and-endorsement-platform-path-to/>
 

@@ -1,4 +1,4 @@
-# 已确认:Jajah 以 2.07 亿美元的价格售出 TechCrunch
+# 已确认:Jajah 以 2.07 亿美元的价格售出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/23/confirmed-jajah-sold-207-million/>
 

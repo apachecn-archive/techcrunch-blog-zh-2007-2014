@@ -1,4 +1,4 @@
-# Zynga 支持通过游戏内购买为海啸救援捐款 TechCrunch
+# Zynga 支持通过游戏内购买为海啸救援捐款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/11/zynga-enables-donations-to-tsunami-relief-through-in-game-purchases/>
 

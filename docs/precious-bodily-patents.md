@@ -1,4 +1,4 @@
-# “捍卫 Android”TechCrunch
+# “捍卫 Android”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/15/precious-bodily-patents/>
 

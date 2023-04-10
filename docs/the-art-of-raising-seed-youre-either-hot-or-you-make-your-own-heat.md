@@ -1,4 +1,4 @@
-# 培育种子的艺术:你要么很热，要么自己制造热量 TechCrunch
+# 培育种子的艺术:你要么很热，要么自己制造热量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/28/the-art-of-raising-seed-youre-either-hot-or-you-make-your-own-heat/>
 

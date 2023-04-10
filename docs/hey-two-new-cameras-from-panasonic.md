@@ -1,4 +1,4 @@
-# 嘿，两台来自松下的新相机 TechCrunch
+# 嘿，两台来自松下的新相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/hey-two-new-cameras-from-panasonic/>
 

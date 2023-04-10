@@ -1,4 +1,4 @@
-# 静态文档模型正在消亡。doc，。xls，还有。PPT TechCrunch
+# 静态文档模型正在消亡。doc，。xls，还有。PPT 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/08/the-static-document-model-is-dying-rip-doc-xls-and-ppt/>
 

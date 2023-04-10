@@ -1,4 +1,4 @@
-# 自去年 11 月以来，Google Play 的应用收入份额增长了 8%，但苹果仍然领先 TechCrunch
+# 自去年 11 月以来，Google Play 的应用收入份额增长了 8%，但苹果仍然领先 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/29/google-plays-app-revenue-share-up-8-since-november-but-apple-still-leads/>
 

@@ -1,4 +1,4 @@
-# 在一场脸书活动的前夕，斯巴达人准备迎接另一场 TechCrunch
+# 在一场脸书活动的前夕，斯巴达人准备迎接另一场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/facebook-spartan-ipad-html5/>
 

@@ -1,4 +1,4 @@
-# PayPal 增加 Visa Exec 管理亚洲快速增长的支付业务 TechCrunch
+# PayPal 增加 Visa Exec 管理亚洲快速增长的支付业务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/paypal-adds-visa-exec-to-run-fast-growing-payments-business-in-asia/>
 

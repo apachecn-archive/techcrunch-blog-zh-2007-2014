@@ -1,4 +1,4 @@
-# 随着 4S 成为三大巨头之首，苹果攫取了 52%的行业利润；发放巨额奖金 TechCrunch
+# 随着 4S 成为三大巨头之首，苹果攫取了 52%的行业利润；发放巨额奖金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/05/with-4s-now-tops-among-big-3-apple-grabs-52-of-industry-profits-doles-out-huge-bonuses/>
 

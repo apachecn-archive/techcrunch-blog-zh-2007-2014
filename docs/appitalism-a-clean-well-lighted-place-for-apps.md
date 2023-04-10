@@ -1,4 +1,4 @@
-# Appitalism:一个干净明亮的应用场所 TechCrunch
+# Appitalism:一个干净明亮的应用场所 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/appitalism-a-clean-well-lighted-place-for-apps/>
 

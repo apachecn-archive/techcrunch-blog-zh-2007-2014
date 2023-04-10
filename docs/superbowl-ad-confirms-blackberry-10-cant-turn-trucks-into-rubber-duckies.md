@@ -1,4 +1,4 @@
-# 超级碗广告证实黑莓 10 不能把卡车变成橡胶鸭子 TechCrunch
+# 超级碗广告证实黑莓 10 不能把卡车变成橡胶鸭子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/03/superbowl-ad-confirms-blackberry-10-cant-turn-trucks-into-rubber-duckies/>
 

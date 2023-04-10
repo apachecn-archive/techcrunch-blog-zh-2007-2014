@@ -1,4 +1,4 @@
-# 纸张创造者 53 考虑更多产品，平板电脑手写笔可能是下一个 TechCrunch
+# 纸张创造者 53 考虑更多产品，平板电脑手写笔可能是下一个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/23/paper-creators-fiftythree-mulling-more-products-and-a-tablet-stylus-might-be-next/>
 

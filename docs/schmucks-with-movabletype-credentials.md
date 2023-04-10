@@ -1,4 +1,4 @@
-# 美国在线解雇了一大堆自由职业者，赫芬顿邮报不给大多数作家发工资。我赞成。TechCrunch
+# 美国在线解雇了一大堆自由职业者，赫芬顿邮报不给大多数作家发工资。我赞成。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/04/schmucks-with-movabletype-credentials/>
 

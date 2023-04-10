@@ -1,4 +1,4 @@
-# 苹果、谷歌、亚马逊和微软在十大最受赞赏公司中占据了 4 席 TechCrunch
+# 苹果、谷歌、亚马逊和微软在十大最受赞赏公司中占据了 4 席 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/03/apple-google-amazon-most-admired-companies/>
 

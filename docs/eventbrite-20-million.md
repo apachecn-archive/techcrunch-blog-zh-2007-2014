@@ -1,4 +1,4 @@
-# Eventbrite 向投资者出售 2000 万美元门票，用于 D 轮融资 TechCrunch
+# Eventbrite 向投资者出售 2000 万美元门票，用于 D 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/06/eventbrite-20-million/>
 

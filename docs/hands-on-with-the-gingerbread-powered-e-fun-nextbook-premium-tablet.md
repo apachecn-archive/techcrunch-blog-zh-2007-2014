@@ -1,4 +1,4 @@
-# 体验由姜饼驱动的 E Fun Nextbook Premium9 平板电脑 TechCrunch
+# 体验由姜饼驱动的 E Fun Nextbook Premium9 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/hands-on-with-the-gingerbread-powered-e-fun-nextbook-premium-tablet/>
 

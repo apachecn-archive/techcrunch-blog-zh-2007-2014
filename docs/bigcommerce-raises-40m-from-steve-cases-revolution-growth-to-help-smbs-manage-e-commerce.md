@@ -1,4 +1,4 @@
-# Bigcommerce 从史蒂夫·凯斯的 Revolution Growth 中筹集 4000 万美元帮助中小企业管理电子商务 TechCrunch
+# Bigcommerce 从史蒂夫·凯斯的 Revolution Growth 中筹集 4000 万美元帮助中小企业管理电子商务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/25/bigcommerce-raises-40m-from-steve-cases-revolution-growth-to-help-smbs-manage-e-commerce/>
 

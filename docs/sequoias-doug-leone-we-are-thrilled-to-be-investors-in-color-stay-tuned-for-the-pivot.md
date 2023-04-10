@@ -1,4 +1,4 @@
-# 红杉资本(Sequoia)的道格·莱昂(Doug Leone):我们很高兴成为有色人种的投资者，敬请关注 Pivot TechCrunch
+# 红杉资本(Sequoia)的道格·莱昂(Doug Leone):我们很高兴成为有色人种的投资者，敬请关注 Pivot 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/18/sequoias-doug-leone-we-are-thrilled-to-be-investors-in-color-stay-tuned-for-the-pivot/>
 

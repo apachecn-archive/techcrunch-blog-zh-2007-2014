@@ -1,4 +1,4 @@
-# comScore:10 月份 Hulu 产生了 11 亿次视频广告展示 TechCrunch
+# comScore:10 月份 Hulu 产生了 11 亿次视频广告展示 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/15/comscore-hulu-generated-1-1-billion-video-ad-impressions-in-october/>
 

@@ -1,4 +1,4 @@
-# Foursquare 的新合作关系没什么大不了的 TechCrunch
+# Foursquare 的新合作关系没什么大不了的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/foursquare-deal-partnerships/>
 

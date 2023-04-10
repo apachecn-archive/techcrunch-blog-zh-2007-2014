@@ -1,4 +1,4 @@
-# Twitter 和 Jaiku 的单一界面——TechCrunch
+# Twitter 和 Jaiku 的单一界面——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/twitku-single-interface-for-twitter-and-jaiku/>
 

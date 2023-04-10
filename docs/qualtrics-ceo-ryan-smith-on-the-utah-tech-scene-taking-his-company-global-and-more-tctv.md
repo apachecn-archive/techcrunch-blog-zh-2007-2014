@@ -1,4 +1,4 @@
-# Qualtrics 首席执行官瑞安·史密斯在犹他州科技现场，将他的公司推向全球，以及更多[TCTV]TechCrunch
+# Qualtrics 首席执行官瑞安·史密斯在犹他州科技现场，将他的公司推向全球，以及更多[TCTV]
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/04/qualtrics-ceo-ryan-smith-on-the-utah-tech-scene-taking-his-company-global-and-more-tctv/>
 

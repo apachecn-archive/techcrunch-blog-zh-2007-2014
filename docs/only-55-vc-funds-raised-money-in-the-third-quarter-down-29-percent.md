@@ -1,4 +1,4 @@
-# 只有 55 只风险投资基金在第三季度筹集了资金(下降了 29%)。TechCrunch
+# 只有 55 只风险投资基金在第三季度筹集了资金(下降了 29%)。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/13/only-55-vc-funds-raised-money-in-the-third-quarter-down-29-percent/>
 

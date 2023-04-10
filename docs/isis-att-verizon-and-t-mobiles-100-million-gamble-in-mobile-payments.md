@@ -1,4 +1,4 @@
-# Isis:美国电话电报公司、威瑞森和 T-Mobile 在移动支付领域的 1 亿美元豪赌 TechCrunch
+# Isis:美国电话电报公司、威瑞森和 T-Mobile 在移动支付领域的 1 亿美元豪赌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/isis-att-verizon-and-t-mobiles-100-million-gamble-in-mobile-payments/>
 

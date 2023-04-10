@@ -1,4 +1,4 @@
-# 谷歌可能已经向摩托罗拉寻求新的 Nexus 手机，向华硕寻求更新的 Nexus 10 TechCrunch
+# 谷歌可能已经向摩托罗拉寻求新的 Nexus 手机，向华硕寻求更新的 Nexus 10 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/09/google-may-have-tapped-motorola-for-a-new-nexus-phone-and-asus-for-an-updated-nexus-10/>
 

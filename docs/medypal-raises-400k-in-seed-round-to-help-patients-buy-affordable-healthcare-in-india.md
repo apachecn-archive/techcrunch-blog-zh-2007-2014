@@ -1,4 +1,4 @@
-# Medypal 筹集了 40 万美元种子资金，帮助印度患者购买价格合理的医疗保健服务 TechCrunch
+# Medypal 筹集了 40 万美元种子资金，帮助印度患者购买价格合理的医疗保健服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/08/medypal-raises-400k-in-seed-round-to-help-patients-buy-affordable-healthcare-in-india/>
 

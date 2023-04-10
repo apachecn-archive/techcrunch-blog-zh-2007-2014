@@ -1,4 +1,4 @@
-# 美味 2.0 发布。真的。它完全启动了。TechCrunch
+# 美味 2.0 发布。真的。它完全启动了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/31/delicious-20-launches-really-it-totally-launched/>
 

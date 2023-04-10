@@ -1,4 +1,4 @@
-# 宏碁吃网关，一袋 twizzzlers TechCrunch
+# 宏碁吃网关，一袋 twizzzlers 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/acer-to-eat-gateway-bag-of-twizzlers/>
 

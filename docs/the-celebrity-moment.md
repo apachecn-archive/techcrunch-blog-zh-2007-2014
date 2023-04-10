@@ -1,4 +1,4 @@
-# 名人时刻 TechCrunch
+# 名人时刻 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/26/the-celebrity-moment/>
 

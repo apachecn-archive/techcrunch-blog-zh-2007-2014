@@ -1,4 +1,4 @@
-# Spotify 的目标是与瑞士的 Orange Young 保持一致 TechCrunch
+# Spotify 的目标是与瑞士的 Orange Young 保持一致 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/21/spotify-aims-to-get-in-tune-with-the-youth-market-with-orange-young-cutting-its-first-deal-with-deezer-investor-france-telecom/>
 

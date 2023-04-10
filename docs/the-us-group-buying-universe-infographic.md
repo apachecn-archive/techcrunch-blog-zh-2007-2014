@@ -1,4 +1,4 @@
-# 美国团购世界[信息图 TechCrunch
+# 美国团购世界[信息图 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/the-us-group-buying-universe-infographic/>
 

@@ -1,4 +1,4 @@
-# DIY:宜家相机推车 TechCrunch
+# DIY:宜家相机推车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/01/14/diy-the-ikea-camera-dolly/>
 

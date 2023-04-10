@@ -1,4 +1,4 @@
-# 索尼最新零售战略:追随苹果 TechCrunch
+# 索尼最新零售战略:追随苹果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/sonys-latest-retail-strategy-follow-apples-lead/>
 

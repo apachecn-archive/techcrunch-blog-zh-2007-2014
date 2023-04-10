@@ -1,4 +1,4 @@
-# B&N 现在提供 30 本免费书籍供升级到 Nook TechCrunch
+# B&N 现在提供 30 本免费书籍供升级到 Nook 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/bn-now-offering-30-free-books-for-upgrading-to-nook/>
 

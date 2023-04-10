@@ -1,4 +1,4 @@
-# 品牌化品牌借助移动商务浪潮达到 950 万美元 B 轮 TechCrunch
+# 品牌化品牌借助移动商务浪潮达到 950 万美元 B 轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/19/branding-brand-rides-m-commerce-wave-to-9-5-million-series-b/>
 

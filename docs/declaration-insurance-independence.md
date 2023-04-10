@@ -1,4 +1,4 @@
-# 保险独立宣言 TechCrunch
+# 保险独立宣言 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/03/declaration-insurance-independence/>
 

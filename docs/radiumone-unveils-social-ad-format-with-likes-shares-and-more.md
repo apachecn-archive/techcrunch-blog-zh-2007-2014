@@ -1,4 +1,4 @@
-# RadiumOne 推出包含赞、分享等内容的社交广告形式 TechCrunch
+# RadiumOne 推出包含赞、分享等内容的社交广告形式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/15/radiumone-unveils-social-ad-format-with-likes-shares-and-more/>
 

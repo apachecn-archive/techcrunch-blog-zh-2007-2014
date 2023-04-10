@@ -1,4 +1,4 @@
-# 一篇关于数字分散注意力的文章 TechCrunch
+# 一篇关于数字分散注意力的文章 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/21/digital-distraction/>
 

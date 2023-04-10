@@ -1,4 +1,4 @@
-# 美国电话电报公司首批 LTE 设备将于 8 月 21 日发布(在其 LTE 网络建成之前)TechCrunch
+# 美国电话电报公司首批 LTE 设备将于 8 月 21 日发布(在其 LTE 网络建成之前)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/atts-first-lte-devices-to-launch-on-august-21st-before-their-lte-network-is-up/>
 

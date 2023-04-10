@@ -1,4 +1,4 @@
-# Chrome SVP·桑德尔·皮帅证实 Chrome(大部分)正在击败 IE TechCrunch
+# Chrome SVP·桑德尔·皮帅证实 Chrome(大部分)正在击败 IE 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/31/chrome-svp-sundar-pichai-confirms-chrome-is-mostly-beating-ie/>
 

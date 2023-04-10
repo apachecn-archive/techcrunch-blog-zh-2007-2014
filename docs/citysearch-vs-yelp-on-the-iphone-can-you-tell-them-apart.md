@@ -1,4 +1,4 @@
-# iPhone 上的 Citysearch 和 Yelp:你能区分它们吗？TechCrunch
+# iPhone 上的 Citysearch 和 Yelp:你能区分它们吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/10/citysearch-vs-yelp-on-the-iphone-can-you-tell-them-apart/>
 

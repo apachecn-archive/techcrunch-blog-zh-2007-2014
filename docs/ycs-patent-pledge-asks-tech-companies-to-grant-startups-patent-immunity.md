@@ -1,4 +1,4 @@
-# YC 专利承诺要求科技公司给予初创公司专利豁免权 TechCrunch
+# YC 专利承诺要求科技公司给予初创公司专利豁免权 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/ycs-patent-pledge-asks-tech-companies-to-grant-startups-patent-immunity/>
 

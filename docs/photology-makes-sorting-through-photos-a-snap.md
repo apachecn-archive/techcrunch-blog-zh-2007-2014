@@ -1,4 +1,4 @@
-# Photology 让整理照片变得轻而易举 TechCrunch
+# Photology 让整理照片变得轻而易举 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/21/photology-makes-sorting-through-photos-a-snap/>
 

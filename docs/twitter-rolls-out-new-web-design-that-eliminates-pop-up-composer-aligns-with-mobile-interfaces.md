@@ -1,4 +1,4 @@
-# Twitter 推出符合移动界面的新网页设计 TechCrunch
+# Twitter 推出符合移动界面的新网页设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/twitter-rolls-out-new-web-design-that-eliminates-pop-up-composer-aligns-with-mobile-interfaces/>
 

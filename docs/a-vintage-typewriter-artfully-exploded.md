@@ -1,4 +1,4 @@
-# 一台老式打字机，巧妙爆炸 TechCrunch
+# 一台老式打字机，巧妙爆炸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/a-vintage-typewriter-artfully-exploded/>
 

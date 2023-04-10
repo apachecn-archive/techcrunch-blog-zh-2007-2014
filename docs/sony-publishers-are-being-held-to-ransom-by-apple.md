@@ -1,4 +1,4 @@
-# 索尼:“出版商被苹果勒索赎金”TechCrunch
+# 索尼:“出版商被苹果勒索赎金”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/sony-publishers-are-being-held-to-ransom-by-apple/>
 

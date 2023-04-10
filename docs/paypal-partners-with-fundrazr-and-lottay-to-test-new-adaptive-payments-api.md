@@ -1,4 +1,4 @@
-# PayPal 与 FundRazr 和 Lottay 合作测试新的自适应支付 API TechCrunch
+# PayPal 与 FundRazr 和 Lottay 合作测试新的自适应支付 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/16/paypal-partners-with-fundrazr-and-lottay-to-test-new-adaptive-payments-api/>
 

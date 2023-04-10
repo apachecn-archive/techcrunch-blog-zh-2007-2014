@@ -1,4 +1,4 @@
-# Skype 推出第三方应用程序目录 TechCrunch
+# Skype 推出第三方应用程序目录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/skype-launches-third-party-app-directory/>
 

@@ -1,4 +1,4 @@
-# 拥有 415 名毕业生的方正研究院自称是最大的创业孵化器 TechCrunch
+# 拥有 415 名毕业生的方正研究院自称是最大的创业孵化器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/with-415-graduates-founder-institute-claims-to-be-largest-startup-incubator/>
 

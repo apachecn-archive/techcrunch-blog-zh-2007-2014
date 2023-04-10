@@ -1,4 +1,4 @@
-# PSA:美国电话电报公司 Galaxy S II 有一个相当可怕的安全漏洞【更新:三星证实！】TechCrunch
+# PSA:美国电话电报公司 Galaxy S II 有一个相当可怕的安全漏洞【更新:三星证实！】
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/psa-the-att-galaxy-s-ii-has-a-pretty-terrible-security-flaw/>
 

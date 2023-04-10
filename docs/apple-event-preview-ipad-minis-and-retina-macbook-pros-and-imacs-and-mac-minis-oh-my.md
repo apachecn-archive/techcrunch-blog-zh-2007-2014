@@ -1,4 +1,4 @@
-# 苹果活动预告:iPad Minis 和 Retina MacBook Pros 和 iMacs 和 Mac Minis，天啊！TechCrunch
+# 苹果活动预告:iPad Minis 和 Retina MacBook Pros 和 iMacs 和 Mac Minis，天啊！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/22/apple-event-preview-ipad-minis-and-retina-macbook-pros-and-imacs-and-mac-minis-oh-my/>
 

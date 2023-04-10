@@ -1,4 +1,4 @@
-# 佳能开发 X 射线和无痛乳房 x 光设备 TechCrunch
+# 佳能开发 X 射线和无痛乳房 x 光设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/02/canon-develops-x-ray-and-pain-free-mammogram-device/>
 

@@ -1,4 +1,4 @@
-# Switchkey 将您的钥匙像弹簧刀一样翻转出来 TechCrunch
+# Switchkey 将您的钥匙像弹簧刀一样翻转出来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/switchkey-flips-your-key-out-like-a-switchblade/>
 

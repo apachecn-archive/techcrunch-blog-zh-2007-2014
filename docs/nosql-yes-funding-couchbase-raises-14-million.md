@@ -1,4 +1,4 @@
-# NoSQL，是的资助！Couchbase 融资 1400 万美元 TechCrunch
+# NoSQL，是的资助！Couchbase 融资 1400 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/nosql-yes-funding-couchbase-raises-14-million/>
 

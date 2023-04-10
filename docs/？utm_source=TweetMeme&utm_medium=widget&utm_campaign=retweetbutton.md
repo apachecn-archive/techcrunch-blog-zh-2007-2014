@@ -1,4 +1,4 @@
-# 现在我们是否都同意“高质量网络内容”实验已经失败了？TechCrunch
+# 现在我们是否都同意“高质量网络内容”实验已经失败了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/27/who-wouldve-thought-it-figures/?utm_source=TweetMeme&utm_medium=widget&utm_campaign=retweetbutton>
 

@@ -1,4 +1,4 @@
-# 未来两个月，优步将专注于东南亚的发布 TechCrunch
+# 未来两个月，优步将专注于东南亚的发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/uber-southeast-asia/>
 

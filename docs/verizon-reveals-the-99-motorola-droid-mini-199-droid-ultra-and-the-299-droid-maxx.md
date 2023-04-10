@@ -1,4 +1,4 @@
-# 威瑞森展示了 99 美元的摩托罗拉 Droid Mini、199 美元的 Droid Ultra 和 299 美元的 Droid Maxx TechCrunch
+# 威瑞森展示了 99 美元的摩托罗拉 Droid Mini、199 美元的 Droid Ultra 和 299 美元的 Droid Maxx 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/verizon-reveals-the-99-motorola-droid-mini-199-droid-ultra-and-the-299-droid-maxx/>
 

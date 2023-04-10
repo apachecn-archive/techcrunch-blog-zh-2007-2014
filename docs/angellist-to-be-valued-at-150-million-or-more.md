@@ -1,4 +1,4 @@
-# AngelList 进行了一轮融资，估值达到 1.5 亿美元或以上 TechCrunch
+# AngelList 进行了一轮融资，估值达到 1.5 亿美元或以上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/14/angellist-to-be-valued-at-150-million-or-more/>
 

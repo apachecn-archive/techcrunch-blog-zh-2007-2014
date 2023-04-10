@@ -1,4 +1,4 @@
-# CBS 为 iPhone 和 iPad 带来广告赞助的流媒体电视；社交整合、Android 和 Windows 8 支持即将推出 TechCrunch
+# CBS 为 iPhone 和 iPad 带来广告赞助的流媒体电视；社交整合、Android 和 Windows 8 支持即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/cbs-brings-ad-sponsored-streaming-tv-to-iphone-and-ipad-social-integration-android-windows-8-support-still-to-come/>
 

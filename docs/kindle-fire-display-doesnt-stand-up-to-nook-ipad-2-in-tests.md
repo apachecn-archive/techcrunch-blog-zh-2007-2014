@@ -1,4 +1,4 @@
-# Kindle Fire 显示器在测试中无法与 Nook 和 iPad 2 匹敌 TechCrunch
+# Kindle Fire 显示器在测试中无法与 Nook 和 iPad 2 匹敌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/kindle-fire-display-doesnt-stand-up-to-nook-ipad-2-in-tests/>
 

@@ -1,4 +1,4 @@
-# 迈克菲 2011 年网络攻击目标:网址缩写、iPhones、地理定位服务 TechCrunch
+# 迈克菲 2011 年网络攻击目标:网址缩写、iPhones、地理定位服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/28/mcafees-2011-cyber-attack-targets-url-shorteners-iphones-geolocation-services/>
 

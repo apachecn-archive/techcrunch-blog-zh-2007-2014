@@ -1,4 +1,4 @@
-# 内容经的恶业。网站在被《卫报》收购后陷入混乱。TechCrunch
+# 内容经的恶业。网站在被《卫报》收购后陷入混乱。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/05/bad-karma-at-contentsutra-site-sputters-after-being-bought-by-the-guardian/>
 

@@ -1,4 +1,4 @@
-# 柯达瞬间怎么了？TechCrunch
+# 柯达瞬间怎么了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/21/what-happened-to-kodaks-moment/>
 

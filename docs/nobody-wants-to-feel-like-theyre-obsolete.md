@@ -1,4 +1,4 @@
-# 没人想感觉自己过时了 TechCrunch
+# 没人想感觉自己过时了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/24/nobody-wants-to-feel-like-theyre-obsolete/>
 

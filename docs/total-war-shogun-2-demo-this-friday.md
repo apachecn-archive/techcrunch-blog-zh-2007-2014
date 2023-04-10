@@ -1,4 +1,4 @@
-# 全面战争:幕府将军 2 演示版:2 月 22 日 TechCrunch
+# 全面战争:幕府将军 2 演示版:2 月 22 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/total-war-shogun-2-demo-this-friday/>
 

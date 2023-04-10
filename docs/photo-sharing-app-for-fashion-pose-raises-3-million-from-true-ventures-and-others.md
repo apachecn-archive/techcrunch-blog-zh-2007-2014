@@ -1,4 +1,4 @@
-# 时尚姿势照片分享应用从 True Ventures 和其他公司获得 300 万美元 TechCrunch
+# 时尚姿势照片分享应用从 True Ventures 和其他公司获得 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/photo-sharing-app-for-fashion-pose-raises-3-million-from-true-ventures-and-others/>
 

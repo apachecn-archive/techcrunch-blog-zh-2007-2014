@@ -1,4 +1,4 @@
-# 忘记 USB 3.0:为您的电脑添加磁带阅读器 TechCrunch
+# 忘记 USB 3.0:为您的电脑添加磁带阅读器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/forget-usb-3-0-add-a-tape-reader-to-your-pc/>
 

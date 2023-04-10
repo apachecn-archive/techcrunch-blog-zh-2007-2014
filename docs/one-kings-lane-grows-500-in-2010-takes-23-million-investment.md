@@ -1,4 +1,4 @@
-# One Kings Lane 在 2010 年增长了 500%，获得了 2300 万美元的投资 TechCrunch
+# One Kings Lane 在 2010 年增长了 500%，获得了 2300 万美元的投资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/11/one-kings-lane-grows-500-in-2010-takes-23-million-investment/>
 

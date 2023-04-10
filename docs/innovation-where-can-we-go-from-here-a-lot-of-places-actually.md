@@ -1,4 +1,4 @@
-# 创新:我们将何去何从？实际上是很多地方 TechCrunch
+# 创新:我们将何去何从？实际上是很多地方 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/31/innovation-where-can-we-go-from-here-a-lot-of-places-actually/>
 

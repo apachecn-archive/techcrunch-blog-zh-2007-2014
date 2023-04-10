@@ -1,4 +1,4 @@
-# PayPal 为假日购物及时增加对预付礼品卡的支持 TechCrunch
+# PayPal 为假日购物及时增加对预付礼品卡的支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/27/paypal-adds-support-for-prepaid-gift-cards-in-time-for-holiday-shopping/>
 

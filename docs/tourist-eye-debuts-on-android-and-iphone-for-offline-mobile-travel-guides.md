@@ -1,4 +1,4 @@
-# 游客之眼首次在 Android 和 iPhone 上推出离线移动旅游指南 TechCrunch
+# 游客之眼首次在 Android 和 iPhone 上推出离线移动旅游指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/06/tourist-eye-debuts-on-android-and-iphone-for-offline-mobile-travel-guides/>
 

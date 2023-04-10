@@ -1,4 +1,4 @@
-# 亚马逊，你为什么不到我们家来，把我们的书也烧掉？TechCrunch
+# 亚马逊，你为什么不到我们家来，把我们的书也烧掉？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/17/amazon-why-dont-you-come-in-our-houses-and-burn-our-books-too/>
 

@@ -1,4 +1,4 @@
-# 以不到 50 美元的价格将 iPhone 变成 350 倍医用显微镜 TechCrunch
+# 以不到 50 美元的价格将 iPhone 变成 350 倍医用显微镜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/07/turning-the-iphone-into-a-350x-medical-microscope-for-under-50/>
 

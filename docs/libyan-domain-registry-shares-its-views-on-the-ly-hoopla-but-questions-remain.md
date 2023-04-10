@@ -1,4 +1,4 @@
-# 利比亚域名注册管理机构分享其观点。很夸张，但问题依然存在 TechCrunch
+# 利比亚域名注册管理机构分享其观点。很夸张，但问题依然存在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/08/libyan-domain-registry-shares-its-views-on-the-ly-hoopla-but-questions-remain/>
 

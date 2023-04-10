@@ -1,4 +1,4 @@
-# 科里·布克从 Waywire 董事会辞职，该公司正在寻找新的首席执行官 TechCrunch
+# 科里·布克从 Waywire 董事会辞职，该公司正在寻找新的首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/06/cory-booker-leaves-waywire/>
 

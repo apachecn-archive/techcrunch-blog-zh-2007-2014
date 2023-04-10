@@ -1,4 +1,4 @@
-# 微软对谷歌文档的回应吸引了 100 万用户 TechCrunch
+# 微软对谷歌文档的回应吸引了 100 万用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/microsofts-answer-to-google-docs-hits-1-million-users/>
 

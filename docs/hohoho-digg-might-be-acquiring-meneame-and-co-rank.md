@@ -1,4 +1,4 @@
-# HoHoHo: Digg 可能会收购 Menéame 和 CoRank TechCrunch
+# HoHoHo: Digg 可能会收购 Menéame 和 CoRank 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/25/hohoho-digg-might-be-acquiring-meneame-and-co-rank/>
 

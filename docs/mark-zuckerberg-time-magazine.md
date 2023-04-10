@@ -1,4 +1,4 @@
-# 马克·扎克伯格被《时代》杂志评为 2010 年度人物 TechCrunch
+# 马克·扎克伯格被《时代》杂志评为 2010 年度人物 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/15/mark-zuckerberg-time-magazine/>
 

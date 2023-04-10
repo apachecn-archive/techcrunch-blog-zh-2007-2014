@@ -1,4 +1,4 @@
-# 在爱荷华州党团会议当天，巴拉克奥巴马加入 insta gram TechCrunch
+# 在爱荷华州党团会议当天，巴拉克奥巴马加入 insta gram 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/on-the-day-of-the-iowa-caucus-barack-obama-joins-instagram/>
 

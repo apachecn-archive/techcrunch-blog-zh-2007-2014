@@ -1,4 +1,4 @@
-# 内容所有者迫使 Hulu 屈服于 Boxee TechCrunch
+# 内容所有者迫使 Hulu 屈服于 Boxee 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/18/content-owners-force-hulu-to-kill-boxee-support/>
 

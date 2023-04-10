@@ -1,4 +1,4 @@
-# 4 亿次下载后，《愤怒的小鸟》推出新鸟；电影已确认 TechCrunch
+# 4 亿次下载后，《愤怒的小鸟》推出新鸟；电影已确认 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/after-400-million-downloads-angry-birds-introduces-new-bird-movie-confirmed/>
 

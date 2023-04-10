@@ -1,4 +1,4 @@
-# 沃兹和我们一样在等待 TechCrunch
+# 沃兹和我们一样在等待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/woz-waits-like-the-rest-of-us/>
 

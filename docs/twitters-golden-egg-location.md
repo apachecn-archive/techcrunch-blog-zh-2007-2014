@@ -1,4 +1,4 @@
-# Twitter 的金蛋:位置 TechCrunch
+# Twitter 的金蛋:位置 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/twitters-golden-egg-location/>
 

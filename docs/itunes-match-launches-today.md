@@ -1,4 +1,4 @@
-# iTunes Match 今日发布 TechCrunch
+# iTunes Match 今日发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/itunes-match-launches-today/>
 

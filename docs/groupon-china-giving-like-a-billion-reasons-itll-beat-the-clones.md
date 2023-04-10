@@ -1,4 +1,4 @@
-# Groupon 中国给出了十亿个理由来打败克隆人 TechCrunch
+# Groupon 中国给出了十亿个理由来打败克隆人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/13/groupon-china-giving-like-a-billion-reasons-itll-beat-the-clones/>
 

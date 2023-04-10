@@ -1,4 +1,4 @@
-# 愤怒的小鸟现已推出奶油色和不那么致命的月饼形 TechCrunch
+# 愤怒的小鸟现已推出奶油色和不那么致命的月饼形 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/angry-birds-now-available-in-creamy-and-not-so-deadly-moon-pie-form/>
 

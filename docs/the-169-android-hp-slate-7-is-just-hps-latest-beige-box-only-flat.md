@@ -1,4 +1,4 @@
-# 售价 169 美元的安卓惠普 Slate 7 只是惠普最新的米色盒子，只有平板 TechCrunch
+# 售价 169 美元的安卓惠普 Slate 7 只是惠普最新的米色盒子，只有平板 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/25/the-169-android-hp-slate-7-is-just-hps-latest-beige-box-only-flat/>
 

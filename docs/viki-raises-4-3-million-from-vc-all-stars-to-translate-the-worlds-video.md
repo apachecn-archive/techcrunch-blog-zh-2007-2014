@@ -1,4 +1,4 @@
-# ViKi 从风投全明星中筹集了 430 万美元来翻译世界视频 TechCrunch
+# ViKi 从风投全明星中筹集了 430 万美元来翻译世界视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/08/viki-raises-4-3-million-from-vc-all-stars-to-translate-the-worlds-video/>
 

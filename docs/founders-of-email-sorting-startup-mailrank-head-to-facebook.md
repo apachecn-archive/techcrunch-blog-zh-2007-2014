@@ -1,4 +1,4 @@
-# 电子邮件分类初创公司 MailRank 的创始人前往脸书 TechCrunch
+# 电子邮件分类初创公司 MailRank 的创始人前往脸书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/founders-of-email-sorting-startup-mailrank-head-to-facebook/>
 

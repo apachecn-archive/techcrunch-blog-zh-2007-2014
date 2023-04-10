@@ -1,4 +1,4 @@
-# 随着用户厌倦了市长竞选，Foursquare 找到了一种鼓励签到的新方法:利用量化的自我评价 TechCrunch
+# 随着用户厌倦了市长竞选，Foursquare 找到了一种鼓励签到的新方法:利用量化的自我评价 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/as-users-tire-of-mayorship-wars-foursquare-finds-a-new-way-to-encourage-check-ins-by-tapping-into-quantified-self-buzz/>
 

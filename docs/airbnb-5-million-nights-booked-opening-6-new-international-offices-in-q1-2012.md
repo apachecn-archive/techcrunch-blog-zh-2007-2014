@@ -1,4 +1,4 @@
-# Airbnb:预订 500 万晚，在 Q1 开设 6 个新的国际办公室 2012 TechCrunch
+# Airbnb:预订 500 万晚，在 Q1 开设 6 个新的国际办公室 2012 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/26/airbnb-5-million-nights-booked-opening-6-new-international-offices-in-q1-2012/>
 

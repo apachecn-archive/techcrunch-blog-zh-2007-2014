@@ -1,4 +1,4 @@
-# LinkedIn 将产品、推荐等带到公司页面 TechCrunch
+# LinkedIn 将产品、推荐等带到公司页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/01/linkedin-brings-products-recommendations-and-more-to-company-pages/>
 

@@ -1,4 +1,4 @@
-# 凭借《山狮》, OS X 向 iOS 靠拢 TechCrunch
+# 凭借《山狮》, OS X 向 iOS 靠拢 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/mountain-lion-os-x-ios/>
 

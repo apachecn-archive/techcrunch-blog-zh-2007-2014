@@ -1,4 +1,4 @@
-# 美国有线电视新闻网在谈判购买 Zite iPad 应用程序？TechCrunch
+# 美国有线电视新闻网在谈判购买 Zite iPad 应用程序？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/cnn-in-talks-to-buy-zite-ipad-app/>
 

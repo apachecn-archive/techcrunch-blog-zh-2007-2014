@@ -1,4 +1,4 @@
-# 社交是谷歌的 DNA 吗？TechCrunch
+# 社交是谷歌的 DNA 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/17/is-social-in-googles-dna/>
 

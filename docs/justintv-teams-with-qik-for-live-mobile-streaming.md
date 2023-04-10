@@ -1,4 +1,4 @@
-# 贾斯汀。电视团队与 Qik 合作直播移动流媒体 TechCrunch
+# 贾斯汀。电视团队与 Qik 合作直播移动流媒体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/14/justintv-teams-with-qik-for-live-mobile-streaming/>
 

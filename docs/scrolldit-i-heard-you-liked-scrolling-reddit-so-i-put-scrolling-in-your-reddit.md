@@ -1,4 +1,4 @@
-# Scrolldit:我听说你喜欢滚动 Reddit，所以我把滚动放到了你的 Reddit TechCrunch
+# Scrolldit:我听说你喜欢滚动 Reddit，所以我把滚动放到了你的 Reddit 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/scrolldit-i-heard-you-liked-scrolling-reddit-so-i-put-scrolling-in-your-reddit/>
 

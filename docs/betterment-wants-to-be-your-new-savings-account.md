@@ -1,4 +1,4 @@
-# Betterment 希望成为您新的高收益储蓄账户 TechCrunch
+# Betterment 希望成为您新的高收益储蓄账户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/24/betterment-wants-to-be-your-new-savings-account/>
 

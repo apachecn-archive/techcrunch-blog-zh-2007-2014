@@ -1,4 +1,4 @@
-# 历史的终结，第二部分 TechCrunch
+# 历史的终结，第二部分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/13/the-end-of-history-part-ii/>
 

@@ -1,4 +1,4 @@
-# 14%的 Groupon/LivingSocial 用户回复推送通知 TechCrunch
+# 14%的 Groupon/LivingSocial 用户回复推送通知 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/17/comscore-14-of-grouponlivingsocial-subscribers-are-responsive-to-push-notifications/>
 

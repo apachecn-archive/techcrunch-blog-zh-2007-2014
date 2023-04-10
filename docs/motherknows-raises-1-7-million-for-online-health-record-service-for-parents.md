@@ -1,4 +1,4 @@
-# MotherKnows 为父母的在线健康记录服务筹集了 170 万美元 TechCrunch
+# MotherKnows 为父母的在线健康记录服务筹集了 170 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/motherknows-raises-1-7-million-for-online-health-record-service-for-parents/>
 

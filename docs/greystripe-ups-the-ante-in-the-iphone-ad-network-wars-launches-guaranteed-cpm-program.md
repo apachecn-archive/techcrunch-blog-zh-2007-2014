@@ -1,4 +1,4 @@
-# Greystripe 在 iPhone 广告网络大战中加大赌注，推出保证 CPM 计划 TechCrunch
+# Greystripe 在 iPhone 广告网络大战中加大赌注，推出保证 CPM 计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/greystripe-ups-the-ante-in-the-iphone-ad-network-wars-launches-guaranteed-cpm-program/>
 

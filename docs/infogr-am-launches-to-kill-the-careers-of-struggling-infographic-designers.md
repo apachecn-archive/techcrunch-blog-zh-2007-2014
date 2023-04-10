@@ -1,4 +1,4 @@
-# Infogr.am 的推出旨在扼杀苦苦挣扎的信息图表设计师的职业生涯 TechCrunch
+# Infogr.am 的推出旨在扼杀苦苦挣扎的信息图表设计师的职业生涯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/16/infogr-am-launches-to-kill-the-careers-of-struggling-infographic-designers/>
 

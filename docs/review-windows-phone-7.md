@@ -1,4 +1,4 @@
-# 点评:Windows Phone 7 TechCrunch
+# 点评:Windows Phone 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/review-windows-phone-7/>
 

@@ -1,4 +1,4 @@
-# 美国航空公司和 Gogo 向 767 飞机推出机上个人设备视频流 TechCrunch
+# 美国航空公司和 Gogo 向 767 飞机推出机上个人设备视频流 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/american-airlines-rolls-out-in-flight-personal-device-video-streaming-to-767-fleet/>
 

@@ -1,4 +1,4 @@
-# 如何在发布后 20 秒内丢失 Cuil TechCrunch
+# 如何在发布后 20 秒内丢失 Cuil 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/29/how-to-lose-your-cuil-20-seconds-after-launch/>
 

@@ -1,4 +1,4 @@
-# Snapchat 牺牲短暂性，推出新的回放功能 TechCrunch
+# Snapchat 牺牲短暂性，推出新的回放功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/20/selfconsciouschat/>
 

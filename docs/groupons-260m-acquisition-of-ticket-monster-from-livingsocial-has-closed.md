@@ -1,4 +1,4 @@
-# Groupon 以 2.6 亿美元从 LivingSocial 收购 Ticket Monster 的交易已经结束 TechCrunch
+# Groupon 以 2.6 亿美元从 LivingSocial 收购 Ticket Monster 的交易已经结束 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/02/groupons-260m-acquisition-of-ticket-monster-from-livingsocial-has-closed/>
 

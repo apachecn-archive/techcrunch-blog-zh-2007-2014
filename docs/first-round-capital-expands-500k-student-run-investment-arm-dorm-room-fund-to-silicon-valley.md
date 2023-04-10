@@ -1,4 +1,4 @@
-# 首轮资本将 50 万美元，学生管理的投资机构宿舍基金扩大到硅谷 TechCrunch
+# 首轮资本将 50 万美元，学生管理的投资机构宿舍基金扩大到硅谷 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/first-round-capital-expands-500k-student-run-investment-arm-dorm-room-fund-to-silicon-valley/>
 

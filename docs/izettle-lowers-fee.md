@@ -1,4 +1,4 @@
-# iZettle 以低至 1.5%的每笔交易费用击败其英国移动 POS 竞争对手 TechCrunch
+# iZettle 以低至 1.5%的每笔交易费用击败其英国移动 POS 竞争对手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/24/izettle-lowers-fee/>
 

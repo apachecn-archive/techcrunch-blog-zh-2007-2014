@@ -1,4 +1,4 @@
-# AMD 和 OTOY 合作开发“有史以来最快的超级计算机”TechCrunch
+# AMD 和 OTOY 合作开发“有史以来最快的超级计算机”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/08/amd-and-otoy-working-together-on-fastest-supercomputer-ever/>
 

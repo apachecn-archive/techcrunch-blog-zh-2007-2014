@@ -1,4 +1,4 @@
-# 最新的 TechStars 网络成员 Hub Ventures 正在寻找“改变世界”的创业公司 TechCrunch
+# 最新的 TechStars 网络成员 Hub Ventures 正在寻找“改变世界”的创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/02/newest-techstars-network-member-hub-ventures-is-looking-for-change-the-world-startups/>
 

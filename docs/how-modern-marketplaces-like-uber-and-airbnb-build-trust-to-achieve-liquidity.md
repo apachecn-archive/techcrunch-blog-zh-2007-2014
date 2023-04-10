@@ -1,4 +1,4 @@
-# 优步和 Airbnb 等现代市场如何建立信任以实现流动性 TechCrunch
+# 优步和 Airbnb 等现代市场如何建立信任以实现流动性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/how-modern-marketplaces-like-uber-and-airbnb-build-trust-to-achieve-liquidity/>
 

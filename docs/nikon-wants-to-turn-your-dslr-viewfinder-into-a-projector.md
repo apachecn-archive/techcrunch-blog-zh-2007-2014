@@ -1,4 +1,4 @@
-# 尼康想把你的 DSLR 取景器变成...投影仪 TechCrunch
+# 尼康想把你的 DSLR 取景器变成...投影仪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/nikon-wants-to-turn-your-dslr-viewfinder-into-a-projector/>
 

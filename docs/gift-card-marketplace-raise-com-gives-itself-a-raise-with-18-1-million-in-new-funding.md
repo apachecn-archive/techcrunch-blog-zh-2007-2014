@@ -1,4 +1,4 @@
-# 礼品卡市场 Raise 获得了 1810 万美元的新资金 TechCrunch
+# 礼品卡市场 Raise 获得了 1810 万美元的新资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/11/gift-card-marketplace-raise-com-gives-itself-a-raise-with-18-1-million-in-new-funding/>
 

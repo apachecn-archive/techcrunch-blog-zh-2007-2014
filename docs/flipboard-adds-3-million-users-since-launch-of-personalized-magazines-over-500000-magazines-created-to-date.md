@@ -1,4 +1,4 @@
-# 自推出个性化杂志以来，Flipboard 增加了 300 万用户，迄今已创建超过 50 万份杂志 TechCrunch
+# 自推出个性化杂志以来，Flipboard 增加了 300 万用户，迄今已创建超过 50 万份杂志 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/flipboard-adds-3-million-users-since-launch-of-personalized-magazines-over-500000-magazines-created-to-date/>
 

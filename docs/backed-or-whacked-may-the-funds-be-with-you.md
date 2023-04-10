@@ -1,4 +1,4 @@
-# 受支持还是受打击:愿资金与你同在 TechCrunch
+# 受支持还是受打击:愿资金与你同在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/30/backed-or-whacked-may-the-funds-be-with-you/>
 

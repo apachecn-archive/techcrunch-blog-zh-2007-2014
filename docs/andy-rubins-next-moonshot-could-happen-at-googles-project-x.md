@@ -1,4 +1,4 @@
-# 安迪·鲁宾的下一次登月可能发生在谷歌的 Project X TechCrunch
+# 安迪·鲁宾的下一次登月可能发生在谷歌的 Project X 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/andy-rubins-next-moonshot-could-happen-at-googles-project-x/>
 

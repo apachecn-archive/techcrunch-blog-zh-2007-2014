@@ -1,4 +1,4 @@
-# 启动 party:Seesmic 裁员 1/3 TechCrunch
+# 启动 party:Seesmic 裁员 1/3 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/10/getting-the-unparty-started-seesmic-lays-off-13-of-staff/>
 

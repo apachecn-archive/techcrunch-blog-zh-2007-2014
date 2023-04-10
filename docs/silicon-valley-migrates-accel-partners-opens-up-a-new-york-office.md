@@ -1,4 +1,4 @@
-# 硅谷移民！Accel Partners 开设纽约办事处 TechCrunch
+# 硅谷移民！Accel Partners 开设纽约办事处 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/11/silicon-valley-migrates-accel-partners-opens-up-a-new-york-office/>
 

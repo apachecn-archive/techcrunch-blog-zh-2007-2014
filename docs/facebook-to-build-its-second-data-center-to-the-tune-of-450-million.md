@@ -1,4 +1,4 @@
-# 脸书斥资 4.5 亿美元建造第二个数据中心 TechCrunch
+# 脸书斥资 4.5 亿美元建造第二个数据中心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/11/facebook-to-build-its-second-data-center-to-the-tune-of-450-million/>
 

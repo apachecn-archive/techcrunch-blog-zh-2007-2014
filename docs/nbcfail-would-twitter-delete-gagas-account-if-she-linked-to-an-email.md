@@ -1,4 +1,4 @@
-# NBCFail:如果 Gaga 链接了一封邮件，Twitter 会删除她的账户吗？TechCrunch
+# NBCFail:如果 Gaga 链接了一封邮件，Twitter 会删除她的账户吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/nbcfail-would-twitter-delete-gagas-account-if-she-linked-to-an-email/>
 

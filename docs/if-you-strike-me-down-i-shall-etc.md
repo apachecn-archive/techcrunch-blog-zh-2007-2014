@@ -1,4 +1,4 @@
-# 随着维基解密的封锁，支付机构选择了他们不知道的魔鬼 TechCrunch
+# 随着维基解密的封锁，支付机构选择了他们不知道的魔鬼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/if-you-strike-me-down-i-shall-etc/>
 

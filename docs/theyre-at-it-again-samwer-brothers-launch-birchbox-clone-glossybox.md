@@ -1,4 +1,4 @@
-# 他们又来了——Sam wer 兄弟推出 birch box——克隆 glossy box TechCrunch
+# 他们又来了——Sam wer 兄弟推出 birch box——克隆 glossy box 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/09/theyre-at-it-again-samwer-brothers-launch-birchbox-clone-glossybox/>
 

@@ -1,4 +1,4 @@
-# SXSW 互动:因为地狱没有足够的宣传贴纸 TechCrunch
+# SXSW 互动:因为地狱没有足够的宣传贴纸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/09/location-is-the-new-just-kill-yourself/>
 

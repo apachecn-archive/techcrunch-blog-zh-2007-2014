@@ -1,4 +1,4 @@
-# 安卓的衰落预示着苹果完全垄断的崛起——TechCrunch
+# 安卓的衰落预示着苹果完全垄断的崛起——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/apple-will-one-day-rule-the-world/>
 

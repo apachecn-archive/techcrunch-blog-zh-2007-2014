@@ -1,4 +1,4 @@
-# Digg 创始人 Jay Adelson 对不提前出售没意见，即使是在裁员的情况下 TechCrunch
+# Digg 创始人 Jay Adelson 对不提前出售没意见，即使是在裁员的情况下 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/25/digg-founder-jay-adelson-is-okay-with-not-selling-early-even-in-light-of-layoffs/>
 

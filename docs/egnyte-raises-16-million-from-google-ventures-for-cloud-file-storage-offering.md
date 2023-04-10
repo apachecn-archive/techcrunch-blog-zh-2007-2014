@@ -1,4 +1,4 @@
-# Egnyte 从 Google Ventures 获得 1600 万美元用于云文件存储服务 TechCrunch
+# Egnyte 从 Google Ventures 获得 1600 万美元用于云文件存储服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/egnyte-raises-16-million-from-google-ventures-for-cloud-file-storage-offering/>
 

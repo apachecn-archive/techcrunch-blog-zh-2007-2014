@@ -1,4 +1,4 @@
-# 视频:超逼真的 HRP-4C 人形机器人像人一样行走 TechCrunch
+# 视频:超逼真的 HRP-4C 人形机器人像人一样行走 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/11/video-super-realistic-hrp-4c-humanoid-walks-like-human/>
 

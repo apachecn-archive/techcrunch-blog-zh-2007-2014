@@ -1,4 +1,4 @@
-# Mozilla 的 Persona 登录系统现在处于测试阶段，包括 OpenID 和 OAuth TechCrunch
+# Mozilla 的 Persona 登录系统现在处于测试阶段，包括 OpenID 和 OAuth 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/27/mozillas-persona-login-system-is-now-in-beta-takes-on-openid-and-oauth/>
 

@@ -1,4 +1,4 @@
-# Reach.ly 利用 Twitter 帮助酒店实时联系潜在客人 TechCrunch
+# Reach.ly 利用 Twitter 帮助酒店实时联系潜在客人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/reach-ly-mines-twitter-to-help-hotels-reach-potential-guests-in-real-time/>
 

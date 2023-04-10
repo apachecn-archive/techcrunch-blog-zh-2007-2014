@@ -1,4 +1,4 @@
-# 保罗，我接受你的辞呈 TechCrunch
+# 保罗，我接受你的辞呈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/16/paul-i-accept-your-resignation/>
 

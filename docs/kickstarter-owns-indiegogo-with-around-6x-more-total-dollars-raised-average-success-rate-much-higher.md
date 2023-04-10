@@ -1,4 +1,4 @@
-# 据报道，Kickstarter 拥有 Indiegogo，总融资额增加了约 6 倍，平均成功率更高 TechCrunch
+# 据报道，Kickstarter 拥有 Indiegogo，总融资额增加了约 6 倍，平均成功率更高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/30/kickstarter-owns-indiegogo-with-around-6x-more-total-dollars-raised-average-success-rate-much-higher/>
 

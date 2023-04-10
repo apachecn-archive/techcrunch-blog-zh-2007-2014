@@ -1,4 +1,4 @@
-# SOPA 对美国国家安全局的抗议，图片 TechCrunch
+# SOPA 对美国国家安全局的抗议，图片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/sopa-vs-nsa-protests-in-pictures/>
 

@@ -1,4 +1,4 @@
-# 诺基亚修改产品命名准则 TechCrunch
+# 诺基亚修改产品命名准则 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/01/nokia-revamps-product-naming-guidelines/>
 

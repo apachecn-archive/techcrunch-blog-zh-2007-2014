@@ -1,4 +1,4 @@
-# OneNote 向免费过渡历时一年 TechCrunch
+# OneNote 向免费过渡历时一年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/onenotes-transition-to-being-free-was-a-year-in-the-making/>
 

@@ -1,4 +1,4 @@
-# SendTheTrend 允许您创建一个精心策划的配件网上商店 TechCrunch
+# SendTheTrend 允许您创建一个精心策划的配件网上商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/sendthetrend-allows-you-to-create-a-curated-online-store-of-accessories/>
 

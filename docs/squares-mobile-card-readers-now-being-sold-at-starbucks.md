@@ -1,4 +1,4 @@
-# Square 的移动读卡器现已在星巴克的 7K 家公司直营店出售 TechCrunch
+# Square 的移动读卡器现已在星巴克的 7K 家公司直营店出售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/03/squares-mobile-card-readers-now-being-sold-at-starbucks/>
 

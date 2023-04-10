@@ -1,4 +1,4 @@
-# 收件箱 2.0 让我难过 TechCrunch
+# 收件箱 2.0 让我难过 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/14/inbox-20-makes-me-sad/>
 

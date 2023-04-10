@@ -1,4 +1,4 @@
-# 12 月 19 日新的《割断绳子 2》游戏发布，请看视频预告 TechCrunch
+# 12 月 19 日新的《割断绳子 2》游戏发布，请看视频预告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/13/new-cut-the-rope-2-game-drops-on-19-december-check-out-the-video-preview/>
 

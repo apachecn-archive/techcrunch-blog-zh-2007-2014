@@ -1,4 +1,4 @@
-# 汽车共享服务 Zipcar 增加了 2100 万美元的收入 TechCrunch
+# 汽车共享服务 Zipcar 增加了 2100 万美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/15/car-sharing-service-zipcar-adds-21-million-to-its-coffers/>
 

@@ -1,4 +1,4 @@
-# 一个新的谷歌栏:黑色被淘汰，谷歌跨产品搜索进入 TechCrunch
+# 一个新的谷歌栏:黑色被淘汰，谷歌跨产品搜索进入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/29/a-new-google-bar-black-is-out-google-search-across-products-is-in/>
 

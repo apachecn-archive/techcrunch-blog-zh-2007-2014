@@ -1,4 +1,4 @@
-# 设计竞赛催生未来自行车 TechCrunch
+# 设计竞赛催生未来自行车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/design-competition-yields-bikes-of-the-future/>
 

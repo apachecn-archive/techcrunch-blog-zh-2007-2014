@@ -1,4 +1,4 @@
-# 汽车保险网站 Zebra 的 Kayak 又获得 300 万美元，在全国范围内推出 TechCrunch
+# 汽车保险网站 Zebra 的 Kayak 又获得 300 万美元，在全国范围内推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/10/kayak-for-auto-insurance-site-the-zebra-grabs-another-3m-launches-nationwide/>
 

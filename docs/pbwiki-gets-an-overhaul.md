@@ -1,4 +1,4 @@
-# PBWiki 进行了全面检查 TechCrunch
+# PBWiki 进行了全面检查 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/13/pbwiki-gets-an-overhaul/>
 

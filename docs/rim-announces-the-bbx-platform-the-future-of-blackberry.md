@@ -1,4 +1,4 @@
-# RIM 宣布 BBX 平台，黑莓的未来 TechCrunch
+# RIM 宣布 BBX 平台，黑莓的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/rim-announces-the-bbx-platform-the-future-of-blackberry/>
 

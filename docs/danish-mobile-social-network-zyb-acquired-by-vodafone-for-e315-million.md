@@ -1,4 +1,4 @@
-# 沃达丰以 3150 万英镑的价格收购丹麦移动社交网络 ZYB TechCrunch
+# 沃达丰以 3150 万英镑的价格收购丹麦移动社交网络 ZYB 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/16/danish-mobile-social-network-zyb-acquired-by-vodafone-for-e315-million/>
 

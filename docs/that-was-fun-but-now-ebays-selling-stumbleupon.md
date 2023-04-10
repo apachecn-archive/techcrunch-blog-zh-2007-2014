@@ -1,4 +1,4 @@
-# 这很有趣，但现在 Ebay 正在出售 stumble upon TechCrunch
+# 这很有趣，但现在 Ebay 正在出售 stumble upon 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/18/that-was-fun-but-now-ebays-selling-stumbleupon/>
 

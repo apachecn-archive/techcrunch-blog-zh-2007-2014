@@ -1,4 +1,4 @@
-# 视频:免提面部肌肉控制轮椅 TechCrunch
+# 视频:免提面部肌肉控制轮椅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/video-hands-free-facial-muscle-controlled-wheelchair/>
 

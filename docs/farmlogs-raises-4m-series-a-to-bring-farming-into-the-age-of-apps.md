@@ -1,4 +1,4 @@
-# FarmLogs 筹集 400 万美元 A 轮融资，进一步推动农业进入应用时代 TechCrunch
+# FarmLogs 筹集 400 万美元 A 轮融资，进一步推动农业进入应用时代 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/farmlogs-raises-4m-series-a-to-bring-farming-into-the-age-of-apps/>
 

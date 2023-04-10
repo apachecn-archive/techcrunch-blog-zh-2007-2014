@@ -1,4 +1,4 @@
-# SmallWorlds 为 Web 2.0 带来了第三维度 TechCrunch
+# SmallWorlds 为 Web 2.0 带来了第三维度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/21/smallworld-a-virtual-environment-that-takes-web-20-3d/>
 

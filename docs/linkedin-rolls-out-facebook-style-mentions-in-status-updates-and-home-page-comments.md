@@ -1,4 +1,4 @@
-# LinkedIn 在状态更新和主页评论中加入了脸书风格的人物和公司信息 TechCrunch
+# LinkedIn 在状态更新和主页评论中加入了脸书风格的人物和公司信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/04/linkedin-rolls-out-facebook-style-mentions-in-status-updates-and-home-page-comments/>
 

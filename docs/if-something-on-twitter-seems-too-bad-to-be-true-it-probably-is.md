@@ -1,4 +1,4 @@
-# 如果 Twitter 上的某件事糟糕得令人难以置信，那很可能是 TechCrunch
+# 如果 Twitter 上的某件事糟糕得令人难以置信，那很可能是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/12/if-something-on-twitter-seems-too-bad-to-be-true-it-probably-is/>
 

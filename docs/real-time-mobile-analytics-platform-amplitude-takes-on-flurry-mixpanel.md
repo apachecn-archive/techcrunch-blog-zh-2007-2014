@@ -1,4 +1,4 @@
-# 实时移动分析平台 Amplitude 挑战 Flurry & Mixpanel TechCrunch
+# 实时移动分析平台 Amplitude 挑战 Flurry & Mixpanel 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/20/real-time-mobile-analytics-platform-amplitude-takes-on-flurry-mixpanel/>
 

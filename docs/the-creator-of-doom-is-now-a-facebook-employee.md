@@ -1,4 +1,4 @@
-# 毁灭战士的创造者现在是脸书的一名员工 TechCrunch
+# 毁灭战士的创造者现在是脸书的一名员工 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/the-creator-of-doom-is-now-a-facebook-employee/>
 

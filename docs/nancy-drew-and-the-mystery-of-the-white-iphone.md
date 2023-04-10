@@ -1,4 +1,4 @@
-# 神探南茜和神秘的白色 iPhone TechCrunch
+# 神探南茜和神秘的白色 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/nancy-drew-and-the-mystery-of-the-white-iphone/>
 

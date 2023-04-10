@@ -1,4 +1,4 @@
-# iPad Mini 拆卸揭示三星显示，是的，立体声扬声器 TechCrunch
+# iPad Mini 拆卸揭示三星显示，是的，立体声扬声器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/01/ipad-mini-teardown-reveals-samsung-display-and-yes-stereo-speakers/>
 

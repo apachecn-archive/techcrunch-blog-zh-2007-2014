@@ -1,4 +1,4 @@
-# Eniac Ventures 启动 160 万美元种子基金投资移动创业公司 TechCrunch
+# Eniac Ventures 启动 160 万美元种子基金投资移动创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/01/eniac-ventures-launches-1-6-million-seed-fund-to-invest-in-mobile-startups/>
 

@@ -1,4 +1,4 @@
-# Shutterfly 以极低的价格购买微小的图片 TechCrunch
+# Shutterfly 以极低的价格购买微小的图片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/13/shutterfly-buys-tiny-pictures-for-a-tiny-price/>
 

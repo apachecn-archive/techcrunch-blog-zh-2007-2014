@@ -1,4 +1,4 @@
-# 苹果的 Mac Pro 现已上市，Max One 现已上市，4K 显示屏售价超过 13K 美元 TechCrunch
+# 苹果的 Mac Pro 现已上市，Max One 现已上市，4K 显示屏售价超过 13K 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/19/mac-pro-now-on-sale/>
 

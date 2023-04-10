@@ -1,4 +1,4 @@
-# Asmyco:每台 iOS 设备都下载了超过 60 个应用程序 TechCrunch
+# Asmyco:每台 iOS 设备都下载了超过 60 个应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/16/asmyco-each-ios-device-has-downloaded-more-than-60-apps/>
 

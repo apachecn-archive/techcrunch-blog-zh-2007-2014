@@ -1,4 +1,4 @@
-# 免费创业文档:顾问应该获得多少股权？TechCrunch
+# 免费创业文档:顾问应该获得多少股权？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/free-startup-docs-how-much-equity-should-advisors-get/>
 

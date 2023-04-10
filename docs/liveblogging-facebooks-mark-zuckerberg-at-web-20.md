@@ -1,4 +1,4 @@
-# 直播博客脸书的马克扎克伯格在 Web 2.0:收入，筹款，增长和产品 TechCrunch
+# 直播博客脸书的马克扎克伯格在 Web 2.0:收入，筹款，增长和产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/06/liveblogging-facebooks-mark-zuckerberg-at-web-20/>
 

@@ -1,4 +1,4 @@
-# 由于全食超市的交易，LivingSocial 在 9 月份的增长速度是 Groupon 的五倍 TechCrunch
+# 由于全食超市的交易，LivingSocial 在 9 月份的增长速度是 Groupon 的五倍 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/livingsocial-groupon-september/>
 

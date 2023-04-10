@@ -1,4 +1,4 @@
-# Y Combinator 演示日:终极综述 TechCrunch
+# Y Combinator 演示日:终极综述 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/23/y-combinator-demo-day-the-ultimate-roundup/>
 

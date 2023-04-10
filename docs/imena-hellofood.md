@@ -1,4 +1,4 @@
-# iMENA 向 Foodpanda 的 Hellofood 投资 800 万美元，帮助 Rocket 在中东扩大外卖服务 TechCrunch
+# iMENA 向 Foodpanda 的 Hellofood 投资 800 万美元，帮助 Rocket 在中东扩大外卖服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/imena-hellofood/>
 

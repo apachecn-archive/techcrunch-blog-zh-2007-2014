@@ -1,4 +1,4 @@
-# Evernote 买倒数第二。下一站:增强型数字手写技术 TechCrunch
+# Evernote 买倒数第二。下一站:增强型数字手写技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/07/evernote-buys-penultimate-next-stop-enhanced-digital-handwriting/>
 

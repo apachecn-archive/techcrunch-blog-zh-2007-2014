@@ -1,4 +1,4 @@
-# 哇哦。微软出价 446 亿美元收购雅虎 TechCrunch
+# 哇哦。微软出价 446 亿美元收购雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/01/wow-microsoft-offers-446-billion-to-acquire-yahoo/>
 

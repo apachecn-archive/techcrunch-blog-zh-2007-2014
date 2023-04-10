@@ -1,4 +1,4 @@
-# 易贝将易贝当天送达服务引入桌面，准备区域扩张 TechCrunch
+# 易贝将易贝当天送达服务引入桌面，准备区域扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/ebay-brings-same-day-delivery-service-ebay-now-to-desktop-prepares-regional-expansions/>
 

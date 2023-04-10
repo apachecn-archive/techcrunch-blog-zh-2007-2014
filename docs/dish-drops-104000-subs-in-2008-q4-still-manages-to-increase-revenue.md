@@ -1,4 +1,4 @@
-# Dish 在 2008 年第 4 季度减少了 104，000 台潜艇，但仍设法增加收入 TechCrunch
+# Dish 在 2008 年第 4 季度减少了 104，000 台潜艇，但仍设法增加收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/dish-drops-104000-subs-in-2008-q4-still-manages-to-increase-revenue/>
 

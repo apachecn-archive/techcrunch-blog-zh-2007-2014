@@ -1,4 +1,4 @@
-# 电子烟公司永远不会承诺帮你戒烟 TechCrunch
+# 电子烟公司永远不会承诺帮你戒烟 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/11/e-cig-companies-will-never-promise-to-help-you-quit-smoking/>
 

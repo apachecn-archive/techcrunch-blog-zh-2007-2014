@@ -1,4 +1,4 @@
-# 安桥日本宣布基于 Windows 7 的“平板电脑”TechCrunch
+# 安桥日本宣布基于 Windows 7 的“平板电脑”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/onkyo-japan-announces-windows-7-powered-slate-pc/>
 

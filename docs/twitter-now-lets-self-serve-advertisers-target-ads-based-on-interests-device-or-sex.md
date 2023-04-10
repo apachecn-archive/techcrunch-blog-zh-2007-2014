@@ -1,4 +1,4 @@
-# Twitter 现在允许其自助式广告客户访问先进的活动工具，根据兴趣、设备或性别锁定目标 TechCrunch
+# Twitter 现在允许其自助式广告客户访问先进的活动工具，根据兴趣、设备或性别锁定目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/18/twitter-now-lets-self-serve-advertisers-target-ads-based-on-interests-device-or-sex/>
 

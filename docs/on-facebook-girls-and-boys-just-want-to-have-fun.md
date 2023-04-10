@@ -1,4 +1,4 @@
-# 在脸书，女孩和男孩只想找乐子 TechCrunch
+# 在脸书，女孩和男孩只想找乐子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/02/on-facebook-girls-and-boys-just-want-to-have-fun/>
 

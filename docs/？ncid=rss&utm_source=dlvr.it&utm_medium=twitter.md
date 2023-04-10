@@ -1,4 +1,4 @@
-# 随着 10K 学校的加入，BrightBytes 获得了 1500 万美元来帮助衡量技术在教育中的实际影响 TechCrunch
+# 随着 10K 学校的加入，BrightBytes 获得了 1500 万美元来帮助衡量技术在教育中的实际影响 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/13/with-10k-schools-on-board-brightbytes-lands-15m-to-help-measure-the-real-impact-of-technology-in-education/?ncid=rss&utm_source=dlvr.it&utm_medium=twitter>
 

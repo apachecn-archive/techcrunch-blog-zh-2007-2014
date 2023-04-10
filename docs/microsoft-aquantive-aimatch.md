@@ -1,4 +1,4 @@
-# 微软、aQuantive 老手着手构建“智能”广告服务平台 TechCrunch
+# 微软、aQuantive 老手着手构建“智能”广告服务平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/15/microsoft-aquantive-aimatch/>
 

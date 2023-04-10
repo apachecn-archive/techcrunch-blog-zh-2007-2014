@@ -1,4 +1,4 @@
-# 索尼和 LG 结束专利纠纷，达成墨水许可协议 TechCrunch
+# 索尼和 LG 结束专利纠纷，达成墨水许可协议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/sony-and-lg-end-dispute-over-patents-ink-licensing-deal/>
 

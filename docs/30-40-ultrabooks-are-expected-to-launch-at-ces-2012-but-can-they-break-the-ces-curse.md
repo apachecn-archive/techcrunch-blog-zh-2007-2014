@@ -1,4 +1,4 @@
-# 30-50 台超极本有望在 CES 2012 上推出，但它们能打破 CES 魔咒吗？TechCrunch
+# 30-50 台超极本有望在 CES 2012 上推出，但它们能打破 CES 魔咒吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/30-40-ultrabooks-are-expected-to-launch-at-ces-2012-but-can-they-break-the-ces-curse/>
 

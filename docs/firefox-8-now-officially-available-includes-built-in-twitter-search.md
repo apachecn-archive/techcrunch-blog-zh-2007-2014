@@ -1,4 +1,4 @@
-# Firefox 8 现已正式推出，包括内置 Twitter 搜索 TechCrunch
+# Firefox 8 现已正式推出，包括内置 Twitter 搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/firefox-8-now-officially-available-includes-built-in-twitter-search/>
 

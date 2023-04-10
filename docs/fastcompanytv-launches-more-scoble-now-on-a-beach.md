@@ -1,4 +1,4 @@
-# FastCompany。电视发布会:更多 Scoble，现在在沙滩上 TechCrunch
+# FastCompany。电视发布会:更多 Scoble，现在在沙滩上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/03/fastcompanytv-launches-more-scoble-now-on-a-beach/>
 

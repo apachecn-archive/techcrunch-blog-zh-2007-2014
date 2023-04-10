@@ -1,4 +1,4 @@
-# 2012 年在线视频的五大预测 TechCrunch
+# 2012 年在线视频的五大预测 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/26/five-predictions-for-online-video-in-2012/>
 

@@ -1,4 +1,4 @@
-# 威瑞森 2013 年在 Q1 激活了 400 万部 iPhone:50%为 iPhone 5，50%为旧设备 TechCrunch
+# 威瑞森 2013 年在 Q1 激活了 400 万部 iPhone:50%为 iPhone 5，50%为旧设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/18/verizon-activated-4m-iphones-in-q1-2013-50-iphone-5-and-50-older-devices/>
 

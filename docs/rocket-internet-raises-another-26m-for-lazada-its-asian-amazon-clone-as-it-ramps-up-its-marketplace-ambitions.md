@@ -1,4 +1,4 @@
-# Rocket Internet 向 Summit Partners 再融资 2600 万美元，收购其亚洲版亚马逊网站 Lazada，以提升其市场野心 TechCrunch
+# Rocket Internet 向 Summit Partners 再融资 2600 万美元，收购其亚洲版亚马逊网站 Lazada，以提升其市场野心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/05/rocket-internet-raises-another-26m-for-lazada-its-asian-amazon-clone-as-it-ramps-up-its-marketplace-ambitions/>
 

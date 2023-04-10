@@ -1,4 +1,4 @@
-# Twitter 测试 Twitter 流中的广告 TechCrunch
+# Twitter 测试 Twitter 流中的广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/14/twitter-testing-advertising-in-twitter-streams/>
 

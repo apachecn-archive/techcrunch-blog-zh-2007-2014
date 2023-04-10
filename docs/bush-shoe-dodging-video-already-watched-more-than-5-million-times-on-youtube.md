@@ -1,4 +1,4 @@
-# 布什躲避鞋子的视频已经在 YouTube 上被观看了 500 多万次。TechCrunch
+# 布什躲避鞋子的视频已经在 YouTube 上被观看了 500 多万次。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/15/bush-shoe-dodging-video-already-watched-more-than-5-million-times-on-youtube/>
 

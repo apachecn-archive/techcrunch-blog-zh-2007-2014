@@ -1,4 +1,4 @@
-# TroopTube 将流式视频还原到我们国家最好的 TechCrunch
+# TroopTube 将流式视频还原到我们国家最好的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/11/trooptube-restores-streaming-video-to-our-nations-finest/>
 

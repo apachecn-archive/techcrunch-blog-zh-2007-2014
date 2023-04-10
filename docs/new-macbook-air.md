@@ -1,4 +1,4 @@
-# MacBook Air Apparent:我从未用过我电脑的光驱 TechCrunch
+# MacBook Air Apparent:我从未用过我电脑的光驱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/15/new-macbook-air/>
 

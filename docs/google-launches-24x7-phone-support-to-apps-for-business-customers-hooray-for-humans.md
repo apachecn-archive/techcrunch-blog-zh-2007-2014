@@ -1,4 +1,4 @@
-# 谷歌向“企业应用”客户推出 24x7 电话支持(人类万岁！)TechCrunch
+# 谷歌向“企业应用”客户推出 24x7 电话支持(人类万岁！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/google-launches-24x7-phone-support-to-apps-for-business-customers-hooray-for-humans/>
 

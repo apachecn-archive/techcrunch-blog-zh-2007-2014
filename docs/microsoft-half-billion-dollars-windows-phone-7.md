@@ -1,4 +1,4 @@
-# 微软将支付超过 5 亿美元启动 Windows Phone 7 TechCrunch
+# 微软将支付超过 5 亿美元启动 Windows Phone 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/26/microsoft-half-billion-dollars-windows-phone-7/>
 

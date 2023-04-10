@@ -1,4 +1,4 @@
-# Appsfire 的第一个广告单元“Ura Maki”是 iAd 做对了 TechCrunch
+# Appsfire 的第一个广告单元“Ura Maki”是 iAd 做对了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/appsfires-first-ad-unit-ura-maki-is-iad-done-right/>
 

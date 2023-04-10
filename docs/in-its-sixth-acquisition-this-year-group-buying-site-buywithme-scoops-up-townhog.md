@@ -1,4 +1,4 @@
-# 在今年的第六次收购中，团购网站 BuyWithMe 收购了 TownHog TechCrunch
+# 在今年的第六次收购中，团购网站 BuyWithMe 收购了 TownHog 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/in-its-sixth-acquisition-this-year-group-buying-site-buywithme-scoops-up-townhog/>
 

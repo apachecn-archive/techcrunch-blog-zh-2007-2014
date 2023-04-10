@@ -1,4 +1,4 @@
-# 脸书推出聊天和其他实验的变化，引发问题 TechCrunch
+# 脸书推出聊天和其他实验的变化，引发问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/facebook-rolls-out-changes-to-chat-other-experiments-leads-to-problems/>
 

@@ -1,4 +1,4 @@
-# Google Goggles 会在翻译中迷失吗？TechCrunch
+# Google Goggles 会在翻译中迷失吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/02/16/google-goggles-getting-ocr-translations/>
 

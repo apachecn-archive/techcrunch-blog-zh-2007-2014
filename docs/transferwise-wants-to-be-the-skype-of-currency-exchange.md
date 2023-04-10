@@ -1,4 +1,4 @@
-# TransferWise 希望成为货币交易的 Skype TechCrunch
+# TransferWise 希望成为货币交易的 Skype 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/24/transferwise-wants-to-be-the-skype-of-currency-exchange/>
 

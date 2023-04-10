@@ -1,4 +1,4 @@
-# 任天堂有没有尽可能地骑过 Wii，DS 的成功？TechCrunch
+# 任天堂有没有尽可能地骑过 Wii，DS 的成功？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/19/has-nintnedo-ridden-the-success-of-the-wii-ds-as-far-as-posssible/>
 

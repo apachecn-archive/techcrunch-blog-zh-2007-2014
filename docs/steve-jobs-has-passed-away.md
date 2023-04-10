@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯去世 TechCrunch
+# 史蒂夫·乔布斯去世 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/05/steve-jobs-has-passed-away/>
 

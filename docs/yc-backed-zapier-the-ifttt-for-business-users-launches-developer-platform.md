@@ -1,4 +1,4 @@
-# YC 支持的 Zapier，面向商业用户的 IFTTT，推出开发者平台 TechCrunch
+# YC 支持的 Zapier，面向商业用户的 IFTTT，推出开发者平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/01/yc-backed-zapier-the-ifttt-for-business-users-launches-developer-platform/>
 

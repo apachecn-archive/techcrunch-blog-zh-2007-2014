@@ -1,4 +1,4 @@
-# 收件箱过载走开:任务组退出测试版，转而使用付费版 TechCrunch
+# 收件箱过载走开:任务组退出测试版，转而使用付费版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/inbox-overload-begone-taskforce-exits-beta-goes-pro-with-paid-version/>
 

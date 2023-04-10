@@ -1,4 +1,4 @@
-# 洛杉矶的科技博客 Lalawag 关闭了 TechCrunch
+# 洛杉矶的科技博客 Lalawag 关闭了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/16/so-long-and-thanks-for-all-the-infographics/>
 

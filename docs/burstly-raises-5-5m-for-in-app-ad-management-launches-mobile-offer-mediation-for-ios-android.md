@@ -1,4 +1,4 @@
-# Burstly 为应用内广告管理筹集了 550 万美元；为 iOS 和 Android 推出移动报价中介 TechCrunch
+# Burstly 为应用内广告管理筹集了 550 万美元；为 iOS 和 Android 推出移动报价中介 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/burstly-raises-5-5m-for-in-app-ad-management-launches-mobile-offer-mediation-for-ios-android/>
 

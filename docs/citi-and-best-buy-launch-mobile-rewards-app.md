@@ -1,4 +1,4 @@
-# 花旗和百思买推出移动奖励应用 TechCrunch
+# 花旗和百思买推出移动奖励应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/citi-and-best-buy-launch-mobile-rewards-app/>
 

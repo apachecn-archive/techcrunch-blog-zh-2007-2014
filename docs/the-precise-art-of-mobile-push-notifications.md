@@ -1,4 +1,4 @@
-# 移动推送通知的精确艺术 TechCrunch
+# 移动推送通知的精确艺术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/13/the-precise-art-of-mobile-push-notifications/>
 

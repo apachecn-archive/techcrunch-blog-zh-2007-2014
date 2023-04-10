@@ -1,4 +1,4 @@
-# 是的，这是真的:蒂姆·德雷珀详细介绍了让硅谷成为一个州的投票倡议 TechCrunch
+# 是的，这是真的:蒂姆·德雷珀详细介绍了让硅谷成为一个州的投票倡议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/23/yes-its-real-tim-draper-gives-details-on-ballot-initiative-to-make-silicon-valley-a-state/>
 

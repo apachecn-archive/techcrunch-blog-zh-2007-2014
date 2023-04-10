@@ -1,4 +1,4 @@
-# Urban Airship 完成 540 万美元融资，帮助推动移动应用 TechCrunch
+# Urban Airship 完成 540 万美元融资，帮助推动移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/02/urban-airship-closes-5-4-million-funding-round-to-help-power-mobile-apps/>
 

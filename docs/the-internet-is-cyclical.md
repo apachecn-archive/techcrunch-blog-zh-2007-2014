@@ -1,4 +1,4 @@
-# 脸书、应用商店和必然性之声 TechCrunch
+# 脸书、应用商店和必然性之声 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/01/the-internet-is-cyclical/>
 

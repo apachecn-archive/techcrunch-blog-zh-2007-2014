@@ -1,4 +1,4 @@
-# Oversee.net 获得 1.5 亿美元的私募股权注入 TechCrunch
+# Oversee.net 获得 1.5 亿美元的私募股权注入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/15/overseenet-gets-a-150-million-injection-of-private-equity/>
 

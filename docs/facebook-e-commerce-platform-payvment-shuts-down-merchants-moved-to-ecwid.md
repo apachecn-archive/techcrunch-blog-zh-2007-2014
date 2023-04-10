@@ -1,4 +1,4 @@
-# Intuit 收购脸书电子商务平台 Payvment 的团队、技术和专利，而 Ecwid 收购其 20 万商户 TechCrunch
+# Intuit 收购脸书电子商务平台 Payvment 的团队、技术和专利，而 Ecwid 收购其 20 万商户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/facebook-e-commerce-platform-payvment-shuts-down-merchants-moved-to-ecwid/>
 

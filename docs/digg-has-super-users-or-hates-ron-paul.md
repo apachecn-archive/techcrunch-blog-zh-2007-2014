@@ -1,4 +1,4 @@
-# Digg 有超级用户还是讨厌罗恩保罗 TechCrunch
+# Digg 有超级用户还是讨厌罗恩保罗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/17/digg-has-super-users-or-hates-ron-paul/>
 

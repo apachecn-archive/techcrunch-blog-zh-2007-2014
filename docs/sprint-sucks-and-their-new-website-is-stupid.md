@@ -1,4 +1,4 @@
-# Sprint 很烂，他们的新网站很蠢 TechCrunch
+# Sprint 很烂，他们的新网站很蠢 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/sprint-sucks-and-their-new-website-is-stupid/>
 

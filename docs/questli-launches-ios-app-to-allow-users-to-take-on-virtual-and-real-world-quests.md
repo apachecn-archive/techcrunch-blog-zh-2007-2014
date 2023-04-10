@@ -1,4 +1,4 @@
-# Questli 推出 iOS 应用程序，允许用户接受虚拟和现实世界的任务 TechCrunch
+# Questli 推出 iOS 应用程序，允许用户接受虚拟和现实世界的任务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/questli-launches-ios-app-to-allow-users-to-take-on-virtual-and-real-world-quests/>
 

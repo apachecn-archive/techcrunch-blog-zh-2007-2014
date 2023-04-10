@@ -1,4 +1,4 @@
-# 《猴岛故事》第二章将于 8 月 20 日发布 TechCrunch
+# 《猴岛故事》第二章将于 8 月 20 日发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/06/chapter-2-of-tales-of-monkey-island-to-be-released-on-august-20/>
 

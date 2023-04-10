@@ -1,4 +1,4 @@
-# 雅虎几乎跌到了 10 美元。裁判，请判这场比赛。TechCrunch
+# 雅虎几乎跌到了 10 美元。裁判，请判这场比赛。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/yahoo-almost-to-10-referee-please-call-this-fight/>
 

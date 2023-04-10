@@ -1,4 +1,4 @@
-# 为技术干杯 TechCrunch
+# 为技术干杯 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/01/a-toast-to-technology/>
 

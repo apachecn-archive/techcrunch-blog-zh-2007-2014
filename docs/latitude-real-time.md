@@ -1,4 +1,4 @@
-# Android 上的 Google Latitude 采用实验性实时位置跟踪技术 TechCrunch
+# Android 上的 Google Latitude 采用实验性实时位置跟踪技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/28/latitude-real-time/>
 

@@ -1,4 +1,4 @@
-# 必应的“我们在”Windows Phone 应用是 Foursquare 的另一半 TechCrunch
+# 必应的“我们在”Windows Phone 应用是 Foursquare 的另一半 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/bings-were-in-windows-phone-app-is-foursquares-other-half/>
 

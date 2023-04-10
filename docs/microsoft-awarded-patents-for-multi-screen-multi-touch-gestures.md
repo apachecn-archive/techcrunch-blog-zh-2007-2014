@@ -1,4 +1,4 @@
-# 微软申请多屏多点触控手势专利 TechCrunch
+# 微软申请多屏多点触控手势专利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/microsoft-awarded-patents-for-multi-screen-multi-touch-gestures/>
 

@@ -1,4 +1,4 @@
-# 苹果将出售低于 1000 美元的教育用 iMac TechCrunch
+# 苹果将出售低于 1000 美元的教育用 iMac 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/apple-will-sell-a-sub-1000-imac-for-education/>
 

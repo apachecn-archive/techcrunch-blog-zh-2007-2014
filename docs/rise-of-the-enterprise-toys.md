@@ -1,4 +1,4 @@
-# 企业“玩具”的崛起 TechCrunch
+# 企业“玩具”的崛起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/01/rise-of-the-enterprise-toys/>
 

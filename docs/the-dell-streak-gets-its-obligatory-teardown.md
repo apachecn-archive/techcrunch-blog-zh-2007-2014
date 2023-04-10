@@ -1,4 +1,4 @@
-# 戴尔 Streak 被强制拆卸 TechCrunch
+# 戴尔 Streak 被强制拆卸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/the-dell-streak-gets-its-obligatory-teardown/>
 

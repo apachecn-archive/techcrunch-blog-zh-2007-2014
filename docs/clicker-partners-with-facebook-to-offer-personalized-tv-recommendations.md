@@ -1,4 +1,4 @@
-# Clicker 与脸书合作提供个性化电视推荐 TechCrunch
+# Clicker 与脸书合作提供个性化电视推荐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/15/clicker-partners-with-facebook-to-offer-personalized-tv-recommendations/>
 

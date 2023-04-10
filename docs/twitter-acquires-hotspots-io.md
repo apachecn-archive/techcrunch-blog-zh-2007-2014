@@ -1,4 +1,4 @@
-# Twitter 收购社交分析初创公司 hotspots . io TechCrunch
+# Twitter 收购社交分析初创公司 hotspots . io 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/16/twitter-acquires-hotspots-io/>
 

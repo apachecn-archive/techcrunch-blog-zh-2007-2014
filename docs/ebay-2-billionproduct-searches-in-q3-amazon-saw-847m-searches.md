@@ -1,4 +1,4 @@
-# 第三季度，易贝的美国产品搜索量超过 20 亿次；亚马逊仅看到 8.47 亿 TechCrunch
+# 第三季度，易贝的美国产品搜索量超过 20 亿次；亚马逊仅看到 8.47 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/03/ebay-2-billionproduct-searches-in-q3-amazon-saw-847m-searches/>
 

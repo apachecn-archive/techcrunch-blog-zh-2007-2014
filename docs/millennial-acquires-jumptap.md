@@ -1,4 +1,4 @@
-# 千禧传媒将以 2 亿多美元收购移动广告公司 Jumptap 的千禧股票 TechCrunch
+# 千禧传媒将以 2 亿多美元收购移动广告公司 Jumptap 的千禧股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/13/millennial-acquires-jumptap/>
 

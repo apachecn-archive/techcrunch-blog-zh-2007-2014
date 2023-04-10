@@ -1,4 +1,4 @@
-# 脸书第三季度桌面广告收入下降 2600 万美元，而移动广告收入飙升 2.26 亿美元 TechCrunch
+# 脸书第三季度桌面广告收入下降 2600 万美元，而移动广告收入飙升 2.26 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/30/facebooks-desktop-ad-revenues-fell-26m-in-q3-as-its-mobile-ad-revenue-surged-226m/>
 

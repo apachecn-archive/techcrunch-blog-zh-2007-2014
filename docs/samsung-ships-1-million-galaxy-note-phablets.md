@@ -1,4 +1,4 @@
-# 三星出货 100 万部 Galaxy Note 平板电脑 TechCrunch
+# 三星出货 100 万部 Galaxy Note 平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/29/samsung-ships-1-million-galaxy-note-phablets/>
 

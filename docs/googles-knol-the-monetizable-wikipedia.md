@@ -1,4 +1,4 @@
-# 谷歌推出知识单元，可盈利的维基百科 TechCrunch
+# 谷歌推出知识单元，可盈利的维基百科 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/23/googles-knol-the-monetizable-wikipedia/>
 

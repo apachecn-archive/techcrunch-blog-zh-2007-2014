@@ -1,4 +1,4 @@
-# 阿门的目标是通过智能界面找到最好的东西 TechCrunch
+# 阿门的目标是通过智能界面找到最好的东西 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/amen-aims-to-find-the-best-of-everything-with-a-smart-interface/>
 

@@ -1,4 +1,4 @@
-# Crowdtilt 公开推出其开源、可定制的众筹平台，现名为 crowd tilt Open TechCrunch
+# Crowdtilt 公开推出其开源、可定制的众筹平台，现名为 crowd tilt Open 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/crowdtilt-publicly-launches-its-open-source-customizable-crowdfunding-platform-now-called-crowdtiltopen/>
 

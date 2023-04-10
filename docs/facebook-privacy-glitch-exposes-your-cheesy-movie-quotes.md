@@ -1,4 +1,4 @@
-# 脸书隐私故障暴露你的劣质电影报价 TechCrunch
+# 脸书隐私故障暴露你的劣质电影报价 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/17/facebook-privacy-glitch-exposes-your-cheesy-movie-quotes/>
 

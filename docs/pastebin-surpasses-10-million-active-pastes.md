@@ -1,4 +1,4 @@
-# Pastebin 超过 1000 万个“活跃”粘贴 TechCrunch
+# Pastebin 超过 1000 万个“活跃”粘贴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/pastebin-surpasses-10-million-active-pastes/>
 

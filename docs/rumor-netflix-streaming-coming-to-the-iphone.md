@@ -1,4 +1,4 @@
-# 谣言:网飞流媒体即将登陆 iPhone TechCrunch
+# 谣言:网飞流媒体即将登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/03/rumor-netflix-streaming-coming-to-the-iphone/>
 

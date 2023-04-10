@@ -1,4 +1,4 @@
-# (要么飞，要么死)iPhone 4S TechCrunch
+# (要么飞，要么死)iPhone 4S 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/fly-or-die-iphone-4s/>
 

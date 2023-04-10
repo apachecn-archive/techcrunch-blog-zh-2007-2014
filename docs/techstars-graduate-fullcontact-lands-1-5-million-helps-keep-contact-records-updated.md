@@ -1,4 +1,4 @@
-# TechStars 毕业生 FullContact 获得 150 万美元，帮助更新联系记录 TechCrunch
+# TechStars 毕业生 FullContact 获得 150 万美元，帮助更新联系记录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/techstars-graduate-fullcontact-lands-1-5-million-helps-keep-contact-records-updated/>
 

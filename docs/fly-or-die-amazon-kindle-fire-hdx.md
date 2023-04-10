@@ -1,4 +1,4 @@
-# 飞还是死:亚马逊 Kindle Fire HDX TechCrunch
+# 飞还是死:亚马逊 Kindle Fire HDX 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/08/fly-or-die-amazon-kindle-fire-hdx/>
 

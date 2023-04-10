@@ -1,4 +1,4 @@
-# PSA: Steam 被黑，用户信息可能被盗，但个人数据安全 TechCrunch
+# PSA: Steam 被黑，用户信息可能被盗，但个人数据安全 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/psa-steam-hacked-user-info-stolen-but-personal-data-safe/>
 

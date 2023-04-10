@@ -1,4 +1,4 @@
-# TastemakerX 再融资 125 万美元，将自己定位为乐队的“梦幻联盟”TechCrunch
+# TastemakerX 再融资 125 万美元，将自己定位为乐队的“梦幻联盟”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/07/tastemakerx-raises-another-1-25m-to-position-itself-as-fantasy-league-for-bands/>
 

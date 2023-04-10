@@ -1,4 +1,4 @@
-# Impala:另一个受谷歌启发的平台进入主流数据世界 TechCrunch
+# Impala:另一个受谷歌启发的平台进入主流数据世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/15/impala-another-google-inspired-platform-enters-the-mainstream-data-world/>
 

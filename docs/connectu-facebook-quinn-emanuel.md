@@ -1,4 +1,4 @@
-# 法官命令 ConnectU 在脸书案件中向其前律师支付 1300 万美元 TechCrunch
+# 法官命令 ConnectU 在脸书案件中向其前律师支付 1300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/11/connectu-facebook-quinn-emanuel/>
 

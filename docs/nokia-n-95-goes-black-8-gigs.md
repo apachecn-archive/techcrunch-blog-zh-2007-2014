@@ -1,4 +1,4 @@
-# 诺基亚 N-95 转向黑色，8g–TechCrunch
+# 诺基亚 N-95 转向黑色，8g–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/nokia-n-95-goes-black-8-gigs/>
 

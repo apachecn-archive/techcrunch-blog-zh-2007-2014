@@ -1,4 +1,4 @@
-# Dropbox:我们期待已久的在线存储解决方案？TechCrunch
+# Dropbox:我们期待已久的在线存储解决方案？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/11/dropbox-the-online-storage-solution-weve-been-waiting-for/>
 

@@ -1,4 +1,4 @@
-# Pogoplug Cloud 发布，为移动用户提供 5 GB 免费存储 TechCrunch
+# Pogoplug Cloud 发布，为移动用户提供 5 GB 免费存储 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/pogoplug-cloud-launches-with-5-gb-of-free-storage-for-mobile-users/>
 

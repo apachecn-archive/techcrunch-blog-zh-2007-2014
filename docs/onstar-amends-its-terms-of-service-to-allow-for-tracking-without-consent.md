@@ -1,4 +1,4 @@
-# 安吉星修改其服务条款，允许未经同意进行跟踪 TechCrunch
+# 安吉星修改其服务条款，允许未经同意进行跟踪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/onstar-amends-its-terms-of-service-to-allow-for-tracking-without-consent/>
 

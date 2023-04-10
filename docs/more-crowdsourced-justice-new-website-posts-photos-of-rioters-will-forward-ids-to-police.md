@@ -1,4 +1,4 @@
-# 新网站贴出暴徒的照片，将身份转发给警方 TechCrunch
+# 新网站贴出暴徒的照片，将身份转发给警方 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/more-crowdsourced-justice-new-website-posts-photos-of-rioters-will-forward-ids-to-police/>
 

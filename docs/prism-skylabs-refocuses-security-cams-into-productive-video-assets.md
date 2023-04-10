@@ -1,4 +1,4 @@
-# Prism Skylabs 将安全摄像头重新聚焦于生产视频资产 TechCrunch
+# Prism Skylabs 将安全摄像头重新聚焦于生产视频资产 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/prism-skylabs-refocuses-security-cams-into-productive-video-assets/>
 

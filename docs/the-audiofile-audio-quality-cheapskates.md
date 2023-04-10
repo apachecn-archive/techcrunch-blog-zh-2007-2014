@@ -1,4 +1,4 @@
-# 音频文件:音频质量小气鬼——TechCrunch
+# 音频文件:音频质量小气鬼——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/24/the-audiofile-audio-quality-cheapskates/>
 

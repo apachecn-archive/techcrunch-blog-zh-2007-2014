@@ -1,4 +1,4 @@
-# 增强型电子书:有价值的销售工具还是噱头？TechCrunch
+# 增强型电子书:有价值的销售工具还是噱头？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/enhanced-ebooks-valuable-sales-tool-or-just-a-gimmick-tctv/>
 

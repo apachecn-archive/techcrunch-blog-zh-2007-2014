@@ -1,4 +1,4 @@
-# Dimdim 首次推出托管网络会议解决方案 TechCrunch
+# Dimdim 首次推出托管网络会议解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/10/dimdim-debuts-hosted-web-conferencing-solution/>
 

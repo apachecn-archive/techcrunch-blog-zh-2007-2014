@@ -1,4 +1,4 @@
-# 可点击视频的修订 3 和视频 Clix 团队 TechCrunch
+# 可点击视频的修订 3 和视频 Clix 团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/14/revision3-and-videoclix-team-for-clickable-videos/>
 

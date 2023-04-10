@@ -1,4 +1,4 @@
-# 脸书打击垃圾应用，为游戏提供自己的仪表盘链接 TechCrunch
+# 脸书打击垃圾应用，为游戏提供自己的仪表盘链接 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/29/facebook-fights-app-spam-gives-games-its-own-dashboard-link/>
 

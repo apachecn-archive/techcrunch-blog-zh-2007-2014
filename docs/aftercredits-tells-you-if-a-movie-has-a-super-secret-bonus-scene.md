@@ -1,4 +1,4 @@
-# AfterCredits 告诉你一部电影是否有超级秘密的奖金场景 TechCrunch
+# AfterCredits 告诉你一部电影是否有超级秘密的奖金场景 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/26/aftercredits-tells-you-if-a-movie-has-a-super-secret-bonus-scene/>
 

@@ -1,4 +1,4 @@
-# Twitter 聘请前 Oracle 开发主管担任基础设施工程副总裁 TechCrunch
+# Twitter 聘请前 Oracle 开发主管担任基础设施工程副总裁 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/twitter-nabs-former-oracle-development-exec-as-new-vp-infrastructure-engineering/>
 

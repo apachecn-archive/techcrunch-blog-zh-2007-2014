@@ -1,4 +1,4 @@
-# 雷德·哈斯汀斯:“我们预计 DVD 订户每个季度都会下降...永远”TechCrunch
+# 雷德·哈斯汀斯:“我们预计 DVD 订户每个季度都会下降...永远”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/reed-hastings-we-expect-dvd-subscribers-to-decline-every-quarter-forever/>
 

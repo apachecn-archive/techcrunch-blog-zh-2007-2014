@@ -1,4 +1,4 @@
-# 如何聪明地开始:接近孵化器时要知道的五件事 TechCrunch
+# 如何聪明地开始:接近孵化器时要知道的五件事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/14/how-to-start-smart-the-five-things-to-know-when-approaching-an-incubator/>
 

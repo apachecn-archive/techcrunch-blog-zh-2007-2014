@@ -1,4 +1,4 @@
-# 谷歌获得首席财务官。他得到了他的发薪日。TechCrunch
+# 谷歌获得首席财务官。他得到了他的发薪日。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/26/google-gets-its-cfo/>
 

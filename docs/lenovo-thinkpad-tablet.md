@@ -1,4 +1,4 @@
-# 联想 ThinkPad 蜂巢平板电脑上市销售，即将发货 TechCrunch
+# 联想 ThinkPad 蜂巢平板电脑上市销售，即将发货 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/lenovo-thinkpad-tablet/>
 

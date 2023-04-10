@@ -1,4 +1,4 @@
-# 动手操作 HereO，这款小巧简单的 GPS 手表专为儿童打造 TechCrunch
+# 动手操作 HereO，这款小巧简单的 GPS 手表专为儿童打造 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/16/hands-on-with-hereo-the-small-and-simple-gps-watch-made-especially-for-kids/>
 

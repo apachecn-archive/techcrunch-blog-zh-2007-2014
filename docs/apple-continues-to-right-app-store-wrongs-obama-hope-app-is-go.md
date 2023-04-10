@@ -1,4 +1,4 @@
-# 苹果继续纠正应用商店的错误。奥巴马的“希望”应用程序是去。TechCrunch
+# 苹果继续纠正应用商店的错误。奥巴马的“希望”应用程序是去。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/21/apple-continues-to-right-app-store-wrongs-obama-hope-app-is-go/>
 

@@ -1,4 +1,4 @@
-# OpenCandy 为你可能真正想要的捆绑软件筹集了 500 万美元的 B 轮融资 TechCrunch
+# OpenCandy 为你可能真正想要的捆绑软件筹集了 500 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/opencandy-raises-5-million-series-b-for-bundled-software-you-might-actually-want/>
 

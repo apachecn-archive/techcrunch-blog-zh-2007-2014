@@ -1,4 +1,4 @@
-# 感觉:iPad 比 Galaxy Tab 更值钱 TechCrunch
+# 感觉:iPad 比 Galaxy Tab 更值钱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/02/perception-an-ipad-is-worth-more-than-a-galaxy-tab/>
 

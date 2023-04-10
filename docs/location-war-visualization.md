@@ -1,4 +1,4 @@
-# SXSW 的位置战是什么样子的？像这样。TechCrunch
+# SXSW 的位置战是什么样子的？像这样。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/25/location-war-visualization/>
 

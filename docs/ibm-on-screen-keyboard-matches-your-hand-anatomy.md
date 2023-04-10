@@ -1,4 +1,4 @@
-# IBM 屏幕键盘符合您的手部解剖学 TechCrunch
+# IBM 屏幕键盘符合您的手部解剖学 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/ibm-on-screen-keyboard-matches-your-hand-anatomy/>
 

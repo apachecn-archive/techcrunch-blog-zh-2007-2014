@@ -1,4 +1,4 @@
-# 观点:SanDisk SlotMusic 播放器是个好主意 TechCrunch
+# 观点:SanDisk SlotMusic 播放器是个好主意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/15/opinion-sandisk-slotmusic-player-is-a-good-idea/>
 

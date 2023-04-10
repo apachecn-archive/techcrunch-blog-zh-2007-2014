@@ -1,4 +1,4 @@
-# Zillow 将 IPO 定价为每股 20 美元，目前估值接近 5.4 亿美元 TechCrunch
+# Zillow 将 IPO 定价为每股 20 美元，目前估值接近 5.4 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/zillow-prices-ipo-at-20-per-share-now-valued-at-nearly-540-million/>
 

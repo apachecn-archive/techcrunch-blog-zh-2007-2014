@@ -1,4 +1,4 @@
-# 视频:这款相机即使在黑暗中也能拍摄彩色视频 TechCrunch
+# 视频:这款相机即使在黑暗中也能拍摄彩色视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/03/videos-this-camera-shoots-color-video-even-in-darkness/>
 

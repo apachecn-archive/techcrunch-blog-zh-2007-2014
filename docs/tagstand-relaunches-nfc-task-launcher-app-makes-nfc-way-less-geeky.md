@@ -1,4 +1,4 @@
-# Tagstand 重新推出 NFC 任务启动器应用程序，让 NFC 变得不那么令人讨厌 TechCrunch
+# Tagstand 重新推出 NFC 任务启动器应用程序，让 NFC 变得不那么令人讨厌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/23/tagstand-relaunches-nfc-task-launcher-app-makes-nfc-way-less-geeky/>
 

@@ -1,4 +1,4 @@
-# Edgeio 起价 25 万美元 TechCrunch
+# Edgeio 起价 25 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/11/edgeio-bids-start-at-250000/>
 

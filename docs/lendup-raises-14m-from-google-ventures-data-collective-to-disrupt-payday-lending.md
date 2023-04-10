@@ -1,4 +1,4 @@
-# LendUp 从谷歌风投(Google Ventures)融资 1400 万美元，扰乱发薪日贷款 TechCrunch
+# LendUp 从谷歌风投(Google Ventures)融资 1400 万美元，扰乱发薪日贷款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/lendup-raises-14m-from-google-ventures-data-collective-to-disrupt-payday-lending/>
 

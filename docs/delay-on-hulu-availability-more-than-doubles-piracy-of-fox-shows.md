@@ -1,4 +1,4 @@
-# Hulu 延迟发布导致福克斯节目盗版增加一倍多 TechCrunch
+# Hulu 延迟发布导致福克斯节目盗版增加一倍多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/delay-on-hulu-availability-more-than-doubles-piracy-of-fox-shows/>
 

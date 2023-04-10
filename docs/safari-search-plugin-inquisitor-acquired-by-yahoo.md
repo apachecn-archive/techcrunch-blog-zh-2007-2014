@@ -1,4 +1,4 @@
-# 雅虎收购 Safari 搜索插件 Inquisitor！TechCrunch
+# 雅虎收购 Safari 搜索插件 Inquisitor！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/09/safari-search-plugin-inquisitor-acquired-by-yahoo/>
 

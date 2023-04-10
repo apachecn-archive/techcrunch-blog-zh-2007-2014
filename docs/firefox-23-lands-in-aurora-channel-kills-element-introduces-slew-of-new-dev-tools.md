@@ -1,4 +1,4 @@
-# Firefox 23 登陆极光频道:杀死眨眼元素，引入大量新开发工具 TechCrunch
+# Firefox 23 登陆极光频道:杀死眨眼元素，引入大量新开发工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/17/firefox-23-lands-in-aurora-channel-kills-element-introduces-slew-of-new-dev-tools/>
 

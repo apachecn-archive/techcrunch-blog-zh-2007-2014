@@ -1,4 +1,4 @@
-# 视频:夏季 NAMM 会议小工具回顾 TechCrunch
+# 视频:夏季 NAMM 会议小工具回顾 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/video-summer-namm-conference-gadget-recap/>
 

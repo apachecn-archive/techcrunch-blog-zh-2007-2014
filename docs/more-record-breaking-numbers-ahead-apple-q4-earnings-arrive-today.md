@@ -1,4 +1,4 @@
-# 更多破纪录的数字在前面？苹果第四季度收益今天出炉 TechCrunch
+# 更多破纪录的数字在前面？苹果第四季度收益今天出炉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/more-record-breaking-numbers-ahead-apple-q4-earnings-arrive-today/>
 

@@ -1,4 +1,4 @@
-# 意外收获不是一个用例 TechCrunch
+# 意外收获不是一个用例 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/21/serendipity-isnt-a-use-case/>
 

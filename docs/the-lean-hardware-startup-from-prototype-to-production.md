@@ -1,4 +1,4 @@
-# 精益硬件创业:从原型到生产 TechCrunch
+# 精益硬件创业:从原型到生产 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/16/the-lean-hardware-startup-from-prototype-to-production/>
 

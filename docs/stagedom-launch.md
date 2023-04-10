@@ -1,4 +1,4 @@
-# Stagedom:一个 iPhone 应用程序，用于跟踪您最喜爱的音乐人的更新 TechCrunch
+# Stagedom:一个 iPhone 应用程序，用于跟踪您最喜爱的音乐人的更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/07/31/stagedom-launch/>
 

@@ -1,4 +1,4 @@
-# ThingLink 启动实验室，首个项目:支持 NFC 的可打印图像 TechCrunch
+# ThingLink 启动实验室，首个项目:支持 NFC 的可打印图像 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/thinglink-launches-labs-first-project-printable-nfc-tags/>
 

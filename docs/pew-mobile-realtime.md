@@ -1,4 +1,4 @@
-# 皮尤调查:半数美国手机消费者使用手机进行实时信息检索 TechCrunch
+# 皮尤调查:半数美国手机消费者使用手机进行实时信息检索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/pew-mobile-realtime/>
 

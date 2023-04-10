@@ -1,4 +1,4 @@
-# 信息大军:竖锯创始人的新创业公司处理竞争情报 TechCrunch
+# 信息大军:竖锯创始人的新创业公司处理竞争情报 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/12/infoarmy-jim-fowler-launch/>
 

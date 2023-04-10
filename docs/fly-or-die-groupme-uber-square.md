@@ -1,4 +1,4 @@
-# 飞还是死(Crunchies 版):GroupMe，优步，Square TechCrunch
+# 飞还是死(Crunchies 版):GroupMe，优步，Square 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/23/fly-or-die-groupme-uber-square/>
 

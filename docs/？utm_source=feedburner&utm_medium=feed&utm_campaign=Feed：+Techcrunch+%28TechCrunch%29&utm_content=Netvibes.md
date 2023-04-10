@@ -1,4 +1,4 @@
-# 创业美国:一场庆祝、激励和加速创业的运动 TechCrunch
+# 创业美国:一场庆祝、激励和加速创业的运动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/startup-america-a-campaign-to-celebrate-inspire-and-accelerate-entrepreneurship/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+%28TechCrunch%29&utm_content=Netvibes>
 

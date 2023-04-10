@@ -1,4 +1,4 @@
-# DLD11:谷歌玛丽莎·梅耶尔谈埃里克·施密特辞去首席执行官 TechCrunch
+# DLD11:谷歌玛丽莎·梅耶尔谈埃里克·施密特辞去首席执行官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/dld11-googles-marissa-mayer-on-eric-schmidt-stepping-down-as-ceo/>
 

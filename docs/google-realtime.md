@@ -1,4 +1,4 @@
-# 谷歌旨在通过实时结果推动光速。说真的。TechCrunch
+# 谷歌旨在通过实时结果推动光速。说真的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/07/google-realtime/>
 

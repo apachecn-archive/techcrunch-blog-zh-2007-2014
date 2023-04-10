@@ -1,4 +1,4 @@
-# Freelancer.com:脸书应用程序、3D、HTML5 和 Cocoa Jobs 正在崛起 TechCrunch
+# Freelancer.com:脸书应用程序、3D、HTML5 和 Cocoa Jobs 正在崛起 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/freelancer-com-facebook-app-3d-html5-and-cocoa-jobs-on-the-rise/>
 

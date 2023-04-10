@@ -1,4 +1,4 @@
-# 克里斯·迪克森和乔希·科佩尔曼的创始人办公时间:马德布鲁克出版社 TechCrunch
+# 克里斯·迪克森和乔希·科佩尔曼的创始人办公时间:马德布鲁克出版社 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/03/founder-office-hours-with-chris-dixon-and-josh-kopelman-madbrook-publishing/>
 

@@ -1,4 +1,4 @@
-# Gowalla 最终发布了他们的签入 API，提供了一些不错的工具和 OAuth 2 支持 TechCrunch
+# Gowalla 最终发布了他们的签入 API，提供了一些不错的工具和 OAuth 2 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/09/gowalla-check-in-api/>
 

@@ -1,4 +1,4 @@
-# FCC 宣布威瑞森不再对网络共享收费 TechCrunch
+# FCC 宣布威瑞森不再对网络共享收费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/verizon-can-no-longer-charge-for-tethering-fcc-declares/>
 

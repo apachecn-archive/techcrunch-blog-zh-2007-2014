@@ -1,4 +1,4 @@
-# 东京 Meetup 笔记:日本最酷(也最古怪)的初创公司 TechCrunch
+# 东京 Meetup 笔记:日本最酷(也最古怪)的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/04/tokyo-meetup-notes-japans-coolest-and-weirdest-startups/>
 

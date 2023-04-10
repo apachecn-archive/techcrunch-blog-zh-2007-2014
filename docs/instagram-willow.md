@@ -1,4 +1,4 @@
-# Instagram iOS 3.2 更新重新设计了相机和图像选择器，添加了单色柳树滤镜(也适用于 Android)TechCrunch
+# Instagram iOS 3.2 更新重新设计了相机和图像选择器，添加了单色柳树滤镜(也适用于 Android)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/10/instagram-willow/>
 

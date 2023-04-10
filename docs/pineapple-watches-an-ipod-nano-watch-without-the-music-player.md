@@ -1,4 +1,4 @@
-# 菠萝手表:没有音乐播放器的 iPod Nano 手表 TechCrunch
+# 菠萝手表:没有音乐播放器的 iPod Nano 手表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/pineapple-watches-an-ipod-nano-watch-without-the-music-player/>
 

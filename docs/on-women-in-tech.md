@@ -1,4 +1,4 @@
-# 科技领域的女性 TechCrunch
+# 科技领域的女性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/25/on-women-in-tech/>
 

@@ -1,4 +1,4 @@
-# “目标突破洪水”已经出现在卡黑市上；目标反应 TechCrunch
+# “目标突破洪水”已经出现在卡黑市上；目标反应 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/20/the-target-breach-flood-is-already-appearing-on-the-carder-black-market-target-reacts/>
 

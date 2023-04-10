@@ -1,4 +1,4 @@
-# Orkut 是社交网络重量级人物吗？康姆斯克同意了。TechCrunch
+# Orkut 是社交网络重量级人物吗？康姆斯克同意了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/24/is-orkut-a-social-networking-heavyweight-comscore-says-yes/?year=2007&monthnum=08&day=24&like=1>
 

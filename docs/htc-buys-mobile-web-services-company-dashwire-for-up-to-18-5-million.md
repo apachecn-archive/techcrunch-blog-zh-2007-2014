@@ -1,4 +1,4 @@
-# HTC 以 1850 万美元收购移动网络服务公司 dash wire TechCrunch
+# HTC 以 1850 万美元收购移动网络服务公司 dash wire 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/htc-buys-mobile-web-services-company-dashwire-for-up-to-18-5-million/>
 

@@ -1,4 +1,4 @@
-# 拆解新的 13 英寸 MacBook Air 发现与旧型号几乎没有区别 TechCrunch
+# 拆解新的 13 英寸 MacBook Air 发现与旧型号几乎没有区别 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/teardown-of-new-13-macbook-air-finds-almost-no-differences-from-old-model/>
 

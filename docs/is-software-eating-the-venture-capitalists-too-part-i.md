@@ -1,4 +1,4 @@
-# 股权众筹对风险投资家来说是威胁吗？TechCrunch
+# 股权众筹对风险投资家来说是威胁吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/17/is-software-eating-the-venture-capitalists-too-part-i/>
 

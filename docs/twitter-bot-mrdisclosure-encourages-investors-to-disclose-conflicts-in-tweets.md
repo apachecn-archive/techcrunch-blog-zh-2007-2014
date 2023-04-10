@@ -1,4 +1,4 @@
-# Twitter Bot @MrDisclosure 希望投资者在推文中披露冲突 TechCrunch
+# Twitter Bot @MrDisclosure 希望投资者在推文中披露冲突 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/twitter-bot-mrdisclosure-encourages-investors-to-disclose-conflicts-in-tweets/>
 

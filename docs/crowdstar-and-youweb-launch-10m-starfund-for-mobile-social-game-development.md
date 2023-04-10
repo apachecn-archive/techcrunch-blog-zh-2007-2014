@@ -1,4 +1,4 @@
-# CrowdStar 和 YouWeb 启动 1000 万美元的 StarFund 用于移动社交游戏开发 TechCrunch
+# CrowdStar 和 YouWeb 启动 1000 万美元的 StarFund 用于移动社交游戏开发 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/15/crowdstar-and-youweb-launch-10m-starfund-for-mobile-social-game-development/>
 

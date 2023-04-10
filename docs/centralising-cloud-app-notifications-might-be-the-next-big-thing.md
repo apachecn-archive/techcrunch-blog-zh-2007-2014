@@ -1,4 +1,4 @@
-# 集中云应用通知可能是下一件大事 TechCrunch
+# 集中云应用通知可能是下一件大事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/centralising-cloud-app-notifications-might-be-the-next-big-thing/>
 

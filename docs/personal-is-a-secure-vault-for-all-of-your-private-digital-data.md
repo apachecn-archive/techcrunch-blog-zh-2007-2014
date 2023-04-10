@@ -1,4 +1,4 @@
-# 个人是您所有私人数字数据的安全保险库 TechCrunch
+# 个人是您所有私人数字数据的安全保险库 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/personal-is-a-secure-vault-for-all-of-your-private-digital-data/>
 

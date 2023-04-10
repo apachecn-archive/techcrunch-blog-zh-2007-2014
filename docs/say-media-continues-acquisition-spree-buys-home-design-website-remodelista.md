@@ -1,4 +1,4 @@
-# 说媒体继续收购狂潮，收购家居设计网站 Remodelista TechCrunch
+# 说媒体继续收购狂潮，收购家居设计网站 Remodelista 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/say-media-continues-acquisition-spree-buys-home-design-website-remodelista/>
 

@@ -1,4 +1,4 @@
-# WebEx 推出面向小型企业的半价产品 TechCrunch
+# WebEx 推出面向小型企业的半价产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/new-cheaper-webex-plan/>
 

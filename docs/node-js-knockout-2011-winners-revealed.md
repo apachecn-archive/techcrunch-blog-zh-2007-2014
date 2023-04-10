@@ -1,4 +1,4 @@
-# Node.js 淘汰赛 2011 获奖者揭晓 TechCrunch
+# Node.js 淘汰赛 2011 获奖者揭晓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/node-js-knockout-2011-winners-revealed/>
 

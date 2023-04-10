@@ -1,4 +1,4 @@
-# Shoutz 移动应用将视频与 Twitter 风格的社交网络结合在一起 TechCrunch
+# Shoutz 移动应用将视频与 Twitter 风格的社交网络结合在一起 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/shoutz-mobile-app-marries-video-with-a-twitter-style-social-network/>
 

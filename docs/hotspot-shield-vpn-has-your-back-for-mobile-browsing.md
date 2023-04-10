@@ -1,4 +1,4 @@
-# Hotspot Shield VPN 支持您进行移动浏览 TechCrunch
+# Hotspot Shield VPN 支持您进行移动浏览 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/hotspot-shield-vpn-has-your-back-for-mobile-browsing/>
 

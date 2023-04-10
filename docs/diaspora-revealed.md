@@ -1,4 +1,4 @@
-# 脸书竞争对手 Diaspora 透露:稀疏，但干净；发布源代码 TechCrunch
+# 脸书竞争对手 Diaspora 透露:稀疏，但干净；发布源代码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/15/diaspora-revealed/>
 

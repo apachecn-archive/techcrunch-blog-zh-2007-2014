@@ -1,4 +1,4 @@
-# 这是官方消息:最好的老板都会读 TechCrunch！TechCrunch
+# 这是官方消息:最好的老板都会读 TechCrunch！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/10/its-official-the-best-bosses-read-techcrunch/>
 

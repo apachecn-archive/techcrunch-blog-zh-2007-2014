@@ -1,4 +1,4 @@
-# Gridstore 为基于网格的横向扩展存储筹集了 1250 万美元的 A 轮融资 TechCrunch
+# Gridstore 为基于网格的横向扩展存储筹集了 1250 万美元的 A 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/15/gridstore-raises-12-5-million-in-series-a-financing-for-grid-based-scale-out-storage/>
 

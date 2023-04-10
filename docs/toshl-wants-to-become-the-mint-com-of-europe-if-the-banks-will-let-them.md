@@ -1,4 +1,4 @@
-# 托什尔希望成为欧洲的 Mint.com，如果银行允许的话 TechCrunch
+# 托什尔希望成为欧洲的 Mint.com，如果银行允许的话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/14/toshl-wants-to-become-the-mint-com-of-europe-if-the-banks-will-let-them/>
 

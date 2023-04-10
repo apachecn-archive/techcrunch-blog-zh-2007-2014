@@ -1,4 +1,4 @@
-# 萌芽社交升级支持 iOS 的社交媒体管理平台、个性化仪表盘等 TechCrunch
+# 萌芽社交升级支持 iOS 的社交媒体管理平台、个性化仪表盘等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/sprout-social-upgrades-social-media-management-platform-with-ios-support-personalized-dashboards-and-more/>
 

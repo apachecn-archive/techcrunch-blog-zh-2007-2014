@@ -1,4 +1,4 @@
-# 不，JCPR /埃德尔曼，我不会把 iPhone 的性感故事拿下来 TechCrunch
+# 不，JCPR /埃德尔曼，我不会把 iPhone 的性感故事拿下来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/no-jcpr-edelman-im-not-taking-that-iphone-survey-story-down/>
 

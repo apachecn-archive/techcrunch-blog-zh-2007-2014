@@ -1,4 +1,4 @@
-# 在社交+资本的支持下，Brilliant.org 正在寻找并挑战世界上最聪明的技术人才 TechCrunch
+# 在社交+资本的支持下，Brilliant.org 正在寻找并挑战世界上最聪明的技术人才 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/11/backed-by-social-captial-brilliant-org-is-finding-and-challenging-the-brightest-technical-talent-in-the-world/>
 

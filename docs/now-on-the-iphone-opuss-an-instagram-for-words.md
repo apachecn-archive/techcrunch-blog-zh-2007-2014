@@ -1,4 +1,4 @@
-# 现在在 iPhone 上:Opuss，一个 insta gram For Words TechCrunch
+# 现在在 iPhone 上:Opuss，一个 insta gram For Words 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/07/now-on-the-iphone-opuss-an-instagram-for-words/>
 

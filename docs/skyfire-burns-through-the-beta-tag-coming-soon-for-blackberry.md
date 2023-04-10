@@ -1,4 +1,4 @@
-# 天火燃烧通过测试标签，即将为黑莓 TechCrunch
+# 天火燃烧通过测试标签，即将为黑莓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/27/skyfire-burns-through-the-beta-tag-coming-soon-for-blackberry/>
 

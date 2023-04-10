@@ -1,4 +1,4 @@
-# 马克·扎克伯格在建立王朝的问题上应该三思吗？TechCrunch
+# 马克·扎克伯格在建立王朝的问题上应该三思吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/11/mark-zuckerberg-dynasty/>
 

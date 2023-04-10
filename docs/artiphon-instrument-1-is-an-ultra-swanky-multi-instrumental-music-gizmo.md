@@ -1,4 +1,4 @@
-# Artiphon Instrument 1 是一个超豪华的多乐器音乐小发明 TechCrunch
+# Artiphon Instrument 1 是一个超豪华的多乐器音乐小发明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/10/artiphon-instrument-1-is-an-ultra-swanky-multi-instrumental-music-gizmo/>
 

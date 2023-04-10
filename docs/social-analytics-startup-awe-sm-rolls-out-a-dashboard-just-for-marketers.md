@@ -1,4 +1,4 @@
-# 社交分析初创公司 Awe.sm 推出专为营销人员设计的仪表盘 TechCrunch
+# 社交分析初创公司 Awe.sm 推出专为营销人员设计的仪表盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/social-analytics-startup-awe-sm-rolls-out-a-dashboard-just-for-marketers/>
 

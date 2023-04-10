@@ -1,4 +1,4 @@
-# Twitter 上充斥着声称收到姜饼的 Nexus One 用户 TechCrunch
+# Twitter 上充斥着声称收到姜饼的 Nexus One 用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/23/twitter-awash-with-nexus-one-owners-claiming-to-have-received-gingerbread/>
 

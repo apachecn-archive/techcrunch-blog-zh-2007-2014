@@ -1,4 +1,4 @@
-# 黑客新闻试图用待定评论解决其评论问题 TechCrunch
+# 黑客新闻试图用待定评论解决其评论问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/22/hacker-news-pending-comments/>
 

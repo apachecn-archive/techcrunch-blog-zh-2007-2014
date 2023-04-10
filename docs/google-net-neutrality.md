@@ -1,4 +1,4 @@
-# 谷歌，别废话了，给戈登盖柯演讲吧 TechCrunch
+# 谷歌，别废话了，给戈登盖柯演讲吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/13/google-net-neutrality/>
 

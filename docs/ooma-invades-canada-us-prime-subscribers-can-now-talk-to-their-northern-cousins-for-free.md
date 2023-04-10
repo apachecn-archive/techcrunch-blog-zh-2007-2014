@@ -1,4 +1,4 @@
-# Ooma 入侵加拿大，美国 Premier 订户现在可以与他们的北方表亲免费通话 TechCrunch
+# Ooma 入侵加拿大，美国 Premier 订户现在可以与他们的北方表亲免费通话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/ooma-invades-canada-us-prime-subscribers-can-now-talk-to-their-northern-cousins-for-free/>
 

@@ -1,4 +1,4 @@
-# 谷歌联合创始人公布了他最新的登月计划:试管汉堡 TechCrunch
+# 谷歌联合创始人公布了他最新的登月计划:试管汉堡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/05/google-co-founder-unveils-his-latest-moon-shot-a-test-tube-burger/>
 

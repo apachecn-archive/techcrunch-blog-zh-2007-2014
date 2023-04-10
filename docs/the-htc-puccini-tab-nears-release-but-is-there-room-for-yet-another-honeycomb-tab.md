@@ -1,4 +1,4 @@
-# 宏达普契尼标签即将发布，但还有空间为另一个蜂窝标签？TechCrunch
+# 宏达普契尼标签即将发布，但还有空间为另一个蜂窝标签？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/the-htc-puccini-tab-nears-release-but-is-there-room-for-yet-another-honeycomb-tab/>
 

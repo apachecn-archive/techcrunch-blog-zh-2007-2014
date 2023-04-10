@@ -1,4 +1,4 @@
-# 美国在清洁技术领域的风险投资在第三季度大幅下降，能源效率逆势而上 TechCrunch
+# 美国在清洁技术领域的风险投资在第三季度大幅下降，能源效率逆势而上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/01/us-cleantech-investments-q3-2010/>
 

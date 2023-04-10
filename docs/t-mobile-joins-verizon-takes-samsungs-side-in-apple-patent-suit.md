@@ -1,4 +1,4 @@
-# T-Mobile 加入威瑞森，在苹果专利诉讼中支持三星 TechCrunch
+# T-Mobile 加入威瑞森，在苹果专利诉讼中支持三星 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/t-mobile-joins-verizon-takes-samsungs-side-in-apple-patent-suit/>
 

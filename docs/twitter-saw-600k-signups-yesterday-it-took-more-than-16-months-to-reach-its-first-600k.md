@@ -1,4 +1,4 @@
-# Twitter 昨天注册了 60 万人，花了 16 个多月才达到第一个 60 万人 TechCrunch
+# Twitter 昨天注册了 60 万人，花了 16 个多月才达到第一个 60 万人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/15/twitter-saw-600k-signups-yesterday-it-took-more-than-16-months-to-reach-its-first-600k/>
 

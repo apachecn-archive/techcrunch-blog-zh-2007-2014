@@ -1,4 +1,4 @@
-# 杰森·卡拉卡尼斯的扑克脸 TechCrunch
+# 杰森·卡拉卡尼斯的扑克脸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/21/calacanis-poker-face/>
 

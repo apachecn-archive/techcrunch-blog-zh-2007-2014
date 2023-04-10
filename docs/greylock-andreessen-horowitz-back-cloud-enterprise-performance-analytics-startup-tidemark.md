@@ -1,4 +1,4 @@
-# Greylock，Andre essen Horowitz Back Cloud Enterprise Performance Analytics 初创公司 tide mark TechCrunch
+# Greylock，Andre essen Horowitz Back Cloud Enterprise Performance Analytics 初创公司 tide mark 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/greylock-andreessen-horowitz-back-cloud-enterprise-performance-analytics-startup-tidemark/>
 

@@ -1,4 +1,4 @@
-# 为什么创业公司都涌向顺丰？硅谷已经没有空间了 TechCrunch
+# 为什么创业公司都涌向顺丰？硅谷已经没有空间了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/23/title-why-are-startups-flocking-to-sf-theres-no-more-room-in-silicon-valleys-inn/>
 

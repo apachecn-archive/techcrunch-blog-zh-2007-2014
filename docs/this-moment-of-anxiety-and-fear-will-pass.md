@@ -1,4 +1,4 @@
-# 焦虑和恐惧的时刻将会过去 TechCrunch
+# 焦虑和恐惧的时刻将会过去 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/this-moment-of-anxiety-and-fear-will-pass/>
 

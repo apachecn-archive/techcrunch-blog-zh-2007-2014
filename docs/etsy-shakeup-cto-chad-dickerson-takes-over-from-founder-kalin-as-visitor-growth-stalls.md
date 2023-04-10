@@ -1,4 +1,4 @@
-# Etsy Shakeup: CTO Chad Dickerson 接替创始人卡琳担任 CEO，访客增长停滞 TechCrunch
+# Etsy Shakeup: CTO Chad Dickerson 接替创始人卡琳担任 CEO，访客增长停滞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/etsy-shakeup-cto-chad-dickerson-takes-over-from-founder-kalin-as-visitor-growth-stalls/>
 

@@ -1,4 +1,4 @@
-# Rdio 增加了对电视音乐流的 Chromecast 支持 TechCrunch
+# Rdio 增加了对电视音乐流的 Chromecast 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/rdio-adds-chromecast-support-for-tv-music-streaming/>
 

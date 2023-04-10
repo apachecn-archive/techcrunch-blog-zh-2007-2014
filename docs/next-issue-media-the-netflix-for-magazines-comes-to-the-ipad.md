@@ -1,4 +1,4 @@
-# 下期媒体，杂志的网飞，来到 iPad TechCrunch
+# 下期媒体，杂志的网飞，来到 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/09/next-issue-media-the-netflix-for-magazines-comes-to-the-ipad/>
 

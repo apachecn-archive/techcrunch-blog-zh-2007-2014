@@ -1,4 +1,4 @@
-# 不要再对丑陋的 iPhone 5c 外壳绝望了 TechCrunch
+# 不要再对丑陋的 iPhone 5c 外壳绝望了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/11/dont-despair-over-the-ugly-iphone-5c-case-any-longer/>
 

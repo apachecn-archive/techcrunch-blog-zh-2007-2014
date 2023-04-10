@@ -1,4 +1,4 @@
-# 今日内战:我很久以来见过的最酷的 iPad 应用之一 TechCrunch
+# 今日内战:我很久以来见过的最酷的 iPad 应用之一 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/21/the-civil-war-today-one-of-the-coolest-ipad-apps-ive-seen-in-a-long-time/>
 

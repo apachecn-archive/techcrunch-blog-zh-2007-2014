@@ -1,4 +1,4 @@
-# LivePlace 将推出在云中渲染的照片级虚拟世界 TechCrunch
+# LivePlace 将推出在云中渲染的照片级虚拟世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/11/liveplace-to-launch-photo-realistic-virtual-world-rendered-in-the-cloud/>
 

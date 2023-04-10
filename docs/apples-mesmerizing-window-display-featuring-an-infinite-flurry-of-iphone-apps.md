@@ -1,4 +1,4 @@
-# 苹果令人着迷的新窗口展示，展示了无穷无尽的 iPhone 应用程序 TechCrunch
+# 苹果令人着迷的新窗口展示，展示了无穷无尽的 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/22/apples-mesmerizing-window-display-featuring-an-infinite-flurry-of-iphone-apps/>
 

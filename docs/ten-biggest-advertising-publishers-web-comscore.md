@@ -1,4 +1,4 @@
-# 网络上十大广告发布商 TechCrunch
+# 网络上十大广告发布商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/08/ten-biggest-advertising-publishers-web-comscore/>
 

@@ -1,4 +1,4 @@
-# Kindle 正在超越早期的 iPod 销售吗？TechCrunch
+# Kindle 正在超越早期的 iPod 销售吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/03/is-the-kindle-outpacing-early-ipod-sales/>
 

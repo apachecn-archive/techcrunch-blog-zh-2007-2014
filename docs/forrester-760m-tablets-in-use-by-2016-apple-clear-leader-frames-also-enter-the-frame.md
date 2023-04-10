@@ -1,4 +1,4 @@
-# Forrester:2016 年平板电脑使用量将达到 7.6 亿台，苹果“明显领先”，框架也将进入框架 TechCrunch
+# Forrester:2016 年平板电脑使用量将达到 7.6 亿台，苹果“明显领先”，框架也将进入框架 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/24/forrester-760m-tablets-in-use-by-2016-apple-clear-leader-frames-also-enter-the-frame/>
 

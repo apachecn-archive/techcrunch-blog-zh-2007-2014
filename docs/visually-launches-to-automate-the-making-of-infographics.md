@@ -1,4 +1,4 @@
-# 可视化发布，自动制作信息图 TechCrunch
+# 可视化发布，自动制作信息图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/visually-launches-to-automate-the-making-of-infographics/>
 

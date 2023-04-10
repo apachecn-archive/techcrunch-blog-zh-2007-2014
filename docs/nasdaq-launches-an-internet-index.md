@@ -1,4 +1,4 @@
-# 纳斯达克推出互联网指数 TechCrunch
+# 纳斯达克推出互联网指数 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/27/nasdaq-launches-an-internet-index/>
 

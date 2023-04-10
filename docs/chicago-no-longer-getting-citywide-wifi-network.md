@@ -1,4 +1,4 @@
-# 芝加哥不再有全市 WiFi 网络 TechCrunch
+# 芝加哥不再有全市 WiFi 网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/chicago-no-longer-getting-citywide-wifi-network/>
 

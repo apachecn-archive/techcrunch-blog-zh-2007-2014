@@ -1,4 +1,4 @@
-# Sprint 的 Epic Touch 4G 正式上市 TechCrunch
+# Sprint 的 Epic Touch 4G 正式上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/sprints-epic-touch-4g-officially-goes-on-sale/>
 

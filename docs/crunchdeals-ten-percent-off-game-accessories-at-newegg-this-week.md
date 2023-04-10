@@ -1,4 +1,4 @@
-# CrunchDeals:本周新蛋的游戏配件打九折 TechCrunch
+# CrunchDeals:本周新蛋的游戏配件打九折 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/04/crunchdeals-ten-percent-off-game-accessories-at-newegg-this-week/>
 

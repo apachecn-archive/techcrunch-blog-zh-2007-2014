@@ -1,4 +1,4 @@
-# 去年，美国移动网络使用率增长了 110 %;苹果称霸，安卓第二 TechCrunch
+# 去年，美国移动网络使用率增长了 110 %;苹果称霸，安卓第二 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/05/quantcast-mobile-web-apple-android/>
 

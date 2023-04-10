@@ -1,4 +1,4 @@
-# 我的自助出版之路 TechCrunch
+# 我的自助出版之路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/16/my-long-road-to-self-publishing/>
 

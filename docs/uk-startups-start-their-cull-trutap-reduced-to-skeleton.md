@@ -1,4 +1,4 @@
-# 英国初创公司开始淘汰:Trutap 沦为骨架 TechCrunch
+# 英国初创公司开始淘汰:Trutap 沦为骨架 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/01/uk-startups-start-their-cull-trutap-reduced-to-skeleton/>
 

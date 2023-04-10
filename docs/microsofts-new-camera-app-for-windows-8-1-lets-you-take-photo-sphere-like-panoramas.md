@@ -1,4 +1,4 @@
-# 微软为 Windows 8.1 开发的新相机应用可以让你拍摄球形全景照片 TechCrunch
+# 微软为 Windows 8.1 开发的新相机应用可以让你拍摄球形全景照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/26/microsofts-new-camera-app-for-windows-8-1-lets-you-take-photo-sphere-like-panoramas/>
 

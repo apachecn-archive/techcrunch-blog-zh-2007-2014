@@ -1,4 +1,4 @@
-# 走进奥斯汀的资本工厂 2011 年演示日 TechCrunch
+# 走进奥斯汀的资本工厂 2011 年演示日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/austin%e2%80%99s-capital-factory-2011-demo-day/>
 

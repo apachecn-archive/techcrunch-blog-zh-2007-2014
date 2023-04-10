@@ -1,4 +1,4 @@
-# 在收购 Groupon 失败后，谷歌称正在寻找较小的竞争对手 TechCrunch
+# 在收购 Groupon 失败后，谷歌称正在寻找较小的竞争对手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/21/after-failing-to-acquire-groupon-google-said-to-be-sniffing-around-smaller-rivals/>
 

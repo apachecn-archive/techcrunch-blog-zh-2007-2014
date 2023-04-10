@@ -1,4 +1,4 @@
-# 报告显示 iPad 在电子阅读器类别上超过 Kindle TechCrunch
+# 报告显示 iPad 在电子阅读器类别上超过 Kindle 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/30/report-shows-ipad-gaining-on-kindle-in-e-reader-category/>
 

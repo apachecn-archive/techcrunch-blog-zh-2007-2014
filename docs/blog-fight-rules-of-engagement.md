@@ -1,4 +1,4 @@
-# 博客大战交战规则 TechCrunch
+# 博客大战交战规则 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/16/blog-fight-rules-of-engagement/>
 

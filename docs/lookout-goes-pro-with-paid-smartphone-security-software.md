@@ -1,4 +1,4 @@
-# Lookout Goes Pro 配备付费版智能手机安全软件 TechCrunch
+# Lookout Goes Pro 配备付费版智能手机安全软件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/02/lookout-goes-pro-with-paid-smartphone-security-software/>
 

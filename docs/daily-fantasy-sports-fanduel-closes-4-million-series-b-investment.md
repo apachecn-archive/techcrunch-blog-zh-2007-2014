@@ -1,4 +1,4 @@
-# Daily fantasy sports FanDuel 完成 400 万美元的 B 轮投资 TechCrunch
+# Daily fantasy sports FanDuel 完成 400 万美元的 B 轮投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/daily-fantasy-sports-fanduel-closes-4-million-series-b-investment/>
 

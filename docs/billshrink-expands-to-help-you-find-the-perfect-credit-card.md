@@ -1,4 +1,4 @@
-# BillShrink 帮助您找到完美的信用卡 TechCrunch
+# BillShrink 帮助您找到完美的信用卡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/18/billshrink-expands-to-help-you-find-the-perfect-credit-card/>
 

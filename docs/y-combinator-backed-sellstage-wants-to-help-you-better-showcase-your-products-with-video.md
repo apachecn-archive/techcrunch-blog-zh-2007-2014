@@ -1,4 +1,4 @@
-# Y Combinator 支持的 SellStage 希望通过视频帮助您更好地展示您的产品 TechCrunch
+# Y Combinator 支持的 SellStage 希望通过视频帮助您更好地展示您的产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/y-combinator-backed-sellstage-wants-to-help-you-better-showcase-your-products-with-video/>
 

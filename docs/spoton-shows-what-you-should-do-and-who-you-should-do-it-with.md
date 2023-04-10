@@ -1,4 +1,4 @@
-# SpotOn 展示了您应该做什么以及应该由谁来做 TechCrunch
+# SpotOn 展示了您应该做什么以及应该由谁来做 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/23/spoton-shows-what-you-should-do-and-who-you-should-do-it-with/>
 

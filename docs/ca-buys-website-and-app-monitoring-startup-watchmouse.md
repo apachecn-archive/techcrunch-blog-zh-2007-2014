@@ -1,4 +1,4 @@
-# CA 收购网站和应用程序监控初创公司 WatchMouse TechCrunch
+# CA 收购网站和应用程序监控初创公司 WatchMouse 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/ca-buys-website-and-app-monitoring-startup-watchmouse/>
 

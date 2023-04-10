@@ -1,4 +1,4 @@
-# Zynga 将推出新的 3D 版脸书游戏《黑手党战争》TechCrunch
+# Zynga 将推出新的 3D 版脸书游戏《黑手党战争》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/zynga-debuts-new-version-of-3-d-facebook-game-mafia-wars/>
 

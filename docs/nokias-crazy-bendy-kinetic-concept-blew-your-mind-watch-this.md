@@ -1,4 +1,4 @@
-# 诺基亚疯狂的可弯曲动能概念让你大吃一惊？看这个！TechCrunch
+# 诺基亚疯狂的可弯曲动能概念让你大吃一惊？看这个！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/nokias-crazy-bendy-kinetic-concept-blew-your-mind-watch-this/>
 

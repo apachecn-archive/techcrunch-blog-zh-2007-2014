@@ -1,4 +1,4 @@
-# 俄罗斯主要社交网络为照片添加了面部识别功能 TechCrunch
+# 俄罗斯主要社交网络为照片添加了面部识别功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/key-russian-social-network-adds-facial-recognition-to-photos/>
 

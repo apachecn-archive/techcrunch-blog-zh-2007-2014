@@ -1,4 +1,4 @@
-# Make3D:将 2D 图片变成 3D 模型 TechCrunch
+# Make3D:将 2D 图片变成 3D 模型 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/02/27/make3d-turn-a-2d-picture-into-a-3d-model/>
 

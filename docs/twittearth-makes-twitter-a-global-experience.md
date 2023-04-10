@@ -1,4 +1,4 @@
-# TwittEarth 让 Twitter 成为全球体验 TechCrunch
+# TwittEarth 让 Twitter 成为全球体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/20/twittearth-makes-twitter-a-global-experience/>
 

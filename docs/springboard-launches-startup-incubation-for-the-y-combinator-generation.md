@@ -1,4 +1,4 @@
-# 跳板为 Y-Combinator 一代启动创业孵化 TechCrunch
+# 跳板为 Y-Combinator 一代启动创业孵化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/29/springboard-launches-startup-incubation-for-the-y-combinator-generation/>
 

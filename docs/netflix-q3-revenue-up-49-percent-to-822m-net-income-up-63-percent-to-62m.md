@@ -1,4 +1,4 @@
-# 网飞第三季度收入增长 49%，达到 8.22 亿美元；2012 年内容支出将翻倍 TechCrunch
+# 网飞第三季度收入增长 49%，达到 8.22 亿美元；2012 年内容支出将翻倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/netflix-q3-revenue-up-49-percent-to-822m-net-income-up-63-percent-to-62m/>
 

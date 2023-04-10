@@ -1,4 +1,4 @@
-# Globant 收购移动和社交应用开发商 Nextive TechCrunch
+# Globant 收购移动和社交应用开发商 Nextive 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/globant-acquires-mobile-and-social-applications-developer-nextive/>
 

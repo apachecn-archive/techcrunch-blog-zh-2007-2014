@@ -1,4 +1,4 @@
-# 500 家创业公司演示日:麦克卢尔的第二批创业公司——释放 TechCrunch
+# 500 家创业公司演示日:麦克卢尔的第二批创业公司——释放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/live-from-500-startups-demo-day-mcclures-second-batch-of-startups-unleashed/>
 

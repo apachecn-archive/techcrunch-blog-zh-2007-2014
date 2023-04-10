@@ -1,4 +1,4 @@
-# 美国电话电报公司 Galaxy Nexus 获得半官方谷歌钱包支持 TechCrunch
+# 美国电话电报公司 Galaxy Nexus 获得半官方谷歌钱包支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/02/att-galaxy-nexus-gets-semi-official-google-wallet-support/>
 

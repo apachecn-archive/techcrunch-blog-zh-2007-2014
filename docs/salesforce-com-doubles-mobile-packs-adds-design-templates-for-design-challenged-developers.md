@@ -1,4 +1,4 @@
-# Salesforce.com 将移动包翻倍，为面临设计挑战的开发人员添加设计模板 TechCrunch
+# Salesforce.com 将移动包翻倍，为面临设计挑战的开发人员添加设计模板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/31/salesforce-com-doubles-mobile-packs-adds-design-templates-for-design-challenged-developers/>
 

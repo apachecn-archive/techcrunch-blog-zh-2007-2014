@@ -1,4 +1,4 @@
-# IAC“非常接近”收购 Flixster TechCrunch
+# IAC“非常接近”收购 Flixster 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/12/iac-very-close-to-acquiring-flixster/>
 

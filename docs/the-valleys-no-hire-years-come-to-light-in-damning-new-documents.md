@@ -1,4 +1,4 @@
-# 硅谷的“无雇佣”岁月在新的谴责文件中曝光 TechCrunch
+# 硅谷的“无雇佣”岁月在新的谴责文件中曝光 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/23/the-valleys-no-hire-years-come-to-light-in-damning-new-documents/>
 

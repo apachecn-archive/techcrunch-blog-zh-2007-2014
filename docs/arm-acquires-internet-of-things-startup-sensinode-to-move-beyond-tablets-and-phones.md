@@ -1,4 +1,4 @@
-# ARM 收购物联网初创公司 Sensinode 以超越平板电脑和手机 TechCrunch
+# ARM 收购物联网初创公司 Sensinode 以超越平板电脑和手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/arm-acquires-internet-of-things-startup-sensinode-to-move-beyond-tablets-and-phones/>
 

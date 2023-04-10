@@ -1,4 +1,4 @@
-# 人脸识别广告牌只向女性展示广告 TechCrunch
+# 人脸识别广告牌只向女性展示广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/face-recognizing-billboard-only-displays-ad-to-women/>
 

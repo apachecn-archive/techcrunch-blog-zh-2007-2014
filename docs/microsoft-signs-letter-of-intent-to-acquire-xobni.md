@@ -1,4 +1,4 @@
-# 来源:微软签署意向书收购 Xobni TechCrunch
+# 来源:微软签署意向书收购 Xobni 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/20/microsoft-signs-letter-of-intent-to-acquire-xobni/>
 

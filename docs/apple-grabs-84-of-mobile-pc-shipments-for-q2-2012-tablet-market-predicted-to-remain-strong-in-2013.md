@@ -1,4 +1,4 @@
-# 苹果在 2012 年 Q2 上抢占了 84%的移动个人电脑出货量，平板电脑市场预计将在 2013 年保持强劲 TechCrunch
+# 苹果在 2012 年 Q2 上抢占了 84%的移动个人电脑出货量，平板电脑市场预计将在 2013 年保持强劲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/apple-grabs-84-of-mobile-pc-shipments-for-q2-2012-tablet-market-predicted-to-remain-strong-in-2013/>
 

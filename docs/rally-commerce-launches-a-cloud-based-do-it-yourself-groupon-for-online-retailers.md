@@ -1,4 +1,4 @@
-# Rally Commerce 为在线零售商推出基于云的自助团购网站 TechCrunch
+# Rally Commerce 为在线零售商推出基于云的自助团购网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/rally-commerce-launches-a-cloud-based-do-it-yourself-groupon-for-online-retailers/>
 

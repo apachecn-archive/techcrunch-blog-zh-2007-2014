@@ -1,4 +1,4 @@
-# GoDaddy 收购 Ronin，进军小型企业会计服务 TechCrunch
+# GoDaddy 收购 Ronin，进军小型企业会计服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/godaddy-buys-ronin-makes-more-inroads-to-small-business-cloud-based-bookkeeping-services/>
 

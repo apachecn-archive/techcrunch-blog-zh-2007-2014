@@ -1,4 +1,4 @@
-# AdMob 停止向移动网络提供广告，谷歌推动开发者使用 AdSense TechCrunch
+# AdMob 停止向移动网络提供广告，谷歌推动开发者使用 AdSense 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/03/admob-to-stop-serving-ads-to-mobile-web-google-pushes-developers-to-use-adsense/>
 

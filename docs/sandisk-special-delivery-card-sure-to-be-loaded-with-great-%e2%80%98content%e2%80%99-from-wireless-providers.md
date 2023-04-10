@@ -1,4 +1,4 @@
-# SanDisk 特殊交付卡肯定会装载无线提供商提供的大量“内容”TechCrunch
+# SanDisk 特殊交付卡肯定会装载无线提供商提供的大量“内容”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/30/sandisk-special-delivery-card-sure-to-be-loaded-with-great-%e2%80%98content%e2%80%99-from-wireless-providers/>
 

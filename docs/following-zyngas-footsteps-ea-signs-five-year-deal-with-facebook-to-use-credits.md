@@ -1,4 +1,4 @@
-# 追随 Zynga 的脚步，艺电与脸书签署五年协议，使用信用点数 TechCrunch
+# 追随 Zynga 的脚步，艺电与脸书签署五年协议，使用信用点数 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/02/following-zyngas-footsteps-ea-signs-five-year-deal-with-facebook-to-use-credits/>
 

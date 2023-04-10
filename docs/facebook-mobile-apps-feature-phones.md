@@ -1,4 +1,4 @@
-# 脸书在 2500 部 Java 手机上推出免费移动应用 TechCrunch
+# 脸书在 2500 部 Java 手机上推出免费移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/facebook-mobile-apps-feature-phones/>
 

@@ -1,4 +1,4 @@
-# 自 2009 年以来，LinkedIn 经历了 740 万次工作变动，470 万会员受雇于小企业 TechCrunch
+# 自 2009 年以来，LinkedIn 经历了 740 万次工作变动，470 万会员受雇于小企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/linkedin-has-seen-7-4m-job-changes-since-2009-4-7m-members-are-employed-by-small-businesses/>
 

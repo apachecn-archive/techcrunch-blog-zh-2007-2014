@@ -1,4 +1,4 @@
-# 无线起搏器成为现实 TechCrunch
+# 无线起搏器成为现实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/10/wireless-pacemakers-become-a-reality/>
 

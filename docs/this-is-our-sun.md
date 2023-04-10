@@ -1,4 +1,4 @@
-# 这是我们的太阳 TechCrunch
+# 这是我们的太阳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/this-is-our-sun/>
 

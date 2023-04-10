@@ -1,4 +1,4 @@
-# 松下 Pocket Server 将视频和音乐传输到您的 iPhone/iPod touch TechCrunch
+# 松下 Pocket Server 将视频和音乐传输到您的 iPhone/iPod touch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/panasonic-pocket-server-streams-video-and-music-to-your-iphoneipod-touch/>
 

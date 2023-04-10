@@ -1,4 +1,4 @@
-# 突破:RIM“精简”运营，裁员 2000 人 TechCrunch
+# 突破:RIM“精简”运营，裁员 2000 人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/breaking-rim-streamlining-operations-lays-off-2000/>
 

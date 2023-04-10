@@ -1,4 +1,4 @@
-# 哎呦！Sears.com 无意中列出了售价 69 美元的 IP ad2 TechCrunch
+# 哎呦！Sears.com 无意中列出了售价 69 美元的 IP ad2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/whoops-sears-com-accidentally-lists-ipad-2-for-70/>
 

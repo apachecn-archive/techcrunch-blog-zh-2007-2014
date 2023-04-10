@@ -1,4 +1,4 @@
-# Storify 增加了 SoundCloud 支持，允许您将音频添加到流中 TechCrunch
+# Storify 增加了 SoundCloud 支持，允许您将音频添加到流中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/storify-adds-soundcloud-support-lets-you-add-audio-to-streams/>
 

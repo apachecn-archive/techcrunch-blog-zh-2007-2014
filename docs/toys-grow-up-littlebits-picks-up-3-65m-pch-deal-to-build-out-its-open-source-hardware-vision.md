@@ -1,4 +1,4 @@
-# 玩具成长:LittleBits 获得 365 万美元，PCH 交易建立其开源硬件愿景 TechCrunch
+# 玩具成长:LittleBits 获得 365 万美元，PCH 交易建立其开源硬件愿景 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/18/toys-grow-up-littlebits-picks-up-3-65m-pch-deal-to-build-out-its-open-source-hardware-vision/>
 

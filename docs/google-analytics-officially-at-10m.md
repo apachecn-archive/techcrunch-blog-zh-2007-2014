@@ -1,4 +1,4 @@
-# 谷歌商务主管:超过 1000 万网站现在使用谷歌分析技术 TechCrunch
+# 谷歌商务主管:超过 1000 万网站现在使用谷歌分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/12/google-analytics-officially-at-10m/>
 

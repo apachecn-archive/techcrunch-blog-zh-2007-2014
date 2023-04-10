@@ -1,4 +1,4 @@
-# 脸书收藏允许零售商在帖子上添加“想要/收藏”按钮，将产品保存到 Pinteresque 个人资料部分 TechCrunch
+# 脸书收藏允许零售商在帖子上添加“想要/收藏”按钮，将产品保存到 Pinteresque 个人资料部分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/08/facebook-collections/>
 

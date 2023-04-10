@@ -1,4 +1,4 @@
-# Square 使 iOS 应用程序速度更快，不再需要 25 美元以下交易的签名 TechCrunch
+# Square 使 iOS 应用程序速度更快，不再需要 25 美元以下交易的签名 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/square-makes-ios-apps-speedier-no-longer-requires-signatures-for-transactions-under-25/>
 

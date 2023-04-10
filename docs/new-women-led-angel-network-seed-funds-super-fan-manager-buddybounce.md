@@ -1,4 +1,4 @@
-# 新女性领导的天使网络种子基金超级粉丝经理 Buddybounce TechCrunch
+# 新女性领导的天使网络种子基金超级粉丝经理 Buddybounce 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/07/new-women-led-angel-network-seed-funds-super-fan-manager-buddybounce/>
 

@@ -1,4 +1,4 @@
-# 亚马逊推出短信购买服务 TechCrunch
+# 亚马逊推出短信购买服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/04/02/amazon-launches-sms-buying-service/>
 

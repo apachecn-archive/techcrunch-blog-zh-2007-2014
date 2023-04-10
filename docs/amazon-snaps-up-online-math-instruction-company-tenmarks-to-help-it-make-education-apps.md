@@ -1,4 +1,4 @@
-# 亚马逊收购在线数学教学公司 TenMarks，帮助其开发教育应用 TechCrunch
+# 亚马逊收购在线数学教学公司 TenMarks，帮助其开发教育应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/10/amazon-snaps-up-online-math-instruction-company-tenmarks-to-help-it-make-education-apps/>
 

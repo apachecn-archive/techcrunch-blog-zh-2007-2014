@@ -1,4 +1,4 @@
-# 又是一天，三星再次否认 RIM 收购和授权传言 TechCrunch
+# 又是一天，三星再次否认 RIM 收购和授权传言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/09/another-day-another-samsung-denial-of-rim-acquisition-and-licensing-rumors/>
 

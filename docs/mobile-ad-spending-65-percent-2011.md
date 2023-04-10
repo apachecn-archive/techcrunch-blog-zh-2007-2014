@@ -1,4 +1,4 @@
-# 预计 2011 年美国移动广告支出将增长 65%，达到 12 亿美元 TechCrunch
+# 预计 2011 年美国移动广告支出将增长 65%，达到 12 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/mobile-ad-spending-65-percent-2011/>
 

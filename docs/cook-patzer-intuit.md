@@ -1,4 +1,4 @@
-# 库克和帕兹谈 Intuit 的增长、支付图和产品焦点 TechCrunch
+# 库克和帕兹谈 Intuit 的增长、支付图和产品焦点 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/30/cook-patzer-intuit/>
 

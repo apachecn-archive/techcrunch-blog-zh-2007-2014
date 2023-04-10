@@ -1,4 +1,4 @@
-# The Eatery:一款承诺改善健康的照片应用 TechCrunch
+# The Eatery:一款承诺改善健康的照片应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/the-eatery-a-photo-app-that-promises-to-improve-your-health/>
 

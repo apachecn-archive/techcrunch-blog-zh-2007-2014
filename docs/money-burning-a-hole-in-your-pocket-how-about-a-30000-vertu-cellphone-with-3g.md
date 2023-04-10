@@ -1,4 +1,4 @@
-# 钱在你的口袋里烧了一个洞？一部 3 万美元的 Vertu 手机怎么样(带 3G！)TechCrunch
+# 钱在你的口袋里烧了一个洞？一部 3 万美元的 Vertu 手机怎么样(带 3G！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/10/money-burning-a-hole-in-your-pocket-how-about-a-30000-vertu-cellphone-with-3g/>
 

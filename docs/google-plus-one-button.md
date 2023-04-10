@@ -1,4 +1,4 @@
-# 哎呦 Redux:看起来合作伙伴刚刚泄露了谷歌网站启动的+1 按钮 TechCrunch
+# 哎呦 Redux:看起来合作伙伴刚刚泄露了谷歌网站启动的+1 按钮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/31/google-plus-one-button/>
 

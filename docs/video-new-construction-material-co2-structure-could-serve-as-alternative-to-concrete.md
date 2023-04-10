@@ -1,4 +1,4 @@
-# 视频:新型建筑材料“二氧化碳结构”可作为混凝土的替代品 TechCrunch
+# 视频:新型建筑材料“二氧化碳结构”可作为混凝土的替代品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/video-new-construction-material-co2-structure-could-serve-as-alternative-to-concrete/>
 

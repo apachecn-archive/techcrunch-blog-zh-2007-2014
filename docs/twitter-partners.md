@@ -1,4 +1,4 @@
-# Twitter 指定 Mass Relevance 和 Crimson Hexagon 为策展合作伙伴 TechCrunch
+# Twitter 指定 Mass Relevance 和 Crimson Hexagon 为策展合作伙伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/twitter-partners/>
 

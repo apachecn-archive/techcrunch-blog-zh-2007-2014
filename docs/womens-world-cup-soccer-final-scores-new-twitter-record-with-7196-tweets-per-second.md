@@ -1,4 +1,4 @@
-# 女足世界杯决赛以每秒 7，196 条推文刷新推特记录 TechCrunch
+# 女足世界杯决赛以每秒 7，196 条推文刷新推特记录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/17/womens-world-cup-soccer-final-scores-new-twitter-record-with-7196-tweets-per-second/>
 

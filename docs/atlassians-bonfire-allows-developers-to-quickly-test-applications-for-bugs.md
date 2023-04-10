@@ -1,4 +1,4 @@
-# Atlassian 的 Bonfire 允许开发人员快速测试应用程序的 bug TechCrunch
+# Atlassian 的 Bonfire 允许开发人员快速测试应用程序的 bug 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/atlassians-bonfire-allows-developers-to-quickly-test-applications-for-bugs/>
 

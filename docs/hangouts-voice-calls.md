@@ -1,4 +1,4 @@
-# Google+现在可以让你通过免费的语音通话与人进行交流 TechCrunch
+# Google+现在可以让你通过免费的语音通话与人进行交流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/01/hangouts-voice-calls/>
 

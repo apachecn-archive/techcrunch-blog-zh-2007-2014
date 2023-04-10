@@ -1,4 +1,4 @@
-# SundaySky 自动将网络内容转换成视频，融资 900 万美元 TechCrunch
+# SundaySky 自动将网络内容转换成视频，融资 900 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/sundaysky-funding/>
 

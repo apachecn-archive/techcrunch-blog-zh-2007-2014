@@ -1,4 +1,4 @@
-# Gnip 将 Google+加入社交媒体监控数据流 TechCrunch
+# Gnip 将 Google+加入社交媒体监控数据流 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/gnip-adds-google-to-social-media-monitoring-data-stream/>
 

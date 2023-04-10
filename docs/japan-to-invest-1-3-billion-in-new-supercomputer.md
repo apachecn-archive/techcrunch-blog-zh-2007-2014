@@ -1,4 +1,4 @@
-# 日本将投资 13 亿美元购买新的超级计算机 TechCrunch
+# 日本将投资 13 亿美元购买新的超级计算机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/12/japan-to-invest-1-3-billion-in-new-supercomputer/>
 

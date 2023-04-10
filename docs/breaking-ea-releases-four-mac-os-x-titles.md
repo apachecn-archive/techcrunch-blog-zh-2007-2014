@@ -1,4 +1,4 @@
-# 突破:EA 发布四款 Mac OS X 游戏 TechCrunch
+# 突破:EA 发布四款 Mac OS X 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/18/breaking-ea-releases-four-mac-os-x-titles/>
 

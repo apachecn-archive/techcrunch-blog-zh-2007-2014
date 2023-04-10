@@ -1,4 +1,4 @@
-# 阿灵顿伏击采访 Crunchies 年度风投尤里·米尔纳 TechCrunch
+# 阿灵顿伏击采访 Crunchies 年度风投尤里·米尔纳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/22/yuri-milner-crunchies/>
 

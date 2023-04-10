@@ -1,4 +1,4 @@
-# 三星正式宣布为 T-Mobile、Sprint 和美国电话电报公司推出 Galaxy S II TechCrunch
+# 三星正式宣布为 T-Mobile、Sprint 和美国电话电报公司推出 Galaxy S II 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/samsung-announces-the-galaxy-s-ii-for-t-mobile-sprint-and-att/>
 

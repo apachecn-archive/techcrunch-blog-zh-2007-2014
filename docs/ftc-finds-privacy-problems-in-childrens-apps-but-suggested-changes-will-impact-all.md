@@ -1,4 +1,4 @@
-# FTC 发现儿童应用程序中存在隐私问题，但建议的更改将影响所有 TechCrunch
+# FTC 发现儿童应用程序中存在隐私问题，但建议的更改将影响所有 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/ftc-finds-privacy-problems-in-childrens-apps-but-suggested-changes-will-impact-all/>
 

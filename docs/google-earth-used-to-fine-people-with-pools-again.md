@@ -1,4 +1,4 @@
-# 谷歌地球曾经用泳池来罚款，这又是 TechCrunch
+# 谷歌地球曾经用泳池来罚款，这又是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/02/google-earth-used-to-fine-people-with-pools-again/>
 

@@ -1,4 +1,4 @@
-# Connect 推出了一个“活的”地址簿，可以为您附近的朋友绘制地图 TechCrunch
+# Connect 推出了一个“活的”地址簿，可以为您附近的朋友绘制地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/connect-debuts-a-living-address-book-that-maps-your-nearby-friends/>
 

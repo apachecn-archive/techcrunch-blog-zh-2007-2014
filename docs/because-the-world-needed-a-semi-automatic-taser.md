@@ -1,4 +1,4 @@
-# 因为世界需要半自动泰瑟枪 TechCrunch
+# 因为世界需要半自动泰瑟枪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/27/because-the-world-needed-a-semi-automatic-taser/>
 

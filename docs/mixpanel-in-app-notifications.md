@@ -1,4 +1,4 @@
-# Mixpanel 旨在帮助开发者通过新的应用内通知传递有针对性的信息 TechCrunch
+# Mixpanel 旨在帮助开发者通过新的应用内通知传递有针对性的信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/mixpanel-in-app-notifications/>
 

@@ -1,4 +1,4 @@
-# App-y 假期:iOS 狼吞虎咽，Android 塞满，RIM 吃剩，Windows Phone 挨饿 TechCrunch
+# App-y 假期:iOS 狼吞虎咽，Android 塞满，RIM 吃剩，Windows Phone 挨饿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/03/flixster-holiday-mobile/>
 

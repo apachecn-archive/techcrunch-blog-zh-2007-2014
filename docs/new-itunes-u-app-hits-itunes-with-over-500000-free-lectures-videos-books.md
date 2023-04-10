@@ -1,4 +1,4 @@
-# 新的 iTunes U 应用程序登陆 iTunes，提供超过 500，000 个免费讲座、视频和书籍 TechCrunch
+# 新的 iTunes U 应用程序登陆 iTunes，提供超过 500，000 个免费讲座、视频和书籍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/19/new-itunes-u-app-hits-itunes-with-over-500000-free-lectures-videos-books/>
 

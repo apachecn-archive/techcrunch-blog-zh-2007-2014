@@ -1,4 +1,4 @@
-# 法庭文件披露著名的丝绸之路创始人涉嫌雇佣谋杀 TechCrunch
+# 法庭文件披露著名的丝绸之路创始人涉嫌雇佣谋杀 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/court-docs-reveal-alleged-silk-road-founders-murder-plot/>
 

@@ -1,4 +1,4 @@
-# Zynga 将最受欢迎的脸书游戏《城市》引入 Google+游戏平台 TechCrunch
+# Zynga 将最受欢迎的脸书游戏《城市》引入 Google+游戏平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/zynga-brings-popular-facebook-game-cityville-to-google-game-platform/>
 

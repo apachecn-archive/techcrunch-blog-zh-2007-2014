@@ -1,4 +1,4 @@
-# 无纸化账单服务 Doxo 在 B 轮融资中筹集了 1000 万美元 TechCrunch
+# 无纸化账单服务 Doxo 在 B 轮融资中筹集了 1000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/15/doxo-10-million/>
 

@@ -1,4 +1,4 @@
-# Xen 转向 Linux 基金会 TechCrunch
+# Xen 转向 Linux 基金会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/15/xen-moving-to-the-linux-foundation/>
 

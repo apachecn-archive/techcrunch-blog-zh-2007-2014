@@ -1,4 +1,4 @@
-# 脸书的利润:10 亿美元，收入 37 亿美元 TechCrunch
+# 脸书的利润:10 亿美元，收入 37 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/01/facebook-1-billion-profit/>
 

@@ -1,4 +1,4 @@
-# 系统监控会吞噬自己 TechCrunch
+# 系统监控会吞噬自己 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/11/snooping-vs-leaking/>
 

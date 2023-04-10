@@ -1,4 +1,4 @@
-# Wikimedia 将维基百科的方法引入其服务器的运行方式 TechCrunch
+# Wikimedia 将维基百科的方法引入其服务器的运行方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/16/wikimedia-brings-the-wikipedia-approach-to-how-it-runs-its-servers/>
 

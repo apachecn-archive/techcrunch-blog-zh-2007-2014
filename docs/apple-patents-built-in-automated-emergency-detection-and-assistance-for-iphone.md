@@ -1,4 +1,4 @@
-# 苹果专利 iPhone 内置自动紧急检测和援助 TechCrunch
+# 苹果专利 iPhone 内置自动紧急检测和援助 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/06/apple-patents-built-in-automated-emergency-detection-and-assistance-for-iphone/>
 

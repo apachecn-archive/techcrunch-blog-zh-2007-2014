@@ -1,4 +1,4 @@
-# 索尼降低集成谷歌电视的高清电视的价格 TechCrunch
+# 索尼降低集成谷歌电视的高清电视的价格 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/sony-cuts-prices-on-google-tv-integrated-hdtvs/>
 

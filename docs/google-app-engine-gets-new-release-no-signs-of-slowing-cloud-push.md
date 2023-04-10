@@ -1,4 +1,4 @@
-# 谷歌应用引擎获得新版本，没有放缓云推进的迹象 TechCrunch
+# 谷歌应用引擎获得新版本，没有放缓云推进的迹象 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/12/google-app-engine-gets-new-release-no-signs-of-slowing-cloud-push/>
 

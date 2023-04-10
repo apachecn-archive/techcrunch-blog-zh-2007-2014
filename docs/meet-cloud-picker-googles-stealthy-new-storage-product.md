@@ -1,4 +1,4 @@
-# 认识一下 Cloud Picker，谷歌的秘密存储新产品 TechCrunch
+# 认识一下 Cloud Picker，谷歌的秘密存储新产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/02/meet-cloud-picker-googles-stealthy-new-storage-product/>
 

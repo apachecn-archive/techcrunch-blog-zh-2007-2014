@@ -1,4 +1,4 @@
-# 2011 年，社交游戏将成为价值 100 亿美元的 1B 市场；虚拟商品将带来 6.53 亿美元的收入 TechCrunch
+# 2011 年，社交游戏将成为价值 100 亿美元的 1B 市场；虚拟商品将带来 6.53 亿美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/12/social-gaming-to-be-a-1b-market-in-2011-virtual-goods-to-bring-in-653m/>
 

@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:品尼高 PCTV 无线化 TechCrunch
+# 10 天的 CrunchGear 赠品:品尼高 PCTV 无线化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/19/10-days-of-crunchgear-giveaway-pinnacle-pctv-to-go-wireless/>
 

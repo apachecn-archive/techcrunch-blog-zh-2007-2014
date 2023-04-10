@@ -1,4 +1,4 @@
-# Trulia 和 Zillow 将房地产应用程序引入 Kindle Fire TechCrunch
+# Trulia 和 Zillow 将房地产应用程序引入 Kindle Fire 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/trulia-and-zillow-bring-real-estate-apps-to-the-kindle-fire/>
 

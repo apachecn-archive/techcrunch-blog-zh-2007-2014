@@ -1,4 +1,4 @@
-# 日本地震导致索尼爱立信在 Q2 亏损；智能手机占销售额的 70% TechCrunch
+# 日本地震导致索尼爱立信在 Q2 亏损；智能手机占销售额的 70% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/japan-earthquake-pushes-sony-ericsson-to-a-q2-loss-smartphones-account-for-70-percent-of-sales/>
 

@@ -1,4 +1,4 @@
-# 微软的 Android 计划:邪恶的天才还是只是邪恶？TechCrunch
+# 微软的 Android 计划:邪恶的天才还是只是邪恶？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/scott-you-just-dont-get-it-do-ya/>
 

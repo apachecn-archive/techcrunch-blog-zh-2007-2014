@@ -1,4 +1,4 @@
-# Fitocracy 将游戏和社交带到您的训练中(邀请加入)TechCrunch
+# Fitocracy 将游戏和社交带到您的训练中(邀请加入)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/fitocracy-brings-games-and-social-to-your-workouts-invites-within/>
 

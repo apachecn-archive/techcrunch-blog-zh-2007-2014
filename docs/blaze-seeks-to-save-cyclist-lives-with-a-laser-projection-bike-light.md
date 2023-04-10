@@ -1,4 +1,4 @@
-# Blaze 寻求用激光投影自行车灯拯救骑车人的生命 TechCrunch
+# Blaze 寻求用激光投影自行车灯拯救骑车人的生命 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/blaze-seeks-to-save-cyclist-lives-with-a-laser-projection-bike-light/>
 

@@ -1,4 +1,4 @@
-# GlobalScholar 融资 2700 万美元用于在线教育 TechCrunch
+# GlobalScholar 融资 2700 万美元用于在线教育 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/30/globalscholar-raises-27-million-b-round-to-tackle-online-education/>
 

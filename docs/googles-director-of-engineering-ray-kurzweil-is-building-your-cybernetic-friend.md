@@ -1,4 +1,4 @@
-# 谷歌的新任工程总监雷·库兹韦尔正在打造你的“控制论朋友”——TechCrunch
+# 谷歌的新任工程总监雷·库兹韦尔正在打造你的“控制论朋友”——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/06/googles-director-of-engineering-ray-kurzweil-is-building-your-cybernetic-friend/>
 

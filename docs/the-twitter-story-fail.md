@@ -1,4 +1,4 @@
-# Twitter 的故事失败了 TechCrunch
+# Twitter 的故事失败了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/03/the-twitter-story-fail/>
 

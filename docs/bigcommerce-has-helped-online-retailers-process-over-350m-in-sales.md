@@ -1,4 +1,4 @@
-# BigCommerce 已经帮助在线零售商处理了超过 3 . 5 亿美元的销售额 TechCrunch
+# BigCommerce 已经帮助在线零售商处理了超过 3 . 5 亿美元的销售额 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/bigcommerce-has-helped-online-retailers-process-over-350m-in-sales/>
 

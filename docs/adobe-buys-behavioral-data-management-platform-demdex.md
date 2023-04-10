@@ -1,4 +1,4 @@
-# Adobe 收购行为数据管理平台 DemDex TechCrunch
+# Adobe 收购行为数据管理平台 DemDex 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/adobe-buys-behavioral-data-management-platform-demdex/>
 

@@ -1,4 +1,4 @@
-# EA 以高达 13 亿美元收购 PopCap 游戏 TechCrunch
+# EA 以高达 13 亿美元收购 PopCap 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/confirmed-ea-buys-popcap-games-for-750-million-plus-earn-out/>
 

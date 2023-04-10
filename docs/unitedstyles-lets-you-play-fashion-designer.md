@@ -1,4 +1,4 @@
-# UnitedStyles 让你玩时装设计师 TechCrunch
+# UnitedStyles 让你玩时装设计师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/unitedstyles-lets-you-play-fashion-designer/>
 

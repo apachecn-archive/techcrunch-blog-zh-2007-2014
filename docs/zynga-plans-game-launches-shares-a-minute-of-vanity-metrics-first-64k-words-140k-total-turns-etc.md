@@ -1,4 +1,4 @@
-# Zynga 计划游戏发布，首先分享一分钟的虚荣指标:64k 字，140k 总转等。TechCrunch
+# Zynga 计划游戏发布，首先分享一分钟的虚荣指标:64k 字，140k 总转等。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/26/zynga-plans-game-launches-shares-a-minute-of-vanity-metrics-first-64k-words-140k-total-turns-etc/>
 

@@ -1,4 +1,4 @@
-# 带着新的使命感，谷歌的市值接近 2000 亿美元 TechCrunch
+# 带着新的使命感，谷歌的市值接近 2000 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/24/with-a-new-sense-of-purpose-googles-market-cap-closes-in-on-200-billion/>
 

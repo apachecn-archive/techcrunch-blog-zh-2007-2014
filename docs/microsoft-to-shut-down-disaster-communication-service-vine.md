@@ -1,4 +1,4 @@
-# 微软将关闭灾难通信服务 Vine TechCrunch
+# 微软将关闭灾难通信服务 Vine 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/10/microsoft-to-shut-down-disaster-communication-service-vine/>
 

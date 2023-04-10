@@ -1,4 +1,4 @@
-# 霍尔马克有些担心 TechCrunch
+# 霍尔马克有些担心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/when-you-care-enough-to-download-the-app-for-that/>
 

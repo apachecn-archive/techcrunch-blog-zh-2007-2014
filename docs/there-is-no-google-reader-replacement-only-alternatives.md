@@ -1,4 +1,4 @@
-# 谷歌阅读器没有替代品，只有替代品 TechCrunch
+# 谷歌阅读器没有替代品，只有替代品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/24/there-is-no-google-reader-replacement-only-alternatives/>
 

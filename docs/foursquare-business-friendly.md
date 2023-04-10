@@ -1,4 +1,4 @@
-# Foursquare 变得更加商业友好 TechCrunch
+# Foursquare 变得更加商业友好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/22/foursquare-business-friendly/>
 

@@ -1,4 +1,4 @@
-# Xperia Play，Arc 从沃达丰获得 Android 2.3.3 更新，包括新的脸书 UI TechCrunch
+# Xperia Play，Arc 从沃达丰获得 Android 2.3.3 更新，包括新的脸书 UI 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/03/xperia-play-arc-get-android-2-3-3-update-from-vodafone-including-new-facebook-ui/>
 

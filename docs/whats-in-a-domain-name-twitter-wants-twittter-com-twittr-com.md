@@ -1,4 +1,4 @@
-# 域名里有什么？Twitter 想要 Twittr.com Twittter.com TechCrunch
+# 域名里有什么？Twitter 想要 Twittr.com Twittter.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/whats-in-a-domain-name-twitter-wants-twittter-com-twittr-com/>
 

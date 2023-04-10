@@ -1,4 +1,4 @@
-# 上市前安吉的名单是最新一家在纳斯达克上市的科技公司 TechCrunch
+# 上市前安吉的名单是最新一家在纳斯达克上市的科技公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/pre-ipo-angies-list-is-the-latest-tech-company-to-list-on-the-nasdaq/>
 

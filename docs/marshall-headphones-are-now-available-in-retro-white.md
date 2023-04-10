@@ -1,4 +1,4 @@
-# Marshall 耳机现已推出复古白色 TechCrunch
+# Marshall 耳机现已推出复古白色 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/marshall-headphones-are-now-available-in-retro-white/>
 

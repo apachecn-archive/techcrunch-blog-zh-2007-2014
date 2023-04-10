@@ -1,4 +1,4 @@
-# 9 家英国科技公司如何为英国政府节省 17 亿英镑 TechCrunch
+# 9 家英国科技公司如何为英国政府节省 17 亿英镑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/how-9-uk-tech-companies-can-save-the-uk-government-1-7-billion/>
 

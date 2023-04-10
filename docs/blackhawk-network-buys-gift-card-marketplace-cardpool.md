@@ -1,4 +1,4 @@
-# 黑鹰网络购买礼品卡市场 Cardpool TechCrunch
+# 黑鹰网络购买礼品卡市场 Cardpool 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/blackhawk-network-buys-gift-card-marketplace-cardpool/>
 

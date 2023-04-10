@@ -1,4 +1,4 @@
-# Kickstarter:基于脑电图的远程呈现机器人控制器 TechCrunch
+# Kickstarter:基于脑电图的远程呈现机器人控制器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/kickstarter-eeg-based-telepresence-robot-controller/>
 

@@ -1,4 +1,4 @@
-# 突发新闻:法国政府仍无法获得 France . fr live TechCrunch
+# 突发新闻:法国政府仍无法获得 France . fr live 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/16/breaking-french-government-still-cant-get-france-fr-live/>
 

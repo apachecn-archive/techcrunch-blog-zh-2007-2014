@@ -1,4 +1,4 @@
-# Telefonica 将三星列为应用程序、游戏、音乐等的运营商计费 OEM TechCrunch
+# Telefonica 将三星列为应用程序、游戏、音乐等的运营商计费 OEM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/16/telefonica-adds-samsung-as-a-carrier-billing-oem-for-apps-games-music-and-more/>
 

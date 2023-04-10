@@ -1,4 +1,4 @@
-# FreedomPop 的新 iPhone 保护套向用户承诺免费无线数据 TechCrunch
+# FreedomPop 的新 iPhone 保护套向用户承诺免费无线数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/20/freedompops-new-iphone-case-promises-free-wireless-data-for-all/>
 

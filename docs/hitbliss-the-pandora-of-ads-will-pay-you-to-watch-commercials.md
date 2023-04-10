@@ -1,4 +1,4 @@
-# HitBliss，广告的潘多拉，会付钱让你看广告 TechCrunch
+# HitBliss，广告的潘多拉，会付钱让你看广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/01/hitbliss-the-pandora-of-ads-will-pay-you-to-watch-commercials/>
 

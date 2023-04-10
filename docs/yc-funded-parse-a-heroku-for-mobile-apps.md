@@ -1,4 +1,4 @@
-# YC 资助的 Parse:移动应用的英雄 TechCrunch
+# YC 资助的 Parse:移动应用的英雄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/yc-funded-parse-a-heroku-for-mobile-apps/>
 

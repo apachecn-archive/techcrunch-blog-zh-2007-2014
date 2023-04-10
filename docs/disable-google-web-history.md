@@ -1,4 +1,4 @@
-# 你以为你已经禁用了谷歌的网络历史跟踪？再查一遍。TechCrunch
+# 你以为你已经禁用了谷歌的网络历史跟踪？再查一遍。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/disable-google-web-history/>
 

@@ -1,4 +1,4 @@
-# 六包星球大战 bobble 今天来到 Woot.com TechCrunch
+# 六包星球大战 bobble 今天来到 Woot.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/six-pack-o-star-wars-bobble-heads-over-at-wootcom-today/>
 

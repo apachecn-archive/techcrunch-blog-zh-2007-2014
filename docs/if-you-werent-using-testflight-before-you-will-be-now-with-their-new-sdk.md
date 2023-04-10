@@ -1,4 +1,4 @@
-# 如果你以前没有使用 TestFlight，现在你将使用他们的新 SDK TechCrunch
+# 如果你以前没有使用 TestFlight，现在你将使用他们的新 SDK 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/if-you-werent-using-testflight-before-you-will-be-now-with-their-new-sdk/>
 

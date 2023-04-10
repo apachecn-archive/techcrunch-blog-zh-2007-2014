@@ -1,4 +1,4 @@
-# Livescribe Sky WiFi 评论:无法使用笔记本电脑时记笔记的完美笔 TechCrunch
+# Livescribe Sky WiFi 评论:无法使用笔记本电脑时记笔记的完美笔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/29/livescribe-sky-wifi-review-the-perfect-pen-to-take-notes-when-you-cant-use-a-laptop/>
 

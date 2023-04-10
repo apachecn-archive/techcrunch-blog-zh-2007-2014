@@ -1,4 +1,4 @@
-# 摄影师花费数十万打造 8x10 数字传感器 TechCrunch
+# 摄影师花费数十万打造 8x10 数字传感器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/photographer-spends-hundreds-of-thousands-creating-8x10-digital-sensor/>
 

@@ -1,4 +1,4 @@
-# 普通人会为一个独立的 HBO GO 订阅支付多少钱？大约每月 12 美元 TechCrunch
+# 普通人会为一个独立的 HBO GO 订阅支付多少钱？大约每月 12 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/05/hbo-go-without-hbo/>
 

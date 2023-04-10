@@ -1,4 +1,4 @@
-# 有了 Tynker 的新服务，孩子们可以在家学习编程 TechCrunch
+# 有了 Tynker 的新服务，孩子们可以在家学习编程 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/06/with-tynkers-new-service-kids-can-learn-to-code-at-home/>
 

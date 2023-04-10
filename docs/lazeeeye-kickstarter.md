@@ -1,4 +1,4 @@
-# LazeeEye 希望为任何智能手机提供 3D 绘图功能 TechCrunch
+# LazeeEye 希望为任何智能手机提供 3D 绘图功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/lazeeeye-kickstarter/>
 

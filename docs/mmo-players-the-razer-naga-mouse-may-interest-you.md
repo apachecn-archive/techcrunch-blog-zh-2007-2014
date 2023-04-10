@@ -1,4 +1,4 @@
-# MMO 玩家，Razer Naga 鼠标可能会让你感兴趣 TechCrunch
+# MMO 玩家，Razer Naga 鼠标可能会让你感兴趣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/mmo-players-the-razer-naga-mouse-may-interest-you/>
 

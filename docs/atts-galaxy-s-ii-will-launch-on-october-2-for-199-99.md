@@ -1,4 +1,4 @@
-# 美国电话电报公司 Galaxy S II 将于 10 月 2 日发布，售价 199.99 美元 TechCrunch
+# 美国电话电报公司 Galaxy S II 将于 10 月 2 日发布，售价 199.99 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/atts-galaxy-s-ii-will-launch-on-october-2-for-199-99/>
 

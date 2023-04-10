@@ -1,4 +1,4 @@
-# 视频:认识墨西哥首个人形机器人 Mex-One TechCrunch
+# 视频:认识墨西哥首个人形机器人 Mex-One 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/video-meet-mex-one-mexicos-first-humanoid-robot/>
 

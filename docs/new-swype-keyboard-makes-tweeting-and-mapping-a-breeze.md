@@ -1,4 +1,4 @@
-# 新的 Swype 键盘通过手势和自定义词典首次登陆 Sprint TechCrunch
+# 新的 Swype 键盘通过手势和自定义词典首次登陆 Sprint 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/new-swype-keyboard-makes-tweeting-and-mapping-a-breeze/>
 

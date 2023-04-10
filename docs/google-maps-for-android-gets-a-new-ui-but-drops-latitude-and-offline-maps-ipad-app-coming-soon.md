@@ -1,4 +1,4 @@
-# Android 版谷歌地图获得了新的用户界面，取消了纬度和离线地图；iPad 应用即将推出 TechCrunch
+# Android 版谷歌地图获得了新的用户界面，取消了纬度和离线地图；iPad 应用即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/google-maps-for-android-gets-a-new-ui-but-drops-latitude-and-offline-maps-ipad-app-coming-soon/>
 

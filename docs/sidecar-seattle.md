@@ -1,4 +1,4 @@
-# 随着新资金的到位，拼车服务 SideCar 准备在西雅图推出 TechCrunch
+# 随着新资金的到位，拼车服务 SideCar 准备在西雅图推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/sidecar-seattle/>
 

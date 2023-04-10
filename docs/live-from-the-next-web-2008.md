@@ -1,4 +1,4 @@
-# 来自下一个网站的直播(2008)TechCrunch
+# 来自下一个网站的直播(2008)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/03/live-from-the-next-web-2008/>
 

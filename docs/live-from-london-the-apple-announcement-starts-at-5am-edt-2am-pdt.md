@@ -1,4 +1,4 @@
-# 11 月 9 日发布的 8GB 英国 iPhone:没有 3G，免费 Wi-Fi，人人都有品脱，赢得一部 iPhone TechCrunch
+# 11 月 9 日发布的 8GB 英国 iPhone:没有 3G，免费 Wi-Fi，人人都有品脱，赢得一部 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/18/live-from-london-the-apple-announcement-starts-at-5am-edt-2am-pdt/>
 

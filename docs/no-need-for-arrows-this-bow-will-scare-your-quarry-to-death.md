@@ -1,4 +1,4 @@
-# 不需要箭；这把弓会吓死你的猎物 TechCrunch
+# 不需要箭；这把弓会吓死你的猎物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/no-need-for-arrows-this-bow-will-scare-your-quarry-to-death/>
 

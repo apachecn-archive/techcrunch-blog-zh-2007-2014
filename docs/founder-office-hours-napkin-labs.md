@@ -1,4 +1,4 @@
-# (创始人办公时间)餐巾实验室:创业公司应该向风险投资靠拢吗？TechCrunch
+# (创始人办公时间)餐巾实验室:创业公司应该向风险投资靠拢吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/founder-office-hours-napkin-labs/>
 

@@ -1,4 +1,4 @@
-# Tumblr 仍在飙升，超过 10 亿条帖子 TechCrunch
+# Tumblr 仍在飙升，超过 10 亿条帖子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/tumblr-1-billionposts/>
 

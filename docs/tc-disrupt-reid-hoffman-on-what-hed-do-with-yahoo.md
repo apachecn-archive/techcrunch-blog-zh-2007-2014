@@ -1,4 +1,4 @@
-# TC Disrupt:雷德·霍夫曼谈他将如何处置雅虎 TechCrunch
+# TC Disrupt:雷德·霍夫曼谈他将如何处置雅虎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/tc-disrupt-reid-hoffman-on-what-hed-do-with-yahoo/>
 

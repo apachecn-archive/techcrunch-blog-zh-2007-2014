@@ -1,4 +1,4 @@
-# 数字购物:7 亿次产品浏览；700 万次产品扫描；去年有 230 万用户 TechCrunch
+# 数字购物:7 亿次产品浏览；700 万次产品扫描；去年有 230 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/shopkick-by-the-numbers-700m-product-views-7m-product-scans-in-the-past-year-2-3m-users/>
 

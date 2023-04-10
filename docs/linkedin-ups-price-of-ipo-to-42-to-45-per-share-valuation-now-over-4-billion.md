@@ -1,4 +1,4 @@
-# LinkedIn 将 IPO 价格上调至每股 42 至 45 美元，估值超过 40 亿美元 TechCrunch
+# LinkedIn 将 IPO 价格上调至每股 42 至 45 美元，估值超过 40 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/17/linkedin-ups-price-of-ipo-to-42-to-45-per-share-valuation-now-over-4-billion/>
 

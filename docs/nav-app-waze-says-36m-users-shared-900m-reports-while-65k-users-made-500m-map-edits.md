@@ -1,4 +1,4 @@
-# 导航应用 Waze 表示，3600 万用户分享了 9 亿份报告，6.5 万用户编辑了 5 亿份地图 TechCrunch
+# 导航应用 Waze 表示，3600 万用户分享了 9 亿份报告，6.5 万用户编辑了 5 亿份地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/06/nav-app-waze-says-36m-users-shared-900m-reports-while-65k-users-made-500m-map-edits/>
 

@@ -1,4 +1,4 @@
-# Mac 版 Chrome 继续前进，推出书签和更好的 Flash TechCrunch
+# Mac 版 Chrome 继续前进，推出书签和更好的 Flash 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/12/chrome-for-mac-continues-march-forward-with-bookmarks-and-better-flash/>
 

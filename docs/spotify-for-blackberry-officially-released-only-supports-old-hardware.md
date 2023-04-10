@@ -1,4 +1,4 @@
-# Spotify For BlackBerry 正式发布，仅支持旧硬件 TechCrunch
+# Spotify For BlackBerry 正式发布，仅支持旧硬件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/21/spotify-for-blackberry-officially-released-only-supports-old-hardware/>
 

@@ -1,4 +1,4 @@
-# 百思买有 32GB 的触摸板，售价 149 美元，但有一个问题 TechCrunch
+# 百思买有 32GB 的触摸板，售价 149 美元，但有一个问题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/best-buy-has-32gb-touchpads-for-149-but-theres-a-catch/>
 

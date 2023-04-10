@@ -1,4 +1,4 @@
-# Nyoombl 首次推出对话社交视频广播平台 TechCrunch
+# Nyoombl 首次推出对话社交视频广播平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/11/nyoombl-debuts-social-video-broadcasting-platform-for-conversations/>
 

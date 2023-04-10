@@ -1,4 +1,4 @@
-# FTC:由脸书决定 Instagram 调查是否会影响 IPO TechCrunch
+# FTC:由脸书决定 Instagram 调查是否会影响 IPO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/10/ftc-its-up-to-facebook-to-decide-whether-an-instagram-investigation-will-impact-the-ipo/>
 

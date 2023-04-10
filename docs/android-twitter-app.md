@@ -1,4 +1,4 @@
-# 比如#NewTwitter？Twidroyd 将双窗格浏览引入 Android TechCrunch
+# 比如#NewTwitter？Twidroyd 将双窗格浏览引入 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/21/android-twitter-app/>
 

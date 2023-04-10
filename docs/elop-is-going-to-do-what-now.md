@@ -1,4 +1,4 @@
-# 埃洛普现在打算做什么？TechCrunch
+# 埃洛普现在打算做什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/08/elop-is-going-to-do-what-now/>
 

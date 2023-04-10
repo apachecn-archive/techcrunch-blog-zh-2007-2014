@@ -1,4 +1,4 @@
-# 2007 年创意节:第一天 TechCrunch
+# 2007 年创意节:第一天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/13/ideafestival-2007-day-1/>
 

@@ -1,4 +1,4 @@
-# LinkedIn 为公司网站添加了一个可嵌入的关注按钮 TechCrunch
+# LinkedIn 为公司网站添加了一个可嵌入的关注按钮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/linkedin-adds-an-embeddable-follow-button-for-company-sites/>
 

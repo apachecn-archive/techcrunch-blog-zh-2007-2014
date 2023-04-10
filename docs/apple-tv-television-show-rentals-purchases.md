@@ -1,4 +1,4 @@
-# 电视节目租赁失败后，苹果电视转向购买 TechCrunch
+# 电视节目租赁失败后，苹果电视转向购买 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/apple-tv-television-show-rentals-purchases/>
 

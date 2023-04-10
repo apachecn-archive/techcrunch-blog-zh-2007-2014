@@ -1,4 +1,4 @@
-# 亚马逊注册了十几个“云视频”域名 TechCrunch
+# 亚马逊注册了十几个“云视频”域名 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/amazon-registers-a-dozen-cloud-video-domains/>
 

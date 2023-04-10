@@ -1,4 +1,4 @@
-# Colorio E-820:爱普生的新照片打印机是便携式的，配有显示器和遥控器 TechCrunch
+# Colorio E-820:爱普生的新照片打印机是便携式的，配有显示器和遥控器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/colorio-e-820-epsons-new-photo-printer-is-portable-comes-with-display-and-remote-control/>
 

@@ -1,4 +1,4 @@
-# 邮政速递一瞥——快递业的优步 TechCrunch
+# 邮政速递一瞥——快递业的优步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/07/a-peek-at-postmates-the-uber-for-the-courier-industry/>
 

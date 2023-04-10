@@ -1,4 +1,4 @@
-# TripIt 的 Pro 计划现已收回成本，将跟踪航班行程以了解价格下降 TechCrunch
+# TripIt 的 Pro 计划现已收回成本，将跟踪航班行程以了解价格下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/21/tripits-pro-plan-now-pays-for-itself-will-track-flight-itineraries-for-price-drops/>
 

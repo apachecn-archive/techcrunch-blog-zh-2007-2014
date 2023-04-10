@@ -1,4 +1,4 @@
-# Flickr 联合创始人加入大批离开雅虎 TechCrunch
+# Flickr 联合创始人加入大批离开雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/17/flickr-co-founders-join-mass-exodus-from-yahoo/>
 

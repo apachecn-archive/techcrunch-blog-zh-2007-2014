@@ -1,4 +1,4 @@
-# 市场领导者以 825 万美元收购 RealEstate.com TechCrunch
+# 市场领导者以 825 万美元收购 RealEstate.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/market-leader-buys-realestate-com-for-an-undisclosed-sum/>
 

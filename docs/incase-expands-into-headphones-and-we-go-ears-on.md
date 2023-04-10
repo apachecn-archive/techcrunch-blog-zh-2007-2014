@@ -1,4 +1,4 @@
-# Incase 扩展到耳机领域，我们关注 TechCrunch
+# Incase 扩展到耳机领域，我们关注 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/incase-expands-into-headphones-and-we-go-ears-on/>
 

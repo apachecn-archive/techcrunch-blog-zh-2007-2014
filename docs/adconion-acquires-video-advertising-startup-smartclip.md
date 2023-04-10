@@ -1,4 +1,4 @@
-# Adconion 收购视频广告初创公司 Smartclip TechCrunch
+# Adconion 收购视频广告初创公司 Smartclip 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/adconion-acquires-video-advertising-startup-smartclip/>
 

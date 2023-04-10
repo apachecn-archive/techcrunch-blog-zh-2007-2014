@@ -1,4 +1,4 @@
-# 脸书照片现在可以全屏观看，分辨率更高 TechCrunch
+# 脸书照片现在可以全屏观看，分辨率更高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/22/facebook-photos-fullscreen/>
 

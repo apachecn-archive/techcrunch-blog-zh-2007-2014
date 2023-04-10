@@ -1,4 +1,4 @@
-# 生活日志应用 Saga 增加了社交功能，因此您可以与朋友分享每一个生活细节 TechCrunch
+# 生活日志应用 Saga 增加了社交功能，因此您可以与朋友分享每一个生活细节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/saga-social-lifelogging/>
 

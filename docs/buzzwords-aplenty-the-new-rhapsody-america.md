@@ -1,4 +1,4 @@
-# 大量流行词汇:新的“美国狂想曲”TechCrunch
+# 大量流行词汇:新的“美国狂想曲”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/buzzwords-aplenty-the-new-rhapsody-america/>
 

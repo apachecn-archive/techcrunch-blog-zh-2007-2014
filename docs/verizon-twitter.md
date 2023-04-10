@@ -1,4 +1,4 @@
-# 威瑞森从 Twitter 购买#网络星期一 TechCrunch
+# 威瑞森从 Twitter 购买#网络星期一 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/29/verizon-twitter/>
 

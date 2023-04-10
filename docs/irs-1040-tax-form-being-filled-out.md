@@ -1,4 +1,4 @@
-# 正在填写的 IRS 1040 税单–TechCrunch
+# 正在填写的 IRS 1040 税单–
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/you-can-now-download-your-tax-returns-from-the-irs/irs-1040-tax-form-being-filled-out/>
 

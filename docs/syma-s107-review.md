@@ -1,4 +1,4 @@
-# 点评:司马 S107 遥控直升机是 20 美元能买到的最酷的东西 TechCrunch
+# 点评:司马 S107 遥控直升机是 20 美元能买到的最酷的东西 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/syma-s107-review/>
 

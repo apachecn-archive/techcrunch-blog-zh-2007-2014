@@ -1,4 +1,4 @@
-# 脸书的移动广告增长到超过 3 亿美元，占总广告收入的 23% TechCrunch
+# 脸书的移动广告增长到超过 3 亿美元，占总广告收入的 23% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/30/facebook-q4-earnings-mobile/>
 

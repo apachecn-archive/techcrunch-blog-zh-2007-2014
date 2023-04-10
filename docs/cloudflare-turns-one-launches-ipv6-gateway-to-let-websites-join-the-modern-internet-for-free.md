@@ -1,4 +1,4 @@
-# CloudFlare 转一；推出 IPv6 网关，让网站免费“加入现代互联网”TechCrunch
+# CloudFlare 转一；推出 IPv6 网关，让网站免费“加入现代互联网”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/cloudflare-turns-one-launches-ipv6-gateway-to-let-websites-join-the-modern-internet-for-free/>
 

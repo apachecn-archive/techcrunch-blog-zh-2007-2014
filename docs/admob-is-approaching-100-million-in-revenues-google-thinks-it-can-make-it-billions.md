@@ -1,4 +1,4 @@
-# AdMob 的收入正在“接近 1 亿美元”。谷歌认为可以几十亿。TechCrunch
+# AdMob 的收入正在“接近 1 亿美元”。谷歌认为可以几十亿。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/09/admob-is-approaching-100-million-in-revenues-google-thinks-it-can-make-it-billions/>
 

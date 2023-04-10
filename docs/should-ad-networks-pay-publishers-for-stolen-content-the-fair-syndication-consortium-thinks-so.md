@@ -1,4 +1,4 @@
-# 广告网络应该为被盗内容向出版商付费吗？公平财团认为是这样的。TechCrunch
+# 广告网络应该为被盗内容向出版商付费吗？公平财团认为是这样的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/21/should-ad-networks-pay-publishers-for-stolen-content-the-fair-syndication-consortium-thinks-so/>
 

@@ -1,4 +1,4 @@
-# 假 iPhone 5 据称泄露了真 iPhone 5 的设计 TechCrunch
+# 假 iPhone 5 据称泄露了真 iPhone 5 的设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/fake-iphone-5-supposedly-leaks-the-real-iphone-5s-design/>
 

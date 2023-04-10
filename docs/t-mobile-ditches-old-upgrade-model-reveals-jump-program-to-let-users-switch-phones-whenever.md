@@ -1,4 +1,4 @@
-# T-Mobile 推出每月 10 美元的跳转计划，让用户每年升级两次手机 TechCrunch
+# T-Mobile 推出每月 10 美元的跳转计划，让用户每年升级两次手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/t-mobile-ditches-old-upgrade-model-reveals-jump-program-to-let-users-switch-phones-whenever/>
 

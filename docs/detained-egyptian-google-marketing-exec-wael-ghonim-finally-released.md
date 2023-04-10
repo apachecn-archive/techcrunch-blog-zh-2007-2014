@@ -1,4 +1,4 @@
-# 被拘留的埃及谷歌营销主管瓦伊尔·高尼姆发布了 TechCrunch
+# 被拘留的埃及谷歌营销主管瓦伊尔·高尼姆发布了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/07/detained-egyptian-google-marketing-exec-wael-ghonim-finally-released/>
 

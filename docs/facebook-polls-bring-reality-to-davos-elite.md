@@ -1,4 +1,4 @@
-# 脸书民意调查为达沃斯精英带来现实 TechCrunch
+# 脸书民意调查为达沃斯精英带来现实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/01/facebook-polls-bring-reality-to-davos-elite/>
 

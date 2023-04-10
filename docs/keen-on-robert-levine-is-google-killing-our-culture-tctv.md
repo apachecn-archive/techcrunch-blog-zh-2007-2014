@@ -1,4 +1,4 @@
-# 热衷于...罗伯特·莱文:谷歌正在扼杀我们的文化吗？TechCrunch
+# 热衷于...罗伯特·莱文:谷歌正在扼杀我们的文化吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/keen-on-robert-levine-is-google-killing-our-culture-tctv/>
 

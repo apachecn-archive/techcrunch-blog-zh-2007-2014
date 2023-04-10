@@ -1,4 +1,4 @@
-# 脸书的新时间线事件让你分享你已注册投票，注册网站的链接 TechCrunch
+# 脸书的新时间线事件让你分享你已注册投票，注册网站的链接 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/24/facebook-registered-to-vote/>
 

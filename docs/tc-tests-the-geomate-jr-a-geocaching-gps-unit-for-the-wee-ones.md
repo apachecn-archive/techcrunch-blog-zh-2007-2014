@@ -1,4 +1,4 @@
-# TC 测试 GeoMate Jr，这是一个为小不点设计的地理藏宝 GPS 装置 TechCrunch
+# TC 测试 GeoMate Jr，这是一个为小不点设计的地理藏宝 GPS 装置 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/tc-tests-the-geomate-jr-a-geocaching-gps-unit-for-the-wee-ones/>
 

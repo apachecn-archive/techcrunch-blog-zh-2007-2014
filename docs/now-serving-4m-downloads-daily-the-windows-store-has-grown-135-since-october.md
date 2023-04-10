@@ -1,4 +1,4 @@
-# 现在每天有 400 万次下载，自去年 10 月以来，Windows 商店增长了 135% TechCrunch
+# 现在每天有 400 万次下载，自去年 10 月以来，Windows 商店增长了 135% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/now-serving-4m-downloads-daily-the-windows-store-has-grown-135-since-october/>
 

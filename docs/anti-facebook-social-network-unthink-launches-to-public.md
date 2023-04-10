@@ -1,4 +1,4 @@
-# 反脸书社交网络“不思考”向公众发布 TechCrunch
+# 反脸书社交网络“不思考”向公众发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/anti-facebook-social-network-unthink-launches-to-public/>
 

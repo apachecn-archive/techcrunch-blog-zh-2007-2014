@@ -1,4 +1,4 @@
-# 谷歌 25 亿美元的展示广告可能已经超过了雅虎的 TechCrunch
+# 谷歌 25 亿美元的展示广告可能已经超过了雅虎的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/google-display-yaho/>
 

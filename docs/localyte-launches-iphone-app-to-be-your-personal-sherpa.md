@@ -1,4 +1,4 @@
-# Localyte 推出 iPhone 应用程序，成为您的个人向导 TechCrunch
+# Localyte 推出 iPhone 应用程序，成为您的个人向导 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/25/localyte-launches-iphone-app-to-be-your-personal-sherpa/>
 

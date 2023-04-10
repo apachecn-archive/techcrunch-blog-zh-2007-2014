@@ -1,4 +1,4 @@
-# Square 采用谭燕玉品牌的“双喜”设备 TechCrunch
+# Square 采用谭燕玉品牌的“双喜”设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/09/square-goes-high-fashion-with-vivienne-tam-branded-double-happiness-device/>
 

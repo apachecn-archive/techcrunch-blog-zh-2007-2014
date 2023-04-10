@@ -1,4 +1,4 @@
-# 新的苹果键盘评论——TechCrunch
+# 新的苹果键盘评论——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/17/the-new-apple-keyboard-reviewed/>
 

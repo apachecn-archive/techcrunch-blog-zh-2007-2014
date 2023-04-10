@@ -1,4 +1,4 @@
-# PRWeb 发布了关于其虚假新闻稿的新闻稿，但信任圈已经破裂 TechCrunch
+# PRWeb 发布了关于其虚假新闻稿的新闻稿，但信任圈已经破裂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/26/this-release-too-shall-pass/>
 

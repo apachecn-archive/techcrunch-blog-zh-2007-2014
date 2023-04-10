@@ -1,4 +1,4 @@
-# Turntable.fm 完成 700 万美元的融资，Fred Wilson 加入董事会 TechCrunch
+# Turntable.fm 完成 700 万美元的融资，Fred Wilson 加入董事会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/turntable-fm-7-million-round-fred-wilson/>
 

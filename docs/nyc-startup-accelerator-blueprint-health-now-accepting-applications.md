@@ -1,4 +1,4 @@
-# 纽约创业加速器蓝图 Health 现在接受申请 TechCrunch
+# 纽约创业加速器蓝图 Health 现在接受申请 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/nyc-startup-accelerator-blueprint-health-now-accepting-applications/>
 

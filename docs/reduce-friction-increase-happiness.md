@@ -1,4 +1,4 @@
-# 减少摩擦，增加快乐 TechCrunch
+# 减少摩擦，增加快乐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/16/reduce-friction-increase-happiness/>
 

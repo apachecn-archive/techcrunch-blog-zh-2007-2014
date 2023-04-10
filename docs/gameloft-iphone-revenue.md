@@ -1,4 +1,4 @@
-# 智乐去年从 App Store 赚了 2500 万美元 TechCrunch
+# 智乐去年从 App Store 赚了 2500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/gameloft-iphone-revenue/>
 

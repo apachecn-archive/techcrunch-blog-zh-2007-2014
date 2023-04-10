@@ -1,4 +1,4 @@
-# Blekko 采用 iPhone 和 Android 应用管理搜索移动技术 TechCrunch
+# Blekko 采用 iPhone 和 Android 应用管理搜索移动技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/28/blekko-takes-curated-search-mobile-with-iphone-and-android-apps/>
 

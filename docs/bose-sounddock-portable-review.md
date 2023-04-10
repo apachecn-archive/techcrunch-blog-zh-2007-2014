@@ -1,4 +1,4 @@
-# Bose SoundDock 便携式评论 TechCrunch
+# Bose SoundDock 便携式评论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/08/bose-sounddock-portable-review/>
 

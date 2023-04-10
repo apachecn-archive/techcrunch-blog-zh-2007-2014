@@ -1,4 +1,4 @@
-# 脸书民调显示 HD DVD 比蓝光更受欢迎:胡说？TechCrunch
+# 脸书民调显示 HD DVD 比蓝光更受欢迎:胡说？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/facebook-polling-says-hd-dvd-more-popular-than-blu-ray-bunk/>
 

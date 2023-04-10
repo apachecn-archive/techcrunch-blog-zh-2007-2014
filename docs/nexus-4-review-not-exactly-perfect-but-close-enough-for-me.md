@@ -1,4 +1,4 @@
-# Nexus 4 评测:不完全完美，但对我来说足够接近了 TechCrunch
+# Nexus 4 评测:不完全完美，但对我来说足够接近了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/02/nexus-4-review-not-exactly-perfect-but-close-enough-for-me/>
 

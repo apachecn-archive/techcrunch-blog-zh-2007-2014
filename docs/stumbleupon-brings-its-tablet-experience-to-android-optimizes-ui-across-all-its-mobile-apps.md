@@ -1,4 +1,4 @@
-# StumbleUpon 将其平板电脑体验引入 Android，优化其所有移动应用的用户界面 TechCrunch
+# StumbleUpon 将其平板电脑体验引入 Android，优化其所有移动应用的用户界面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/stumbleupon-brings-its-tablet-experience-to-android-optimizes-ui-across-all-its-mobile-apps/>
 

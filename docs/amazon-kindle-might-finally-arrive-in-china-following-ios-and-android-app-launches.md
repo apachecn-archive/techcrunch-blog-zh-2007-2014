@@ -1,4 +1,4 @@
-# 继 iOS 和 Android 应用发布之后，亚马逊 Kindle 可能最终进入中国 TechCrunch
+# 继 iOS 和 Android 应用发布之后，亚马逊 Kindle 可能最终进入中国 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/amazon-kindle-might-finally-arrive-in-china-following-ios-and-android-app-launches/>
 

@@ -1,4 +1,4 @@
-# Zynga 推出首款手机网络浏览器游戏黑手党战争大西洋城 TechCrunch
+# Zynga 推出首款手机网络浏览器游戏黑手党战争大西洋城 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/20/zynga-debuts-first-mobile-web-browser-game-mafia-wars-atlantic-city/>
 

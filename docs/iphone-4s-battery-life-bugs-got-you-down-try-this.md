@@ -1,4 +1,4 @@
-# iPhone 4S 电池寿命故障让你沮丧？试试这个 TechCrunch
+# iPhone 4S 电池寿命故障让你沮丧？试试这个 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/iphone-4s-battery-life-bugs-got-you-down-try-this/>
 

@@ -1,4 +1,4 @@
-# 作为长期客户，你从 T-Mobile 得到了什么？TechCrunch
+# 作为长期客户，你从 T-Mobile 得到了什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/01/what-do-you-get-from-t-mobile-for-being-a-longtime-customer/>
 

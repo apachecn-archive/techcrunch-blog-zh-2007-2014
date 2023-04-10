@@ -1,4 +1,4 @@
-# Slidelight iPad 应用程序是 Flipboard 和 Instagram 的混合体 TechCrunch
+# Slidelight iPad 应用程序是 Flipboard 和 Instagram 的混合体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/slidelight-ipad-app-is-a-flipboard-instagram-hybrid/>
 

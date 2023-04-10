@@ -1,4 +1,4 @@
-# 苹果公司宣布通过购买电视节目的流媒体服务向有线电视盒子发起全面进攻 TechCrunch
+# 苹果公司宣布通过购买电视节目的流媒体服务向有线电视盒子发起全面进攻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/apple-announces-a-full-assault-on-the-cable-box-with-the-streaming-of-purchased-tv-shows/>
 

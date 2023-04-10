@@ -1,4 +1,4 @@
-# 革命在路上 TechCrunch
+# 革命在路上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/26/revolutions-on-the-road/>
 

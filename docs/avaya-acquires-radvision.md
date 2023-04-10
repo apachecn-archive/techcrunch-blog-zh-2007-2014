@@ -1,4 +1,4 @@
-# RadVision 最终以 2.3 亿美元的价格在电信巨头 Avaya 找到了归宿 TechCrunch
+# RadVision 最终以 2.3 亿美元的价格在电信巨头 Avaya 找到了归宿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/15/avaya-acquires-radvision/>
 

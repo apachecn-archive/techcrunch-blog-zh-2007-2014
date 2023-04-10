@@ -1,4 +1,4 @@
-# 时代公司宣布计划在 2011 年为其所有 21 本美国图书提供平板电脑应用程序 TechCrunch
+# 时代公司宣布计划在 2011 年为其所有 21 本美国图书提供平板电脑应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/time-inc-announces-plans-to-offer-tablet-apps-for-all-its-21-u-s-titles-in-2011/>
 

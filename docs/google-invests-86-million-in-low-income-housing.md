@@ -1,4 +1,4 @@
-# 谷歌向低收入住房投资 8600 万美元 TechCrunch
+# 谷歌向低收入住房投资 8600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/google-invests-86-million-in-low-income-housing/>
 

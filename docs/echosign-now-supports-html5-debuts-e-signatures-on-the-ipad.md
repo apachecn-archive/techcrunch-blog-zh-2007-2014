@@ -1,4 +1,4 @@
-# EchoSign 现在支持 HTML5，在 iPad 上首次推出电子签名 TechCrunch
+# EchoSign 现在支持 HTML5，在 iPad 上首次推出电子签名 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/15/echosign-now-supports-html5-debuts-e-signatures-on-the-ipad/>
 

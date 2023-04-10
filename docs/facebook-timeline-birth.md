@@ -1,4 +1,4 @@
-# 在设计和数据的交汇处，脸书时间线诞生了 TechCrunch
+# 在设计和数据的交汇处，脸书时间线诞生了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/facebook-timeline-birth/>
 

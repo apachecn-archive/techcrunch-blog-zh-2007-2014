@@ -1,4 +1,4 @@
-# 全心投入 TechCrunch 50 TechCrunch
+# 全心投入 TechCrunch 50 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/18/pouring-our-heart-into-techcrunch50/>
 

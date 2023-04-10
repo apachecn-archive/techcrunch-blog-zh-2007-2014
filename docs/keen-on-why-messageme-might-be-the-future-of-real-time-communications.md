@@ -1,4 +1,4 @@
-# 热衷于...为什么 MessageMe 可能是实时通信的未来 TechCrunch
+# 热衷于...为什么 MessageMe 可能是实时通信的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/01/keen-on-why-messageme-might-be-the-future-of-real-time-communications/>
 

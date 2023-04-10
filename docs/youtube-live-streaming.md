@@ -1,4 +1,4 @@
-# 这是真的:YouTube 首次推出直播平台，进行为期两天的测试 TechCrunch
+# 这是真的:YouTube 首次推出直播平台，进行为期两天的测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/12/youtube-live-streaming/>
 

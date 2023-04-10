@@ -1,4 +1,4 @@
-# 黑莓首席执行官海托斯顿·海因斯称平板电脑“不是一个好的商业模式”，显然忘记了 iPad TechCrunch
+# 黑莓首席执行官海托斯顿·海因斯称平板电脑“不是一个好的商业模式”，显然忘记了 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/blackberry-ceo-thorsten-heins-says-tablets-not-a-good-business-model-evidently-forgetting-about-ipad/>
 

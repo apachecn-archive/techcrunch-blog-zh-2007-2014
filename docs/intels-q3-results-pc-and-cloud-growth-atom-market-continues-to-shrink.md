@@ -1,4 +1,4 @@
-# 英特尔第三季度业绩:电脑和云增长，凌动市场继续萎缩 TechCrunch
+# 英特尔第三季度业绩:电脑和云增长，凌动市场继续萎缩 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/intels-q3-results-pc-and-cloud-growth-atom-market-continues-to-shrink/>
 

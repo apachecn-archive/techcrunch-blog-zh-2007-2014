@@ -1,4 +1,4 @@
-# 《豪斯医生》导演兼 Twitter 天使投资人格雷格·艾坦尼斯扰乱 SF TechCrunch
+# 《豪斯医生》导演兼 Twitter 天使投资人格雷格·艾坦尼斯扰乱 SF 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/house-director-and-twitter-angel-investor-greg-yaitanes-to-disrupt-sf/>
 

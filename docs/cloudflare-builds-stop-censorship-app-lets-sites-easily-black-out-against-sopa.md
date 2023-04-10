@@ -1,4 +1,4 @@
-# CloudFlare 构建“停止审查”应用，让网站轻松“黑掉”SOPA TechCrunch
+# CloudFlare 构建“停止审查”应用，让网站轻松“黑掉”SOPA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/16/cloudflare-builds-stop-censorship-app-lets-sites-easily-black-out-against-sopa/>
 

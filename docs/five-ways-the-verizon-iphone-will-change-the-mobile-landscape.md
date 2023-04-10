@@ -1,4 +1,4 @@
-# 威瑞森 iPhone 将改变移动世界的五种方式 TechCrunch
+# 威瑞森 iPhone 将改变移动世界的五种方式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/09/five-ways-the-verizon-iphone-will-change-the-mobile-landscape/>
 

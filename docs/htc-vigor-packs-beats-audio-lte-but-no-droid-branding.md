@@ -1,4 +1,4 @@
-# HTC Vigor Packs 打败了 Audio，LTE，却没有 DROID 品牌？TechCrunch
+# HTC Vigor Packs 打败了 Audio，LTE，却没有 DROID 品牌？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/23/htc-vigor-packs-beats-audio-lte-but-no-droid-branding/>
 

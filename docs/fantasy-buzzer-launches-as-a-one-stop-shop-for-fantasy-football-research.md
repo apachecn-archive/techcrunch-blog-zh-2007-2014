@@ -1,4 +1,4 @@
-# 梦幻蜂鸣器作为梦幻足球研究的一站式商店推出 TechCrunch
+# 梦幻蜂鸣器作为梦幻足球研究的一站式商店推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/01/fantasy-buzzer-launches-as-a-one-stop-shop-for-fantasy-football-research/>
 

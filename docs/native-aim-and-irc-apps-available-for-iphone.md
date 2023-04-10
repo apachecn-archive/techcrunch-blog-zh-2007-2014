@@ -1,4 +1,4 @@
-# 适用于 iPhone 的原生 AIM 和 IRC 应用 TechCrunch
+# 适用于 iPhone 的原生 AIM 和 IRC 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/native-aim-and-irc-apps-available-for-iphone/>
 

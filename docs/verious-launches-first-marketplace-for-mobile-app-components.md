@@ -1,4 +1,4 @@
-# Verious 推出首个移动应用组件市场 TechCrunch
+# Verious 推出首个移动应用组件市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/verious-launches-first-marketplace-for-mobile-app-components/>
 

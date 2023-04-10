@@ -1,4 +1,4 @@
-# YC 资助的州际公路在地图上标出您的开发进度 TechCrunch
+# YC 资助的州际公路在地图上标出您的开发进度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/12/yc-funded-interstate-plots-your-development-progress-on-the-map/>
 

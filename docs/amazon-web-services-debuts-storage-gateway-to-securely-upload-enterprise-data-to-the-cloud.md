@@ -1,4 +1,4 @@
-# 亚马逊网络服务推出存储网关，将企业数据安全上传至云端 TechCrunch
+# 亚马逊网络服务推出存储网关，将企业数据安全上传至云端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/amazon-web-services-debuts-storage-gateway-to-securely-upload-enterprise-data-to-the-cloud/>
 

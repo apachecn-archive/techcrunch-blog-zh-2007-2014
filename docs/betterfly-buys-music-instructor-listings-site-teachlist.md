@@ -1,4 +1,4 @@
-# Betterfly 购买音乐教师列表网站 teach list TechCrunch
+# Betterfly 购买音乐教师列表网站 teach list 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/betterfly-buys-music-instructor-listings-site-teachlist/>
 

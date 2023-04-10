@@ -1,4 +1,4 @@
-# iMovie’08 让 David Pogue 很生气 TechCrunch
+# iMovie’08 让 David Pogue 很生气 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/imovie-08-makes-david-pogue-angry/>
 

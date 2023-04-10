@@ -1,4 +1,4 @@
-# 天才:如果昨晚下雪，新应用程序会让你更早醒来 TechCrunch
+# 天才:如果昨晚下雪，新应用程序会让你更早醒来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/28/genius-new-app-wakes-you-up-earlier-if-it-snowed-last-night/>
 

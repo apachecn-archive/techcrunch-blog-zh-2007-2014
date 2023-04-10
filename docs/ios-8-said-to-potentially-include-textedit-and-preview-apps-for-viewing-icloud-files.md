@@ -1,4 +1,4 @@
-# 据说 iOS 8 可能会包含用于查看 iCloud 文件的文本编辑和预览应用程序 TechCrunch
+# 据说 iOS 8 可能会包含用于查看 iCloud 文件的文本编辑和预览应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/ios-8-said-to-potentially-include-textedit-and-preview-apps-for-viewing-icloud-files/>
 

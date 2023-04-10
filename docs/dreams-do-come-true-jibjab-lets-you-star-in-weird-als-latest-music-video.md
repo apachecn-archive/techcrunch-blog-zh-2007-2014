@@ -1,4 +1,4 @@
-# 梦想成真:JibJab 让你出演怪异艾尔的最新音乐视频 TechCrunch
+# 梦想成真:JibJab 让你出演怪异艾尔的最新音乐视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/03/dreams-do-come-true-jibjab-lets-you-star-in-weird-als-latest-music-video/>
 

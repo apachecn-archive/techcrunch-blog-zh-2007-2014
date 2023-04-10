@@ -1,4 +1,4 @@
-# WordPress.com 获得专用开发者门户网站 OAuth2 的支持 TechCrunch
+# WordPress.com 获得专用开发者门户网站 OAuth2 的支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/wordpress-com-gains-support-for-oauth2-dedicated-developer-portal/>
 

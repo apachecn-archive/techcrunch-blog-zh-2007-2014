@@ -1,4 +1,4 @@
-# TC50: Popego 根据你的兴趣定制社交图 TechCrunch
+# TC50: Popego 根据你的兴趣定制社交图 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/09/09/popego-tailors-the-social-graph-to-your-interests/>
 

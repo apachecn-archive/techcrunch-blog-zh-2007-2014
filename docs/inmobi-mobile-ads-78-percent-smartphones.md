@@ -1,4 +1,4 @@
-# InMobi:北美 78%的移动广告在智能手机上 TechCrunch
+# InMobi:北美 78%的移动广告在智能手机上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/inmobi-mobile-ads-78-percent-smartphones/>
 

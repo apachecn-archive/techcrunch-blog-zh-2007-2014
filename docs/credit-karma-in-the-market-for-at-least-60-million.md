@@ -1,4 +1,4 @@
-# 至少 6000 万美元的市场信用因果报应 TechCrunch
+# 至少 6000 万美元的市场信用因果报应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/03/credit-karma-in-the-market-for-at-least-60-million/>
 

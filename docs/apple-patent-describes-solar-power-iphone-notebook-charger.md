@@ -1,4 +1,4 @@
-# 苹果专利描述太阳能 iPhone、笔记本充电器 TechCrunch
+# 苹果专利描述太阳能 iPhone、笔记本充电器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/apple-patent-describes-solar-power-iphone-notebook-charger/>
 

@@ -1,4 +1,4 @@
-# iOS 版网飞 2.0 运动版精彩改版界面 TechCrunch
+# iOS 版网飞 2.0 运动版精彩改版界面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/netflix-2-0-for-ios-sports-awesome-revamped-interface/>
 

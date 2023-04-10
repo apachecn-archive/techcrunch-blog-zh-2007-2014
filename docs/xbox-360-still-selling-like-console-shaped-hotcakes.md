@@ -1,4 +1,4 @@
-# Xbox 360 仍像游戏机形状的烤饼一样热销 TechCrunch
+# Xbox 360 仍像游戏机形状的烤饼一样热销 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/xbox-360-still-selling-like-console-shaped-hotcakes/>
 

@@ -1,4 +1,4 @@
-# 关于俄罗斯和东欧的创业生态系统，你需要知道的一切 TechCrunch
+# 关于俄罗斯和东欧的创业生态系统，你需要知道的一切 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/everything-you-need-to-know-about-the-startup-ecosystem-in-russia-and-eastern-europe/>
 

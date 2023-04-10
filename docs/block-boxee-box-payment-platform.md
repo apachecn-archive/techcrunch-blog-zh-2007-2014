@@ -1,4 +1,4 @@
-# 首席执行官预计电视网络将阻止 Boxee Box，计划通过支付平台赢得他们的支持 TechCrunch
+# 首席执行官预计电视网络将阻止 Boxee Box，计划通过支付平台赢得他们的支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/10/block-boxee-box-payment-platform/>
 

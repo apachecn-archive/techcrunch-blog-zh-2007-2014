@@ -1,4 +1,4 @@
-# 苹果将通过应用程序租赁来打击 iOS 盗版？TechCrunch
+# 苹果将通过应用程序租赁来打击 iOS 盗版？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/app-store-rentals/>
 

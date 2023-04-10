@@ -1,4 +1,4 @@
-# 亚马逊推出新的 79 美元 E-Ink Kindle，99 美元 Kindle Touch TechCrunch
+# 亚马逊推出新的 79 美元 E-Ink Kindle，99 美元 Kindle Touch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/amazon-unveils-new-79-kindle-99-e-ink-kindle-touch/>
 

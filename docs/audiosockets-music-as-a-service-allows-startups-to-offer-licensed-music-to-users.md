@@ -1,4 +1,4 @@
-# Audiosocket 的音乐即服务允许初创公司向用户提供授权音乐 TechCrunch
+# Audiosocket 的音乐即服务允许初创公司向用户提供授权音乐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/audiosockets-music-as-a-service-allows-startups-to-offer-licensed-music-to-users/>
 

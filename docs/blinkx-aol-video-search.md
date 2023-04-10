@@ -1,4 +1,4 @@
-# Blinkx 取代 Truveo 推动 AOL 视频搜索 TechCrunch
+# Blinkx 取代 Truveo 推动 AOL 视频搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/13/blinkx-aol-video-search/>
 

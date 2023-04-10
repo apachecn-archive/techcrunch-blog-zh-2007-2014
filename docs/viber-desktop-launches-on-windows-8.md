@@ -1,4 +1,4 @@
-# Viber 桌面在 Windows 8 上发布 TechCrunch
+# Viber 桌面在 Windows 8 上发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/18/viber-desktop-launches-on-windows-8/>
 

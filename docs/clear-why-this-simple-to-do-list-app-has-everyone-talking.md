@@ -1,4 +1,4 @@
-# 清楚:为什么这个简单的待办事项应用让所有人都在谈论 TechCrunch
+# 清楚:为什么这个简单的待办事项应用让所有人都在谈论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/14/clear-why-this-simple-to-do-list-app-has-everyone-talking/>
 

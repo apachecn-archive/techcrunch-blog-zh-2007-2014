@@ -1,4 +1,4 @@
-# Grindr For Equality 需要你！帮助让世界变得更快乐 TechCrunch
+# Grindr For Equality 需要你！帮助让世界变得更快乐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/23/grindr-for-equality-needs-you-help-make-the-world-a-gayer-happier-place/>
 

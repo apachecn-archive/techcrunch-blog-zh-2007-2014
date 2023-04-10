@@ -1,4 +1,4 @@
-# 徕卡计划在 9 月推出新系列邪恶相机 TechCrunch
+# 徕卡计划在 9 月推出新系列邪恶相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/leica-planning-new-line-of-evil-cameras-for-september-debut/>
 

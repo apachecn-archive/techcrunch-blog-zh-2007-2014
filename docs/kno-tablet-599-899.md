@@ -1,4 +1,4 @@
-# Kno 平板电脑单屏起价 599 美元，双屏起价 899 美元 TechCrunch
+# Kno 平板电脑单屏起价 599 美元，双屏起价 899 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/08/kno-tablet-599-899/>
 

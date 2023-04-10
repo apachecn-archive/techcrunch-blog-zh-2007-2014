@@ -1,4 +1,4 @@
-# HootSuite 从赫斯特和其他公司筹集 300 万美元，收购 Twitter 数据分析工具 TwapperKeeper TechCrunch
+# HootSuite 从赫斯特和其他公司筹集 300 万美元，收购 Twitter 数据分析工具 TwapperKeeper 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/hootsuite-raises-3m-from-hearst-and-others-buys-twitter-data-analysis-tool-twapperkeeper/>
 

@@ -1,4 +1,4 @@
-# 脸书将你的时间线变成 Moo 名片，前 20 万张免费 TechCrunch
+# 脸书将你的时间线变成 Moo 名片，前 20 万张免费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/05/facebook-turns-your-timeline-into-moo-business-cards-first-200000-are-free/>
 

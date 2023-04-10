@@ -1,4 +1,4 @@
-# 美国电话电报公司宣布他们的下三款黑莓手机:Torch 9810、Bold 9900 和 Torch 9680 TechCrunch
+# 美国电话电报公司宣布他们的下三款黑莓手机:Torch 9810、Bold 9900 和 Torch 9680 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/att-blackberry-torch-9810-9680-bold-9900/>
 

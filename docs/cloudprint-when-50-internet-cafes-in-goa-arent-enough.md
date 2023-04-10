@@ -1,4 +1,4 @@
-# Cloudprint:当果阿的 50 家网吧不够用时 TechCrunch
+# Cloudprint:当果阿的 50 家网吧不够用时 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/cloudprint-when-50-internet-cafes-in-goa-arent-enough/>
 

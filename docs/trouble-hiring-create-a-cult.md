@@ -1,4 +1,4 @@
-# 招人有困难？创建一个邪教。TechCrunch
+# 招人有困难？创建一个邪教。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/trouble-hiring-create-a-cult/>
 

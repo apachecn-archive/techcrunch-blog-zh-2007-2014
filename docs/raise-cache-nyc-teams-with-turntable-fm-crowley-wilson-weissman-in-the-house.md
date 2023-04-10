@@ -1,4 +1,4 @@
-# 用转盘提升 Cache 纽约团队。fm: Crowley，Wilson & Weissman In The House TechCrunch
+# 用转盘提升 Cache 纽约团队。fm: Crowley，Wilson & Weissman In The House 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/raise-cache-nyc-teams-with-turntable-fm-crowley-wilson-weissman-in-the-house/>
 

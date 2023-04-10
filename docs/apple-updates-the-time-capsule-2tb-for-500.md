@@ -1,4 +1,4 @@
-# 苹果更新时间胶囊，2TB 售价 500 美元 TechCrunch
+# 苹果更新时间胶囊，2TB 售价 500 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/apple-updates-the-time-capsule-2tb-for-500/>
 

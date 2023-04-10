@@ -1,4 +1,4 @@
-# Qwiki 的下一步棋:仅移动端；将 Web 应用程序转变为专业工具 TechCrunch
+# Qwiki 的下一步棋:仅移动端；将 Web 应用程序转变为专业工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/qwikis-next-move-mobile-only-web-app-to-transition-to-a-pro-tool/>
 

@@ -1,4 +1,4 @@
-# 为 Kindle 偷书非常简单 TechCrunch
+# 为 Kindle 偷书非常简单 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/12/02/stealing-books-for-the-kindle-is-trivially-easy/>
 

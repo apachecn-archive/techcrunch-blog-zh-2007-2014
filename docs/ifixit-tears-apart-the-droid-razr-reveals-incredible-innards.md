@@ -1,4 +1,4 @@
-# iFixit 拆开 Droid RAZR，展示难以置信的内部结构 TechCrunch
+# iFixit 拆开 Droid RAZR，展示难以置信的内部结构 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/ifixit-tears-apart-the-droid-razr-reveals-incredible-innards/>
 

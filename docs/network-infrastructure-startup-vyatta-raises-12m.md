@@ -1,4 +1,4 @@
-# 网络基础设施初创公司 Vyatta 融资 1200 万美元 TechCrunch
+# 网络基础设施初创公司 Vyatta 融资 1200 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/network-infrastructure-startup-vyatta-raises-12m/>
 

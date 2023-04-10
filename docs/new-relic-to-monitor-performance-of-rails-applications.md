@@ -1,4 +1,4 @@
-# 监控 Rails 应用程序性能的新遗迹 TechCrunch
+# 监控 Rails 应用程序性能的新遗迹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/30/new-relic-to-monitor-performance-of-rails-applications/>
 

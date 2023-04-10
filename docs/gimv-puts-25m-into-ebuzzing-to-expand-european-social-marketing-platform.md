@@ -1,4 +1,4 @@
-# Ebuzzing 获得 2500 万美元用于扩展欧洲社交营销平台 TechCrunch
+# Ebuzzing 获得 2500 万美元用于扩展欧洲社交营销平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/gimv-puts-25m-into-ebuzzing-to-expand-european-social-marketing-platform/>
 

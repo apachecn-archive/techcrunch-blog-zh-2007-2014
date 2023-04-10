@@ -1,4 +1,4 @@
-# 上网本活了！华硕发布 MeeGo Eee PC X101 上网本产品页面 TechCrunch
+# 上网本活了！华硕发布 MeeGo Eee PC X101 上网本产品页面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/the-netbook-lives-asus-launches-product-page-for-the-meego-eee-pc-x101-netbook/>
 

@@ -1,4 +1,4 @@
-# 谷歌失去了曾经让史蒂夫·鲍尔默(Steve Ballmer)垮台的工程总监 TechCrunch
+# 谷歌失去了曾经让史蒂夫·鲍尔默(Steve Ballmer)垮台的工程总监 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/13/google-loses-engineering-director-who-once-caused-steve-ballmer-to-melt-down/>
 

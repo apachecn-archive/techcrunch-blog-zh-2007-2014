@@ -1,4 +1,4 @@
-# 特斯拉向 Telefonica 支付数百万英镑，为英国、德国、西班牙和荷兰的车载无线系统提供动力 TechCrunch
+# 特斯拉向 Telefonica 支付数百万英镑，为英国、德国、西班牙和荷兰的车载无线系统提供动力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/tesla-pays-telefonica-millions-to-power-in-car-wireless-in-uk-germany-spain-holland/>
 

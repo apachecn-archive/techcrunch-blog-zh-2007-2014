@@ -1,4 +1,4 @@
-# 谷歌相似图片第一次看 TechCrunch
+# 谷歌相似图片第一次看 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/04/20/google-similar-images-first-look/>
 

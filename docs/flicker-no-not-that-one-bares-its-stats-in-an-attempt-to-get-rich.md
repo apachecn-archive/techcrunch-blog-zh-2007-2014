@@ -1,4 +1,4 @@
-# Flicker(不，不是那一个)展示了它的统计数据，试图致富 TechCrunch
+# Flicker(不，不是那一个)展示了它的统计数据，试图致富 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/26/flicker-no-not-that-one-bares-its-stats-in-an-attempt-to-get-rich/>
 

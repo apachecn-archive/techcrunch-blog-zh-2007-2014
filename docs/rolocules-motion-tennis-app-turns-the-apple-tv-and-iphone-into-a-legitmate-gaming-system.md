@@ -1,4 +1,4 @@
-# Rolocule 的 Motion Tennis 应用程序将 Apple TV 和 iPhone 变成了一个合法的游戏系统 TechCrunch
+# Rolocule 的 Motion Tennis 应用程序将 Apple TV 和 iPhone 变成了一个合法的游戏系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/rolocules-motion-tennis-app-turns-the-apple-tv-and-iphone-into-a-legitmate-gaming-system/>
 

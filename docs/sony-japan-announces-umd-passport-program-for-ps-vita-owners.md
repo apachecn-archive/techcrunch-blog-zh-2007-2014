@@ -1,4 +1,4 @@
-# 索尼日本宣布面向 PS Vita 用户的 UMD 护照计划 TechCrunch
+# 索尼日本宣布面向 PS Vita 用户的 UMD 护照计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/sony-japan-announces-umd-passport-program-for-ps-vita-owners/>
 

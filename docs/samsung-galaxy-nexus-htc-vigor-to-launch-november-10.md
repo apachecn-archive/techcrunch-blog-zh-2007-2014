@@ -1,4 +1,4 @@
-# 三星 Galaxy Nexus，HTC Vigor 将于 11 月 10 日推出？TechCrunch
+# 三星 Galaxy Nexus，HTC Vigor 将于 11 月 10 日推出？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/samsung-galaxy-nexus-htc-vigor-to-launch-november-10/>
 

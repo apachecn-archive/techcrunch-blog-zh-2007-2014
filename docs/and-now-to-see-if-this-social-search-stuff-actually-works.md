@@ -1,4 +1,4 @@
-# 现在来看看社交搜索是否真的有用 TechCrunch
+# 现在来看看社交搜索是否真的有用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/17/and-now-to-see-if-this-social-search-stuff-actually-works/>
 

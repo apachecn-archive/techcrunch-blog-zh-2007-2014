@@ -1,4 +1,4 @@
-# TaskRabbit 收购服务提供商目录 skills late TechCrunch
+# TaskRabbit 收购服务提供商目录 skills late 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/taskrabbit-acquires-service-provider-directory-skillslate/>
 

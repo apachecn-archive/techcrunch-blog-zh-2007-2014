@@ -1,4 +1,4 @@
-# 苹果继续在澳大利亚阻止 Galaxy Tab 10.1 TechCrunch
+# 苹果继续在澳大利亚阻止 Galaxy Tab 10.1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/apple-continues-to-block-the-galaxy-tab-10-1-in-australia/>
 

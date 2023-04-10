@@ -1,4 +1,4 @@
-# Avado 推出“患者关系管理”平台，帮助医疗保健提供商实现数字化 TechCrunch
+# Avado 推出“患者关系管理”平台，帮助医疗保健提供商实现数字化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/avado-launches-patient-relationship-management-platform-to-help-healthcare-providers-go-digital/>
 

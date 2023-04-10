@@ -1,4 +1,4 @@
-# 第九城市推出移动游戏平台& SDK，让开发者进入中国市场 TechCrunch
+# 第九城市推出移动游戏平台& SDK，让开发者进入中国市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/01/the9-launches-mobile-gaming-platform-sdk-to-give-developers-access-the-chinese-market/>
 

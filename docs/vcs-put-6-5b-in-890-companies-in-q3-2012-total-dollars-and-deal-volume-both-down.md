@@ -1,4 +1,4 @@
-# 2012 年第三季度，风投对 890 家公司投资 65 亿美元；美元总额和交易量双双下降 TechCrunch
+# 2012 年第三季度，风投对 890 家公司投资 65 亿美元；美元总额和交易量双双下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/18/vcs-put-6-5b-in-890-companies-in-q3-2012-total-dollars-and-deal-volume-both-down/>
 

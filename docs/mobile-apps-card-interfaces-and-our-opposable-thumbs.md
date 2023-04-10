@@ -1,4 +1,4 @@
-# 移动应用、卡片界面和我们相对的拇指 TechCrunch
+# 移动应用、卡片界面和我们相对的拇指 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/22/mobile-apps-card-interfaces-and-our-opposable-thumbs/>
 

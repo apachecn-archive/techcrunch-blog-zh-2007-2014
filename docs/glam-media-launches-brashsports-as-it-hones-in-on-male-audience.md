@@ -1,4 +1,4 @@
-# Glam Media 推出 BrashSports，瞄准男性观众 TechCrunch
+# Glam Media 推出 BrashSports，瞄准男性观众 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/26/glam-media-launches-brashsports-as-it-hones-in-on-male-audience/>
 

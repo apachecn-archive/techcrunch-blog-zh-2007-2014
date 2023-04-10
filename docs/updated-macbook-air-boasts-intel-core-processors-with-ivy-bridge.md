@@ -1,4 +1,4 @@
-# 更新的 MacBook Air 采用英特尔酷睿 i5 处理器和 Ivy Bridge TechCrunch
+# 更新的 MacBook Air 采用英特尔酷睿 i5 处理器和 Ivy Bridge 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/updated-macbook-air-boasts-intel-core-processors-with-ivy-bridge/>
 

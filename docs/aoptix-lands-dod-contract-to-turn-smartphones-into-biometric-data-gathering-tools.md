@@ -1,4 +1,4 @@
-# AOptix 获得国防部合同，将智能手机转变为生物数据收集工具 TechCrunch
+# AOptix 获得国防部合同，将智能手机转变为生物数据收集工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/aoptix-lands-dod-contract-to-turn-smartphones-into-biometric-data-gathering-tools/>
 

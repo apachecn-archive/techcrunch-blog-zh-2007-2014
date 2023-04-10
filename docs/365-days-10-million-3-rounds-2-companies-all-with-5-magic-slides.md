@@ -1,4 +1,4 @@
-# 365 天，1000 万美元，3 轮，2 家公司，5 张神奇幻灯片 TechCrunch
+# 365 天，1000 万美元，3 轮，2 家公司，5 张神奇幻灯片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/02/365-days-10-million-3-rounds-2-companies-all-with-5-magic-slides/>
 

@@ -1,4 +1,4 @@
-# Shumway，Mozilla 基于 HTML5 的 Flash 播放器替代品，登陆 Firefox Nightly TechCrunch
+# Shumway，Mozilla 基于 HTML5 的 Flash 播放器替代品，登陆 Firefox Nightly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/03/shumway-mozillas-html5-based-flash-player-replacement-lands-in-firefox-nightly/>
 

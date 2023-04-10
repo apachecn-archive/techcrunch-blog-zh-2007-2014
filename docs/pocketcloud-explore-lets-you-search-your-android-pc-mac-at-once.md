@@ -1,4 +1,4 @@
-# PocketCloud Explore 让您可以同时搜索您的 Android、PC 和 Mac 电脑 TechCrunch
+# PocketCloud Explore 让您可以同时搜索您的 Android、PC 和 Mac 电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/pocketcloud-explore-lets-you-search-your-android-pc-mac-at-once/>
 

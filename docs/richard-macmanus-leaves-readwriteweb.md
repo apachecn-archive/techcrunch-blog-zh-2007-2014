@@ -1,4 +1,4 @@
-# 创始人理查德·麦克马努斯离开读写网，开始写书 TechCrunch
+# 创始人理查德·麦克马努斯离开读写网，开始写书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/12/richard-macmanus-leaves-readwriteweb/>
 

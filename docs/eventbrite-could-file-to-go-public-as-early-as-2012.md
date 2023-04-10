@@ -1,4 +1,4 @@
-# Eventbrite 最早可能在 2012 年申请上市 TechCrunch
+# Eventbrite 最早可能在 2012 年申请上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/eventbrite-could-file-to-go-public-as-early-as-2012/>
 

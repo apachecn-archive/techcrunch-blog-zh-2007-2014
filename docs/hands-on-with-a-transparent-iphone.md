@@ -1,4 +1,4 @@
-# 手握透明 iPhone TechCrunch
+# 手握透明 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/hands-on-with-a-transparent-iphone/>
 

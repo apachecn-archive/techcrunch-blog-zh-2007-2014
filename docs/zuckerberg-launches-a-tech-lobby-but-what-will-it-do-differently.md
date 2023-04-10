@@ -1,4 +1,4 @@
-# 扎克伯格发起了一个技术游说团，但它会有什么不同？TechCrunch
+# 扎克伯格发起了一个技术游说团，但它会有什么不同？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/zuckerberg-launches-a-tech-lobby-but-what-will-it-do-differently/>
 

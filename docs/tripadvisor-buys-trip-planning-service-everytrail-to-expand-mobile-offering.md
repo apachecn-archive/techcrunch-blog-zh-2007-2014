@@ -1,4 +1,4 @@
-# 猫途鹰收购旅行规划服务 EveryTrail 以扩大移动服务 TechCrunch
+# 猫途鹰收购旅行规划服务 EveryTrail 以扩大移动服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/03/tripadvisor-buys-trip-planning-service-everytrail-to-expand-mobile-offering/>
 

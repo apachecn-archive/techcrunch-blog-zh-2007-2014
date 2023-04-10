@@ -1,4 +1,4 @@
-# 脸书的“泰坦计划”:功能全面的网络邮件产品 TechCrunch
+# 脸书的“泰坦计划”:功能全面的网络邮件产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/05/facebooks-project-titan-a-full-featured-webmail-product/>
 

@@ -1,4 +1,4 @@
-# 谷歌的知识图谱现在被用来增强个人搜索结果 TechCrunch
+# 谷歌的知识图谱现在被用来增强个人搜索结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/googles-knowledge-graph-now-being-used-to-enhance-individual-search-results/>
 

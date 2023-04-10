@@ -1,4 +1,4 @@
-# 正好赶上 NFL 新赛季，Taptu 为移动读者带来了梦幻足球 TechCrunch
+# 正好赶上 NFL 新赛季，Taptu 为移动读者带来了梦幻足球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/12/just-in-time-for-the-new-nfl-season-taptu-brings-fantasy-football-to-mobile-readers/>
 

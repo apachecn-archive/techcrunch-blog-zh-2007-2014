@@ -1,4 +1,4 @@
-# 迪士尼的应用程序伙伴将 iPad 变成互动玩伴 TechCrunch
+# 迪士尼的应用程序伙伴将 iPad 变成互动玩伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/disneys-appmates-turn-the-ipad-into-an-interactive-playmat/>
 

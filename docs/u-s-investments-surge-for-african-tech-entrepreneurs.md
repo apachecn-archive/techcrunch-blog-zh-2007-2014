@@ -1,4 +1,4 @@
-# 美国对非洲科技企业家的投资激增 TechCrunch
+# 美国对非洲科技企业家的投资激增 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/23/u-s-investments-surge-for-african-tech-entrepreneurs/>
 

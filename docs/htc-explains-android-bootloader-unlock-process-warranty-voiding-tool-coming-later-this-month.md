@@ -1,4 +1,4 @@
-# HTC 解释 Android Bootloader 解锁过程，保修作废工具将于本月晚些时候推出 TechCrunch
+# HTC 解释 Android Bootloader 解锁过程，保修作废工具将于本月晚些时候推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/htc-explains-android-bootloader-unlock-process-warranty-voiding-tool-coming-later-this-month/>
 

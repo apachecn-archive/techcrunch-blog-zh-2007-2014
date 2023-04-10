@@ -1,4 +1,4 @@
-# Urbandig 应用程序希望带您进行专业的本地旅行 TechCrunch
+# Urbandig 应用程序希望带您进行专业的本地旅行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/21/urbandig-app-wants-to-take-you-on-expert-local-tours/>
 

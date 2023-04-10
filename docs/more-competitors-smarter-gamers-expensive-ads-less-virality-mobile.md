@@ -1,4 +1,4 @@
-# Zynga 为何失败 TechCrunch
+# Zynga 为何失败 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/05/more-competitors-smarter-gamers-expensive-ads-less-virality-mobile/>
 

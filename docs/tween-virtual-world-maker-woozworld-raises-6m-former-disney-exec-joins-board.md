@@ -1,4 +1,4 @@
-# Tween 虚拟世界制作商 Woozworld 融资 600 万美元；前迪士尼高管加入董事会 TechCrunch
+# Tween 虚拟世界制作商 Woozworld 融资 600 万美元；前迪士尼高管加入董事会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/tween-virtual-world-maker-woozworld-raises-6m-former-disney-exec-joins-board/>
 

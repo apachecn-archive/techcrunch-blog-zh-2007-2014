@@ -1,4 +1,4 @@
-# 新的简易套餐尝试不同的定价策略 TechCrunch
+# 新的简易套餐尝试不同的定价策略 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/new-humble-bundle-tries-different-pricing-tack/>
 

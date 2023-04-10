@@ -1,4 +1,4 @@
-# CrunchDeals:售价 84 美元的 Memorex 蓝光播放器 TechCrunch
+# CrunchDeals:售价 84 美元的 Memorex 蓝光播放器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/03/crunchdeals-a-memorex-blu-ray-player-for-84/>
 

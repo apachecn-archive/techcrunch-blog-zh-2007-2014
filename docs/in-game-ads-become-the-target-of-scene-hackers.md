@@ -1,4 +1,4 @@
-# 游戏内广告成为场景黑客的目标 TechCrunch
+# 游戏内广告成为场景黑客的目标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/in-game-ads-become-the-target-of-scene-hackers/>
 

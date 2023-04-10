@@ -1,4 +1,4 @@
-# 树莓派即将吸引眼球 TechCrunch
+# 树莓派即将吸引眼球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/06/the-raspberry-pi-is-about-to-get-an-eye/>
 

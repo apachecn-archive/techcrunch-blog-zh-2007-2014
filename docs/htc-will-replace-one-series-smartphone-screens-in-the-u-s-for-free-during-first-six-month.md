@@ -1,4 +1,4 @@
-# HTC 将在美国免费更换 One 系列智能手机屏幕 TechCrunch
+# HTC 将在美国免费更换 One 系列智能手机屏幕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/htc-will-replace-one-series-smartphone-screens-in-the-u-s-for-free-during-first-six-month/>
 

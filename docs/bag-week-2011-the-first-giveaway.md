@@ -1,4 +1,4 @@
-# 2011 年手袋周:首次赠品 TechCrunch
+# 2011 年手袋周:首次赠品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/bag-week-2011-the-first-giveaway/>
 

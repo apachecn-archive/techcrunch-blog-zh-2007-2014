@@ -1,4 +1,4 @@
-# 新尼康传感器的泄露图片表明真正的小型无反光镜系统 TechCrunch
+# 新尼康传感器的泄露图片表明真正的小型无反光镜系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/leaked-picture-of-new-nikon-sensor-suggests-truly-small-mirrorless-system/>
 

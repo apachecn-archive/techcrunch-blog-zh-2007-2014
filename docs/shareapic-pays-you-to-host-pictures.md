@@ -1,4 +1,4 @@
-# Shareapic 付钱给你主持图片 TechCrunch
+# Shareapic 付钱给你主持图片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/10/shareapic-pays-you-to-host-pictures/>
 

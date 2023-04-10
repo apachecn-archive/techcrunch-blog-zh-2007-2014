@@ -1,4 +1,4 @@
-# 到达让人们知道你已经到达 TechCrunch
+# 到达让人们知道你已经到达 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/23/arrived-lets-people-know-when-youve-arrived/>
 

@@ -1,4 +1,4 @@
-# 2011 年 TechCrunch Disrupt SF 黑客马拉松的获胜者是...TechCrunch
+# 2011 年 TechCrunch Disrupt SF 黑客马拉松的获胜者是...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/and-the-2011-techcrunch-disrupt-sf-hackathon-winners-are/>
 

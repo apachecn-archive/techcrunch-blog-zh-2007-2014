@@ -1,4 +1,4 @@
-# Life360 的家庭安全应用程序获得 350 万美元的 A 轮 TechCrunch
+# Life360 的家庭安全应用程序获得 350 万美元的 A 轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/life360s-family-safety-app-grabs-3-5-million-series-a/>
 

@@ -1,4 +1,4 @@
-# Peel 筹集 1670 万美元，让你的智能手机成为电视最好的朋友 TechCrunch
+# Peel 筹集 1670 万美元，让你的智能手机成为电视最好的朋友 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/02/peel-raises-16-7m-to-turn-your-smartphone-into-your-televisions-best-friend/>
 

@@ -1,4 +1,4 @@
-# Minno 希望这个世界上有一个小而简单的电子钱包 TechCrunch
+# Minno 希望这个世界上有一个小而简单的电子钱包 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/28/minno-hopes-theres-a-place-in-this-world-for-a-small-simple-e-wallet/>
 

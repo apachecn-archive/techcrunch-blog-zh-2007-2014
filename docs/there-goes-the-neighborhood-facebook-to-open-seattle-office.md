@@ -1,4 +1,4 @@
-# 脸书将在西雅图开设办公室 TechCrunch
+# 脸书将在西雅图开设办公室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/05/there-goes-the-neighborhood-facebook-to-open-seattle-office/>
 

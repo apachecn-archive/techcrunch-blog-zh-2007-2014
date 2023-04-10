@@ -1,4 +1,4 @@
-# 微软将于 11 月 1 日提高 Xbox Live 的价格 TechCrunch
+# 微软将于 11 月 1 日提高 Xbox Live 的价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/microsoft-is-jacking-up-the-cost-of-xbox-live-november-1st/>
 

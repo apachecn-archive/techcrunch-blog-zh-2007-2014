@@ -1,4 +1,4 @@
-# 谷歌向所有开发者开放 chrome cast TechCrunch
+# 谷歌向所有开发者开放 chrome cast 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/03/google-opens-chromecast-to-all-developers/>
 

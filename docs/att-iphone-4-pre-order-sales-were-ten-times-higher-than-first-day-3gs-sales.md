@@ -1,4 +1,4 @@
-# 美国电话电报公司:iPhone 4 预购销量是 3GS 首日销量的十倍 TechCrunch
+# 美国电话电报公司:iPhone 4 预购销量是 3GS 首日销量的十倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/att-iphone-4-pre-order-sales-were-ten-times-higher-than-first-day-3gs-sales/>
 

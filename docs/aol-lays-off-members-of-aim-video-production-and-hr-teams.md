@@ -1,4 +1,4 @@
-# AOL 解雇 AIM、视频制作和人力资源团队成员 TechCrunch
+# AOL 解雇 AIM、视频制作和人力资源团队成员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/02/aol-lays-off-members-of-aim-video-production-and-hr-teams/>
 

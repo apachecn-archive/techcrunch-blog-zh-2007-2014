@@ -1,4 +1,4 @@
-# 雷克斯给你的机器人一个大脑 TechCrunch
+# 雷克斯给你的机器人一个大脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/rex-gives-your-robot-a-brain/>
 

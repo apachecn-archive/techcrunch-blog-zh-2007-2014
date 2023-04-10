@@ -1,4 +1,4 @@
-# Wikipad 通过一款 7 英寸、售价 249 美元的游戏平板电脑让梦想成真 TechCrunch
+# Wikipad 通过一款 7 英寸、售价 249 美元的游戏平板电脑让梦想成真 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/07/wikipad-keeps-the-dream-alive-with-a-7-inch-249-gaming-tablet/>
 

@@ -1,4 +1,4 @@
-# Wrike 增加了实时更新功能，让员工能够在线和离线管理任务 TechCrunch
+# Wrike 增加了实时更新功能，让员工能够在线和离线管理任务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/wrike-adds-real-time-task-update-capabilities-to-let-employees-manage-projects-online-and-offline/>
 

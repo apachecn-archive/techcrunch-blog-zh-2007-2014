@@ -1,4 +1,4 @@
-# 谷歌认真对待 Chrome 档案，登录体验 TechCrunch
+# 谷歌认真对待 Chrome 档案，登录体验 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/google-chrome-logged-in/>
 

@@ -1,4 +1,4 @@
-# 集体诉讼律师宣布战胜 Yelp，仍要求赔偿 TechCrunch
+# 集体诉讼律师宣布战胜 Yelp，仍要求赔偿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/06/yelp-class-action/>
 

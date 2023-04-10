@@ -1,4 +1,4 @@
-# 亚马逊的评论者没有通过 J.K .罗琳的新书 TechCrunch
+# 亚马逊的评论者没有通过 J.K .罗琳的新书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/27/amazon-reviewers-failed-j-k-rowlings-new-book/>
 

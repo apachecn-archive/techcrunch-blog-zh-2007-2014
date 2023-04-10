@@ -1,4 +1,4 @@
-# 你们这些人为什么要维护苹果？TechCrunch
+# 你们这些人为什么要维护苹果？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/16/why-are-you-people-defending-apple/>
 

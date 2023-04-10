@@ -1,4 +1,4 @@
-# 应用商店虚伪更新:“亚洲胸部”罚款，最畅销。讽刺类 App，被禁。TechCrunch
+# 应用商店虚伪更新:“亚洲胸部”罚款，最畅销。讽刺类 App，被禁。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/23/app-store-hypocrisy-update-asian-boobs-fine-top-seller-satirical-app-banned/>
 

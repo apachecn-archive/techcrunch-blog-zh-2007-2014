@@ -1,4 +1,4 @@
-# 3D Systems 起诉 3D 打印机公司 Formlabs 侵犯专利，起诉 Kickstarter 自身进行推广 TechCrunch
+# 3D Systems 起诉 3D 打印机公司 Formlabs 侵犯专利，起诉 Kickstarter 自身进行推广 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/21/3d-systems-sues-3d-printer-company-formlabs-for-patent-infringement-and-kickstarter-for-promotion/>
 

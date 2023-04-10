@@ -1,4 +1,4 @@
-# Twitter 的伊丽莎白·韦尔(Elizabeth Weil)加入安德森公司成为合伙人，她将把目光投向社交 TechCrunch
+# Twitter 的伊丽莎白·韦尔(Elizabeth Weil)加入安德森公司成为合伙人，她将把目光投向社交 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/05/twitters-elizabeth-weil-joins-andreessen-horowitz/>
 

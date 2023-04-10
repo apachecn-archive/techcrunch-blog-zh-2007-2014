@@ -1,4 +1,4 @@
-# Formspring 推出“收藏夹”目录，开始看起来像一个真正的社交网络 TechCrunch
+# Formspring 推出“收藏夹”目录，开始看起来像一个真正的社交网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/formspring-launching-a-favorites-directory-starts-looking-like-a-real-social-network/>
 

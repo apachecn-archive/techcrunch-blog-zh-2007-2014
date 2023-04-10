@@ -1,4 +1,4 @@
-# Encoding.com 追加 150 万美元，推出 EDC 私有云以加速电影和电视节目的编码 TechCrunch
+# Encoding.com 追加 150 万美元，推出 EDC 私有云以加速电影和电视节目的编码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/encoding-com-edc-private-cloud/>
 

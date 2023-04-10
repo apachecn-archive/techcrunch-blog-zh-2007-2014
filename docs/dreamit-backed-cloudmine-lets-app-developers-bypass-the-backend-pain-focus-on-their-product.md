@@ -1,4 +1,4 @@
-# DreamIt 支持的 CloudMine 让应用程序开发人员绕过后端难题，专注于他们的产品 TechCrunch
+# DreamIt 支持的 CloudMine 让应用程序开发人员绕过后端难题，专注于他们的产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/15/dreamit-backed-cloudmine-lets-app-developers-bypass-the-backend-pain-focus-on-their-product/>
 

@@ -1,4 +1,4 @@
-# 记忆提醒你你在做什么 TechCrunch
+# 记忆提醒你你在做什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/31/memiary-reminds-you-what-youre-doing-with-your-life/>
 

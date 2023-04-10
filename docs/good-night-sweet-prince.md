@@ -1,4 +1,4 @@
-# iPad One 的挽歌 TechCrunch
+# iPad One 的挽歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/good-night-sweet-prince/>
 

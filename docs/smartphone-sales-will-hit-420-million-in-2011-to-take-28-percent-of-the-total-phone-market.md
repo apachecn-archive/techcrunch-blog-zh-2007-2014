@@ -1,4 +1,4 @@
-# 智能手机销量将在 2011 年达到 4.2 亿部，占整个手机市场的 28% TechCrunch
+# 智能手机销量将在 2011 年达到 4.2 亿部，占整个手机市场的 28% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/smartphone-sales-will-hit-420-million-in-2011-to-take-28-percent-of-the-total-phone-market/>
 

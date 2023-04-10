@@ -1,4 +1,4 @@
-# About.com 的卡路里计数 iOS App 增加了语音识别；食物记录等等 TechCrunch
+# About.com 的卡路里计数 iOS App 增加了语音识别；食物记录等等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/about-coms-calorie-count-ios-app-adds-voice-recognition-food-logging-and-more/>
 

@@ -1,4 +1,4 @@
-# 贝尼奥夫支持的 Cloudwords 帮助内容所有者管理大量翻译 TechCrunch
+# 贝尼奥夫支持的 Cloudwords 帮助内容所有者管理大量翻译 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/08/benioff-backed-cloudwords-helps-content-owners-manage-mass-translations/>
 

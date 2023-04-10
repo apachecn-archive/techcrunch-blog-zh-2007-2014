@@ -1,4 +1,4 @@
-# 快乐的国际令人毛骨悚然的波士顿动力机器人马日！TechCrunch
+# 快乐的国际令人毛骨悚然的波士顿动力机器人马日！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/10/happy-international-creepy-boston-dynamics-robotic-horse-day/>
 

@@ -1,4 +1,4 @@
-# 在选举的余晖中,《赫芬顿邮报》希望筹集 1500 万美元 TechCrunch
+# 在选举的余晖中,《赫芬顿邮报》希望筹集 1500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/21/in-the-afterglow-of-the-election-huffpo-looks-to-raise-15-million/>
 

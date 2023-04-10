@@ -1,4 +1,4 @@
-# 微软仍然统治着台式机:2011 年 42%的机器将运行 Windows 7 TechCrunch
+# 微软仍然统治着台式机:2011 年 42%的机器将运行 Windows 7 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/ms-is-still-ruling-the-desktop-42-of-machines-will-run-windows-7-in-2011/>
 

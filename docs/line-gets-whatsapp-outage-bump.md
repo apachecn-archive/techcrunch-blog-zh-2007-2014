@@ -1,4 +1,4 @@
-# 移动通讯应用 Line 声称 WhatsApp 宕机后 24 小时内 2M 新增用户 TechCrunch
+# 移动通讯应用 Line 声称 WhatsApp 宕机后 24 小时内 2M 新增用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/line-gets-whatsapp-outage-bump/>
 

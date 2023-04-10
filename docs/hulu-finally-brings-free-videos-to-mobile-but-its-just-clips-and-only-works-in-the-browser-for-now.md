@@ -1,4 +1,4 @@
-# Hulu 终于把免费视频带到了手机上——但这只是剪辑，而且只在浏览器中有效(目前？)TechCrunch
+# Hulu 终于把免费视频带到了手机上——但这只是剪辑，而且只在浏览器中有效(目前？)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/hulu-finally-brings-free-videos-to-mobile-but-its-just-clips-and-only-works-in-the-browser-for-now/>
 

@@ -1,4 +1,4 @@
-# 融水收购马克·库班支持的实时搜索引擎 ice rocket TechCrunch
+# 融水收购马克·库班支持的实时搜索引擎 ice rocket 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/meltwater-acquires-realtime-search-engine-icerocket/>
 

@@ -1,4 +1,4 @@
-# VHT 收购了房地产社交书签服务网站 Dwellicious TechCrunch
+# VHT 收购了房地产社交书签服务网站 Dwellicious 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/14/vht-acquires-dwellicious-a-social-bookmarking-service-for-real-estate/>
 

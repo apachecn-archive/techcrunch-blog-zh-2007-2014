@@ -1,4 +1,4 @@
-# Linux 基金会宣布举办首届汽车 Linux 峰会 TechCrunch
+# Linux 基金会宣布举办首届汽车 Linux 峰会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/the-linux-foundation-announces-first-ever-automotive-linux-summit/>
 

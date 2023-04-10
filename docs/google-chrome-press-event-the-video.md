@@ -1,4 +1,4 @@
-# 谷歌 Chrome 新闻发布会:视频 TechCrunch
+# 谷歌 Chrome 新闻发布会:视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/google-chrome-press-event-the-video/>
 

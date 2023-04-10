@@ -1,4 +1,4 @@
-# 生与死 TechCrunch
+# 生与死 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/21/live-and-let-die/>
 

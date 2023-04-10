@@ -1,4 +1,4 @@
-# 谷歌以 5 亿美元与美国政府达成和解 TechCrunch
+# 谷歌以 5 亿美元与美国政府达成和解 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/google-to-settle-with-u-s-government-for-500-million/>
 

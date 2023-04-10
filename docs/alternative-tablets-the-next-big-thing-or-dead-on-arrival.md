@@ -1,4 +1,4 @@
-# 替代平板电脑:下一件大事还是一问世就夭折？TechCrunch
+# 替代平板电脑:下一件大事还是一问世就夭折？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/alternative-tablets-the-next-big-thing-or-dead-on-arrival/>
 

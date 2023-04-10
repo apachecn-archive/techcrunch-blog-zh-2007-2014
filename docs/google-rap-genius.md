@@ -1,4 +1,4 @@
-# 谷歌破坏说唱天才的搜索排名作为对搜索引擎优化垃圾邮件的惩罚，但解决方案仍在进行中 TechCrunch
+# 谷歌破坏说唱天才的搜索排名作为对搜索引擎优化垃圾邮件的惩罚，但解决方案仍在进行中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/25/google-rap-genius/>
 

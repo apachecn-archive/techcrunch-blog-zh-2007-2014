@@ -1,4 +1,4 @@
-# 凭借《愤怒的小鸟》商品，Rovio 公司的彼得·维斯特巴卡计划击败盗版商 TechCrunch
+# 凭借《愤怒的小鸟》商品，Rovio 公司的彼得·维斯特巴卡计划击败盗版商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/30/with-angry-birds-merchandise-rovios-peter-vesterbacka-plans-to-pirate-the-pirates/>
 

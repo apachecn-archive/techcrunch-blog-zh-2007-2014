@@ -1,4 +1,4 @@
-# SamsungDive:苹果的“查找我的 iPhone”刚刚有了一个竞争对手 TechCrunch
+# SamsungDive:苹果的“查找我的 iPhone”刚刚有了一个竞争对手 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/samsungdive-apples-find-my-iphone-just-got-a-rival/>
 

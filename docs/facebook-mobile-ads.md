@@ -1,4 +1,4 @@
-# 他们工作了！脸书移动广告的点击率比桌面广告高出 13 倍，收入高出 11 倍 TechCrunch
+# 他们工作了！脸书移动广告的点击率比桌面广告高出 13 倍，收入高出 11 倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/facebook-mobile-ads/>
 

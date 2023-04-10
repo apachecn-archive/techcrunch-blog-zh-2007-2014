@@ -1,4 +1,4 @@
-# PayPal 现在每天处理 3.15 亿美元的付款 TechCrunch
+# PayPal 现在每天处理 3.15 亿美元的付款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/25/paypal-now-processing-315-million-in-payments-per-day/>
 

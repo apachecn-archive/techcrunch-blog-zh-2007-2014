@@ -1,4 +1,4 @@
-# 谷歌收购数字优惠券/激励平台 Zave Networks 以扩大商业规模 TechCrunch
+# 谷歌收购数字优惠券/激励平台 Zave Networks 以扩大商业规模 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/02/google-zave-networks/>
 

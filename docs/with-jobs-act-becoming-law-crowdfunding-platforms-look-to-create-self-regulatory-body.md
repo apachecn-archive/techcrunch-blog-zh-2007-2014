@@ -1,4 +1,4 @@
-# 随着《就业法案》成为法律，众筹平台希望创建自律机构 TechCrunch
+# 随着《就业法案》成为法律，众筹平台希望创建自律机构 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/05/with-jobs-act-becoming-law-crowdfunding-platforms-look-to-create-self-regulatory-body/>
 

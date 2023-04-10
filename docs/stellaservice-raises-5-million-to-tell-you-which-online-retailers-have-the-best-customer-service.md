@@ -1,4 +1,4 @@
-# STELLAService 筹集了 500 万美元来告诉你哪些在线零售商拥有最好的客户服务 TechCrunch
+# STELLAService 筹集了 500 万美元来告诉你哪些在线零售商拥有最好的客户服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/stellaservice-raises-5-million-to-tell-you-which-online-retailers-have-the-best-customer-service/>
 

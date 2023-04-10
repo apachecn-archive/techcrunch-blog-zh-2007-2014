@@ -1,4 +1,4 @@
-# 大多数人认为在线公司“太强大了”(而使用率却在飙升):研究 TechCrunch
+# 大多数人认为在线公司“太强大了”(而使用率却在飙升):研究 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/17/most-people-think-online-companies-are-too-powerful-while-usage-soars-study/>
 

@@ -1,4 +1,4 @@
-# Kindle 笔记和集锦现可在网上访问 TechCrunch
+# Kindle 笔记和集锦现可在网上访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/26/kindle-notes-and-highlights-now-accessible-on-the-web/>
 

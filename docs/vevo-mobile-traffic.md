@@ -1,4 +1,4 @@
-# VEVO:去年全球观看了 400 万个视频，Q2 的移动流量翻了一番，达到 13 亿个视频流 TechCrunch
+# VEVO:去年全球观看了 400 万个视频，Q2 的移动流量翻了一番，达到 13 亿个视频流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/vevo-mobile-traffic/>
 

@@ -1,4 +1,4 @@
-# 昨天 Rackspace 发生了什么？停电和一些备用故障。TechCrunch
+# 昨天 Rackspace 发生了什么？停电和一些备用故障。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/30/what-went-down-at-rackspace-yesterday-a-power-outage-and-some-backup-failures/>
 

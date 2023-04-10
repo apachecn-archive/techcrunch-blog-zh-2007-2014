@@ -1,4 +1,4 @@
-# StatCounter:黑莓首次在美国移动网络大战中击败 iOS TechCrunch
+# StatCounter:黑莓首次在美国移动网络大战中击败 iOS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/01/statcounter-blackberry-trumps-ios-in-mobile-web-wars-for-the-first-time/>
 

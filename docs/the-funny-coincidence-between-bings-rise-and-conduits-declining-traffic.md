@@ -1,4 +1,4 @@
-# 必应的崛起和 Conduit 的流量下降之间有趣的巧合 TechCrunch
+# 必应的崛起和 Conduit 的流量下降之间有趣的巧合 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/the-funny-coincidence-between-bings-rise-and-conduits-declining-traffic/>
 

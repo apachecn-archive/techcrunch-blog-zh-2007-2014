@@ -1,4 +1,4 @@
-# 易贝昨日公布了创纪录的 1300 万美元移动销售总额；增长 165% TechCrunch
+# 易贝昨日公布了创纪录的 1300 万美元移动销售总额；增长 165% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/13/ebay-posted-record-13m-in-gross-mobile-sales-yesterday-up-165-percent/>
 

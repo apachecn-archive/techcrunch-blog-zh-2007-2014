@@ -1,4 +1,4 @@
-# 潘多拉脑袋上有个洞 TechCrunch
+# 潘多拉脑袋上有个洞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/09/pandora-gets-a-hole-in-the-head/>
 

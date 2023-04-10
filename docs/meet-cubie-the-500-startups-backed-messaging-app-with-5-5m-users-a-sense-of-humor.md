@@ -1,4 +1,4 @@
-# 见见 Cubie，500 家初创企业支持的消息应用，拥有 550 万用户和幽默感 TechCrunch
+# 见见 Cubie，500 家初创企业支持的消息应用，拥有 550 万用户和幽默感 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/01/meet-cubie-the-500-startups-backed-messaging-app-with-5-5m-users-a-sense-of-humor/>
 

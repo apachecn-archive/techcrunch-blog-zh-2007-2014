@@ -1,4 +1,4 @@
-# 微软的 Outlook.com 现在有 1000 万用户，SkyDrive 有了新的用户界面和安卓应用 TechCrunch
+# 微软的 Outlook.com 现在有 1000 万用户，SkyDrive 有了新的用户界面和安卓应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/14/microsoft-outlook-com-now-has-10-million-users-skydrive-gets-a-new-ui-android-app/>
 

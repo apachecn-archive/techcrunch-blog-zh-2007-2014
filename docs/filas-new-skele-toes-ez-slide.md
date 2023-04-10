@@ -1,4 +1,4 @@
-# 穿上 Fila 的新款骷髅鞋 EZ 滑板鞋 TechCrunch
+# 穿上 Fila 的新款骷髅鞋 EZ 滑板鞋 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/filas-new-skele-toes-ez-slide/>
 

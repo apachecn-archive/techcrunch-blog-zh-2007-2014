@@ -1,4 +1,4 @@
-# Oyster 筹集 1400 万美元建立图书综合网飞 TechCrunch
+# Oyster 筹集 1400 万美元建立图书综合网飞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/oyster-raises-14-million-to-build-a-comprehensive-netflix-for-books/>
 

@@ -1,4 +1,4 @@
-# Phonevite 让大量电话通话变得更加容易。啊哦？TechCrunch
+# Phonevite 让大量电话通话变得更加容易。啊哦？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/10/phonevite-makes-mass-phone-calls-even-easier-ut-oh/>
 

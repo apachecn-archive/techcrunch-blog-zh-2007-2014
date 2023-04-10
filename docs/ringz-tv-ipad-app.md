@@ -1,4 +1,4 @@
-# 林兹。电视为 iPad 上的社交视频探索带来全新面貌 TechCrunch
+# 林兹。电视为 iPad 上的社交视频探索带来全新面貌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/08/ringz-tv-ipad-app/>
 

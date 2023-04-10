@@ -1,4 +1,4 @@
-# 观看 Windows 8 在 10 秒内启动，体验四分之一英里的生活 TechCrunch
+# 观看 Windows 8 在 10 秒内启动，体验四分之一英里的生活 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/watch-windows-8-boot-in-10-seconds-live-life-a-quarter-mile-at-a-time/>
 

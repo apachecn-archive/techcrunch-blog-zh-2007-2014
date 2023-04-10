@@ -1,4 +1,4 @@
-# 热衷于...贾斯汀·狄龙:互联网是当代奴隶制的罪魁祸首吗？TechCrunch
+# 热衷于...贾斯汀·狄龙:互联网是当代奴隶制的罪魁祸首吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/05/keen-on-justin-dillon-is-the-internet-to-blame-for-contemporary-slavery-tctv/>
 

@@ -1,4 +1,4 @@
-# 微软为 Windows 7 推出 IE10，开始自动升级 IE9 用户，并推出新的广告活动 TechCrunch
+# 微软为 Windows 7 推出 IE10，开始自动升级 IE9 用户，并推出新的广告活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/26/microsoft-launches-ie10-for-windows-7-starts-auto-upgrading-ie9-users-and-launches-new-ad-campagin/>
 

@@ -1,4 +1,4 @@
-# Desire2Learn 以 8000 万美元收购了“反 Sharepoint 学生平台 Wiggio ”,这是它在两个月内的第二次收购 TechCrunch
+# Desire2Learn 以 8000 万美元收购了“反 Sharepoint 学生平台 Wiggio ”,这是它在两个月内的第二次收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/08/flush-with-80m-desire2learn-buys-anti-sharepoint-for-students-platform-wiggio-its-2nd-acquisition-in-2-months/>
 

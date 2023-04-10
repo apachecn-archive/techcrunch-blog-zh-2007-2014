@@ -1,4 +1,4 @@
-# 从现在开始，我们只会在嘲讽中使用“Pivot”这个词 TechCrunch
+# 从现在开始，我们只会在嘲讽中使用“Pivot”这个词 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/pivoting-on-pivot/>
 

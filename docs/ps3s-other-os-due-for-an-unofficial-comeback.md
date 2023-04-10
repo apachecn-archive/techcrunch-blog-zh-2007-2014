@@ -1,4 +1,4 @@
-# PS3 的另一个操作系统将非正式回归 TechCrunch
+# PS3 的另一个操作系统将非正式回归 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/03/ps3s-other-os-due-for-an-unofficial-comeback/>
 

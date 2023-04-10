@@ -1,4 +1,4 @@
-# Evul Todai:客厅放松灯塔灯 TechCrunch
+# Evul Todai:客厅放松灯塔灯 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/evul-todai-lighthouse/>
 

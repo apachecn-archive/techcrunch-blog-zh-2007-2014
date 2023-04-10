@@ -1,4 +1,4 @@
-# Dwolla 增加了对 LinkedIn 的支持，允许您向您的专业联系人汇款 TechCrunch
+# Dwolla 增加了对 LinkedIn 的支持，允许您向您的专业联系人汇款 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/dwolla-adds-support-for-linkedin-allowing-you-to-send-money-to-your-professional-contacts/>
 

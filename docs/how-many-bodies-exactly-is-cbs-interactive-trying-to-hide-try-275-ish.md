@@ -1,4 +1,4 @@
-# CBS 互动到底想隐藏多少尸体？试试“275 左右”TechCrunch
+# CBS 互动到底想隐藏多少尸体？试试“275 左右”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/11/how-many-bodies-exactly-is-cbs-interactive-trying-to-hide-try-275-ish/>
 

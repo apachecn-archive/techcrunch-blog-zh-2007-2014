@@ -1,4 +1,4 @@
-# 你的商业方法专利刚刚失效 TechCrunch
+# 你的商业方法专利刚刚失效 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/30/your-business-model-patent-has-just-been-invalidated/>
 

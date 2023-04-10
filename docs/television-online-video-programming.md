@@ -1,4 +1,4 @@
-# 为什么电视公司不关心原创在线视频 TechCrunch
+# 为什么电视公司不关心原创在线视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/17/television-online-video-programming/>
 

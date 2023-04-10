@@ -1,4 +1,4 @@
-# Twitter 换行符有什么用？TechCrunch
+# Twitter 换行符有什么用？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/what-are-twitter-line-breaks-good-for/>
 

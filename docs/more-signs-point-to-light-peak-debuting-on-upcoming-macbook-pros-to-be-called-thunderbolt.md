@@ -1,4 +1,4 @@
-# 更多迹象表明，Light Peak 将在即将发布的 MacBook Pros 上首次亮相，名为 Thunderbolt TechCrunch
+# 更多迹象表明，Light Peak 将在即将发布的 MacBook Pros 上首次亮相，名为 Thunderbolt 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/23/more-signs-point-to-light-peak-debuting-on-upcoming-macbook-pros-to-be-called-thunderbolt/>
 

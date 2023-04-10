@@ -1,4 +1,4 @@
-# BGR:在 Thxgvng 上的 BB P2？TechCrunch
+# BGR:在 Thxgvng 上的 BB P2？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/bgr-bb-p2-on-thxgvng/>
 

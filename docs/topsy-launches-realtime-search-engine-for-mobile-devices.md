@@ -1,4 +1,4 @@
-# 托普斯推出移动设备实时搜索引擎 TechCrunch
+# 托普斯推出移动设备实时搜索引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/topsy-launches-realtime-search-engine-for-mobile-devices/>
 

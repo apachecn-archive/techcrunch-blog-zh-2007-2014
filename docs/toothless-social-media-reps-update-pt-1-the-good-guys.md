@@ -1,4 +1,4 @@
-# 无牙社交媒体代表更新(Pt。1):好人啊！TechCrunch
+# 无牙社交媒体代表更新(Pt。1):好人啊！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/22/toothless-social-media-reps-update-pt-1-the-good-guys/>
 

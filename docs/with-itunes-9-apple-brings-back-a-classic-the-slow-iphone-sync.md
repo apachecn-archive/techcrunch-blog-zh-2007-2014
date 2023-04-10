@@ -1,4 +1,4 @@
-# 通过 iTunes 9，苹果带回了一个经典:缓慢的 iPhone 同步 TechCrunch
+# 通过 iTunes 9，苹果带回了一个经典:缓慢的 iPhone 同步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/11/with-itunes-9-apple-brings-back-a-classic-the-slow-iphone-sync/>
 

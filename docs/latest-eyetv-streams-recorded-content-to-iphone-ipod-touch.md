@@ -1,4 +1,4 @@
-# 最新的 EyeTV 流媒体录制内容到 iPhone、iPod Touch TechCrunch
+# 最新的 EyeTV 流媒体录制内容到 iPhone、iPod Touch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/25/latest-eyetv-streams-recorded-content-to-iphone-ipod-touch/>
 

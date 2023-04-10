@@ -1,4 +1,4 @@
-# 设计社区色彩爱好者收购 Forrest TechCrunch
+# 设计社区色彩爱好者收购 Forrest 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/26/design-community-colourlovers-acquires-forrst/>
 

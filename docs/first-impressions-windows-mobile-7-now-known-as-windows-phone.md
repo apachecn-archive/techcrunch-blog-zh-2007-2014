@@ -1,4 +1,4 @@
-# 第一印象:Windows Mobile 7，现在被称为 Windows Phone TechCrunch
+# 第一印象:Windows Mobile 7，现在被称为 Windows Phone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/15/first-impressions-windows-mobile-7-now-known-as-windows-phone/>
 

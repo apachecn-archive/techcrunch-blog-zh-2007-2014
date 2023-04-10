@@ -1,4 +1,4 @@
-# 谷歌地球登陆 iPhone，太棒了 TechCrunch
+# 谷歌地球登陆 iPhone，太棒了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/27/google-earth-comes-to-the-iphone-and-its-awesome/>
 

@@ -1,4 +1,4 @@
-# 牛津大学不喜欢 Spotify，禁止它 TechCrunch
+# 牛津大学不喜欢 Spotify，禁止它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/18/oxford-university-takes-a-dislike-to-spotify-bans-it/>
 

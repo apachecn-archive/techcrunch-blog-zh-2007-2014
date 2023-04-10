@@ -1,4 +1,4 @@
-# 谷歌成为 CNN 独家 Adsense 用户——TechCrunch
+# 谷歌成为 CNN 独家 Adsense 用户——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/google-lands-cnn-as-exclusive-adsense-user/>
 

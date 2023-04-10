@@ -1,4 +1,4 @@
-# 神秘的“弗里曼”照片逗乐了半条命粉丝的电子管 TechCrunch
+# 神秘的“弗里曼”照片逗乐了半条命粉丝的电子管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/04/mysterious-freeman-picture-tickles-half-life-fans-valve-strings/>
 

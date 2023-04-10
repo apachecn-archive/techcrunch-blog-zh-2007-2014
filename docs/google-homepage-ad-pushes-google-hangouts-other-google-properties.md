@@ -1,4 +1,4 @@
-# 谷歌主页广告推送 Google+ Hangouts、其他谷歌资产 TechCrunch
+# 谷歌主页广告推送 Google+ Hangouts、其他谷歌资产 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/22/google-homepage-ad-pushes-google-hangouts-other-google-properties/>
 

@@ -1,4 +1,4 @@
-# 城市能在多大程度上成为谷歌的宽带试验品？TechCrunch
+# 城市能在多大程度上成为谷歌的宽带试验品？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/25/what-lengths-will-cities-go-to-be-googles-broadband-guinea-pig/>
 

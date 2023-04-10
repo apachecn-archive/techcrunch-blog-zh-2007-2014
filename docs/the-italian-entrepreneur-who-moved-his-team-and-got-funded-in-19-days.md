@@ -1,4 +1,4 @@
-# 意大利企业家在 19 天内转移了他的团队并获得了资金 TechCrunch
+# 意大利企业家在 19 天内转移了他的团队并获得了资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/12/the-italian-entrepreneur-who-moved-his-team-and-got-funded-in-19-days/>
 

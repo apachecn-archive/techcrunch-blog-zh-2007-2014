@@ -1,4 +1,4 @@
-# Mac 版 Twitter 的惊人隐藏小功能:在任何地方发任何消息 TechCrunch
+# Mac 版 Twitter 的惊人隐藏小功能:在任何地方发任何消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/14/tweet-from-os-x/>
 

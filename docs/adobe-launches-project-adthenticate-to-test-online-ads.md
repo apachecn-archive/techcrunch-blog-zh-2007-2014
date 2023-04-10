@@ -1,4 +1,4 @@
-# Adobe 启动“广告认证项目”测试在线广告 TechCrunch
+# Adobe 启动“广告认证项目”测试在线广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/adobe-launches-project-adthenticate-to-test-online-ads/>
 

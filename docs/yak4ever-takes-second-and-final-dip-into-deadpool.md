@@ -1,4 +1,4 @@
-# Yak4Ever 第二次(也是最后一次)潜入 dead pool TechCrunch
+# Yak4Ever 第二次(也是最后一次)潜入 dead pool 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/16/yak4ever-takes-second-and-final-dip-into-deadpool/>
 

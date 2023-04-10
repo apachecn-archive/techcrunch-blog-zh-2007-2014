@@ -1,4 +1,4 @@
-# 对抗 Ticketmaster，The Edge 投资票务初创公司 TechCrunch
+# 对抗 Ticketmaster，The Edge 投资票务初创公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/fighting-ticketmaster-the-edge-invests-in-ticketing-startup/>
 

@@ -1,4 +1,4 @@
-# Zynga 收购手机游戏开发商 Newtoy TechCrunch
+# Zynga 收购手机游戏开发商 Newtoy 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/02/zynga-buys-mobile-gaming-developer-newtoy/>
 

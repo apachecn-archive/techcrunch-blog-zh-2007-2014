@@ -1,4 +1,4 @@
-# 欧洲航天局希望将国际空间站的寿命延长至 2020 年 TechCrunch
+# 欧洲航天局希望将国际空间站的寿命延长至 2020 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/14/the-european-space-agency-wants-to-extend-the-isss-life-until-2020/>
 

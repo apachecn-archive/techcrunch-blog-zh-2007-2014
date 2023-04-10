@@ -1,4 +1,4 @@
-# 亚马逊网络服务推出“弹性豆茎”简化应用部署 TechCrunch
+# 亚马逊网络服务推出“弹性豆茎”简化应用部署 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/amazon-web-services-introduces-elastic-beanstalk-for-easier-app-deployment/>
 

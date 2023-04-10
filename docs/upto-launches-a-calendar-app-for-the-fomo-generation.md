@@ -1,4 +1,4 @@
-# UpTo 为 FOMO 一代推出日历应用 TechCrunch
+# UpTo 为 FOMO 一代推出日历应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/upto-launches-a-calendar-app-for-the-fomo-generation/>
 

@@ -1,4 +1,4 @@
-# HTML5 还是 Flash？有了 Yokto 的新视频播放器，您不必选择 TechCrunch
+# HTML5 还是 Flash？有了 Yokto 的新视频播放器，您不必选择 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/html5-or-flash-with-yoktos-new-video-player-you-dont-have-to-choose/>
 

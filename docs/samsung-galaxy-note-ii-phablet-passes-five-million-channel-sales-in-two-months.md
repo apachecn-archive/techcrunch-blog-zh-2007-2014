@@ -1,4 +1,4 @@
-# 三星 Galaxy Note II“平板手机”两个月内渠道销量突破 500 万台 TechCrunch
+# 三星 Galaxy Note II“平板手机”两个月内渠道销量突破 500 万台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/26/samsung-galaxy-note-ii-phablet-passes-five-million-channel-sales-in-two-months/>
 

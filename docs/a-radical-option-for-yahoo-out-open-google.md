@@ -1,4 +1,4 @@
-# 雅虎的一个激进选择:公开 Google TechCrunch
+# 雅虎的一个激进选择:公开 Google 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/08/a-radical-option-for-yahoo-out-open-google/>
 

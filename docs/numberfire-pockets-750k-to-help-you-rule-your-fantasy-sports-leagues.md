@@ -1,4 +1,4 @@
-# NumberFire 将 75 万美元收入囊中，帮助你统治你的梦幻体育联盟 TechCrunch
+# NumberFire 将 75 万美元收入囊中，帮助你统治你的梦幻体育联盟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/05/numberfire-pockets-750k-to-help-you-rule-your-fantasy-sports-leagues/>
 

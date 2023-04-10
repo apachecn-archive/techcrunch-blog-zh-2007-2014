@@ -1,4 +1,4 @@
-# TechCrunch50 有互联网，还有更多。玛丽埃特系统有限公司。TechCrunch
+# TechCrunch50 有互联网，还有更多。玛丽埃特系统有限公司。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/09/20/techcrunch50-had-internet-and-then-some-mariette-systems-ftw/>
 

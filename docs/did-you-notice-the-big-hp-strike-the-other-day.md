@@ -1,4 +1,4 @@
-# 你注意到前几天惠普大罢工了吗？TechCrunch
+# 你注意到前几天惠普大罢工了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/did-you-notice-the-big-hp-strike-the-other-day/>
 

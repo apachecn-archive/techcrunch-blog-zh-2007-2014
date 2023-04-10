@@ -1,4 +1,4 @@
-# 黑莓从 Fairfax，Others 获得 1B 投资，取代首席执行官海托斯顿·海因斯 TechCrunch
+# 黑莓从 Fairfax，Others 获得 1B 投资，取代首席执行官海托斯顿·海因斯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/04/blackberry-fairfax-dead-heins-out/>
 

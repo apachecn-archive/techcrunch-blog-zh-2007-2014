@@ -1,4 +1,4 @@
-# 你的应用程序运行缓慢，因为我们的世界正在终结 TechCrunch
+# 你的应用程序运行缓慢，因为我们的世界正在终结 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/13/your-app-is-slow-because-our-world-is-ending/>
 

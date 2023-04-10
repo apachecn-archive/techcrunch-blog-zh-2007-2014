@@ -1,4 +1,4 @@
-# Tagged 收购 Topicmarks，通过自然语言处理改进好友建议 TechCrunch
+# Tagged 收购 Topicmarks，通过自然语言处理改进好友建议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/tagged-acquires-topicmarks/>
 

@@ -1,4 +1,4 @@
-# YouTube Leanback 为您的电视带来个性化频道 TechCrunch
+# YouTube Leanback 为您的电视带来个性化频道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/youtube-leanback-brings-personalized-channels-to-your-tv/>
 

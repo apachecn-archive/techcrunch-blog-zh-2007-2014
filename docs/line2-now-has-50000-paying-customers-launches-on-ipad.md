@@ -1,4 +1,4 @@
-# Line2 现在有 50，000 名付费用户，在 iPad 上发布 TechCrunch
+# Line2 现在有 50，000 名付费用户，在 iPad 上发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/line2-now-has-50000-paying-customers-launches-on-ipad/>
 

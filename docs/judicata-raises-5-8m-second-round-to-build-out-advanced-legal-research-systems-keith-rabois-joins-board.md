@@ -1,4 +1,4 @@
-# 美国司法部第二轮融资 580 万美元，用于建设先进的法律研究系统；Keith Rabois 加入董事会 TechCrunch
+# 美国司法部第二轮融资 580 万美元，用于建设先进的法律研究系统；Keith Rabois 加入董事会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/28/judicata-raises-5-8m-second-round-to-build-out-advanced-legal-research-systems-keith-rabois-joins-board/>
 

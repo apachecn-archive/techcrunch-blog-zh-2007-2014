@@ -1,4 +1,4 @@
-# Moniker 吉他众筹进军商业 TechCrunch
+# Moniker 吉他众筹进军商业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/moniker-guitars-crowdfunds-its-way-into-business/>
 

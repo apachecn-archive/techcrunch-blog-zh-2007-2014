@@ -1,4 +1,4 @@
-# 微软 800 亿美元(还在增长)的雅虎难题 TechCrunch
+# 微软 800 亿美元(还在增长)的雅虎难题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/09/microsofts-80-billion-and-growing-yahoo-headache/>
 

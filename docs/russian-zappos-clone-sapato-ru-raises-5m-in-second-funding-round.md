@@ -1,4 +1,4 @@
-# 俄罗斯 Zappos 克隆 Sapato.ru 在第二轮融资中筹集 500 万美元 TechCrunch
+# 俄罗斯 Zappos 克隆 Sapato.ru 在第二轮融资中筹集 500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/10/russian-zappos-clone-sapato-ru-raises-5m-in-second-funding-round/>
 

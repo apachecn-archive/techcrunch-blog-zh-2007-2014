@@ -1,4 +1,4 @@
-# 为您最喜爱的 FBFund 应用程序投票，帮助他们赢取现金 TechCrunch
+# 为您最喜爱的 FBFund 应用程序投票，帮助他们赢取现金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/11/vote-for-your-favorite-fbfund-apps-help-them-win-some-cash/>
 

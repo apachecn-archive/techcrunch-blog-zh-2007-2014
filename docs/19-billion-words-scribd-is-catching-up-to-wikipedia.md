@@ -1,4 +1,4 @@
-# 19 亿字；Scribd 用户有很多话要说——TechCrunch
+# 19 亿字；Scribd 用户有很多话要说——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/31/19-billion-words-scribd-is-catching-up-to-wikipedia/>
 

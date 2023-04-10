@@ -1,4 +1,4 @@
-# 纳文·贾恩的最新骗局:Intelius TechCrunch
+# 纳文·贾恩的最新骗局:Intelius 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/29/naveen-jains-intelius-prepares-to-go-public-how-much-of-their-revenue-is-a-scam/>
 

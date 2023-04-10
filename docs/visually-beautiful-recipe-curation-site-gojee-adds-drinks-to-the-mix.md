@@ -1,4 +1,4 @@
-# 视觉上美丽的食谱策展网站 Gojee 将饮料加入其中 TechCrunch
+# 视觉上美丽的食谱策展网站 Gojee 将饮料加入其中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/visually-beautiful-recipe-curation-site-gojee-adds-drinks-to-the-mix/>
 

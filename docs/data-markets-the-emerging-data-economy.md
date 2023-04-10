@@ -1,4 +1,4 @@
-# 数据市场:新兴数据经济 TechCrunch
+# 数据市场:新兴数据经济 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/30/data-markets-the-emerging-data-economy/>
 

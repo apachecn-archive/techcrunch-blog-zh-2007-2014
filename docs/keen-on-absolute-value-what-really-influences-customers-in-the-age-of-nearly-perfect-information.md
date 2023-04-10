@@ -1,4 +1,4 @@
-# 热衷于...绝对值:在(近乎)完美信息时代，什么真正影响了客户 TechCrunch
+# 热衷于...绝对值:在(近乎)完美信息时代，什么真正影响了客户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/27/keen-on-absolute-value-what-really-influences-customers-in-the-age-of-nearly-perfect-information/>
 

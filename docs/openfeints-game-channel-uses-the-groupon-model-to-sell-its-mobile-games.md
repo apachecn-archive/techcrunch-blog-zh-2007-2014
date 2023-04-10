@@ -1,4 +1,4 @@
-# OpenFeint 的游戏频道使用 Groupon 模式销售其手机游戏 TechCrunch
+# OpenFeint 的游戏频道使用 Groupon 模式销售其手机游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/16/openfeints-game-channel-uses-the-groupon-model-to-sell-its-mobile-games/>
 

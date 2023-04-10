@@ -1,4 +1,4 @@
-# 我们正在整理一些疯狂的谷歌/雅虎谣言 TechCrunch
+# 我们正在整理一些疯狂的谷歌/雅虎谣言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/27/were-sorting-through-some-crazy-googleyahoo-rumors/>
 

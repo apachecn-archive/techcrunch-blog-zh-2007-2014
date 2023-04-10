@@ -1,4 +1,4 @@
-# 亚马逊提供 Kindle Fire 源代码 TechCrunch
+# 亚马逊提供 Kindle Fire 源代码 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/amazon-makes-kindle-fire-source-code-available/>
 

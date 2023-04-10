@@ -1,4 +1,4 @@
-# Hitpost 的 Sports+ iPad 应用程序允许粉丝关注大众体育报道 TechCrunch
+# Hitpost 的 Sports+ iPad 应用程序允许粉丝关注大众体育报道 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/hitposts-sports-ipad-app-allows-fans-to-follow-crowd-powered-sports-coverage/?utm_source=%23Sports&utm_campaign=393993a4c4-10_27_1110_27_2011&utm_medium=email>
 

@@ -1,4 +1,4 @@
-# 视频:未来智能房屋 TechCrunch
+# 视频:未来智能房屋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/10/video-futuristic-smart-house/>
 

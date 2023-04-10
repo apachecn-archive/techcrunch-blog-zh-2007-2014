@@ -1,4 +1,4 @@
-# 针对苹果的 iPad 过热诉讼被驳回 TechCrunch
+# 针对苹果的 iPad 过热诉讼被驳回 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/16/ipad-overheating-suit-against-apple-gets-dismissed/>
 

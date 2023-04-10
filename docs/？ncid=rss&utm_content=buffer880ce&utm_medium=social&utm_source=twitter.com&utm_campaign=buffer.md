@@ -1,4 +1,4 @@
-# 避免停滞:加速胜过孵化 TechCrunch
+# 避免停滞:加速胜过孵化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/15/avoid-stagnation-why-acceleration-trumps-incubation/?ncid=rss&utm_content=buffer880ce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>
 

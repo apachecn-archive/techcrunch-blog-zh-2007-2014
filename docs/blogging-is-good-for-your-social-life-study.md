@@ -1,4 +1,4 @@
-# 博客有益于你的社交生活:研究 TechCrunch
+# 博客有益于你的社交生活:研究 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/03/blogging-is-good-for-your-social-life-study/>
 

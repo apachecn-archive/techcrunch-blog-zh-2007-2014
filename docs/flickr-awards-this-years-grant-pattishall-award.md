@@ -1,4 +1,4 @@
-# Flickr Awards 今年的 Grant-Pattishall Award TechCrunch
+# Flickr Awards 今年的 Grant-Pattishall Award 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/20/flickr-awards-this-years-grant-pattishall-award/>
 

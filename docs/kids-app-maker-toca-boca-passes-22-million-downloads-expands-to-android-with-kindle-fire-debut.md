@@ -1,4 +1,4 @@
-# 儿童应用程序制造商 Toca Boca 下载量超过 2200 万次，通过 Kindle Fire 首次亮相扩展到 Android TechCrunch
+# 儿童应用程序制造商 Toca Boca 下载量超过 2200 万次，通过 Kindle Fire 首次亮相扩展到 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/14/kids-app-maker-toca-boca-passes-22-million-downloads-expands-to-android-with-kindle-fire-debut/>
 

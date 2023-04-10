@@ -1,4 +1,4 @@
-# AOL 欧洲以 9670 万美元收购品牌视频网络 goviral TechCrunch
+# AOL 欧洲以 9670 万美元收购品牌视频网络 goviral 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/aol-europe-acquires-branded-video-network-goviral-for-96-7-million/>
 

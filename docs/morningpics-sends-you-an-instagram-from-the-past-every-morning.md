@@ -1,4 +1,4 @@
-# MorningPics 每天早上给你发一张过去的 insta gram TechCrunch
+# MorningPics 每天早上给你发一张过去的 insta gram 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/22/morningpics-sends-you-an-instagram-from-the-past-every-morning/>
 

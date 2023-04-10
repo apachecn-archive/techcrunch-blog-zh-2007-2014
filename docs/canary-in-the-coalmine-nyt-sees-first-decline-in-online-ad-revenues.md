@@ -1,4 +1,4 @@
-# 煤矿中的金丝雀:NYT 在线广告收入首次下降 TechCrunch
+# 煤矿中的金丝雀:NYT 在线广告收入首次下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/24/canary-in-the-coalmine-nyt-sees-first-decline-in-online-ad-revenues/>
 

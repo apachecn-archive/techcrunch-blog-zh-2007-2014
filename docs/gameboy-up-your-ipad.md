@@ -1,4 +1,4 @@
-# game boy-打开你的 iPad TechCrunch
+# game boy-打开你的 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/05/18/gameboy-up-your-ipad/>
 

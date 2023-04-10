@@ -1,4 +1,4 @@
-# Twitter 首席执行官 Ev Williams:收入是一项功能 TechCrunch
+# Twitter 首席执行官 Ev Williams:收入是一项功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/14/twitter-ev-revenue-feature/>
 

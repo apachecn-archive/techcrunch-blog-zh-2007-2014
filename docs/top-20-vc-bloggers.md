@@ -1,4 +1,4 @@
-# 2010 年前 20 名风投大佬 TechCrunch
+# 2010 年前 20 名风投大佬 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/19/top-20-vc-bloggers/>
 

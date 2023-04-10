@@ -1,4 +1,4 @@
-# 理由#152 虚拟现实很棒:没有可怕的其他人的个人电影院 TechCrunch
+# 理由#152 虚拟现实很棒:没有可怕的其他人的个人电影院 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/29/reason-152-virtual-reality-is-awesome-personal-movie-theaters-without-the-awful-other-people/>
 

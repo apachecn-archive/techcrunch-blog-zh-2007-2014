@@ -1,4 +1,4 @@
-# 谷歌收购网络应用服务器 Talaria 以增强其云平台 TechCrunch
+# 谷歌收购网络应用服务器 Talaria 以增强其云平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/15/google-acquires-web-application-server-talaria-to-enhance-its-cloud-platform/>
 

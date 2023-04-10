@@ -1,4 +1,4 @@
-# 鲍尔默给军队的内部电子邮件解释了雅虎收购 TechCrunch
+# 鲍尔默给军队的内部电子邮件解释了雅虎收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/01/ballmers-internal-e-mail-to-the-troops-explaining-the-yahoo-acquisition/>
 

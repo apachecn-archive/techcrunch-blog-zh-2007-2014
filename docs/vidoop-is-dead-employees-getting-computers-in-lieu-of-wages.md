@@ -1,4 +1,4 @@
-# Vidoop 已死，员工用电脑代替工资 TechCrunch
+# Vidoop 已死，员工用电脑代替工资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/30/vidoop-is-dead-employees-getting-computers-in-lieu-of-wages/>
 

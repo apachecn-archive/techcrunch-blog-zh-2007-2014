@@ -1,4 +1,4 @@
-# iOS 4.3 中新的照片应用程序浮出水面 TechCrunch
+# iOS 4.3 中新的照片应用程序浮出水面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/new-photo-apps-surface-in-ios-4-3/>
 

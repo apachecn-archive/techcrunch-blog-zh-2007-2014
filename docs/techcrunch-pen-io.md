@@ -1,4 +1,4 @@
-# Pen.io 是分享草稿的简单方式 TechCrunch
+# Pen.io 是分享草稿的简单方式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/techcrunch-pen-io/>
 

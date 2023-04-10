@@ -1,4 +1,4 @@
-# GitHub 增加了 3D 建模功能，使其成为与打印机无关的对象共享选择 TechCrunch
+# GitHub 增加了 3D 建模功能，使其成为与打印机无关的对象共享选择 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/github-adds-3d-modeling-features-that-make-it-a-printer-agnostic-choice-for-object-sharing/>
 

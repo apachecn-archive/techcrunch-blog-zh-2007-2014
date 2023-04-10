@@ -1,4 +1,4 @@
-# 谷歌窃取苹果的想法和其他意外的商业间谍故事 TechCrunch
+# 谷歌窃取苹果的想法和其他意外的商业间谍故事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/11/google-stealing-apples-ideas-and-other-tales-of-accidental-corporate-espionage/>
 

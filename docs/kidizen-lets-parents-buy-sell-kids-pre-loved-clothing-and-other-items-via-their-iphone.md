@@ -1,4 +1,4 @@
-# Kidizen 允许父母通过他们的 iPhones 买卖孩子“以前喜欢的”衣服和其他物品 TechCrunch
+# Kidizen 允许父母通过他们的 iPhones 买卖孩子“以前喜欢的”衣服和其他物品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/kidizen-lets-parents-buy-sell-kids-pre-loved-clothing-and-other-items-via-their-iphone/>
 

@@ -1,4 +1,4 @@
-# 首次驾驶:2012 款福特福克斯，一款面向世界的欧洲汽车 TechCrunch
+# 首次驾驶:2012 款福特福克斯，一款面向世界的欧洲汽车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/first-drive-2012-ford-focus-a-european-car-meant-for-the-world/>
 

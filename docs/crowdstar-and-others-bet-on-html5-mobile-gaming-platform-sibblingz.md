@@ -1,4 +1,4 @@
-# CrowdStar 和其他人押注 HTML5 移动游戏平台 Spaceport TechCrunch
+# CrowdStar 和其他人押注 HTML5 移动游戏平台 Spaceport 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/crowdstar-and-others-bet-on-html5-mobile-gaming-platform-sibblingz/>
 

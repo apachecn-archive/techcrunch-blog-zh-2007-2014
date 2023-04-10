@@ -1,4 +1,4 @@
-# Europas 决赛选手 TechCrunch
+# Europas 决赛选手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/17/the-europas-the-finalists/>
 

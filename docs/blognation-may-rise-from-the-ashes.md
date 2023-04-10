@@ -1,4 +1,4 @@
-# 博客可能会从灰烬中重生 TechCrunch
+# 博客可能会从灰烬中重生 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/07/blognation-may-rise-from-the-ashes/>
 

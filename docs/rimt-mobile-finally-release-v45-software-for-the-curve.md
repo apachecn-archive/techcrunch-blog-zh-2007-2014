@@ -1,4 +1,4 @@
-# RIM/T-Mobile 终于发布了 4.5 版曲线软件 TechCrunch
+# RIM/T-Mobile 终于发布了 4.5 版曲线软件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/20/rimt-mobile-finally-release-v45-software-for-the-curve/>
 

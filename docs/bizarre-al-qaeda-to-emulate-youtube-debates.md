@@ -1,4 +1,4 @@
-# 离奇:基地组织效仿 YouTube 辩论？TechCrunch
+# 离奇:基地组织效仿 YouTube 辩论？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/16/bizarre-al-qaeda-to-emulate-youtube-debates/>
 

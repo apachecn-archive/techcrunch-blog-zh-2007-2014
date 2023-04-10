@@ -1,4 +1,4 @@
-# 苹果在智能手机出货量方面领先，但三星紧随其后 TechCrunch
+# 苹果在智能手机出货量方面领先，但三星紧随其后 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/apple-takes-lead-in-smartphone-numbers-but-samsung-is-on-its-heels/>
 

@@ -1,4 +1,4 @@
-# 苹果在过去两周内回购了 140 亿美元的 AAPL 股票 TechCrunch
+# 苹果在过去两周内回购了 140 亿美元的 AAPL 股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/07/apple-has-repurchased-14-billion-of-aapl-shares-over-the-past-two-weeks/>
 

@@ -1,4 +1,4 @@
-# AppLoop 已经衰落了吗？TechCrunch
+# AppLoop 已经衰落了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/04/is-apploop-fading-already/>
 

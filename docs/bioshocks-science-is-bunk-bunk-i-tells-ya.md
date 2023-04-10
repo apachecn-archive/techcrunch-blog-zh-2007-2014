@@ -1,4 +1,4 @@
-# 生化奇兵的科学是胡扯！Bunk，我告诉你！TechCrunch
+# 生化奇兵的科学是胡扯！Bunk，我告诉你！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/bioshocks-science-is-bunk-bunk-i-tells-ya/>
 

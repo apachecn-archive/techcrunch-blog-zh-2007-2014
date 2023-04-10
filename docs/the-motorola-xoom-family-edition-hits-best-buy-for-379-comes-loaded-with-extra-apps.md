@@ -1,4 +1,4 @@
-# 摩托罗拉 Xoom 家庭版以 379 美元的价格在 Best Buy 上市，装载了额外的应用程序 TechCrunch
+# 摩托罗拉 Xoom 家庭版以 379 美元的价格在 Best Buy 上市，装载了额外的应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/the-motorola-xoom-family-edition-hits-best-buy-for-379-comes-loaded-with-extra-apps/>
 

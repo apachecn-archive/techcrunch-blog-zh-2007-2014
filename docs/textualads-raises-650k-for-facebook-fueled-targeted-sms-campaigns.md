@@ -1,4 +1,4 @@
-# TextualAds 为脸书发起的定向短信活动筹集了 65 万美元 TechCrunch
+# TextualAds 为脸书发起的定向短信活动筹集了 65 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/29/textualads-raises-650k-for-facebook-fueled-targeted-sms-campaigns/>
 

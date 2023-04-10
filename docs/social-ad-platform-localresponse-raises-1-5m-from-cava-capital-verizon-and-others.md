@@ -1,4 +1,4 @@
-# 社交广告平台 LocalResponse 从 Cava Capital、威瑞森和其他公司获得 150 万美元 TechCrunch
+# 社交广告平台 LocalResponse 从 Cava Capital、威瑞森和其他公司获得 150 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/27/social-ad-platform-localresponse-raises-1-5m-from-cava-capital-verizon-and-others/>
 

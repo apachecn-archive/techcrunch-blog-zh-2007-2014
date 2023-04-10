@@ -1,4 +1,4 @@
-# Evernote 首席执行官 Phil Libin:对于免费增值产品，关注“免费”的 TechCrunch
+# Evernote 首席执行官 Phil Libin:对于免费增值产品，关注“免费”的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/phil-libin-evernote-ceo-on-freemium/>
 

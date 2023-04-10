@@ -1,4 +1,4 @@
-# 多有面子(。com)的认可可能适合脸书移动 TechCrunch
+# 多有面子(。com)的认可可能适合脸书移动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/28/face-com-may-give-facebook-a-mobile-klik-but-ceo-tells-us-nothing-new-to-announce/>
 

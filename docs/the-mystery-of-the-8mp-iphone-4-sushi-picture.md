@@ -1,4 +1,4 @@
-# 800 万像素 iPhone 5 寿司图片之谜 TechCrunch
+# 800 万像素 iPhone 5 寿司图片之谜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/the-mystery-of-the-8mp-iphone-4-sushi-picture/>
 

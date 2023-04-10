@@ -1,4 +1,4 @@
-# LocalHero 帮助您穿越社交网络的喧嚣，将您的朋友变成英雄 TechCrunch
+# LocalHero 帮助您穿越社交网络的喧嚣，将您的朋友变成英雄 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/localhero-helps-you-wade-through-the-noise-of-social-networks-turn-your-friends-into-heroes/>
 

@@ -1,4 +1,4 @@
-# Zynga 与犯罪世界脸书游戏黑手党战争 2 的 3D；以创纪录的 16 种语言发布 TechCrunch
+# Zynga 与犯罪世界脸书游戏黑手党战争 2 的 3D；以创纪录的 16 种语言发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/zynga-goes-3d-with-crime-world-facebook-game-mafia-wars-2-launches-in-a-record-16-languages/>
 

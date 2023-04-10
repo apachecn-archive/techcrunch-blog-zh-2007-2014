@@ -1,4 +1,4 @@
-# Wolfram Alpha 使 CrunchBase 数据可计算，正好适用于 Disrupt SF TechCrunch
+# Wolfram Alpha 使 CrunchBase 数据可计算，正好适用于 Disrupt SF 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/07/wolfram-alpha-makes-crunchbase-data-computable-just-in-time-for-disrupt/>
 

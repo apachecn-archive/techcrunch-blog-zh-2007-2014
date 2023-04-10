@@ -1,4 +1,4 @@
-# 男士订阅服务 Bespoke Post 与 Details Mag 合作，获得 500 家初创公司的投资 TechCrunch
+# 男士订阅服务 Bespoke Post 与 Details Mag 合作，获得 500 家初创公司的投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/04/mens-subscription-service-bespoke-post-partners-with-details-mag-grabs-500-startups-as-investor/>
 

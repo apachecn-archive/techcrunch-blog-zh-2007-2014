@@ -1,4 +1,4 @@
-# 网络集成媒体播放器 Songbird 发布 v 0.3 TechCrunch
+# 网络集成媒体播放器 Songbird 发布 v 0.3 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/30/web-integrated-media-player-songbird-releases-v03/>
 

@@ -1,4 +1,4 @@
-# 流程图很酷。现在它死了 TechCrunch
+# 流程图很酷。现在它死了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/12/flowgram-was-cool-now-its-dead/>
 

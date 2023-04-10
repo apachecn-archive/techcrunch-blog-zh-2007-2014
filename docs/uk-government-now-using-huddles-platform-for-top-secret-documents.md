@@ -1,4 +1,4 @@
-# 英国政府现在使用 Huddle 平台处理“受限”文件 TechCrunch
+# 英国政府现在使用 Huddle 平台处理“受限”文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/uk-government-now-using-huddles-platform-for-top-secret-documents/>
 

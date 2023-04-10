@@ -1,4 +1,4 @@
-# LinkedIn 收购实时托管搜索初创公司 IndexTank TechCrunch
+# LinkedIn 收购实时托管搜索初创公司 IndexTank 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/11/linkedin-buys-real-time-hosted-search-startup-indextank/>
 

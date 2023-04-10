@@ -1,4 +1,4 @@
-# Loic Le Meur 创业成功的十大法则 TechCrunch
+# Loic Le Meur 创业成功的十大法则 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/05/loic-le-meurs-ten-rules-for-startup-success-2/>
 

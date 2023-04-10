@@ -1,4 +1,4 @@
-# 醉 TechCrunch 醉了。(新年快乐！)TechCrunch
+# 醉 TechCrunch 醉了。(新年快乐！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/31/drunk-techcrunch/>
 

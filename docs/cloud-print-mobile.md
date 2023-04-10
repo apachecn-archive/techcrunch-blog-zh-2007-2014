@@ -1,4 +1,4 @@
-# 谷歌推出云打印手机。嗯，在某种程度上，PC 仍然需要 TechCrunch
+# 谷歌推出云打印手机。嗯，在某种程度上，PC 仍然需要 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/cloud-print-mobile/>
 

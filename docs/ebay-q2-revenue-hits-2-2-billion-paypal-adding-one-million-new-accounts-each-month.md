@@ -1,4 +1,4 @@
-# 易贝 Q2 公司收入达到 22 亿美元，PayPal 每月新增 100 万个账户 TechCrunch
+# 易贝 Q2 公司收入达到 22 亿美元，PayPal 每月新增 100 万个账户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/21/ebay-q2-revenue-hits-2-2-billion-paypal-adding-one-million-new-accounts-each-month/>
 

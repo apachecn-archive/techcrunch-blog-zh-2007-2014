@@ -1,4 +1,4 @@
-# Rally Software 收购 Flowdock，这是一个面向开发者的实时社交协作中心 TechCrunch
+# Rally Software 收购 Flowdock，这是一个面向开发者的实时社交协作中心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/rally-software-buys-flowdock-a-real-time-social-collaboration-hub-for-developers/>
 

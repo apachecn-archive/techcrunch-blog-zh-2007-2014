@@ -1,4 +1,4 @@
-# SnapTerms:服务条款即服务 TechCrunch
+# SnapTerms:服务条款即服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/13/snapterms-terms-of-service-as-a-service/>
 

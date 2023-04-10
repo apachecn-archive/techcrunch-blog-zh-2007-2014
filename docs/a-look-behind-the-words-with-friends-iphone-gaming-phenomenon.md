@@ -1,4 +1,4 @@
-# “与朋友交谈”iPhone 游戏现象背后的一瞥 TechCrunch
+# “与朋友交谈”iPhone 游戏现象背后的一瞥 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/10/a-look-behind-the-words-with-friends-iphone-gaming-phenomenon/>
 

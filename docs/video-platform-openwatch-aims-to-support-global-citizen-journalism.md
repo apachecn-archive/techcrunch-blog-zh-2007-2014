@@ -1,4 +1,4 @@
-# 视频平台 OpenWatch 旨在支持全球公民新闻 TechCrunch
+# 视频平台 OpenWatch 旨在支持全球公民新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/video-platform-openwatch-aims-to-support-global-citizen-journalism/>
 

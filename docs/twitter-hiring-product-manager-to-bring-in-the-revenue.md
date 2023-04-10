@@ -1,4 +1,4 @@
-# Twitter 雇佣产品经理带来收入 TechCrunch
+# Twitter 雇佣产品经理带来收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/16/twitter-hiring-product-manager-to-bring-in-the-revenue/>
 

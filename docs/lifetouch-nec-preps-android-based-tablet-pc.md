@@ -1,4 +1,4 @@
-# LifeTouch: NEC 准备基于 Android 的平板电脑 TechCrunch
+# LifeTouch: NEC 准备基于 Android 的平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/14/lifetouch-nec-preps-android-based-tablet-pc/>
 

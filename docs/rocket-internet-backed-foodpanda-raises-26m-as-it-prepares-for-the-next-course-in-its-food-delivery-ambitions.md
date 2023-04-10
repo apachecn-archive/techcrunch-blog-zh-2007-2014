@@ -1,4 +1,4 @@
-# 火箭互联网支持的 FoodPanda 筹集了 2000 多万美元，为其送餐雄心的下一个目标做准备 TechCrunch
+# 火箭互联网支持的 FoodPanda 筹集了 2000 多万美元，为其送餐雄心的下一个目标做准备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/07/rocket-internet-backed-foodpanda-raises-26m-as-it-prepares-for-the-next-course-in-its-food-delivery-ambitions/>
 

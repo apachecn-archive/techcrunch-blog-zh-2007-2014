@@ -1,4 +1,4 @@
-# 传言称:苹果计划推出 15 英寸 MacBook Air TechCrunch
+# 传言称:苹果计划推出 15 英寸 MacBook Air 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/rumor-has-it-apple-planning-15-inch-macbook-air/>
 

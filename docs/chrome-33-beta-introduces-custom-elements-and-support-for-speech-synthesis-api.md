@@ -1,4 +1,4 @@
-# Chrome 33 Beta 引入了自定义元素并支持语音合成 API TechCrunch
+# Chrome 33 Beta 引入了自定义元素并支持语音合成 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/chrome-33-beta-introduces-custom-elements-and-support-for-speech-synthesis-api/>
 

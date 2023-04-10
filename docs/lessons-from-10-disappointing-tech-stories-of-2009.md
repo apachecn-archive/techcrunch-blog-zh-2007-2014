@@ -1,4 +1,4 @@
-# 2009 年 10 个令人失望的科技故事的教训 TechCrunch
+# 2009 年 10 个令人失望的科技故事的教训 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/22/lessons-from-10-disappointing-tech-stories-of-2009/>
 

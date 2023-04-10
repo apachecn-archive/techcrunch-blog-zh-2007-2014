@@ -1,4 +1,4 @@
-# Slingbox 脸书应用上线，不擅长分享 TechCrunch
+# Slingbox 脸书应用上线，不擅长分享 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/18/slingbox-facebook-app-goes-live-isnt-great-at-sharing/>
 

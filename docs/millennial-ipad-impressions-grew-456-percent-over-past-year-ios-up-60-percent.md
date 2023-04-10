@@ -1,4 +1,4 @@
-# 千禧一代:过去一年，iPad 的展示量增长了 456 %;iOS 增长 60% TechCrunch
+# 千禧一代:过去一年，iPad 的展示量增长了 456 %;iOS 增长 60% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/millennial-ipad-impressions-grew-456-percent-over-past-year-ios-up-60-percent/>
 

@@ -1,4 +1,4 @@
-# 今年，Adobe 的 200 万 Flash 开发者将来到 iPhone TechCrunch
+# 今年，Adobe 的 200 万 Flash 开发者将来到 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/10/flash-developers-iphone/>
 

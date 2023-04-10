@@ -1,4 +1,4 @@
-# Tradeshift 升级为企业即时支付 TechCrunch
+# Tradeshift 升级为企业即时支付 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/tradeshift-shifts-up-a-gear-with-instant-payments-for-businesses/>
 

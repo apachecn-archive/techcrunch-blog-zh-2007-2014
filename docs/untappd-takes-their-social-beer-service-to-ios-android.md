@@ -1,4 +1,4 @@
-# Untappd 将其社交啤酒服务引入 iOS、Android TechCrunch
+# Untappd 将其社交啤酒服务引入 iOS、Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/untappd-takes-their-social-beer-service-to-ios-android/>
 

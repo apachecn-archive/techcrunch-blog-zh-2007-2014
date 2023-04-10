@@ -1,4 +1,4 @@
-# 长尾视频为出版商推出自助式在线视频平台 TechCrunch
+# 长尾视频为出版商推出自助式在线视频平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/21/longtail-video-launches-self-serve-online-video-platform-for-publishers/>
 

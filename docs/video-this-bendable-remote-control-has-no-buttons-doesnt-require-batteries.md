@@ -1,4 +1,4 @@
-# 视频:这个可弯曲的遥控器没有按钮，不需要电池 TechCrunch
+# 视频:这个可弯曲的遥控器没有按钮，不需要电池 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/video-this-bendable-remote-control-has-no-buttons-doesnt-require-batteries/>
 

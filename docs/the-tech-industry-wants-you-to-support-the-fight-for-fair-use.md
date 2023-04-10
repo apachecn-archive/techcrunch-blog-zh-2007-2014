@@ -1,4 +1,4 @@
-# 科技行业希望您支持公平使用的斗争 TechCrunch
+# 科技行业希望您支持公平使用的斗争 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/the-tech-industry-wants-you-to-support-the-fight-for-fair-use/>
 

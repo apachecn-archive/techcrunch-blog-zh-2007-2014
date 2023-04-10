@@ -1,4 +1,4 @@
-# Red Hat 的 OpenShift 增加了完整的 Java 生命周期产品 TechCrunch
+# Red Hat 的 OpenShift 增加了完整的 Java 生命周期产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/red-hats-openshift-adds-full-java-lifecycle-offering/>
 

@@ -1,4 +1,4 @@
-# Q2 的 M&A 科技展保持在 260 亿美元；科技股 IPO 占 IPO 总价值的 40% TechCrunch
+# Q2 的 M&A 科技展保持在 260 亿美元；科技股 IPO 占 IPO 总价值的 40% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/tech-26-billion-ipo/>
 

@@ -1,4 +1,4 @@
-# Case-Mate 刚才是不是漏了 iPhone 5？TechCrunch
+# Case-Mate 刚才是不是漏了 iPhone 5？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/did-case-mate-just-leak-the-iphone-5/>
 

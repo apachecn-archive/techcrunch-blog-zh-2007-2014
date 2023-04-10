@@ -1,4 +1,4 @@
-# 问一个风投:Bijan Sabet 重回热座。立即发送您的问题！TechCrunch
+# 问一个风投:Bijan Sabet 重回热座。立即发送您的问题！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/11/ask-a-vc-bijan-sabet-returns-to-the-hot-seat-send-your-questions-now/>
 

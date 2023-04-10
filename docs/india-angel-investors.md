@@ -1,4 +1,4 @@
-# 印度能“Jugaad”走向更多的天使投资吗？TechCrunch
+# 印度能“Jugaad”走向更多的天使投资吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/11/29/india-angel-investors/>
 

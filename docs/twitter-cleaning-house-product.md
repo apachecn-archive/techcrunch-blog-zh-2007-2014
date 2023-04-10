@@ -1,4 +1,4 @@
-# Twitter 上的杰克·多西清理室:4 个关键产品人员出局 TechCrunch
+# Twitter 上的杰克·多西清理室:4 个关键产品人员出局 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/twitter-cleaning-house-product/>
 

@@ -1,4 +1,4 @@
-# 微软回应谷歌勒索称:“哇哈哈。”TechCrunch
+# 微软回应谷歌勒索称:“哇哈哈。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/microsoft-to-google-pay-up/>
 

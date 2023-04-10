@@ -1,4 +1,4 @@
-# 新的 C-SPAN 网站与 YouTube、Twitter、Qik、Flash 的联系越来越紧密...TechCrunch
+# 新的 C-SPAN 网站与 YouTube、Twitter、Qik、Flash 的联系越来越紧密...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/21/new-c-span-sites-get-way-unboring-with-youtube-twitter-qik-flash/>
 

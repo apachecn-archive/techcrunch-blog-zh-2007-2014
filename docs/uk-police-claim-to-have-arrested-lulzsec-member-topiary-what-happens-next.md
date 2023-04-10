@@ -1,4 +1,4 @@
-# 英国警方声称已经逮捕了 LulzSec 成员“Topiary”。接下来会发生什么？TechCrunch
+# 英国警方声称已经逮捕了 LulzSec 成员“Topiary”。接下来会发生什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/uk-police-claim-to-have-arrested-lulzsec-member-topiary-what-happens-next/>
 

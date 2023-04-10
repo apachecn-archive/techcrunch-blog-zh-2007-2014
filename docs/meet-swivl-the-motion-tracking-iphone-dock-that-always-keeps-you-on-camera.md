@@ -1,4 +1,4 @@
-# 认识一下 Swivl，它是一个动作跟踪 iPhone 基座，可以让你一直保持在镜头前 TechCrunch
+# 认识一下 Swivl，它是一个动作跟踪 iPhone 基座，可以让你一直保持在镜头前 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/meet-swivl-the-motion-tracking-iphone-dock-that-always-keeps-you-on-camera/>
 

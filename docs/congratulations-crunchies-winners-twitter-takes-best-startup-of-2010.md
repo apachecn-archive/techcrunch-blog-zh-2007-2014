@@ -1,4 +1,4 @@
-# 恭喜脆饼干赢家！Twitter 获得 2010 年最佳创业公司 TechCrunch
+# 恭喜脆饼干赢家！Twitter 获得 2010 年最佳创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/congratulations-crunchies-winners-twitter-takes-best-startup-of-2010/>
 

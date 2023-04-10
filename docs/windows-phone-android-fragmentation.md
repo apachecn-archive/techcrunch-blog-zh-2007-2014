@@ -1,4 +1,4 @@
-# 微软对 Android 的分裂竖起了一个漂亮的大中指 TechCrunch
+# 微软对 Android 的分裂竖起了一个漂亮的大中指 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/10/windows-phone-android-fragmentation/>
 

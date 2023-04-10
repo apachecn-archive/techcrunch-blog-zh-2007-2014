@@ -1,4 +1,4 @@
-# 脸书宣布新的手机游戏发行计划 TechCrunch
+# 脸书宣布新的手机游戏发行计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/facebook-mobile-game-publishing/>
 

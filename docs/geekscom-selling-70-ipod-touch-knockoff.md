@@ -1,4 +1,4 @@
-# Geeks.com 出售 70 美元的 iPod Touch 山寨版 TechCrunch
+# Geeks.com 出售 70 美元的 iPod Touch 山寨版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/12/geekscom-selling-70-ipod-touch-knockoff/>
 

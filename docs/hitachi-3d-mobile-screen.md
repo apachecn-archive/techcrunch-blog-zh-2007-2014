@@ -1,4 +1,4 @@
-# 日立开发具有高清分辨率的 4.5 英寸裸眼 3D 液晶屏 TechCrunch
+# 日立开发具有高清分辨率的 4.5 英寸裸眼 3D 液晶屏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/hitachi-3d-mobile-screen/>
 

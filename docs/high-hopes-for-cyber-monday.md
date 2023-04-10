@@ -1,4 +1,4 @@
-# 网络星期一的厚望 TechCrunch
+# 网络星期一的厚望 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/26/high-hopes-for-cyber-monday/>
 

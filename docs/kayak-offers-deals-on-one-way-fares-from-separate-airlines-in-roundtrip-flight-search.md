@@ -1,4 +1,4 @@
-# Kayak 在往返航班搜索中提供不同航空公司的单程票价交易 TechCrunch
+# Kayak 在往返航班搜索中提供不同航空公司的单程票价交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/kayak-offers-deals-on-one-way-fares-from-separate-airlines-in-roundtrip-flight-search/>
 

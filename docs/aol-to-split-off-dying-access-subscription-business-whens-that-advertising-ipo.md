@@ -1,4 +1,4 @@
-# 美国在线将剥离垂死接入订阅业务。广告公司什么时候上市？TechCrunch
+# 美国在线将剥离垂死接入订阅业务。广告公司什么时候上市？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/06/aol-to-split-off-dying-access-subscription-business-whens-that-advertising-ipo/>
 

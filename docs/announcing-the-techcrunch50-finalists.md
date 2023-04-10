@@ -1,4 +1,4 @@
-# 宣布 TechCrunch50 强入围者 TechCrunch
+# 宣布 TechCrunch50 强入围者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/08/announcing-the-techcrunch50-finalists/>
 

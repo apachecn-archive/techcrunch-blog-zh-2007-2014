@@ -1,4 +1,4 @@
-# Twitter 带来的流量是你想象的 4 倍。原因如下...TechCrunch
+# Twitter 带来的流量是你想象的 4 倍。原因如下...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/14/twitter-drives-4x-as-much-traffic-as-you-think-heres-why/>
 

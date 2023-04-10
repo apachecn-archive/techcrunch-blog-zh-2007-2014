@@ -1,4 +1,4 @@
-# 谷歌确认好友联系 TechCrunch
+# 谷歌确认好友联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/12/google-confirms-friend-connect/>
 

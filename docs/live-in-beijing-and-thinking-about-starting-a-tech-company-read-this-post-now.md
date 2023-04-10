@@ -1,4 +1,4 @@
-# 住在北京，正在考虑创办一家科技公司？阅读。这个。贴吧。现在。TechCrunch
+# 住在北京，正在考虑创办一家科技公司？阅读。这个。贴吧。现在。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/live-in-beijing-and-thinking-about-starting-a-tech-company-read-this-post-now/>
 

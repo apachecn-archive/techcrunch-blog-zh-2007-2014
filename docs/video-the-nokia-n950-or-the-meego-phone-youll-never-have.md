@@ -1,4 +1,4 @@
-# 视频:诺基亚 N950，或者你永远不会有的 MeeGo 手机 TechCrunch
+# 视频:诺基亚 N950，或者你永远不会有的 MeeGo 手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/22/video-the-nokia-n950-or-the-meego-phone-youll-never-have/>
 

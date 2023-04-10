@@ -1,4 +1,4 @@
-# 微软推出带有高分辨率 3D 图像的必应地图预览版 TechCrunch
+# 微软推出带有高分辨率 3D 图像的必应地图预览版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/05/microsoft-launches-bing-maps-preview-with-high-res-3d-imagery/>
 

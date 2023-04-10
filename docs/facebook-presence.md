@@ -1,4 +1,4 @@
-# 脸书存在:通过 RFID 定位在 F8 TechCrunch
+# 脸书存在:通过 RFID 定位在 F8 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/facebook-presence/>
 

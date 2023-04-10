@@ -1,4 +1,4 @@
-# 发动机厂裁员 15% TechCrunch
+# 发动机厂裁员 15% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/07/engine-yard-cuts-15-of-workforce/>
 

@@ -1,4 +1,4 @@
-# ModoPayments 最终会实现入住货币化吗？TechCrunch
+# ModoPayments 最终会实现入住货币化吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/29/will-modopayments-finally-monetize-check-in/>
 

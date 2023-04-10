@@ -1,4 +1,4 @@
-# 关于如何与董事会合作的十条建议 TechCrunch
+# 关于如何与董事会合作的十条建议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/16/ten-tips-on-how-to-work-with-your-board-of-directors/>
 

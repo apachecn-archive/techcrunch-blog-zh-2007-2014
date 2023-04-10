@@ -1,4 +1,4 @@
-# 我们为什么投资 Groupon:数据的力量 TechCrunch
+# 我们为什么投资 Groupon:数据的力量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/11/why-we-invested-in-groupon-the-power-of-data/>
 

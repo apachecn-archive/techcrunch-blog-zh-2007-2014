@@ -1,4 +1,4 @@
-# 印度来电:印度的 JustDial 能在美国成功吗？TechCrunch
+# 印度来电:印度的 JustDial 能在美国成功吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/22/can-india%e2%80%99s-justdial-make-it-in-the-us/>
 

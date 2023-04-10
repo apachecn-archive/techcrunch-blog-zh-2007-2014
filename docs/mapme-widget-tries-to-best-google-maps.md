@@ -1,4 +1,4 @@
-# MAPme Widget 试图超越谷歌地图 TechCrunch
+# MAPme Widget 试图超越谷歌地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/mapme-widget-tries-to-best-google-maps/>
 

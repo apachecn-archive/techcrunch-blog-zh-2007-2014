@@ -1,4 +1,4 @@
-# OMG/JK: Sh*thead Lists，触摸 Windows 8，告别 Mike TechCrunch
+# OMG/JK: Sh*thead Lists，触摸 Windows 8，告别 Mike 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/17/omg-jk-shitheads/>
 

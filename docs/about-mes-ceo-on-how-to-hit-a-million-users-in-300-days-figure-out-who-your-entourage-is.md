@@ -1,4 +1,4 @@
-# About.me CEO 谈如何在 300 天内达到 100 万用户:“弄清楚谁是你的随从。”TechCrunch
+# About.me CEO 谈如何在 300 天内达到 100 万用户:“弄清楚谁是你的随从。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/about-mes-ceo-on-how-to-hit-a-million-users-in-300-days-figure-out-who-your-entourage-is/>
 

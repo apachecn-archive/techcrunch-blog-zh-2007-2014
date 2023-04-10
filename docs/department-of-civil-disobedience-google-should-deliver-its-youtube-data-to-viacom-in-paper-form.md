@@ -1,4 +1,4 @@
-# 公民抗命部:谷歌应以纸质形式向维亚康姆提交其 YouTube 数据 TechCrunch
+# 公民抗命部:谷歌应以纸质形式向维亚康姆提交其 YouTube 数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/03/department-of-civil-disobedience-google-should-deliver-its-youtube-data-to-viacom-in-paper-form/>
 

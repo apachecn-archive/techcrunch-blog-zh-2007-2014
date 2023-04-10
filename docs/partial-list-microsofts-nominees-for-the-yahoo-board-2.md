@@ -1,4 +1,4 @@
-# 部分名单:微软提名的雅虎董事会成员 TechCrunch
+# 部分名单:微软提名的雅虎董事会成员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/13/partial-list-microsofts-nominees-for-the-yahoo-board-2/>
 

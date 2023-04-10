@@ -1,4 +1,4 @@
-# 滑雪缆车票零售商 Liftopia 融资 130 万美元 TechCrunch
+# 滑雪缆车票零售商 Liftopia 融资 130 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/ski-lift-ticket-retailer-liftopia-raises-1-3-million/>
 

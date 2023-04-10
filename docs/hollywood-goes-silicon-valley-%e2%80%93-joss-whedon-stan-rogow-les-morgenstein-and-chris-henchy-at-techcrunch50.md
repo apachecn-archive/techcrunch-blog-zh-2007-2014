@@ -1,4 +1,4 @@
-# 好莱坞走向硅谷——乔斯·韦登、斯坦·罗戈、莱斯·摩根斯坦和克里斯·亨奇在 TechCrunch 50 TechCrunch
+# 好莱坞走向硅谷——乔斯·韦登、斯坦·罗戈、莱斯·摩根斯坦和克里斯·亨奇在 TechCrunch 50 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/12/hollywood-goes-silicon-valley-%e2%80%93-joss-whedon-stan-rogow-les-morgenstein-and-chris-henchy-at-techcrunch50/>
 

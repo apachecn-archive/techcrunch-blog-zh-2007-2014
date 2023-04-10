@@ -1,4 +1,4 @@
-# AWS 推出简单的批量电子邮件服务 Amazon SES TechCrunch
+# AWS 推出简单的批量电子邮件服务 Amazon SES 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/25/aws-launches-simple-cloud-based-email-service-amazon-ses/>
 

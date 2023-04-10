@@ -1,4 +1,4 @@
-# LinkedIn 推出基于短信的两步认证，防止账户被黑 TechCrunch
+# LinkedIn 推出基于短信的两步认证，防止账户被黑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/31/linkedin-launches-sms-based-two-step-authentication-to-prevent-account-hacking/>
 

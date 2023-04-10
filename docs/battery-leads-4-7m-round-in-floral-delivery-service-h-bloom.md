@@ -1,4 +1,4 @@
-# 电池在花卉递送服务领域领先 470 万美元 H . Bloom TechCrunch
+# 电池在花卉递送服务领域领先 470 万美元 H . Bloom 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/battery-leads-4-7m-round-in-floral-delivery-service-h-bloom/>
 

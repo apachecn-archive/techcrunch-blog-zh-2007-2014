@@ -1,4 +1,4 @@
-# 泄露的 T-Mobile 路线图承诺 11 月 2 日推出六款新设备 TechCrunch
+# 泄露的 T-Mobile 路线图承诺 11 月 2 日推出六款新设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/05/leaked-t-mobile-roadmap-promises-six-new-devices-on-november-2/>
 

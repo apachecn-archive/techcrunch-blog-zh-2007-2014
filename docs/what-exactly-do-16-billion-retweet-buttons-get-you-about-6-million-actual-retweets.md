@@ -1,4 +1,4 @@
-# 16 亿个转发按钮到底给你带来了什么？大约 600 万次转发。TechCrunch
+# 16 亿个转发按钮到底给你带来了什么？大约 600 万次转发。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/21/what-exactly-do-16-billion-retweet-buttons-get-you-about-6-million-actual-retweets/>
 

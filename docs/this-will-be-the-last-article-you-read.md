@@ -1,4 +1,4 @@
-# 这将是你阅读的最后一篇文章 TechCrunch
+# 这将是你阅读的最后一篇文章 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/20/this-will-be-the-last-article-you-read/>
 

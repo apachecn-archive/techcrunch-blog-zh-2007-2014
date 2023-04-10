@@ -1,4 +1,4 @@
-# 在最重要的领域，iPhone 实际上没有竞争对手 TechCrunch
+# 在最重要的领域，iPhone 实际上没有竞争对手 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/iphone-android-profit/>
 

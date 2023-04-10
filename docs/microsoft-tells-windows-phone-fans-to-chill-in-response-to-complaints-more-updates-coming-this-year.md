@@ -1,4 +1,4 @@
-# 微软告诉 Windows Phone 粉丝冷静应对投诉，今年将有更多更新 TechCrunch
+# 微软告诉 Windows Phone 粉丝冷静应对投诉，今年将有更多更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/microsoft-tells-windows-phone-fans-to-chill-in-response-to-complaints-more-updates-coming-this-year/>
 

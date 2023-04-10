@@ -1,4 +1,4 @@
-# 推出预算 65 英寸 LCoS 1080p 高清电视的语法 TechCrunch
+# 推出预算 65 英寸 LCoS 1080p 高清电视的语法 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/syntax-to-unveil-budget-65-inch-lcos-1080p-hdtv/>
 

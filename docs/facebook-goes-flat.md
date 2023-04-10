@@ -1,4 +1,4 @@
-# 扁平设计的另一个胜利是脸书给它的 F 标志和其他图标一个更平、更干净的外观 TechCrunch
+# 扁平设计的另一个胜利是脸书给它的 F 标志和其他图标一个更平、更干净的外观 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/19/facebook-goes-flat/>
 

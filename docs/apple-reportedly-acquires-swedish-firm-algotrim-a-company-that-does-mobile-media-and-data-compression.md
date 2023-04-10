@@ -1,4 +1,4 @@
-# 苹果收购瑞典公司 AlgoTrim，这是一家移动媒体和数据压缩公司 TechCrunch
+# 苹果收购瑞典公司 AlgoTrim，这是一家移动媒体和数据压缩公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/28/apple-reportedly-acquires-swedish-firm-algotrim-a-company-that-does-mobile-media-and-data-compression/>
 

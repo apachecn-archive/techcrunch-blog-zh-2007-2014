@@ -1,4 +1,4 @@
-# 有奇怪商业行为的谷歌主管揭露了 TechCrunch
+# 有奇怪商业行为的谷歌主管揭露了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/11/google-director-outed-with-odd-business-practices/>
 

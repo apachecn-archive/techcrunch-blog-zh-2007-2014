@@ -1,4 +1,4 @@
-# 脸书的决策时间:收到价值 20 亿美元的投资意向书 TechCrunch
+# 脸书的决策时间:收到价值 20 亿美元的投资意向书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/15/decision-time-for-facebook-term-sheets-received-at-2-billion-valuation/>
 

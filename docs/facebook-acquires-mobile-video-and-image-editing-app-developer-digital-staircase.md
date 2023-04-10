@@ -1,4 +1,4 @@
-# 脸书 Acq-雇用移动视频和图像编辑应用程序开发人员数字楼梯 TechCrunch
+# 脸书 Acq-雇用移动视频和图像编辑应用程序开发人员数字楼梯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/facebook-acquires-mobile-video-and-image-editing-app-developer-digital-staircase/>
 

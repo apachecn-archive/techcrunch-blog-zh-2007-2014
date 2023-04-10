@@ -1,4 +1,4 @@
-# 前 Xmarks 首席执行官兼连续创业者 James Joaquin 作为合伙人加入 Catamount Ventures TechCrunch
+# 前 Xmarks 首席执行官兼连续创业者 James Joaquin 作为合伙人加入 Catamount Ventures 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/former-xmarks-ceo-and-serial-entrepreneur-james-joaquin-joins-catamount-ventures-as-partner/>
 

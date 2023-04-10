@@ -1,4 +1,4 @@
-# Mint 的 470 万美元 A 轮融资 TechCrunch
+# Mint 的 470 万美元 A 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/16/mints-47-million-a-round/>
 

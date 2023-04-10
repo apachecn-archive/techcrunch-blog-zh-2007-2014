@@ -1,4 +1,4 @@
-# AnyClip 与华纳兄弟合作，加大视频盈利力度 TechCrunch
+# AnyClip 与华纳兄弟合作，加大视频盈利力度 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/anyclip-partners-with-warner-bros-ramps-up-video-monetization-efforts/>
 

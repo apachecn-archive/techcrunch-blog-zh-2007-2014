@@ -1,4 +1,4 @@
-# Kno 扩展到大学之外，与 Houghton Mifflin 合作，将数字教科书引入 K-12 TechCrunch
+# Kno 扩展到大学之外，与 Houghton Mifflin 合作，将数字教科书引入 K-12 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/07/know-goes-beyond-college/>
 

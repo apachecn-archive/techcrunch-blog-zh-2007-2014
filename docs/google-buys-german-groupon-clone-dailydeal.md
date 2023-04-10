@@ -1,4 +1,4 @@
-# 谷歌收购德国 Groupon 克隆 daily deal TechCrunch
+# 谷歌收购德国 Groupon 克隆 daily deal 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/google-buys-german-groupon-clone-dailydeal/>
 

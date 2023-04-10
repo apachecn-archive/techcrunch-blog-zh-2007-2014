@@ -1,4 +1,4 @@
-# 社交网络悖论 TechCrunch
+# 社交网络悖论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/28/the-social-network-paradox/>
 

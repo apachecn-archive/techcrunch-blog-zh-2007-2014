@@ -1,4 +1,4 @@
-# 拥有比 Foursquare 更多用户的家庭定位器 Life360 筹集了 1000 万美元的 B 轮融资 TechCrunch
+# 拥有比 Foursquare 更多用户的家庭定位器 Life360 筹集了 1000 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/life360-the-family-locator-with-more-users-than-foursquare-raises-10-million-series-b/>
 

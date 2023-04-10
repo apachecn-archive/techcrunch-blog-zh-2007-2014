@@ -1,4 +1,4 @@
-# Woot: 8GB iPod Touch 克隆版售价 45 美元 TechCrunch
+# Woot: 8GB iPod Touch 克隆版售价 45 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/05/woot-8gb-ipod-touch-clone-for-45/>
 

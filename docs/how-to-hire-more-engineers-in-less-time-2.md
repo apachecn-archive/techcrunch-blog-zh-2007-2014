@@ -1,4 +1,4 @@
-# 如何在更短的时间内雇佣更多的工程师 TechCrunch
+# 如何在更短的时间内雇佣更多的工程师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/21/how-to-hire-more-engineers-in-less-time-2/>
 

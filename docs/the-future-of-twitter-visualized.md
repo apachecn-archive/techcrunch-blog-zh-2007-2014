@@ -1,4 +1,4 @@
-# Twitter 的未来可视化 TechCrunch
+# Twitter 的未来可视化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/06/01/the-future-of-twitter-visualized/>
 

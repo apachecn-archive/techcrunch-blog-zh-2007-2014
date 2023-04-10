@@ -1,4 +1,4 @@
-# Fabrik 收购 G-Technology，预计 2008 年收入超过 2 亿美元 TechCrunch
+# Fabrik 收购 G-Technology，预计 2008 年收入超过 2 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/15/fabrik-acquires-g-technology-expect-2008-revenues-of-200-million/>
 

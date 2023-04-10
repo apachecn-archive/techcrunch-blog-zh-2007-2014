@@ -1,4 +1,4 @@
-# Bing 将 Pinterest 收藏加入图片搜索 TechCrunch
+# Bing 将 Pinterest 收藏加入图片搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/bing-adds-pinterest-collections-to-image-search/>
 

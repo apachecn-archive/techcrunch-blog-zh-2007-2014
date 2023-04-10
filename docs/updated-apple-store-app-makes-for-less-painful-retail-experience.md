@@ -1,4 +1,4 @@
-# 更新的 Apple Store 应用程序有助于减少痛苦的零售体验 TechCrunch
+# 更新的 Apple Store 应用程序有助于减少痛苦的零售体验 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/updated-apple-store-app-makes-for-less-painful-retail-experience/>
 

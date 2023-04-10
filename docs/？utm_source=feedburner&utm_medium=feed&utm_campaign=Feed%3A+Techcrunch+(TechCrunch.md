@@ -1,4 +1,4 @@
-# 谷歌巴勒斯坦通过域名注册攻击被黑和篡改 TechCrunch
+# 谷歌巴勒斯坦通过域名注册攻击被黑和篡改 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/26/google-palestine-hacked-and-defaced-seemingly-through-a-domain-registry-attack/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+(TechCrunch>)
 

@@ -1,4 +1,4 @@
-# 三星考虑 Android 驱动的高清电视与索尼和苹果竞争 TechCrunch
+# 三星考虑 Android 驱动的高清电视与索尼和苹果竞争 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/samsung-considering-android-powered-hdtvs-to-compete-with-sony-and-apple/>
 

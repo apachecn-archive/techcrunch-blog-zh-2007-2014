@@ -1,4 +1,4 @@
-# 热衷于...如果我们都成仙了会发生什么？TechCrunch
+# 热衷于...如果我们都成仙了会发生什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/keen-on-what-would-happen-if-we-all-became-immortal-tctv/>
 

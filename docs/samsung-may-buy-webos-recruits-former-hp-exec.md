@@ -1,4 +1,4 @@
-# 三星可能收购 webOS，招募前惠普高管 TechCrunch
+# 三星可能收购 webOS，招募前惠普高管 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/samsung-may-buy-webos-recruits-former-hp-exec/>
 

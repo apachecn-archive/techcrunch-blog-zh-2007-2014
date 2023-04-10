@@ -1,4 +1,4 @@
-# 雅虎:预计 2014 年 Tumblr 上的广告将大幅增加 TechCrunch
+# 雅虎:预计 2014 年 Tumblr 上的广告将大幅增加 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/20/yahoo-expect-ads-on-tumblr-to-ramp-up-significantly-in-2014/>
 

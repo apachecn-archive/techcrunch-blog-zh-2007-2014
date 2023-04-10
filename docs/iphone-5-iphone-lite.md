@@ -1,4 +1,4 @@
-# 两部 iPhones 的故事 TechCrunch
+# 两部 iPhones 的故事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/iphone-5-iphone-lite/>
 

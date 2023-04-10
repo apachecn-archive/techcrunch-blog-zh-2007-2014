@@ -1,4 +1,4 @@
-# 企业软件再次变得性感 TechCrunch
+# 企业软件再次变得性感 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/25/enterprise-software-is-sexy-again/>
 

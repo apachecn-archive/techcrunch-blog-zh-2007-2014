@@ -1,4 +1,4 @@
-# 1“一美元”扫描并数字化您的图书 TechCrunch
+# 1“一美元”扫描并数字化您的图书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/1dollarscan-com-scans-and-digitizes-your-books-and-documents-for-you/>
 

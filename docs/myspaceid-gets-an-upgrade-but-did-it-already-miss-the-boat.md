@@ -1,4 +1,4 @@
-# MySpaceID 获得升级，但它是否已经错失良机？TechCrunch
+# MySpaceID 获得升级，但它是否已经错失良机？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/17/myspaceid-gets-an-upgrade-but-did-it-already-miss-the-boat/>
 

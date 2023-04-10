@@ -1,4 +1,4 @@
-# Quora 作为一个市场:Evisors 筹集种子资金，让初创公司找到并联系专家 TechCrunch
+# Quora 作为一个市场:Evisors 筹集种子资金，让初创公司找到并联系专家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/quora-as-a-marketplace-evisors-raises-seed-round-to-let-startups-find-and-connect-with-experts/>
 

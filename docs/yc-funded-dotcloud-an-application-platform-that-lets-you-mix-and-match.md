@@ -1,4 +1,4 @@
-# YC 资助的 DotCloud:一个让你混搭的应用平台 TechCrunch
+# YC 资助的 DotCloud:一个让你混搭的应用平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/22/yc-funded-dotcloud-an-application-platform-that-lets-you-mix-and-match/>
 

@@ -1,4 +1,4 @@
-# 为什么日常交易变得不公平 TechCrunch
+# 为什么日常交易变得不公平 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/03/why-daily-deals-raw-deal/>
 

@@ -1,4 +1,4 @@
-# 赛昂人的运气 TechCrunch
+# 赛昂人的运气 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/17/luck-o-the-cylons/>
 

@@ -1,4 +1,4 @@
-# HTC Windows Phone 8X 手把手:又一款旗舰 Windows Phone 8 设备 TechCrunch
+# HTC Windows Phone 8X 手把手:又一款旗舰 Windows Phone 8 设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/19/hands-on-with-the-htc-windows-phone-8x-yet-another-flagship-windows-phone-8-device/>
 

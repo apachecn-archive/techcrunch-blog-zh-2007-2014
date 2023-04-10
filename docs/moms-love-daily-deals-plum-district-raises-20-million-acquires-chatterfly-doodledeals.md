@@ -1,4 +1,4 @@
-# 妈妈们喜欢日常交易:Plum District 筹集了 2000 万美元，收购了 Chatterfly & DoodleDeals TechCrunch
+# 妈妈们喜欢日常交易:Plum District 筹集了 2000 万美元，收购了 Chatterfly & DoodleDeals 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/08/moms-love-daily-deals-plum-district-raises-20-million-acquires-chatterfly-doodledeals/>
 

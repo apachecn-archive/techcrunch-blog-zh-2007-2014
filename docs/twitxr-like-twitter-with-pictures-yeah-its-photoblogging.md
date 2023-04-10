@@ -1,4 +1,4 @@
-# Twitxr -类似 Twitter，有图片。是的，这是摄影博客。TechCrunch
+# Twitxr -类似 Twitter，有图片。是的，这是摄影博客。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/17/twitxr-like-twitter-with-pictures-yeah-its-photoblogging/>
 

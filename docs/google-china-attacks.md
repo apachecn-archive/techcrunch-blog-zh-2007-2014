@@ -1,4 +1,4 @@
-# 谷歌抵御中国大规模网络攻击:可能停止中国业务 TechCrunch
+# 谷歌抵御中国大规模网络攻击:可能停止中国业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/12/google-china-attacks/>
 

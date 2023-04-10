@@ -1,4 +1,4 @@
-# 网飞和亚马逊明年将在英国和爱尔兰展开视频流对决 TechCrunch
+# 网飞和亚马逊明年将在英国和爱尔兰展开视频流对决 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/netflix-to-launch-movies-and-tv-in-early-2012-in-uk-and-ireland/>
 

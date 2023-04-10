@@ -1,4 +1,4 @@
-# 弗莱克走向死亡池，因为没人想给网络做注释 TechCrunch
+# 弗莱克走向死亡池，因为没人想给网络做注释 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/fleck-headed-to-the-deadpool-because-nobody-wants-to-annotate-the-web/>
 

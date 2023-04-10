@@ -1,4 +1,4 @@
-# Tumblr 认可的分析平台 Union Metrics 现在对个人免费，专业人士负担得起 TechCrunch
+# Tumblr 认可的分析平台 Union Metrics 现在对个人免费，专业人士负担得起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/tumblr-endorsed-analytics-platform-union-metrics-now-free-for-individuals-affordable-for-pros/>
 

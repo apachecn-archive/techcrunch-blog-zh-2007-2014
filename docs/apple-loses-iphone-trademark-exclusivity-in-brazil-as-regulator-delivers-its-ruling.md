@@ -1,4 +1,4 @@
-# 苹果在巴西失去 iPhone 商标专有权，监管机构宣布裁决 TechCrunch
+# 苹果在巴西失去 iPhone 商标专有权，监管机构宣布裁决 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/apple-loses-iphone-trademark-exclusivity-in-brazil-as-regulator-delivers-its-ruling/>
 

@@ -1,4 +1,4 @@
-# 如果 bit.ly 值 800 万美元，TinyURL 至少值 4600 万美元 TechCrunch
+# 如果 bit.ly 值 800 万美元，TinyURL 至少值 4600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/30/if-bitly-is-worth-8-million-tinyurl-is-worth-at-least-46-million/>
 

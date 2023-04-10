@@ -1,4 +1,4 @@
-# Blue 围裙筹集 500 万美元 B 轮融资由 Bessemer 牵头，计划向西海岸扩张 TechCrunch
+# Blue 围裙筹集 500 万美元 B 轮融资由 Bessemer 牵头，计划向西海岸扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/blue-apron-cooks-up-5-million-series-b-led-by-bessemer-plans-expansion-to-west-coast/>
 

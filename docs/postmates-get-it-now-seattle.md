@@ -1,4 +1,4 @@
-# Postmates 在西雅图推出“立即获得”按需交付服务 TechCrunch
+# Postmates 在西雅图推出“立即获得”按需交付服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/postmates-get-it-now-seattle/>
 

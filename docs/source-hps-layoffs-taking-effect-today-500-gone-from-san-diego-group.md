@@ -1,4 +1,4 @@
-# 惠普裁员生效，圣地亚哥集团约 500 人离职 TechCrunch
+# 惠普裁员生效，圣地亚哥集团约 500 人离职 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/source-hps-layoffs-taking-effect-today-500-gone-from-san-diego-group/>
 

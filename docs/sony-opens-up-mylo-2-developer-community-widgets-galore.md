@@ -1,4 +1,4 @@
-# 索尼开放 Mylo 2 开发者社区，插件丰富 TechCrunch
+# 索尼开放 Mylo 2 开发者社区，插件丰富 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/26/sony-opens-up-mylo-2-developer-community-widgets-galore/>
 

@@ -1,4 +1,4 @@
-# 脸书向合作伙伴提交的可爱年度报告首次披露了各个国家的移动统计数据 TechCrunch
+# 脸书向合作伙伴提交的可爱年度报告首次披露了各个国家的移动统计数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/29/facebook-international-user-growth/>
 

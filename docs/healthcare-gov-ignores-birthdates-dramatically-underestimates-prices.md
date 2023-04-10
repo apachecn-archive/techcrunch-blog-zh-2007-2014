@@ -1,4 +1,4 @@
-# Healthcare.gov 忽略生日，大幅低估价格 TechCrunch
+# Healthcare.gov 忽略生日，大幅低估价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/healthcare-gov-ignores-birthdates-dramatically-underestimates-prices/>
 

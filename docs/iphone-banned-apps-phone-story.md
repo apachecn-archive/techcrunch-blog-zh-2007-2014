@@ -1,4 +1,4 @@
-# 被 App Store 封杀:一款反 iPhone 游戏，包含富士康自杀迷你游戏 TechCrunch
+# 被 App Store 封杀:一款反 iPhone 游戏，包含富士康自杀迷你游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/iphone-banned-apps-phone-story/>
 

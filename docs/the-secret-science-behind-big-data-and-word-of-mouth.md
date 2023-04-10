@@ -1,4 +1,4 @@
-# 大数据和口碑背后的秘密科学 TechCrunch
+# 大数据和口碑背后的秘密科学 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/15/the-secret-science-behind-big-data-and-word-of-mouth/>
 

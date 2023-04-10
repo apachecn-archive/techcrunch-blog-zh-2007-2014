@@ -1,4 +1,4 @@
-# insta gram+Color = insta Color TechCrunch
+# insta gram+Color = insta Color 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/instagram-color-instacolor/>
 

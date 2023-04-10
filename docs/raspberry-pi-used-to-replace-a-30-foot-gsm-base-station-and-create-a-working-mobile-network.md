@@ -1,4 +1,4 @@
-# Raspberry Pi 曾经取代了一个 30 英尺的 GSM 基站，并创建了一个有效的移动网络 TechCrunch
+# Raspberry Pi 曾经取代了一个 30 英尺的 GSM 基站，并创建了一个有效的移动网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/21/raspberry-pi-used-to-replace-a-30-foot-gsm-base-station-and-create-a-working-mobile-network/>
 

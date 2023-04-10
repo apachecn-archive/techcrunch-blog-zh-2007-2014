@@ -1,4 +1,4 @@
-# Eucalyptus Systems、Nebula 和 Virtual Bridges 加入 Linux Foundation TechCrunch
+# Eucalyptus Systems、Nebula 和 Virtual Bridges 加入 Linux Foundation 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/eucalyptus-systems-nebula-and-virtual-bridges-join-linux-foundation/>
 

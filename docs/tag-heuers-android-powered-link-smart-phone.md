@@ -1,4 +1,4 @@
-# 豪雅的 Android Powered Link 智能手机 TechCrunch
+# 豪雅的 Android Powered Link 智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/28/tag-heuers-android-powered-link-smart-phone/>
 

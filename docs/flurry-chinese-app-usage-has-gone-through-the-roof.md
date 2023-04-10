@@ -1,4 +1,4 @@
-# Flurry:中国的应用程序使用量已经突破了屋顶 TechCrunch
+# Flurry:中国的应用程序使用量已经突破了屋顶 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/flurry-chinese-app-usage-has-gone-through-the-roof/>
 

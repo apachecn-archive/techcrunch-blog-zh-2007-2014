@@ -1,4 +1,4 @@
-# 为什么 Google Wave 很烂，为什么你还是会用它 TechCrunch
+# 为什么 Google Wave 很烂，为什么你还是会用它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/26/why-google-wave-sucks/>
 

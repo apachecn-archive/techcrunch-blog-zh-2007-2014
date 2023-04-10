@@ -1,4 +1,4 @@
-# Ticketmaster 的新脸书应用程序从您的听力活动中推荐音乐会 TechCrunch
+# Ticketmaster 的新脸书应用程序从您的听力活动中推荐音乐会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/18/ticketmaster-recommended-listening/>
 

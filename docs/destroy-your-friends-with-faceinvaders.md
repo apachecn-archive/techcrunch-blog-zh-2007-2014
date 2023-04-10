@@ -1,4 +1,4 @@
-# 用 FaceInvaders 摧毁你的朋友 TechCrunch
+# 用 FaceInvaders 摧毁你的朋友 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/destroy-your-friends-with-faceinvaders/>
 

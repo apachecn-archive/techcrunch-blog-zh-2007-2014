@@ -1,4 +1,4 @@
-# Jolicloud 成为你的“个人云”机器 TechCrunch
+# Jolicloud 成为你的“个人云”机器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/jolicloud-pivots-up-to-be-your-personal-cloud-machine/>
 

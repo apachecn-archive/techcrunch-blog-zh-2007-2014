@@ -1,4 +1,4 @@
-# 日产 Leaf Review:面向大众的有趣且实用的电动汽车 TechCrunch
+# 日产 Leaf Review:面向大众的有趣且实用的电动汽车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/nissan-leaf-review/>
 

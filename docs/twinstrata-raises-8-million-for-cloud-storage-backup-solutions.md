@@ -1,4 +1,4 @@
-# TwinStrata 为云存储和备份解决方案筹集了 800 万美元 TechCrunch
+# TwinStrata 为云存储和备份解决方案筹集了 800 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/twinstrata-raises-8-million-for-cloud-storage-backup-solutions/>
 

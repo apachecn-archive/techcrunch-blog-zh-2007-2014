@@ -1,4 +1,4 @@
-# DropTask 是一款生产力应用，它摒弃了待办事项列表 TechCrunch
+# DropTask 是一款生产力应用，它摒弃了待办事项列表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/droptask-is-a-productivity-app-that-does-away-with-to-do-lists/>
 

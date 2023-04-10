@@ -1,4 +1,4 @@
-# 谷歌未能聘用“谷歌取悦者”。我的伙计 TechCrunch
+# 谷歌未能聘用“谷歌取悦者”。我的伙计 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/google-fails-to-hire-the-googlepleasehire-me-guy/>
 

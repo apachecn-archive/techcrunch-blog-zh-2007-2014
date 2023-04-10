@@ -1,4 +1,4 @@
-# 第一批图片和视频:日本终于夺回了 60 英尺高的高达雕像 TechCrunch
+# 第一批图片和视频:日本终于夺回了 60 英尺高的高达雕像 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/06/first-pictures-and-video-japan-finally-has-its-60-foot-gundam-statue-back/>
 

@@ -1,4 +1,4 @@
-# 孩之宝试图关闭 Scrabulous TechCrunch
+# 孩之宝试图关闭 Scrabulous 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/11/hasbro-tries-to-shut-down-scrabulous/>
 

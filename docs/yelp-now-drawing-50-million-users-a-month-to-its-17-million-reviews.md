@@ -1,4 +1,4 @@
-# Yelp 现在每月吸引 5000 万用户访问其 1700 万条评论 TechCrunch
+# Yelp 现在每月吸引 5000 万用户访问其 1700 万条评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/04/yelp-now-drawing-50-million-users-a-month-to-its-17-million-reviews/>
 

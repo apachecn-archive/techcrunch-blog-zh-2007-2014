@@ -1,4 +1,4 @@
-# 关于在 Twitter 上炸东西的笑话，被逮捕 TechCrunch
+# 关于在 Twitter 上炸东西的笑话，被逮捕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/10/joke-about-blowing-something-up-on-twitter-get-arrested/>
 

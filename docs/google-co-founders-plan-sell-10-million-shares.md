@@ -1,4 +1,4 @@
-# 谷歌联合创始人计划在未来五年出售多达 1000 万股 TechCrunch
+# 谷歌联合创始人计划在未来五年出售多达 1000 万股 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/22/google-co-founders-plan-sell-10-million-shares/>
 

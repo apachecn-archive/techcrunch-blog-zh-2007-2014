@@ -1,4 +1,4 @@
-# 谁是他们中最开放的？TechCrunch
+# 谁是他们中最开放的？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/31/who-is-the-openest-of-them-all/>
 

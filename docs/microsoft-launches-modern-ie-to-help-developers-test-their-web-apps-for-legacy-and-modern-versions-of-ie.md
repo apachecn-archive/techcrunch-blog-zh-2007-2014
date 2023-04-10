@@ -1,4 +1,4 @@
-# 微软推出 Modern。IE 帮助开发者测试他们的网络应用程序的传统和现代版本 IE TechCrunch
+# 微软推出 Modern。IE 帮助开发者测试他们的网络应用程序的传统和现代版本 IE 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/31/microsoft-launches-modern-ie-to-help-developers-test-their-web-apps-for-legacy-and-modern-versions-of-ie/>
 

@@ -1,4 +1,4 @@
-# YouTube 和奥运会:2.31 亿视频流和高达 50 万的并发观众 TechCrunch
+# YouTube 和奥运会:2.31 亿视频流和高达 50 万的并发观众 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/17/youtube-and-the-olympics-231m-video-streams-up-to-500k-concurrent-viewers/>
 

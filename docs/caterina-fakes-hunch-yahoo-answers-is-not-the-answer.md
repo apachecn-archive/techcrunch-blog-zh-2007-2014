@@ -1,4 +1,4 @@
-# 卡特琳娜·法克的预感是:“雅虎问答不是答案。”TechCrunch
+# 卡特琳娜·法克的预感是:“雅虎问答不是答案。”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/15/caterina-fakes-hunch-yahoo-answers-is-not-the-answer/>
 

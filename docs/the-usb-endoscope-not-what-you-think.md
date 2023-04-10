@@ -1,4 +1,4 @@
-# USB 内窥镜:不是你想的那样 TechCrunch
+# USB 内窥镜:不是你想的那样 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/the-usb-endoscope-not-what-you-think/>
 

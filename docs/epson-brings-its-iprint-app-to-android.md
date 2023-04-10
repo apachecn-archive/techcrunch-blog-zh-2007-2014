@@ -1,4 +1,4 @@
-# 爱普生将其 iPrint 应用程序引入 Android TechCrunch
+# 爱普生将其 iPrint 应用程序引入 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/epson-brings-its-iprint-app-to-android/>
 

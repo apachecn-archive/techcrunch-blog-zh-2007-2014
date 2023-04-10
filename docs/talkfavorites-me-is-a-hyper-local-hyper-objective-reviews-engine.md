@@ -1,4 +1,4 @@
-# TalkFavorites.me 是一个超本地、超客观的评论引擎 TechCrunch
+# TalkFavorites.me 是一个超本地、超客观的评论引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/talkfavorites-me-is-a-hyper-local-hyper-objective-reviews-engine/>
 

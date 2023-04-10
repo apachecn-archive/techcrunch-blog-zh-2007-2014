@@ -1,4 +1,4 @@
-# 真正的硅谷海盗？TechCrunch
+# 真正的硅谷海盗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/the-real-pirates-of-silicon-valley/>
 

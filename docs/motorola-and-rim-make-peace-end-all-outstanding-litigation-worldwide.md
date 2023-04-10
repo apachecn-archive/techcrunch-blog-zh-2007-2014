@@ -1,4 +1,4 @@
-# 摩托罗拉和 RIM 和解，结束全球所有未决诉讼 TechCrunch
+# 摩托罗拉和 RIM 和解，结束全球所有未决诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/11/motorola-and-rim-make-peace-end-all-outstanding-litigation-worldwide/>
 

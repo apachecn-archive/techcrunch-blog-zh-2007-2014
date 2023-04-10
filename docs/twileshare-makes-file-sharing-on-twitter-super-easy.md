@@ -1,4 +1,4 @@
-# Twileshare 让 Twitter 上的文件共享变得超级简单 TechCrunch
+# Twileshare 让 Twitter 上的文件共享变得超级简单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/07/twileshare-makes-file-sharing-on-twitter-super-easy/>
 

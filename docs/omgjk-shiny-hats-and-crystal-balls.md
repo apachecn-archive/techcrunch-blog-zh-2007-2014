@@ -1,4 +1,4 @@
-# OMG/JK:闪亮的帽子和水晶球 TechCrunch
+# OMG/JK:闪亮的帽子和水晶球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/31/omgjk-shiny-hats-and-crystal-balls/>
 

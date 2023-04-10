@@ -1,4 +1,4 @@
-# 脸书刚刚获得 15 亿美元；开源替代方案努力筹集 10，000 美元 TechCrunch
+# 脸书刚刚获得 15 亿美元；开源替代方案努力筹集 10，000 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/22/facebook-just-landed-1-5b-open-source-alternative-struggles-to-raise-10000/>
 

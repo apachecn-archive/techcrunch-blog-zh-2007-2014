@@ -1,4 +1,4 @@
-# Internap 以 3500 万美元收购托管云服务公司 Voxel TechCrunch
+# Internap 以 3500 万美元收购托管云服务公司 Voxel 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/internap-buys-hosting-cloud-services-company-voxel-for-up-to-35-million/>
 

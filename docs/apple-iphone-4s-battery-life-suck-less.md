@@ -1,4 +1,4 @@
-# 亲爱的苹果，请让我的 iPhone 4S 电池寿命少吸点 TechCrunch
+# 亲爱的苹果，请让我的 iPhone 4S 电池寿命少吸点 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/apple-iphone-4s-battery-life-suck-less/>
 

@@ -1,4 +1,4 @@
-# 可转换票据种子融资:创始人当心！TechCrunch
+# 可转换票据种子融资:创始人当心！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/13/convertible-note-seed-financings-part-3/>
 

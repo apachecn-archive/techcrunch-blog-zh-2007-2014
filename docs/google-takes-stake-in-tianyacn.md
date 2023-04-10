@@ -1,4 +1,4 @@
-# 谷歌入股 Tianya.cn 科技博客 TechCrunch
+# 谷歌入股 Tianya.cn 科技博客 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/google-takes-stake-in-tianyacn/>
 

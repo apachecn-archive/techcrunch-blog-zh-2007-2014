@@ -1,4 +1,4 @@
-# Next New Networks 收购 BarelyPolitical.com TechCrunch
+# Next New Networks 收购 BarelyPolitical.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/17/next-new-networks-acquires-barelypoliticalcom/>
 

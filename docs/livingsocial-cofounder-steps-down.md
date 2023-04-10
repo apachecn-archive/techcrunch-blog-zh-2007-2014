@@ -1,4 +1,4 @@
-# 已证实:LivingSocial 联合创始人埃迪弗雷德里克辞去董事会领导职务 TechCrunch
+# 已证实:LivingSocial 联合创始人埃迪弗雷德里克辞去董事会领导职务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/29/livingsocial-cofounder-steps-down/>
 

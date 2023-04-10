@@ -1,4 +1,4 @@
-# 谣言:HTC Ville 包装冰淇淋三明治，击败音频 TechCrunch
+# 谣言:HTC Ville 包装冰淇淋三明治，击败音频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/rumor-htc-ville-packs-ice-cream-sandwich-and-beats-audio/>
 

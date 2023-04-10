@@ -1,4 +1,4 @@
-# Shopzilla 收购 Zappli，这是一家移动商务初创公司，拥有快速的 2 次点击移动结账技术 TechCrunch
+# Shopzilla 收购 Zappli，这是一家移动商务初创公司，拥有快速的 2 次点击移动结账技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/shopzilla-acquires-zappli-an-m-commerce-startup-behind-a-fast-2-click-mobile-checkout-technology/>
 

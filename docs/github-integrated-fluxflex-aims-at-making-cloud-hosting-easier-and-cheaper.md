@@ -1,4 +1,4 @@
-# 集成 Github 的 fluxflex 旨在使云托管更简单、更便宜 TechCrunch
+# 集成 Github 的 fluxflex 旨在使云托管更简单、更便宜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/github-integrated-fluxflex-aims-at-making-cloud-hosting-easier-and-cheaper/>
 

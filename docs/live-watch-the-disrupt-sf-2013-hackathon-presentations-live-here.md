@@ -1,4 +1,4 @@
-# 活下去！在此观看 Disrupt SF 2013 黑客马拉松演示 TechCrunch
+# 活下去！在此观看 Disrupt SF 2013 黑客马拉松演示 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/live-watch-the-disrupt-sf-2013-hackathon-presentations-live-here/>
 

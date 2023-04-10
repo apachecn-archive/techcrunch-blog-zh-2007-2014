@@ -1,4 +1,4 @@
-# 害怕纳税？让 Shoeboxed 做一些跑腿的工作 TechCrunch
+# 害怕纳税？让 Shoeboxed 做一些跑腿的工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/22/dreading-taxes-let-shoeboxed-do-some-of-the-legwork/>
 

@@ -1,4 +1,4 @@
-# Barnes And Noble 正在为 9 月发布的 Nook Color 2 做准备？TechCrunch
+# Barnes And Noble 正在为 9 月发布的 Nook Color 2 做准备？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/barnes-and-noble-preparing-nook-color-2-for-september-launch/>
 

@@ -1,4 +1,4 @@
-# 谷歌风投投资 iPhone 游戏开发商 ng moco TechCrunch
+# 谷歌风投投资 iPhone 游戏开发商 ng moco 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/11/google-ventures-invests-in-iphone-game-developer-ngmoco/>
 

@@ -1,4 +1,4 @@
-# 诺基亚在弱光相机测试中戏弄 Lumia 928，将其与 Galaxy S3 和 iPhone 5 进行竞争 TechCrunch
+# 诺基亚在弱光相机测试中戏弄 Lumia 928，将其与 Galaxy S3 和 iPhone 5 进行竞争 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/08/nokia-lumia-928-tease/>
 

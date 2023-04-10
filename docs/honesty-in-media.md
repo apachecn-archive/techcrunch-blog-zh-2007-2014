@@ -1,4 +1,4 @@
-# 媒体中的诚信——TechCrunch
+# 媒体中的诚信——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/honesty-in-media/>
 

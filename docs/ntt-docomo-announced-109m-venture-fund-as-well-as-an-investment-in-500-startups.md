@@ -1,4 +1,4 @@
-# NTT·多科莫宣布投资 1.09 亿美元风险基金，并投资 500 家初创公司 TechCrunch
+# NTT·多科莫宣布投资 1.09 亿美元风险基金，并投资 500 家初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/06/ntt-docomo-announced-109m-venture-fund-as-well-as-an-investment-in-500-startups/>
 

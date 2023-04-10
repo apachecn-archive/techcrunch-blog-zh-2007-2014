@@ -1,4 +1,4 @@
-# 社交商务网络 Lockerz 再融资 750 万美元 TechCrunch
+# 社交商务网络 Lockerz 再融资 750 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/08/social-commerce-network-lockerz-raises-another-7-5-million/>
 

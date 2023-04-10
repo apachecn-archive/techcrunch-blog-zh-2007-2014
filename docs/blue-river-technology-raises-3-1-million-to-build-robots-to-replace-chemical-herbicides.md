@@ -1,4 +1,4 @@
-# Blue River Technology 筹集了 310 万美元来制造机器人以取代化学除草剂 TechCrunch
+# Blue River Technology 筹集了 310 万美元来制造机器人以取代化学除草剂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/10/blue-river-technology-raises-3-1-million-to-build-robots-to-replace-chemical-herbicides/>
 

@@ -1,4 +1,4 @@
-# 松下的 EVOLTA 迷你机器人完成了夏威夷铁人三项赛 TechCrunch
+# 松下的 EVOLTA 迷你机器人完成了夏威夷铁人三项赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/panasonics-evolta-mini-robot-finishes-hawaii-ironman-triathlon/>
 

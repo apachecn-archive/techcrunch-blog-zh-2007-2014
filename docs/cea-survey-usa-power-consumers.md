@@ -1,4 +1,4 @@
-# 调查:36%的美国成年人“不关心”电子产品的功耗 TechCrunch
+# 调查:36%的美国成年人“不关心”电子产品的功耗 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/03/cea-survey-usa-power-consumers/>
 

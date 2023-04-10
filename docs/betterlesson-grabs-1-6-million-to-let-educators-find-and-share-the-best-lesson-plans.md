@@ -1,4 +1,4 @@
-# BetterLesson 获得 160 万美元，让教育工作者找到并分享最佳教案 TechCrunch
+# BetterLesson 获得 160 万美元，让教育工作者找到并分享最佳教案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/betterlesson-grabs-1-6-million-to-let-educators-find-and-share-the-best-lesson-plans/>
 

@@ -1,4 +1,4 @@
-# 推特狂热:谷歌被关闭了。苹果谣言升温。TechCrunch
+# 推特狂热:谷歌被关闭了。苹果谣言升温。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/05/twitter-mania-google-got-shut-down-apple-rumors-heat-up/>
 

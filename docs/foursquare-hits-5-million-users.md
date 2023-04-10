@@ -1,4 +1,4 @@
-# 嘣！500 万用户登录 four square TechCrunch
+# 嘣！500 万用户登录 four square 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/foursquare-hits-5-million-users/>
 

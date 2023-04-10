@@ -1,4 +1,4 @@
-# HearWhere 让您发现附近的现场音乐 TechCrunch
+# HearWhere 让您发现附近的现场音乐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/27/hearwhere-lets-you-discover-live-music-in-your-neighborhood/>
 

@@ -1,4 +1,4 @@
-# TeXtra 的 Natali Del Conte 离开 Podshow，加盟 CNET 电视台 TechCrunch
+# TeXtra 的 Natali Del Conte 离开 Podshow，加盟 CNET 电视台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/02/textras-natalie-del-conte-leaves-podshow-for-cnet-tv/>
 

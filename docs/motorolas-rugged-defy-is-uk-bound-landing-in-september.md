@@ -1,4 +1,4 @@
-# 摩托罗拉的 Rugged DEFY+面向英国，将于 9 月登陆 TechCrunch
+# 摩托罗拉的 Rugged DEFY+面向英国，将于 9 月登陆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/motorolas-rugged-defy-is-uk-bound-landing-in-september/>
 

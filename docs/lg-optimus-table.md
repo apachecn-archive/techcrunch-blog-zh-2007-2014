@@ -1,4 +1,4 @@
-# LG Optimus 平板电脑今天赢得了互联网 TechCrunch
+# LG Optimus 平板电脑今天赢得了互联网 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/lg-optimus-table/>
 

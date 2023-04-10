@@ -1,4 +1,4 @@
-# 是时候在推特上发布艺术了:Museum-Analytics.org 密切关注策展社交媒体 TechCrunch
+# 是时候在推特上发布艺术了:Museum-Analytics.org 密切关注策展社交媒体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/time-to-tweet-the-art-museum-analytics-org-keeps-tabs-on-curatorial-social-media/>
 

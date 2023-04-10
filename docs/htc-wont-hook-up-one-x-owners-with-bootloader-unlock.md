@@ -1,4 +1,4 @@
-# HTC 不会用 Bootloader Unlock 联系 One X 用户 TechCrunch
+# HTC 不会用 Bootloader Unlock 联系 One X 用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/05/htc-wont-hook-up-one-x-owners-with-bootloader-unlock/>
 

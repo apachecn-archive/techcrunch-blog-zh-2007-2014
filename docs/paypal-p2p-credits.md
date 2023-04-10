@@ -1,4 +1,4 @@
-# PayPal 的汇款应用，以及为什么脸书从未建立 P2P 信用支付 TechCrunch
+# PayPal 的汇款应用，以及为什么脸书从未建立 P2P 信用支付 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/paypal-p2p-credits/>
 

@@ -1,4 +1,4 @@
-# Instagram 拥有 1.3 亿用户，每天有 160 亿张照片和超过 10 亿个赞 TechCrunch
+# Instagram 拥有 1.3 亿用户，每天有 160 亿张照片和超过 10 亿个赞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/20/instagram-crosses-130-million-users-with-16-billion-photos-and-over-1-billion-likes-per-day/>
 

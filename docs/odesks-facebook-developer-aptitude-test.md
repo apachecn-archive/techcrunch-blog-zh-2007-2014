@@ -1,4 +1,4 @@
-# oDesk 的脸书开发者能力测试 TechCrunch
+# oDesk 的脸书开发者能力测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/10/odesks-facebook-developer-aptitude-test/>
 

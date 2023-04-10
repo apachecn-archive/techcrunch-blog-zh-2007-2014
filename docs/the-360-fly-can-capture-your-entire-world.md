@@ -1,4 +1,4 @@
-# 360 Fly 可以捕捉你的整个世界 TechCrunch
+# 360 Fly 可以捕捉你的整个世界 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/17/the-360-fly-can-capture-your-entire-world/>
 

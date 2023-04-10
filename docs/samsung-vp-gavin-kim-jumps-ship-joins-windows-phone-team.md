@@ -1,4 +1,4 @@
-# 三星副总裁 Gavin Kim 跳槽加入 Windows Phone 团队 TechCrunch
+# 三星副总裁 Gavin Kim 跳槽加入 Windows Phone 团队 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/samsung-vp-gavin-kim-jumps-ship-joins-windows-phone-team/>
 

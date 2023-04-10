@@ -1,4 +1,4 @@
-# 脸书将组建自己的政治行动委员会 TechCrunch
+# 脸书将组建自己的政治行动委员会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/facebook-to-form-its-own-political-action-committee/>
 

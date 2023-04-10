@@ -1,4 +1,4 @@
-# 从自己的浏览器中轻松学习代码的 5 种方法 TechCrunch
+# 从自己的浏览器中轻松学习代码的 5 种方法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser/>
 

@@ -1,4 +1,4 @@
-# 威瑞森将于 2012 年推出家庭媒体服务器，计划淘汰机顶盒 TechCrunch
+# 威瑞森将于 2012 年推出家庭媒体服务器，计划淘汰机顶盒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/22/verizon-to-launch-a-home-media-server-in-2012-plans-to-eliminate-set-top-box/>
 

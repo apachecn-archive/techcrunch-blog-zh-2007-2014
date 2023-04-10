@@ -1,4 +1,4 @@
-# 亚马逊宣布推出配备高分辨率屏幕、2GHz 处理器的 Kindle HDX 7 英寸和 8.9 英寸平板电脑 TechCrunch
+# 亚马逊宣布推出配备高分辨率屏幕、2GHz 处理器的 Kindle HDX 7 英寸和 8.9 英寸平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/amazon-announces-the-kindle-hdx-7-and-8-9-inch-tablets-with-high-res-screens-2ghz-processors/>
 

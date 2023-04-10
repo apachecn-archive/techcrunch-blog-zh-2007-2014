@@ -1,4 +1,4 @@
-# 英特尔投资、三星风险投资和 Telefonica Digital 成为 Expect Labs 的最新战略投资者 TechCrunch
+# 英特尔投资、三星风险投资和 Telefonica Digital 成为 Expect Labs 的最新战略投资者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/intel-capital-samsung-ventures-and-telefonica-digital-become-expect-labs-newest-strategic-investors/>
 

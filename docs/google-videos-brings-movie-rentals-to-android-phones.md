@@ -1,4 +1,4 @@
-# 谷歌视频将电影租赁引入安卓手机 TechCrunch
+# 谷歌视频将电影租赁引入安卓手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/google-videos-brings-movie-rentals-to-android-phones/>
 

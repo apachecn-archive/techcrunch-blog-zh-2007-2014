@@ -1,4 +1,4 @@
-# 杰克·多西广场(几乎)开始营业 TechCrunch
+# 杰克·多西广场(几乎)开始营业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/01/square-jack-dorsey-launches-paypa/>
 

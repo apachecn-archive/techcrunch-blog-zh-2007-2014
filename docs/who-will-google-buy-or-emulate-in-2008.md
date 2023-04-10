@@ -1,4 +1,4 @@
-# 2008 年谷歌会收购或克隆谁？TechCrunch
+# 2008 年谷歌会收购或克隆谁？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/16/who-will-google-buy-or-emulate-in-2008/>
 

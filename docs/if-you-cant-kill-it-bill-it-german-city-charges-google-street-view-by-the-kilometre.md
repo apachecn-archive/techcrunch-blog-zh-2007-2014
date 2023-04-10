@@ -1,4 +1,4 @@
-# 如果你杀不死它，就开账单吧:德国城市对谷歌街景按公里收费 TechCrunch
+# 如果你杀不死它，就开账单吧:德国城市对谷歌街景按公里收费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/16/if-you-cant-kill-it-bill-it-german-city-charges-google-street-view-by-the-kilometre/>
 

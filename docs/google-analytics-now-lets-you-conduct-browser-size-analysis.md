@@ -1,4 +1,4 @@
-# Google Analytics 现在允许您进行浏览器大小分析 TechCrunch
+# Google Analytics 现在允许您进行浏览器大小分析 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/04/google-analytics-now-lets-you-conduct-browser-size-analysis/>
 

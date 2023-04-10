@@ -1,4 +1,4 @@
-# FriendFeed 增加了文件共享功能。没有电影，但是 MP3 也可以。TechCrunch
+# FriendFeed 增加了文件共享功能。没有电影，但是 MP3 也可以。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/friendfeed-adds-file-sharing-no-movies-but-mp3s-are-fine/>
 

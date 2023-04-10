@@ -1,4 +1,4 @@
-# SV Angel、Chamath Palihapitiya 和其他人支持巴西的 Diapers.com Baby.com.br TechCrunch
+# SV Angel、Chamath Palihapitiya 和其他人支持巴西的 Diapers.com Baby.com.br 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/sv-angel-chamath-palihapitiya-and-others-back-brazils-diapers-com-baby-com-br/>
 

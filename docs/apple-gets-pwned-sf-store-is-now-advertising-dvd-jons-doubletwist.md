@@ -1,4 +1,4 @@
-# 苹果公司破产，旧金山商店现在正在宣传乔恩的 DVD《双重扭曲》TechCrunch
+# 苹果公司破产，旧金山商店现在正在宣传乔恩的 DVD《双重扭曲》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/05/apple-gets-pwned-sf-store-is-now-advertising-dvd-jons-doubletwist/>
 

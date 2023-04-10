@@ -1,4 +1,4 @@
-# Chrome Web Store 过 3000 万用户，但未来有多光明？TechCrunch
+# Chrome Web Store 过 3000 万用户，但未来有多光明？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/chrome-web-store-passes-30-million-users-but-how-bright-is-the-future/>
 

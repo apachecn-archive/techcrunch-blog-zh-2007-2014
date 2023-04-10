@@ -1,4 +1,4 @@
-# 在线出版网站 HubPages 点击量达到 100 万次；每天创建 2，200 篇文章 TechCrunch
+# 在线出版网站 HubPages 点击量达到 100 万次；每天创建 2，200 篇文章 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/11/online-publishing-site-hubpages-hits-1-million-hubs-2200-articles-created-per-day/>
 

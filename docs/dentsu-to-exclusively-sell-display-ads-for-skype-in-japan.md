@@ -1,4 +1,4 @@
-# 电通在日本独家销售 Skype 的展示广告 TechCrunch
+# 电通在日本独家销售 Skype 的展示广告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/dentsu-to-exclusively-sell-display-ads-for-skype-in-japan/>
 

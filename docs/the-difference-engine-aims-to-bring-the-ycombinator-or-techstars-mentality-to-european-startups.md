@@ -1,4 +1,4 @@
-# 差异引擎旨在将 YCombinator 或 TechStars 理念引入欧洲创业公司 TechCrunch
+# 差异引擎旨在将 YCombinator 或 TechStars 理念引入欧洲创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/10/the-difference-engine-aims-to-bring-the-ycombinator-or-techstars-mentality-to-european-startups/>
 

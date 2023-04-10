@@ -1,4 +1,4 @@
-# 独家报道:HTC Juno 登陆美国电话电报公司 TechCrunch
+# 独家报道:HTC Juno 登陆美国电话电报公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/21/crunchexclusive-htc-juno-hitting-att/>
 

@@ -1,4 +1,4 @@
-# 2011 年十大最受期待的设备 TechCrunch
+# 2011 年十大最受期待的设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/22/2011s-top-10-most-anticipated-gear/>
 

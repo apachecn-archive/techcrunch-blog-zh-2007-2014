@@ -1,4 +1,4 @@
-# 现在出售脆饼干门票 TechCrunch
+# 现在出售脆饼干门票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/08/crunchies-tickets-on-sale-now/>
 

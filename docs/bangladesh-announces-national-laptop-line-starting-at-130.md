@@ -1,4 +1,4 @@
-# 孟加拉国宣布推出起价 130 美元的国家笔记本电脑系列 TechCrunch
+# 孟加拉国宣布推出起价 130 美元的国家笔记本电脑系列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/bangladesh-announces-national-laptop-line-starting-at-130/>
 

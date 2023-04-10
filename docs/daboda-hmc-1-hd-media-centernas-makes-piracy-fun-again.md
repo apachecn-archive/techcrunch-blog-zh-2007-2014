@@ -1,4 +1,4 @@
-# 达博达 HMC-1 高清媒体中心+NAS 让盗版再次变得有趣——TechCrunch
+# 达博达 HMC-1 高清媒体中心+NAS 让盗版再次变得有趣——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/daboda-hmc-1-hd-media-centernas-makes-piracy-fun-again/>
 

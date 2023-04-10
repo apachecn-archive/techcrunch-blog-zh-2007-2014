@@ -1,4 +1,4 @@
-# We&Co:这些是你的邻居(酒吧、咖啡店等)。)TechCrunch
+# We&Co:这些是你的邻居(酒吧、咖啡店等)。)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/weco-these-are-the-people-in-your-neighborhood-bar-coffee-shop-etc/>
 

@@ -1,4 +1,4 @@
-# 沃尔玛计划在 2010 年底销售 ipad TechCrunch
+# 沃尔玛计划在 2010 年底销售 ipad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/wal-mart-planning-on-selling-ipads-by-the-end-of-2010/>
 

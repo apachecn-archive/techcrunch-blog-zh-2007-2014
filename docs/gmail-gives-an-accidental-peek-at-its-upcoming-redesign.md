@@ -1,4 +1,4 @@
-# Gmail 无意中透露了即将进行的重新设计 TechCrunch
+# Gmail 无意中透露了即将进行的重新设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/gmail-gives-an-accidental-peek-at-its-upcoming-redesign/>
 

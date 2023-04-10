@@ -1,4 +1,4 @@
-# Twitter 正在变成 MySpace 吗？TechCrunch
+# Twitter 正在变成 MySpace 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/01/is-twitter-turning-into-myspace/>
 

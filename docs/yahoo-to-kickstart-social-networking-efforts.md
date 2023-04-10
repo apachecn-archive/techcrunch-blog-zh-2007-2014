@@ -1,4 +1,4 @@
-# 雅虎将启动社交网络项目 TechCrunch
+# 雅虎将启动社交网络项目 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/yahoo-to-kickstart-social-networking-efforts/>
 

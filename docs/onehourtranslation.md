@@ -1,4 +1,4 @@
-# 一小时翻译的专利技术能够快速准确地实时翻译在线内容 TechCrunch
+# 一小时翻译的专利技术能够快速准确地实时翻译在线内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/11/onehourtranslation/>
 

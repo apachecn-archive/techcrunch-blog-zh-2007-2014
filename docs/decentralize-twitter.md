@@ -1,4 +1,4 @@
-# 内部呼吁去中心化 Twitter 失败了 TechCrunch
+# 内部呼吁去中心化 Twitter 失败了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/16/decentralize-twitter/>
 

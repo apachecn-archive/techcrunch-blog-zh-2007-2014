@@ -1,4 +1,4 @@
-# Tapulous 发布 iPhone 最好的 Twitter 客户端之一；在线 Tap Tap 复仇上线 TechCrunch
+# Tapulous 发布 iPhone 最好的 Twitter 客户端之一；在线 Tap Tap 复仇上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/tapulous-releases-robust-iphone-twitter-client-online-tap-tap-revenge-goes-live/>
 

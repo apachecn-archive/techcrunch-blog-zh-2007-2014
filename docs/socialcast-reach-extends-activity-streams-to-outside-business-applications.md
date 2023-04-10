@@ -1,4 +1,4 @@
-# Socialcast“延伸”将活动流扩展到外部业务应用程序 TechCrunch
+# Socialcast“延伸”将活动流扩展到外部业务应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/19/socialcast-reach-extends-activity-streams-to-outside-business-applications/>
 

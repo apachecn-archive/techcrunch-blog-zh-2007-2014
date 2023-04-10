@@ -1,4 +1,4 @@
-# 安吉的清单将 IPO 的价格区间定在每股 11 至 13 美元；价值超过 6 亿美元 TechCrunch
+# 安吉的清单将 IPO 的价格区间定在每股 11 至 13 美元；价值超过 6 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/angies-list-prices-ipo-at-11-to-13-per-share-valued-at-over-600m/>
 

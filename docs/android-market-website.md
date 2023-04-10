@@ -1,4 +1,4 @@
-# 谷歌刷新 Android Market 网站-它莫名其妙地仍然缺乏搜索 TechCrunch
+# 谷歌刷新 Android Market 网站-它莫名其妙地仍然缺乏搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/17/android-market-website/>
 

@@ -1,4 +1,4 @@
-# 微软可能收购电子邮件初创公司 Xobni TechCrunch
+# 微软可能收购电子邮件初创公司 Xobni 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/29/microsoft-may-buy-email-startup-xobni/>
 

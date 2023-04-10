@@ -1,4 +1,4 @@
-# WhatsApp 怎么了？脸书可能想买它，这就是 TechCrunch
+# WhatsApp 怎么了？脸书可能想买它，这就是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/02/whats-up-with-whatsapp-facebook-might-want-to-buy-it-thats-what/>
 

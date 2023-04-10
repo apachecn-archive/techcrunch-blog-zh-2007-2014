@@ -1,4 +1,4 @@
-# KidZui 筹集 240 万美元，成立 Zui 工作室，为孩子们制作更多视频 TechCrunch
+# KidZui 筹集 240 万美元，成立 Zui 工作室，为孩子们制作更多视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/kidzui-raises-2-4m-launches-zui-studios-to-create-more-videos-for-kids/>
 

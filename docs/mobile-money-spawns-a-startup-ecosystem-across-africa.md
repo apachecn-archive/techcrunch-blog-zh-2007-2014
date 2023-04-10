@@ -1,4 +1,4 @@
-# 对移动资金的需求催生了遍布非洲的创业生态系统 TechCrunch
+# 对移动资金的需求催生了遍布非洲的创业生态系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/23/mobile-money-spawns-a-startup-ecosystem-across-africa/>
 

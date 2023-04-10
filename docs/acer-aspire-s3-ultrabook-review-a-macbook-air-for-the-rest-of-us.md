@@ -1,4 +1,4 @@
-# 宏碁 Aspire S3 超极本评论:我们其他人的 MacBook Air TechCrunch
+# 宏碁 Aspire S3 超极本评论:我们其他人的 MacBook Air 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/acer-aspire-s3-ultrabook-review-a-macbook-air-for-the-rest-of-us/>
 

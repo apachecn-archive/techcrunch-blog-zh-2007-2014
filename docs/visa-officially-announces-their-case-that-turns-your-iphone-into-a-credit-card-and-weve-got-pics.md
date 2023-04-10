@@ -1,4 +1,4 @@
-# Visa 官方宣布他们的产品可以把你的 iPhone 变成信用卡(我们有照片！)TechCrunch
+# Visa 官方宣布他们的产品可以把你的 iPhone 变成信用卡(我们有照片！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/17/visa-officially-announces-their-case-that-turns-your-iphone-into-a-credit-card-and-weve-got-pics/>
 

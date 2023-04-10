@@ -1,4 +1,4 @@
-# 谁预见到了这一切？使命召唤:黑色行动将与 PC Mod 工具一起发布 TechCrunch
+# 谁预见到了这一切？使命召唤:黑色行动将与 PC Mod 工具一起发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/who-saw-this-coming-call-of-duty-black-ops-to-ship-with-pc-mod-tools/>
 

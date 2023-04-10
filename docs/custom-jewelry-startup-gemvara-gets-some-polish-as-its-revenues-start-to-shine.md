@@ -1,4 +1,4 @@
-# 定制珠宝初创公司 Gemvara 的收入开始增加 TechCrunch
+# 定制珠宝初创公司 Gemvara 的收入开始增加 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/19/custom-jewelry-startup-gemvara-gets-some-polish-as-its-revenues-start-to-shine/>
 

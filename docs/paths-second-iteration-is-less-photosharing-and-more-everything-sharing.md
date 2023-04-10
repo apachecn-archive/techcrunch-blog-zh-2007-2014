@@ -1,4 +1,4 @@
-# Path 的第二次迭代是减少照片共享，增加一切共享 TechCrunch
+# Path 的第二次迭代是减少照片共享，增加一切共享 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/29/paths-second-iteration-is-less-photosharing-and-more-everything-sharing/>
 

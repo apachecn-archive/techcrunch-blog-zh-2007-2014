@@ -1,4 +1,4 @@
-# 埃洛普阴谋？没那么多 TechCrunch
+# 埃洛普阴谋？没那么多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/25/elop-conspiracy-not-so-much/>
 

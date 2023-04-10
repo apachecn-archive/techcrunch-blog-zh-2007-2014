@@ -1,4 +1,4 @@
-# 品牌利用 Pinterest Now 的五种方式 TechCrunch
+# 品牌利用 Pinterest Now 的五种方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/12/five-ways-brands-can-leverage-pinterest/>
 

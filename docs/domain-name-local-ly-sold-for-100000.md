@@ -1,4 +1,4 @@
-# 域名 Local.ly 以 10 万美元售出 TechCrunch
+# 域名 Local.ly 以 10 万美元售出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/domain-name-local-ly-sold-for-100000/>
 

@@ -1,4 +1,4 @@
-# Ringleadr 筹集 50 万美元，推出服务让用户创建自己的交易 TechCrunch
+# Ringleadr 筹集 50 万美元，推出服务让用户创建自己的交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/23/ringleadr-raises-500k-launches-service-to-let-users-create-their-own-deals/>
 

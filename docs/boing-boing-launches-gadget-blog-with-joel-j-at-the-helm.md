@@ -1,4 +1,4 @@
-# Boing Boing 推出由 Joel J 掌舵的小工具博客 TechCrunch
+# Boing Boing 推出由 Joel J 掌舵的小工具博客 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/boing-boing-launches-gadget-blog-with-joel-j-at-the-helm/>
 

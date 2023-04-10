@@ -1,4 +1,4 @@
-# 战争演习:Android 事件将于 2 月 2 日与 iPad 事件争夺媒体之爱 TechCrunch
+# 战争演习:Android 事件将于 2 月 2 日与 iPad 事件争夺媒体之爱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/28/ipad-android-war/>
 

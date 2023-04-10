@@ -1,4 +1,4 @@
-# 路透社认识一个人，他认识一个今天完全看到 iPad 2 的人 TechCrunch
+# 路透社认识一个人，他认识一个今天完全看到 iPad 2 的人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/02/ipad-2-sighting-totally/>
 

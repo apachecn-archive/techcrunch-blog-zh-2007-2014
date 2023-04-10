@@ -1,4 +1,4 @@
-# CSC 收购软件测试公司 app labs TechCrunch
+# CSC 收购软件测试公司 app labs 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/csc-acquires-software-testing-company-applabs/>
 

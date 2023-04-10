@@ -1,4 +1,4 @@
-# GraphEffect 推出智能脸书广告和品牌定位平台 TechCrunch
+# GraphEffect 推出智能脸书广告和品牌定位平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/19/grapheffect-launches-intelligent-facebook-advertising-and-targeting-platform-for-brands/>
 

@@ -1,4 +1,4 @@
-# 如何从头开始建立一家成功的公司 TechCrunch
+# 如何从头开始建立一家成功的公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/how-to-build-a-successful-company-from-the-ground-up/>
 

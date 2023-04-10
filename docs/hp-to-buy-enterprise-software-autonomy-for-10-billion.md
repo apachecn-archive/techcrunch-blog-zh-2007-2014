@@ -1,4 +1,4 @@
-# 惠普将以 102 亿美元现金收购企业软件 Autonomy TechCrunch
+# 惠普将以 102 亿美元现金收购企业软件 Autonomy 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/hp-to-buy-enterprise-software-autonomy-for-10-billion/>
 

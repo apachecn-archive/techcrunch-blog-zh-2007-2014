@@ -1,4 +1,4 @@
-# 准备为您的隐私付费 TechCrunch
+# 准备为您的隐私付费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/13/get-ready-to-pay-for-your-privacy/>
 

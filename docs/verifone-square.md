@@ -1,4 +1,4 @@
-# VeriFone 正在努力追赶 Square。纽约出租车上已经有广告了。TechCrunch
+# VeriFone 正在努力追赶 Square。纽约出租车上已经有广告了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/07/verifone-square/>
 

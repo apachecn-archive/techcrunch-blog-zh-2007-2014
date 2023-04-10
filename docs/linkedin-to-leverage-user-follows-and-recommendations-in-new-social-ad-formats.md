@@ -1,4 +1,4 @@
-# LinkedIn 在新的社交广告形式中利用用户关注和推荐 TechCrunch
+# LinkedIn 在新的社交广告形式中利用用户关注和推荐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/23/linkedin-to-leverage-user-follows-and-recommendations-in-new-social-ad-formats/>
 

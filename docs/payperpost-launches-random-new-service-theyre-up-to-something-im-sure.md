@@ -1,4 +1,4 @@
-# PayPerPost 推出随机新服务。我肯定他们在策划什么。TechCrunch
+# PayPerPost 推出随机新服务。我肯定他们在策划什么。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/08/payperpost-launches-random-new-service-theyre-up-to-something-im-sure/>
 

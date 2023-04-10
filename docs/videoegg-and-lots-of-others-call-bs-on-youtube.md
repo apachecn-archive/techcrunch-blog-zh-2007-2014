@@ -1,4 +1,4 @@
-# VideoEgg 和许多其他公司在 YouTube 上称之为 b . s——TechCrunch
+# VideoEgg 和许多其他公司在 YouTube 上称之为 b . s——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/22/videoegg-and-lots-of-others-call-bs-on-youtube/>
 

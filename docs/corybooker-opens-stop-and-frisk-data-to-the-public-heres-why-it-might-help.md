@@ -1,4 +1,4 @@
-# 科里·布克向公众开放拦截搜身数据。这就是为什么它可能会有帮助。TechCrunch
+# 科里·布克向公众开放拦截搜身数据。这就是为什么它可能会有帮助。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/corybooker-opens-stop-and-frisk-data-to-the-public-heres-why-it-might-help/>
 

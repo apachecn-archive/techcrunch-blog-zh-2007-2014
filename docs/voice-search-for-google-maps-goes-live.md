@@ -1,4 +1,4 @@
-# 谷歌地图语音搜索上线 TechCrunch
+# 谷歌地图语音搜索上线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/voice-search-for-google-maps-goes-live/>
 

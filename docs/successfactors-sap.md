@@ -1,4 +1,4 @@
-# 在以 34 亿美元收购 SuccessFactors 后，SAP 在云中推进人力资本管理 TechCrunch
+# 在以 34 亿美元收购 SuccessFactors 后，SAP 在云中推进人力资本管理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/22/successfactors-sap/>
 

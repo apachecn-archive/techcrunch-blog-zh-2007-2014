@@ -1,4 +1,4 @@
-# 散居者再次传递帽子 TechCrunch
+# 散居者再次传递帽子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/diaspora-passing-the-hat-again/>
 

@@ -1,4 +1,4 @@
-# 欧洲大学推出首个 MOOCs，拥有 10 万多名学生和 24 门课程 TechCrunch
+# 欧洲大学推出首个 MOOCs，拥有 10 万多名学生和 24 门课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/14/iversity-initial-students/>
 

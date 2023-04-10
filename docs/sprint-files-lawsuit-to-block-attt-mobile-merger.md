@@ -1,4 +1,4 @@
-# Sprint 提起诉讼阻止美国电话电报公司/T-Mobile 合并 TechCrunch
+# Sprint 提起诉讼阻止美国电话电报公司/T-Mobile 合并 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/sprint-files-lawsuit-to-block-attt-mobile-merger/>
 

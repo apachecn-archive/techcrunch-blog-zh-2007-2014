@@ -1,4 +1,4 @@
-# OS X Mountain Lion 将 Mac 带入游戏 TechCrunch
+# OS X Mountain Lion 将 Mac 带入游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/os-x-mountain-lion-brings-the-mac-into-the-game/>
 

@@ -1,4 +1,4 @@
-# 谷歌对零售商的商务搜索现在更好更便宜 TechCrunch
+# 谷歌对零售商的商务搜索现在更好更便宜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/17/googles-commerce-search-for-retailers-now-better-and-cheaper/>
 

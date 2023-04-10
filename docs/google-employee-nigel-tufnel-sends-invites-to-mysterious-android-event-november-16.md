@@ -1,4 +1,4 @@
-# 谷歌员工 Nigel Tufnel 发出神秘 Android 活动邀请 11 月 16 日 TechCrunch
+# 谷歌员工 Nigel Tufnel 发出神秘 Android 活动邀请 11 月 16 日 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/google-employee-nigel-tufnel-sends-invites-to-mysterious-android-event-november-16/>
 

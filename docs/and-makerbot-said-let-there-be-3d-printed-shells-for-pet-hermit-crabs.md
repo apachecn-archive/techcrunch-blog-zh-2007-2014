@@ -1,4 +1,4 @@
-# Makerbot 说:让宠物寄居蟹拥有 3D 打印的外壳 TechCrunch
+# Makerbot 说:让宠物寄居蟹拥有 3D 打印的外壳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/and-makerbot-said-let-there-be-3d-printed-shells-for-pet-hermit-crabs/>
 

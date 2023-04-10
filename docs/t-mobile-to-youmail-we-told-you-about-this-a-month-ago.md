@@ -1,4 +1,4 @@
-# T-Mobile 给你的邮件:我们一个月前就告诉你了 TechCrunch
+# T-Mobile 给你的邮件:我们一个月前就告诉你了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/t-mobile-to-youmail-we-told-you-about-this-a-month-ago/>
 

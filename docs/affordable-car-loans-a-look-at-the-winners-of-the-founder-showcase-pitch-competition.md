@@ -1,4 +1,4 @@
-# 负担得起的汽车贷款:看看创始人展示推介竞赛的获胜者 TechCrunch
+# 负担得起的汽车贷款:看看创始人展示推介竞赛的获胜者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/affordable-car-loans-a-look-at-the-winners-of-the-founder-showcase-pitch-competition/>
 

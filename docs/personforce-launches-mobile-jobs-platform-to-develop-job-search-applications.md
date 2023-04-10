@@ -1,4 +1,4 @@
-# Personforce 推出移动工作平台开发求职应用 TechCrunch
+# Personforce 推出移动工作平台开发求职应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/15/personforce-launches-mobile-jobs-platform-to-develop-job-search-applications/>
 

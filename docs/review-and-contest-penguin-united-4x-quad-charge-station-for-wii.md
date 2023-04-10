@@ -1,4 +1,4 @@
-# 评论和竞赛:企鹅联合 4X Wii 四充电站 TechCrunch
+# 评论和竞赛:企鹅联合 4X Wii 四充电站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/29/review-and-contest-penguin-united-4x-quad-charge-station-for-wii/>
 

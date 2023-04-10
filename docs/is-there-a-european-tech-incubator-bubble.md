@@ -1,4 +1,4 @@
-# 欧洲科技孵化器存在泡沫吗？TechCrunch
+# 欧洲科技孵化器存在泡沫吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/24/is-there-a-european-tech-incubator-bubble/>
 

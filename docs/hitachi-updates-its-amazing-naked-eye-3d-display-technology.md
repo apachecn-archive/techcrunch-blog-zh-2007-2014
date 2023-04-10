@@ -1,4 +1,4 @@
-# 日立更新其令人惊叹的裸眼 3D 显示技术 TechCrunch
+# 日立更新其令人惊叹的裸眼 3D 显示技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/hitachi-updates-its-amazing-naked-eye-3d-display-technology/>
 

@@ -1,4 +1,4 @@
-# 不要害怕，失业的女孩小猫坚持它的人！互联网社区支持你 TechCrunch
+# 不要害怕，失业的女孩小猫坚持它的人！互联网社区支持你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/11/a-community-of-dunces/>
 

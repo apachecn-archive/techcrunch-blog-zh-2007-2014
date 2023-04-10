@@ -1,4 +1,4 @@
-# 尝试，再尝试:XYBOARD 平板电脑会犯同样的错误 TechCrunch
+# 尝试，再尝试:XYBOARD 平板电脑会犯同样的错误 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/06/try-try-again-the-xyboard-tablets-make-all-the-same-mistakes/>
 

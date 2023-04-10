@@ -1,4 +1,4 @@
-# Android 版网飞终于获得蜂窝平板电脑支持 TechCrunch
+# Android 版网飞终于获得蜂窝平板电脑支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/netflix-for-android-finally-gains-honeycomb-tablet-support/>
 

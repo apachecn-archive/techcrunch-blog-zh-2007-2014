@@ -1,4 +1,4 @@
-# 切斯帕克斯和 Chesspark 将他们的棋子放在一起 TechCrunch
+# 切斯帕克斯和 Chesspark 将他们的棋子放在一起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/22/chesspark-chess-com-merger/>
 

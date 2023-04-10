@@ -1,4 +1,4 @@
-# 现实生活中的愤怒小鸟 TechCrunch
+# 现实生活中的愤怒小鸟 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/angry-birds-in-real-life/>
 

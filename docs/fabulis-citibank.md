@@ -1,4 +1,4 @@
-# 继 Fabulis 事件之后，花旗银行对互联网业务政策进行了调整 TechCrunch
+# 继 Fabulis 事件之后，花旗银行对互联网业务政策进行了调整 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/01/fabulis-citibank/>
 

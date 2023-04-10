@@ -1,4 +1,4 @@
-# Mobilewalla 从亚马逊早期投资者 Madrona 等人那里筹集了 400 万美元，将类似 Quantcast 的受众测量引入 Mobile TechCrunch
+# Mobilewalla 从亚马逊早期投资者 Madrona 等人那里筹集了 400 万美元，将类似 Quantcast 的受众测量引入 Mobile 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/12/mobilewalla-raises-4-million-from-early-amazon-investor-madrona-others-to-bring-quantcast-like-audience-measurement-to-mobile/>
 

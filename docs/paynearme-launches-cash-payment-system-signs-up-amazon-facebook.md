@@ -1,4 +1,4 @@
-# PayNearMe 与 7-Eleven 推出现金支付系统；注册脸书亚马逊 TechCrunch
+# PayNearMe 与 7-Eleven 推出现金支付系统；注册脸书亚马逊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/paynearme-launches-cash-payment-system-signs-up-amazon-facebook/>
 

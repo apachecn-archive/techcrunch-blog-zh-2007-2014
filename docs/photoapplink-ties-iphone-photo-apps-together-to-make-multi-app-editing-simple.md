@@ -1,4 +1,4 @@
-# PhotoAppLink 将 iPhone 照片应用程序捆绑在一起，简化多应用程序编辑 TechCrunch
+# PhotoAppLink 将 iPhone 照片应用程序捆绑在一起，简化多应用程序编辑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/photoapplink-ties-iphone-photo-apps-together-to-make-multi-app-editing-simple/>
 

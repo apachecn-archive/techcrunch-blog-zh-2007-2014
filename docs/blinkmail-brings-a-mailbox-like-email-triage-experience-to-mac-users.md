@@ -1,4 +1,4 @@
-# BlinkMail 为 Mac 用户带来类似邮箱的电子邮件分流体验 TechCrunch
+# BlinkMail 为 Mac 用户带来类似邮箱的电子邮件分流体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/blinkmail-brings-a-mailbox-like-email-triage-experience-to-mac-users/>
 

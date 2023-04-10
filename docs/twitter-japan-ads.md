@@ -1,4 +1,4 @@
-# 推特！日本！广告！TechCrunch
+# 推特！日本！广告！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/04/22/twitter-japan-ads/>
 

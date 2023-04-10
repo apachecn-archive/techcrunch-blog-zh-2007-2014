@@ -1,4 +1,4 @@
-# RealNetworks 任命前 Adobe 高管 Thomas Nielsen 为首席执行官 TechCrunch
+# RealNetworks 任命前 Adobe 高管 Thomas Nielsen 为首席执行官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/realnetworks-names-former-adobe-exec-thomas-nielsen-as-ceo/>
 

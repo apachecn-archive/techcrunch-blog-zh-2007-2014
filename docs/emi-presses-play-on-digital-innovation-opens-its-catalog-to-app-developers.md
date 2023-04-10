@@ -1,4 +1,4 @@
-# EMI 出版社在数字创新上发挥作用；向应用程序开发人员开放目录 TechCrunch
+# EMI 出版社在数字创新上发挥作用；向应用程序开发人员开放目录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/emi-presses-play-on-digital-innovation-opens-its-catalog-to-app-developers/>
 

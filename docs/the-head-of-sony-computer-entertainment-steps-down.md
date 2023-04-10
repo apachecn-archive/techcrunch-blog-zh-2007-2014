@@ -1,4 +1,4 @@
-# 索尼电脑娱乐公司总裁下台 TechCrunch
+# 索尼电脑娱乐公司总裁下台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/06/the-head-of-sony-computer-entertainment-steps-down/>
 

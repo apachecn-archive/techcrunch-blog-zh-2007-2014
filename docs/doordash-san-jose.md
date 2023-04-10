@@ -1,4 +1,4 @@
-# Y Combinator 支持的食品配送初创公司 DoorDash 在圣何塞推出 TechCrunch
+# Y Combinator 支持的食品配送初创公司 DoorDash 在圣何塞推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/doordash-san-jose/>
 

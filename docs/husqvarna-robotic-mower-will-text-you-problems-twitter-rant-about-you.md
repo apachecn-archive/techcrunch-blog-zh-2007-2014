@@ -1,4 +1,4 @@
-# Husqvarna 机器人割草机会给你发问题短信，在 twitter 上谈论你 TechCrunch
+# Husqvarna 机器人割草机会给你发问题短信，在 twitter 上谈论你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/23/husqvarna-robotic-mower-will-text-you-problems-twitter-rant-about-you/>
 

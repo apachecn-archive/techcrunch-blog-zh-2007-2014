@@ -1,4 +1,4 @@
-# Nook Color 推出首个专用 Twitter 应用 TechCrunch
+# Nook Color 推出首个专用 Twitter 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/nook-color-gets-its-first-dedicated-twitter-app/>
 

@@ -1,4 +1,4 @@
-# Palm 对 Foleo Delay 的回应:仍然准时发货 TechCrunch
+# Palm 对 Foleo Delay 的回应:仍然准时发货 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/palms-response-to-foleo-delay-still-shipping-on-time/>
 

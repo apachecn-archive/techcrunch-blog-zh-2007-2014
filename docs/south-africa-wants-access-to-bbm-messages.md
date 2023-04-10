@@ -1,4 +1,4 @@
-# 南非希望获得 BBM 消息 TechCrunch
+# 南非希望获得 BBM 消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/south-africa-wants-access-to-bbm-messages/>
 

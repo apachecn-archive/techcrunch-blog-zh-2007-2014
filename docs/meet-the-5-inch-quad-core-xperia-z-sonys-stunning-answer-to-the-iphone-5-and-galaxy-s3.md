@@ -1,4 +1,4 @@
-# 认识一下 5 英寸四核 Xperia Z:索尼对 iPhone 5 和 Galaxy S3 的惊人回应 TechCrunch
+# 认识一下 5 英寸四核 Xperia Z:索尼对 iPhone 5 和 Galaxy S3 的惊人回应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/07/meet-the-5-inch-quad-core-xperia-z-sonys-stunning-answer-to-the-iphone-5-and-galaxy-s3/>
 

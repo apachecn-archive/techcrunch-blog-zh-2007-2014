@@ -1,4 +1,4 @@
-# 报告:41%的北美移动用户购买 iPhone 5 TechCrunch
+# 报告:41%的北美移动用户购买 iPhone 5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/report-41-of-north-american-mobile-users-to-buy-the-iphone-5/>
 

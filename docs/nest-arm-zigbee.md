@@ -1,4 +1,4 @@
-# Nest 恒温器拆卸展示美丽的内部结构、强大的 ARM CPU、Zigbee 无线电 TechCrunch
+# Nest 恒温器拆卸展示美丽的内部结构、强大的 ARM CPU、Zigbee 无线电 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/22/nest-arm-zigbee/>
 

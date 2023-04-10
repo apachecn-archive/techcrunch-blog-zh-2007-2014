@@ -1,4 +1,4 @@
-# 马克·库班支持的 JungleCents 将 AskMen 引入日常交易领域 TechCrunch
+# 马克·库班支持的 JungleCents 将 AskMen 引入日常交易领域 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/mark-cuban-backed-junglecents-ushers-askmen-into-the-daily-deals-space/>
 

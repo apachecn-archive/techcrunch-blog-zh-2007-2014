@@ -1,4 +1,4 @@
-# 自动下沉。查看您隐藏的脸书“其他”收件箱，查找您丢失的电子邮件 TechCrunch
+# 自动下沉。查看您隐藏的脸书“其他”收件箱，查找您丢失的电子邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/facebook-email-sync/>
 

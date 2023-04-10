@@ -1,4 +1,4 @@
-# 亚马逊兽医 Jason Child 加入 Groupon 担任首席财务官 TechCrunch
+# 亚马逊兽医 Jason Child 加入 Groupon 担任首席财务官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/20/amazon-vet-jason-child-joins-groupon-as-cfo/>
 

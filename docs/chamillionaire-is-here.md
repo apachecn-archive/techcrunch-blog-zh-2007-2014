@@ -1,4 +1,4 @@
-# 为什么百万富翁在这里？TechCrunch
+# 为什么百万富翁在这里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/28/chamillionaire-is-here/>
 

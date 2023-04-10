@@ -1,4 +1,4 @@
-# 现在每个人都可以制作营销视频:PowToon 推出 DIY 演示工具 TechCrunch
+# 现在每个人都可以制作营销视频:PowToon 推出 DIY 演示工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/26/now-everyone-can-make-marketing-videos-powtoon-launches-diy-presentation-tool/>
 

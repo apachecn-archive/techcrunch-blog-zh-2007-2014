@@ -1,4 +1,4 @@
-# 谷歌、易贝和贝宝如何为移动假日购物季做准备 TechCrunch
+# 谷歌、易贝和贝宝如何为移动假日购物季做准备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/13/how-google-ebay-and-paypal-are-gearing-up-for-a-very-mobile-holiday-shopping-season/>
 

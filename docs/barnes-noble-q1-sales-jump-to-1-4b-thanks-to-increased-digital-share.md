@@ -1,4 +1,4 @@
-# Barnes & Noble Q1 销售额跃升至 14 亿美元，得益于数字市场份额的增加 TechCrunch
+# Barnes & Noble Q1 销售额跃升至 14 亿美元，得益于数字市场份额的增加 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/barnes-noble-q1-sales-jump-to-1-4b-thanks-to-increased-digital-share/>
 

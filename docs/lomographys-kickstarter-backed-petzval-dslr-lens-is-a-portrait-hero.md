@@ -1,4 +1,4 @@
-# Lomography 的 Kickstarter 支持的佩兹瓦尔 DSLR 镜头是一个肖像英雄 TechCrunch
+# Lomography 的 Kickstarter 支持的佩兹瓦尔 DSLR 镜头是一个肖像英雄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/25/lomographys-kickstarter-backed-petzval-dslr-lens-is-a-portrait-hero/>
 

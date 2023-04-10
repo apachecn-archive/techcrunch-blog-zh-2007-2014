@@ -1,4 +1,4 @@
-# Honest Buildings 获得 550 万美元，为房地产专业人士扩展其在线网络 TechCrunch
+# Honest Buildings 获得 550 万美元，为房地产专业人士扩展其在线网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/24/honest-buildings-gets-5-5-million-to-scale-out-its-online-network-for-real-estate-pros/>
 

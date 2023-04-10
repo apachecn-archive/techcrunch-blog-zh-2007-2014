@@ -1,4 +1,4 @@
-# Socialbakers 收购脸书 Feed 阅读器 Social RSS，增加 Google+支持 TechCrunch
+# Socialbakers 收购脸书 Feed 阅读器 Social RSS，增加 Google+支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/socialbakers-acquires-social-rss-a-facebook-feed-reader-adds-google-support/>
 

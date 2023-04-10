@@ -1,4 +1,4 @@
-# Path 推出了“Stacks ”,这是一种浏览朋友最喜欢的东西的可视化方式 TechCrunch
+# Path 推出了“Stacks ”,这是一种浏览朋友最喜欢的东西的可视化方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/23/path-launches-stacks-a-visual-way-to-browse-your-friends-favorite-things/>
 

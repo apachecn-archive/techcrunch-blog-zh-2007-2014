@@ -1,4 +1,4 @@
-# 报告:到 2017 年，社交电视市场价值将达到 2564.4 亿美元；欧洲现在占据最大份额 TechCrunch
+# 报告:到 2017 年，社交电视市场价值将达到 2564.4 亿美元；欧洲现在占据最大份额 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/12/report-social-tv-market-to-be-worth-256-44bn-by-2017-europe-taking-largest-share-now/>
 

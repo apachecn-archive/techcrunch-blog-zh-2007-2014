@@ -1,4 +1,4 @@
-# 易贝收购了专注时尚的社交购物网站 svply TechCrunch
+# 易贝收购了专注时尚的社交购物网站 svply 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/ebay-acquires-style-focused-social-curated-shopping-site-svpply/>
 

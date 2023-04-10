@@ -1,4 +1,4 @@
-# Medium 聘请前 ICM 文学代理人 Kate Lee 担任其内容总监 TechCrunch
+# Medium 聘请前 ICM 文学代理人 Kate Lee 担任其内容总监 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/19/medium-hires-former-icm-literary-agent-kate-lee-as-its-director-of-content/>
 

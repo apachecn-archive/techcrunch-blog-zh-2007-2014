@@ -1,4 +1,4 @@
-# 反恐精英:全球攻势将于 2012 年到来，以重振老化，但仍然令人敬畏的专营权 TechCrunch
+# 反恐精英:全球攻势将于 2012 年到来，以重振老化，但仍然令人敬畏的专营权 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/counter-strike-global-offensive/>
 

@@ -1,4 +1,4 @@
-# Zendesk 首席运营官扎克·厄洛克离开公司 TechCrunch
+# Zendesk 首席运营官扎克·厄洛克离开公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/28/zendesk-coo-zack-urlocker-departs-the-company/>
 

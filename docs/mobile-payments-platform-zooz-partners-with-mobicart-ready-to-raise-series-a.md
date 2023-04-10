@@ -1,4 +1,4 @@
-# 移动支付平台 ZooZ 与 MobiCart 合作，准备进行首轮融资 TechCrunch
+# 移动支付平台 ZooZ 与 MobiCart 合作，准备进行首轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/26/mobile-payments-platform-zooz-partners-with-mobicart-ready-to-raise-series-a/>
 

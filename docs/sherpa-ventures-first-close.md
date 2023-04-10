@@ -1,4 +1,4 @@
-# Sherpa Ventures 获得 1.5 亿美元基金中的 8700 万美元 TechCrunch
+# Sherpa Ventures 获得 1.5 亿美元基金中的 8700 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/sherpa-ventures-first-close/>
 

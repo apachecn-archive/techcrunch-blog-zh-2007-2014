@@ -1,4 +1,4 @@
-# GitHub 到底是什么？TechCrunch
+# GitHub 到底是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/>
 

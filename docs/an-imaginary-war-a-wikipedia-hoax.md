@@ -1,4 +1,4 @@
-# 一场想象中的战争，一场维基百科骗局 TechCrunch
+# 一场想象中的战争，一场维基百科骗局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/06/an-imaginary-war-a-wikipedia-hoax/>
 

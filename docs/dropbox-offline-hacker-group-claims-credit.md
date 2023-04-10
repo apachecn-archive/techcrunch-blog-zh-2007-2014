@@ -1,4 +1,4 @@
-# 更新:所谓的 Dropbox 黑客是一个骗局，网站已经恢复 TechCrunch
+# 更新:所谓的 Dropbox 黑客是一个骗局，网站已经恢复 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/10/dropbox-offline-hacker-group-claims-credit/>
 

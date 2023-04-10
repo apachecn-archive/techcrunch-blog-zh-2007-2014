@@ -1,4 +1,4 @@
-# 手机浏览器制造商海豚与 Yandex、百度、雅虎签署战略合作伙伴关系。日本和鸭鸭 Go TechCrunch
+# 手机浏览器制造商海豚与 Yandex、百度、雅虎签署战略合作伙伴关系。日本和鸭鸭 Go 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/26/dolphin-signs-partnerships/>
 

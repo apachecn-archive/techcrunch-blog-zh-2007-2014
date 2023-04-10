@@ -1,4 +1,4 @@
-# 电磁敏感性:英国 DJ 声称对 Wi-Fi 过敏 TechCrunch
+# 电磁敏感性:英国 DJ 声称对 Wi-Fi 过敏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/27/electromagnetic-sensitivity-british-dj-claims-to-be-allergic-to-wi-fi/>
 

@@ -1,4 +1,4 @@
-# Sitemeter 扼杀了 IE 用户的数千个网站 TechCrunch
+# Sitemeter 扼杀了 IE 用户的数千个网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/02/sitemeter-kills-thousands-of-sites-for-ie-users/>
 

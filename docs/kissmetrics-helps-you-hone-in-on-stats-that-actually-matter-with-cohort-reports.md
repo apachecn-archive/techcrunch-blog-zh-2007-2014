@@ -1,4 +1,4 @@
-# KISSmetrics 帮助您了解与群组报告实际相关的统计数据 TechCrunch
+# KISSmetrics 帮助您了解与群组报告实际相关的统计数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/23/kissmetrics-helps-you-hone-in-on-stats-that-actually-matter-with-cohort-reports/>
 

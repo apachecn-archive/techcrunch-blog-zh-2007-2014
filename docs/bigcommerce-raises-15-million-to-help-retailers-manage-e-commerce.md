@@ -1,4 +1,4 @@
-# BigCommerce 筹集 1500 万美元帮助零售商管理电子商务 TechCrunch
+# BigCommerce 筹集 1500 万美元帮助零售商管理电子商务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/31/bigcommerce-raises-15-million-to-help-retailers-manage-e-commerce/>
 

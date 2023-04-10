@@ -1,4 +1,4 @@
-# 醉心于许可费和专利的微软成了一个笑话 TechCrunch
+# 醉心于许可费和专利的微软成了一个笑话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/21/this-title-is-patented-pay-me/>
 

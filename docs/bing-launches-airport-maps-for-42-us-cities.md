@@ -1,4 +1,4 @@
-# Bing 发布 42 个美国城市的机场地图 TechCrunch
+# Bing 发布 42 个美国城市的机场地图 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/bing-launches-airport-maps-for-42-us-cities/>
 

@@ -1,4 +1,4 @@
-# Infochimps 收购推特监管初创公司 Keepstream TechCrunch
+# Infochimps 收购推特监管初创公司 Keepstream 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/infochimps-acquires-tweet-curation-startup-keepstream/>
 

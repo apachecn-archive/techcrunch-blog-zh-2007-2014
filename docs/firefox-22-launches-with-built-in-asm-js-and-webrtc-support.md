@@ -1,4 +1,4 @@
-# Firefox 22 发布，内置 Asm.js 和 WebRTC 支持 TechCrunch
+# Firefox 22 发布，内置 Asm.js 和 WebRTC 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/25/firefox-22-launches-with-built-in-asm-js-and-webrtc-support/>
 

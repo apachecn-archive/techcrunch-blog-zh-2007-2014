@@ -1,4 +1,4 @@
-# NanoSatisfi 筹集 120 万美元，用小型廉价卫星颠覆航空业 TechCrunch
+# NanoSatisfi 筹集 120 万美元，用小型廉价卫星颠覆航空业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/07/nanosatisfi-funding/>
 

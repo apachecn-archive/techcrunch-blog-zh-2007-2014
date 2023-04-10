@@ -1,4 +1,4 @@
-# 报道:日本移动运营商软银将 iPhone 垄断权拱手让给 KDDI TechCrunch
+# 报道:日本移动运营商软银将 iPhone 垄断权拱手让给 KDDI 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/report-japanese-mobile-carrier-softbank-to-lose-iphone-monopoly-to-kddi/>
 

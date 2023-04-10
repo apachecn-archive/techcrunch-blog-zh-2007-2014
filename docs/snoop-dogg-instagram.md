@@ -1,4 +1,4 @@
-# Instagram 上的“窥探”:早期采用的名人加入照片分享服务 TechCrunch
+# Instagram 上的“窥探”:早期采用的名人加入照片分享服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/19/snoop-dogg-instagram/>
 

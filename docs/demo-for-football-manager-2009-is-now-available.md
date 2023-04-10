@@ -1,4 +1,4 @@
-# 足球经理 2009 演示现已推出 TechCrunch
+# 足球经理 2009 演示现已推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/03/demo-for-football-manager-2009-is-now-available/>
 

@@ -1,4 +1,4 @@
-# 亚马逊披露网络星期一交易:Xbox 360 售价 199 美元，诺基亚 N8 售价 299 美元 TechCrunch
+# 亚马逊披露网络星期一交易:Xbox 360 售价 199 美元，诺基亚 N8 售价 299 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/25/amazon-reveals-cyber-monday-deals-xbox-360-for-199-nokia-n8-for-299/>
 

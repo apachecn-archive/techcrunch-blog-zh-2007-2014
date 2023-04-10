@@ -1,4 +1,4 @@
-# 新计划利用智能手机帮助心脏病患者存活 TechCrunch
+# 新计划利用智能手机帮助心脏病患者存活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/new-initiative-harnesses-smartphones-to-help-keep-heart-attack-victims-alive/>
 

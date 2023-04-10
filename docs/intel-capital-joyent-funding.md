@@ -1,4 +1,4 @@
-# 英特尔投资投资云计算先锋 Joyent TechCrunch
+# 英特尔投资投资云计算先锋 Joyent 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/17/intel-capital-joyent-funding/>
 

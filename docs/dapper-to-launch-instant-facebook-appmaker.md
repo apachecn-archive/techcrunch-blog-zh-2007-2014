@@ -1,4 +1,4 @@
-# Dapper 将推出即时脸书应用程序制作工具——TechCrunch
+# Dapper 将推出即时脸书应用程序制作工具——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/26/dapper-to-launch-instant-facebook-appmaker/>
 

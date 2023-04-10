@@ -1,4 +1,4 @@
-# MOG 推出漂亮的 HTML5 播放器，新重点是推荐和播放列表 TechCrunch
+# MOG 推出漂亮的 HTML5 播放器，新重点是推荐和播放列表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/mog-rolls-out-slick-html5-player-with-a-new-emphasis-on-recommendations-and-playlists/>
 

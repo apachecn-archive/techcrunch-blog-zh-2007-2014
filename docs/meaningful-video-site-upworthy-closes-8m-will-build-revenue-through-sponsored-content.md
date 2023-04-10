@@ -1,4 +1,4 @@
-# 视频网站 Upworthy 完成 800 万美元融资，将通过赞助内容获得收入 TechCrunch
+# 视频网站 Upworthy 完成 800 万美元融资，将通过赞助内容获得收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/16/meaningful-video-site-upworthy-closes-8m-will-build-revenue-through-sponsored-content/>
 

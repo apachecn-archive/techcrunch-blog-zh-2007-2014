@@ -1,4 +1,4 @@
-# TCTV:iPhone 4S 值得升级吗？TechCrunch
+# TCTV:iPhone 4S 值得升级吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/is-the-iphone-4s-worth-it/>
 

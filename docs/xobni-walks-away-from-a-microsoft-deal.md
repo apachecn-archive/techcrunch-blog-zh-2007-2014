@@ -1,4 +1,4 @@
-# Xobni 放弃与微软的交易 TechCrunch
+# Xobni 放弃与微软的交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/30/xobni-walks-away-from-a-microsoft-deal/>
 

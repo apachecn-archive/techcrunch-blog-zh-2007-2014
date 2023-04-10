@@ -1,4 +1,4 @@
-# 谷歌时代精神 2010: iPhone 击败安卓，Twitter 击败脸书，Chatroulette 击败所有 TechCrunch
+# 谷歌时代精神 2010: iPhone 击败安卓，Twitter 击败脸书，Chatroulette 击败所有 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/09/google-zeitgeist-2010/>
 

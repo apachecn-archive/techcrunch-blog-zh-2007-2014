@@ -1,4 +1,4 @@
-# 社会企业公司 Jive 申请 1 亿美元 IPO2010 年收入为 4600 万美元 TechCrunch
+# 社会企业公司 Jive 申请 1 亿美元 IPO2010 年收入为 4600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/24/social-enterprise-company-jive-files-for-100m-ipo/>
 

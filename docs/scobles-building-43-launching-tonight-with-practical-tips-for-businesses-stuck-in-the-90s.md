@@ -1,4 +1,4 @@
-# Scoble 的 Building 43 今晚发布，为停滞在 90 年代的企业提供实用技巧 TechCrunch
+# Scoble 的 Building 43 今晚发布，为停滞在 90 年代的企业提供实用技巧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/11/scobles-building-43-launching-tonight-with-practical-tips-for-businesses-stuck-in-the-90s/>
 

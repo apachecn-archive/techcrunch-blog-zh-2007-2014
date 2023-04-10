@@ -1,4 +1,4 @@
-# 如何隐藏 iOS 5 恼人的报摊图标 TechCrunch
+# 如何隐藏 iOS 5 恼人的报摊图标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/how-to-hide-newsstand-icon-in-a-folder/>
 

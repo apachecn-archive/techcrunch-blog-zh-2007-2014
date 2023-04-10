@@ -1,4 +1,4 @@
-# 宾·戈登的创始人清单:动物能量、盲目自信和假发。TechCrunch
+# 宾·戈登的创始人清单:动物能量、盲目自信和假发。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/30/animal-energy-blind-confidence-and-a-toupee-what-bing-gordon-says-your-startup-needs-for-success/>
 

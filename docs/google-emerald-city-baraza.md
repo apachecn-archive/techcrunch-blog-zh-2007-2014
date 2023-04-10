@@ -1,4 +1,4 @@
-# “谷歌我”的代号是“翡翠城”吗？还有 Google Baraza 为什么要抄袭 Quora？TechCrunch
+# “谷歌我”的代号是“翡翠城”吗？还有 Google Baraza 为什么要抄袭 Quora？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/google-emerald-city-baraza/>
 

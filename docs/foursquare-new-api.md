@@ -1,4 +1,4 @@
-# Foursquare 正在测试他们 API 的版本 2。“快 1000 倍”TechCrunch
+# Foursquare 正在测试他们 API 的版本 2。“快 1000 倍”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/29/foursquare-new-api/>
 

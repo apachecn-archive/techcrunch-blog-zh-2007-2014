@@ -1,4 +1,4 @@
-# Ooma VOIP 服务在全国范围内中断 TechCrunch
+# Ooma VOIP 服务在全国范围内中断 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/ooma-voip-service-is-down-nationwide/>
 

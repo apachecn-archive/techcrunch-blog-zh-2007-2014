@@ -1,4 +1,4 @@
-# JS-Kit 收购评论系统提供商 halos can TechCrunch
+# JS-Kit 收购评论系统提供商 halos can 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/08/js-kit-acquires-commenting-sytem-provider-haloscan/>
 

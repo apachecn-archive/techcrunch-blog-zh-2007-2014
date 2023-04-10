@@ -1,4 +1,4 @@
-# 定义史蒂夫·乔布斯的 7 项标志性专利 TechCrunch
+# 定义史蒂夫·乔布斯的 7 项标志性专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/the-7-iconic-patents-that-define-steve-jobs/>
 

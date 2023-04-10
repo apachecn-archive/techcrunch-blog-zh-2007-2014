@@ -1,4 +1,4 @@
-# LinkedIn 继续其移动转型，在 iPhone 和 Android 上扩展搜索 TechCrunch
+# LinkedIn 继续其移动转型，在 iPhone 和 Android 上扩展搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/02/linkedin-continues-its-mobile-transition-with-expanded-search-on-iphone-android/>
 

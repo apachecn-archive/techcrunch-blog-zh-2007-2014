@@ -1,4 +1,4 @@
-# 保罗·卡尔的新公司不是 TechCrunch
+# 保罗·卡尔的新公司不是 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/aut-viam-inveniam-aut-faciam/>
 

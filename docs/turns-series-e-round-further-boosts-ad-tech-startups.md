@@ -1,4 +1,4 @@
-# Turn 的 E 轮融资进一步推动广告技术初创公司 TechCrunch
+# Turn 的 E 轮融资进一步推动广告技术初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/turns-series-e-round-further-boosts-ad-tech-startups/>
 

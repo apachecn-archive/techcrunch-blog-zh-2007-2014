@@ -1,4 +1,4 @@
-# 不那么随意:微软将重振 MSN 游戏、Live Messenger 和 Bing 游戏 TechCrunch
+# 不那么随意:微软将重振 MSN 游戏、Live Messenger 和 Bing 游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/15/not-so-casual-microsoft-to-revitalize-msn-games-live-messenger-and-bing-games/>
 

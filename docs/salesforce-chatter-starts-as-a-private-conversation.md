@@ -1,4 +1,4 @@
-# Salesforce Chatter 以私人对话开始 TechCrunch
+# Salesforce Chatter 以私人对话开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/salesforce-chatter-starts-as-a-private-conversation/>
 

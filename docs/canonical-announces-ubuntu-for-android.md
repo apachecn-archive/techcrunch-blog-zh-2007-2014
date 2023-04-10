@@ -1,4 +1,4 @@
-# Canonical 宣布面向 Android 的 Ubuntu TechCrunch
+# Canonical 宣布面向 Android 的 Ubuntu 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/canonical-announces-ubuntu-for-android/>
 

@@ -1,4 +1,4 @@
-# Timex 发布售价 275 美元的 GPS 手表 TechCrunch
+# Timex 发布售价 275 美元的 GPS 手表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/28/timex-releases-their-275-gps-watch/>
 

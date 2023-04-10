@@ -1,4 +1,4 @@
-# Skimlinks 为网络出版商发布完整 API TechCrunch
+# Skimlinks 为网络出版商发布完整 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/20/skimlinks-releases-full-api-for-web-publishers/>
 

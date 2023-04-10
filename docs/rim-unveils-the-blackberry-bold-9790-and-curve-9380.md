@@ -1,4 +1,4 @@
-# RIM 发布黑莓 Bold 9790 和 Curve 9380 TechCrunch
+# RIM 发布黑莓 Bold 9790 和 Curve 9380 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/rim-unveils-the-blackberry-bold-9790-and-curve-9380/>
 

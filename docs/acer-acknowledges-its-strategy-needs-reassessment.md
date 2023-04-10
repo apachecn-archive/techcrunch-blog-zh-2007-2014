@@ -1,4 +1,4 @@
-# 宏碁承认其整个战略需要重新评估 TechCrunch
+# 宏碁承认其整个战略需要重新评估 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/30/acer-acknowledges-its-strategy-needs-reassessment/>
 

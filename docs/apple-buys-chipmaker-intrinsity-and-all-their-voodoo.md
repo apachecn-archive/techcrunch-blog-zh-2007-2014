@@ -1,4 +1,4 @@
-# 苹果收购芯片制造商 Intrinsity(以及他们所有的巫术)TechCrunch
+# 苹果收购芯片制造商 Intrinsity(以及他们所有的巫术)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/apple-buys-chipmaker-intrinsity-and-all-their-voodoo/>
 

@@ -1,4 +1,4 @@
-# Adbrite 裁员 40%,包括两名高管 TechCrunch
+# Adbrite 裁员 40%,包括两名高管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/adbrite-lays-off-40-of-staff-including-two-execs/>
 

@@ -1,4 +1,4 @@
-# Google Drive 增加了活动流，使跟踪共享文档的更改变得更容易 TechCrunch
+# Google Drive 增加了活动流，使跟踪共享文档的更改变得更容易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/google-drive-adds-activity-stream-makes-tracking-changes-to-shared-documents-easier/>
 

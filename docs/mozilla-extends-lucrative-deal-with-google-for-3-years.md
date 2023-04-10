@@ -1,4 +1,4 @@
-# Mozilla 将与谷歌的有利交易延长 3 年 TechCrunch
+# Mozilla 将与谷歌的有利交易延长 3 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/28/mozilla-extends-lucrative-deal-with-google-for-3-years/>
 

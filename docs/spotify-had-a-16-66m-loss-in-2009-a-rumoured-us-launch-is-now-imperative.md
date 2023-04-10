@@ -1,4 +1,4 @@
-# Spotify 在 2009 年亏损了 1666 万英镑——传言中的在美国上市现在势在必行 TechCrunch
+# Spotify 在 2009 年亏损了 1666 万英镑——传言中的在美国上市现在势在必行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/22/spotify-had-a-16-66m-loss-in-2009-a-rumoured-us-launch-is-now-imperative/>
 

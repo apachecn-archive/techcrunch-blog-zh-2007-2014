@@ -1,4 +1,4 @@
-# Razer 推出过度紧张的 4000dpi 鼠标 TechCrunch
+# Razer 推出过度紧张的 4000dpi 鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/razer-launches-overwrought-4000dpi-mouse/>
 

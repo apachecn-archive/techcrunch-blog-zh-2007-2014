@@ -1,4 +1,4 @@
-# Hulu 讨论私有测试版，建议公开发布时间框架 TechCrunch
+# Hulu 讨论私有测试版，建议公开发布时间框架 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/24/hulu-discusses-private-beta-suggests-public-launch-time-frame/>
 

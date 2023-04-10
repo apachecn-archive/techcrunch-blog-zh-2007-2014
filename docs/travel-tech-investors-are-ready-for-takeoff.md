@@ -1,4 +1,4 @@
-# 旅游科技投资者准备起飞 TechCrunch
+# 旅游科技投资者准备起飞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/09/travel-tech-investors-are-ready-for-takeoff/>
 

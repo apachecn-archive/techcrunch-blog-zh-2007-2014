@@ -1,4 +1,4 @@
-# Galaxy Nexus 和 Nexus 7 用户:现在可以手动更新到 Android 4.2 Jelly Bean TechCrunch
+# Galaxy Nexus 和 Nexus 7 用户:现在可以手动更新到 Android 4.2 Jelly Bean 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/galaxy-nexus-and-nexus-7-owners-you-can-manually-update-to-android-4-2-jelly-bean-now/>
 

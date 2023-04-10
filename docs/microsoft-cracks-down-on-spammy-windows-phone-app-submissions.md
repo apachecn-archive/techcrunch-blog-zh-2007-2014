@@ -1,4 +1,4 @@
-# 微软打击垃圾 Windows Phone 应用提交 TechCrunch
+# 微软打击垃圾 Windows Phone 应用提交 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/microsoft-cracks-down-on-spammy-windows-phone-app-submissions/>
 

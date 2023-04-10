@@ -1,4 +1,4 @@
-# LivingSocial 从 Grotech Ventures 和史蒂夫·凯斯获得 500 万美元，用于开发社交应用 TechCrunch
+# LivingSocial 从 Grotech Ventures 和史蒂夫·凯斯获得 500 万美元，用于开发社交应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/21/livingsocial-gets-5-million-from-grotech-ventures-and-steve-case-to-create-social-apps/>
 

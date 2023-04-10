@@ -1,4 +1,4 @@
-# 视频:网真机器人头像 TELESAR V TechCrunch
+# 视频:网真机器人头像 TELESAR V 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/video-telepresence-robot-avatar-telesar-v/>
 

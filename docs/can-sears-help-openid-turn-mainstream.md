@@ -1,4 +1,4 @@
-# 西尔斯能帮助 OpenID 走向主流吗？TechCrunch
+# 西尔斯能帮助 OpenID 走向主流吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/02/can-sears-help-openid-turn-mainstream/>
 

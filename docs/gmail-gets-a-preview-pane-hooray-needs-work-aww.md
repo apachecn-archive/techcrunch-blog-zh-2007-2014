@@ -1,4 +1,4 @@
-# Gmail 得到一个预览窗格(万岁！)，需要工作(Aww)TechCrunch
+# Gmail 得到一个预览窗格(万岁！)，需要工作(Aww)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/gmail-gets-a-preview-pane-hooray-needs-work-aww/>
 

@@ -1,4 +1,4 @@
-# 20%的预订已满，邮箱关闭，因此您可以享受您的情人节 TechCrunch
+# 20%的预订已满，邮箱关闭，因此您可以享受您的情人节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/14/with-20-of-reservations-filled-mailbox-goes-down-so-you-can-enjoy-your-valentines-day/>
 

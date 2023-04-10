@@ -1,4 +1,4 @@
-# FanIQ 让粉丝留在游戏中，今年会员人数激增 2000% TechCrunch
+# FanIQ 让粉丝留在游戏中，今年会员人数激增 2000% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/20/faniq-keeps-fans-in-the-game-membership-jumps-2000-this-year/>
 

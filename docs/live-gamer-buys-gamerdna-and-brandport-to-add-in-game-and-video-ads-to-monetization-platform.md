@@ -1,4 +1,4 @@
-# Live Gamer 购买 GamerDNA 和 BrandPort，将游戏内广告添加到盈利平台 TechCrunch
+# Live Gamer 购买 GamerDNA 和 BrandPort，将游戏内广告添加到盈利平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/live-gamer-buys-gamerdna-and-brandport-to-add-in-game-and-video-ads-to-monetization-platform/>
 

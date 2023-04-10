@@ -1,4 +1,4 @@
-# QVC 收购社交分类老手 Oodle，帮助推动其社交商务发展 TechCrunch
+# QVC 收购社交分类老手 Oodle，帮助推动其社交商务发展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/05/qvc-acquires-social-classifieds-veteran-oodle-to-help-power-its-social-commerce-evolution/>
 

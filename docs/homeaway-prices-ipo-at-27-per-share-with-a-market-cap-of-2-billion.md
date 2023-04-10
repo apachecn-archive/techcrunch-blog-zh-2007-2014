@@ -1,4 +1,4 @@
-# HomeAway 将 IPO 定价为每股 27 美元，市值 20 亿美元 TechCrunch
+# HomeAway 将 IPO 定价为每股 27 美元，市值 20 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/28/homeaway-prices-ipo-at-27-per-share-with-a-market-cap-of-2-billion/>
 

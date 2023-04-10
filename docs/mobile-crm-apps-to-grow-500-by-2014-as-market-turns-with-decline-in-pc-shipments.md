@@ -1,4 +1,4 @@
-# 随着 PC 出货量的下降，移动 CRM 应用到 2014 年将增长 500% TechCrunch
+# 随着 PC 出货量的下降，移动 CRM 应用到 2014 年将增长 500% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/mobile-crm-apps-to-grow-500-by-2014-as-market-turns-with-decline-in-pc-shipments/>
 

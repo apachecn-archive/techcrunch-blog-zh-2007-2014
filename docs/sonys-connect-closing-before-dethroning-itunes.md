@@ -1,4 +1,4 @@
-# 索尼在淘汰 iTunes 之前关闭 CONNECT TechCrunch
+# 索尼在淘汰 iTunes 之前关闭 CONNECT 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/sonys-connect-closing-before-dethroning-itunes/>
 

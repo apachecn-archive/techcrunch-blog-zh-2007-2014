@@ -1,4 +1,4 @@
-# 科技行业女性太少？不要责怪男人。TechCrunch
+# 科技行业女性太少？不要责怪男人。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/28/women-in-tech-stop-blaming-me/>
 

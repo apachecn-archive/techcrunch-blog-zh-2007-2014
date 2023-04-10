@@ -1,4 +1,4 @@
-# 云应用交付软件制造商 Graphon 获得 710 万美元股权融资 TechCrunch
+# 云应用交付软件制造商 Graphon 获得 710 万美元股权融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/cloud-app-delivery-software-maker-graphon-secures-7-1m-in-equity-financing/>
 

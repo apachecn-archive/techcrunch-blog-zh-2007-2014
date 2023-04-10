@@ -1,4 +1,4 @@
-# 透视谷歌正在掠夺一家肯尼亚初创公司的故事 TechCrunch
+# 透视谷歌正在掠夺一家肯尼亚初创公司的故事 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/13/sorryfornotjumpingtoconclusions/>
 

@@ -1,4 +1,4 @@
-# 为什么威瑞森 iPhone 传言是真的—CDMA iPhone 将于 1 月上市 TechCrunch
+# 为什么威瑞森 iPhone 传言是真的—CDMA iPhone 将于 1 月上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/08/verizon-iphone-january/>
 

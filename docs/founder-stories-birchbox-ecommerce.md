@@ -1,4 +1,4 @@
-# Birchbox:电子商务的第二波浪潮 TechCrunch
+# Birchbox:电子商务的第二波浪潮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/founder-stories-birchbox-ecommerce/>
 

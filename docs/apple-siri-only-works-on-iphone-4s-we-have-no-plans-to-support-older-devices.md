@@ -1,4 +1,4 @@
-# 苹果:Siri 只适用于 iPhone 4S，我们没有计划支持旧设备 TechCrunch
+# 苹果:Siri 只适用于 iPhone 4S，我们没有计划支持旧设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/apple-siri-only-works-on-iphone-4s-we-have-no-plans-to-support-older-devices/>
 

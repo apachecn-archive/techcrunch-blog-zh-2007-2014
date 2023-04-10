@@ -1,4 +1,4 @@
-# SwiftKey Counters 推出更智能的版本，进军医疗保健市场 TechCrunch
+# SwiftKey Counters 推出更智能的版本，进军医疗保健市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/21/swiftkey-counters-swype-with-a-smarter-version-makes-an-in-road-into-healthcare-market/>
 

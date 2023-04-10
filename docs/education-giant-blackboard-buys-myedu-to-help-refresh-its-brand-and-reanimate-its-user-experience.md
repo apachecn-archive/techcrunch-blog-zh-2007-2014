@@ -1,4 +1,4 @@
-# 教育巨头 Blackboard 收购 MyEdu，以帮助更新其品牌并重振其用户体验 TechCrunch
+# 教育巨头 Blackboard 收购 MyEdu，以帮助更新其品牌并重振其用户体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/education-giant-blackboard-buys-myedu-to-help-refresh-its-brand-and-reanimate-its-user-experience/>
 

@@ -1,4 +1,4 @@
-# HBO 不在乎你是否分享你的 HBO Go 账户…目前是这样。TechCrunch
+# HBO 不在乎你是否分享你的 HBO Go 账户…目前是这样。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/20/hbo-doesnt-care-if-you-share-your-hbo-go-account-for-now/>
 

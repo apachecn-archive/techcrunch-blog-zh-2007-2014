@@ -1,4 +1,4 @@
-# Poncho，给那些懒得打开天气应用的人 TechCrunch
+# Poncho，给那些懒得打开天气应用的人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/17/poncho-for-those-who-cant-be-bothered-to-open-a-weather-app/>
 

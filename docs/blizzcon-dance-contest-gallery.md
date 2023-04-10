@@ -1,4 +1,4 @@
-# 暴雪舞蹈大赛画廊——TechCrunch
+# 暴雪舞蹈大赛画廊——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/blizzcon-dance-contest-gallery/>
 

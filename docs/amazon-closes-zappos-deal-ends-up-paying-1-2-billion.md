@@ -1,4 +1,4 @@
-# 亚马逊完成 Zappos 交易，最终支付 12 亿美元 TechCrunch
+# 亚马逊完成 Zappos 交易，最终支付 12 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/02/amazon-closes-zappos-deal-ends-up-paying-1-2-billion/>
 

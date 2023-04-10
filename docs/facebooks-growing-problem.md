@@ -1,4 +1,4 @@
-# 脸书可能发展太快了。再次冲击资本市场。TechCrunch
+# 脸书可能发展太快了。再次冲击资本市场。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/31/facebooks-growing-problem/>
 

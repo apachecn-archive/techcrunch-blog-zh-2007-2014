@@ -1,4 +1,4 @@
-# Sprint 的 4G LTE 网络将于明年初上线？TechCrunch
+# Sprint 的 4G LTE 网络将于明年初上线？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/sprints-4g-lte-network-to-go-live-early-next-year/>
 

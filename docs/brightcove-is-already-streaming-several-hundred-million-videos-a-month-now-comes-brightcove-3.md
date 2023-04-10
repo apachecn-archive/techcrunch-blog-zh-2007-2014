@@ -1,4 +1,4 @@
-# Brightcove 每月已经在播放“数亿”视频。现在是 Brightcove 3。TechCrunch
+# Brightcove 每月已经在播放“数亿”视频。现在是 Brightcove 3。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/13/brightcove-is-already-streaming-several-hundred-million-videos-a-month-now-comes-brightcove-3/>
 

@@ -1,4 +1,4 @@
-# GameStop 肯定了手机游戏的受欢迎程度；计划销售 iPhone、iPod 和 iPad TechCrunch
+# GameStop 肯定了手机游戏的受欢迎程度；计划销售 iPhone、iPod 和 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/gamestop-affirms-popularity-of-mobile-gaming-plans-to-sell-iphone-ipod-and-ipad/>
 

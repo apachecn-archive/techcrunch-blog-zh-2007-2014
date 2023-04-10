@@ -1,4 +1,4 @@
-# 图像大小调整:第三方在线工作演示–TechCrunch
+# 图像大小调整:第三方在线工作演示–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/image-resizing-third-party-online-demo-up/>
 

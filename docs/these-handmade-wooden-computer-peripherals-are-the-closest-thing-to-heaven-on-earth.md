@@ -1,4 +1,4 @@
-# 这些手工制作的木制电脑外设是地球上最接近天堂的东西 TechCrunch
+# 这些手工制作的木制电脑外设是地球上最接近天堂的东西 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/these-handmade-wooden-computer-peripherals-are-the-closest-thing-to-heaven-on-earth/>
 

@@ -1,4 +1,4 @@
-# 微软回应谷歌回应微软回应 TechCrunch
+# 微软回应谷歌回应微软回应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/gentlemen-take-this-outside/>
 

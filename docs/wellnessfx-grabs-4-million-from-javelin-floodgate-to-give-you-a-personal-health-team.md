@@ -1,4 +1,4 @@
-# WellnessFX 从 Javelin，Floodgate 获得 400 万美元，为您打造个人健康团队 TechCrunch
+# WellnessFX 从 Javelin，Floodgate 获得 400 万美元，为您打造个人健康团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/wellnessfx-grabs-4-million-from-javelin-floodgate-to-give-you-a-personal-health-team/>
 

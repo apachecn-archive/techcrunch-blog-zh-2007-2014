@@ -1,4 +1,4 @@
-# 灯泡声音扬声器将您的音乐放入您的...lamp TechCrunch
+# 灯泡声音扬声器将您的音乐放入您的...lamp 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/01/22/bulb-sound-speaker-puts-your-music-in-your-lamp/>
 

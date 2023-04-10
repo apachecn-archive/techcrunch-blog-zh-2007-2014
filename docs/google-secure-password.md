@@ -1,4 +1,4 @@
-# 谷歌通过两步认证让你的账户更加安全 TechCrunch
+# 谷歌通过两步认证让你的账户更加安全 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/20/google-secure-password/>
 

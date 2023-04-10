@@ -1,4 +1,4 @@
-# PolitiFact 推出新闻服务，将其事实核查应用于印刷 TechCrunch
+# PolitiFact 推出新闻服务，将其事实核查应用于印刷 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/politifact-launches-news-service-to-bring-its-fact-checking-to-print/>
 

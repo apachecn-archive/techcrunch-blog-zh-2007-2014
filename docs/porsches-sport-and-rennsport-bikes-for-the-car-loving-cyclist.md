@@ -1,4 +1,4 @@
-# 保时捷 Sport 和 Rennsport 自行车，专为爱车人士打造 TechCrunch
+# 保时捷 Sport 和 Rennsport 自行车，专为爱车人士打造 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/porsches-sport-and-rennsport-bikes-for-the-car-loving-cyclist/>
 

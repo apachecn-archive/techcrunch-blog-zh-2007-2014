@@ -1,4 +1,4 @@
-# 读者:你的云战略是什么？TechCrunch
+# 读者:你的云战略是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/13/readers-whats-your-cloud-strategy/>
 

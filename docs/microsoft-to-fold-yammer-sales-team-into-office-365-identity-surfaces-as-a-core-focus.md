@@ -1,4 +1,4 @@
-# 微软将 Yammer 销售团队并入 Office 365，身份表面成为核心焦点 TechCrunch
+# 微软将 Yammer 销售团队并入 Office 365，身份表面成为核心焦点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/microsoft-to-fold-yammer-sales-team-into-office-365-identity-surfaces-as-a-core-focus/>
 

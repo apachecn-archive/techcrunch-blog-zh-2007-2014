@@ -1,4 +1,4 @@
-# 出色的新 API 初创公司动态生成 1，000 个视频 TechCrunch
+# 出色的新 API 初创公司动态生成 1，000 个视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/07/awesome-new-api-startup-generates-1000s-of-videos-on-the-fly/>
 

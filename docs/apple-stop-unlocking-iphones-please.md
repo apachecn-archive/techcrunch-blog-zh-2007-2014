@@ -1,4 +1,4 @@
-# 苹果:停止解锁 iPhones。拜托了。TechCrunch
+# 苹果:停止解锁 iPhones。拜托了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/24/apple-stop-unlocking-iphones-please/>
 

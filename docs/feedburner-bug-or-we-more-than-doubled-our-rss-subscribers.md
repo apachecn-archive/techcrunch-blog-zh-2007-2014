@@ -1,4 +1,4 @@
-# Feedburner Bug，或者说我们的 RSS 订阅用户增加了一倍多 TechCrunch
+# Feedburner Bug，或者说我们的 RSS 订阅用户增加了一倍多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/06/feedburner-bug-or-we-more-than-doubled-our-rss-subscribers/>
 

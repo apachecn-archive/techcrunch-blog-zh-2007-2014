@@ -1,4 +1,4 @@
-# Issuu 获得 500 万美元注资，增加功能和高级版本 TechCrunch
+# Issuu 获得 500 万美元注资，增加功能和高级版本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/10/28/issuu-gets-5-million-infusion-adds-features-and-premium-version/>
 

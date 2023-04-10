@@ -1,4 +1,4 @@
-# 苹果:其实 500 亿美元也不酷。你知道什么很酷吗？三千亿美元。TechCrunch
+# 苹果:其实 500 亿美元也不酷。你知道什么很酷吗？三千亿美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/03/apple-300-billion/>
 

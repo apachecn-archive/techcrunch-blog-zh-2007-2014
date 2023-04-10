@@ -1,4 +1,4 @@
-# PayPal 活跃用户突破 1 亿 TechCrunch
+# PayPal 活跃用户突破 1 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/paypal-hits-100-million-active-users/>
 

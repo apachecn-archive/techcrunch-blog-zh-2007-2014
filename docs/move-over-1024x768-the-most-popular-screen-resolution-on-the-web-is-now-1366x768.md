@@ -1,4 +1,4 @@
-# 超过 1024x768:现在网络上最流行的屏幕分辨率是 1366 x768 TechCrunch
+# 超过 1024x768:现在网络上最流行的屏幕分辨率是 1366 x768 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/move-over-1024x768-the-most-popular-screen-resolution-on-the-web-is-now-1366x768/>
 

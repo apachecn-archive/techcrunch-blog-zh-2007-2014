@@ -1,4 +1,4 @@
-# 可怕的侵犯热图上显示的止赎权 TechCrunch
+# 可怕的侵犯热图上显示的止赎权 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/04/07/foreclosures-shown-on-scary-encroaching-heat-maps/>
 

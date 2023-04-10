@@ -1,4 +1,4 @@
-# 谷歌阅读器之死引发请愿 3 万人签名 TechCrunch
+# 谷歌阅读器之死引发请愿 3 万人签名 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/the-death-of-google-reader-sparks-a-petition-30000-signatures-strong/>
 

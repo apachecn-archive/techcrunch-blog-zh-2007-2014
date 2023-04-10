@@ -1,4 +1,4 @@
-# 如今的平板电脑也是如此:HTC Jetstream 和索尼 S 和 P TechCrunch
+# 如今的平板电脑也是如此:HTC Jetstream 和索尼 S 和 P 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/no-one-will-buy-these/>
 

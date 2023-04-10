@@ -1,4 +1,4 @@
-# 企业软件的重生？[视频 TechCrunch
+# 企业软件的重生？[视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/05/andreessen-enterprise-software/>
 

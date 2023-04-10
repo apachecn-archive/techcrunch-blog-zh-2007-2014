@@ -1,4 +1,4 @@
-# 评论钓鱼有一个心理学解释 TechCrunch
+# 评论钓鱼有一个心理学解释 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/11/20/comment-trolling-has-a-psychological-explanation/>
 

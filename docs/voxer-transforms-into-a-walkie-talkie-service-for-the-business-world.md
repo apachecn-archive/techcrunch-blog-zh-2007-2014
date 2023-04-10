@@ -1,4 +1,4 @@
-# Voxer 转变为商业世界的对讲机服务 TechCrunch
+# Voxer 转变为商业世界的对讲机服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/25/voxer-transforms-into-a-walkie-talkie-service-for-the-business-world/>
 

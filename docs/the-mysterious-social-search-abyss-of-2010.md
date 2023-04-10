@@ -1,4 +1,4 @@
-# 2010 年神秘的社交搜索深渊 TechCrunch
+# 2010 年神秘的社交搜索深渊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/the-mysterious-social-search-abyss-of-2010/>
 

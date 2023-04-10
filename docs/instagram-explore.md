@@ -1,4 +1,4 @@
-# Instagram 的新“探索”聚焦照片发现的未来 TechCrunch
+# Instagram 的新“探索”聚焦照片发现的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/instagram-explore/>
 

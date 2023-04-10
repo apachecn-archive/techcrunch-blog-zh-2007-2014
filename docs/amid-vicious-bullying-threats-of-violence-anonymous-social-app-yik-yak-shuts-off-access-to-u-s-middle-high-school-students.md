@@ -1,4 +1,4 @@
-# 在欺凌和暴力威胁中，匿名社交应用 Yik Yak 关闭了美国初中和高中学生的访问 TechCrunch
+# 在欺凌和暴力威胁中，匿名社交应用 Yik Yak 关闭了美国初中和高中学生的访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/amid-vicious-bullying-threats-of-violence-anonymous-social-app-yik-yak-shuts-off-access-to-u-s-middle-high-school-students/>
 

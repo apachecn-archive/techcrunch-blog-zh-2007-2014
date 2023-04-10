@@ -1,4 +1,4 @@
-# 500px 计划在 2014 年积极拓展消费者市场，我们来看看他们的新空间 TechCrunch
+# 500px 计划在 2014 年积极拓展消费者市场，我们来看看他们的新空间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/16/500px-consumer-market-video/>
 

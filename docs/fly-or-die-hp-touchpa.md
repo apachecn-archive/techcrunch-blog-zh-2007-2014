@@ -1,4 +1,4 @@
-# 要么飞，要么死:猜猜谁不喜欢惠普触摸板？TechCrunch
+# 要么飞，要么死:猜猜谁不喜欢惠普触摸板？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/fly-or-die-hp-touchpa/>
 

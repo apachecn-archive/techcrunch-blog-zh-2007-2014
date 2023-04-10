@@ -1,4 +1,4 @@
-# 在新的内容政策出台一年多后，“自残社交媒体”仍然盛行 TechCrunch
+# 在新的内容政策出台一年多后，“自残社交媒体”仍然盛行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/20/over-a-year-after-new-content-policies-self-harm-social-media-still-thrives/>
 

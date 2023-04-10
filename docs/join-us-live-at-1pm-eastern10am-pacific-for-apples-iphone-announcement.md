@@ -1,4 +1,4 @@
-# 加入我们东部时间下午 1 点/太平洋时间上午 10 点的苹果 iPhone 发布会现场直播 TechCrunch
+# 加入我们东部时间下午 1 点/太平洋时间上午 10 点的苹果 iPhone 发布会现场直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/12/join-us-live-at-1pm-eastern10am-pacific-for-apples-iphone-announcement/>
 

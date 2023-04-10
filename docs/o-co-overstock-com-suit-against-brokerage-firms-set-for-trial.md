@@ -1,4 +1,4 @@
-# O.co(Overstock.com)起诉经纪公司一案开庭审理 TechCrunch
+# O.co(Overstock.com)起诉经纪公司一案开庭审理 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/o-co-overstock-com-suit-against-brokerage-firms-set-for-trial/>
 

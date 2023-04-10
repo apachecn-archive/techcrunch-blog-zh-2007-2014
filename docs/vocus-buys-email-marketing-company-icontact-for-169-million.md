@@ -1,4 +1,4 @@
-# Vocus 以 1.69 亿美元收购电子邮件营销公司 iContact TechCrunch
+# Vocus 以 1.69 亿美元收购电子邮件营销公司 iContact 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/28/vocus-buys-email-marketing-company-icontact-for-169-million/>
 

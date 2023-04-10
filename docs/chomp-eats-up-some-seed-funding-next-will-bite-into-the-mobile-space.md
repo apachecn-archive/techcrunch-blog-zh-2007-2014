@@ -1,4 +1,4 @@
-# Chomp 吃掉了一些种子基金。接下来，将进入移动领域。TechCrunch
+# Chomp 吃掉了一些种子基金。接下来，将进入移动领域。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/06/chomp-eats-up-some-seed-funding-next-will-bite-into-the-mobile-space/>
 

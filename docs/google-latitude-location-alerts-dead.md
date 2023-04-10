@@ -1,4 +1,4 @@
-# 谷歌悄无声息地终止了令人毛骨悚然的纬度位置提醒功能 TechCrunch
+# 谷歌悄无声息地终止了令人毛骨悚然的纬度位置提醒功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/18/google-latitude-location-alerts-dead/>
 

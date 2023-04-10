@@ -1,4 +1,4 @@
-# 流媒体 Flash 游戏初创公司 iSwifter 称今年收入将超过 1000 万美元 TechCrunch
+# 流媒体 Flash 游戏初创公司 iSwifter 称今年收入将超过 1000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/flash-games-streaming-startup-iswifter-says-revenue-will-pass-10m-this-year/>
 

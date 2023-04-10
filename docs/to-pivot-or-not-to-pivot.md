@@ -1,4 +1,4 @@
-# 转向还是不转向 TechCrunch
+# 转向还是不转向 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/28/to-pivot-or-not-to-pivot/>
 

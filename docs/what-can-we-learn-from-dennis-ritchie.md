@@ -1,4 +1,4 @@
-# 我们能从丹尼斯·里奇身上学到什么？TechCrunch
+# 我们能从丹尼斯·里奇身上学到什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/15/what-can-we-learn-from-dennis-ritchie/>
 

@@ -1,4 +1,4 @@
-# CNN 热爱 Twitter，但似乎不总是知道如何使用它 TechCrunch
+# CNN 热爱 Twitter，但似乎不总是知道如何使用它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/21/cnn-loves-twitter-but-doesnt-seem-to-always-know-how-to-use-it/>
 

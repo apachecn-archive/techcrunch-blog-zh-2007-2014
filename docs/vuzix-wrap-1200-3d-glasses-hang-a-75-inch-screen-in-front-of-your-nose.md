@@ -1,4 +1,4 @@
-# Vuzix Wrap 1200 3D 眼镜在您的鼻子前悬挂一个 75 英寸的屏幕 TechCrunch
+# Vuzix Wrap 1200 3D 眼镜在您的鼻子前悬挂一个 75 英寸的屏幕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/vuzix-wrap-1200-3d-glasses-hang-a-75-inch-screen-in-front-of-your-nose/>
 

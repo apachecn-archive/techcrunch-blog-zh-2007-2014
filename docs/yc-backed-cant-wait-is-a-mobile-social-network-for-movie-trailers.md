@@ -1,4 +1,4 @@
-# YC 支持的《不能等待》是一个电影预告片移动社交网络 TechCrunch
+# YC 支持的《不能等待》是一个电影预告片移动社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/19/yc-backed-cant-wait-is-a-mobile-social-network-for-movie-trailers/>
 

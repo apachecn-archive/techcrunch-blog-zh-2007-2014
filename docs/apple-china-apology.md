@@ -1,4 +1,4 @@
-# 苹果在中国道歉的有效性众说纷纭 TechCrunch
+# 苹果在中国道歉的有效性众说纷纭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/02/apple-china-apology/>
 

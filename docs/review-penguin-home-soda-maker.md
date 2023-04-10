@@ -1,4 +1,4 @@
-# 点评:企鹅家庭汽水制造商 TechCrunch
+# 点评:企鹅家庭汽水制造商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/review-penguin-home-soda-maker/>
 

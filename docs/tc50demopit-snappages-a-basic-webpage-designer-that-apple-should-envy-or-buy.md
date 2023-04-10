@@ -1,4 +1,4 @@
-# TC50(DemoPit): SnapPages，一个苹果应该羡慕(或购买)的基本网页设计器 TechCrunch
+# TC50(DemoPit): SnapPages，一个苹果应该羡慕(或购买)的基本网页设计器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/12/tc50demopit-snappages-a-basic-webpage-designer-that-apple-should-envy-or-buy/>
 

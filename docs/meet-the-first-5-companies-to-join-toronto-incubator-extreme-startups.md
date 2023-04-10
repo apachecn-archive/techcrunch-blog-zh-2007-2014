@@ -1,4 +1,4 @@
-# 认识加入多伦多孵化器极限创业公司的前 5 家公司 TechCrunch
+# 认识加入多伦多孵化器极限创业公司的前 5 家公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/meet-the-first-5-companies-to-join-toronto-incubator-extreme-startups/>
 

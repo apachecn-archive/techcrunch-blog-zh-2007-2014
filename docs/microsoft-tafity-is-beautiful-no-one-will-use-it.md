@@ -1,4 +1,4 @@
-# 微软 Tafiti 很美，但是会有人用吗？–TechCrunch
+# 微软 Tafiti 很美，但是会有人用吗？–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/microsoft-tafity-is-beautiful-no-one-will-use-it/>
 

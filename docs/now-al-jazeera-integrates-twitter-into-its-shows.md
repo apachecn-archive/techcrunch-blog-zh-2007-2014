@@ -1,4 +1,4 @@
-# 现在半岛电视台将 Twitter 整合到其节目中 TechCrunch
+# 现在半岛电视台将 Twitter 整合到其节目中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/02/now-al-jazeera-integrates-twitter-into-its-shows/>
 

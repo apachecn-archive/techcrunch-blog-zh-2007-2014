@@ -1,4 +1,4 @@
-# Twitter 发布扩展的推文，让你可以阅读新闻、查看图片和在线观看视频 TechCrunch
+# Twitter 发布扩展的推文，让你可以阅读新闻、查看图片和在线观看视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/13/twitter-expanded-tweets/>
 

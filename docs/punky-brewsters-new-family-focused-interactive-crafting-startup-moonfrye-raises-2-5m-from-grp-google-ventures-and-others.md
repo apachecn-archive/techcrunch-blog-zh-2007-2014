@@ -1,4 +1,4 @@
-# Punky Brewster 新成立的以家庭为中心的互动手工艺创业公司 Moonfrye 从 GRP、Google Ventures 和其他公司筹集了 250 万美元 TechCrunch
+# Punky Brewster 新成立的以家庭为中心的互动手工艺创业公司 Moonfrye 从 GRP、Google Ventures 和其他公司筹集了 250 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/25/punky-brewsters-new-family-focused-interactive-crafting-startup-moonfrye-raises-2-5m-from-grp-google-ventures-and-others/>
 

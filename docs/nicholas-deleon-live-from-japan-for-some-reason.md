@@ -1,4 +1,4 @@
-# Nicholas Deleon，出于某种原因在日本现场直播 TechCrunch
+# Nicholas Deleon，出于某种原因在日本现场直播 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/nicholas-deleon-live-from-japan-for-some-reason/>
 

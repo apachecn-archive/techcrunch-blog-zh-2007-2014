@@ -1,4 +1,4 @@
-# 扰乱北京的获胜者是...OrderWithMe！TechCrunch
+# 扰乱北京的获胜者是...OrderWithMe！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/and-the-disrupt-beijing-winner-is-orderwithme/>
 

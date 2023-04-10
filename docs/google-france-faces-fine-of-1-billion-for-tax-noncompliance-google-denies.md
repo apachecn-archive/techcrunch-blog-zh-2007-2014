@@ -1,4 +1,4 @@
-# 谷歌法国因税务违规面临 13 亿美元的罚款。谷歌否认了这一指控。TechCrunch
+# 谷歌法国因税务违规面临 13 亿美元的罚款。谷歌否认了这一指控。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/01/google-france-faces-fine-of-1-billion-for-tax-noncompliance-google-denies/>
 

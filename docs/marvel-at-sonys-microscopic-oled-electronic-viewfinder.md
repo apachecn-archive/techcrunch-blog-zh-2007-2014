@@ -1,4 +1,4 @@
-# 漫威在索尼显微镜下的有机发光二极管电子取景器 TechCrunch
+# 漫威在索尼显微镜下的有机发光二极管电子取景器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/marvel-at-sonys-microscopic-oled-electronic-viewfinder/>
 

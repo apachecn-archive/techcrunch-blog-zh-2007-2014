@@ -1,4 +1,4 @@
-# 保险业独立宣言(第二部分):释放健康 IT 创业公司 TechCrunch
+# 保险业独立宣言(第二部分):释放健康 IT 创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/04/declaration-insurance-independence-ii-unleash-health-startups/>
 

@@ -1,4 +1,4 @@
-# 脸书公布建议兴趣列表 TechCrunch
+# 脸书公布建议兴趣列表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/02/facebook-unveils-suggested-interests-list/>
 

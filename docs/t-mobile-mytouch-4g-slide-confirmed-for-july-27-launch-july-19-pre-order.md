@@ -1,4 +1,4 @@
-# T-Mobile myTouch 4G 滑盖已确认于 7 月 27 日发布，7 月 19 日预购 TechCrunch
+# T-Mobile myTouch 4G 滑盖已确认于 7 月 27 日发布，7 月 19 日预购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/t-mobile-mytouch-4g-slide-confirmed-for-july-27-launch-july-19-pre-order/>
 

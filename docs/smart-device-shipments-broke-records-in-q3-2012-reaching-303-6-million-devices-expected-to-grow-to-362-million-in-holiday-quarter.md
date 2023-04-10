@@ -1,4 +1,4 @@
-# 智能设备出货量在 2012 年第三季度打破纪录，达到 3.036 亿台；预计在假日季度增长至 3.62 亿 TechCrunch
+# 智能设备出货量在 2012 年第三季度打破纪录，达到 3.036 亿台；预计在假日季度增长至 3.62 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/10/smart-device-shipments-broke-records-in-q3-2012-reaching-303-6-million-devices-expected-to-grow-to-362-million-in-holiday-quarter/>
 

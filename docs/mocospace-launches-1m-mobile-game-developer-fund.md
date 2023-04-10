@@ -1,4 +1,4 @@
-# MocoSpace 推出 100 万美元手机游戏开发者基金 TechCrunch
+# MocoSpace 推出 100 万美元手机游戏开发者基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/23/mocospace-launches-1m-mobile-game-developer-fund/>
 

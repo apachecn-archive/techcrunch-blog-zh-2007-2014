@@ -1,4 +1,4 @@
-# 主要燃损:zunePhone 模仿嘲笑微软不稳定的软件，糟糕的设备设计，推迟发布——TechCrunch
+# 主要燃损:zunePhone 模仿嘲笑微软不稳定的软件，糟糕的设备设计，推迟发布——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/major-burnage-zunephone-parody-mocks-microsofts-unstable-software-poor-device-design-late-launches/>
 

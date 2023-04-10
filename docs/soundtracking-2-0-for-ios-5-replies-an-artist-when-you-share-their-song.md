@@ -1,4 +1,4 @@
-# iOS 5 的 SoundTracking 2.0 在您分享歌曲时会提到艺术家 TechCrunch
+# iOS 5 的 SoundTracking 2.0 在您分享歌曲时会提到艺术家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/soundtracking-2-0-for-ios-5-replies-an-artist-when-you-share-their-song/>
 

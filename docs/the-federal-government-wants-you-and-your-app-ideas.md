@@ -1,4 +1,4 @@
-# 联邦政府想要你！(和你的应用创意)TechCrunch
+# 联邦政府想要你！(和你的应用创意)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/the-federal-government-wants-you-and-your-app-ideas/>
 

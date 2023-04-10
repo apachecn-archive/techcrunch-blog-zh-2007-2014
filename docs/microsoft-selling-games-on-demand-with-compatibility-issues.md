@@ -1,4 +1,4 @@
-# 微软出售有兼容性问题的游戏 TechCrunch
+# 微软出售有兼容性问题的游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/24/microsoft-selling-games-on-demand-with-compatibility-issues/>
 

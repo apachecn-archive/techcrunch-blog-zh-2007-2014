@@ -1,4 +1,4 @@
-# Boss Micro BR BR-80 微型录音机将其所有仪器带上了公共汽车 TechCrunch
+# Boss Micro BR BR-80 微型录音机将其所有仪器带上了公共汽车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/22/boss-micro-br-br-80-micro-recorder-brings-all-its-instruments-on-the-bus/>
 

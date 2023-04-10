@@ -1,4 +1,4 @@
-# 如果技术摧毁工作的速度超过了创造工作的速度呢？TechCrunch
+# 如果技术摧毁工作的速度超过了创造工作的速度呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/12/what-if-this-is-the-future/>
 

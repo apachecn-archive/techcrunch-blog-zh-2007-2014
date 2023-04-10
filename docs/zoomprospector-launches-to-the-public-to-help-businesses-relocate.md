@@ -1,4 +1,4 @@
-# ZoomProspector 向公众发布，帮助企业重新定位 TechCrunch
+# ZoomProspector 向公众发布，帮助企业重新定位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/07/zoomprospector-launches-to-the-public-to-help-businesses-relocate/>
 

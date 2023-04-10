@@ -1,4 +1,4 @@
-# “踢罐子”的艺术——网络中立的不确定性法则 TechCrunch
+# “踢罐子”的艺术——网络中立的不确定性法则 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/23/net-neutrality-rules-uncertainty/>
 

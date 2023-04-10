@@ -1,4 +1,4 @@
-# Design my room——虚拟室内设计的非常有用的工具——TechCrunch
+# Design my room——虚拟室内设计的非常有用的工具——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/designmyroom-a-useful-tool-for-virtual-interior-design/>
 

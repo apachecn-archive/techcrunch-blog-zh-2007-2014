@@ -1,4 +1,4 @@
-# 如何运行实时用户测试，第 1 部分:设置 TechCrunch
+# 如何运行实时用户测试，第 1 部分:设置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/how-to-run-live-user-testing-part-1-setup/>
 

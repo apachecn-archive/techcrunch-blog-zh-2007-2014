@@ -1,4 +1,4 @@
-# Garmin 发布 Fit 应用程序，正好赶上节日盛宴 TechCrunch
+# Garmin 发布 Fit 应用程序，正好赶上节日盛宴 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/garmin-launches-fit-app-just-in-time-for-holiday-feasts/>
 

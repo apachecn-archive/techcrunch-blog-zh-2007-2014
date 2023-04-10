@@ -1,4 +1,4 @@
-# Peixe Urbano 创始人:“也许 Groupon 认为带着虚假交易来到巴西没问题”[视频 TechCrunch
+# Peixe Urbano 创始人:“也许 Groupon 认为带着虚假交易来到巴西没问题”[视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/29/peixe-urbano-founder-perhaps-groupon-thought-it-was-fine-to-arrive-in-brazil-with-fake-deals-video/>
 

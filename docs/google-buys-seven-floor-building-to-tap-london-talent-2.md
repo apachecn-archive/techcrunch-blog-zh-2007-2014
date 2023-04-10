@@ -1,4 +1,4 @@
-# 谷歌获得七层大楼以挖掘伦敦人才 TechCrunch
+# 谷歌获得七层大楼以挖掘伦敦人才 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/google-buys-seven-floor-building-to-tap-london-talent-2/>
 

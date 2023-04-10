@@ -1,4 +1,4 @@
-# 快速查看现场通讯器 TechCrunch
+# 快速查看现场通讯器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/05/quick-look-at-the-spot-communicator/>
 

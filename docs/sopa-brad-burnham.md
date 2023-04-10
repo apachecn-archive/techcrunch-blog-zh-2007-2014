@@ -1,4 +1,4 @@
-# Brad Burnham 解释为什么必须阻止 SOPA TechCrunch
+# Brad Burnham 解释为什么必须阻止 SOPA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/sopa-brad-burnham/>
 

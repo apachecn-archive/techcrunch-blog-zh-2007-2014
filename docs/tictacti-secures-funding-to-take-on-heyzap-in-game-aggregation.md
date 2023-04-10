@@ -1,4 +1,4 @@
-# Tictacti 获得资金在游戏聚合领域挑战 Heyzap TechCrunch
+# Tictacti 获得资金在游戏聚合领域挑战 Heyzap 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/tictacti-secures-funding-to-take-on-heyzap-in-game-aggregation/>
 

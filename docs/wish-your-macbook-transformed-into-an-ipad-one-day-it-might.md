@@ -1,4 +1,4 @@
-# 希望你的 MacBook 变成 iPad？有一天可能 TechCrunch
+# 希望你的 MacBook 变成 iPad？有一天可能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/wish-your-macbook-transformed-into-an-ipad-one-day-it-might/>
 

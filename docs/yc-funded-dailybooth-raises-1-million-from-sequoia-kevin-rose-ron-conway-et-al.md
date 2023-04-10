@@ -1,4 +1,4 @@
-# YC 资助的 DailyBooth 从红杉、凯文·罗斯、罗恩·康韦等人那里筹集了 100 万美元。TechCrunch
+# YC 资助的 DailyBooth 从红杉、凯文·罗斯、罗恩·康韦等人那里筹集了 100 万美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/19/yc-funded-dailybooth-raises-1-million-from-sequoia-kevin-rose-ron-conway-et-al/>
 

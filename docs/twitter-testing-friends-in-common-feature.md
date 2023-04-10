@@ -1,4 +1,4 @@
-# Twitter 测试用户“你们都关注”功能 TechCrunch
+# Twitter 测试用户“你们都关注”功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/02/twitter-testing-friends-in-common-feature/>
 

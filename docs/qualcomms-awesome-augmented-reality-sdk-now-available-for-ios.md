@@ -1,4 +1,4 @@
-# 高通令人敬畏的增强现实 SDK 现可用于 iOS TechCrunch
+# 高通令人敬畏的增强现实 SDK 现可用于 iOS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/qualcomms-awesome-augmented-reality-sdk-now-available-for-ios/>
 

@@ -1,4 +1,4 @@
-# 苹果的以旧换新计划变得更好了 TechCrunch
+# 苹果的以旧换新计划变得更好了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/apples-trade-in-program-just-got-so-much-better/>
 

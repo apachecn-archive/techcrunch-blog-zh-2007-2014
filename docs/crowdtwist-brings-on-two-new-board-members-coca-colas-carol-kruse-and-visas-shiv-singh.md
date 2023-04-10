@@ -1,4 +1,4 @@
-# CrowdTwist 带来了两名新的董事会成员，可口可乐的卡罗尔克鲁斯和 Visa 的希夫辛格 TechCrunch
+# CrowdTwist 带来了两名新的董事会成员，可口可乐的卡罗尔克鲁斯和 Visa 的希夫辛格 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/19/crowdtwist-brings-on-two-new-board-members-coca-colas-carol-kruse-and-visas-shiv-singh/>
 

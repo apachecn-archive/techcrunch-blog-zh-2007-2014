@@ -1,4 +1,4 @@
-# 风筝般的涡轮机在高空利用风力 TechCrunch
+# 风筝般的涡轮机在高空利用风力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/16/kite-like-turbines-harness-wind-power-at-altitude/>
 

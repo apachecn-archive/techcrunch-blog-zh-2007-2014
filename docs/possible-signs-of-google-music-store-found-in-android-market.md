@@ -1,4 +1,4 @@
-# Android Market 中发现谷歌音乐商店的可能迹象 TechCrunch
+# Android Market 中发现谷歌音乐商店的可能迹象 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/possible-signs-of-google-music-store-found-in-android-market/>
 

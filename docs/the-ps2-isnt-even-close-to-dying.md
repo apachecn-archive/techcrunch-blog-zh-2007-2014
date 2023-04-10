@@ -1,4 +1,4 @@
-# PS2 离死亡还很远 TechCrunch
+# PS2 离死亡还很远 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/the-ps2-isnt-even-close-to-dying/>
 

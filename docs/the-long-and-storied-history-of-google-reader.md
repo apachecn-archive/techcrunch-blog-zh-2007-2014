@@ -1,4 +1,4 @@
-# 谷歌阅读器的发展始于一次崩溃 TechCrunch
+# 谷歌阅读器的发展始于一次崩溃 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/23/the-long-and-storied-history-of-google-reader/>
 

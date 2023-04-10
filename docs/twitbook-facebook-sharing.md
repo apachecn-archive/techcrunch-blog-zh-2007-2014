@@ -1,4 +1,4 @@
-# 通往 TwitBook 之路:脸书的新分享功能是防御性的还是先发制人的？TechCrunch
+# 通往 TwitBook 之路:脸书的新分享功能是防御性的还是先发制人的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/twitbook-facebook-sharing/>
 

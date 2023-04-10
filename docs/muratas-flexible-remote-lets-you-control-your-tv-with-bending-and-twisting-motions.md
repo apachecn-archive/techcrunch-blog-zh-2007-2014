@@ -1,4 +1,4 @@
-# 村田的灵活遥控器让您可以通过弯曲和扭转动作来控制电视 TechCrunch
+# 村田的灵活遥控器让您可以通过弯曲和扭转动作来控制电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/muratas-flexible-remote-lets-you-control-your-tv-with-bending-and-twisting-motions/>
 

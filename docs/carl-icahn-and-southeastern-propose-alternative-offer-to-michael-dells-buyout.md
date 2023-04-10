@@ -1,4 +1,4 @@
-# 卡尔·伊坎和东南提出收购迈克尔·戴尔的替代方案 TechCrunch
+# 卡尔·伊坎和东南提出收购迈克尔·戴尔的替代方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/carl-icahn-and-southeastern-propose-alternative-offer-to-michael-dells-buyout/>
 

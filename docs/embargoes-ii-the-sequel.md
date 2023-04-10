@@ -1,4 +1,4 @@
-# 禁运 II -续集 TechCrunch
+# 禁运 II -续集 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/02/embargoes-ii-the-sequel/>
 

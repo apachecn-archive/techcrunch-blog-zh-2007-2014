@@ -1,4 +1,4 @@
-# 这不是你自以为了解的网络 TechCrunch
+# 这不是你自以为了解的网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/17/this-is-not-the-net-you-thought-you-knew/>
 

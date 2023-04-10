@@ -1,4 +1,4 @@
-# 脸书还要多久才能克隆出藤蔓？不，脸书应该发明 Vine TechCrunch
+# 脸书还要多久才能克隆出藤蔓？不，脸书应该发明 Vine 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/25/facebook-needs-its-crystal-ball-back/>
 

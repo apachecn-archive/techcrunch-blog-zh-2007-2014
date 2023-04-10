@@ -1,4 +1,4 @@
-# BitWine 脱离 Skype，寻求合作战略 TechCrunch
+# BitWine 脱离 Skype，寻求合作战略 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/03/bitwine-detaches-itself-from-skype-pursues-partnership-strategy/>
 

@@ -1,4 +1,4 @@
-# Gilt 走向全球；将闪存销售网站扩展到 90 多个国家 TechCrunch
+# Gilt 走向全球；将闪存销售网站扩展到 90 多个国家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/gilt-goes-global-expands-flash-sales-site-to-over-90-countries/>
 

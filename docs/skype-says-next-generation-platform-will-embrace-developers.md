@@ -1,4 +1,4 @@
-# Skype 称下一代平台将拥抱开发者 TechCrunch
+# Skype 称下一代平台将拥抱开发者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/13/skype-says-next-generation-platform-will-embrace-developers/>
 

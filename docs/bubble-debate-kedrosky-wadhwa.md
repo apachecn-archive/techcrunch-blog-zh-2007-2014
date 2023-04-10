@@ -1,4 +1,4 @@
-# 无休止的泡沫辩论:Kedrosky vs . wad hwa TechCrunch
+# 无休止的泡沫辩论:Kedrosky vs . wad hwa 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/bubble-debate-kedrosky-wadhwa/>
 

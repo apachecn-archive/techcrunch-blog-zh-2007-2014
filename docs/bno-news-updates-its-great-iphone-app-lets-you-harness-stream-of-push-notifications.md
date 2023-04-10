@@ -1,4 +1,4 @@
-# BNO News 更新其出色的 iPhone 应用程序，让您驾驭推送通知流 TechCrunch
+# BNO News 更新其出色的 iPhone 应用程序，让您驾驭推送通知流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/01/bno-news-updates-its-great-iphone-app-lets-you-harness-stream-of-push-notifications/>
 

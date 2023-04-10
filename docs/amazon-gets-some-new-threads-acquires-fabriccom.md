@@ -1,4 +1,4 @@
-# 亚马逊获得一些新线索，收购 Fabric.com TechCrunch
+# 亚马逊获得一些新线索，收购 Fabric.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/25/amazon-gets-some-new-threads-acquires-fabriccom/>
 

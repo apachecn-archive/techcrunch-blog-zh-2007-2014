@@ -1,4 +1,4 @@
-# 谷歌聘请硅谷科技博主路易斯·格雷担任 Google+布道者 TechCrunch
+# 谷歌聘请硅谷科技博主路易斯·格雷担任 Google+布道者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/18/google-hires-silicon-valley-tech-blogger-louis-gray-as-google-evangelist/>
 

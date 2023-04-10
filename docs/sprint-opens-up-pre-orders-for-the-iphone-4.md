@@ -1,4 +1,4 @@
-# Sprint 开放 iPhone 4 的预购 TechCrunch
+# Sprint 开放 iPhone 4 的预购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/sprint-opens-up-pre-orders-for-the-iphone-4/>
 

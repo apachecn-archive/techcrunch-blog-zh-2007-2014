@@ -1,4 +1,4 @@
-# NYT 现在是格雷女士在移动、专用移动编辑器上进入原生广告的第一步 TechCrunch
+# NYT 现在是格雷女士在移动、专用移动编辑器上进入原生广告的第一步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/new-nyt-now-app-marks-the-grey-ladys-first-step-into-native-ads-on-mobile-dedicated-mobile-editors/>
 

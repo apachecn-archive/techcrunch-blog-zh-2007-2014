@@ -1,4 +1,4 @@
-# Zed Shaw 抨击 Rails 社区 TechCrunch
+# Zed Shaw 抨击 Rails 社区 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/01/01/zed-shaw-puts-the-smack-down-on-the-rails-community/>
 

@@ -1,4 +1,4 @@
-# 美国电话电报公司推出诺基亚 6555 TechCrunch
+# 美国电话电报公司推出诺基亚 6555 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/12/att-unveils-nokia-6555/>
 

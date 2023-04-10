@@ -1,4 +1,4 @@
-# Lockbox 筹集了 250 万美元的种子资金来帮助加密您的内容 TechCrunch
+# Lockbox 筹集了 250 万美元的种子资金来帮助加密您的内容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/30/lockbox-raises-2-5-million-seed-round-to-help-encrypt-your-stuff/>
 

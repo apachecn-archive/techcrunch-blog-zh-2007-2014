@@ -1,4 +1,4 @@
-# “坐在附近”为保姆提供免费的广场阅读器，帮助他们找到工作 TechCrunch
+# “坐在附近”为保姆提供免费的广场阅读器，帮助他们找到工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/25/sittingaround-is-giving-babysitters-free-square-readers-helps-them-find-jobs/>
 

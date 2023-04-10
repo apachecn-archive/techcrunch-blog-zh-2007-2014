@@ -1,4 +1,4 @@
-# uTest 的 AppGrader 为移动应用评分，帮助开发人员消除 bug TechCrunch
+# uTest 的 AppGrader 为移动应用评分，帮助开发人员消除 bug 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/07/utests-appgrader-scores-mobile-apps-helps-developers-squash-bugs/>
 

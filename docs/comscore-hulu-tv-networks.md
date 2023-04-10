@@ -1,4 +1,4 @@
-# ComScore: Hulu 的收视率是 5 大在线电视网总和的两倍 TechCrunch
+# ComScore: Hulu 的收视率是 5 大在线电视网总和的两倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/comscore-hulu-tv-networks/>
 

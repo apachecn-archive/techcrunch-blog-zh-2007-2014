@@ -1,4 +1,4 @@
-# 邦·乔维利用 CrowdStar 的脸书游戏销售数字音乐 TechCrunch
+# 邦·乔维利用 CrowdStar 的脸书游戏销售数字音乐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/bon-jovi-uses-crowdstars-facebook-games-to-sell-digital-music/>
 

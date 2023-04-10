@@ -1,4 +1,4 @@
-# 随着湾区竞争加剧，优步降价 10%，并向所有旧金山推广 UberX TechCrunch
+# 随着湾区竞争加剧，优步降价 10%，并向所有旧金山推广 UberX 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/cheap-uber-in-sf/>
 

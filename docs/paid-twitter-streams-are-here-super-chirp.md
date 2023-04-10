@@ -1,4 +1,4 @@
-# 付费 Twitter 流在这里:超级唧唧 TechCrunch
+# 付费 Twitter 流在这里:超级唧唧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/07/paid-twitter-streams-are-here-super-chirp/>
 

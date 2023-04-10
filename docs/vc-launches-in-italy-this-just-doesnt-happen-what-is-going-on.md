@@ -1,4 +1,4 @@
-# 风险投资在意大利启动——这是不可能的。这是怎么回事？TechCrunch
+# 风险投资在意大利启动——这是不可能的。这是怎么回事？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/12/vc-launches-in-italy-this-just-doesnt-happen-what-is-going-on/>
 

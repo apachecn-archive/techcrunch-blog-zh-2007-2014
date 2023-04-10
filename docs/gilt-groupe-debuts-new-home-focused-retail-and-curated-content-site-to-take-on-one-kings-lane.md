@@ -1,4 +1,4 @@
-# Gilt Groupe 首次推出新的以家庭为重点的零售和策划内容网站，进军 One Kings Lane TechCrunch
+# Gilt Groupe 首次推出新的以家庭为重点的零售和策划内容网站，进军 One Kings Lane 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/gilt-groupe-debuts-new-home-focused-retail-and-curated-content-site-to-take-on-one-kings-lane/>
 

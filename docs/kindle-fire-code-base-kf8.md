@@ -1,4 +1,4 @@
-# Kindle Fire 代码库让开发者困惑:Android，KF8，还是两者都有？TechCrunch
+# Kindle Fire 代码库让开发者困惑:Android，KF8，还是两者都有？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/kindle-fire-code-base-kf8/>
 

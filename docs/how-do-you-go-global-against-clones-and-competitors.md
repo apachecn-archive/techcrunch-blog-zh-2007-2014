@@ -1,4 +1,4 @@
-# 你如何在全球范围内对抗克隆人和竞争对手？TechCrunch
+# 你如何在全球范围内对抗克隆人和竞争对手？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/29/how-do-you-go-global-against-clones-and-competitors/>
 

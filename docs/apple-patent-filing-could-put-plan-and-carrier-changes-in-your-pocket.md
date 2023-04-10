@@ -1,4 +1,4 @@
-# 苹果专利申请可能会让计划和运营商发生变化 TechCrunch
+# 苹果专利申请可能会让计划和运营商发生变化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/apple-patent-filing-could-put-plan-and-carrier-changes-in-your-pocket/>
 

@@ -1,4 +1,4 @@
-# Foodzy 将健康饮食变成游戏，推出 iOS 和 Android 应用 TechCrunch
+# Foodzy 将健康饮食变成游戏，推出 iOS 和 Android 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/foodzy-turns-healthy-eating-into-a-game-launches-ios-and-android-apps/>
 

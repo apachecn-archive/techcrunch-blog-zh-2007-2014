@@ -1,4 +1,4 @@
-# 防水纳米手表概念将保持您的纳米高和干燥 TechCrunch
+# 防水纳米手表概念将保持您的纳米高和干燥 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/waterproof-nano-watch-concept-will-keep-your-nano-high-and-dry/>
 

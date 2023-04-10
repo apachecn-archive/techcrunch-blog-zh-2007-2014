@@ -1,4 +1,4 @@
-# PeopleRank: Quora 正在开发一种算法来确定用户质量并进行排名 TechCrunch
+# PeopleRank: Quora 正在开发一种算法来确定用户质量并进行排名 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/peoplerank-quora-is-developing-an-algorithm-to-determine-and-rank-user-quality/>
 

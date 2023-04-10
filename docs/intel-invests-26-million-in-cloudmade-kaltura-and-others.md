@@ -1,4 +1,4 @@
-# 英特尔向 CloudMade、Kaltura 等公司投资 2600 万美元 TechCrunch
+# 英特尔向 CloudMade、Kaltura 等公司投资 2600 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/intel-invests-26-million-in-cloudmade-kaltura-and-others/>
 

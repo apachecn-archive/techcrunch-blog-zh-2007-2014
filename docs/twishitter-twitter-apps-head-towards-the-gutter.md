@@ -1,4 +1,4 @@
-# Twishitter: Twitter 应用走向阴沟 TechCrunch
+# Twishitter: Twitter 应用走向阴沟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/05/twishitter-twitter-apps-head-towards-the-gutter/>
 

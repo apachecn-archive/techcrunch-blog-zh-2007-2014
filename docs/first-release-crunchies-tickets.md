@@ -1,4 +1,4 @@
-# 嘎吱嘎吱奖门票首次发行。尽你所能抓住他们。TechCrunch
+# 嘎吱嘎吱奖门票首次发行。尽你所能抓住他们。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/15/first-release-crunchies-tickets/>
 

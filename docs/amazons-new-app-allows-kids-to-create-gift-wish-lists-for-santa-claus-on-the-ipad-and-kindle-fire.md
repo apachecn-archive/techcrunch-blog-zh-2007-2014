@@ -1,4 +1,4 @@
-# 亚马逊的新应用允许孩子们在 iPad 和 Kindle Fire 上为圣诞老人创建礼物清单 TechCrunch
+# 亚马逊的新应用允许孩子们在 iPad 和 Kindle Fire 上为圣诞老人创建礼物清单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/amazons-new-app-allows-kids-to-create-gift-wish-lists-for-santa-claus-on-the-ipad-and-kindle-fire/>
 

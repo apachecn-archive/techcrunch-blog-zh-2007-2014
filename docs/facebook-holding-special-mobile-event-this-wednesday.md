@@ -1,4 +1,4 @@
-# 脸书本周三举办特别移动活动 TechCrunch
+# 脸书本周三举办特别移动活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/29/facebook-holding-special-mobile-event-this-wednesday/>
 

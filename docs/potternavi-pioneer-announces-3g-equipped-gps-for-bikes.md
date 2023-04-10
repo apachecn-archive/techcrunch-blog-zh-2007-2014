@@ -1,4 +1,4 @@
-# Potternavi:先锋宣布为自行车配备 3G GPS TechCrunch
+# Potternavi:先锋宣布为自行车配备 3G GPS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/potternavi-pioneer-announces-3g-equipped-gps-for-bikes/>
 

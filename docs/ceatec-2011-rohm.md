@@ -1,4 +1,4 @@
-# CEATEC 2011:罗门推出世界上最小的电阻 TechCrunch
+# CEATEC 2011:罗门推出世界上最小的电阻 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/ceatec-2011-rohm/>
 

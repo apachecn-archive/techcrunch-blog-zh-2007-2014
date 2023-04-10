@@ -1,4 +1,4 @@
-# 消息应用 Line 现在每季度带来近 1 亿美元的收入，但没有关于 IPO 的官方消息 TechCrunch
+# 消息应用 Line 现在每季度带来近 1 亿美元的收入，但没有关于 IPO 的官方消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/11/messaging-app-line/>
 

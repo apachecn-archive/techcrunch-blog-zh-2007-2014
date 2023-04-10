@@ -1,4 +1,4 @@
-# 诺基亚首席执行官认为 Windows 8 带来“更广阔的机会”,暗示平板电脑 TechCrunch
+# 诺基亚首席执行官认为 Windows 8 带来“更广阔的机会”,暗示平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/nokia-ceo-sees-broader-opportunity-with-windows-8-hints-at-tablets/>
 

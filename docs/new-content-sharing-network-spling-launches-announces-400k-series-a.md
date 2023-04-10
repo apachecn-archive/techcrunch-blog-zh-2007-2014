@@ -1,4 +1,4 @@
-# 推出新的内容共享网络 Spling，宣布 40 万美元的 A 轮 TechCrunch
+# 推出新的内容共享网络 Spling，宣布 40 万美元的 A 轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/new-content-sharing-network-spling-launches-announces-400k-series-a/>
 

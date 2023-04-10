@@ -1,4 +1,4 @@
-# 通过直接向 Twitter 发送消息来抵制垃圾邮件 TechCrunch
+# 通过直接向 Twitter 发送消息来抵制垃圾邮件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/10/06/fight-spam-with-a-direct-message-to-twitter/>
 

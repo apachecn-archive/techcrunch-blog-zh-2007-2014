@@ -1,4 +1,4 @@
-# LogMeIn 以 1650 万美元收购网络聊天公司 Bold Software TechCrunch
+# LogMeIn 以 1650 万美元收购网络聊天公司 Bold Software 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/logmein-acquires-web-chat-company-bold-software-for-16-5-m/>
 

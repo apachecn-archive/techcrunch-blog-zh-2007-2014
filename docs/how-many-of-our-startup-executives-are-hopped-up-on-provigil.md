@@ -1,4 +1,4 @@
-# 有多少硅谷初创公司的高管在 Provigil 上嗑药？TechCrunch
+# 有多少硅谷初创公司的高管在 Provigil 上嗑药？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/15/how-many-of-our-startup-executives-are-hopped-up-on-provigil/>
 

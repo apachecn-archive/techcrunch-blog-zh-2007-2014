@@ -1,4 +1,4 @@
-# Groupon 通过其“保留”餐厅预订和餐饮折扣轴心游戏实现移动化 TechCrunch
+# Groupon 通过其“保留”餐厅预订和餐饮折扣轴心游戏实现移动化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/groupon-goes-mobile-with-its-reserve-restaurant-reservation-and-meal-discount-pivot-play/>
 

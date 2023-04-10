@@ -1,4 +1,4 @@
-# Shortmail 获得 iPhone 应用 TechCrunch
+# Shortmail 获得 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/shortmail-gets-an-iphone-app/>
 

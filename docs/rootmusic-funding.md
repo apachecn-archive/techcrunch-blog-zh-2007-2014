@@ -1,4 +1,4 @@
-# RootMusic 筹集 230 万美元帮助乐队建立壮观的脸书网页 TechCrunch
+# RootMusic 筹集 230 万美元帮助乐队建立壮观的脸书网页 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/rootmusic-funding/>
 

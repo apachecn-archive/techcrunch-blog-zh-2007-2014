@@ -1,4 +1,4 @@
-# Linux 的现状——苹果如何开源 TechCrunch
+# Linux 的现状——苹果如何开源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/29/the-state-of-linux-how-even-apple-is-going-open-source/>
 

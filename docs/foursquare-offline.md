@@ -1,4 +1,4 @@
-# Foursquare 也变暗了。无意中。TechCrunch
+# Foursquare 也变暗了。无意中。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/27/foursquare-offline/>
 

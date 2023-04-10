@@ -1,4 +1,4 @@
-# 平板电脑的苦难:OGT 对其命运多舛的 Android 平板电脑进行了评估 TechCrunch
+# 平板电脑的苦难:OGT 对其命运多舛的 Android 平板电脑进行了评估 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/07/13/tablet-tribulations-ogt-weighs-in-on-their-ill-fated-android-slate/>
 

@@ -1,4 +1,4 @@
-# Groupon 与腾讯 Spars 合资企业没有激发当地的信心 TechCrunch
+# Groupon 与腾讯 Spars 合资企业没有激发当地的信心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/16/groupon-spars-with-tencent-joint-venture-isnt-inspiring-local-confidence/>
 

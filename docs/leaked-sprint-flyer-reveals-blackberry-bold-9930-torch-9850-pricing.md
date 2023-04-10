@@ -1,4 +1,4 @@
-# 泄露的 Sprint 传单揭示了黑莓 Bold 9930、Torch 9850 的定价 TechCrunch
+# 泄露的 Sprint 传单揭示了黑莓 Bold 9930、Torch 9850 的定价 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/leaked-sprint-flyer-reveals-blackberry-bold-9930-torch-9850-pricing/>
 

@@ -1,4 +1,4 @@
-# Demand Media 收购直播博客工具 covitlive TechCrunch
+# Demand Media 收购直播博客工具 covitlive 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/03/demand-media-buys-liveblogging-tool-coveritlive/>
 

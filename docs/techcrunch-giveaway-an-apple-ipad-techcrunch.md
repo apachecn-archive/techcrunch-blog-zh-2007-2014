@@ -1,8 +1,8 @@
-# TechCrunch 赠品:苹果 iPad #TechCrunch
+# TechCrunch 赠品:苹果 iPad #
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/techcrunch-giveaway-an-apple-ipad-techcrunch/>
 
-# TechCrunch 赠品:苹果 iPad #TechCrunch
+# TechCrunch 赠品:苹果 iPad #
 
 在之前，我们已经[送走了一个，现在我们再次这样做。](https://web.archive.org/web/20230202234957/https://techcrunch.com/2010/03/12/techcrunch-friday-giveaway-an-apple-ipad-crunch/)
 

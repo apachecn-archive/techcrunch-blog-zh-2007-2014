@@ -1,4 +1,4 @@
-# 诺基亚与意法爱立信达成 Windows 手机供应商协议 TechCrunch
+# 诺基亚与意法爱立信达成 Windows 手机供应商协议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/nokia-strikes-supplier-deal-with-st-ericsson-for-windows-powered-handsets/>
 

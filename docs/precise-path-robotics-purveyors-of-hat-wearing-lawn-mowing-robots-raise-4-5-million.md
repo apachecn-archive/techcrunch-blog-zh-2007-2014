@@ -1,4 +1,4 @@
-# 戴帽子的割草机器人供应商 Precise Path Robotics 融资 450 万美元 TechCrunch
+# 戴帽子的割草机器人供应商 Precise Path Robotics 融资 450 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/16/precise-path-robotics-purveyors-of-hat-wearing-lawn-mowing-robots-raise-4-5-million/>
 

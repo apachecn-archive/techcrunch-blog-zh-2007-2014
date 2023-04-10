@@ -1,4 +1,4 @@
-# 谷歌的无限书柜:无限图书馆的抽象浏览器 TechCrunch
+# 谷歌的无限书柜:无限图书馆的抽象浏览器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/googles-infinite-bookcase-an-abstract-browser-for-limitless-libraries/>
 

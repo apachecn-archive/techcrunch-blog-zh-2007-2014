@@ -1,4 +1,4 @@
-# 在 2.0 版本中，Instagram 专注于重新设计相机 TechCrunch
+# 在 2.0 版本中，Instagram 专注于重新设计相机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/instagram-version-2/>
 

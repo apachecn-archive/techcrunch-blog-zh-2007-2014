@@ -1,4 +1,4 @@
-# 在线广告衰退正式来临:收入首次出现季度下滑 TechCrunch
+# 在线广告衰退正式来临:收入首次出现季度下滑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/01/the-online-ad-recession-is-officially-here-first-quarterly-decline-in-revenues/>
 

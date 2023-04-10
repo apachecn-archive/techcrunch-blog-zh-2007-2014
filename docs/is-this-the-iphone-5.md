@@ -1,4 +1,4 @@
-# 这是 iPhone 5 吗？TechCrunch
+# 这是 iPhone 5 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/is-this-the-iphone-5/>
 

@@ -1,4 +1,4 @@
-# SEC 观察:社交媒体仪表板 HootSuite 融资 300 万美元 TechCrunch
+# SEC 观察:社交媒体仪表板 HootSuite 融资 300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/15/sec-watch-social-media-dashboard-hootsuite-raises-3-million/>
 

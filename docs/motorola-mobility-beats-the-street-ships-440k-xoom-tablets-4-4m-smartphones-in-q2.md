@@ -1,4 +1,4 @@
-# 摩托罗拉的移动性胜过街头，在 Q2 售出 44 万台 Xoom 平板电脑和 440 万部智能手机 TechCrunch
+# 摩托罗拉的移动性胜过街头，在 Q2 售出 44 万台 Xoom 平板电脑和 440 万部智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/motorola-mobility-beats-the-street-ships-440k-xoom-tablets-4-4m-smartphones-in-q2/>
 

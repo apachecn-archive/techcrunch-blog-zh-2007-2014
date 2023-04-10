@@ -1,4 +1,4 @@
-# Thermaltake BlacX 5G 是一款 USB 3.0 硬盘扩展坞 TechCrunch
+# Thermaltake BlacX 5G 是一款 USB 3.0 硬盘扩展坞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/28/thermaltake-blacx-5g-is-a-usb-3-0-hdd-docking-station/>
 

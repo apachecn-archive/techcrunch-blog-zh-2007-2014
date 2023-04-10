@@ -1,4 +1,4 @@
-# EA 想要挑战 Zynga，但这仅仅意味着“更加疯狂”吗？TechCrunch
+# EA 想要挑战 Zynga，但这仅仅意味着“更加疯狂”吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/29/ea-wants-to-take-on-zynga-but-does-this-just-mean-more-madden/>
 

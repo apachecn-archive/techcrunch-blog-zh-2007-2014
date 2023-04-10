@@ -1,4 +1,4 @@
-# NBC 从 iTunes 上撤下节目回家 TechCrunch
+# NBC 从 iTunes 上撤下节目回家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/03/nbc-takes-its-shows-off-itunes-and-goes-home/>
 

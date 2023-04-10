@@ -1,4 +1,4 @@
-# 索尼用新屏幕和机身刷新阅读器家族 TechCrunch
+# 索尼用新屏幕和机身刷新阅读器家族 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/sony-refreshes-reader-family-with-new-screens-and-bodies/>
 

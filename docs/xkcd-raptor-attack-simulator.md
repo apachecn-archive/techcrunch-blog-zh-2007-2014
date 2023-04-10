@@ -1,4 +1,4 @@
-# XKCD 猛禽攻击模拟器 TechCrunch
+# XKCD 猛禽攻击模拟器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/26/xkcd-raptor-attack-simulator/>
 

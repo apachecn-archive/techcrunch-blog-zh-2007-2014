@@ -1,4 +1,4 @@
-# ZML 是电影的 Allofmp3.com TechCrunch
+# ZML 是电影的 Allofmp3.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/19/zml-is-allofmp3com-for-movies/>
 

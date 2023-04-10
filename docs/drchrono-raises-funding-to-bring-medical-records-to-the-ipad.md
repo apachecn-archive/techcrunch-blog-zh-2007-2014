@@ -1,4 +1,4 @@
-# Drchrono 筹集资金将医疗记录引入 iPad TechCrunch
+# Drchrono 筹集资金将医疗记录引入 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/drchrono-raises-funding-to-bring-medical-records-to-the-ipad/>
 

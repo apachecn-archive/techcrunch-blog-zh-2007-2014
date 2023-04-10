@@ -1,4 +1,4 @@
-# 谷歌推出 iPhone 和 iPod Touch 专用 YouTube 视频摄像头应用 TechCrunch
+# 谷歌推出 iPhone 和 iPod Touch 专用 YouTube 视频摄像头应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/google-launches-dedicated-youtube-video-camera-app-for-iphone-and-ipad-touch/>
 

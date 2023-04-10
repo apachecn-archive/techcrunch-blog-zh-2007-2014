@@ -1,4 +1,4 @@
-# 推特的结局:首次公开募股、象棋还是轮盘赌？TechCrunch
+# 推特的结局:首次公开募股、象棋还是轮盘赌？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/09/twitter-endgame-ipo-chess-roulette/>
 

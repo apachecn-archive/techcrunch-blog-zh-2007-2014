@@ -1,4 +1,4 @@
-# Twitter 因实时活动流而活跃起来 TechCrunch
+# Twitter 因实时活动流而活跃起来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/10/twitter-activity-streams/>
 

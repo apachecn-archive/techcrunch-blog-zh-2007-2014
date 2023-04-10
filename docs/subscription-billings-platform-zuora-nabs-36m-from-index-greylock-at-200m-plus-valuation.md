@@ -1,4 +1,4 @@
-# 订阅计费平台 Zuora 从 Index 获得 3600 万美元，Greylock 估值超过 3 亿美元 TechCrunch
+# 订阅计费平台 Zuora 从 Index 获得 3600 万美元，Greylock 估值超过 3 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/subscription-billings-platform-zuora-nabs-36m-from-index-greylock-at-200m-plus-valuation/>
 

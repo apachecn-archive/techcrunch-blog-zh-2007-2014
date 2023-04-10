@@ -1,4 +1,4 @@
-# 披萨的英国文本–TechCrunch
+# 披萨的英国文本–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/british-text-for-pizza/>
 

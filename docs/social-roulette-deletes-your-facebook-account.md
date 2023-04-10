@@ -1,4 +1,4 @@
-# 脸书杀死社交轮盘赌，这款应用有 1/6 的几率删除你的脸书账户 TechCrunch
+# 脸书杀死社交轮盘赌，这款应用有 1/6 的几率删除你的脸书账户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/13/social-roulette-deletes-your-facebook-account/>
 

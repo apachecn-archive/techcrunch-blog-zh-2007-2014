@@ -1,4 +1,4 @@
-# Lytro 扩大零售业务，将于下月在亚马逊、塔吉特百货和百思买推出 TechCrunch
+# Lytro 扩大零售业务，将于下月在亚马逊、塔吉特百货和百思买推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/lytro-expands-retail-presence-to-be-available-next-month-from-amazon-target-and-best-buy/>
 

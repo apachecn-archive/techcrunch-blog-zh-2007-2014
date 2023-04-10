@@ -1,4 +1,4 @@
-# 亚马逊市值突破 1000 亿美元 TechCrunch
+# 亚马逊市值突破 1000 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/amazons-market-cap-passes-100-billion/>
 

@@ -1,4 +1,4 @@
-# Dropbox 正在研究超越文件夹的方法 TechCrunch
+# Dropbox 正在研究超越文件夹的方法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/dropbox-is-working-on-ways-to-move-beyond-file-folders/>
 

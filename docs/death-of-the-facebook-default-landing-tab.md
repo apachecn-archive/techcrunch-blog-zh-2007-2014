@@ -1,4 +1,4 @@
-# 脸书时间表页面扼杀营销功能:默认登录标签 TechCrunch
+# 脸书时间表页面扼杀营销功能:默认登录标签 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/29/death-of-the-facebook-default-landing-tab/>
 

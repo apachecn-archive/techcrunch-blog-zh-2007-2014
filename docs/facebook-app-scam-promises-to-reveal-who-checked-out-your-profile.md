@@ -1,4 +1,4 @@
-# 脸书应用程序骗局承诺揭露谁查看了你的个人资料 TechCrunch
+# 脸书应用程序骗局承诺揭露谁查看了你的个人资料 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/29/facebook-app-scam-promises-to-reveal-who-checked-out-your-profile/>
 

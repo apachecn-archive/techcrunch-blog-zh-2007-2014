@@ -1,4 +1,4 @@
-# ParStream 从 Khosla Ventures 获得 800 万美元用于数据分析平台 TechCrunch
+# ParStream 从 Khosla Ventures 获得 800 万美元用于数据分析平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/17/parstream-raises-8m-from-khosla-ventures-for-data-analytics-platform/>
 

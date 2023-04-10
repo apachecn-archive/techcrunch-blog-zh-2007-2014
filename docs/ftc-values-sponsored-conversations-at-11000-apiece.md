@@ -1,4 +1,4 @@
-# 联邦贸易委员会对赞助对话的估价是每人 11，000 美元。TechCrunch
+# 联邦贸易委员会对赞助对话的估价是每人 11，000 美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/05/ftc-values-sponsored-conversations-at-11000-apiece/>
 

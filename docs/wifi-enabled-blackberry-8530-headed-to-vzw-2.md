@@ -1,4 +1,4 @@
-# 支持 WiFi 的黑莓 8530 前往 VZW TechCrunch
+# 支持 WiFi 的黑莓 8530 前往 VZW 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/wifi-enabled-blackberry-8530-headed-to-vzw-2/>
 

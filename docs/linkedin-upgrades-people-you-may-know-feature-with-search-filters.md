@@ -1,4 +1,4 @@
-# LinkedIn 通过搜索过滤器升级“你可能认识的人”功能 TechCrunch
+# LinkedIn 通过搜索过滤器升级“你可能认识的人”功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/12/linkedin-upgrades-people-you-may-know-feature-with-search-filters/>
 

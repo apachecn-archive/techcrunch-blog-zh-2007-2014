@@ -1,4 +1,4 @@
-# 对企业软件未来的 3 个预测 TechCrunch
+# 对企业软件未来的 3 个预测 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/10/3-predictions-future-of-enterprise-software/>
 

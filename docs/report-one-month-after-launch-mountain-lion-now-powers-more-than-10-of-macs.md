@@ -1,4 +1,4 @@
-# 报告:推出一个月后，Mountain Lion 现在为超过 10%的 MAC 电脑提供支持 TechCrunch
+# 报告:推出一个月后，Mountain Lion 现在为超过 10%的 MAC 电脑提供支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/30/report-one-month-after-launch-mountain-lion-now-powers-more-than-10-of-macs/>
 

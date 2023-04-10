@@ -1,4 +1,4 @@
-# 这台疯狂的机器“成长”了电子产品 TechCrunch
+# 这台疯狂的机器“成长”了电子产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/this-wild-machine-grows-electronics/>
 

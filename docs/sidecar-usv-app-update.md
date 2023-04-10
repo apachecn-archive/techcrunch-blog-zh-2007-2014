@@ -1,4 +1,4 @@
-# 从 USV 融资 1000 万美元后，SideCar 转向提供拼车市场 TechCrunch
+# 从 USV 融资 1000 万美元后，SideCar 转向提供拼车市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/sidecar-usv-app-update/>
 

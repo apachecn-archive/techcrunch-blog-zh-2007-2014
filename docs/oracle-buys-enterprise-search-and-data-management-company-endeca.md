@@ -1,4 +1,4 @@
-# 甲骨文收购企业搜索和数据管理公司 Endeca TechCrunch
+# 甲骨文收购企业搜索和数据管理公司 Endeca 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/oracle-buys-enterprise-search-and-data-management-company-endeca/>
 

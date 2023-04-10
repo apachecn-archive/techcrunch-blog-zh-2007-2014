@@ -1,4 +1,4 @@
-# Raspberry Pi 相机模块现已上市，售价 25 美元，关注 Pi 硬件黑客项目 TechCrunch
+# Raspberry Pi 相机模块现已上市，售价 25 美元，关注 Pi 硬件黑客项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/15/pi-camera-on-sale/>
 

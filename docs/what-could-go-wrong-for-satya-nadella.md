@@ -1,4 +1,4 @@
-# 塞特亚·纳德拉会出什么问题？TechCrunch
+# 塞特亚·纳德拉会出什么问题？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/04/what-could-go-wrong-for-satya-nadella/>
 

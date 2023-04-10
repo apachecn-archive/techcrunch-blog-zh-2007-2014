@@ -1,4 +1,4 @@
-# Seedcamp 扩展；为€增加 200 万资金，与 500 家初创公司合作，AngelList TechCrunch
+# Seedcamp 扩展；为€增加 200 万资金，与 500 家初创公司合作，AngelList 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/seedcamp-expands-adds-e2-million-to-its-coffers-partners-with-500-startups-angellist/>
 

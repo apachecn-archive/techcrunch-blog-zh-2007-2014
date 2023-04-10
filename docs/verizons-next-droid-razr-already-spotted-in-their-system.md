@@ -1,4 +1,4 @@
-# 威瑞森的下一个机器人 RAZR 已经在他们的系统中发现了 TechCrunch
+# 威瑞森的下一个机器人 RAZR 已经在他们的系统中发现了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/17/verizons-next-droid-razr-already-spotted-in-their-system/>
 

@@ -1,4 +1,4 @@
-# 微软向 Ciao 问好，收购欧洲购物网站 TechCrunch
+# 微软向 Ciao 问好，收购欧洲购物网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/29/microsoft-says-hello-to-ciao-buys-european-shopping-site/>
 

@@ -1,4 +1,4 @@
-# Party Earth 斥资 400 万美元购买个性化城市指南 TechCrunch
+# Party Earth 斥资 400 万美元购买个性化城市指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/party-earth-lands-4-million-for-personalized-city-guides/>
 

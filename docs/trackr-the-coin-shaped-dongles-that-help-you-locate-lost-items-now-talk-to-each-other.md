@@ -1,4 +1,4 @@
-# TrackR 是一种硬币形状的加密狗，可以帮助你找到丢失的物品，现在它们可以互相交谈了 TechCrunch
+# TrackR 是一种硬币形状的加密狗，可以帮助你找到丢失的物品，现在它们可以互相交谈了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/10/trackr-the-coin-shaped-dongles-that-help-you-locate-lost-items-now-talk-to-each-other/>
 

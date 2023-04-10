@@ -1,4 +1,4 @@
-# 网飞淘汰了重新设计的 Android 平板电脑应用程序，新的 iPad 版本将在几周内上市 TechCrunch
+# 网飞淘汰了重新设计的 Android 平板电脑应用程序，新的 iPad 版本将在几周内上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/netflix-releases-redesigned-android-tablet-app-ipad-version-hitting-in-a-few-weeks/>
 

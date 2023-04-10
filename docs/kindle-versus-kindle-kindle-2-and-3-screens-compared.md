@@ -1,4 +1,4 @@
-# Kindle 与 Kindle: Kindle 2 和 3 屏幕对比 TechCrunch
+# Kindle 与 Kindle: Kindle 2 和 3 屏幕对比 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/kindle-versus-kindle-kindle-2-and-3-screens-compared/>
 

@@ -1,4 +1,4 @@
-# 个性化购物创业公司狩猎增加提拉·班克斯为投资者 TechCrunch
+# 个性化购物创业公司狩猎增加提拉·班克斯为投资者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/15/tyra-banks-invests-the-hunt/>
 

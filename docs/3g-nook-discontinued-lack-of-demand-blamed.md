@@ -1,4 +1,4 @@
-# 3G Nook 停产，归咎于需求不足 TechCrunch
+# 3G Nook 停产，归咎于需求不足 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/24/3g-nook-discontinued-lack-of-demand-blamed/>
 

@@ -1,4 +1,4 @@
-# 在线健身初创公司 Wello 从凯鹏华盈(Kleiner Perkins)和其他公司筹集了 100 万美元，用于提供视频直播培训课程 TechCrunch
+# 在线健身初创公司 Wello 从凯鹏华盈(Kleiner Perkins)和其他公司筹集了 100 万美元，用于提供视频直播培训课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/29/wello-1m-funding/>
 

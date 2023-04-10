@@ -1,4 +1,4 @@
-# 三星要让 Bada OS 开源并成为你智能电视的一部分？TechCrunch
+# 三星要让 Bada OS 开源并成为你智能电视的一部分？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/samsung-to-make-bada-os-open-source-and-part-of-your-smart-tv/>
 

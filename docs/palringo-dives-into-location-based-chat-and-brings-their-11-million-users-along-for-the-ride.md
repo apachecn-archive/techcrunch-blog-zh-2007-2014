@@ -1,4 +1,4 @@
-# Palringo 投身于基于位置的聊天，并带着他们的 1100 万用户一起上路 TechCrunch
+# Palringo 投身于基于位置的聊天，并带着他们的 1100 万用户一起上路 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/palringo-dives-into-location-based-chat-and-brings-their-11-million-users-along-for-the-ride/>
 

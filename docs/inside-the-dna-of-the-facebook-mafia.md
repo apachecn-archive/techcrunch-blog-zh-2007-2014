@@ -1,4 +1,4 @@
-# 脸书黑手党的 DNA 内部 TechCrunch
+# 脸书黑手党的 DNA 内部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/13/inside-the-dna-of-the-facebook-mafia/>
 

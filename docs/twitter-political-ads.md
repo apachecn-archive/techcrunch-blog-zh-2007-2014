@@ -1,4 +1,4 @@
-# 此推文已获批准...政治广告冲击 Twitter TechCrunch
+# 此推文已获批准...政治广告冲击 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/twitter-political-ads/>
 

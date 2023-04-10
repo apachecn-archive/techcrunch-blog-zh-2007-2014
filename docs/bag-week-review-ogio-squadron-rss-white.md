@@ -1,4 +1,4 @@
-# 包包周回顾:奥吉欧中队 RSS TechCrunch
+# 包包周回顾:奥吉欧中队 RSS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/bag-week-review-ogio-squadron-rss-white/>
 

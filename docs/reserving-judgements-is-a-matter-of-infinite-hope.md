@@ -1,4 +1,4 @@
-# 硅谷细微差异的自恋 TechCrunch
+# 硅谷细微差异的自恋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/07/reserving-judgements-is-a-matter-of-infinite-hope/>
 

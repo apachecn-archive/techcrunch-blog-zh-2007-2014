@@ -1,4 +1,4 @@
-# 当其他电子吸烟者在附近时，Blu Cigs 智能包会提醒您 TechCrunch
+# 当其他电子吸烟者在附近时，Blu Cigs 智能包会提醒您 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/blu-cigs-smart-pack-alerts-you-when-other-e-smokers-are-nearby/>
 

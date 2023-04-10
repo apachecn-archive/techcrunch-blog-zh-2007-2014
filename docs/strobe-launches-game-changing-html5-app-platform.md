@@ -1,4 +1,4 @@
-# Strobe 推出改变游戏规则的 HTML5 应用平台 TechCrunch
+# Strobe 推出改变游戏规则的 HTML5 应用平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/01/strobe-launches-game-changing-html5-app-platform/>
 

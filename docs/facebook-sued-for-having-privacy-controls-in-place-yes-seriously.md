@@ -1,4 +1,4 @@
-# 脸书起诉有隐私控制到位。是的，说真的。TechCrunch
+# 脸书起诉有隐私控制到位。是的，说真的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/30/facebook-sued-for-having-privacy-controls-in-place-yes-seriously/>
 

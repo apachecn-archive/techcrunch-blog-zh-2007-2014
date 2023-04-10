@@ -1,4 +1,4 @@
-# 到 2019 年，FCC 将加强所有使用 E911 的运营商的定位精度要求 TechCrunch
+# 到 2019 年，FCC 将加强所有使用 E911 的运营商的定位精度要求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/fcc-wants-gps-in-every-phone-by-2018/>
 

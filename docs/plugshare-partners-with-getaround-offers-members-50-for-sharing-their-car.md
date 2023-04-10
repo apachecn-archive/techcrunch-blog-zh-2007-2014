@@ -1,4 +1,4 @@
-# PlugShare 是 Getaround 的合作伙伴，为共享汽车的会员提供 50 美元 TechCrunch
+# PlugShare 是 Getaround 的合作伙伴，为共享汽车的会员提供 50 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/plugshare-partners-with-getaround-offers-members-50-for-sharing-their-car/>
 

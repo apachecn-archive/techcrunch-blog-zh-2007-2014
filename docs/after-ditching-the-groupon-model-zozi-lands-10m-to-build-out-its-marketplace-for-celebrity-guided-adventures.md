@@ -1,4 +1,4 @@
-# 抛弃了 Groupon 模式后，Zozi 获得了 1000 万美元来建立名人引导的冒险市场 TechCrunch
+# 抛弃了 Groupon 模式后，Zozi 获得了 1000 万美元来建立名人引导的冒险市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/04/after-ditching-the-groupon-model-zozi-lands-10m-to-build-out-its-marketplace-for-celebrity-guided-adventures/>
 

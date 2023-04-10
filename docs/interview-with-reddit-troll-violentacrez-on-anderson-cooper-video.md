@@ -1,4 +1,4 @@
-# 采访 Reddit Troll，“Violentacrez”，安德森·库珀[视频 TechCrunch
+# 采访 Reddit Troll，“Violentacrez”，安德森·库珀[视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/interview-with-reddit-troll-violentacrez-on-anderson-cooper-video/>
 

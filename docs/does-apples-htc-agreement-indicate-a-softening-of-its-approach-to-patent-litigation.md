@@ -1,4 +1,4 @@
-# 苹果与 HTC 的协议是否表明其对待专利诉讼的态度有所软化？TechCrunch
+# 苹果与 HTC 的协议是否表明其对待专利诉讼的态度有所软化？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/10/does-apples-htc-agreement-indicate-a-softening-of-its-approach-to-patent-litigation/>
 

@@ -1,4 +1,4 @@
-# 苹果在欧洲 Galaxy Tab 禁令中的证据严重误导...假的 TechCrunch
+# 苹果在欧洲 Galaxy Tab 禁令中的证据严重误导...假的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/15/apples-evidence-in-european-galaxy-tab-injunction-was-seriously-misleading-as-in-false/>
 

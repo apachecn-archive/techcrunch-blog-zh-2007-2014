@@ -1,4 +1,4 @@
-# 黑莓保时捷 P'9981 亮相迪拜 TechCrunch
+# 黑莓保时捷 P'9981 亮相迪拜 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/blackberry-porsche-p9981-unveiled-in-dubai/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+Techcrunch+(TechCrunch>)
 

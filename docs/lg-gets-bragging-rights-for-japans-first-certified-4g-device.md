@@ -1,4 +1,4 @@
-# LG 获得吹嘘日本首款认证 4G 设备的权利 TechCrunch
+# LG 获得吹嘘日本首款认证 4G 设备的权利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/lg-gets-bragging-rights-for-japans-first-certified-4g-device/>
 

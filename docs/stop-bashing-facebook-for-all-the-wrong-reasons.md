@@ -1,4 +1,4 @@
-# 以所有错误的理由抨击脸书 TechCrunch
+# 以所有错误的理由抨击脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/02/stop-bashing-facebook-for-all-the-wrong-reasons/>
 

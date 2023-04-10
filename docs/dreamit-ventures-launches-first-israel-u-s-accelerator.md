@@ -1,4 +1,4 @@
-# DreamIt Ventures 推出首个以色列-美国加速器 TechCrunch
+# DreamIt Ventures 推出首个以色列-美国加速器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/17/dreamit-ventures-launches-first-israel-u-s-accelerator/>
 

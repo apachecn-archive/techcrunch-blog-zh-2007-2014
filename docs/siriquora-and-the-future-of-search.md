@@ -1,4 +1,4 @@
-# Siri、Quora 和搜索的未来 TechCrunch
+# Siri、Quora 和搜索的未来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/16/siriquora-and-the-future-of-search/>
 

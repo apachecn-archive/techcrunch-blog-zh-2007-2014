@@ -1,4 +1,4 @@
-# StubHub 创始人推出社交视频广播平台 spree cast TechCrunch
+# StubHub 创始人推出社交视频广播平台 spree cast 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/stubhub-founder-launches-spreecast-a-social-video-broadcasting-platform/>
 

@@ -1,4 +1,4 @@
-# 新上市的 HomeAway 报告 Q2 收入增长 41%至 5870 万美元，利润下降 85% TechCrunch
+# 新上市的 HomeAway 报告 Q2 收入增长 41%至 5870 万美元，利润下降 85% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/27/newly-public-homeaway-reports-q2-revenue-up-41-percent-to-58-7m-profit-down-85-percent/>
 

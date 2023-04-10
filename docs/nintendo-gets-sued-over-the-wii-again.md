@@ -1,4 +1,4 @@
-# 任天堂因 Wii 被起诉...再次 TechCrunch
+# 任天堂因 Wii 被起诉...再次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/nintendo-gets-sued-over-the-wii-again/>
 

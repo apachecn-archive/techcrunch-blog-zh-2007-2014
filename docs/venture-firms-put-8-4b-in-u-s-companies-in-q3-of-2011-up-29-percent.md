@@ -1,4 +1,4 @@
-# 2011 年第三季度，风险投资公司向美国公司投入了 84 亿美元；增长 29% TechCrunch
+# 2011 年第三季度，风险投资公司向美国公司投入了 84 亿美元；增长 29% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/venture-firms-put-8-4b-in-u-s-companies-in-q3-of-2011-up-29-percent/>
 

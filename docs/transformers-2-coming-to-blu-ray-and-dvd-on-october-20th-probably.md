@@ -1,4 +1,4 @@
-# 《变形金刚 2》将于 10 月 20 日发行蓝光和 DVD，可能是 TechCrunch
+# 《变形金刚 2》将于 10 月 20 日发行蓝光和 DVD，可能是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/transformers-2-coming-to-blu-ray-and-dvd-on-october-20th-probably/>
 

@@ -1,4 +1,4 @@
-# ShareMyPlaylists 基于手动整理的播放列表重新发布 Spotify 应用程序 TechCrunch
+# ShareMyPlaylists 基于手动整理的播放列表重新发布 Spotify 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/sharemyplaylists-relaunches-spotify-app-based-on-hand-curated-playlists/>
 

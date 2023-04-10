@@ -1,4 +1,4 @@
-# 官方消息:日本将于 9 月推出全球首款 Windows Phone 7 芒果手机 TechCrunch
+# 官方消息:日本将于 9 月推出全球首款 Windows Phone 7 芒果手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/official-japan-to-get-the-worlds-first-windows-phone-7-mango-handset-in-september/>
 

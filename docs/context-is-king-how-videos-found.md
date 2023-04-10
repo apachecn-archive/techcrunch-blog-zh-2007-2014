@@ -1,4 +1,4 @@
-# 上下文为王:如何在线查找和消费视频 TechCrunch
+# 上下文为王:如何在线查找和消费视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/30/context-is-king-how-videos-found/>
 

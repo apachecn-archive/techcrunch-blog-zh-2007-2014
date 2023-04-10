@@ -1,4 +1,4 @@
-# 官方消息:Hulu 周三开放 TechCrunch
+# 官方消息:Hulu 周三开放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/10/its-official-hulu-opens-up-on-wednesday/>
 

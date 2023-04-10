@@ -1,4 +1,4 @@
-# 游戏变得政治化:奥巴马广告出现在 EA 游戏 TechCrunch
+# 游戏变得政治化:奥巴马广告出现在 EA 游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/15/gaming-gets-political-obama-ads-appear-in-ea-games/>
 

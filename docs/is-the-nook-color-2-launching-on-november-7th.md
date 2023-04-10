@@ -1,4 +1,4 @@
-# Nook Color 2 会在 11 月 7 日上市吗？TechCrunch
+# Nook Color 2 会在 11 月 7 日上市吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/is-the-nook-color-2-launching-on-november-7th/>
 

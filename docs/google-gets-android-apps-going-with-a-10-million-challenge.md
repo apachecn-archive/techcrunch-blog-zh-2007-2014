@@ -1,4 +1,4 @@
-# 谷歌用 1000 万美元挑战 Android 应用 TechCrunch
+# 谷歌用 1000 万美元挑战 Android 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/12/google-gets-android-apps-going-with-a-10-million-challenge/>
 

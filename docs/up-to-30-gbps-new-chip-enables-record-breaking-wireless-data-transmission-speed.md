@@ -1,4 +1,4 @@
-# 高达 30 Gbps:新芯片实现破纪录的无线数据传输速度 TechCrunch
+# 高达 30 Gbps:新芯片实现破纪录的无线数据传输速度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/22/up-to-30-gbps-new-chip-enables-record-breaking-wireless-data-transmission-speed/>
 

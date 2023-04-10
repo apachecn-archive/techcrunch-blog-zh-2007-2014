@@ -1,4 +1,4 @@
-# 千禧一代:安卓移动广告展示量增长 48%，iOS 持平 TechCrunch
+# 千禧一代:安卓移动广告展示量增长 48%，iOS 持平 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/millennial-android-mobile-ad-impressions-up-48-percent-ios-remains-flat/>
 

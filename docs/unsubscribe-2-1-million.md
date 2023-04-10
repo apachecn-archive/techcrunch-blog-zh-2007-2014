@@ -1,4 +1,4 @@
-# Unsubscribe.com 筹集 210 万美元帮助人们进入收件箱 Zero TechCrunch
+# Unsubscribe.com 筹集 210 万美元帮助人们进入收件箱 Zero 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/21/unsubscribe-2-1-million/>
 

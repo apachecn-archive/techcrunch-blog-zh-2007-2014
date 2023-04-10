@@ -1,4 +1,4 @@
-# 尼尔森:32%的新智能手机用户选择安卓手机 TechCrunch
+# 尼尔森:32%的新智能手机用户选择安卓手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/05/nielsen-32-percent-of-new-smartphone-owners-choose-android-phones/>
 

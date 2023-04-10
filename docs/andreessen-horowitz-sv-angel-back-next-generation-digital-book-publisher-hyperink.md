@@ -1,4 +1,4 @@
-# Andreessen Horowitz，SV Angel Back 下一代数字图书出版商 Hyperink TechCrunch
+# Andreessen Horowitz，SV Angel Back 下一代数字图书出版商 Hyperink 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/andreessen-horowitz-sv-angel-back-next-generation-digital-book-publisher-hyperink/>
 

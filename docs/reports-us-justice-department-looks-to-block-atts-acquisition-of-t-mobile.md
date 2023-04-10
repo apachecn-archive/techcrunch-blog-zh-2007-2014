@@ -1,4 +1,4 @@
-# 报道:美国司法部试图阻止美国电话电报公司收购 T-Mobile TechCrunch
+# 报道:美国司法部试图阻止美国电话电报公司收购 T-Mobile 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/reports-us-justice-department-looks-to-block-atts-acquisition-of-t-mobile/>
 

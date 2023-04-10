@@ -1,4 +1,4 @@
-# YouTube 为品牌合作伙伴提供了另一根胡萝卜:谷歌频道分析 TechCrunch
+# YouTube 为品牌合作伙伴提供了另一根胡萝卜:谷歌频道分析 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/20/start-tracking-youtube-brings-google-analytics-to-brand-channels/>
 

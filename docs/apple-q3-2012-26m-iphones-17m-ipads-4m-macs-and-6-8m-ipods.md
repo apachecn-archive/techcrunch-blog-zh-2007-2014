@@ -1,4 +1,4 @@
-# 苹果 2012 年第三季度:2600 万部 iPhones、1700 万部 iPads、400 万部 MAC 和 680 万部 ipod TechCrunch
+# 苹果 2012 年第三季度:2600 万部 iPhones、1700 万部 iPads、400 万部 MAC 和 680 万部 ipod 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/apple-q3-2012-26m-iphones-17m-ipads-4m-macs-and-6-8m-ipods/>
 

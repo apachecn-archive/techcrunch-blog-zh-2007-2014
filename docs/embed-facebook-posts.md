@@ -1,4 +1,4 @@
-# 脸书的目标是成为一个新闻来源，现在允许每个人嵌入公共帖子 TechCrunch
+# 脸书的目标是成为一个新闻来源，现在允许每个人嵌入公共帖子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/21/embed-facebook-posts/>
 

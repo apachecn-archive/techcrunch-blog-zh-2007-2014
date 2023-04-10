@@ -1,4 +1,4 @@
-# Eric Ries:Google+的发布有多精益？TechCrunch
+# Eric Ries:Google+的发布有多精益？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/founder-stories-eric-ries-lean-google-plus/>
 

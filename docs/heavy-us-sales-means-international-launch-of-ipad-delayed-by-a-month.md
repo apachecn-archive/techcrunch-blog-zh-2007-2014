@@ -1,4 +1,4 @@
-# 美国销量大增意味着 iPad 国际上市推迟一个月 TechCrunch
+# 美国销量大增意味着 iPad 国际上市推迟一个月 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/14/heavy-us-sales-means-international-launch-of-ipad-delayed-by-a-month/>
 

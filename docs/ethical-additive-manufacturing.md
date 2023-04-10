@@ -1,4 +1,4 @@
-# 慈善机构瞄准 3D 打印的塑料垃圾问题，制定道德替代标准 TechCrunch
+# 慈善机构瞄准 3D 打印的塑料垃圾问题，制定道德替代标准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/07/ethical-additive-manufacturing/>
 

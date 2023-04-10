@@ -1,4 +1,4 @@
-# 哇，谷歌，这是一个相当大的安全漏洞 TechCrunch
+# 哇，谷歌，这是一个相当大的安全漏洞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/20/whoa-google-thats-a-pretty-big-security-hole/>
 

@@ -1,4 +1,4 @@
-# 在网络中生存 TechCrunch
+# 在网络中生存 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/21/surviving-the-net/>
 

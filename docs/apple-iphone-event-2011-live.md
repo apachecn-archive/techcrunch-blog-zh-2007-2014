@@ -1,4 +1,4 @@
-# 伦敦现场直播:苹果远程 iPhone 活动 TechCrunch
+# 伦敦现场直播:苹果远程 iPhone 活动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/apple-iphone-event-2011-live/>
 

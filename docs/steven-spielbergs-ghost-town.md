@@ -1,4 +1,4 @@
-# 史蒂文·斯皮尔伯格的《鬼城》TechCrunch
+# 史蒂文·斯皮尔伯格的《鬼城》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/03/steven-spielbergs-ghost-town/>
 

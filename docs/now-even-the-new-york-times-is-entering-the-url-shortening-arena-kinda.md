@@ -1,4 +1,4 @@
-# 现在，就连《纽约时报》也进入了 URL 缩短领域...有点 TechCrunch
+# 现在，就连《纽约时报》也进入了 URL 缩短领域...有点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/19/now-even-the-new-york-times-is-entering-the-url-shortening-arena-kinda/>
 

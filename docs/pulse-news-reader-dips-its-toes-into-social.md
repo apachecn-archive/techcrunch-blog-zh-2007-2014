@@ -1,4 +1,4 @@
-# Pulse News Reader 通过新的“亮点”功能涉足社交网站 TechCrunch
+# Pulse News Reader 通过新的“亮点”功能涉足社交网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/12/pulse-news-reader-dips-its-toes-into-social/>
 

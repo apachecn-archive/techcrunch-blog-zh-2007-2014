@@ -1,4 +1,4 @@
-# 柯南挑战比特币 TechCrunch
+# 柯南挑战比特币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/conan-takes-on-bitcoin/>
 

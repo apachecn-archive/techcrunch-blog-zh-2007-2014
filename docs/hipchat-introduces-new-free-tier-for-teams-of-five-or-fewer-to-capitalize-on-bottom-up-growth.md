@@ -1,4 +1,4 @@
-# HipChat 为五人或五人以下的团队引入新的免费层，以利用自下而上的增长 TechCrunch
+# HipChat 为五人或五人以下的团队引入新的免费层，以利用自下而上的增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/21/hipchat-introduces-new-free-tier-for-teams-of-five-or-fewer-to-capitalize-on-bottom-up-growth/>
 

@@ -1,4 +1,4 @@
-# 比特币的生意:企业家在替代货币中看到了机会 TechCrunch
+# 比特币的生意:企业家在替代货币中看到了机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/the-business-of-bitcoin-entrepreneurs-see-opportunities-in-alternative-currencies/>
 

@@ -1,4 +1,4 @@
-# 微软要求司法部长发布关于美国国家安全局间谍活动的禁令 TechCrunch
+# 微软要求司法部长发布关于美国国家安全局间谍活动的禁令 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/microsoft-asks-attorney-general-to-release-gag-order-on-nsa-spying/>
 

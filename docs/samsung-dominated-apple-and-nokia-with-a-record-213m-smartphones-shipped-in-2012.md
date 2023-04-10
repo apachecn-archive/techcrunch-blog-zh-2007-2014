@@ -1,4 +1,4 @@
-# 三星凭借 2012 年创纪录的 2.13 亿部智能手机出货量，在苹果和诺基亚市场占据主导地位 TechCrunch
+# 三星凭借 2012 年创纪录的 2.13 亿部智能手机出货量，在苹果和诺基亚市场占据主导地位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/25/samsung-dominated-apple-and-nokia-with-a-record-213m-smartphones-shipped-in-2012/>
 

@@ -1,4 +1,4 @@
-# 纽约时报暴涨，CNet 暴跌 TechCrunch
+# 纽约时报暴涨，CNet 暴跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/10/nytimes-surges-cnet-slumps/>
 

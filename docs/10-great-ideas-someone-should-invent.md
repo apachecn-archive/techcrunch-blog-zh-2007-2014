@@ -1,4 +1,4 @@
-# 有人应该发明的 10 个好主意 TechCrunch
+# 有人应该发明的 10 个好主意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/09/10-great-ideas-someone-should-invent/>
 

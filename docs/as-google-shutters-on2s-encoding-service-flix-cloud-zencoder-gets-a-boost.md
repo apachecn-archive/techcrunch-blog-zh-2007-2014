@@ -1,4 +1,4 @@
-# 随着谷歌关闭了 On2 的编码服务 Flix Cloud，Zencoder 得到了提振 TechCrunch
+# 随着谷歌关闭了 On2 的编码服务 Flix Cloud，Zencoder 得到了提振 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/as-google-shutters-on2s-encoding-service-flix-cloud-zencoder-gets-a-boost/>
 

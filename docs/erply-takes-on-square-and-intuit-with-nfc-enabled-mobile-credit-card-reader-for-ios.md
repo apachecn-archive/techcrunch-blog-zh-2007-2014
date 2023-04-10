@@ -1,4 +1,4 @@
-# Erply 与支持 NFC 的 Square 和 Intuit 竞争 iOS 版移动信用卡读卡器 TechCrunch
+# Erply 与支持 NFC 的 Square 和 Intuit 竞争 iOS 版移动信用卡读卡器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/erply-takes-on-square-and-intuit-with-nfc-enabled-mobile-credit-card-reader-for-ios/>
 

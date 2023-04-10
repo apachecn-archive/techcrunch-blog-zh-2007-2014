@@ -1,4 +1,4 @@
-# 网飞从头开始为电视应用程序构建更直观、更通用的用户体验 TechCrunch
+# 网飞从头开始为电视应用程序构建更直观、更通用的用户体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/netflix-new-tv-experience/>
 

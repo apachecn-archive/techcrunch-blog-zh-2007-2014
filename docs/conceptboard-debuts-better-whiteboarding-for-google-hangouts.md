@@ -1,4 +1,4 @@
-# Conceptboard 首次为 Google+ Hangouts 推出更好的白板 TechCrunch
+# Conceptboard 首次为 Google+ Hangouts 推出更好的白板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/conceptboard-debuts-better-whiteboarding-for-google-hangouts/>
 

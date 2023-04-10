@@ -1,4 +1,4 @@
-# 苹果在日本 iOS 中加入地震预警 TechCrunch
+# 苹果在日本 iOS 中加入地震预警 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/apple-adds-earthquake-warning-to-japanese-ios/>
 

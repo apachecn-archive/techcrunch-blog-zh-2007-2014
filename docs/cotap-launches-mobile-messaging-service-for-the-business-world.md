@@ -1,4 +1,4 @@
-# Cotap 推出面向商业世界的移动消息服务 TechCrunch
+# Cotap 推出面向商业世界的移动消息服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/03/cotap-launches-mobile-messaging-service-for-the-business-world/>
 

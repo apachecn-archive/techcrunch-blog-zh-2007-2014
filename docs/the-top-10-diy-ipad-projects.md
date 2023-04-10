@@ -1,4 +1,4 @@
-# 十大 DIY iPad 项目 TechCrunch
+# 十大 DIY iPad 项目 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/16/the-top-10-diy-ipad-projects/>
 

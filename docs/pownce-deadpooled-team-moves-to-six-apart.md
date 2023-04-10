@@ -1,4 +1,4 @@
-# Pownce Deadpooled，团队移动到六个分开的 TechCrunch
+# Pownce Deadpooled，团队移动到六个分开的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/01/pownce-deadpooled-team-moves-to-six-apart/>
 

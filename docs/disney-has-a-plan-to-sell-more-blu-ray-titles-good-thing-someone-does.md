@@ -1,4 +1,4 @@
-# 迪士尼计划销售更多蓝光产品——有人这么做是件好事 TechCrunch
+# 迪士尼计划销售更多蓝光产品——有人这么做是件好事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/disney-has-a-plan-to-sell-more-blu-ray-titles-good-thing-someone-does/>
 

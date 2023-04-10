@@ -1,4 +1,4 @@
-# 众包在亚洲蓬勃发展 TechCrunch
+# 众包在亚洲蓬勃发展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/08/asias-secret-crowdsourcing-boom/>
 

@@ -1,4 +1,4 @@
-# 苹果在美国扩大与三星的智能手机差距，现在拥有 42%的份额:NPD TechCrunch
+# 苹果在美国扩大与三星的智能手机差距，现在拥有 42%的份额:NPD 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/apple-widens-smartphone-gap-over-samsung-in-u-s-now-has-42-ownership-npd/>
 

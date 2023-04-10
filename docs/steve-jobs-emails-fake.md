@@ -1,4 +1,4 @@
-# 报道:最新的乔布斯 iPhone 4 邮件交流是假的 TechCrunch
+# 报道:最新的乔布斯 iPhone 4 邮件交流是假的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/01/steve-jobs-emails-fake/>
 

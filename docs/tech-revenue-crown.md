@@ -1,4 +1,4 @@
-# 随着股价突破 400 美元，苹果将目光投向了下一个科技大奖:惠普的收入冠军 TechCrunch
+# 随着股价突破 400 美元，苹果将目光投向了下一个科技大奖:惠普的收入冠军 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/tech-revenue-crown/>
 

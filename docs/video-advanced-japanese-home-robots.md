@@ -1,4 +1,4 @@
-# 视频:先进的日本家用机器人 TechCrunch
+# 视频:先进的日本家用机器人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/video-advanced-japanese-home-robots/>
 

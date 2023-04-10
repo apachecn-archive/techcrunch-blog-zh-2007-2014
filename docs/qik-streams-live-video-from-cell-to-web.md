@@ -1,4 +1,4 @@
-# Qik 从手机向网络传输实时视频 TechCrunch
+# Qik 从手机向网络传输实时视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/17/qik-streams-live-video-from-cell-to-web/>
 

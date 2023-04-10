@@ -1,4 +1,4 @@
-# Eeve 创建基于地理位置的照片群组，它很有效 TechCrunch
+# Eeve 创建基于地理位置的照片群组，它很有效 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/eeve-creates-location-based-photo-groups-and-it-works/>
 

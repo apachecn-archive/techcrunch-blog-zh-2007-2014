@@ -1,4 +1,4 @@
-# 视频:有史以来最快的计时手表 TechCrunch
+# 视频:有史以来最快的计时手表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/video-a-look-at-the-fastest-chronograph-watch-ever-made/>
 

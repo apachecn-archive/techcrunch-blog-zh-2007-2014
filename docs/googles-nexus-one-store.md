@@ -1,4 +1,4 @@
-# 谷歌的 Nexus One 商店即将倒闭 TechCrunch
+# 谷歌的 Nexus One 商店即将倒闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/14/googles-nexus-one-store/>
 

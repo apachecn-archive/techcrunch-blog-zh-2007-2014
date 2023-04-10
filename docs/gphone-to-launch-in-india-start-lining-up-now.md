@@ -1,4 +1,4 @@
-# GPhone 将在印度推出，现在就开始排队吧！–TechCrunch
+# GPhone 将在印度推出，现在就开始排队吧！–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/gphone-to-launch-in-india-start-lining-up-now/>
 

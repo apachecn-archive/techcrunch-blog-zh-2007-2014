@@ -1,4 +1,4 @@
-# Jawbone 适合健身的 Up 腕带出现在网上商店 TechCrunch
+# Jawbone 适合健身的 Up 腕带出现在网上商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/jawbones-fitness-friendly-up-wristband-appears-in-online-stores/>
 

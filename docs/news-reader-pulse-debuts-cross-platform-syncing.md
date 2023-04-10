@@ -1,4 +1,4 @@
-# 新闻阅读器 Pulse 首次推出跨平台同步技术 TechCrunch
+# 新闻阅读器 Pulse 首次推出跨平台同步技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/news-reader-pulse-debuts-cross-platform-syncing/>
 

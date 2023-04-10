@@ -1,4 +1,4 @@
-# TellThem: MySpace 扼杀了另一家初创公司——TechCrunch
+# TellThem: MySpace 扼杀了另一家初创公司——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/tellthem-myspace-kills-another-startup/>
 

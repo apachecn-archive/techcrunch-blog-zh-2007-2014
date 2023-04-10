@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯是无视历史，还是试图重写历史？TechCrunch
+# 史蒂夫·乔布斯是无视历史，还是试图重写历史？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/09/is-steve-jobs-ignoring-history-or-trying-to-rewrite-it/>
 

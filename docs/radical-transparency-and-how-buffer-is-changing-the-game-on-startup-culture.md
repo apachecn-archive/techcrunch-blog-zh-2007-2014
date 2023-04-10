@@ -1,4 +1,4 @@
-# 激进的透明度和 Buffer 如何改变创业文化 TechCrunch
+# 激进的透明度和 Buffer 如何改变创业文化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/radical-transparency-and-how-buffer-is-changing-the-game-on-startup-culture/>
 

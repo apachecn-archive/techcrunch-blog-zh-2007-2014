@@ -1,4 +1,4 @@
-# 点评:微软 Sidewinder X8 游戏鼠标 TechCrunch
+# 点评:微软 Sidewinder X8 游戏鼠标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/11/review-microsoft-sidewinder-x8-gaming-mouse/>
 

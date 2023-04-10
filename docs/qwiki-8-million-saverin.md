@@ -1,4 +1,4 @@
-# 脸书亿万富翁爱德华多·萨维林领投 Qwiki 的 800 万美元 TechCrunch
+# 脸书亿万富翁爱德华多·萨维林领投 Qwiki 的 800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/qwiki-8-million-saverin/>
 

@@ -1,4 +1,4 @@
-# Puralytics 首席执行官谈用光清洁水，赢得清洁技术公开赛 TechCrunch
+# Puralytics 首席执行官谈用光清洁水，赢得清洁技术公开赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/25/cleantech-open-winners-puralytics/>
 

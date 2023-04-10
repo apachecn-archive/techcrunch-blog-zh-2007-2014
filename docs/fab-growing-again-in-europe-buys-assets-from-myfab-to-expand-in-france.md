@@ -1,4 +1,4 @@
-# Fab 在欧洲再次增长，从 MyFab 购买资产以在法国扩张 TechCrunch
+# Fab 在欧洲再次增长，从 MyFab 购买资产以在法国扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/28/fab-growing-again-in-europe-buys-assets-from-myfab-to-expand-in-france/>
 

@@ -1,4 +1,4 @@
-# 惊喜，惊喜:Opera Mini iPhone 应用获得苹果批准 TechCrunch
+# 惊喜，惊喜:Opera Mini iPhone 应用获得苹果批准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/12/surprise-surprise-opera-mini-iphone-app-gets-apples-stamp-of-approval/>
 

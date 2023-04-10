@@ -1,4 +1,4 @@
-# 拿出锡纸帽，iPhone 手机回家 TechCrunch
+# 拿出锡纸帽，iPhone 手机回家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/19/whip-out-the-tinfoil-hats-the-iphone-phones-home/>
 

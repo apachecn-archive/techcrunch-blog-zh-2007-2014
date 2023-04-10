@@ -1,4 +1,4 @@
-# CrunchWeek:谷歌扼杀 Reader，三星的 Galaxy S4，Dropbox 的 1 亿美元邮箱收购 TechCrunch
+# CrunchWeek:谷歌扼杀 Reader，三星的 Galaxy S4，Dropbox 的 1 亿美元邮箱收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/17/crunchweek-google-reader-samsung-s4-dropbox-mailbox/>
 

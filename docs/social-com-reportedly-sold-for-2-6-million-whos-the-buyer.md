@@ -1,4 +1,4 @@
-# 据报道，Social.com 卖了 260 万美元。买家是谁？TechCrunch
+# 据报道，Social.com 卖了 260 万美元。买家是谁？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/22/social-com-reportedly-sold-for-2-6-million-whos-the-buyer/>
 

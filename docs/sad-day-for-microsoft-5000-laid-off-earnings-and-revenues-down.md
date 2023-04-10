@@ -1,4 +1,4 @@
-# 微软悲哀的一天:裁员 5000 人，收益和收入下降 TechCrunch
+# 微软悲哀的一天:裁员 5000 人，收益和收入下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/22/sad-day-for-microsoft-5000-laid-off-earnings-and-revenues-down/>
 

@@ -1,4 +1,4 @@
-# 《未来》原班人马回归！！！TechCrunch
+# 《未来》原班人马回归！！！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/original-futurama-cast-returning-to-the-show/>
 

@@ -1,4 +1,4 @@
-# 新款宏碁 Aspire 台式机起价 449.99 美元 TechCrunch
+# 新款宏碁 Aspire 台式机起价 449.99 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/21/new-acer-aspire-desktop-pcs-start-at-449-99/>
 

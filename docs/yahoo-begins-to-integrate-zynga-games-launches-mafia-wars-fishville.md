@@ -1,4 +1,4 @@
-# 雅虎开始整合 Zynga 游戏，推出黑手党战争和 FishVille TechCrunch
+# 雅虎开始整合 Zynga 游戏，推出黑手党战争和 FishVille 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/16/yahoo-begins-to-integrate-zynga-games-launches-mafia-wars-fishville/>
 

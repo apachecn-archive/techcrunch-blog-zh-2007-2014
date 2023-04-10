@@ -1,4 +1,4 @@
-# T-Mobile 客户继续跳槽，但没有以前那么匆忙 TechCrunch
+# T-Mobile 客户继续跳槽，但没有以前那么匆忙 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/t-mobile-customers-continue-to-jump-ship-but-with-less-haste-than-before/>
 

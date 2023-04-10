@@ -1,4 +1,4 @@
-# 谷歌风投投资移动支付初创公司 Corduro TechCrunch
+# 谷歌风投投资移动支付初创公司 Corduro 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/03/corduro-google-ventures/>
 

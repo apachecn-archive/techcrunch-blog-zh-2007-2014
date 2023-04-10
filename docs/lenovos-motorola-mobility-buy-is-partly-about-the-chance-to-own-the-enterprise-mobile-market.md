@@ -1,4 +1,4 @@
-# 联想对摩托罗拉移动的收购在一定程度上是为了有机会拥有企业移动市场 TechCrunch
+# 联想对摩托罗拉移动的收购在一定程度上是为了有机会拥有企业移动市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/lenovos-motorola-mobility-buy-is-partly-about-the-chance-to-own-the-enterprise-mobile-market/>
 

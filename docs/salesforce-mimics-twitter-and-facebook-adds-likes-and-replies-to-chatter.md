@@ -1,4 +1,4 @@
-# Salesforce 模仿 Twitter 和脸书；向 Chatter 添加赞和@回复 TechCrunch
+# Salesforce 模仿 Twitter 和脸书；向 Chatter 添加赞和@回复 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/salesforce-mimics-twitter-and-facebook-adds-likes-and-replies-to-chatter/>
 

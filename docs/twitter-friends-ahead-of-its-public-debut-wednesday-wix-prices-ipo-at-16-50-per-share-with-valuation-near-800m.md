@@ -1,4 +1,4 @@
-# 在周三公开上市之前，Wix 将 IPO 定价为每股 16.50 美元，估值接近 8 亿美元 TechCrunch
+# 在周三公开上市之前，Wix 将 IPO 定价为每股 16.50 美元，估值接近 8 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/05/twitter-friends-ahead-of-its-public-debut-wednesday-wix-prices-ipo-at-16-50-per-share-with-valuation-near-800m/>
 

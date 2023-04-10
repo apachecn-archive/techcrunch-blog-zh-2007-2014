@@ -1,4 +1,4 @@
-# 传言:Sprint 将于 10 月销售 iPhone 5 TechCrunch
+# 传言:Sprint 将于 10 月销售 iPhone 5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/23/rumor-sprint-to-sell-iphone-5-in-october/>
 

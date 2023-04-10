@@ -1,4 +1,4 @@
-# 按需洗衣初创公司 FlyCleaners 在布鲁克林推出，募集了 100 亿美元 2M TechCrunch
+# 按需洗衣初创公司 FlyCleaners 在布鲁克林推出，募集了 100 亿美元 2M 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/17/flycleaners-seed-funding/>
 

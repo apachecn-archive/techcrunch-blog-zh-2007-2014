@@ -1,4 +1,4 @@
-# Square Ventures Beyond Payments 首次推出客户忠诚度打孔卡计划 TechCrunch
+# Square Ventures Beyond Payments 首次推出客户忠诚度打孔卡计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/square-ventures-beyond-payments-with-debut-of-customer-loyalty-punchcard-program/>
 

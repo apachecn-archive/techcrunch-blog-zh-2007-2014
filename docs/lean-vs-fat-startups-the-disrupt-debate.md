@@ -1,4 +1,4 @@
-# 瘦与胖的创业公司:颠覆性辩论 TechCrunch
+# 瘦与胖的创业公司:颠覆性辩论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/25/lean-vs-fat-startups-the-disrupt-debate/>
 

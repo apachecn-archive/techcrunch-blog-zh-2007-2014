@@ -1,4 +1,4 @@
-# 为什么工程师更适合加入初创公司 TechCrunch
+# 为什么工程师更适合加入初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/13/engineers-startups/>
 

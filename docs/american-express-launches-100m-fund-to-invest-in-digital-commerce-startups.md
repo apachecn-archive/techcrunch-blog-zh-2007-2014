@@ -1,4 +1,4 @@
-# 美国运通推出 1 亿美元基金投资数字商务初创公司 TechCrunch
+# 美国运通推出 1 亿美元基金投资数字商务初创公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/american-express-launches-100m-fund-to-invest-in-digital-commerce-startups/>
 

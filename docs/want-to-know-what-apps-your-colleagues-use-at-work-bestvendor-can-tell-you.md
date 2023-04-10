@@ -1,4 +1,4 @@
-# 想知道你的同事在工作中用什么 app？最佳供应商可以告诉您 TechCrunch
+# 想知道你的同事在工作中用什么 app？最佳供应商可以告诉您 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/want-to-know-what-apps-your-colleagues-use-at-work-bestvendor-can-tell-you/>
 

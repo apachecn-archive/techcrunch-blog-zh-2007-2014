@@ -1,4 +1,4 @@
-# Seesmic 通过面向 Android 和黑莓的强大新应用进军移动领域 TechCrunch
+# Seesmic 通过面向 Android 和黑莓的强大新应用进军移动领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/20/seesmic-ventures-into-mobile-with-powerful-new-apps-for-android-and-blackberry/>
 

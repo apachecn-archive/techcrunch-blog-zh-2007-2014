@@ -1,4 +1,4 @@
-# iOS 版 Gmail 应用再次登陆应用商店 TechCrunch
+# iOS 版 Gmail 应用再次登陆应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/gmail-app-for-ios-hits-the-app-store-again/>
 

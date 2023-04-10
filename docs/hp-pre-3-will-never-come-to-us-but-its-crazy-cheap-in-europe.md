@@ -1,4 +1,4 @@
-# 惠普 Pre 3 永远不会来找我们，但它在欧洲非常便宜 TechCrunch
+# 惠普 Pre 3 永远不会来找我们，但它在欧洲非常便宜 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/hp-pre-3-will-never-come-to-us-but-its-crazy-cheap-in-europe/>
 

@@ -1,4 +1,4 @@
-# 诺基亚为低端手机准备新的“Meltemi”操作系统 TechCrunch
+# 诺基亚为低端手机准备新的“Meltemi”操作系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/nokia-preparing-new-meltemi-os-for-low-end-phones/>
 

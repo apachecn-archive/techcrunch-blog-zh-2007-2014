@@ -1,4 +1,4 @@
-# 格里芬发布 iPhone 控制的玩具直升机 TechCrunch
+# 格里芬发布 iPhone 控制的玩具直升机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/griffin-releases-iphone-controlled-toy-helicopter/>
 

@@ -1,4 +1,4 @@
-# MySpace 开放数据管道，全面推出数据可用性 TechCrunch
+# MySpace 开放数据管道，全面推出数据可用性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/26/myspace-opens-up-the-data-pipe-with-launch-of-data-availability/>
 

@@ -1,4 +1,4 @@
-# MapQuest 更新了其 iPhone 应用程序，改进了制图和路线，以应对谷歌和苹果地图 TechCrunch
+# MapQuest 更新了其 iPhone 应用程序，改进了制图和路线，以应对谷歌和苹果地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/mapquest-iphone-app-update/>
 

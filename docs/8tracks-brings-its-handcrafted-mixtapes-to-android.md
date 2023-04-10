@@ -1,4 +1,4 @@
-# 8tracks 将其手工制作的混音带带到 Android TechCrunch
+# 8tracks 将其手工制作的混音带带到 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/8tracks-brings-its-handcrafted-mixtapes-to-android/>
 

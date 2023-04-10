@@ -1,4 +1,4 @@
-# 你是风投:现实编程来到风险投资 TechCrunch
+# 你是风投:现实编程来到风险投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/26/you-be-the-vc-reality-programming-comes-to-venture-capital/>
 

@@ -1,4 +1,4 @@
-# 拉美裔的脸书 Quepasa 以 400 万美元收购社交游戏开发商 XtFT TechCrunch
+# 拉美裔的脸书 Quepasa 以 400 万美元收购社交游戏开发商 XtFT 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/01/quepasa-the-facebook-for-latinos-buys-social-game-developer-xtft-for-4-million/>
 

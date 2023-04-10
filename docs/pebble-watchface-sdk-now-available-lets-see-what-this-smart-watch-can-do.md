@@ -1,4 +1,4 @@
-# Pebble Watchface SDK 现已上市，让我们看看这款智能手表能做些什么 TechCrunch
+# Pebble Watchface SDK 现已上市，让我们看看这款智能手表能做些什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/12/pebble-watchface-sdk-now-available-lets-see-what-this-smart-watch-can-do/>
 

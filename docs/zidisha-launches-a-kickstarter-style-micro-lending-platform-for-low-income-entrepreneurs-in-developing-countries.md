@@ -1,4 +1,4 @@
-# Zidisha 为发展中国家的低收入企业家推出 Kickstarter 式的小额贷款平台 TechCrunch
+# Zidisha 为发展中国家的低收入企业家推出 Kickstarter 式的小额贷款平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/zidisha-launches-a-kickstarter-style-micro-lending-platform-for-low-income-entrepreneurs-in-developing-countries/>
 

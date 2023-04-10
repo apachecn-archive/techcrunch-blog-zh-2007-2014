@@ -1,4 +1,4 @@
-# 迭代:iOS 应用分发的残酷现实 TechCrunch
+# 迭代:iOS 应用分发的残酷现实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/21/iterations-the-harsh-realities-of-ios-app-distribution/>
 

@@ -1,4 +1,4 @@
-# iEmu 旨在将 iOS 应用程序引入 Android、Windows 和 Linux TechCrunch
+# iEmu 旨在将 iOS 应用程序引入 Android、Windows 和 Linux 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/ios-emulator-android/>
 

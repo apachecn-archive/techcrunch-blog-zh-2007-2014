@@ -1,4 +1,4 @@
-# 最后一句话:是的，你将能够在网上访问 iCloud 应用程序 TechCrunch
+# 最后一句话:是的，你将能够在网上访问 iCloud 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/24/icloud-on-the-web/>
 

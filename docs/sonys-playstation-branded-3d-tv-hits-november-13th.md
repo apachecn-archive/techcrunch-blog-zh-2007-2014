@@ -1,4 +1,4 @@
-# 索尼 Playstation 品牌 3D 电视于 11 月 13 日上市 TechCrunch
+# 索尼 Playstation 品牌 3D 电视于 11 月 13 日上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/sonys-playstation-branded-3d-tv-hits-november-13th/>
 

@@ -1,4 +1,4 @@
-# 肉卡:用该死的激光束在牛肉干上打印你的名片 TechCrunch
+# 肉卡:用该死的激光束在牛肉干上打印你的名片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/05/06/meatcards-print-your-business-cards-on-beef-jerky-with-a-frickin-laser-beam/>
 

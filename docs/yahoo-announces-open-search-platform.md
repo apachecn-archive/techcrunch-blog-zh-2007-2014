@@ -1,4 +1,4 @@
-# 雅虎宣布开放搜索平台 TechCrunch
+# 雅虎宣布开放搜索平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/25/yahoo-announces-open-search-platform/>
 

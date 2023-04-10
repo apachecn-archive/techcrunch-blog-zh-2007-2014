@@ -1,4 +1,4 @@
-# Box.net 升级个人和商业数据计划，在云中包含更多存储 TechCrunch
+# Box.net 升级个人和商业数据计划，在云中包含更多存储 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/28/box-net-upgrades-personal-and-business-data-plans-to-include-more-storage-in-the-cloud/>
 

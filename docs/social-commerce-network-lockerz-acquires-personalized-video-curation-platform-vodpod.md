@@ -1,4 +1,4 @@
-# 社交商务网络 Lockerz 收购个性化视频监管平台 Vodpod TechCrunch
+# 社交商务网络 Lockerz 收购个性化视频监管平台 Vodpod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/social-commerce-network-lockerz-acquires-personalized-video-curation-platform-vodpod/>
 

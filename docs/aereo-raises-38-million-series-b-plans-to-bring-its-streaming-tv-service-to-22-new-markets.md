@@ -1,4 +1,4 @@
-# Aereo 筹集了 3800 万美元的 B 轮融资，计划将其流媒体电视服务引入 22 个新市场 TechCrunch
+# Aereo 筹集了 3800 万美元的 B 轮融资，计划将其流媒体电视服务引入 22 个新市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/08/aereo-raises-38-million-series-b-plans-to-bring-its-streaming-tv-service-to-22-new-markets/>
 

@@ -1,4 +1,4 @@
-# 将 iOS 移植到 Android: Spotlight Mobile 分享陷阱和好处 TechCrunch
+# 将 iOS 移植到 Android: Spotlight Mobile 分享陷阱和好处 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/01/porting-ios-to-android-spotlight-mobile-shares-the-pitfalls-and-perks/>
 

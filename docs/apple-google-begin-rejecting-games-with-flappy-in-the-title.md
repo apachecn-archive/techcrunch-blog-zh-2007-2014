@@ -1,4 +1,4 @@
-# 苹果和谷歌开始拒绝标题中带有“Flappy”的游戏 TechCrunch
+# 苹果和谷歌开始拒绝标题中带有“Flappy”的游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/15/apple-google-begin-rejecting-games-with-flappy-in-the-title/>
 

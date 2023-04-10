@@ -1,4 +1,4 @@
-# 惠普重新考虑分拆个人电脑部门，个人系统部门仍将是公司的一部分 TechCrunch
+# 惠普重新考虑分拆个人电脑部门，个人系统部门仍将是公司的一部分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/hp-reconsiders-spinning-off-pc-division-personal-systems-group-will-remain-part-of-the-company/>
 

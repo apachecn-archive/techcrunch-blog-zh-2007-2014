@@ -1,4 +1,4 @@
-# OnLive Viewer 登陆 Google TV，全面的游戏功能即将实现 TechCrunch
+# OnLive Viewer 登陆 Google TV，全面的游戏功能即将实现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/11/onlive-viewer-hits-google-tv-full-gaming-capability-potentially-on-the-way/>
 

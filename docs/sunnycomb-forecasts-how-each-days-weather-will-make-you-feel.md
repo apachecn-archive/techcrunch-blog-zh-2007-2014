@@ -1,4 +1,4 @@
-# Sunnycomb 预测每天的天气会给你带来怎样的感受 TechCrunch
+# Sunnycomb 预测每天的天气会给你带来怎样的感受 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/04/sunnycomb-forecasts-how-each-days-weather-will-make-you-feel/>
 

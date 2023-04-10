@@ -1,4 +1,4 @@
-# Skype 人员准备大举进军云计算 TechCrunch
+# Skype 人员准备大举进军云计算 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/04/skype-staffing-up-for-a-big-push-to-the-cloud/>
 

@@ -1,4 +1,4 @@
-# 诺基亚的塞班美女预告给了我们确切的到达日期，未能预告 TechCrunch
+# 诺基亚的塞班美女预告给了我们确切的到达日期，未能预告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/nokias-symbian-belle-teaser-gives-us-exact-arrival-date-fails-to-tease/>
 

@@ -1,4 +1,4 @@
-# 股票分析初创公司 Trefis 融资 160 万美元 TechCrunch
+# 股票分析初创公司 Trefis 融资 160 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/06/02/stock-analysis-startup-trefis-raises-1-6-million/>
 

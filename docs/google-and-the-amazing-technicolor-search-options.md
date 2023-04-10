@@ -1,4 +1,4 @@
-# 谷歌和令人惊叹的 Technicolor 搜索选项 TechCrunch
+# 谷歌和令人惊叹的 Technicolor 搜索选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/20/google-and-the-amazing-technicolor-search-options/>
 

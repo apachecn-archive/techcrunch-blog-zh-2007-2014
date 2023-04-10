@@ -1,4 +1,4 @@
-# Yext PowerListings 现在支持 30，000 个本地列表 TechCrunch
+# Yext PowerListings 现在支持 30，000 个本地列表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/yext-powerlistings-30-000/>
 

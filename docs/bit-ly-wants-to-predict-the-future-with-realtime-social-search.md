@@ -1,4 +1,4 @@
-# Bit.ly 希望通过实时社交搜索预测未来 TechCrunch
+# Bit.ly 希望通过实时社交搜索预测未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/bit-ly-wants-to-predict-the-future-with-realtime-social-search/>
 

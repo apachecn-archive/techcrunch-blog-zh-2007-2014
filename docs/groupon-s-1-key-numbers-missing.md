@@ -1,4 +1,4 @@
-# Groupon 修改了 S-1，但关键数字仍然缺失 TechCrunch
+# Groupon 修改了 S-1，但关键数字仍然缺失 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/groupon-s-1-key-numbers-missing/>
 

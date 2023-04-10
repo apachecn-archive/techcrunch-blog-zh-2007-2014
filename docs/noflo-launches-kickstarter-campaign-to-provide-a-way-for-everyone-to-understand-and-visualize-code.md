@@ -1,4 +1,4 @@
-# NoFlo 发起 Kickstarter 活动，帮助每个人理解和可视化代码 TechCrunch
+# NoFlo 发起 Kickstarter 活动，帮助每个人理解和可视化代码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/01/noflo-launches-kickstarter-campaign-to-provide-a-way-for-everyone-to-understand-and-visualize-code/>
 

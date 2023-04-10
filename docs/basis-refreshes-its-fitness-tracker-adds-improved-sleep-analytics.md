@@ -1,4 +1,4 @@
-# Basis 更新其健身追踪器，增加改进的睡眠分析技术 TechCrunch
+# Basis 更新其健身追踪器，增加改进的睡眠分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/03/basis-refreshes-its-fitness-tracker-adds-improved-sleep-analytics/>
 

@@ -1,4 +1,4 @@
-# 开源协作软件制造商 Open-Xchange 获得 900 万美元 TechCrunch
+# 开源协作软件制造商 Open-Xchange 获得 900 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/04/open-source-collaboration-software-maker-open-xchange-secures-9-million/>
 

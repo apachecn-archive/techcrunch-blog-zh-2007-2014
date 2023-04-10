@@ -1,4 +1,4 @@
-# 网上寄售店 ThredUP 不再仅仅面向儿童，而是扩展到了女装领域 TechCrunch
+# 网上寄售店 ThredUP 不再仅仅面向儿童，而是扩展到了女装领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/29/no-longer-just-for-kids-online-consignment-shop-thredup-expands-into-womens-apparel/>
 

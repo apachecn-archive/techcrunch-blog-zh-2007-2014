@@ -1,4 +1,4 @@
-# Marketo 推出面向小型企业的营销软件 Spark TechCrunch
+# Marketo 推出面向小型企业的营销软件 Spark 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/marketo-debuts-marketing-software-for-small-businesses-spark/>
 

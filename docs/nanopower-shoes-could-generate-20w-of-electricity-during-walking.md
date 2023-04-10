@@ -1,4 +1,4 @@
-# “纳米动力”鞋可以在行走中产生 20W 的电力 TechCrunch
+# “纳米动力”鞋可以在行走中产生 20W 的电力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/nanopower-shoes-could-generate-20w-of-electricity-during-walking/>
 

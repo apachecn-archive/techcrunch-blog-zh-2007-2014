@@ -1,4 +1,4 @@
-# Wetpaint 成为领先的社交发布平台 TechCrunch
+# Wetpaint 成为领先的社交发布平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/13/wetpaint-emerging-as-a-leading-social-publishing-platform/>
 

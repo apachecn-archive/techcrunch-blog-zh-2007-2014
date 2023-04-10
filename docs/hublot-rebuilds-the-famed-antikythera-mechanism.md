@@ -1,4 +1,4 @@
-# 宇舶表重建著名的安蒂基西拉机械装置 TechCrunch
+# 宇舶表重建著名的安蒂基西拉机械装置 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/hublot-rebuilds-the-famed-antikythera-mechanism/>
 

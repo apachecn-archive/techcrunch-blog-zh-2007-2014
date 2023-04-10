@@ -1,4 +1,4 @@
-# 宏碁新显示器自动将 2D 变成 3D TechCrunch
+# 宏碁新显示器自动将 2D 变成 3D 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/acers-new-monitor-turns-2d-into-3d-automagically/>
 

@@ -1,4 +1,4 @@
-# Siri:我“卑微”的女性私人秘书 TechCrunch
+# Siri:我“卑微”的女性私人秘书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/siri-my-humble-female-personal-secretary/>
 

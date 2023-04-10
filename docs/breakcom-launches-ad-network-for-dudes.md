@@ -1,4 +1,4 @@
-# Break.com 推出面向男性的广告网络 TechCrunch
+# Break.com 推出面向男性的广告网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/28/breakcom-launches-ad-network-for-dudes/>
 

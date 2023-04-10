@@ -1,4 +1,4 @@
-# 聚会。亚特兰大。今晚。TechCrunch
+# 聚会。亚特兰大。今晚。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/meetup-atlanta-tonight/>
 

@@ -1,4 +1,4 @@
-# LearnZillion 从 DCM、O'Reilly、NewSchools & More 获得 700 万美元，帮助学校采用通用核心技术 TechCrunch
+# LearnZillion 从 DCM、O'Reilly、NewSchools & More 获得 700 万美元，帮助学校采用通用核心技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/15/learnzillion-lands-7m-from-dcm-oreilly-newschools-more-to-help-schools-adopt-the-common-core/>
 

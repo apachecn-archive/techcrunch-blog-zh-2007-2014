@@ -1,4 +1,4 @@
-# 老牌旅游搜索引擎 Skyscanner 以 8 亿美元的估值获得红杉迄今为止“最大的投资之一”TechCrunch
+# 老牌旅游搜索引擎 Skyscanner 以 8 亿美元的估值获得红杉迄今为止“最大的投资之一”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/veteran-travel-search-engine-skyscanner-lands-one-of-largest-sequoia-investments-to-date-at-800m-valuation/>
 

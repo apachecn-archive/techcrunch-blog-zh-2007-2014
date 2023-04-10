@@ -1,4 +1,4 @@
-# 2012 年首个 100 万美元的域名销售额是...dudu.com？TechCrunch
+# 2012 年首个 100 万美元的域名销售额是...dudu.com？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/05/and-the-first-1-million-domain-name-sale-of-2012-is-dudu-com/>
 

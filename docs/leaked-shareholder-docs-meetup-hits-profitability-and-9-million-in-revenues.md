@@ -1,4 +1,4 @@
-# 泄露的股东文件:Meetup 实现盈利，收入 900 万美元 TechCrunch
+# 泄露的股东文件:Meetup 实现盈利，收入 900 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/leaked-shareholder-docs-meetup-hits-profitability-and-9-million-in-revenues/>
 

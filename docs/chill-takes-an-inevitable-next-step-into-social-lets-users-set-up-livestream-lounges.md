@@ -1,4 +1,4 @@
-# Chill 向社交领域迈出新的一步，允许用户建立直播休息室 TechCrunch
+# Chill 向社交领域迈出新的一步，允许用户建立直播休息室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/chill-takes-an-inevitable-next-step-into-social-lets-users-set-up-livestream-lounges/>
 

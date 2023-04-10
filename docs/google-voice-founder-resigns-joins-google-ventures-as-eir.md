@@ -1,4 +1,4 @@
-# 谷歌语音创始人辞职，加入谷歌风投，成为 EIR TechCrunch
+# 谷歌语音创始人辞职，加入谷歌风投，成为 EIR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/16/google-voice-founder-resigns-joins-google-ventures-as-eir/>
 

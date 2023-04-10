@@ -1,4 +1,4 @@
-# iPhone 5 扫清了在中国上市的最后一道监管障碍 TechCrunch
+# iPhone 5 扫清了在中国上市的最后一道监管障碍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/29/the-iphone-5-clears-its-final-regulatory-hurdle-for-launch-in-china/>
 

@@ -1,4 +1,4 @@
-# Aviary 称它已被用于编辑 100 亿张照片 TechCrunch
+# Aviary 称它已被用于编辑 100 亿张照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/24/aviary-10-billion-photos/>
 

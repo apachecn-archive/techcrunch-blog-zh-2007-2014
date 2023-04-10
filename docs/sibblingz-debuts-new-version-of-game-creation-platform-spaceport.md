@@ -1,4 +1,4 @@
-# Sibblingz 推出新版游戏创作平台 Spaceport TechCrunch
+# Sibblingz 推出新版游戏创作平台 Spaceport 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/sibblingz-debuts-new-version-of-game-creation-platform-spaceport/>
 

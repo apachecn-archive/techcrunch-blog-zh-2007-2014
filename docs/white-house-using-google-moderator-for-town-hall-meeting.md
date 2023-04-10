@@ -1,4 +1,4 @@
-# 白宫使用谷歌主持市政厅会议。还有 AppEngine。还有 YouTube。TechCrunch
+# 白宫使用谷歌主持市政厅会议。还有 AppEngine。还有 YouTube。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/24/white-house-using-google-moderator-for-town-hall-meeting/>
 

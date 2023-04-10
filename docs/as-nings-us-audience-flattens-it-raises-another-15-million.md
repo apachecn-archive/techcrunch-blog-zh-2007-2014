@@ -1,4 +1,4 @@
-# 随着宁在美国的观众人数减少，它又筹集了 1500 万美元。TechCrunch
+# 随着宁在美国的观众人数减少，它又筹集了 1500 万美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/as-nings-us-audience-flattens-it-raises-another-15-million/>
 

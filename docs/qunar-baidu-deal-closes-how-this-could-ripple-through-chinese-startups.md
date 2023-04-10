@@ -1,4 +1,4 @@
-# 去哪儿百度交易完成。这将如何影响中国的初创企业。TechCrunch
+# 去哪儿百度交易完成。这将如何影响中国的初创企业。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/qunar-baidu-deal-closes-how-this-could-ripple-through-chinese-startups/>
 

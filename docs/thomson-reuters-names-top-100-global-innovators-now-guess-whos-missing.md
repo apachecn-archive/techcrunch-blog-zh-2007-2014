@@ -1,4 +1,4 @@
-# 汤森路透评选出“全球 100 大创新者”——现在猜猜谁错过了 TechCrunch
+# 汤森路透评选出“全球 100 大创新者”——现在猜猜谁错过了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/thomson-reuters-names-top-100-global-innovators-now-guess-whos-missing/>
 

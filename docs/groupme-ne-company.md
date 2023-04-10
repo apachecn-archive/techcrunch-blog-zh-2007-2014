@@ -1,4 +1,4 @@
-# GroupMe 联合创始人:GroupMe 不会是我最后一家创业公司 TechCrunch
+# GroupMe 联合创始人:GroupMe 不会是我最后一家创业公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/groupme-ne-company/>
 

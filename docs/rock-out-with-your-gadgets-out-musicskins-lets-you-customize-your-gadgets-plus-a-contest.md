@@ -1,4 +1,4 @@
-# 用你的小工具摇滚起来:MusicSkins 让你定制你的小工具和一场比赛 TechCrunch
+# 用你的小工具摇滚起来:MusicSkins 让你定制你的小工具和一场比赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/rock-out-with-your-gadgets-out-musicskins-lets-you-customize-your-gadgets-plus-a-contest/>
 

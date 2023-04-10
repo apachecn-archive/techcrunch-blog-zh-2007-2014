@@ -1,4 +1,4 @@
-# Siri 破解了，理论上向其他设备开放(甚至安卓！)TechCrunch
+# Siri 破解了，理论上向其他设备开放(甚至安卓！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/siri-cracked-open-theoretically-opening-it-up-to-other-devices-or-even-android/>
 

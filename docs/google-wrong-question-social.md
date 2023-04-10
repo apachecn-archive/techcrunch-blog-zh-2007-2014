@@ -1,4 +1,4 @@
-# 谷歌用社交问错问题了吗？TechCrunch
+# 谷歌用社交问错问题了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/google-wrong-question-social/>
 

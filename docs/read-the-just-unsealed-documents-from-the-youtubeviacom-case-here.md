@@ -1,4 +1,4 @@
-# 点击此处阅读 YouTube/Viacom 案件的未公开文件 TechCrunch
+# 点击此处阅读 YouTube/Viacom 案件的未公开文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/18/read-the-just-unsealed-documents-from-the-youtubeviacom-case-here/>
 

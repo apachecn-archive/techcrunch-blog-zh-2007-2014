@@ -1,4 +1,4 @@
-# 创业公司应该雇佣谁？(态度胜于能力)TechCrunch
+# 创业公司应该雇佣谁？(态度胜于能力)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/17/whom-to-hire-at-a-startup-attitude-over-aptitude/>
 

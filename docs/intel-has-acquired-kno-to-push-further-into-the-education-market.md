@@ -1,4 +1,4 @@
-# 英特尔收购了 Kno，将通过交互式教科书进一步进军教育内容市场 TechCrunch
+# 英特尔收购了 Kno，将通过交互式教科书进一步进军教育内容市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/08/intel-has-acquired-kno-to-push-further-into-the-education-market/>
 

@@ -1,4 +1,4 @@
-# 创始人故事:马特·麦金尼斯离开苹果开始涉足 TechCrunch
+# 创始人故事:马特·麦金尼斯离开苹果开始涉足 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/founder-stories-matt-macinnis-on-leaving-apple-to-start-inkling/>
 

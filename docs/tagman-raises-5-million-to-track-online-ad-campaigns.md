@@ -1,4 +1,4 @@
-# TagMan 筹集 500 万美元用于跟踪在线广告活动 TechCrunch
+# TagMan 筹集 500 万美元用于跟踪在线广告活动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/tagman-raises-5-million-to-track-online-ad-campaigns/>
 

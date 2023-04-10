@@ -1,4 +1,4 @@
-# Iogear 推出首款 Mac、PC 兼容 USB 集线器 TechCrunch
+# Iogear 推出首款 Mac、PC 兼容 USB 集线器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/24/iogear-launches-first-mac-pc-compatible-usb-hubs/>
 

@@ -1,4 +1,4 @@
-# 关于苹果 2011 年、股票、蒂姆·库克和未来的一些想法 TechCrunch
+# 关于苹果 2011 年、股票、蒂姆·库克和未来的一些想法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/17/steve-jobs-apple-tim-cook-2011/>
 

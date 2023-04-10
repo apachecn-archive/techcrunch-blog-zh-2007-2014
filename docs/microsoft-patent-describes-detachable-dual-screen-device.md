@@ -1,4 +1,4 @@
-# 微软专利描述可拆卸双屏设备 TechCrunch
+# 微软专利描述可拆卸双屏设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/microsoft-patent-describes-detachable-dual-screen-device/>
 

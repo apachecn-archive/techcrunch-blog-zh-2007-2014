@@ -1,4 +1,4 @@
-# 弗雷德·威尔逊谈向风投投资:把背景故事留在家里 TechCrunch
+# 弗雷德·威尔逊谈向风投投资:把背景故事留在家里 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/fred-wilson-on-pitching-a-vc-leave-the-backstory-at-home/>
 

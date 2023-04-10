@@ -1,4 +1,4 @@
-# Spotify 是否准备将其应用中心推至其 iOS 移动应用？TechCrunch
+# Spotify 是否准备将其应用中心推至其 iOS 移动应用？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/09/is-spotify-preparing-to-push-its-app-center-to-its-ios-mobile-app/>
 

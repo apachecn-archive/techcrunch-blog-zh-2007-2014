@@ -1,4 +1,4 @@
-# 微软用免费手机和培训吸引 WebOS 开发者 TechCrunch
+# 微软用免费手机和培训吸引 WebOS 开发者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/microsoft-wooing-webos-developers-with-free-phones-and-training/>
 

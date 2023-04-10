@@ -1,4 +1,4 @@
-# GDrive 到底怎么了？TechCrunch
+# GDrive 到底怎么了？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/19/what-ever-happened-to-gdrive/>
 

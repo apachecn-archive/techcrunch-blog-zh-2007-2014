@@ -1,4 +1,4 @@
-# 尼尔森:电视仍是媒体消费的王者:只有 16%的电视家庭拥有平板电脑 TechCrunch
+# 尼尔森:电视仍是媒体消费的王者:只有 16%的电视家庭拥有平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/07/nielsen-tv-still-king-in-media-consumption-only-16-percent-of-tv-homes-have-tablets/>
 

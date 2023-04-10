@@ -1,4 +1,4 @@
-# 华硕 Zenbooks 加入超极本竞争，起价 999 美元 TechCrunch
+# 华硕 Zenbooks 加入超极本竞争，起价 999 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/asus-zenbooks-enter-the-ultrabook-fray-starting-at-999/>
 

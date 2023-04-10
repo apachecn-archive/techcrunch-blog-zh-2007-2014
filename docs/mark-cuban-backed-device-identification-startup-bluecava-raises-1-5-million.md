@@ -1,4 +1,4 @@
-# 马克·库班支持的设备识别初创公司 BlueCava 融资 150 万美元 TechCrunch
+# 马克·库班支持的设备识别初创公司 BlueCava 融资 150 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/mark-cuban-backed-device-identification-startup-bluecava-raises-1-5-million/>
 

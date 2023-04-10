@@ -1,4 +1,4 @@
-# 赞扬 Metro TechCrunch
+# 赞扬 Metro 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/02/in-praise-of-metro/>
 

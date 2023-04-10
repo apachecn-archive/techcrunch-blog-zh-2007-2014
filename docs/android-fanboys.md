@@ -1,4 +1,4 @@
-# 安卓粉丝来了。这是一件好事 TechCrunch
+# 安卓粉丝来了。这是一件好事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/30/android-fanboys/>
 

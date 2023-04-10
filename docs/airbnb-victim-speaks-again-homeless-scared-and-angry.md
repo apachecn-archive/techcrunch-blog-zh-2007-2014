@@ -1,4 +1,4 @@
-# Airbnb 受害者再次发言:无家可归、恐惧和愤怒 TechCrunch
+# Airbnb 受害者再次发言:无家可归、恐惧和愤怒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/airbnb-victim-speaks-again-homeless-scared-and-angry/>
 

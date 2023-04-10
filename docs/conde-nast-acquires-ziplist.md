@@ -1,4 +1,4 @@
-# 康泰纳仕收购食谱初创公司 zip list TechCrunch
+# 康泰纳仕收购食谱初创公司 zip list 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/conde-nast-acquires-ziplist/>
 

@@ -1,4 +1,4 @@
-# 1000Memories 现在只需一瞥就能捕捉到逝去亲人的生活 TechCrunch
+# 1000Memories 现在只需一瞥就能捕捉到逝去亲人的生活 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/08/1000memories-now-captures-the-lives-of-departed-loved-ones-in-a-single-glance/>
 

@@ -1,4 +1,4 @@
-# 太阳能灯泡在天黑后提供照明 TechCrunch
+# 太阳能灯泡在天黑后提供照明 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/nokero-solar-power-bulb/>
 

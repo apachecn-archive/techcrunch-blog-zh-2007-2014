@@ -1,4 +1,4 @@
-# 热衷于...创新:硅谷正在失去它的魔力吗？TechCrunch
+# 热衷于...创新:硅谷正在失去它的魔力吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/26/keen-on-innovation-is-silicon-valley-losing-its-mojo/>
 

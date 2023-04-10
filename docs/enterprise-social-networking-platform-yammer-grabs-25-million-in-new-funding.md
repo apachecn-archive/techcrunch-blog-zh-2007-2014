@@ -1,4 +1,4 @@
-# 企业社交网络平台 Yammer 获得 2500 万美元新资金 TechCrunch
+# 企业社交网络平台 Yammer 获得 2500 万美元新资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/30/enterprise-social-networking-platform-yammer-grabs-25-million-in-new-funding/>
 

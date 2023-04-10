@@ -1,4 +1,4 @@
-# 采访脸书的乔·休伊特，iPhone 之神——TechCrunch
+# 采访脸书的乔·休伊特，iPhone 之神——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/interview-with-facebooks-joe-hewitt-iphone-god/>
 

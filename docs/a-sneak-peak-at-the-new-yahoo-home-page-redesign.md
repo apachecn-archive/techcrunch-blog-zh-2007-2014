@@ -1,4 +1,4 @@
-# 先睹为快新的雅虎主页重新设计？TechCrunch
+# 先睹为快新的雅虎主页重新设计？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/a-sneak-peak-at-the-new-yahoo-home-page-redesign/>
 

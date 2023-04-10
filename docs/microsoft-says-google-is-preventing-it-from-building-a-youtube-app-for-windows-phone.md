@@ -1,4 +1,4 @@
-# 微软称谷歌阻止其为 Windows Phone 开发 YouTube 应用程序 TechCrunch
+# 微软称谷歌阻止其为 Windows Phone 开发 YouTube 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/02/microsoft-says-google-is-preventing-it-from-building-a-youtube-app-for-windows-phone/>
 

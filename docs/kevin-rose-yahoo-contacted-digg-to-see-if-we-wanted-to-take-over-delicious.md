@@ -1,4 +1,4 @@
-# 凯文·罗斯:雅虎联系了 Digg，看我们是否想收购 Delicious TechCrunch
+# 凯文·罗斯:雅虎联系了 Digg，看我们是否想收购 Delicious 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/kevin-rose-yahoo-contacted-digg-to-see-if-we-wanted-to-take-over-delicious/>
 

@@ -1,4 +1,4 @@
-# 谷歌为留住员工又迈出一大步:自主业务部门 TechCrunch
+# 谷歌为留住员工又迈出一大步:自主业务部门 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/17/google-takes-another-big-step-to-retain-employees-autonomous-business-units/>
 

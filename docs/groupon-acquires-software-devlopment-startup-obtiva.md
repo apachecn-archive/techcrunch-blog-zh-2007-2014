@@ -1,4 +1,4 @@
-# Groupon 收购软件开发初创公司 obti va TechCrunch
+# Groupon 收购软件开发初创公司 obti va 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/groupon-acquires-software-devlopment-startup-obtiva/>
 

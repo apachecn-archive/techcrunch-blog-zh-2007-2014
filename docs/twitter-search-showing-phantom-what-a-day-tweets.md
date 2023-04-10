@@ -1,4 +1,4 @@
-# 谁在搞乱 Twitter 搜索？TechCrunch
+# 谁在搞乱 Twitter 搜索？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/08/twitter-search-showing-phantom-what-a-day-tweets/>
 

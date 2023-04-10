@@ -1,4 +1,4 @@
-# 在亚马逊旗下，Goodreads 计划在保持其独立地位的同时进行更紧密的整合 TechCrunch
+# 在亚马逊旗下，Goodreads 计划在保持其独立地位的同时进行更紧密的整合 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/28/amazon-goodreads-interview/>
 

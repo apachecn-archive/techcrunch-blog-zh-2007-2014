@@ -1,4 +1,4 @@
-# 脸书现在在二级市场价值 500 亿美元 TechCrunch
+# 脸书现在在二级市场价值 500 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/29/facebook-now-worth-50-billion-in-secondary-trading/>
 

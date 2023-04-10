@@ -1,4 +1,4 @@
-# Twitter 通信团队的另一名成员离开了。那么推特上发生了什么？TechCrunch
+# Twitter 通信团队的另一名成员离开了。那么推特上发生了什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/another-member-of-the-twitter-comms-team-leaves-so-whats-going-on-at-twitter/>
 

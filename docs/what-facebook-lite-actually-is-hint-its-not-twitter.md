@@ -1,4 +1,4 @@
-# 脸书建兴实际上是什么。提示:这不是 Twitter 或 FriendFeed。TechCrunch
+# 脸书建兴实际上是什么。提示:这不是 Twitter 或 FriendFeed。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/12/what-facebook-lite-actually-is-hint-its-not-twitter/>
 

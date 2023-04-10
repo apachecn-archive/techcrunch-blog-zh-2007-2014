@@ -1,4 +1,4 @@
-# 美国国家情报总监发布 Tumblr 网站“IC On The Record”以缓解监控担忧 TechCrunch
+# 美国国家情报总监发布 Tumblr 网站“IC On The Record”以缓解监控担忧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/21/us-director-of-national-intelligence-launches-tumblr-site-ic-on-the-record-to-assuage-surveillance-concerns/>
 

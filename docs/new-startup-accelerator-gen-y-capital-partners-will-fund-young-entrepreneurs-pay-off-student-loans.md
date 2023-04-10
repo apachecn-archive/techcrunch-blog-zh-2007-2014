@@ -1,4 +1,4 @@
-# 新的创业加速器 Gen Y Capital Partners 将资助年轻创业者，偿还学生贷款 TechCrunch
+# 新的创业加速器 Gen Y Capital Partners 将资助年轻创业者，偿还学生贷款 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/new-startup-accelerator-gen-y-capital-partners-will-fund-young-entrepreneurs-pay-off-student-loans/>
 

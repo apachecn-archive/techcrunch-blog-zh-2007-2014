@@ -1,4 +1,4 @@
-# CashStar 从英特尔投资和其他公司获得 500 万美元用于数字礼品平台 TechCrunch
+# CashStar 从英特尔投资和其他公司获得 500 万美元用于数字礼品平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/10/cashstar-nabs-5-million-from-intel-capital-and-others-for-digital-gifting-platform/>
 

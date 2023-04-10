@@ -1,4 +1,4 @@
-# 你好。托尼·拉·鲁萨正在起诉推特。TechCrunch
+# 你好。托尼·拉·鲁萨正在起诉推特。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/04/hey-there-tony-la-russa-is-suing-twitter/>
 

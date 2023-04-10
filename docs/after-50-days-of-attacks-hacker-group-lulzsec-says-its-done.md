@@ -1,4 +1,4 @@
-# 经过 50 天的攻击，黑客组织 LulzSec 宣布退出 TechCrunch
+# 经过 50 天的攻击，黑客组织 LulzSec 宣布退出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/25/after-50-days-of-attacks-hacker-group-lulzsec-says-its-done/>
 

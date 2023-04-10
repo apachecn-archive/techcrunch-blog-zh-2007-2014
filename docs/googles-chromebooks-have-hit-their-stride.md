@@ -1,4 +1,4 @@
-# 谷歌的 Chromebooks 取得了长足的进步 TechCrunch
+# 谷歌的 Chromebooks 取得了长足的进步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/28/googles-chromebooks-have-hit-their-stride/>
 

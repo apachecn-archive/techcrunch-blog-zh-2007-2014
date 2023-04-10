@@ -1,4 +1,4 @@
-# 美国电话电报公司发布新款 Windows 手机，概述芒果更新计划 TechCrunch
+# 美国电话电报公司发布新款 Windows 手机，概述芒果更新计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/att-reveals-focus-s-focus-flash-and-mango-update-plans/>
 

@@ -1,4 +1,4 @@
-# Crittercism 从 Kleiner Perkins 和 Google Ventures 获得 120 万美元用于应用支持 TechCrunch
+# Crittercism 从 Kleiner Perkins 和 Google Ventures 获得 120 万美元用于应用支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/crittercism-raises-1-2-million-from-kleiner-perkins-and-google-ventures-for-app-support/>
 

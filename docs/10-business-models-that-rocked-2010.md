@@ -1,4 +1,4 @@
-# 震撼 2010 年的 10 种商业模式 TechCrunch
+# 震撼 2010 年的 10 种商业模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/07/10-business-models-that-rocked-2010/>
 

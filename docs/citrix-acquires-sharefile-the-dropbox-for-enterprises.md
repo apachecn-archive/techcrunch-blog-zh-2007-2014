@@ -1,4 +1,4 @@
-# Citrix 收购 ShareFile——“企业 Dropbox”——TechCrunch
+# Citrix 收购 ShareFile——“企业 Dropbox”——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/citrix-acquires-sharefile-the-dropbox-for-enterprises/>
 

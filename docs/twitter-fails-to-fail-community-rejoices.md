@@ -1,4 +1,4 @@
-# Twitter 没有失败，社区欢欣鼓舞 TechCrunch
+# Twitter 没有失败，社区欢欣鼓舞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/10/twitter-fails-to-fail-community-rejoices/>
 

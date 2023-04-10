@@ -1,4 +1,4 @@
-# 雅虎将新闻浏览变成无限搜索 TechCrunch
+# 雅虎将新闻浏览变成无限搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/06/yahoo-turns-news-browsing-into-infinite-search/>
 

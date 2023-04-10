@@ -1,4 +1,4 @@
-# 2013 年，火狐操作系统将在智能手机中占据 1%的份额，因为安卓系统垄断了低成本市场 TechCrunch
+# 2013 年，火狐操作系统将在智能手机中占据 1%的份额，因为安卓系统垄断了低成本市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/27/firefox-os-will-only-take-a-niche-1-of-smartphone-shipments-in-2013-predicts-strategy-analytics/>
 

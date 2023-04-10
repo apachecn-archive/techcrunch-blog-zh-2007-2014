@@ -1,4 +1,4 @@
-# 微软将 Outlook.com 排除在预览之外，开始迁移 Hotmail 用户，并启动“大规模”新营销活动 TechCrunch
+# 微软将 Outlook.com 排除在预览之外，开始迁移 Hotmail 用户，并启动“大规模”新营销活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/18/microsoft-takes-outlook-com-out-of-preview/>
 

@@ -1,4 +1,4 @@
-# LinkedIn 的市值超过 Salesforce，sales force 一直是云服务的风向标 TechCrunch
+# LinkedIn 的市值超过 Salesforce，sales force 一直是云服务的风向标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/15/linkedin-market-cap-surpasses-salesforce-long-the-bellwether-symbol-of-cloud-services/>
 

@@ -1,4 +1,4 @@
-# 即将推出的社交网络 Altly 现在是 AnyBeat，进入私人测试版 TechCrunch
+# 即将推出的社交网络 Altly 现在是 AnyBeat，进入私人测试版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/upcoming-social-network-altly-is-now-anybeat-goes-into-private-beta/>
 

@@ -1,4 +1,4 @@
-# Twitter 现在对种子更加友好 TechCrunch
+# Twitter 现在对种子更加友好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/06/twitter-now-even-more-torrent-friendly/>
 

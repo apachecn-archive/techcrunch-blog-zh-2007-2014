@@ -1,4 +1,4 @@
-# Google 的 Play Store 应用下载量达到 250 亿次，开始为期五天的销售以庆祝 TechCrunch
+# Google 的 Play Store 应用下载量达到 250 亿次，开始为期五天的销售以庆祝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/google-play-store-25-billion-app-downloads/>
 

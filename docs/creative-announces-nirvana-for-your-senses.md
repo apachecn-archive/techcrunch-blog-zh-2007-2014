@@ -1,4 +1,4 @@
-# 创意宣布感官天堂 TechCrunch
+# 创意宣布感官天堂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/18/creative-announces-nirvana-for-your-senses/>
 

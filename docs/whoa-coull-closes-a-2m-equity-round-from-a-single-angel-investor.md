@@ -1,4 +1,4 @@
-# 哇哦。Coull 完成了来自一家天使投资者的 200 万美元股权融资 TechCrunch
+# 哇哦。Coull 完成了来自一家天使投资者的 200 万美元股权融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/02/whoa-coull-closes-a-2m-equity-round-from-a-single-angel-investor/>
 

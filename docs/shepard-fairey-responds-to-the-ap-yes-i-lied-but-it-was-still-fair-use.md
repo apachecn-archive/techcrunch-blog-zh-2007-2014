@@ -1,4 +1,4 @@
-# 谢泼德·费尔雷回应美联社:是的，我撒谎了。但这仍然是合理使用。TechCrunch
+# 谢泼德·费尔雷回应美联社:是的，我撒谎了。但这仍然是合理使用。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/16/shepard-fairey-responds-to-the-ap-yes-i-lied-but-it-was-still-fair-use/>
 

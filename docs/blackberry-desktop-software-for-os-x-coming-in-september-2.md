@@ -1,4 +1,4 @@
-# 面向 OS X 的黑莓桌面软件将于 9 月推出。！！！！)TechCrunch
+# 面向 OS X 的黑莓桌面软件将于 9 月推出。！！！！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/20/blackberry-desktop-software-for-os-x-coming-in-september-2/>
 

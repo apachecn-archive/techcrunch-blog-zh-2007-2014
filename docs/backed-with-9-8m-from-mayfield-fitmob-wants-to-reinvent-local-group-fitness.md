@@ -1,4 +1,4 @@
-# 在梅菲尔德 980 万美元的支持下，Fitmob 希望重塑本地团体健身 TechCrunch
+# 在梅菲尔德 980 万美元的支持下，Fitmob 希望重塑本地团体健身 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/backed-with-9-8m-from-mayfield-fitmob-wants-to-reinvent-local-group-fitness/>
 

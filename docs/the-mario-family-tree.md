@@ -1,4 +1,4 @@
-# 马里奥家谱 TechCrunch
+# 马里奥家谱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/18/the-mario-family-tree/>
 

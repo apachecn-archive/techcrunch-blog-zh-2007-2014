@@ -1,4 +1,4 @@
-# 阿尔弗雷德林离开 Zappos，加入红杉资本 TechCrunch
+# 阿尔弗雷德林离开 Zappos，加入红杉资本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/09/alfred-lin-leaves-zappos-joins-sequoia-capital/>
 

@@ -1,4 +1,4 @@
-# 关于今天的苹果活动你需要知道的一切 TechCrunch
+# 关于今天的苹果活动你需要知道的一切 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/everything-you-need-to-know-about-todays-apple-event/>
 

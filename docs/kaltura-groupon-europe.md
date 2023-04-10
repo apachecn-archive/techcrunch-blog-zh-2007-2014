@@ -1,4 +1,4 @@
-# 在线视频平台提供商 Kaltura 收购 Groupon 交易，同时宣布欧洲扩张 TechCrunch
+# 在线视频平台提供商 Kaltura 收购 Groupon 交易，同时宣布欧洲扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/kaltura-groupon-europe/>
 

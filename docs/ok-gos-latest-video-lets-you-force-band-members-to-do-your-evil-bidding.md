@@ -1,4 +1,4 @@
-# OK Go 的最新视频让你强迫乐队成员执行你邪恶的命令 TechCrunch
+# OK Go 的最新视频让你强迫乐队成员执行你邪恶的命令 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/ok-gos-latest-video-lets-you-force-band-members-to-do-your-evil-bidding/>
 

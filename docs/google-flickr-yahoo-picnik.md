@@ -1,4 +1,4 @@
-# 谷歌:Flickr 可以继续用 Picnik。雅虎:我们无可奉告。TechCrunch
+# 谷歌:Flickr 可以继续用 Picnik。雅虎:我们无可奉告。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/01/google-flickr-yahoo-picnik/>
 

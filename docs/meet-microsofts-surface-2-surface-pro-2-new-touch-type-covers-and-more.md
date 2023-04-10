@@ -1,4 +1,4 @@
-# 认识一下微软的 Surface 2 和 Surface Pro 2 TechCrunch
+# 认识一下微软的 Surface 2 和 Surface Pro 2 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/23/meet-microsofts-surface-2-surface-pro-2-new-touch-type-covers-and-more/>
 

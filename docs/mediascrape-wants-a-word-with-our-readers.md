@@ -1,4 +1,4 @@
-# MediaScrape 想和我们的读者谈谈 TechCrunch
+# MediaScrape 想和我们的读者谈谈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/26/mediascrape-wants-a-word-with-our-readers/>
 

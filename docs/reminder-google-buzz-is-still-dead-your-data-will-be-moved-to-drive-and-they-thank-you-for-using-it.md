@@ -1,4 +1,4 @@
-# 提醒:Google Buzz 还是死的，你的数据会被移到 Drive，他们感谢你使用它 TechCrunch
+# 提醒:Google Buzz 还是死的，你的数据会被移到 Drive，他们感谢你使用它 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/05/25/reminder-google-buzz-is-still-dead-your-data-will-be-moved-to-drive-and-they-thank-you-for-using-it/>
 

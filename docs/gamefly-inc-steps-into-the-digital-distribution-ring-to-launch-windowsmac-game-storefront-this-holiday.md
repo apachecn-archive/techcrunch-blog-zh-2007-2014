@@ -1,4 +1,4 @@
-# GameFly，Inc .将在这个假期推出 Windows/Mac 数字发行游戏店面 TechCrunch
+# GameFly，Inc .将在这个假期推出 Windows/Mac 数字发行游戏店面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/gamefly-inc-steps-into-the-digital-distribution-ring-to-launch-windowsmac-game-storefront-this-holiday/>
 

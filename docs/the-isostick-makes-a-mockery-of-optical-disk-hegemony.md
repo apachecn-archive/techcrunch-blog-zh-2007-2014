@@ -1,4 +1,4 @@
-# Isostick 嘲弄了光盘霸权 TechCrunch
+# Isostick 嘲弄了光盘霸权 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/the-isostick-makes-a-mockery-of-optical-disk-hegemony/>
 

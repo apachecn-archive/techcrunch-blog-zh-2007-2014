@@ -1,4 +1,4 @@
-# 在线金融初创公司 Wesabe 走向死亡池 TechCrunch
+# 在线金融初创公司 Wesabe 走向死亡池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/wesabe-shuts-down/>
 

@@ -1,4 +1,4 @@
-# 戴尔在消费者满意度特区失败华尔街日报 TechCrunch
+# 戴尔在消费者满意度特区失败华尔街日报 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/dell-failing-in-consumer-satisfaction-sez-wsj/>
 

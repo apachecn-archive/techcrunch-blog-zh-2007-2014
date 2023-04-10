@@ -1,4 +1,4 @@
-# 漫长的泡沫之旅结束于死亡池 TechCrunch
+# 漫长的泡沫之旅结束于死亡池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/13/long-journey-for-bubbleshare-ends-in-deadpool/>
 

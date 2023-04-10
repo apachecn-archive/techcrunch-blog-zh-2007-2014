@@ -1,4 +1,4 @@
-# 黄诉华硕:企业欺诈还是消费者贪婪？TechCrunch
+# 黄诉华硕:企业欺诈还是消费者贪婪？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/02/huang-vs-asus-corporate-fraud-or-consumer-greed/>
 

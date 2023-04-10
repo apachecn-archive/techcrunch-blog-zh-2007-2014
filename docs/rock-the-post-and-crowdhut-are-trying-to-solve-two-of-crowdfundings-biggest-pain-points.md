@@ -1,4 +1,4 @@
-# Rock The Post 和 CrowdHut 正试图解决众筹最大的两个痛点 TechCrunch
+# Rock The Post 和 CrowdHut 正试图解决众筹最大的两个痛点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/rock-the-post-and-crowdhut-are-trying-to-solve-two-of-crowdfundings-biggest-pain-points/>
 

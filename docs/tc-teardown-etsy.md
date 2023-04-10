@@ -1,4 +1,4 @@
-# TC 拆机:Etsy，很狡猾 TechCrunch
+# TC 拆机:Etsy，很狡猾 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/11/tc-teardown-etsy/>
 

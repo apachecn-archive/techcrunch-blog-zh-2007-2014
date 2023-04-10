@@ -1,4 +1,4 @@
-# 互联网永远不会忘记:Politwoops 保存了政客们试图删除的推文 TechCrunch
+# 互联网永远不会忘记:Politwoops 保存了政客们试图删除的推文 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/the-internet-never-forgets-politwoops-saves-the-tweets-your-politicians-tried-to-delete/>
 

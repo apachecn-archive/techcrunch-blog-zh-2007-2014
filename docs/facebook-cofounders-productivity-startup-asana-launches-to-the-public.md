@@ -1,4 +1,4 @@
-# 脸书联合创始人的生产力创业公司 Asana 向公众推出 TechCrunch
+# 脸书联合创始人的生产力创业公司 Asana 向公众推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/facebook-cofounders-productivity-startup-asana-launches-to-the-public/>
 

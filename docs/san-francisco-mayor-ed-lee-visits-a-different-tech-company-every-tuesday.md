@@ -1,4 +1,4 @@
-# 旧金山市长 Ed Lee 每周二都会拜访不同的科技公司 TechCrunch
+# 旧金山市长 Ed Lee 每周二都会拜访不同的科技公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/san-francisco-mayor-ed-lee-visits-a-different-tech-company-every-tuesday/>
 

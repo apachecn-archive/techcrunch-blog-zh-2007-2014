@@ -1,4 +1,4 @@
-# 亚马逊新的 iPhone 应用程序提供店内价格比较，一键购买 TechCrunch
+# 亚马逊新的 iPhone 应用程序提供店内价格比较，一键购买 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/amazons-new-iphone-app-offers-in-store-price-comparisons-one-click-purchases/>
 

@@ -1,4 +1,4 @@
-# ZIIRO Celeste 腕表教你混色 TechCrunch
+# ZIIRO Celeste 腕表教你混色 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/the-ziiro-celeste-watch-teaches-you-color-mixing/>
 

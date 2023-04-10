@@ -1,4 +1,4 @@
-# 嘿，看，这是推特失败鲸！TechCrunch
+# 嘿，看，这是推特失败鲸！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/20/twitter-fail-whale/>
 

@@ -1,4 +1,4 @@
-# Gilt 创始人 Kevin Ryan 的新创公司 Zola 希望彻底改造婚礼登记处 TechCrunch
+# Gilt 创始人 Kevin Ryan 的新创公司 Zola 希望彻底改造婚礼登记处 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/gilt-founder-kevin-ryans-new-startup-zola-wants-to-reinvent-the-wedding-registry/>
 

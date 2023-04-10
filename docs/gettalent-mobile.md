@@ -1,4 +1,4 @@
-# getTalent 推出扫描纸质简历的 iOS 应用 TechCrunch
+# getTalent 推出扫描纸质简历的 iOS 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/gettalent-mobile/>
 

@@ -1,4 +1,4 @@
-# HeyTell 希望 SXSW 将成为一个大型对讲机聚会 TechCrunch
+# HeyTell 希望 SXSW 将成为一个大型对讲机聚会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/01/heytell-party-relay/>
 

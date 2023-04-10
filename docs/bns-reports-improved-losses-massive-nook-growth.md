@@ -1,4 +1,4 @@
-# B&N 报告亏损改善，Nook 大幅增长 TechCrunch
+# B&N 报告亏损改善，Nook 大幅增长 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/bns-reports-improved-losses-massive-nook-growth/>
 

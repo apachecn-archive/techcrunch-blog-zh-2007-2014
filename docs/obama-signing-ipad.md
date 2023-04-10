@@ -1,4 +1,4 @@
-# 如果你从未见过奥巴马总统在 iPad 上签名，请点击此处 TechCrunch
+# 如果你从未见过奥巴马总统在 iPad 上签名，请点击此处 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/22/obama-signing-ipad/>
 

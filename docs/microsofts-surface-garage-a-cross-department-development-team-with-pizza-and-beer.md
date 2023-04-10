@@ -1,4 +1,4 @@
-# 微软的 Surface Garage:跨部门开发团队，有披萨和啤酒 TechCrunch
+# 微软的 Surface Garage:跨部门开发团队，有披萨和啤酒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/microsofts-surface-garage-a-cross-department-development-team-with-pizza-and-beer/>
 

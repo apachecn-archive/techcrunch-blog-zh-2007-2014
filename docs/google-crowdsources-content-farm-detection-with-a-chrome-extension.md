@@ -1,4 +1,4 @@
-# 谷歌通过 Chrome 扩展将内容农场检测外包给了 TechCrunch
+# 谷歌通过 Chrome 扩展将内容农场检测外包给了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/google-crowdsources-content-farm-detection-with-a-chrome-extension/>
 

@@ -1,4 +1,4 @@
-# 购买这部电影或合法免费下载:你的电话 TechCrunch
+# 购买这部电影或合法免费下载:你的电话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/01/buy-presspauseplay-or-legally-download-it-for-free-your-call/>
 

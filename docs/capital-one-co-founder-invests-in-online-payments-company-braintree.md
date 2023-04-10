@@ -1,4 +1,4 @@
-# Capital One 联合创始人投资在线支付公司 brain tree TechCrunch
+# Capital One 联合创始人投资在线支付公司 brain tree 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/capital-one-co-founder-invests-in-online-payments-company-braintree/>
 

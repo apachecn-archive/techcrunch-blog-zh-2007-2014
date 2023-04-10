@@ -1,4 +1,4 @@
-# 退出问答——Demotix 创始人 Turi Munthe 给出了他关于如何创建一家初创公司的建议 TechCrunch
+# 退出问答——Demotix 创始人 Turi Munthe 给出了他关于如何创建一家初创公司的建议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/14/exit-qa-demotix-founder-turi-munthe-gives-his-advice-on-how-to-build-a-startup/>
 

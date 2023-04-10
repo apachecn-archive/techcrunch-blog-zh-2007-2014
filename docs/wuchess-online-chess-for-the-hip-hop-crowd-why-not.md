@@ -1,4 +1,4 @@
-# 吴切斯:嘻哈人群的在线象棋。为什么不呢？TechCrunch
+# 吴切斯:嘻哈人群的在线象棋。为什么不呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/02/wuchess-online-chess-for-the-hip-hop-crowd-why-not/>
 

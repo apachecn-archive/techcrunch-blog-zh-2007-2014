@@ -1,4 +1,4 @@
-# 铱星与俄罗斯卫星相撞 TechCrunch
+# 铱星与俄罗斯卫星相撞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/13/iridium-satellite-collides-with-russian-satellite/>
 

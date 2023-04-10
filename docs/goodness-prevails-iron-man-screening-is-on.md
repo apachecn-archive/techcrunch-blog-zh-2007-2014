@@ -1,4 +1,4 @@
-# 善良占上风:钢铁侠上映。TechCrunch
+# 善良占上风:钢铁侠上映。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/30/goodness-prevails-iron-man-screening-is-on/>
 

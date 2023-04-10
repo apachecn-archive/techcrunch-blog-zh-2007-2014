@@ -1,4 +1,4 @@
-# 五年后，苹果召回第一代 iPod Nano TechCrunch
+# 五年后，苹果召回第一代 iPod Nano 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/12/five-years-later-apple-recalls-the-first-generation-ipod-nano/>
 

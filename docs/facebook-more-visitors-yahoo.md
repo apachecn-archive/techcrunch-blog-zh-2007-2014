@@ -1,4 +1,4 @@
-# 不可避免的进步:脸书的访客数量将很快超过雅虎 TechCrunch
+# 不可避免的进步:脸书的访客数量将很快超过雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/facebook-more-visitors-yahoo/>
 

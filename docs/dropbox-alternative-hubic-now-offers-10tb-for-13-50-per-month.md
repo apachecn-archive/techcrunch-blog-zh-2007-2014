@@ -1,4 +1,4 @@
-# Dropbox 替代产品 HubiC 现在提供 10TB 容量，每月 13.50 美元 TechCrunch
+# Dropbox 替代产品 HubiC 现在提供 10TB 容量，每月 13.50 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/07/dropbox-alternative-hubic-now-offers-10tb-for-13-50-per-month/>
 

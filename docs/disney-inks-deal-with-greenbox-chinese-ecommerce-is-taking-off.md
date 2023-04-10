@@ -1,4 +1,4 @@
-# 迪士尼与 Greenbox 达成协议，中国电子商务开始腾飞 TechCrunch
+# 迪士尼与 Greenbox 达成协议，中国电子商务开始腾飞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/27/disney-inks-deal-with-greenbox-chinese-ecommerce-is-taking-off/>
 

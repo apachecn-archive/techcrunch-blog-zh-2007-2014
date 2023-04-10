@@ -1,4 +1,4 @@
-# Twitter 尝试文字广告 TechCrunch
+# Twitter 尝试文字广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/16/twitter-experimenting-with-text-advertising/>
 

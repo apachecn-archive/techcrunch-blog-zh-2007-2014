@@ -1,4 +1,4 @@
-# Jaiku 增加了即时通讯功能——TechCrunch
+# Jaiku 增加了即时通讯功能——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/jaiku-adds-instant-messaging/>
 

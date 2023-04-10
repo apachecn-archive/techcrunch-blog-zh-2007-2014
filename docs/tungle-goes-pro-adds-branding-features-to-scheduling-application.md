@@ -1,4 +1,4 @@
-# Tungle Goes Pro 为日程安排应用程序添加品牌功能 TechCrunch
+# Tungle Goes Pro 为日程安排应用程序添加品牌功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/15/tungle-goes-pro-adds-branding-features-to-scheduling-application/>
 

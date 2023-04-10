@@ -1,4 +1,4 @@
-# 微软与印度尼西亚 Bango 签订了第一份 Windows Phone 商店运营商付费协议 TechCrunch
+# 微软与印度尼西亚 Bango 签订了第一份 Windows Phone 商店运营商付费协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/microsoft-turns-on-its-first-carrier-billing-deal-for-the-windows-phone-store-in-indonesia/>
 

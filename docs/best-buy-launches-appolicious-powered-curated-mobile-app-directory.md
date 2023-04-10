@@ -1,4 +1,4 @@
-# 百思买推出恰当的、有针对性的移动应用程序目录 TechCrunch
+# 百思买推出恰当的、有针对性的移动应用程序目录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/best-buy-launches-appolicious-powered-curated-mobile-app-directory/>
 

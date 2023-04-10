@@ -1,4 +1,4 @@
-# 雅虎失去了他们最重要的交易伙伴之一——又多了一名高管 TechCrunch
+# 雅虎失去了他们最重要的交易伙伴之一——又多了一名高管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/27/yahoo-loses-one-of-their-top-deal-guys-one-more-exec-gone/>
 

@@ -1,4 +1,4 @@
-# 爱可视 Q9 平板电脑是一款结实的蜂窝运行机器 TechCrunch
+# 爱可视 Q9 平板电脑是一款结实的蜂窝运行机器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/archos-q9-tablet-is-a-beefy-honeycomb-running-machine/>
 

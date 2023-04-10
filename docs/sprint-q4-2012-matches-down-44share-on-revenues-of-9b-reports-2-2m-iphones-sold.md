@@ -1,4 +1,4 @@
-# sprint 2012 年第 4 季度销售额为 90 亿美元，每股下降 0.44 美元，报告售出 220 万部 iphone TechCrunch
+# sprint 2012 年第 4 季度销售额为 90 亿美元，每股下降 0.44 美元，报告售出 220 万部 iphone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/07/sprint-q4-2012-matches-down-44share-on-revenues-of-9b-reports-2-2m-iphones-sold/>
 

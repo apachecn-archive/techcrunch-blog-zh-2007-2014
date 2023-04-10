@@ -1,4 +1,4 @@
-# 苹果在 2013 年第四季度售出了 3380 万部 iPhones、1410 万部 iPads 和 460 万部 MAC 电脑 TechCrunch
+# 苹果在 2013 年第四季度售出了 3380 万部 iPhones、1410 万部 iPads 和 460 万部 MAC 电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/28/apple-q4-2013-iphone-ipad-mac-sales/>
 

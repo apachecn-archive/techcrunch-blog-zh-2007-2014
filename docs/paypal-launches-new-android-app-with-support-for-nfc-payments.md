@@ -1,4 +1,4 @@
-# PayPal 更新其 Android 应用程序，支持 NFC 支付 TechCrunch
+# PayPal 更新其 Android 应用程序，支持 NFC 支付 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/paypal-launches-new-android-app-with-support-for-nfc-payments/>
 

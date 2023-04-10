@@ -1,4 +1,4 @@
-# Polyvore 吸引时尚人士创造，然后消费 TechCrunch
+# Polyvore 吸引时尚人士创造，然后消费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/11/polyvore-to-tempt-fasionistas-to-create-then-spend/>
 

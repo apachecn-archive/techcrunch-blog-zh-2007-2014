@@ -1,4 +1,4 @@
-# 威盛宣布推出新的 1 瓦 500MHz 处理器——TechCrunch
+# 威盛宣布推出新的 1 瓦 500MHz 处理器——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/via-announces-new-1-watt-500mhz-processor/>
 

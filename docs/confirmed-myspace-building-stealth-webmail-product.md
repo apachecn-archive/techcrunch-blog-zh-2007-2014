@@ -1,4 +1,4 @@
-# MySpace 打造隐形网络邮件产品 TechCrunch
+# MySpace 打造隐形网络邮件产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/15/confirmed-myspace-building-stealth-webmail-product/>
 

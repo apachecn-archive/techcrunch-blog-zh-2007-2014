@@ -1,4 +1,4 @@
-# Zynga 的财务状况:去年收入增长 392%，达到 6 亿美元 TechCrunch
+# Zynga 的财务状况:去年收入增长 392%，达到 6 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/zynga-financials/>
 

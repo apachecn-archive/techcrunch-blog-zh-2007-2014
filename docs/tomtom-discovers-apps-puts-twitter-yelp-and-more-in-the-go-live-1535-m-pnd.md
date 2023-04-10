@@ -1,4 +1,4 @@
-# TomTom 发现应用程序，将 Twitter、Yelp 和更多应用程序投入使用 1535M PND TechCrunch
+# TomTom 发现应用程序，将 Twitter、Yelp 和更多应用程序投入使用 1535M PND 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/tomtom-discovers-apps-puts-twitter-yelp-and-more-in-the-go-live-1535-m-pnd/>
 

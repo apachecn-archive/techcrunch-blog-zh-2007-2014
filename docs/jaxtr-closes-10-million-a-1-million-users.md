@@ -1,4 +1,4 @@
-# Jaxtr 关闭 1000 万美元 A 轮；宣布 100 万用户 TechCrunch
+# Jaxtr 关闭 1000 万美元 A 轮；宣布 100 万用户 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/jaxtr-closes-10-million-a-1-million-users/>
 

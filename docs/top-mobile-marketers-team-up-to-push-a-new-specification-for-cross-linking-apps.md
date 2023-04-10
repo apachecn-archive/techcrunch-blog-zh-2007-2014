@@ -1,4 +1,4 @@
-# 顶级移动营销人员联手推动交叉链接应用的新规范 TechCrunch
+# 顶级移动营销人员联手推动交叉链接应用的新规范 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/top-mobile-marketers-team-up-to-push-a-new-specification-for-cross-linking-apps/>
 

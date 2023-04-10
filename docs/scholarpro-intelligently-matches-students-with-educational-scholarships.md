@@ -1,4 +1,4 @@
-# ScholarPro 智能地为学生匹配教育奖学金 TechCrunch
+# ScholarPro 智能地为学生匹配教育奖学金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/24/scholarpro-intelligently-matches-students-with-educational-scholarships/>
 

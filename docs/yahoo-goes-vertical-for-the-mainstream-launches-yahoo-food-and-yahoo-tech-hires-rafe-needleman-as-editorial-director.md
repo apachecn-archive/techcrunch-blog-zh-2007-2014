@@ -1,4 +1,4 @@
-# 雅虎通过垂直网站吸引主流受众，推出雅虎美食和雅虎科技 TechCrunch
+# 雅虎通过垂直网站吸引主流受众，推出雅虎美食和雅虎科技 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/yahoo-goes-vertical-for-the-mainstream-launches-yahoo-food-and-yahoo-tech-hires-rafe-needleman-as-editorial-director/>
 

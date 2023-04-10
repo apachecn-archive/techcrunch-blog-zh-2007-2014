@@ -1,4 +1,4 @@
-# 谷歌电视获得新的 YouTube 应用 TechCrunch
+# 谷歌电视获得新的 YouTube 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/12/google-tv-gets-a-new-youtube-app/>
 

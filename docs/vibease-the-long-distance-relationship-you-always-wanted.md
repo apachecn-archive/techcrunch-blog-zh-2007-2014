@@ -1,4 +1,4 @@
-# Vibease:你一直想要的异地恋 TechCrunch
+# Vibease:你一直想要的异地恋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/01/vibease-the-long-distance-relationship-you-always-wanted/>
 

@@ -1,4 +1,4 @@
-# 技术如何赋予教师权力、创造百万富翁并改善教育 TechCrunch
+# 技术如何赋予教师权力、创造百万富翁并改善教育 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/30/how-technology-is-empowering-teachers-minting-millionaires-and-improving-education/>
 

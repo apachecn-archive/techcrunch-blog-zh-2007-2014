@@ -1,4 +1,4 @@
-# Ustream 的移动视频广播来到 Android TechCrunch
+# Ustream 的移动视频广播来到 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/17/ustreams-mobile-video-broadcasting-comes-to-android/>
 

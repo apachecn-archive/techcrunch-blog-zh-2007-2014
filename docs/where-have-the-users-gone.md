@@ -1,4 +1,4 @@
-# 用户都去哪了？TechCrunch
+# 用户都去哪了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/26/where-have-the-users-gone/>
 

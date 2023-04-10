@@ -1,4 +1,4 @@
-# LinkedIn 的移动未来:22%的访问者是移动用户，流媒体广告即将到来？TechCrunch
+# LinkedIn 的移动未来:22%的访问者是移动用户，流媒体广告即将到来？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/03/linkedin-mobile-stats-and-ads/>
 

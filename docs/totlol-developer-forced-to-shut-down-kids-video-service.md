@@ -1,4 +1,4 @@
-# Totlol 开发商被迫关闭儿童视频服务 TechCrunch
+# Totlol 开发商被迫关闭儿童视频服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/05/totlol-developer-forced-to-shut-down-kids-video-service/>
 

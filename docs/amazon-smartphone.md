@@ -1,4 +1,4 @@
-# Kindle Fire 之后是什么？亚马逊智能手机 TechCrunch
+# Kindle Fire 之后是什么？亚马逊智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/amazon-smartphone/>
 

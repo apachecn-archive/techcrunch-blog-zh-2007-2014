@@ -1,4 +1,4 @@
-# 通用汽车与中国上汽集团合作开发电动汽车 TechCrunch
+# 通用汽车与中国上汽集团合作开发电动汽车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/gm-and-chinas-saic-motor-corp-partner-on-electric-vehicles/>
 

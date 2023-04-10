@@ -1,4 +1,4 @@
-# 应用回顾:Nuance Dragon Go iOS 应用 TechCrunch
+# 应用回顾:Nuance Dragon Go iOS 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/14/app-review-nuance-dragon-go-ios-app/>
 

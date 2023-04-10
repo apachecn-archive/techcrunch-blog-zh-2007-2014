@@ -1,4 +1,4 @@
-# RIM 宣布 Playbook 的视频聊天和脸书应用 TechCrunch
+# RIM 宣布 Playbook 的视频聊天和脸书应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/02/rim-announces-video-chat-and-facebook-apps-for-playbook/>
 

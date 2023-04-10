@@ -1,4 +1,4 @@
-# 三星宣布推出双核 Galaxy Tab 7.0 Plus TechCrunch
+# 三星宣布推出双核 Galaxy Tab 7.0 Plus 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/samsung-announces-the-dual-core-galaxy-tab-7-0-plus/>
 

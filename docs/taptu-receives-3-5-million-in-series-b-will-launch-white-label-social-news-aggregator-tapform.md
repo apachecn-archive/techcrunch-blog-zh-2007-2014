@@ -1,4 +1,4 @@
-# Taptu 在 B 轮融资中获得 350 万美元，将推出白色标签社交新闻聚合工具 Tapform TechCrunch
+# Taptu 在 B 轮融资中获得 350 万美元，将推出白色标签社交新闻聚合工具 Tapform 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/taptu-receives-3-5-million-in-series-b-will-launch-white-label-social-news-aggregator-tapform/>
 

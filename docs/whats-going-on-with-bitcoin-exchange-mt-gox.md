@@ -1,4 +1,4 @@
-# 比特币交易所 Mt. Gox 是怎么回事？TechCrunch
+# 比特币交易所 Mt. Gox 是怎么回事？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/10/whats-going-on-with-bitcoin-exchange-mt-gox/>
 

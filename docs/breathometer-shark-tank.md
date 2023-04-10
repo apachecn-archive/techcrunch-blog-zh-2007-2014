@@ -1,4 +1,4 @@
-# 感谢 Shark Tank，Breathometer 获得了 200 万美元的资助 TechCrunch
+# 感谢 Shark Tank，Breathometer 获得了 200 万美元的资助 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/17/breathometer-shark-tank/>
 

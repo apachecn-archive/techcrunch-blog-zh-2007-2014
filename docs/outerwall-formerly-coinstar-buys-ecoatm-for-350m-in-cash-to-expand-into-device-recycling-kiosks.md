@@ -1,4 +1,4 @@
-# Outerwall(原名 Coinstar)以 3.5 亿美元现金收购 ecoATM，进军设备回收亭 TechCrunch
+# Outerwall(原名 Coinstar)以 3.5 亿美元现金收购 ecoATM，进军设备回收亭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/02/outerwall-formerly-coinstar-buys-ecoatm-for-350m-in-cash-to-expand-into-device-recycling-kiosks/>
 

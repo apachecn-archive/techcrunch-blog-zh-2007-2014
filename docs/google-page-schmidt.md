@@ -1,4 +1,4 @@
-# 施密特:假期里做出的决定，关键在于执行，拉里已经准备好领导 TechCrunch
+# 施密特:假期里做出的决定，关键在于执行，拉里已经准备好领导 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/google-page-schmidt/>
 

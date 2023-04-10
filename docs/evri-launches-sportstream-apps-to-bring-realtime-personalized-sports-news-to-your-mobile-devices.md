@@ -1,4 +1,4 @@
-# Evri 推出 SportStream 应用程序，为您的移动设备带来实时的社交体育新闻 TechCrunch
+# Evri 推出 SportStream 应用程序，为您的移动设备带来实时的社交体育新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/evri-launches-sportstream-apps-to-bring-realtime-personalized-sports-news-to-your-mobile-devices/>
 

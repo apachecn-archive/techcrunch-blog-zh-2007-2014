@@ -1,4 +1,4 @@
-# Lightbank 支持的社交旅行规划服务 Gtrot 转向本地探索 TechCrunch
+# Lightbank 支持的社交旅行规划服务 Gtrot 转向本地探索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/10/lightbank-backed-social-travel-planning-service-gtrot-shifts-to-local-discovery/>
 

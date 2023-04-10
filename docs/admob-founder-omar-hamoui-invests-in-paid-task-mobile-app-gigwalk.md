@@ -1,4 +1,4 @@
-# AdMob 创始人 Omar Hamoui 投资付费任务移动应用 gig walk TechCrunch
+# AdMob 创始人 Omar Hamoui 投资付费任务移动应用 gig walk 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/admob-founder-omar-hamoui-invests-in-paid-task-mobile-app-gigwalk/>
 

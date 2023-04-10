@@ -1,4 +1,4 @@
-# RIM 宣布全球应用下载量达到 10 亿 TechCrunch
+# RIM 宣布全球应用下载量达到 10 亿 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/rim-announces-1-billion-app-world-downloads/>
 

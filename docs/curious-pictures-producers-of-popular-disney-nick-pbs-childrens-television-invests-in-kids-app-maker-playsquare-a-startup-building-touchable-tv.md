@@ -1,4 +1,4 @@
-# 广受欢迎的迪士尼、尼克和 PBS 儿童电视的制作人好奇影业投资了儿童应用程序制造商 PlaySquare，这是一家创建“可触摸电视”的初创公司 TechCrunch
+# 广受欢迎的迪士尼、尼克和 PBS 儿童电视的制作人好奇影业投资了儿童应用程序制造商 PlaySquare，这是一家创建“可触摸电视”的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/curious-pictures-producers-of-popular-disney-nick-pbs-childrens-television-invests-in-kids-app-maker-playsquare-a-startup-building-touchable-tv/>
 

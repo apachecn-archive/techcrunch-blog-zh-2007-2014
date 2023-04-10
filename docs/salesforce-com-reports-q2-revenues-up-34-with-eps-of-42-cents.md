@@ -1,4 +1,4 @@
-# Salesforce 报告 Q2 收入增长 34%,达到 7 . 32 亿美元 TechCrunch
+# Salesforce 报告 Q2 收入增长 34%,达到 7 . 32 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/23/salesforce-com-reports-q2-revenues-up-34-with-eps-of-42-cents/>
 

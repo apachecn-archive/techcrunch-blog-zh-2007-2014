@@ -1,4 +1,4 @@
-# 哪个无线运营商存储您的私人数据时间最长？TechCrunch
+# 哪个无线运营商存储您的私人数据时间最长？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/which-wireless-carrier-stores-your-private-data-the-longest/>
 

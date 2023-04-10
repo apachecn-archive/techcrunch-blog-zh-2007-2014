@@ -1,4 +1,4 @@
-# Windows Live 消息即将发布到 Bebo TechCrunch
+# Windows Live 消息即将发布到 Bebo 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/windows-live-messaging-coming-to-bebo/>
 

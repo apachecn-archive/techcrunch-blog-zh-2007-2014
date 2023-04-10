@@ -1,4 +1,4 @@
-# Google+:特洛伊木马之王 TechCrunch
+# Google+:特洛伊木马之王 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/google-one-hell-of-a-trojan-horse/>
 

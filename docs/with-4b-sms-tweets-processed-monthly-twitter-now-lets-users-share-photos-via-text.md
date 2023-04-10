@@ -1,4 +1,4 @@
-# 每月处理 40 亿条短信推文，Twitter 现在允许用户通过文本分享照片 TechCrunch
+# 每月处理 40 亿条短信推文，Twitter 现在允许用户通过文本分享照片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/with-4b-sms-tweets-processed-monthly-twitter-now-lets-users-share-photos-via-text/>
 

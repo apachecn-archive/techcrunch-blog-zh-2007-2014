@@ -1,4 +1,4 @@
-# 通用汽车宣布推出全电动雪佛兰 Spark EV 以及全新概念车 Chevy EN-V TechCrunch
+# 通用汽车宣布推出全电动雪佛兰 Spark EV 以及全新概念车 Chevy EN-V 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/gm-announces-all-electric-chevy-spark-ev-plus-new-concept-car-chevy-en-v/>
 

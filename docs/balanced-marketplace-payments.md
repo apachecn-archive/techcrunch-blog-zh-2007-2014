@@ -1,4 +1,4 @@
-# Y Combinator 支持的 Balanced 融资 140 万美元，为 P2P 市场提供支付平台 TechCrunch
+# Y Combinator 支持的 Balanced 融资 140 万美元，为 P2P 市场提供支付平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/balanced-marketplace-payments/>
 

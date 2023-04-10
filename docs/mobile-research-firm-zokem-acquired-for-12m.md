@@ -1,4 +1,4 @@
-# 移动研究公司 Zokem 以 2400 万美元收购 TechCrunch
+# 移动研究公司 Zokem 以 2400 万美元收购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/mobile-research-firm-zokem-acquired-for-12m/>
 

@@ -1,4 +1,4 @@
-# 在线优惠券巨头 RetailMeNot(前 WhaleShark Media)申请 2.3 亿美元 IPO TechCrunch
+# 在线优惠券巨头 RetailMeNot(前 WhaleShark Media)申请 2.3 亿美元 IPO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/17/online-coupon-giant-retailmenot-formerly-whaleshark-media-files-for-230m-ipo/>
 

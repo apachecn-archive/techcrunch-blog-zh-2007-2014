@@ -1,4 +1,4 @@
-# CrunchDeals: T-Mobile G1，售价 98 美元 TechCrunch
+# CrunchDeals: T-Mobile G1，售价 98 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/11/crunchdeals-t-mobile-g1-for-98/>
 

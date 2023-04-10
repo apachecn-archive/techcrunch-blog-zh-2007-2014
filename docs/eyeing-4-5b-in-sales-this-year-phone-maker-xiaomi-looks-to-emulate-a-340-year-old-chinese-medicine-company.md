@@ -1,4 +1,4 @@
-# 着眼于今年 45 亿美元的销售额，手机制造商小米希望效仿有 340 年历史的中国医药公司 TechCrunch
+# 着眼于今年 45 亿美元的销售额，手机制造商小米希望效仿有 340 年历史的中国医药公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/eyeing-4-5b-in-sales-this-year-phone-maker-xiaomi-looks-to-emulate-a-340-year-old-chinese-medicine-company/>
 

@@ -1,4 +1,4 @@
-# 谷歌推出 BigQuery 流媒体实时大数据分析技术 TechCrunch
+# 谷歌推出 BigQuery 流媒体实时大数据分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/google-launches-bigquery-streaming-for-real-time-big-data-analytics/?utm_content=buffer26855&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>
 

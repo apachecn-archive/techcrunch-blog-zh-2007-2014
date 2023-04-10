@@ -1,4 +1,4 @@
-# 雪上加霜的是:MySpace 拙劣地裁员 TechCrunch
+# 雪上加霜的是:MySpace 拙劣地裁员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/26/adding-insult-to-injury-myspace-botches-layoffs/>
 

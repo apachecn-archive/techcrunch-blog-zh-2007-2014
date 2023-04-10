@@ -1,4 +1,4 @@
-# 还记得我们都应该离开脸书的时候吗？TechCrunch
+# 还记得我们都应该离开脸书的时候吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/14/quit-facebook-someday/>
 

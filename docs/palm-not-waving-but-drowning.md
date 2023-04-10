@@ -1,4 +1,4 @@
-# 手掌:不是挥舞而是淹没 TechCrunch
+# 手掌:不是挥舞而是淹没 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/palm-not-waving-but-drowning/>
 

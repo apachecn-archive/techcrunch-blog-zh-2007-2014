@@ -1,4 +1,4 @@
-# 突发事件:康泰纳仕/连线收购 Ars Technica TechCrunch
+# 突发事件:康泰纳仕/连线收购 Ars Technica 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/16/breaking-conde-nastwired-acquires-ars-technica/>
 

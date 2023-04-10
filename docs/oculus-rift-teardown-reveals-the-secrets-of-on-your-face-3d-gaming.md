@@ -1,4 +1,4 @@
-# Oculus Rift 拆卸揭示了你的 3D 游戏的秘密 TechCrunch
+# Oculus Rift 拆卸揭示了你的 3D 游戏的秘密 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/oculus-rift-teardown-reveals-the-secrets-of-on-your-face-3d-gaming/>
 

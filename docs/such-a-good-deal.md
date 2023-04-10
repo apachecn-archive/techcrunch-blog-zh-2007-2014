@@ -1,4 +1,4 @@
-# 9 月 28 日，售价 99 美元的 TouchPad 重返惠普员工购买计划 TechCrunch
+# 9 月 28 日，售价 99 美元的 TouchPad 重返惠普员工购买计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/18/such-a-good-deal/>
 

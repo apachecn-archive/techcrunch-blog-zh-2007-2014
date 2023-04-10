@@ -1,4 +1,4 @@
-# Technorati 失去了一位“伟大的领袖”。PodTech 也失去了首席执行官 TechCrunch
+# Technorati 失去了一位“伟大的领袖”。PodTech 也失去了首席执行官 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/watching-technorati-and-podtech-fall-apart/>
 

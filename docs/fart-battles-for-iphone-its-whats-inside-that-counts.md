@@ -1,4 +1,4 @@
-# iPhone 的屁战。内在才是最重要的！TechCrunch
+# iPhone 的屁战。内在才是最重要的！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/fart-battles-for-iphone-its-whats-inside-that-counts/>
 

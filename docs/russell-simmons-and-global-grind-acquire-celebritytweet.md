@@ -1,4 +1,4 @@
-# 拉赛尔·西蒙斯和环球研磨收购 celebrity tweet TechCrunch
+# 拉赛尔·西蒙斯和环球研磨收购 celebrity tweet 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/08/russell-simmons-and-global-grind-acquire-celebritytweet/>
 

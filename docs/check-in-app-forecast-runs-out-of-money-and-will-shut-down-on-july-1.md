@@ -1,4 +1,4 @@
-# 值机应用程序 Forecast 资金耗尽，将于 7 月 1 日关闭 TechCrunch
+# 值机应用程序 Forecast 资金耗尽，将于 7 月 1 日关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/28/check-in-app-forecast-runs-out-of-money-and-will-shut-down-on-july-1/>
 

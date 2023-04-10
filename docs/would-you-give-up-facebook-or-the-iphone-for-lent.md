@@ -1,4 +1,4 @@
-# 你会为了大斋节放弃脸书(或 iPhone)吗？TechCrunch
+# 你会为了大斋节放弃脸书(或 iPhone)吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/10/would-you-give-up-facebook-or-the-iphone-for-lent/>
 

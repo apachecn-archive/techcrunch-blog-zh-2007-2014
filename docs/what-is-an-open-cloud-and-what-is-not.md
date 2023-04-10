@@ -1,4 +1,4 @@
-# 什么是开放云，什么不是？TechCrunch
+# 什么是开放云，什么不是？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/30/what-is-an-open-cloud-and-what-is-not/>
 

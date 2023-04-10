@@ -1,4 +1,4 @@
-# 行动引擎转向移动高速档——TechCrunch
+# 行动引擎转向移动高速档——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/action-engine-shifts-into-mobile-high-gear/>
 

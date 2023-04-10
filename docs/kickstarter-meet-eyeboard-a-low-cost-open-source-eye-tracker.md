@@ -1,4 +1,4 @@
-# Kickstarter:认识一下 Eyeboard，一款低成本开源眼球跟踪器 TechCrunch
+# Kickstarter:认识一下 Eyeboard，一款低成本开源眼球跟踪器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/kickstarter-meet-eyeboard-a-low-cost-open-source-eye-tracker/>
 

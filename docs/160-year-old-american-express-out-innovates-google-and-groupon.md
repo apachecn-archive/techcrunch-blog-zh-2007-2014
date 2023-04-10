@@ -1,4 +1,4 @@
-# 拥有 160 年历史的美国运通超越谷歌和 Groupon TechCrunch
+# 拥有 160 年历史的美国运通超越谷歌和 Groupon 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/160-year-old-american-express-out-innovates-google-and-groupon/>
 

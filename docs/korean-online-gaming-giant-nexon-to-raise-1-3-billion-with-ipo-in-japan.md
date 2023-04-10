@@ -1,4 +1,4 @@
-# 韩国在线游戏巨头 Nexon 将通过在日本的 IPO 筹集 13 亿美元 TechCrunch
+# 韩国在线游戏巨头 Nexon 将通过在日本的 IPO 筹集 13 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/korean-online-gaming-giant-nexon-to-raise-1-3-billion-with-ipo-in-japan/>
 

@@ -1,4 +1,4 @@
-# Jawbone 发布 Android UP 应用程序，在欧洲苹果商店提供腕带 TechCrunch
+# Jawbone 发布 Android UP 应用程序，在欧洲苹果商店提供腕带 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/19/jawbone-android/>
 

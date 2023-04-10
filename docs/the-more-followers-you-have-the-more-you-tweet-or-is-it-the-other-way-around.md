@@ -1,4 +1,4 @@
-# 你的粉丝越多，你发的微博就越多。还是反过来？TechCrunch
+# 你的粉丝越多，你发的微博就越多。还是反过来？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/06/10/the-more-followers-you-have-the-more-you-tweet-or-is-it-the-other-way-around/>
 

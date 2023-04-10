@@ -1,4 +1,4 @@
-# T-Mobile G2X 终于获得了急需的姜饼更新 TechCrunch
+# T-Mobile G2X 终于获得了急需的姜饼更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/t-mobile-g2x-finally-gets-its-much-needed-gingerbread-update/>
 

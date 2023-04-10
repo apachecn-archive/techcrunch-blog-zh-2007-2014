@@ -1,4 +1,4 @@
-# Android TouchPad 项目终于有了可用的触摸屏 TechCrunch
+# Android TouchPad 项目终于有了可用的触摸屏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/android-touchpad-project-finally-gets-working-touch-screens/>
 

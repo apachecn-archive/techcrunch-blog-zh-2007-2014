@@ -1,4 +1,4 @@
-# Taboola:即将宣布融资& CNN 交易？TechCrunch
+# Taboola:即将宣布融资& CNN 交易？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/11/taboola-funding-announcement-imminent-cnn-deal/>
 

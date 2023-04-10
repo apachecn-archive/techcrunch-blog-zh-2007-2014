@@ -1,4 +1,4 @@
-# CrunchDeal:罗技 Z-4 80W 2.1 声道扬声器 TechCrunch
+# CrunchDeal:罗技 Z-4 80W 2.1 声道扬声器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/crunchdeal-logitech-z-4-80w-2-1-channel-speakers/>
 

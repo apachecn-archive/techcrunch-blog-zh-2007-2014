@@ -1,4 +1,4 @@
-# 三星终于将冰淇淋三明治推向 Galaxy S IIs Of The World TechCrunch
+# 三星终于将冰淇淋三明治推向 Galaxy S IIs Of The World 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/12/samsung-galaxy-s-ii-ice-cream-sandwich/>
 

@@ -1,4 +1,4 @@
-# VEVO 重新推出其网站和移动网站，以简化音乐视频搜索和发现 TechCrunch
+# VEVO 重新推出其网站和移动网站，以简化音乐视频搜索和发现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/31/vevo-redesign-2013/>
 

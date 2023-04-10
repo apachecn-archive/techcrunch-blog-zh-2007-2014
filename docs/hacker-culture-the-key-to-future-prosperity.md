@@ -1,4 +1,4 @@
-# 黑客文化:未来繁荣的关键？TechCrunch
+# 黑客文化:未来繁荣的关键？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/25/hacker-culture-the-key-to-future-prosperity/>
 

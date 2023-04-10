@@ -1,4 +1,4 @@
-# 英国法院命令 ISP 屏蔽文件共享网站，这是一项具有里程碑意义的裁决 TechCrunch
+# 英国法院命令 ISP 屏蔽文件共享网站，这是一项具有里程碑意义的裁决 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/british-court-orders-isp-to-block-filesharing-website-in-potential-landmark-ruling/>
 

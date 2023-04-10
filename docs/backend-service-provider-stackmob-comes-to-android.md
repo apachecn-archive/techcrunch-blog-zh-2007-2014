@@ -1,4 +1,4 @@
-# 后端服务提供商 StackMob 来到 Android TechCrunch
+# 后端服务提供商 StackMob 来到 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/backend-service-provider-stackmob-comes-to-android/>
 

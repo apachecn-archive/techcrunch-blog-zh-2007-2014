@@ -1,4 +1,4 @@
-# WhereIsTheCool.com:一个更懒的男人 Pinterest TechCrunch
+# WhereIsTheCool.com:一个更懒的男人 Pinterest 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/pinterest-for-men/>
 

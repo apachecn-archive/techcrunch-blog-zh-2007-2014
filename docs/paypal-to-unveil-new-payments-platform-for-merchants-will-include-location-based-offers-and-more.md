@@ -1,4 +1,4 @@
-# PayPal 将为商家推出新的支付平台，将包括基于位置的优惠等 TechCrunch
+# PayPal 将为商家推出新的支付平台，将包括基于位置的优惠等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/paypal-to-unveil-new-payments-platform-for-merchants-will-include-location-based-offers-and-more/>
 

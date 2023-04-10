@@ -1,4 +1,4 @@
-# Chrome Lion 全屏支持已准备就绪，包括带标签和不带 TechCrunch
+# Chrome Lion 全屏支持已准备就绪，包括带标签和不带 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/chrome-for-mac-os-x-lion/>
 

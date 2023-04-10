@@ -1,4 +1,4 @@
-# “Xoom”要给“XYBoard”让路？TechCrunch
+# “Xoom”要给“XYBoard”让路？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/xoom-to-give-way-to-xyboard/>
 

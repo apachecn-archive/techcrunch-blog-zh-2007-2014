@@ -1,4 +1,4 @@
-# 迭代:商业经济中的剑和盾 TechCrunch
+# 迭代:商业经济中的剑和盾 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/swords-shields-merchant-economy-by-semilshah/>
 

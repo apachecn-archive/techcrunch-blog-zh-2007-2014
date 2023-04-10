@@ -1,4 +1,4 @@
-# 巴迪媒体首席执行官迈克尔·拉泽罗加入 SavingStar 董事会 TechCrunch
+# 巴迪媒体首席执行官迈克尔·拉泽罗加入 SavingStar 董事会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/buddy-media-ceo-michael-lazerow-joins-savingstar-board-of-directors/>
 

@@ -1,4 +1,4 @@
-# Joby GorillaPod Micro 是您一直想要的永不停机的三脚架 TechCrunch
+# Joby GorillaPod Micro 是您一直想要的永不停机的三脚架 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/the-joby-gorillapod-micro-is-the-always-on-tripod-youve-always-wanted/>
 

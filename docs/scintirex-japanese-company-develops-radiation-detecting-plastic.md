@@ -1,4 +1,4 @@
-# SCINTIREX:日本公司开发辐射探测塑料 TechCrunch
+# SCINTIREX:日本公司开发辐射探测塑料 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/scintirex-japanese-company-develops-radiation-detecting-plastic/>
 

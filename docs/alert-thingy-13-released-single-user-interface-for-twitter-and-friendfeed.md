@@ -1,4 +1,4 @@
-# Alert Thingy 1.3 发布:Twitter 和 FriendFeed 的单一用户界面 TechCrunch
+# Alert Thingy 1.3 发布:Twitter 和 FriendFeed 的单一用户界面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/23/alert-thingy-13-released-single-user-interface-for-twitter-and-friendfeed/>
 

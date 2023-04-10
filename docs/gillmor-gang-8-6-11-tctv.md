@@ -1,4 +1,4 @@
-# 吉尔摩帮 8 . 6 . 11(TCTV)TechCrunch
+# 吉尔摩帮 8 . 6 . 11(TCTV)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/06/gillmor-gang-8-6-11-tctv/>
 

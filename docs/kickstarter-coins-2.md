@@ -1,4 +1,4 @@
-# Kickstarter 硬币 TechCrunch
+# Kickstarter 硬币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/15/kickstarter-coins-2/>
 

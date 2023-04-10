@@ -1,4 +1,4 @@
-# 客帖:复制/粘贴“超级天使”到欧洲？-抱歉，没用！TechCrunch
+# 客帖:复制/粘贴“超级天使”到欧洲？-抱歉，没用！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/guest-post-copypasting-super-angels-to-europe-sorry-wont-work/>
 

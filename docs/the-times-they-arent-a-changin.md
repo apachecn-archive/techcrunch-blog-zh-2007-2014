@@ -1,4 +1,4 @@
-# NSFW:通过推特改变世界？是啊，你应该多出去走走 TechCrunch
+# NSFW:通过推特改变世界？是啊，你应该多出去走走 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/24/the-times-they-arent-a-changin/>
 

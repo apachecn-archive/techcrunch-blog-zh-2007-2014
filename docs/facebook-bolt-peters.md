@@ -1,4 +1,4 @@
-# 脸书 Acq-雇佣部分设计公司 Bolt | Peters 来加强用户研究团队 TechCrunch
+# 脸书 Acq-雇佣部分设计公司 Bolt | Peters 来加强用户研究团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/24/facebook-bolt-peters/>
 

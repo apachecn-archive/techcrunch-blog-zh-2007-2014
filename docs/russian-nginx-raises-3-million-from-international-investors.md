@@ -1,4 +1,4 @@
-# 俄罗斯 Nginx 从国际投资者手中筹集 300 万美元 TechCrunch
+# 俄罗斯 Nginx 从国际投资者手中筹集 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/russian-nginx-raises-3-million-from-international-investors/>
 

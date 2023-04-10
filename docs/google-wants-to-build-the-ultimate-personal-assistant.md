@@ -1,4 +1,4 @@
-# 谷歌希望打造终极个人助理 TechCrunch
+# 谷歌希望打造终极个人助理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/25/google-wants-to-build-the-ultimate-personal-assistant/>
 

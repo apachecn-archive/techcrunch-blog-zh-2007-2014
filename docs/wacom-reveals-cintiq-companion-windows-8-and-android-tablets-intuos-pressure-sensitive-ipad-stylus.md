@@ -1,4 +1,4 @@
-# Wacom 发布 Cintiq Companion Windows 8 和 Android 平板电脑、Intuos 压力感应 iPad 触控笔 TechCrunch
+# Wacom 发布 Cintiq Companion Windows 8 和 Android 平板电脑、Intuos 压力感应 iPad 触控笔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/19/wacom-reveals-cintiq-companion-windows-8-and-android-tablets-intuos-pressure-sensitive-ipad-stylus/>
 

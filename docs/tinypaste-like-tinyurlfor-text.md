@@ -1,4 +1,4 @@
-# TinyPaste:像 TinyURL...用于文本 TechCrunch
+# TinyPaste:像 TinyURL...用于文本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/26/tinypaste-like-tinyurlfor-text/>
 

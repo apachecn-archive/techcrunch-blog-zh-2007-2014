@@ -1,4 +1,4 @@
-# 令人毛骨悚然的“抱抱我枕头”正在出售！TechCrunch
+# 令人毛骨悚然的“抱抱我枕头”正在出售！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/02/06/creepy-hug-me-pillow-is-on-sale/>
 

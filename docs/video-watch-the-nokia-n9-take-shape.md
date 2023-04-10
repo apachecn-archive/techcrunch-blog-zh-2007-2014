@@ -1,4 +1,4 @@
-# 视频:观看诺基亚 N9 成形 TechCrunch
+# 视频:观看诺基亚 N9 成形 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/video-watch-the-nokia-n9-take-shape/>
 

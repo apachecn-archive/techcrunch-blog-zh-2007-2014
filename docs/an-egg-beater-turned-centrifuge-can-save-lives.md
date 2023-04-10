@@ -1,4 +1,4 @@
-# 打蛋器转动的离心机可以拯救生命 TechCrunch
+# 打蛋器转动的离心机可以拯救生命 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/15/an-egg-beater-turned-centrifuge-can-save-lives/>
 

@@ -1,4 +1,4 @@
-# Dash 的智能驾驶应用程序“汽车 Fitbit”登陆 Android TechCrunch
+# Dash 的智能驾驶应用程序“汽车 Fitbit”登陆 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/25/dashs-smart-driving-app-a-fitbit-for-cars-arrives-on-android/>
 

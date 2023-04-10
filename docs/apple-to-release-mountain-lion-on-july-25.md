@@ -1,4 +1,4 @@
-# 苹果将于 7 月 25 日发布 Mountain Lion TechCrunch
+# 苹果将于 7 月 25 日发布 Mountain Lion 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/apple-to-release-mountain-lion-on-july-25/>
 

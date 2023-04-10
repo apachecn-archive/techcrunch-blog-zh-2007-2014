@@ -1,4 +1,4 @@
-# 您今天将看到的最酷的全 Mac 视频 TechCrunch
+# 您今天将看到的最酷的全 Mac 视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/11/coolest-all-mac-video-youll-see-today/>
 

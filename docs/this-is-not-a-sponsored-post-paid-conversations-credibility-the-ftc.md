@@ -1,4 +1,4 @@
-# 这不是一篇赞助文章:付费对话、可信度和 FTC TechCrunch
+# 这不是一篇赞助文章:付费对话、可信度和 FTC 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/24/this-is-not-a-sponsored-post-paid-conversations-credibility-the-ftc/>
 

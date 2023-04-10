@@ -1,4 +1,4 @@
-# 云音乐播放器 AudioBox 重启，支持 DropBox、Google Drive、SkyDrive、Box 等 TechCrunch
+# 云音乐播放器 AudioBox 重启，支持 DropBox、Google Drive、SkyDrive、Box 等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/cloud-music-player-audiobox-reboots-with-support-for-dropbox-google-drive-skydrive-box-others/>
 

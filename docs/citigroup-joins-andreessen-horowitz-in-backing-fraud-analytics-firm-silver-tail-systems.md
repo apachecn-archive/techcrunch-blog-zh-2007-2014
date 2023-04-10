@@ -1,4 +1,4 @@
-# 花旗集团与 Andreessen Horowitz 联手支持欺诈分析公司 Silver Tail Systems TechCrunch
+# 花旗集团与 Andreessen Horowitz 联手支持欺诈分析公司 Silver Tail Systems 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/citigroup-joins-andreessen-horowitz-in-backing-fraud-analytics-firm-silver-tail-systems/>
 

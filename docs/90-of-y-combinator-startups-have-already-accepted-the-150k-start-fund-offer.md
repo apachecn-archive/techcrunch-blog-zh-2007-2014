@@ -1,4 +1,4 @@
-# 90%的 Y Combinator 初创公司已经接受了 15 万美元的启动资金 TechCrunch
+# 90%的 Y Combinator 初创公司已经接受了 15 万美元的启动资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/29/90-of-y-combinator-startups-have-already-accepted-the-150k-start-fund-offer/>
 

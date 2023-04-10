@@ -1,4 +1,4 @@
-# Mural.ly 向公众开放其基于网络的创意协作平台 TechCrunch
+# Mural.ly 向公众开放其基于网络的创意协作平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/10/mural-ly-opens-its-web-based-creative-collaboration-platform-to-the-public/>
 

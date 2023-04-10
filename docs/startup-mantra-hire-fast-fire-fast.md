@@ -1,4 +1,4 @@
-# 创业口号:快速招聘，快速解雇 TechCrunch
+# 创业口号:快速招聘，快速解雇 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/26/startup-mantra-hire-fast-fire-fast/>
 

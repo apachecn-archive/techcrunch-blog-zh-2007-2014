@@ -1,4 +1,4 @@
-# 微软推出 Kinect 星球大战套装，包括商标 Droid beepes TechCrunch
+# 微软推出 Kinect 星球大战套装，包括商标 Droid beepes 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/microsoft-unveils-the-kinect-star-wars-bundle-trademark-droid-beeps-included/>
 

@@ -1,4 +1,4 @@
-# 为什么创业企业家需要像乔治·布什而不是阿尔·戈尔那样交流 TechCrunch
+# 为什么创业企业家需要像乔治·布什而不是阿尔·戈尔那样交流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/04/why-startup-entrepreneurs-need-to-communicate-like-george-bush-more-than-al-gore/>
 

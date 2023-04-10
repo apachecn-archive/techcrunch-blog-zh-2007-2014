@@ -1,4 +1,4 @@
-# 电子贷款专家 Wonga 收购德国 Buys BillPay，进一步进军支付领域 TechCrunch
+# 电子贷款专家 Wonga 收购德国 Buys BillPay，进一步进军支付领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/18/e-loan-specialist-wonga-buys-billpay-the-paypal-of-germany-to-move-deeper-into-payments/>
 

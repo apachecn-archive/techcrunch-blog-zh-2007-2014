@@ -1,4 +1,4 @@
-# 有时候我只想一字不差地复制别人的状态，看看他们是否注意到了 TechCrunch
+# 有时候我只想一字不差地复制别人的状态，看看他们是否注意到了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/08/26/twitter-human-virus/>
 

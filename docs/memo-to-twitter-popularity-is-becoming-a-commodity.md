@@ -1,4 +1,4 @@
-# Twitter 备忘录:人气正在成为一种商品 TechCrunch
+# Twitter 备忘录:人气正在成为一种商品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/memo-to-twitter-popularity-is-becoming-a-commodity/>
 

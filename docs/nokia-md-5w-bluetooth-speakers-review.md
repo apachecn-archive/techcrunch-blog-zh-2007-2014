@@ -1,4 +1,4 @@
-# 点评:诺基亚 MD-5W 蓝牙音箱——TechCrunch
+# 点评:诺基亚 MD-5W 蓝牙音箱——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/22/nokia-md-5w-bluetooth-speakers-review/>
 

@@ -1,4 +1,4 @@
-# 脸书:视频应用从 Timeline 和 Open Graph 获得巨大推动 TechCrunch
+# 脸书:视频应用从 Timeline 和 Open Graph 获得巨大推动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/04/facebook-video-apps-getting-a-big-boost-from-timeline-and-open-graph/>
 

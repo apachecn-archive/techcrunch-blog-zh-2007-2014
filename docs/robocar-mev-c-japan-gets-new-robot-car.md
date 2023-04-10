@@ -1,4 +1,4 @@
-# RoboCar MEV-C:日本获得新型机器人汽车 TechCrunch
+# RoboCar MEV-C:日本获得新型机器人汽车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/robocar-mev-c-japan-gets-new-robot-car/>
 

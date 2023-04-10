@@ -1,4 +1,4 @@
-# Pinterest 流量超过谷歌推荐、必应、Twitter 和 stumble upon TechCrunch
+# Pinterest 流量超过谷歌推荐、必应、Twitter 和 stumble upon 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/09/pinterest-now-beating-google-referral-traffic-plus-bing-twitter-stumbleupon/>
 

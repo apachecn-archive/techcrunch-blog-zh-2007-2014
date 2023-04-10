@@ -1,4 +1,4 @@
-# Cane 2.0:默契是为视力受损者设计的手持式声纳 TechCrunch
+# Cane 2.0:默契是为视力受损者设计的手持式声纳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/cane-2-0-the-tacit-is-hand-mounted-sonar-for-the-vision-impaired/>
 

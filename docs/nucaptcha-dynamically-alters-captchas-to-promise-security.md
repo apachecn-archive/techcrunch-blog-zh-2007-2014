@@ -1,4 +1,4 @@
-# NuCaptcha 动态修改验证码以保证安全性 TechCrunch
+# NuCaptcha 动态修改验证码以保证安全性 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/nucaptcha-dynamically-alters-captchas-to-promise-security/>
 

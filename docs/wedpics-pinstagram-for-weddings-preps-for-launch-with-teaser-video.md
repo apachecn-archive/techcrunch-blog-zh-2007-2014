@@ -1,4 +1,4 @@
-# 婚礼照片、婚礼照片、发布预告视频的准备工作 TechCrunch
+# 婚礼照片、婚礼照片、发布预告视频的准备工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/23/wedpics-pinstagram-for-weddings-preps-for-launch-with-teaser-video/>
 

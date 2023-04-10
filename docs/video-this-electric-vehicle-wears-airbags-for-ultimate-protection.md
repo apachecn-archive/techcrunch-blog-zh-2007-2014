@@ -1,4 +1,4 @@
-# 视频:这款电动汽车“佩戴”安全气囊，提供终极保护 TechCrunch
+# 视频:这款电动汽车“佩戴”安全气囊，提供终极保护 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/video-this-electric-vehicle-wears-airbags-for-ultimate-protection/>
 

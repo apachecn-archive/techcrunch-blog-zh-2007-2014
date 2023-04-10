@@ -1,4 +1,4 @@
-# 更多成长型股票:自 2008 年以来，初创公司的平均融资轮数增长了 27% TechCrunch
+# 更多成长型股票:自 2008 年以来，初创公司的平均融资轮数增长了 27% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/02/more-growth-equity-please-average-number-of-rounds-raised-by-startups-up-27-since-2008/>
 

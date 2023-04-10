@@ -1,4 +1,4 @@
-# 京瓷推出每分钟 1000 张的打印头 TechCrunch
+# 京瓷推出每分钟 1000 张的打印头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/31/kyocera-introduces-1000-sheet-per-minute-print-head/>
 

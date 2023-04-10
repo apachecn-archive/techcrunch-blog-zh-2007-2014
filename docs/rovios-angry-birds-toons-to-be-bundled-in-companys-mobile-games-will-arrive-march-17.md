@@ -1,4 +1,4 @@
-# Rovio 的“愤怒的小鸟卡通”将捆绑在公司的手机游戏中，将于 3 月 17 日上市 TechCrunch
+# Rovio 的“愤怒的小鸟卡通”将捆绑在公司的手机游戏中，将于 3 月 17 日上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/11/rovios-angry-birds-toons-to-be-bundled-in-companys-mobile-games-will-arrive-march-17/>
 

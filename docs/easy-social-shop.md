@@ -1,4 +1,4 @@
-# Easy Social Shop 获得 110 万美元，帮助在线商家整合脸书 TechCrunch
+# Easy Social Shop 获得 110 万美元，帮助在线商家整合脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/easy-social-shop/>
 

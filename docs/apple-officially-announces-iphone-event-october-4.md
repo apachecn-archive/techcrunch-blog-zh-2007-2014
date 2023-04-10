@@ -1,4 +1,4 @@
-# 苹果正式宣布 iPhone 事件:10 月 4 日 TechCrunch
+# 苹果正式宣布 iPhone 事件:10 月 4 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/apple-officially-announces-iphone-event-october-4/>
 

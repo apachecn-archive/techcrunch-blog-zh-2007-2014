@@ -1,4 +1,4 @@
-# 安卓手机用户每天使用手机一小时 TechCrunch
+# 安卓手机用户每天使用手机一小时 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/android-phone-owners-use-their-devices-for-an-hour-a-day/>
 

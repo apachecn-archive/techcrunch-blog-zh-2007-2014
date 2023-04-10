@@ -1,4 +1,4 @@
-# 联想首席执行官抨击 iPad，忽视自己平板电脑的缺点 TechCrunch
+# 联想首席执行官抨击 iPad，忽视自己平板电脑的缺点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/lenovo-ceo-stabs-at-the-ipad-ignores-his-own-tablets-faults/>
 

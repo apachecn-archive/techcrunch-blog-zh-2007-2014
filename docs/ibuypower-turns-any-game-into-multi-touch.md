@@ -1,4 +1,4 @@
-# iBUYPOWER 将任何游戏变成多点触控 TechCrunch
+# iBUYPOWER 将任何游戏变成多点触控 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/01/ibuypower-turns-any-game-into-multi-touch/>
 

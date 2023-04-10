@@ -1,4 +1,4 @@
-# Fab 将类似 Pinterest 的追随者模型的 Flash 销售警报转储到市场设计 TechCrunch
+# Fab 将类似 Pinterest 的追随者模型的 Flash 销售警报转储到市场设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/15/fab-dumps-flash-sales-alerts-for-pinterest-like-follower-model-to-market-design/>
 

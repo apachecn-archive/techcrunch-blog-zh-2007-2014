@@ -1,4 +1,4 @@
-# 博客希望成为博客目录的 Yelp TechCrunch
+# 博客希望成为博客目录的 Yelp 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/24/blogged-hopes-to-become-the-yelp-of-blog-directories/>
 

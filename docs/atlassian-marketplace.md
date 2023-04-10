@@ -1,4 +1,4 @@
-# Atlassian 推出项目管理附加产品市场 TechCrunch
+# Atlassian 推出项目管理附加产品市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/atlassian-marketplace/>
 

@@ -1,4 +1,4 @@
-# 挤压仍在继续:第二季度风险融资缩水 82% TechCrunch
+# 挤压仍在继续:第二季度风险融资缩水 82% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/13/the-squeeze-continues-venture-fundraising-shrinks-82-percent-in-second-quarter/>
 

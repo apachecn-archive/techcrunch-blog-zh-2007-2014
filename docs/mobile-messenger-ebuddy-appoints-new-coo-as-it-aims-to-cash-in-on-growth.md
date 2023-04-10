@@ -1,4 +1,4 @@
-# 移动信使 eBuddy 任命新的首席运营官，因为它的目标是在增长中赚钱 TechCrunch
+# 移动信使 eBuddy 任命新的首席运营官，因为它的目标是在增长中赚钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/mobile-messenger-ebuddy-appoints-new-coo-as-it-aims-to-cash-in-on-growth/>
 

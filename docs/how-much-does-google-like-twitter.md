@@ -1,4 +1,4 @@
-# 谷歌有多喜欢 Twitter？TechCrunch
+# 谷歌有多喜欢 Twitter？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/11/how-much-does-google-like-twitter/>
 

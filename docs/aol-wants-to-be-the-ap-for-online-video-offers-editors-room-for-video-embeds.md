@@ -1,4 +1,4 @@
-# AOL 想成为在线视频的 AP；为视频嵌入提供“编辑空间”TechCrunch
+# AOL 想成为在线视频的 AP；为视频嵌入提供“编辑空间”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/aol-wants-to-be-the-ap-for-online-video-offers-editors-room-for-video-embeds/>
 

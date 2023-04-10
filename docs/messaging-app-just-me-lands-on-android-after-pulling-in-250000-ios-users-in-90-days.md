@@ -1,4 +1,4 @@
-# 消息应用 Just.me 登陆 Android，在 90 天内吸引了 250，000 多名 iOS 用户 TechCrunch
+# 消息应用 Just.me 登陆 Android，在 90 天内吸引了 250，000 多名 iOS 用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/messaging-app-just-me-lands-on-android-after-pulling-in-250000-ios-users-in-90-days/>
 

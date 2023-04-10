@@ -1,4 +1,4 @@
-# 苹果董事会关于史蒂夫·乔布斯去世的声明 TechCrunch
+# 苹果董事会关于史蒂夫·乔布斯去世的声明 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/statement-by-apples-board-of-directors/>
 

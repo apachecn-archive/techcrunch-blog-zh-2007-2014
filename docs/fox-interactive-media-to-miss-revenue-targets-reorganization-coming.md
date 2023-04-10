@@ -1,4 +1,4 @@
-# 福克斯互动媒体未能实现收入目标；重组期间首席收入官离职 TechCrunch
+# 福克斯互动媒体未能实现收入目标；重组期间首席收入官离职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/03/fox-interactive-media-to-miss-revenue-targets-reorganization-coming/>
 

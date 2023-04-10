@@ -1,4 +1,4 @@
-# 采访 Linus Torvalds TechCrunch
+# 采访 Linus Torvalds 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/>
 

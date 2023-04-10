@@ -1,4 +1,4 @@
-# Twitter 为第三方开发者推出问题跟踪器和其他新功能 TechCrunch
+# Twitter 为第三方开发者推出问题跟踪器和其他新功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/twitter-launches-an-issue-tracker-and-other-new-features-for-third-party-developers/>
 

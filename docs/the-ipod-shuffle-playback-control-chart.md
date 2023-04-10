@@ -1,4 +1,4 @@
-# iPod shuffle 播放控制图 TechCrunch
+# iPod shuffle 播放控制图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/11/the-ipod-shuffle-playback-control-chart/>
 

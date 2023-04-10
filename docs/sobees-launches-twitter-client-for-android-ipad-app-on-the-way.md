@@ -1,4 +1,4 @@
-# Sobees 在路上为 Android 和 iPad 应用程序推出 Twitter 客户端 TechCrunch
+# Sobees 在路上为 Android 和 iPad 应用程序推出 Twitter 客户端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/22/sobees-launches-twitter-client-for-android-ipad-app-on-the-way/>
 

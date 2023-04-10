@@ -1,4 +1,4 @@
-# B&N 本季度发布两款新设备 TechCrunch
+# B&N 本季度发布两款新设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/bn-releasing-two-new-nooks-this-quarter/>
 

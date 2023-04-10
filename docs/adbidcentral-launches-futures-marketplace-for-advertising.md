@@ -1,4 +1,4 @@
-# AdBidCentral 推出广告期货市场 TechCrunch
+# AdBidCentral 推出广告期货市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/09/adbidcentral-launches-futures-marketplace-for-advertising/>
 

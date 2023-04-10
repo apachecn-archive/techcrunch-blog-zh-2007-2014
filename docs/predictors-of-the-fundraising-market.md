@@ -1,4 +1,4 @@
-# 筹款市场的预测者 TechCrunch
+# 筹款市场的预测者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/04/predictors-of-the-fundraising-market/>
 

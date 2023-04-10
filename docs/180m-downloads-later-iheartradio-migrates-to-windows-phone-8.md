@@ -1,4 +1,4 @@
-# 1.8 亿次下载后，iHeartRadio 迁移到 Windows Phone 8 TechCrunch
+# 1.8 亿次下载后，iHeartRadio 迁移到 Windows Phone 8 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/01/180m-downloads-later-iheartradio-migrates-to-windows-phone-8/>
 

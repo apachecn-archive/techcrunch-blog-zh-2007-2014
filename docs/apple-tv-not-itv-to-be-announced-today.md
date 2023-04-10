@@ -1,4 +1,4 @@
-# 苹果电视，而不是独立电视，将于今天宣布？TechCrunch
+# 苹果电视，而不是独立电视，将于今天宣布？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/apple-tv-not-itv-to-be-announced-today/>
 

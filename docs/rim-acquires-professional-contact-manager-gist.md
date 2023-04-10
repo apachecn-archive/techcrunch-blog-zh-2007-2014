@@ -1,4 +1,4 @@
-# 动态研究收购专业联系人经理 Gist TechCrunch
+# 动态研究收购专业联系人经理 Gist 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/rim-acquires-professional-contact-manager-gist/>
 

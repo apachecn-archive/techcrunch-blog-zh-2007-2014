@@ -1,4 +1,4 @@
-# 第二个基于权威的 Twitter 搜索引擎发布:Twithority TechCrunch
+# 第二个基于权威的 Twitter 搜索引擎发布:Twithority 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/29/second-authority-based-twitter-search-engine-launches-twithority/>
 

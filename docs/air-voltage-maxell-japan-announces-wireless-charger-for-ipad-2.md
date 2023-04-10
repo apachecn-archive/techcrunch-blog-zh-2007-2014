@@ -1,4 +1,4 @@
-# 空气电压:Maxell 日本公司宣布 iPad 2 无线充电器 TechCrunch
+# 空气电压:Maxell 日本公司宣布 iPad 2 无线充电器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/air-voltage-maxell-japan-announces-wireless-charger-for-ipad-2/>
 

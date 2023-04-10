@@ -1,4 +1,4 @@
-# 为什么甲骨文和 Salesforce 这两个曾经势不两立的竞争对手现在都飘飘然了 TechCrunch
+# 为什么甲骨文和 Salesforce 这两个曾经势不两立的竞争对手现在都飘飘然了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/29/why-oracle-and-salesforce-once-bitter-rivals-are-now-on-cloud-nine/>
 

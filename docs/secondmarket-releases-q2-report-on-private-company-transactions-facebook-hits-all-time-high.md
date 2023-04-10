@@ -1,4 +1,4 @@
-# SecondMarket 发布 Q2 私人公司交易报告——脸书创历史新高 TechCrunch
+# SecondMarket 发布 Q2 私人公司交易报告——脸书创历史新高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/26/secondmarket-releases-q2-report-on-private-company-transactions-facebook-hits-all-time-high/>
 

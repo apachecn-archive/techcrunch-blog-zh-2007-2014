@@ -40,7 +40,7 @@ LuluLemon 的首席执行官克里斯汀·戴也表达了类似的观点。“�
 [Barbara Messing](https://web.archive.org/web/20230324071128/http://tripadvisor.wordpress.com/2011/02/23/meet-barbara-messing-tripadvisors-new-cmo/) ，CMO，Tripadvisor
 [Caterina Fake](https://web.archive.org/web/20230324071128/http://en.wikipedia.org/wiki/Caterina_Fake)，Pinwheel 创始人；联合创始人，Flickr 和 Hunch
 [全球营销解决方案副总裁 Carolyn Everson](https://web.archive.org/web/20230324071128/http://www.linkedin.com/pub/carolyn-everson/9/347/863) ，脸书
-[Heather Harde](https://web.archive.org/web/20230324071128/http://www.fastcompany.com/women-in-tech/2011/media/heather-harde) ，前首席执行官，TechCrunch
+[Heather Harde](https://web.archive.org/web/20230324071128/http://www.fastcompany.com/women-in-tech/2011/media/heather-harde) ，前首席执行官，
 [Jennifer Bailey](https://web.archive.org/web/20230324071128/http://www.linkedin.com/in/jbaileyz)，WW 在线商店副总裁，苹果
 [Jessica Herrin](https://web.archive.org/web/20230324071128/http://www.stelladot.com/about/meet-the-team) ，首席执行官/创始人，Stella&Dot
 [Jessica Steel](https://web.archive.org/web/20230324071128/http://investor.pandora.com/phoenix.zhtml?c=227956&p=irol-govBio&ID=212493)，企业发展执行副总裁&Pandora

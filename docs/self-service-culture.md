@@ -1,4 +1,4 @@
-# 据报道，亚马逊盯上了伦敦地铁售票处作为送货点 TechCrunch
+# 据报道，亚马逊盯上了伦敦地铁售票处作为送货点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/22/self-service-culture/>
 

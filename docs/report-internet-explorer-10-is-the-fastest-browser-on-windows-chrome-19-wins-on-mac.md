@@ -1,4 +1,4 @@
-# 报告:Internet Explorer 10 是 Windows 上最快的浏览器，Chrome 19 在 Mac 上胜出 TechCrunch
+# 报告:Internet Explorer 10 是 Windows 上最快的浏览器，Chrome 19 在 Mac 上胜出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/06/report-internet-explorer-10-is-the-fastest-browser-on-windows-chrome-19-wins-on-mac/>
 

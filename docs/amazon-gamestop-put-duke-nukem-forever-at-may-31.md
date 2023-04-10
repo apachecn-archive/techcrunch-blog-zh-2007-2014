@@ -1,4 +1,4 @@
-# 亚马逊和 GameStop 在 5 月 31 日将 Duke Nukem 永远放在 TechCrunch
+# 亚马逊和 GameStop 在 5 月 31 日将 Duke Nukem 永远放在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/31/amazon-gamestop-put-duke-nukem-forever-at-may-31/>
 

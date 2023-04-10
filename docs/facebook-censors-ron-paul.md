@@ -1,4 +1,4 @@
-# 脸书审查罗恩保罗？TechCrunch
+# 脸书审查罗恩保罗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/07/facebook-censors-ron-paul/>
 

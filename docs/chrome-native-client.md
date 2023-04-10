@@ -1,4 +1,4 @@
-# 谷歌将原生客户端引入 Chrome，下一代网络应用将紧随其后？TechCrunch
+# 谷歌将原生客户端引入 Chrome，下一代网络应用将紧随其后？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/chrome-native-client/>
 

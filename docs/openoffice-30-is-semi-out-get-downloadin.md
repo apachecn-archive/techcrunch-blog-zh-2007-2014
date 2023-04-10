@@ -1,4 +1,4 @@
-# OpenOffice 3.0 已经过时，请下载 TechCrunch
+# OpenOffice 3.0 已经过时，请下载 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/12/openoffice-30-is-semi-out-get-downloadin/>
 

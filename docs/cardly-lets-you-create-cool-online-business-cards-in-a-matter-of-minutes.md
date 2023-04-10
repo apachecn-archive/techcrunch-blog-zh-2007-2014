@@ -1,4 +1,4 @@
-# Card.ly 让您在几分钟内创建酷炫的在线名片 TechCrunch
+# Card.ly 让您在几分钟内创建酷炫的在线名片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/20/cardly-lets-you-create-cool-online-business-cards-in-a-matter-of-minutes/>
 

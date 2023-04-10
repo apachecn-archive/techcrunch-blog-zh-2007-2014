@@ -1,4 +1,4 @@
-# 为什么平板电脑制造商不能出货？TechCrunch
+# 为什么平板电脑制造商不能出货？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/why-cant-tablet-makers-just-freaking-ship/>
 

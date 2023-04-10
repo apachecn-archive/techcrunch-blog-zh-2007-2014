@@ -1,4 +1,4 @@
-# 新款阿迪达斯 Wings 2.0 鞋是仅次于实际飞踢的最佳选择 TechCrunch
+# 新款阿迪达斯 Wings 2.0 鞋是仅次于实际飞踢的最佳选择 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/06/30/new-adidas-wings-2-0-shoes-are-the-next-best-thing-to-actual-flying-kicks/>
 

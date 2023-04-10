@@ -1,4 +1,4 @@
-# Nexus 平板电脑的成功以及为什么没有像现在这样的时机开设谷歌零售店 TechCrunch
+# Nexus 平板电脑的成功以及为什么没有像现在这样的时机开设谷歌零售店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/17/nexus-tablet-success-and-why-theres-no-time-like-the-present-for-a-google-retail-store/>
 

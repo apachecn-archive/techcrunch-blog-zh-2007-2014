@@ -1,4 +1,4 @@
-# 美国电话电报公司在 T-Mobile 和高通频谱收购中遇到障碍 TechCrunch
+# 美国电话电报公司在 T-Mobile 和高通频谱收购中遇到障碍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/att-hits-obstacle-in-t-mobile-qualcomm-spectrum-acquisitions/>
 

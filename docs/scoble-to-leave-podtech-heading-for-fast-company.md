@@ -1,4 +1,4 @@
-# Scoble 离开 PodTech，前往快速公司 TechCrunch
+# Scoble 离开 PodTech，前往快速公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/12/scoble-to-leave-podtech-heading-for-fast-company/>
 

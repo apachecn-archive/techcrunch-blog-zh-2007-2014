@@ -1,4 +1,4 @@
-# 沃尔玛实验室收购数据分析和预测智能初创公司 Inkiru TechCrunch
+# 沃尔玛实验室收购数据分析和预测智能初创公司 Inkiru 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/10/walmart-labs-buys-data-analytics-and-predictive-intelligence-startup-inkiru/>
 

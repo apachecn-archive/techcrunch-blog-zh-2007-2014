@@ -1,4 +1,4 @@
-# 在销售额飙升至 1 亿美元以上后，辅导市场 WyzAnt 从 Accel 获得了 2100 万美元，用于全球化和移动化 TechCrunch
+# 在销售额飙升至 1 亿美元以上后，辅导市场 WyzAnt 从 Accel 获得了 2100 万美元，用于全球化和移动化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/16/wyzant-lands-21-5m-from-accel-to-take-its-tutoring-marketplace-global-and-mobile/>
 

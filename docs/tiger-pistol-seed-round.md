@@ -1,4 +1,4 @@
-# 老虎手枪筹集 100 多万美元用于简单的社交媒体营销，离开测试版 TechCrunch
+# 老虎手枪筹集 100 多万美元用于简单的社交媒体营销，离开测试版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/17/tiger-pistol-seed-round/>
 

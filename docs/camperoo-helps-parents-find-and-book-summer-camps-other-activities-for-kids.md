@@ -1,4 +1,4 @@
-# Camperoo 帮助家长寻找和预订夏令营及其他儿童活动 TechCrunch
+# Camperoo 帮助家长寻找和预订夏令营及其他儿童活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/camperoo-helps-parents-find-and-book-summer-camps-other-activities-for-kids/>
 

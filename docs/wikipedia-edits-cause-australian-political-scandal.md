@@ -1,4 +1,4 @@
-# 维基百科编辑引发澳大利亚政治丑闻——TechCrunch
+# 维基百科编辑引发澳大利亚政治丑闻——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/wikipedia-edits-cause-australian-political-scandal/>
 

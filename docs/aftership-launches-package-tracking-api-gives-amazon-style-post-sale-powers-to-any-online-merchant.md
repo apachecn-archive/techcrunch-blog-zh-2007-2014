@@ -1,4 +1,4 @@
-# AfterShip 推出包裹跟踪 API，赋予任何在线商家亚马逊式的售后权力 TechCrunch
+# AfterShip 推出包裹跟踪 API，赋予任何在线商家亚马逊式的售后权力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/aftership-launches-package-tracking-api-gives-amazon-style-post-sale-powers-to-any-online-merchant/>
 

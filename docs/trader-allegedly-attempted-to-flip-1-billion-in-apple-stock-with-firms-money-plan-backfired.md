@@ -1,4 +1,4 @@
-# 据称，交易商试图用公司的钱抛售 10 亿美元的苹果股票，计划事与愿违 TechCrunch
+# 据称，交易商试图用公司的钱抛售 10 亿美元的苹果股票，计划事与愿违 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/05/trader-allegedly-attempted-to-flip-1-billion-in-apple-stock-with-firms-money-plan-backfired/>
 

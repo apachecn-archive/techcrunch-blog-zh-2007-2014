@@ -1,4 +1,4 @@
-# 关于剃须套装的一千字 TechCrunch
+# 关于剃须套装的一千字 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/bevel-is-a-product-that-should-exist/>
 

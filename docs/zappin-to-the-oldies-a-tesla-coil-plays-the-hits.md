@@ -1,4 +1,4 @@
-# 播放老歌:特斯拉线圈播放热门歌曲 TechCrunch
+# 播放老歌:特斯拉线圈播放热门歌曲 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/zappin-to-the-oldies-a-tesla-coil-plays-the-hits/>
 

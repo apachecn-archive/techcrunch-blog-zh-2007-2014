@@ -1,4 +1,4 @@
-# 一名 Xobni 高管离开了这家红火的初创公司。但是为什么呢？TechCrunch
+# 一名 Xobni 高管离开了这家红火的初创公司。但是为什么呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/23/a-xobni-executive-leaves-the-red-hot-startup-but-why/>
 

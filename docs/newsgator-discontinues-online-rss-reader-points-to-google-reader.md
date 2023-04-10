@@ -1,4 +1,4 @@
-# NewsGator 停止在线 RSS 阅读器，转而使用谷歌阅读器 TechCrunch
+# NewsGator 停止在线 RSS 阅读器，转而使用谷歌阅读器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/newsgator-discontinues-online-rss-reader-points-to-google-reader/>
 

@@ -1,4 +1,4 @@
-# # SXSpontaneity，RIP TechCrunch
+# # SXSpontaneity，RIP 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/02/sxspontaneity-rip/>
 

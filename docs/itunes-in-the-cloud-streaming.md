@@ -1,4 +1,4 @@
-# 有了云中的 iTunes，苹果少承诺多交付 TechCrunch
+# 有了云中的 iTunes，苹果少承诺多交付 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/30/itunes-in-the-cloud-streaming/>
 

@@ -1,4 +1,4 @@
-# 视频:认识一下 ecoATM，这是一台能拿走你的手机并吐出现金的自动售货机 TechCrunch
+# 视频:认识一下 ecoATM，这是一台能拿走你的手机并吐出现金的自动售货机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/video-meet-ecoatm-the-reverse-vending-machine-that-takes-your-phone-spits-out-cash/>
 

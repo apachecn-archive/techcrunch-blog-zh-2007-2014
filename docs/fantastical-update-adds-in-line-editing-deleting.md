@@ -1,4 +1,4 @@
-# 梦幻般的更新增加了在线编辑，删除了 TechCrunch
+# 梦幻般的更新增加了在线编辑，删除了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/fantastical-update-adds-in-line-editing-deleting/>
 

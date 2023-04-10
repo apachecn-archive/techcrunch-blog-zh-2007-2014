@@ -1,4 +1,4 @@
-# 诺基亚报告第四季度收益疲软，改组董事会 TechCrunch
+# 诺基亚报告第四季度收益疲软，改组董事会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/nokia-reports-weak-quarter-earnings-reshuffles-board-of-directors/>
 

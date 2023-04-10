@@ -1,4 +1,4 @@
-# 公民“记者”用虚假的(史蒂夫·乔布斯)心脏病发作谣言打击苹果股票 TechCrunch
+# 公民“记者”用虚假的(史蒂夫·乔布斯)心脏病发作谣言打击苹果股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/03/citizen-journalist-hits-apple-stock-with-false-steve-jobs-heart-attack-rumor/>
 

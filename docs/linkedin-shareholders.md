@@ -1,4 +1,4 @@
-# LinkedIn 的最大股东及其持股数量 TechCrunch
+# LinkedIn 的最大股东及其持股数量 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/27/linkedin-shareholders/>
 

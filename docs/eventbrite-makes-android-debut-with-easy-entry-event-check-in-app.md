@@ -1,4 +1,4 @@
-# Eventbrite 首次亮相 Android，推出“轻松进入”活动签到应用 TechCrunch
+# Eventbrite 首次亮相 Android，推出“轻松进入”活动签到应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/eventbrite-makes-android-debut-with-easy-entry-event-check-in-app/>
 

@@ -1,4 +1,4 @@
-# 技术和材料市场 Inventables 从 True Ventures 获得 200 万美元 TechCrunch
+# 技术和材料市场 Inventables 从 True Ventures 获得 200 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/27/technology-and-material-marketplace-inventables-scores-2-million-from-true-ventures/>
 

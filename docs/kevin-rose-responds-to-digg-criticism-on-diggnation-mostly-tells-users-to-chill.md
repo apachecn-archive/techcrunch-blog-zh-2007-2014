@@ -1,4 +1,4 @@
-# 凯文·罗斯回应对 Diggnation 的批评，主要是告诉用户冷静 TechCrunch
+# 凯文·罗斯回应对 Diggnation 的批评，主要是告诉用户冷静 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/kevin-rose-responds-to-digg-criticism-on-diggnation-mostly-tells-users-to-chill/>
 

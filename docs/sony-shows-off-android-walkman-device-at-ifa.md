@@ -1,4 +1,4 @@
-# 索尼在 IFA 展示安卓随身听设备 TechCrunch
+# 索尼在 IFA 展示安卓随身听设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/sony-shows-off-android-walkman-device-at-ifa/>
 

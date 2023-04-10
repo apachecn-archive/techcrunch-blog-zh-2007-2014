@@ -1,4 +1,4 @@
-# 网络效果不够好 TechCrunch
+# 网络效果不够好 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/11/04/the-network-effect-isnt-good-enough/>
 

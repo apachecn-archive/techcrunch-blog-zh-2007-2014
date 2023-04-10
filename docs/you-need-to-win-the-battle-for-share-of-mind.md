@@ -1,4 +1,4 @@
-# 你需要赢得思想份额之战 TechCrunch
+# 你需要赢得思想份额之战 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/20/you-need-to-win-the-battle-for-share-of-mind/>
 

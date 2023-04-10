@@ -1,4 +1,4 @@
-# 谷歌赠送终极节日礼物:维珍美国航班上的免费 WiFi TechCrunch
+# 谷歌赠送终极节日礼物:维珍美国航班上的免费 WiFi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/19/google-gives-the-ultimate-holiday-gift-free-wifi-on-virgin-america-flights/>
 

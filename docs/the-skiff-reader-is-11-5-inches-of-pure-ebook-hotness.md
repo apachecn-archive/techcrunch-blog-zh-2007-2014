@@ -1,4 +1,4 @@
-# Skiff Reader 是 11.5 英寸的纯电子书 hotness TechCrunch
+# Skiff Reader 是 11.5 英寸的纯电子书 hotness 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/the-skiff-reader-is-11-5-inches-of-pure-ebook-hotness/>
 

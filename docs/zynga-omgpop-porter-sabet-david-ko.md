@@ -1,4 +1,4 @@
-# 来自首席执行官、投资者和更多人的 OMGPOP-Zynga 交易内幕！TechCrunch
+# 来自首席执行官、投资者和更多人的 OMGPOP-Zynga 交易内幕！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/21/zynga-omgpop-porter-sabet-david-ko/>
 

@@ -1,4 +1,4 @@
-# 柯南调整 Siri 广告 TechCrunch
+# 柯南调整 Siri 广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/conan-tweaks-the-siri-commercial/>
 

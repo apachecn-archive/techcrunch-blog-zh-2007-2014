@@ -1,4 +1,4 @@
-# 自由式音频 512MB 体育评论 TechCrunch
+# 自由式音频 512MB 体育评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/freestyle-audio-512mb-sport-review/>
 

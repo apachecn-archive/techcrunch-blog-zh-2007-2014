@@ -1,4 +1,4 @@
-# 亚马逊将比较购物应用价格检查引入安卓手机 TechCrunch
+# 亚马逊将比较购物应用价格检查引入安卓手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/amazon-brings-comparison-shopping-app-price-check-to-android-phones/>
 

@@ -1,4 +1,4 @@
-# 脸书继续发货。现在，您可以通过新的通知控制来阻止垃圾应用等 TechCrunch
+# 脸书继续发货。现在，您可以通过新的通知控制来阻止垃圾应用等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/17/facebook-notification-controls/>
 

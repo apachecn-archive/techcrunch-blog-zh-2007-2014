@@ -1,4 +1,4 @@
-# 出版商，我们需要谈一谈:来自狗的文本获得图书交易 TechCrunch
+# 出版商，我们需要谈一谈:来自狗的文本获得图书交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/publishers-we-need-to-talk-text-from-dog-gets-a-book-deal/>
 

@@ -1,4 +1,4 @@
-# RentBits 发布房屋租赁市场概览 TechCrunch
+# RentBits 发布房屋租赁市场概览 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/19/rentbits-launches-at-a-glance-view-of-housing-rental-market/>
 

@@ -1,4 +1,4 @@
-# 病毒聚合网站 BuzzFeed 筹集了 1550 万美元来改变人们获取新闻的方式 TechCrunch
+# 病毒聚合网站 BuzzFeed 筹集了 1550 万美元来改变人们获取新闻的方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/viral-aggregator-buzzfeed-raises-15-5m-to-transform-the-way-people-get-their-news/>
 

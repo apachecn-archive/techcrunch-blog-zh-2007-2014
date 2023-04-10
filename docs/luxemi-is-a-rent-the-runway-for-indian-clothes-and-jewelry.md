@@ -1,4 +1,4 @@
-# Luxemi 是印度服装和珠宝的出租跑道 TechCrunch
+# Luxemi 是印度服装和珠宝的出租跑道 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/21/luxemi-is-a-rent-the-runway-for-indian-clothes-and-jewelry/>
 

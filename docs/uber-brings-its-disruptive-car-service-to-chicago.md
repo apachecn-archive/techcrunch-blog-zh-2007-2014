@@ -1,4 +1,4 @@
-# 优步将其颠覆性的汽车服务带到芝加哥 TechCrunch
+# 优步将其颠覆性的汽车服务带到芝加哥 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/uber-brings-its-disruptive-car-service-to-chicago/>
 

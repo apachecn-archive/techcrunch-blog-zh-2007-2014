@@ -1,4 +1,4 @@
-# Tatto Media 继续推出免费海报骗局 TechCrunch
+# Tatto Media 继续推出免费海报骗局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/12/tatto-media-continues-to-push-free-poster-scam/>
 

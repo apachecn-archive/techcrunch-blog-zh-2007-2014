@@ -1,4 +1,4 @@
-# PUC 众筹项目接近尾声，将 MIDI 带入所有事物 TechCrunch
+# PUC 众筹项目接近尾声，将 MIDI 带入所有事物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/11/the-puc-crowdfunding-project-comes-to-a-close-bringing-midi-to-all-the-things/>
 

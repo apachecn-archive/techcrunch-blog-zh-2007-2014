@@ -1,4 +1,4 @@
-# Pontiflex 将其“注册”移动广告引入 iOS5、Android 平板电脑 TechCrunch
+# Pontiflex 将其“注册”移动广告引入 iOS5、Android 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/pontiflex-brings-its-signup-mobile-ads-to-ios5-android-tablets/>
 

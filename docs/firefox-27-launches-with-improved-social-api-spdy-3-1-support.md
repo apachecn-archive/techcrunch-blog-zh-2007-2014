@@ -1,4 +1,4 @@
-# Firefox 27 发布，改进了社交 API，支持 SPDY 3.1 TechCrunch
+# Firefox 27 发布，改进了社交 API，支持 SPDY 3.1 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/firefox-27-launches-with-improved-social-api-spdy-3-1-support/>
 

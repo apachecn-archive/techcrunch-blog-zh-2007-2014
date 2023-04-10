@@ -1,4 +1,4 @@
-# 惊讶吗？三周后，Groupon 的股票跌破 IPO 价格 TechCrunch
+# 惊讶吗？三周后，Groupon 的股票跌破 IPO 价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/23/non-news-three-weeks-later-groupons-stock-plummets-below-ipo-price/>
 

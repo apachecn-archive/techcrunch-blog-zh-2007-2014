@@ -1,4 +1,4 @@
-# 新的泄漏详细说明了美国国家安全局的“陶”和“蚂蚁”单位如何监视设备，全球网络 TechCrunch
+# 新的泄漏详细说明了美国国家安全局的“陶”和“蚂蚁”单位如何监视设备，全球网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/29/nsa-leaks-spiegel-tao-ant-units/>
 

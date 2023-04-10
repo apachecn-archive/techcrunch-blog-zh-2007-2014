@@ -1,4 +1,4 @@
-# YC 资助的 Nowmov:坐好，放松，观看源源不断的 YouTube 视频 TechCrunch
+# YC 资助的 Nowmov:坐好，放松，观看源源不断的 YouTube 视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/07/yc-funded-nowmov-sit-back-relax-and-watch-an-endless-stream-of-youtube-videos/>
 

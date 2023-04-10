@@ -1,4 +1,4 @@
-# 作为名人财富的创业启动:Airtime 的奢华、炫目、炫目的首次亮相 TechCrunch
+# 作为名人财富的创业启动:Airtime 的奢华、炫目、炫目的首次亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/05/startup-launch-as-celebrity-bonanza-airtimes-ritzy-glitzy-glitchy-debut/>
 

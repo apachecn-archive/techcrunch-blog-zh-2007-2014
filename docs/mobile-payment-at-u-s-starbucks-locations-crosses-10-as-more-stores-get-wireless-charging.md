@@ -1,4 +1,4 @@
-# 随着越来越多的商店实现无线充电，美国星巴克的移动支付比例超过 10% TechCrunch
+# 随着越来越多的商店实现无线充电，美国星巴克的移动支付比例超过 10% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/mobile-payment-at-u-s-starbucks-locations-crosses-10-as-more-stores-get-wireless-charging/>
 

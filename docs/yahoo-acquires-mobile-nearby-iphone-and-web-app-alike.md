@@ -1,4 +1,4 @@
-# 雅虎收购移动“附近推荐”iPhone 和 Web 应用程序 TechCrunch
+# 雅虎收购移动“附近推荐”iPhone 和 Web 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/12/yahoo-acquires-mobile-nearby-iphone-and-web-app-alike/>
 

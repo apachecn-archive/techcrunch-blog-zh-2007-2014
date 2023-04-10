@@ -1,4 +1,4 @@
-# 苹果设计奖获得者 Tapity 发布了一个“Flappy Bird”克隆版 TechCrunch
+# 苹果设计奖获得者 Tapity 发布了一个“Flappy Bird”克隆版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/27/apple-design-award-winner-tapity-releases-a-flappy-bird-clone/>
 

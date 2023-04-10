@@ -1,4 +1,4 @@
-# 梅赛德斯在这段复杂的 7 分钟视频中演示了 CarPlay 的所有功能 TechCrunch
+# 梅赛德斯在这段复杂的 7 分钟视频中演示了 CarPlay 的所有功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/mercedes-demos-all-the-functions-of-carplay-in-this-convoluted-7-minute-video/>
 

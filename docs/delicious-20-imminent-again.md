@@ -1,4 +1,4 @@
-# 美味 2.0 即将到来 TechCrunch
+# 美味 2.0 即将到来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/26/delicious-20-imminent-again/>
 

@@ -1,4 +1,4 @@
-# WhaleShark Media 作为大型优惠券/交易汇总游戏亮相 TechCrunch
+# WhaleShark Media 作为大型优惠券/交易汇总游戏亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/whaleshark-media-unveiled-as-big-coupondeals-rollup-play/>
 

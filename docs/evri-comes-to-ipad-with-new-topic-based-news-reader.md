@@ -1,4 +1,4 @@
-# Evri 在 iPad 上推出了新的基于主题的新闻阅读器 TechCrunch
+# Evri 在 iPad 上推出了新的基于主题的新闻阅读器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/evri-comes-to-ipad-with-new-topic-based-news-reader/>
 

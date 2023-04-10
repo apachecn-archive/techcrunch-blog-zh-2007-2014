@@ -1,4 +1,4 @@
-# musiXmatch，歌词的 IMDB，来到 iTunes & Spotify 超过 100 万次移动下载 TechCrunch
+# musiXmatch，歌词的 IMDB，来到 iTunes & Spotify 超过 100 万次移动下载 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/imdb-for-song-lyrics-musixmatch-launches-widget-for-itunes-spotify-passes-1m-mobile-downloads/>
 

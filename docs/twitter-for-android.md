@@ -1,4 +1,4 @@
-# 寻找最好的 Android Twitter 客户端？你可能想试试 Twitter 的(是的，在这里)TechCrunch
+# 寻找最好的 Android Twitter 客户端？你可能想试试 Twitter 的(是的，在这里)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/30/twitter-for-android/>
 

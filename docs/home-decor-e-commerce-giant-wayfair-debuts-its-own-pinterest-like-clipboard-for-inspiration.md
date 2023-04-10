@@ -1,4 +1,4 @@
-# 家居装饰电子商务巨头 Wayfair 首次推出类似 Pinterest 的灵感剪贴板 TechCrunch
+# 家居装饰电子商务巨头 Wayfair 首次推出类似 Pinterest 的灵感剪贴板 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/08/home-decor-e-commerce-giant-wayfair-debuts-its-own-pinterest-like-clipboard-for-inspiration/>
 

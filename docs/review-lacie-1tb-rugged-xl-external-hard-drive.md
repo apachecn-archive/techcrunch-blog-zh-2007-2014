@@ -1,4 +1,4 @@
-# 点评:LaCie 1TB 加固型 XL 外置硬盘 TechCrunch
+# 点评:LaCie 1TB 加固型 XL 外置硬盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/06/review-lacie-1tb-rugged-xl-external-hard-drive/>
 

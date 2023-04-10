@@ -1,4 +1,4 @@
-# 医疗保健最终超越王式的遗留系统 TechCrunch
+# 医疗保健最终超越王式的遗留系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/04/healthcare-finally-moving-past-wangprodigy-era/>
 

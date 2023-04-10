@@ -1,4 +1,4 @@
-# 交付优势陷入停滞 TechCrunch
+# 交付优势陷入停滞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/03/deliveryedge-tumbles-into-the-deadpool/>
 

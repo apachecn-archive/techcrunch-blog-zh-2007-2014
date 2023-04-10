@@ -1,4 +1,4 @@
-# MySpace 粉丝视频不代表更广泛的脸书互联推广 TechCrunch
+# MySpace 粉丝视频不代表更广泛的脸书互联推广 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/01/15/myspace-facebook-connect/>
 

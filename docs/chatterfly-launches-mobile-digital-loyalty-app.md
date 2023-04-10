@@ -1,4 +1,4 @@
-# Chatterfly 发布移动数字忠诚度应用程序 TechCrunch
+# Chatterfly 发布移动数字忠诚度应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/chatterfly-launches-mobile-digital-loyalty-app/>
 

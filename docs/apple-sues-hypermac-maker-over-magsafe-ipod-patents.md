@@ -1,4 +1,4 @@
-# 苹果就 MagSafe、iPod 专利起诉 HyperMac 制造商 TechCrunch
+# 苹果就 MagSafe、iPod 专利起诉 HyperMac 制造商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/21/apple-sues-hypermac-maker-over-magsafe-ipod-patents/>
 

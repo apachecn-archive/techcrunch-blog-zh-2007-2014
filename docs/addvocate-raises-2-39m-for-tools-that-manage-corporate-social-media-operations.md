@@ -1,4 +1,4 @@
-# Addvocate 为管理企业社交媒体运营的工具筹集了 239 万美元 TechCrunch
+# Addvocate 为管理企业社交媒体运营的工具筹集了 239 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/24/addvocate-raises-2-39m-for-tools-that-manage-corporate-social-media-operations/>
 

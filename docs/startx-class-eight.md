@@ -1,4 +1,4 @@
-# 了解来自斯坦福学生创业加速器 StartX 的下 10 家公司 TechCrunch
+# 了解来自斯坦福学生创业加速器 StartX 的下 10 家公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/07/startx-class-eight/>
 

@@ -1,4 +1,4 @@
-# 这是即将到来的 Xbox One 仪表盘更新的样子 TechCrunch
+# 这是即将到来的 Xbox One 仪表盘更新的样子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/xbox-one-update-march/>
 

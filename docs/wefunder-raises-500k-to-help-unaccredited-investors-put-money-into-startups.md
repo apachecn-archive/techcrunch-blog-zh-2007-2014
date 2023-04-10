@@ -1,4 +1,4 @@
-# Wefunder 筹集 50 万美元，帮助未经认证的投资者向初创公司投资 TechCrunch
+# Wefunder 筹集 50 万美元，帮助未经认证的投资者向初创公司投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/28/wefunder-raises-500k-to-help-unaccredited-investors-put-money-into-startups/>
 

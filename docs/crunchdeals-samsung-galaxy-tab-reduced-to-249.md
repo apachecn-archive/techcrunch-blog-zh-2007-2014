@@ -1,4 +1,4 @@
-# CrunchDeals:三星 Galaxy Tab 降至 249 美元 TechCrunch
+# CrunchDeals:三星 Galaxy Tab 降至 249 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/crunchdeals-samsung-galaxy-tab-reduced-to-249/>
 

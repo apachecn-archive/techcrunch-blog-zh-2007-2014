@@ -1,4 +1,4 @@
-# 谁应该成为美国的首席技术官？TechCrunch
+# 谁应该成为美国的首席技术官？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/20/who-should-be-cto-of-the-usa/>
 

@@ -1,4 +1,4 @@
-# 我很无聊。下一步是什么？TechCrunch
+# 我很无聊。下一步是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/30/im-bored-whats-next/>
 

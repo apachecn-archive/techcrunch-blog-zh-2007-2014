@@ -1,4 +1,4 @@
-# CrunchWeek: Instagram 首次推出消息服务，Twitter 的屏蔽崩溃，Snapchat 银行 5000 万美元 TechCrunch
+# CrunchWeek: Instagram 首次推出消息服务，Twitter 的屏蔽崩溃，Snapchat 银行 5000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/14/crunchweek-instagram-debuts-messaging-twitters-blocking-debacle-snapchat-banks-50m/>
 

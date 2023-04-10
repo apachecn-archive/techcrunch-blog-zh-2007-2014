@@ -1,4 +1,4 @@
-# Lanyrd 获得 140 万美元的种子资金，使会议更具社会性 TechCrunch
+# Lanyrd 获得 140 万美元的种子资金，使会议更具社会性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/lanyrd-secures-1-4-million-in-seed-funding-to-make-conferences-more-social/>
 

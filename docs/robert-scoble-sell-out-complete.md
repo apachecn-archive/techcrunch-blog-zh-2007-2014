@@ -1,4 +1,4 @@
-# Robert Scoble 销售一空 TechCrunch
+# Robert Scoble 销售一空 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/30/robert-scoble-sell-out-complete/>
 

@@ -1,4 +1,4 @@
-# Twitter、就业、民主和美国选举 TechCrunch
+# Twitter、就业、民主和美国选举 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/twitter-jobs-democracy-and-the-us-elections/>
 

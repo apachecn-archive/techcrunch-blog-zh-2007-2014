@@ -1,4 +1,4 @@
-# ValueClick 以 2.95 亿美元收购个性化显示广告技术公司 Dotomi TechCrunch
+# ValueClick 以 2.95 亿美元收购个性化显示广告技术公司 Dotomi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/valueclick-buys-personalized-display-ad-technology-company-dotomi-for-295-million/>
 

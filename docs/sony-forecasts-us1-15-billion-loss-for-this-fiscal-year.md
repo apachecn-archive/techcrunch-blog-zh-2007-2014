@@ -1,4 +1,4 @@
-# 索尼预计本财年亏损 11.5 亿美元 TechCrunch
+# 索尼预计本财年亏损 11.5 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/sony-forecasts-us1-15-billion-loss-for-this-fiscal-year/>
 

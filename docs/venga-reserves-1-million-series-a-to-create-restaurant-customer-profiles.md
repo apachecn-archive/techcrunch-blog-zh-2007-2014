@@ -1,4 +1,4 @@
-# Venga 保留 100 万美元的 A 轮融资，用于创建餐厅客户档案 TechCrunch
+# Venga 保留 100 万美元的 A 轮融资，用于创建餐厅客户档案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/venga-reserves-1-million-series-a-to-create-restaurant-customer-profiles/>
 

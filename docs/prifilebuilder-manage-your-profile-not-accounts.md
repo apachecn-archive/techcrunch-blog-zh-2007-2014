@@ -1,4 +1,4 @@
-# ProfileBuilder:管理您的个人资料，而不是帐户 TechCrunch
+# ProfileBuilder:管理您的个人资料，而不是帐户 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/prifilebuilder-manage-your-profile-not-accounts/>
 

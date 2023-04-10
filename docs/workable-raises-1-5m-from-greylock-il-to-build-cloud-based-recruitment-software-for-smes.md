@@ -1,4 +1,4 @@
-# Workable 从 Greylock IL 融资 150 万美元，为中小企业开发基于云的招聘软件 TechCrunch
+# Workable 从 Greylock IL 融资 150 万美元，为中小企业开发基于云的招聘软件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/07/workable-raises-1-5m-from-greylock-il-to-build-cloud-based-recruitment-software-for-smes/>
 

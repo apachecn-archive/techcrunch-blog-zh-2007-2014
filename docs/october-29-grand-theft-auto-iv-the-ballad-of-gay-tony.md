@@ -1,4 +1,4 @@
-# 10 月 29 日:《侠盗猎车手 4:同性恋托尼之歌》TechCrunch
+# 10 月 29 日:《侠盗猎车手 4:同性恋托尼之歌》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/october-29-grand-theft-auto-iv-the-ballad-of-gay-tony/>
 

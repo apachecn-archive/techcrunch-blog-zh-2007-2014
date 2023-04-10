@@ -1,4 +1,4 @@
-# FotoFlexer 提高了在线照片编辑的标准——TechCrunch
+# FotoFlexer 提高了在线照片编辑的标准——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/fotoflexer-raises-the-bar-on-online-photo-editing/>
 

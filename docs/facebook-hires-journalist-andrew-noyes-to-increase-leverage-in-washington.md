@@ -1,4 +1,4 @@
-# 脸书雇佣记者 Andrew Noyes 增加在华盛顿的影响力 TechCrunch
+# 脸书雇佣记者 Andrew Noyes 增加在华盛顿的影响力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/26/facebook-hires-journalist-andrew-noyes-to-increase-leverage-in-washington/>
 

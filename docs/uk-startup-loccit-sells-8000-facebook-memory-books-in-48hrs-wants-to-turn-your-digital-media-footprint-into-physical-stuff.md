@@ -1,4 +1,4 @@
-# 英国初创公司 Loccit 在 48 小时内销售 8k 脸书“记忆书”,希望将您的数字媒体足迹转化为实物 TechCrunch
+# 英国初创公司 Loccit 在 48 小时内销售 8k 脸书“记忆书”,希望将您的数字媒体足迹转化为实物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/uk-startup-loccit-sells-8000-facebook-memory-books-in-48hrs-wants-to-turn-your-digital-media-footprint-into-physical-stuff/>
 

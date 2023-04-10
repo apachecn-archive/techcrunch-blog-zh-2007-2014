@@ -1,4 +1,4 @@
-# iPad 的 10 大优势...第五，它不是 TechCrunch
+# iPad 的 10 大优势...第五，它不是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/19/10-things-the-ipad-is-good-for-and-5-it-isnt/>
 

@@ -1,4 +1,4 @@
-# 随着 Spotify 即将在美国推出，Rdio 推出了一款原生 Windows 应用 TechCrunch
+# 随着 Spotify 即将在美国推出，Rdio 推出了一款原生 Windows 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/as-spotify-nears-u-s-launch-rdio-launches-native-windows-app/>
 

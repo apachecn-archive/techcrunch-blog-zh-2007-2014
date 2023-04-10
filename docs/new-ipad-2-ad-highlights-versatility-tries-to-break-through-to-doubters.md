@@ -1,4 +1,4 @@
-# 新 iPad 2 广告突出多功能性，试图突破怀疑者 TechCrunch
+# 新 iPad 2 广告突出多功能性，试图突破怀疑者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/24/new-ipad-2-ad-highlights-versatility-tries-to-break-through-to-doubters/>
 

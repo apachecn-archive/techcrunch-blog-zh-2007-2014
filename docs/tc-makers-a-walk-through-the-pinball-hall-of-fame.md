@@ -1,4 +1,4 @@
-# TC 制造商:漫步弹球名人堂 TechCrunch
+# TC 制造商:漫步弹球名人堂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/10/tc-makers-a-walk-through-the-pinball-hall-of-fame/>
 

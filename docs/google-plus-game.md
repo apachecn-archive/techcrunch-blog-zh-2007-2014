@@ -1,4 +1,4 @@
-# OMG/JK:有了 Google+，一切都是一场大游戏 TechCrunch
+# OMG/JK:有了 Google+，一切都是一场大游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/13/google-plus-game/>
 

@@ -1,4 +1,4 @@
-# Textango 的创新音乐账单——TechCrunch
+# Textango 的创新音乐账单——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/textango%e2%80%99s-innovative-music-billing/>
 

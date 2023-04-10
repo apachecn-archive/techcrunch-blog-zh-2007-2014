@@ -1,4 +1,4 @@
-# 嘎吱嘎吱声:决赛选手出场了，请为获胜者投票 TechCrunch
+# 嘎吱嘎吱声:决赛选手出场了，请为获胜者投票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/21/the-crunchies-finalists-are-up-vote-for-the-winners/>
 

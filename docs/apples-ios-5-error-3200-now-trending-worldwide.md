@@ -1,4 +1,4 @@
-# 苹果 iOS 5 错误 3200:现在全球流行 TechCrunch
+# 苹果 iOS 5 错误 3200:现在全球流行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/12/apples-ios-5-error-3200-now-trending-worldwide/>
 

@@ -1,4 +1,4 @@
-# GrandCentral 的“一生一个号码”其实不是——TechCrunch
+# GrandCentral 的“一生一个号码”其实不是——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/google-disconnects-grand-central-customers/>
 

@@ -1,4 +1,4 @@
-# 优派将于 2011 年实现全 LED 背光技术 TechCrunch
+# 优派将于 2011 年实现全 LED 背光技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/viewsonic-going-all-led-backlighting-by-2011/>
 

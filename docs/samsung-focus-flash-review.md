@@ -1,4 +1,4 @@
-# 三星 Focus Flash 评论:低价高端体验 TechCrunch
+# 三星 Focus Flash 评论:低价高端体验 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/samsung-focus-flash-review/>
 

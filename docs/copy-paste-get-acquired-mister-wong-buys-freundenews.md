@@ -1,4 +1,4 @@
-# 复制、粘贴、收购:黄先生收购 FreundeNews TechCrunch
+# 复制、粘贴、收购:黄先生收购 FreundeNews 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/04/copy-paste-get-acquired-mister-wong-buys-freundenews/>
 

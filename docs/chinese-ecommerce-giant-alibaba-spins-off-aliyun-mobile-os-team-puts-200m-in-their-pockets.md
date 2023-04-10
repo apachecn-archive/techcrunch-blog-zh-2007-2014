@@ -1,4 +1,4 @@
-# 中国电商巨头阿里巴巴分拆阿里云移动操作系统团队，将 2 亿美元收入囊中 TechCrunch
+# 中国电商巨头阿里巴巴分拆阿里云移动操作系统团队，将 2 亿美元收入囊中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/21/chinese-ecommerce-giant-alibaba-spins-off-aliyun-mobile-os-team-puts-200m-in-their-pockets/>
 

@@ -1,4 +1,4 @@
-# 研究:网上居民不受营销影响 TechCrunch
+# 研究:网上居民不受营销影响 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/study-online-denizens-arent-swayed-by-marketing/>
 

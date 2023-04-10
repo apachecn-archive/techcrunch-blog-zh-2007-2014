@@ -1,4 +1,4 @@
-# 移动购买交互式个人资料创建工具 social BIOS TechCrunch
+# 移动购买交互式个人资料创建工具 social BIOS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/move-buys-interactive-profile-creation-tool-socialbios/>
 

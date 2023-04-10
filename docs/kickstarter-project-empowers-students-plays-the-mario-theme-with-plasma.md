@@ -1,4 +1,4 @@
-# Kickstarter 项目增强学生能力，用等离子体玩马里奥主题 TechCrunch
+# Kickstarter 项目增强学生能力，用等离子体玩马里奥主题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/kickstarter-project-empowers-students-plays-the-mario-theme-with-plasma/>
 

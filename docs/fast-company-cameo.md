@@ -1,4 +1,4 @@
-# Fast Society 死侍其消息应用程序，准备推出 TechCrunch
+# Fast Society 死侍其消息应用程序，准备推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/fast-company-cameo/>
 

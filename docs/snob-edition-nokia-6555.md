@@ -1,4 +1,4 @@
-# 势利版:诺基亚 6555-TechCrunch
+# 势利版:诺基亚 6555-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/snob-edition-nokia-6555/>
 

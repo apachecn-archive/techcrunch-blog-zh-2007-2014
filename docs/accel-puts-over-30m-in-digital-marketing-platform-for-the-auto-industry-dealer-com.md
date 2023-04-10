@@ -1,4 +1,4 @@
-# Accel 为汽车行业的数字营销平台投资超过 3000 万美元 Dealer.com TechCrunch
+# Accel 为汽车行业的数字营销平台投资超过 3000 万美元 Dealer.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/accel-puts-over-30m-in-digital-marketing-platform-for-the-auto-industry-dealer-com/>
 

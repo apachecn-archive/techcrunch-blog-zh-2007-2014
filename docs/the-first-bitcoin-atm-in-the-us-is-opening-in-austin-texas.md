@@ -1,4 +1,4 @@
-# 美国第一台比特币 ATM 机在德克萨斯州奥斯汀开业 TechCrunch
+# 美国第一台比特币 ATM 机在德克萨斯州奥斯汀开业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/the-first-bitcoin-atm-in-the-us-is-opening-in-austin-texas/>
 

@@ -1,4 +1,4 @@
-# MusicMatic 收购红树林在 Jamendo 的股份，打算筹集更多资金 TechCrunch
+# MusicMatic 收购红树林在 Jamendo 的股份，打算筹集更多资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/08/musicmatic-buys-mangroves-share-in-jamendo-intends-to-raise-more-funding/>
 

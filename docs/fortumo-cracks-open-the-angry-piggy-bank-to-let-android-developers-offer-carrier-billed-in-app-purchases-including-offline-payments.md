@@ -1,4 +1,4 @@
-# Fortumo 打开(愤怒的小鸟)存钱罐，让 Android 开发者通过 SMS 提供运营商账单 TechCrunch
+# Fortumo 打开(愤怒的小鸟)存钱罐，让 Android 开发者通过 SMS 提供运营商账单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/13/fortumo-cracks-open-the-angry-piggy-bank-to-let-android-developers-offer-carrier-billed-in-app-purchases-including-offline-payments/>
 

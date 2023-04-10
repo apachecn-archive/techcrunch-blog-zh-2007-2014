@@ -1,4 +1,4 @@
-# 浏览器驱动的桌面通知即将登陆 Gmail TechCrunch
+# 浏览器驱动的桌面通知即将登陆 Gmail 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/browser-powered-desktop-notifications-are-coming-to-gmail/>
 

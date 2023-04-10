@@ -1,4 +1,4 @@
-# 诺基亚带着(非法)音乐来越？TechCrunch
+# 诺基亚带着(非法)音乐来越？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/nokia-comes-with-illegal-music-in-vietnam/>
 

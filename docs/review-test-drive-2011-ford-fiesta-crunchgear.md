@@ -1,4 +1,4 @@
-# 试驾:2011 款福特嘉年华 TechCrunch
+# 试驾:2011 款福特嘉年华 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/review-test-drive-2011-ford-fiesta-crunchgear/>
 

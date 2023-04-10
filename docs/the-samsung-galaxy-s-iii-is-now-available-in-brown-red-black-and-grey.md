@@ -1,4 +1,4 @@
-# 三星 Galaxy S III 现在有棕色、红色、黑色和灰色可供选择 TechCrunch
+# 三星 Galaxy S III 现在有棕色、红色、黑色和灰色可供选择 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/the-samsung-galaxy-s-iii-is-now-available-in-brown-red-black-and-grey/>
 

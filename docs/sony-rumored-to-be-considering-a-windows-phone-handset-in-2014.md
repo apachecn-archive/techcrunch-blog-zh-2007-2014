@@ -1,4 +1,4 @@
-# 据传，索尼正在考虑在 2014 年推出 Windows Phone 手机 TechCrunch
+# 据传，索尼正在考虑在 2014 年推出 Windows Phone 手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/31/sony-rumored-to-be-considering-a-windows-phone-handset-in-2014/>
 

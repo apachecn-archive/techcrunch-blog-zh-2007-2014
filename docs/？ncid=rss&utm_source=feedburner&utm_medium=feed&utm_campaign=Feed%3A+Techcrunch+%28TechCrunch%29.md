@@ -1,4 +1,4 @@
-# 酷人们用电子等离子火花播放音乐，而不是普通的扬声器 TechCrunch
+# 酷人们用电子等离子火花播放音乐，而不是普通的扬声器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/cool-people-play-their-music-with-an-electric-plasma-spark-not-a-normal-speaker/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29>
 

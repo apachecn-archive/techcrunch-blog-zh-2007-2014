@@ -1,4 +1,4 @@
-# Office For iPad 评论:令人惊讶的值得等待 TechCrunch
+# Office For iPad 评论:令人惊讶的值得等待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/office-for-ipad-review-surprisingly-worth-the-wait/>
 

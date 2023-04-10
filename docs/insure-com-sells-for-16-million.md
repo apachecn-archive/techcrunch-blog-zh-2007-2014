@@ -1,4 +1,4 @@
-# Insure.com 售价 1600 万美元 TechCrunch
+# Insure.com 售价 1600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/09/insure-com-sells-for-16-million/>
 

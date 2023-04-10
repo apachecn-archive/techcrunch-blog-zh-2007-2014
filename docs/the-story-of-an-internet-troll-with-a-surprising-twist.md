@@ -1,4 +1,4 @@
-# 一个互联网巨魔的故事有着惊人的转折 TechCrunch
+# 一个互联网巨魔的故事有着惊人的转折 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/the-story-of-an-internet-troll-with-a-surprising-twist/>
 

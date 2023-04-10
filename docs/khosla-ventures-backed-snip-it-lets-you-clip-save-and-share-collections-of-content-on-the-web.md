@@ -1,4 +1,4 @@
-# Khosla Ventures 支持的 Snip .它可以让你在网上剪辑、保存和分享内容集合 TechCrunch
+# Khosla Ventures 支持的 Snip .它可以让你在网上剪辑、保存和分享内容集合 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/khosla-ventures-backed-snip-it-lets-you-clip-save-and-share-collections-of-content-on-the-web/>
 

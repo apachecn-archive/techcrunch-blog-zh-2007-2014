@@ -1,4 +1,4 @@
-# 使用这些世嘉游戏机 iPhone 保护套展示您对传统游戏的热爱 TechCrunch
+# 使用这些世嘉游戏机 iPhone 保护套展示您对传统游戏的热爱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/show-your-old-school-gaming-love-with-these-sega-console-iphone-cases/>
 

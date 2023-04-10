@@ -1,4 +1,4 @@
-# Flappy Bird 开发者称他将于明天关闭这款热门游戏 TechCrunch
+# Flappy Bird 开发者称他将于明天关闭这款热门游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/08/flappy-bird-going-down/>
 

@@ -1,4 +1,4 @@
-# Instagram 现在拥有 1200 万用户，仅在中国每周就有 10 万次下载 TechCrunch
+# Instagram 现在拥有 1200 万用户，仅在中国每周就有 10 万次下载 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/instagram-now-has-12-million-users-100k-weekly-downloads-in-china-alone/>
 

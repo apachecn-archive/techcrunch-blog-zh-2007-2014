@@ -1,4 +1,4 @@
-# Lyft 总裁表示，该公司将依靠其社区击败优步 TechCrunch
+# Lyft 总裁表示，该公司将依靠其社区击败优步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/lyft-vs-uber-community/>
 

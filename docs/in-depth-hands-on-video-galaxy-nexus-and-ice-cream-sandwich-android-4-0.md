@@ -1,4 +1,4 @@
-# 深入实践:Galaxy Nexus 和冰淇淋三明治(Android 4.0)TechCrunch
+# 深入实践:Galaxy Nexus 和冰淇淋三明治(Android 4.0)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/in-depth-hands-on-video-galaxy-nexus-and-ice-cream-sandwich-android-4-0/>
 

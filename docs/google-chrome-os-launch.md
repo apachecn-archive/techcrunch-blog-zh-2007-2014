@@ -1,4 +1,4 @@
-# 谷歌周四举行 Chrome OS 活动。将公布完整的概述和发布计划。TechCrunch
+# 谷歌周四举行 Chrome OS 活动。将公布完整的概述和发布计划。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/17/google-chrome-os-launch/>
 

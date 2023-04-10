@@ -1,4 +1,4 @@
-# Criteo 以 2900 万美元收购 Tedemis，证明法国存在一个新兴的退出市场 TechCrunch
+# Criteo 以 2900 万美元收购 Tedemis，证明法国存在一个新兴的退出市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/criteo-acquires-tedemis-for-29-million-proving-there-is-a-nascent-exit-market-in-france/>
 

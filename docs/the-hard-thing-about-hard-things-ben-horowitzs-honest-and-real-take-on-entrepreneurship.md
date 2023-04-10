@@ -1,4 +1,4 @@
-# 困难的事情:本·霍洛维茨对企业家精神的诚实和真实的看法 TechCrunch
+# 困难的事情:本·霍洛维茨对企业家精神的诚实和真实的看法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/03/the-hard-thing-about-hard-things-ben-horowitzs-honest-and-real-take-on-entrepreneurship/>
 

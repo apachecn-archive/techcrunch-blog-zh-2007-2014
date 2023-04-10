@@ -1,4 +1,4 @@
-# 收购 ExactTarget 后，Salesforce 收购了企业商业智能和分析初创公司 edge spring TechCrunch
+# 收购 ExactTarget 后，Salesforce 收购了企业商业智能和分析初创公司 edge spring 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/07/after-picking-up-exacttarget-salesforce-buys-enterprise-business-intelligence-and-analytics-startup-edgespring/>
 

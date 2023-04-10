@@ -1,4 +1,4 @@
-# YC 支持的 SoundFocus 推出了一款名为“20/20 听觉”的应用，神秘的硬件即将面世 TechCrunch
+# YC 支持的 SoundFocus 推出了一款名为“20/20 听觉”的应用，神秘的硬件即将面世 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/14/yc-backed-soundfocus-launches-with-an-app-for-2020-hearing-with-mysterious-hardware-on-the-way/>
 

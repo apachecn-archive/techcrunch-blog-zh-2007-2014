@@ -1,4 +1,4 @@
-# 果冻豆提示以 37.9%的份额在 Android 用户中超过大多数采用 TechCrunch
+# 果冻豆提示以 37.9%的份额在 Android 用户中超过大多数采用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/jelly-bean-tips-past-majority-adoption-among-android-users-with-37-9-share/>
 

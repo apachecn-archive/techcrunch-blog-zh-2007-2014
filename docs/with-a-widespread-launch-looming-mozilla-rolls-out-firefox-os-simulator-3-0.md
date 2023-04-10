@@ -1,4 +1,4 @@
-# 随着大范围发布的临近，Mozilla 推出了 Firefox OS Simulator 3.0 TechCrunch
+# 随着大范围发布的临近，Mozilla 推出了 Firefox OS Simulator 3.0 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/02/with-a-widespread-launch-looming-mozilla-rolls-out-firefox-os-simulator-3-0/>
 

@@ -1,4 +1,4 @@
-# 根据数据:iPhone 4 vs EVO 4G TechCrunch
+# 根据数据:iPhone 4 vs EVO 4G 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/07/by-the-numbers-the-iphone-4-vs-evo-4g/>
 

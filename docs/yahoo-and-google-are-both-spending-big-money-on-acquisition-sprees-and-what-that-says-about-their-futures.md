@@ -1,4 +1,4 @@
-# 雅虎和谷歌都在大举收购，这说明了它们的未来 TechCrunch
+# 雅虎和谷歌都在大举收购，这说明了它们的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/29/yahoo-and-google-are-both-spending-big-money-on-acquisition-sprees-and-what-that-says-about-their-futures/>
 

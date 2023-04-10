@@ -1,4 +1,4 @@
-# BioLite 炉灶在做饭时为手机充电 TechCrunch
+# BioLite 炉灶在做饭时为手机充电 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/biolite-stove-charges-your-phone/>
 

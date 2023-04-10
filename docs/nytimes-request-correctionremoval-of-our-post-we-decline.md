@@ -1,4 +1,4 @@
-# 纽约时报要求更正/删除我们的帖子。我们拒绝。TechCrunch
+# 纽约时报要求更正/删除我们的帖子。我们拒绝。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/01/nytimes-request-correctionremoval-of-our-post-we-decline/>
 

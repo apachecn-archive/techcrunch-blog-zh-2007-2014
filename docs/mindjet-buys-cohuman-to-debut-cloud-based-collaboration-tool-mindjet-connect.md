@@ -1,4 +1,4 @@
-# Mindjet 收购 Cohuman，推出基于云的协作工具 mind jet Connect TechCrunch
+# Mindjet 收购 Cohuman，推出基于云的协作工具 mind jet Connect 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/mindjet-buys-cohuman-to-debut-cloud-based-collaboration-tool-mindjet-connect/>
 

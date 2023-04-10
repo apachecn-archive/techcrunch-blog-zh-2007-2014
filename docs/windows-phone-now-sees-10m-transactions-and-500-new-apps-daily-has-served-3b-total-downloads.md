@@ -1,4 +1,4 @@
-# Windows Phone 现在每天有 1000 万笔交易和 500 个新应用程序，为 3B 总下载量提供服务 TechCrunch
+# Windows Phone 现在每天有 1000 万笔交易和 500 个新应用程序，为 3B 总下载量提供服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/20/windows-phone-now-sees-10m-transactions-and-500-new-apps-daily-has-served-3b-total-downloads/>
 

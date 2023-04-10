@@ -1,4 +1,4 @@
-# HaloIPT 为无线充电电动汽车提速 TechCrunch
+# HaloIPT 为无线充电电动汽车提速 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/01/haloipt-revs-up-for-wirelessly-charged-electric-cars/>
 

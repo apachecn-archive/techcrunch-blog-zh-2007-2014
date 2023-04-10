@@ -1,4 +1,4 @@
-# 电话号码是死的，他们只是还不知道而已 TechCrunch
+# 电话号码是死的，他们只是还不知道而已 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/28/phone-numbers-dead/>
 

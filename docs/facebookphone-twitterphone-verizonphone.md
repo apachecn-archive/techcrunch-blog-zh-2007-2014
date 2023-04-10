@@ -1,4 +1,4 @@
-# 另一个 Android 蓝图:FacebookPhone、TwitterPhone 和 VerizonPhone？TechCrunch
+# 另一个 Android 蓝图:FacebookPhone、TwitterPhone 和 VerizonPhone？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/facebookphone-twitterphone-verizonphone/>
 

@@ -1,4 +1,4 @@
-# Block 专辑 TechCrunch
+# Block 专辑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/15/the-block-album/>
 

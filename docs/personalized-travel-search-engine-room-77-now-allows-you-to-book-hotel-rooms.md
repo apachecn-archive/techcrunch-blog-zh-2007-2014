@@ -1,4 +1,4 @@
-# 个性化旅游搜索引擎 Room 77 现在允许您预订酒店房间 TechCrunch
+# 个性化旅游搜索引擎 Room 77 现在允许您预订酒店房间 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/personalized-travel-search-engine-room-77-now-allows-you-to-book-hotel-rooms/>
 

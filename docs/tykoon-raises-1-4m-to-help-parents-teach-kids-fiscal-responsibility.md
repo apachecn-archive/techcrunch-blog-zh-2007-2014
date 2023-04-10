@@ -1,4 +1,4 @@
-# Tykoon 筹集了 140 万美元帮助家长教育孩子财务责任 TechCrunch
+# Tykoon 筹集了 140 万美元帮助家长教育孩子财务责任 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/tykoon-raises-1-4m-to-help-parents-teach-kids-fiscal-responsibility/>
 

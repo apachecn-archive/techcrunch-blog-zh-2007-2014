@@ -1,4 +1,4 @@
-# 卡尔·伊坎与摩托罗拉谈论其庞大的专利组合 TechCrunch
+# 卡尔·伊坎与摩托罗拉谈论其庞大的专利组合 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/carl-icahn-in-talks-with-motorola-about-its-massive-patent-portfolio/>
 

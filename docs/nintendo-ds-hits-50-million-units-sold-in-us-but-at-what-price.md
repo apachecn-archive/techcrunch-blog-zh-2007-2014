@@ -1,4 +1,4 @@
-# 任天堂 DS 在美国销量达到 5000 万台，但价格是多少呢？TechCrunch
+# 任天堂 DS 在美国销量达到 5000 万台，但价格是多少呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/nintendo-ds-hits-50-million-units-sold-in-us-but-at-what-price/>
 

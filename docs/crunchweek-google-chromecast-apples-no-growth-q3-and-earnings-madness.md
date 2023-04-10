@@ -1,4 +1,4 @@
-# CrunchWeek:谷歌 Chromecast、苹果第三季度无增长以及收益疯狂 TechCrunch
+# CrunchWeek:谷歌 Chromecast、苹果第三季度无增长以及收益疯狂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/27/crunchweek-google-chromecast-apples-no-growth-q3-and-earnings-madness/>
 

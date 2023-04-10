@@ -1,4 +1,4 @@
-# Sprint 开始推出 4G 路由器 TechCrunch
+# Sprint 开始推出 4G 路由器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/05/sprint-begins-to-roll-out-two-4g-routers/>
 

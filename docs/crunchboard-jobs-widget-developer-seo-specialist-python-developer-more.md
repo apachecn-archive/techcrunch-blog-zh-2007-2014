@@ -1,4 +1,4 @@
-# CrunchBoard 工作:Widget 开发人员、SEO 专家、Python 开发人员等等...TechCrunch
+# CrunchBoard 工作:Widget 开发人员、SEO 专家、Python 开发人员等等...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/23/crunchboard-jobs-widget-developer-seo-specialist-python-developer-more/>
 

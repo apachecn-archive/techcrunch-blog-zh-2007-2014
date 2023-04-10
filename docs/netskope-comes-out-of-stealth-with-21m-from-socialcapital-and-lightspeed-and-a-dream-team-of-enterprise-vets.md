@@ -1,4 +1,4 @@
-# Netskope 带着来自 Social+Capital 和 Lightspeed 的 2100 万美元以及一个管理企业应用的云平台悄然而至 TechCrunch
+# Netskope 带着来自 Social+Capital 和 Lightspeed 的 2100 万美元以及一个管理企业应用的云平台悄然而至 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/03/netskope-comes-out-of-stealth-with-21m-from-socialcapital-and-lightspeed-and-a-dream-team-of-enterprise-vets/>
 

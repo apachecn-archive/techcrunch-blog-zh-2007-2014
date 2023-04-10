@@ -1,4 +1,4 @@
-# 在 BBC 的点播 iPlayer 上，平板电脑的使用量首次超过手机:3 月份创下 4100 万次平板电脑请求的记录，而手机只有 4000 万次 TechCrunch
+# 在 BBC 的点播 iPlayer 上，平板电脑的使用量首次超过手机:3 月份创下 4100 万次平板电脑请求的记录，而手机只有 4000 万次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/19/bbc-iplayer-tablet-usage-overtakes-mobile/>
 

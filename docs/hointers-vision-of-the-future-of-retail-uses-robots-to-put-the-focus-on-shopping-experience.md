@@ -1,4 +1,4 @@
-# 霍因特对零售业未来的愿景是利用机器人将重点放在购物体验上 TechCrunch
+# 霍因特对零售业未来的愿景是利用机器人将重点放在购物体验上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/06/hointers-vision-of-the-future-of-retail-uses-robots-to-put-the-focus-on-shopping-experience/>
 

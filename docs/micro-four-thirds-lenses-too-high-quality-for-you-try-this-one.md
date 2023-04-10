@@ -1,4 +1,4 @@
-# 微型三分之四镜头对你来说质量太高了？试试这个！TechCrunch
+# 微型三分之四镜头对你来说质量太高了？试试这个！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/micro-four-thirds-lenses-too-high-quality-for-you-try-this-one/>
 

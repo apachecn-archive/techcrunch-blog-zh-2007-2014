@@ -1,4 +1,4 @@
-# 为什么美国学校“落后”于其他国家无关紧要 TechCrunch
+# 为什么美国学校“落后”于其他国家无关紧要 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/16/why-its-never-mattered-that-americas-schools-lag-behind-other-countries/>
 

@@ -1,4 +1,4 @@
-# 高端家庭影院的绝佳照片集 TechCrunch
+# 高端家庭影院的绝佳照片集 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/a-great-photoset-of-high-end-home-theaters/>
 

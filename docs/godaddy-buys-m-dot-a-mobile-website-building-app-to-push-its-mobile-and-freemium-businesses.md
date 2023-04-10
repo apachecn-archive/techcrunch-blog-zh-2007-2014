@@ -1,4 +1,4 @@
-# GoDaddy 收购移动网站建设应用 M.dot，以推动其移动和免费增值业务 TechCrunch
+# GoDaddy 收购移动网站建设应用 M.dot，以推动其移动和免费增值业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/11/godaddy-buys-m-dot-a-mobile-website-building-app-to-push-its-mobile-and-freemium-businesses/>
 

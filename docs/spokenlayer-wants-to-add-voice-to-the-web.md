@@ -1,4 +1,4 @@
-# 发言人希望在网络上增加声音 TechCrunch
+# 发言人希望在网络上增加声音 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/21/spokenlayer-wants-to-add-voice-to-the-web/>
 

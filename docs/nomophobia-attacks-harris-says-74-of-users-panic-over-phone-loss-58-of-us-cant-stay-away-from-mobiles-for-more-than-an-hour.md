@@ -1,4 +1,4 @@
-# 诺莫恐惧症发作！Lookout 表示，74%的用户对手机丢失感到恐慌；58%的人无法离开手机超过一小时 TechCrunch
+# 诺莫恐惧症发作！Lookout 表示，74%的用户对手机丢失感到恐慌；58%的人无法离开手机超过一小时 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/06/21/nomophobia-attacks-harris-says-74-of-users-panic-over-phone-loss-58-of-us-cant-stay-away-from-mobiles-for-more-than-an-hour/>
 

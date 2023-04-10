@@ -1,4 +1,4 @@
-# 手机软件公司对小胡瓜不满意，起诉谷歌 TechCrunch
+# 手机软件公司对小胡瓜不满意，起诉谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/28/mobile-phone-software-company-not-pleased-with-courgette-sues-google/>
 

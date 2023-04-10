@@ -1,4 +1,4 @@
-# “我想认识一个伴侣！”TechCrunch
+# “我想认识一个伴侣！”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/09/%e2%80%9ci-want-to-meet-a-partner/>
 

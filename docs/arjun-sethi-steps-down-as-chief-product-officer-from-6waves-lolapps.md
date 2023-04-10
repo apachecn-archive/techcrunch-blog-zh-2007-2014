@@ -1,4 +1,4 @@
-# 6waves Lolapps 首席技术官 Rue 和首席产品官 Sethi 下台 TechCrunch
+# 6waves Lolapps 首席技术官 Rue 和首席产品官 Sethi 下台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/23/arjun-sethi-steps-down-as-chief-product-officer-from-6waves-lolapps/>
 

@@ -1,4 +1,4 @@
-# 今晚帮我采访杰克·多西 TechCrunch
+# 今晚帮我采访杰克·多西 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/30/help-interview-dorsey/>
 

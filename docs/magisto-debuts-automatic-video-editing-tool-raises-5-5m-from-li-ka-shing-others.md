@@ -1,4 +1,4 @@
-# Magisto 推出自动视频编辑工具，从李嘉诚和其他人那里筹集了 550 万美元 TechCrunch
+# Magisto 推出自动视频编辑工具，从李嘉诚和其他人那里筹集了 550 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/magisto-debuts-automatic-video-editing-tool-raises-5-5m-from-li-ka-shing-others/>
 

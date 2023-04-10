@@ -1,4 +1,4 @@
-# 吉尼斯世界纪录与 Kiip 合作，让任何拥有 iPhone 的人都有机会创造纪录 TechCrunch
+# 吉尼斯世界纪录与 Kiip 合作，让任何拥有 iPhone 的人都有机会创造纪录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/guinness-hooks-up-with-kiip-to-let-anyone-with-an-iphone-have-a-chance-at-a-world-record/>
 

@@ -1,4 +1,4 @@
-# 惊喜吧贾斯汀。电视构建自己的 CDN 以削减成本、提高性能 TechCrunch
+# 惊喜吧贾斯汀。电视构建自己的 CDN 以削减成本、提高性能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/16/surprise-justintv-is-actually-a-real-technology-company/>
 

@@ -1,4 +1,4 @@
-# 谷歌与 Hulu 调情，寻找视频之心的钥匙 TechCrunch
+# 谷歌与 Hulu 调情，寻找视频之心的钥匙 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/google-flirts-with-hulu-as-it-searches-for-the-key-to-videos-heart/>
 

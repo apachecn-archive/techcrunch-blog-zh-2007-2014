@@ -1,4 +1,4 @@
-# 为什么欧盟委员会要在一场毫无意义的黑客马拉松上花费€1 亿英镑？TechCrunch
+# 为什么欧盟委员会要在一场毫无意义的黑客马拉松上花费€1 亿英镑？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/why-is-the-european-commission-spending-e100m-on-a-pointless-hackathon/>
 

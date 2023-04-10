@@ -1,4 +1,4 @@
-# 现场直播脸书科技品鉴会 TechCrunch
+# 现场直播脸书科技品鉴会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/27/live-from-facebook-technology-tasting/>
 

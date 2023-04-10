@@ -1,4 +1,4 @@
-# 埃里克·施密特的名字游戏没有意义 TechCrunch
+# 埃里克·施密特的名字游戏没有意义 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/16/eric-schmidt-change-name/>
 

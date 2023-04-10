@@ -1,4 +1,4 @@
-# 免费启动工具:你的条款清单与标准相比如何？TechCrunch
+# 免费启动工具:你的条款清单与标准相比如何？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/free-startup-tools-how-does-your-term-sheet-compare-to-the-standards/>
 

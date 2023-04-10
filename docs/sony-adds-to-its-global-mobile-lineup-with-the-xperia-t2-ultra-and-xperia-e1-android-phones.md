@@ -1,4 +1,4 @@
-# 索尼凭借 Xperia T2 Ultra 和 Xperia E1 Android 手机加入其全球移动产品阵容 TechCrunch
+# 索尼凭借 Xperia T2 Ultra 和 Xperia E1 Android 手机加入其全球移动产品阵容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/sony-adds-to-its-global-mobile-lineup-with-the-xperia-t2-ultra-and-xperia-e1-android-phones/>
 

@@ -1,4 +1,4 @@
-# 脸书完美的 IPO 风暴会留下什么？TechCrunch
+# 脸书完美的 IPO 风暴会留下什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/29/what-will-facebooks-perfect-storm-of-an-ipo-leave-behind/>
 

@@ -1,4 +1,4 @@
-# Keepy 是一个应用程序，它想成为你孩子通心粉艺术的冰箱门 TechCrunch
+# Keepy 是一个应用程序，它想成为你孩子通心粉艺术的冰箱门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/04/keepy-is-an-app-that-wants-to-be-the-refrigerator-door-to-your-kids-macaroni-art/>
 

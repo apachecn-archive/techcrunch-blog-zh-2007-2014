@@ -1,4 +1,4 @@
-# Instagram 的凯文·斯特罗姆谈国际扩张、Instagram 视频、融资传闻等 TechCrunch
+# Instagram 的凯文·斯特罗姆谈国际扩张、Instagram 视频、融资传闻等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/06/instagrams-kevin-systrom-on-international-expansion-instagram-video-funding-rumors-and-more/>
 

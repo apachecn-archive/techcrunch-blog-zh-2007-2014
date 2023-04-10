@@ -1,4 +1,4 @@
-# 诺基亚:每天从 Ovi 商店下载 300 万个应用程序，1.65 亿 Ovi 用户 TechCrunch
+# 诺基亚:每天从 Ovi 商店下载 300 万个应用程序，1.65 亿 Ovi 用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/18/nokia-3-million-apps-downloaded-from-ovi-store-every-day-165-million-ovi-users/>
 

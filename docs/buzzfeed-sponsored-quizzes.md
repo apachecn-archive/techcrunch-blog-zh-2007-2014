@@ -1,4 +1,4 @@
-# 是的，BuzzFeed 也在做赞助测验 TechCrunch
+# 是的，BuzzFeed 也在做赞助测验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/23/buzzfeed-sponsored-quizzes/>
 

@@ -1,4 +1,4 @@
-# Disrupt 的创业通道——Impact Pavilion 展示健康、能源和交通 TechCrunch
+# Disrupt 的创业通道——Impact Pavilion 展示健康、能源和交通 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/16/startup-alley-at-disrupt-impact-pavilion-shows-off-health-energy-and-transport/>
 

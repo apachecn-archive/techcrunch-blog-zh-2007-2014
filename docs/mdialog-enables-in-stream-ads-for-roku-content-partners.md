@@ -1,4 +1,4 @@
-# mDialog 支持 Roku 内容合作伙伴的流内广告 TechCrunch
+# mDialog 支持 Roku 内容合作伙伴的流内广告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/mdialog-enables-in-stream-ads-for-roku-content-partners/>
 

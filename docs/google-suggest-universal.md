@@ -1,4 +1,4 @@
-# 谷歌建议变得更加普遍 TechCrunch
+# 谷歌建议变得更加普遍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/11/google-suggest-universal/>
 

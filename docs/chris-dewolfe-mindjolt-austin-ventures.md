@@ -1,4 +1,4 @@
-# 克里斯·德沃夫采取行动——大举融资，收购游戏平台 mind jolt TechCrunch
+# 克里斯·德沃夫采取行动——大举融资，收购游戏平台 mind jolt 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/03/chris-dewolfe-mindjolt-austin-ventures/>
 

@@ -1,4 +1,4 @@
-# Y Combinator 宣布召开女性创始人大会，提供创业指导 TechCrunch
+# Y Combinator 宣布召开女性创始人大会，提供创业指导 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/y-combinator-announces-female-founders-conference-to-offer-startup-guidance/>
 

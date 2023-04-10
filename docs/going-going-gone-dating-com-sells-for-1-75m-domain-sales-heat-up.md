@@ -1,4 +1,4 @@
-# 去了，去了:Dating.com 售价 175 万美元，域名销售升温 TechCrunch
+# 去了，去了:Dating.com 售价 175 万美元，域名销售升温 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/going-going-gone-dating-com-sells-for-1-75m-domain-sales-heat-up/>
 

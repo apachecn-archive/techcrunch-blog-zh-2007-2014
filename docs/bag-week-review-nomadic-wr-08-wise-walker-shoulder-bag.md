@@ -1,4 +1,4 @@
-# 包包周回顾:游牧 WR-08 Wise-Walker 单肩包 TechCrunch
+# 包包周回顾:游牧 WR-08 Wise-Walker 单肩包 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/bag-week-review-nomadic-wr-08-wise-walker-shoulder-bag/>
 

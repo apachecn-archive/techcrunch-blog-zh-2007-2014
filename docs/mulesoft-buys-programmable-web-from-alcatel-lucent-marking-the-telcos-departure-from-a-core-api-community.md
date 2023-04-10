@@ -1,4 +1,4 @@
-# MuleSoft 从阿尔卡特朗讯收购可编程网络，标志着该电信公司脱离核心 API 社区 TechCrunch
+# MuleSoft 从阿尔卡特朗讯收购可编程网络，标志着该电信公司脱离核心 API 社区 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/mulesoft-buys-programmable-web-from-alcatel-lucent-marking-the-telcos-departure-from-a-core-api-community/>
 

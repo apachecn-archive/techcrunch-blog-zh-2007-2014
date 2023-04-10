@@ -1,4 +1,4 @@
-# 谷歌将关闭最近收购的文件共享应用程序 Bump 和 Flock TechCrunch
+# 谷歌将关闭最近收购的文件共享应用程序 Bump 和 Flock 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/31/google-to-close-bump-and-flock-its-recently-acquired-file-sharing-apps/>
 

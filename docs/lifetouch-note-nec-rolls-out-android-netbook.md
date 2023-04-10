@@ -1,4 +1,4 @@
-# LifeTouch 注:NEC 推出 Android 上网本 TechCrunch
+# LifeTouch 注:NEC 推出 Android 上网本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/lifetouch-note-nec-rolls-out-android-netbook/>
 

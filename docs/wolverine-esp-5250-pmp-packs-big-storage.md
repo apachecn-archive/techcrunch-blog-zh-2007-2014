@@ -1,4 +1,4 @@
-# 金刚狼 ESP 5250 PMP 包大存储 TechCrunch
+# 金刚狼 ESP 5250 PMP 包大存储 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/wolverine-esp-5250-pmp-packs-big-storage/>
 

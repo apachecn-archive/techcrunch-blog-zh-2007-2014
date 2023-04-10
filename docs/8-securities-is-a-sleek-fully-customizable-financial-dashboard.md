@@ -1,4 +1,4 @@
-# 8 Securities 是一个时尚、完全可定制的财务仪表盘 TechCrunch
+# 8 Securities 是一个时尚、完全可定制的财务仪表盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/8-securities-is-a-sleek-fully-customizable-financial-dashboard/>
 

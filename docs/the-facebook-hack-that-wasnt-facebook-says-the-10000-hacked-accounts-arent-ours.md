@@ -1,4 +1,4 @@
-# 不是脸书黑客吗？脸书称 1 万个被黑账户不是我们的 TechCrunch
+# 不是脸书黑客吗？脸书称 1 万个被黑账户不是我们的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/the-facebook-hack-that-wasnt-facebook-says-the-10000-hacked-accounts-arent-ours/>
 

@@ -1,4 +1,4 @@
-# 加州一项将在线模仿定为犯罪的法案从今天开始生效 TechCrunch
+# 加州一项将在线模仿定为犯罪的法案从今天开始生效 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/01/california-bill-criminalizing-online-impersonations-in-effect-starting-today/>
 

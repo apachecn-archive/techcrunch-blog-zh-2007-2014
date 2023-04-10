@@ -1,4 +1,4 @@
-# 比特币基地为认证用户提供即时比特币转账 TechCrunch
+# 比特币基地为认证用户提供即时比特币转账 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/12/coinbase-offers-instant-bitcoin-transfers-for-verified-users/>
 

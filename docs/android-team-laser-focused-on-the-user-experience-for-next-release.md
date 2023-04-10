@@ -1,4 +1,4 @@
-# Android 团队“高度关注”下一版本的用户体验 TechCrunch
+# Android 团队“高度关注”下一版本的用户体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/android-team-laser-focused-on-the-user-experience-for-next-release/>
 

@@ -1,4 +1,4 @@
-# WordPress 3.2 放归野外；24 小时内下载超过 33 万次 TechCrunch
+# WordPress 3.2 放归野外；24 小时内下载超过 33 万次 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/wordpress-3-2-released-into-the-wild-downloaded-more-than-330k-times-in-24-hours/>
 

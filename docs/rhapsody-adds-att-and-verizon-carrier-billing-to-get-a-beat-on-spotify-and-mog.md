@@ -1,4 +1,4 @@
-# Rhapsody 增加了美国电话电报公司和威瑞森运营商计费功能，以击败 Spotify 和 MOG TechCrunch
+# Rhapsody 增加了美国电话电报公司和威瑞森运营商计费功能，以击败 Spotify 和 MOG 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/19/rhapsody-adds-att-and-verizon-carrier-billing-to-get-a-beat-on-spotify-and-mog/>
 

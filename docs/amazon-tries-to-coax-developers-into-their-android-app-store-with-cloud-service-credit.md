@@ -1,4 +1,4 @@
-# 亚马逊试图用云服务信用吸引开发者进入他们的安卓应用商店 TechCrunch
+# 亚马逊试图用云服务信用吸引开发者进入他们的安卓应用商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/amazon-tries-to-coax-developers-into-their-android-app-store-with-cloud-service-credit/>
 

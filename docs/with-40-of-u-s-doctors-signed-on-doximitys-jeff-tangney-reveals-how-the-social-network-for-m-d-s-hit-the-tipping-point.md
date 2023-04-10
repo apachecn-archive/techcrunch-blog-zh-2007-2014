@@ -1,4 +1,4 @@
-# 随着 40%的美国医生注册，Doximity 的 Jeff Tangney 揭示了医学博士的社交网络如何达到临界点 TechCrunch
+# 随着 40%的美国医生注册，Doximity 的 Jeff Tangney 揭示了医学博士的社交网络如何达到临界点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/15/with-40-of-u-s-doctors-signed-on-doximitys-jeff-tangney-reveals-how-the-social-network-for-m-d-s-hit-the-tipping-point/>
 

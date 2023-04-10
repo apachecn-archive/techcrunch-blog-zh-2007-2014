@@ -1,4 +1,4 @@
-# 现在就申请参加圣地亚哥聚会+推介 TechCrunch
+# 现在就申请参加圣地亚哥聚会+推介 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/apply-now-for-the-san-diego-meetup-pitch-off/>
 

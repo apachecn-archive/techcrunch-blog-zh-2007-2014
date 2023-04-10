@@ -1,4 +1,4 @@
-# TC50 DemoPit 初创公司 AskYourTargetMarket 简化了市场研究 TechCrunch
+# TC50 DemoPit 初创公司 AskYourTargetMarket 简化了市场研究 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/25/tc50-demopit-startup-askyourtargetmarket-simplifies-market-research/>
 

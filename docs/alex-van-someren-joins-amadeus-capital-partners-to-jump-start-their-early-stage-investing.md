@@ -1,4 +1,4 @@
-# 亚历克斯·范·萨默伦加入 Amadeus Capital Partners，启动早期投资 TechCrunch
+# 亚历克斯·范·萨默伦加入 Amadeus Capital Partners，启动早期投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/04/alex-van-someren-joins-amadeus-capital-partners-to-jump-start-their-early-stage-investing/>
 

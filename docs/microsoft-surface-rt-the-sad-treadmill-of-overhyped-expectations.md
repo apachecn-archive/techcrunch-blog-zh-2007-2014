@@ -1,4 +1,4 @@
-# 微软 Surface RT:过高期望的可悲跑步机 TechCrunch
+# 微软 Surface RT:过高期望的可悲跑步机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/01/microsoft-surface-rt-the-sad-treadmill-of-overhyped-expectations/>
 

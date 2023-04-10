@@ -1,4 +1,4 @@
-# DIY:制作自己的发光玻璃罐 TechCrunch
+# DIY:制作自己的发光玻璃罐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/17/diy-make-your-own-glowing-glass-jar/>
 

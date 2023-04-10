@@ -1,4 +1,4 @@
-# 学习编码，找工作:Treehouse 向 2500 名大学生提供免费课程 TechCrunch
+# 学习编码，找工作:Treehouse 向 2500 名大学生提供免费课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/14/learn-to-code-get-a-job-treehouse-offers-free-courses-to-2500-college-students/>
 

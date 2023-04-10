@@ -1,4 +1,4 @@
-# 如果笔胜过剑，相机胜过笔 TechCrunch
+# 如果笔胜过剑，相机胜过笔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/06/the-pen-is-not-mightier/>
 

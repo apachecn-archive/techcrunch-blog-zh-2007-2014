@@ -1,4 +1,4 @@
-# Trooval 希望帮助企业更好地预测哪些客户会成为大买家 TechCrunch
+# Trooval 希望帮助企业更好地预测哪些客户会成为大买家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/trooval-wants-to-help-businesses-better-predict-which-customers-will-be-the-big-spenders/>
 

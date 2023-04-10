@@ -1,4 +1,4 @@
-# HTC 推出 EVO 家族的首款全球手机:EVO Design 4G TechCrunch
+# HTC 推出 EVO 家族的首款全球手机:EVO Design 4G 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/htc-unveils-first-world-phone-in-the-evo-family-the-evo-design-4g/>
 

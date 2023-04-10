@@ -1,4 +1,4 @@
-# Wordpress 安全问题导致大规模黑客攻击。你的博客是下一个吗？TechCrunch
+# Wordpress 安全问题导致大规模黑客攻击。你的博客是下一个吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/11/my-blog-was-hacked-is-yours-next-huge-wordpress-security-issues/>
 

@@ -1,4 +1,4 @@
-# 三星推出三款新相机 TechCrunch
+# 三星推出三款新相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/samsung-introduces-a-trio-of-new-cameras/>
 

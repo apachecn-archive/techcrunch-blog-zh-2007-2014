@@ -1,4 +1,4 @@
-# 英国首相大卫·卡梅伦加入 Foursquare 和 LinkedIn TechCrunch
+# 英国首相大卫·卡梅伦加入 Foursquare 和 LinkedIn 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/u-k-pm-david-cameron-joins-foursquare-and-linkedin/>
 

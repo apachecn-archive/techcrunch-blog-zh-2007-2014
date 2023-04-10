@@ -1,4 +1,4 @@
-# Transit 应用程序在 72 小时内获得了 35000 次下载，在免费后击败了加拿大应用商店中的谷歌地图 TechCrunch
+# Transit 应用程序在 72 小时内获得了 35000 次下载，在免费后击败了加拿大应用商店中的谷歌地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/31/the-transit-app-nabs-35k-downloads-in-72-hours-blows-past-google-maps-in-canadian-app-store-after-going-free/>
 

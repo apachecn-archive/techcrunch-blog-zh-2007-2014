@@ -1,4 +1,4 @@
-# 罗技斥资 3000 万美元收购 sight speed TechCrunch
+# 罗技斥资 3000 万美元收购 sight speed 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/29/logitech-coughs-up-30-million-to-acquire-sightspeed/>
 

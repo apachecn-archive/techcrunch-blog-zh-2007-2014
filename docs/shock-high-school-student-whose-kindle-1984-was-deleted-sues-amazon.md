@@ -1,4 +1,4 @@
-# 震惊:高中生 Kindle 1984 被删除起诉亚马逊 TechCrunch
+# 震惊:高中生 Kindle 1984 被删除起诉亚马逊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/shock-high-school-student-whose-kindle-1984-was-deleted-sues-amazon/>
 

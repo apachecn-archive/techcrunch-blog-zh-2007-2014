@@ -1,4 +1,4 @@
-# Airbnb 提供无条件道歉，以及 5 万美元的保险担保 TechCrunch
+# Airbnb 提供无条件道歉，以及 5 万美元的保险担保 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/airbnb-offers-unconditional-apology-and-50000-insurance-guarantee/>
 

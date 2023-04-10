@@ -1,4 +1,4 @@
-# 前 TechCruncher 推出语义问答服务 Beepl TechCrunch
+# 前 TechCruncher 推出语义问答服务 Beepl 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/16/ex-techcruncher-launches-semantic-qa-service-beepl-2/>
 

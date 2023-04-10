@@ -1,4 +1,4 @@
-# 移动用户渴望提供他们的位置以换取更好的内容和交易 TechCrunch
+# 移动用户渴望提供他们的位置以换取更好的内容和交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/mobile-users-eager-to-offer-their-location-in-exchange-for-better-content-deals/?utm_source=Street+Fight+List&utm_campaign=c8d6adc270-Street_Fight_Daily8_18_2011&utm_medium=email>
 

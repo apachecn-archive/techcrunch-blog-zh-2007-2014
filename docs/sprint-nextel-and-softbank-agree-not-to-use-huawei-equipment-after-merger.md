@@ -1,4 +1,4 @@
-# Sprint Nextel 和软银同意合并后不使用华为设备 TechCrunch
+# Sprint Nextel 和软银同意合并后不使用华为设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/28/sprint-nextel-and-softbank-agree-not-to-use-huawei-equipment-after-merger/>
 

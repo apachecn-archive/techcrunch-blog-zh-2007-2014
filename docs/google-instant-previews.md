@@ -1,4 +1,4 @@
-# 谷歌即时预览:做好准备，对谷歌搜索的满意度可能会提高 5% TechCrunch
+# 谷歌即时预览:做好准备，对谷歌搜索的满意度可能会提高 5% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/google-instant-previews/>
 

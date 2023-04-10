@@ -1,4 +1,4 @@
-# Miggo 相机带也能保护您的设备，因此您不需要笨重的相机包 TechCrunch
+# Miggo 相机带也能保护您的设备，因此您不需要笨重的相机包 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/31/miggo-camera-strap-protects-your-gear-too-so-you-dont-need-a-bulky-camera-bag/>
 

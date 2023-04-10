@@ -1,4 +1,4 @@
-# 现在 SoundCloud 上有 100 万人——这家初创公司正在全球扩张 TechCrunch
+# 现在 SoundCloud 上有 100 万人——这家初创公司正在全球扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/18/now-a-million-on-soundcloud-this-startup-is-scaling-globally/>
 

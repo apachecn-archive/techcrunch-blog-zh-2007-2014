@@ -1,4 +1,4 @@
-# Google Wave 比...TechCrunch
+# Google Wave 比...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/09/google-wave-is-easier-to-understand-than/>
 

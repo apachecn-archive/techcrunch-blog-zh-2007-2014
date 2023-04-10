@@ -1,4 +1,4 @@
-# Groupon 完成 9.5 亿美元融资，价值 47.5 亿美元 TechCrunch
+# Groupon 完成 9.5 亿美元融资，价值 47.5 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/28/groupon-closing-950-million-round-valued-at-4-75-billion/>
 

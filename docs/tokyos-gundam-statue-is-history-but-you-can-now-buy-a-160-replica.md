@@ -1,4 +1,4 @@
-# 东京高达雕像已成为历史，但你现在可以买到 1/60 的复制品 TechCrunch
+# 东京高达雕像已成为历史，但你现在可以买到 1/60 的复制品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/11/tokyos-gundam-statue-is-history-but-you-can-now-buy-a-160-replica/>
 

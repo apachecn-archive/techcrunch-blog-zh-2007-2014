@@ -1,4 +1,4 @@
-# 今天没有 Hi5。第三大社交网络裁员 10%至 15% TechCrunch
+# 今天没有 Hi5。第三大社交网络裁员 10%至 15% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/no-hi5s-today-no-3-social-network-lays-off-10-to-15-percent-of-staff/>
 

@@ -1,4 +1,4 @@
-# Sol Computer 发布配有像素 Qi 屏幕的上网本和平板电脑，价格高得离谱 TechCrunch
+# Sol Computer 发布配有像素 Qi 屏幕的上网本和平板电脑，价格高得离谱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/who-is-going-to-buy-these/>
 

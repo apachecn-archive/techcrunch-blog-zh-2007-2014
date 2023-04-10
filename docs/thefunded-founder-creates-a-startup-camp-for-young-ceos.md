@@ -1,4 +1,4 @@
-# 这位基金创始人为年轻的首席执行官创建了一个创业营 TechCrunch
+# 这位基金创始人为年轻的首席执行官创建了一个创业营 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/03/thefunded-founder-creates-a-startup-camp-for-young-ceos/>
 

@@ -1,4 +1,4 @@
-# 点评:Colasoft Capsa 网络分析仪 TechCrunch
+# 点评:Colasoft Capsa 网络分析仪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/03/review-colasoft-capsa-network-analyzer/>
 

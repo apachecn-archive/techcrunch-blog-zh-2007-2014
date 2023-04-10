@@ -1,4 +1,4 @@
-# 斯坦福大学将投资学生创业公司，比如风险投资公司 TechCrunch
+# 斯坦福大学将投资学生创业公司，比如风险投资公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/04/stanford-university-is-going-to-invest-in-student-startups-like-a-vc-firm/>
 

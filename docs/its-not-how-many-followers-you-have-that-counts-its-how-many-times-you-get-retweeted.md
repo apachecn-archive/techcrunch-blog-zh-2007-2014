@@ -1,4 +1,4 @@
-# 重要的不是你有多少粉丝，而是你被转发了多少次 TechCrunch
+# 重要的不是你有多少粉丝，而是你被转发了多少次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/29/its-not-how-many-followers-you-have-that-counts-its-how-many-times-you-get-retweeted/>
 

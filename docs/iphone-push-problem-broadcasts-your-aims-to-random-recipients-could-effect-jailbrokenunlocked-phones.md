@@ -1,4 +1,4 @@
-# iPhone 推送问题会将您的目标广播给随机接收者，可能会影响越狱/解锁手机 TechCrunch
+# iPhone 推送问题会将您的目标广播给随机接收者，可能会影响越狱/解锁手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/iphone-push-problem-broadcasts-your-aims-to-random-recipients-could-effect-jailbrokenunlocked-phones/>
 

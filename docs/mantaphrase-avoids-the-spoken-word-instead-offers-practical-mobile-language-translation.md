@@ -1,4 +1,4 @@
-# Mantaphrase 避免使用口语，而是提供实用的移动语言翻译 TechCrunch
+# Mantaphrase 避免使用口语，而是提供实用的移动语言翻译 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/10/17/mantaphrase-avoids-the-spoken-word-instead-offers-practical-mobile-language-translation/>
 

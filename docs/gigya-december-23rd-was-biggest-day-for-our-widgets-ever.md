@@ -1,4 +1,4 @@
-# gigya:12 月 23 日是我们 Widgets 有史以来最大的一天 TechCrunch
+# gigya:12 月 23 日是我们 Widgets 有史以来最大的一天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/07/gigya-december-23rd-was-biggest-day-for-our-widgets-ever/>
 

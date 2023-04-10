@@ -1,4 +1,4 @@
-# 一代触摸将重塑消费技术 TechCrunch
+# 一代触摸将重塑消费技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/29/generation-touch-will-redraw-consumer-tech/>
 

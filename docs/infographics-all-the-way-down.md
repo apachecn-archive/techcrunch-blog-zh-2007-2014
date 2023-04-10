@@ -1,4 +1,4 @@
-# 这个关于垃圾信息图的垃圾信息图让我头疼 TechCrunch
+# 这个关于垃圾信息图的垃圾信息图让我头疼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/02/infographics-all-the-way-down/>
 

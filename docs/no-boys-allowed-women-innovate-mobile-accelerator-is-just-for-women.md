@@ -1,4 +1,4 @@
-# 男生不得入内:女性创新手机加速器只为女性服务 TechCrunch
+# 男生不得入内:女性创新手机加速器只为女性服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/21/no-boys-allowed-women-innovate-mobile-accelerator-is-just-for-women/>
 

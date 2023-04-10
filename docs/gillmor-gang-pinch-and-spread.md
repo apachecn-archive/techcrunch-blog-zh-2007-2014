@@ -1,4 +1,4 @@
-# 吉尔摩帮:捏和传播 TechCrunch
+# 吉尔摩帮:捏和传播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/02/gillmor-gang-pinch-and-spread/>
 

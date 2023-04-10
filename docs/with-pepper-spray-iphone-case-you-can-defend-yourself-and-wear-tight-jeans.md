@@ -1,4 +1,4 @@
-# 有了胡椒喷雾 iPhone 保护套，你可以保护自己，穿紧身牛仔裤 TechCrunch
+# 有了胡椒喷雾 iPhone 保护套，你可以保护自己，穿紧身牛仔裤 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/09/with-pepper-spray-iphone-case-you-can-defend-yourself-and-wear-tight-jeans/>
 

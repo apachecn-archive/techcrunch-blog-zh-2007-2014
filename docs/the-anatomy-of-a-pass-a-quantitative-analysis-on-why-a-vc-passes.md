@@ -1,4 +1,4 @@
-# 传球剖析，定量分析风投为何传球 TechCrunch
+# 传球剖析，定量分析风投为何传球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/24/the-anatomy-of-a-pass-a-quantitative-analysis-on-why-a-vc-passes/>
 

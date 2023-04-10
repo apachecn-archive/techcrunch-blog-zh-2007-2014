@@ -1,4 +1,4 @@
-# iPad 首次出现年度销量下滑，第三季度销量为 1460 万部，iPhone 保持强劲，销量为 3000 万部，同比增长 20% TechCrunch
+# iPad 首次出现年度销量下滑，第三季度销量为 1460 万部，iPhone 保持强劲，销量为 3000 万部，同比增长 20% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/aapl-13q3-iphone-ipad-mac-ipod/>
 

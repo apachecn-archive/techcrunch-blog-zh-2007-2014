@@ -1,4 +1,4 @@
-# 硅谷房地产市场只会变得更加疯狂 TechCrunch
+# 硅谷房地产市场只会变得更加疯狂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/26/the-silicon-valley-housing-market-is-only-going-to-get-crazier/>
 

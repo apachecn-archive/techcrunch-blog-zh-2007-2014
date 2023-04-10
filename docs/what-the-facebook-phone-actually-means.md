@@ -1,4 +1,4 @@
-# 脸书手机的真正含义 TechCrunch
+# 脸书手机的真正含义 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/what-the-facebook-phone-actually-means/>
 

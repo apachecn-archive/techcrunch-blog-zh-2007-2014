@@ -1,4 +1,4 @@
-# Aol 对记者说:你是摇滚明星，我们是马克·查普曼 TechCrunch
+# Aol 对记者说:你是摇滚明星，我们是马克·查普曼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/10/we-fixed-the-glitch/>
 

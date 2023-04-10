@@ -1,4 +1,4 @@
-# 加州大学批准重大开放获取政策，使研究免费 TechCrunch
+# 加州大学批准重大开放获取政策，使研究免费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/02/university-of-california-approves-major-open-access-policy-to-make-research-free/>
 

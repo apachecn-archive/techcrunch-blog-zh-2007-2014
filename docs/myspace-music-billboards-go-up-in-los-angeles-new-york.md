@@ -1,4 +1,4 @@
-# MySpace 音乐广告牌在纽约洛杉矶竖起 TechCrunch
+# MySpace 音乐广告牌在纽约洛杉矶竖起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/16/myspace-music-billboards-go-up-in-los-angeles-new-york/>
 

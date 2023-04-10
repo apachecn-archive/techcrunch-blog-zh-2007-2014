@@ -1,4 +1,4 @@
-# CenturyLink 收购 Tier 3，即基础设施、平台和高级云管理提供商 TechCrunch
+# CenturyLink 收购 Tier 3，即基础设施、平台和高级云管理提供商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/centurylink-buys-tier3-the-infrasructure-platform-and-advanced-cloud-management-provider/>
 

@@ -1,4 +1,4 @@
-# RIM 的黑莓管理中心是免费的 BES-Lite TechCrunch
+# RIM 的黑莓管理中心是免费的 BES-Lite 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/rims-blackberry-management-center-is-free-bes-lite/>
 

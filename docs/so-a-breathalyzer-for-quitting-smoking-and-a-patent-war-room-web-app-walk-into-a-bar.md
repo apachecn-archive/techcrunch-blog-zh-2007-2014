@@ -1,4 +1,4 @@
-# 所以一个戒烟酒精测试仪和一个专利作战室网络应用走进酒吧...TechCrunch
+# 所以一个戒烟酒精测试仪和一个专利作战室网络应用走进酒吧...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/23/so-a-breathalyzer-for-quitting-smoking-and-a-patent-war-room-web-app-walk-into-a-bar/>
 

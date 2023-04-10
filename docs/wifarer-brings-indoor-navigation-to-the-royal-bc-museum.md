@@ -1,4 +1,4 @@
-# Wifarer 将室内导航引入皇家卑诗博物馆 TechCrunch
+# Wifarer 将室内导航引入皇家卑诗博物馆 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/01/wifarer-brings-indoor-navigation-to-the-royal-bc-museum/>
 

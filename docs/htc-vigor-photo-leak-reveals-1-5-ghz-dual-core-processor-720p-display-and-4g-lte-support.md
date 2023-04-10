@@ -1,4 +1,4 @@
-# HTC Vigor 照片泄露显示 1.5 GHz 双核处理器、720p 显示屏和 4G LTE 支持 TechCrunch
+# HTC Vigor 照片泄露显示 1.5 GHz 双核处理器、720p 显示屏和 4G LTE 支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/htc-vigor-photo-leak-reveals-1-5-ghz-dual-core-processor-720p-display-and-4g-lte-support/>
 

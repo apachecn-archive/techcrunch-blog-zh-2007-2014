@@ -1,4 +1,4 @@
-# 脸书的 Brad Smallwood 提供了更多关于广告效果的数据，称 Datalogix 合作伙伴关系不存在隐私风险 TechCrunch
+# 脸书的 Brad Smallwood 提供了更多关于广告效果的数据，称 Datalogix 合作伙伴关系不存在隐私风险 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/01/facebook-brad-smallwood-datalogix/>
 

@@ -1,4 +1,4 @@
-# 苹果公司正在研究一种具有光线和动作感应功能的智能手写笔 TechCrunch
+# 苹果公司正在研究一种具有光线和动作感应功能的智能手写笔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/apple-looking-into-a-smart-stylus-with-light-and-motion-sensing-powers/>
 

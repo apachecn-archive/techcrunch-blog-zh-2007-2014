@@ -1,4 +1,4 @@
-# 一个有任务的脸书游戏:废物管理启动 Oceanopolis TechCrunch
+# 一个有任务的脸书游戏:废物管理启动 Oceanopolis 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/20/waste-management-to-launch-oceanopolis-facebook-game/>
 

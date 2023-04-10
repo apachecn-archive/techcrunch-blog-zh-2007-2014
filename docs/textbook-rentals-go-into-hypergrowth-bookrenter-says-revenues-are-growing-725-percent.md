@@ -1,4 +1,4 @@
-# 教科书租赁进入超高速增长:Bookrenter 称收入增长 725% TechCrunch
+# 教科书租赁进入超高速增长:Bookrenter 称收入增长 725% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/textbook-rentals-go-into-hypergrowth-bookrenter-says-revenues-are-growing-725-percent/>
 

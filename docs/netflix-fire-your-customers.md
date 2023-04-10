@@ -1,4 +1,4 @@
-# 网飞·雷杜克斯:解雇你的顾客可以吗？TechCrunch
+# 网飞·雷杜克斯:解雇你的顾客可以吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/10/netflix-fire-your-customers/>
 

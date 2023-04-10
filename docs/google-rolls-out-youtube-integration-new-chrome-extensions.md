@@ -1,4 +1,4 @@
-# Google+推出 YouTube 整合、新 Chrome 扩展 TechCrunch
+# Google+推出 YouTube 整合、新 Chrome 扩展 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/google-rolls-out-youtube-integration-new-chrome-extensions/>
 

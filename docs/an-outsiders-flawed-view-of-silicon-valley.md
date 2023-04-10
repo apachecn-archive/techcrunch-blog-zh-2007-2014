@@ -1,4 +1,4 @@
-# 局外人眼中的硅谷 TechCrunch
+# 局外人眼中的硅谷 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/15/an-outsiders-flawed-view-of-silicon-valley/>
 

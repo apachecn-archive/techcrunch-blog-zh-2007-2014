@@ -1,4 +1,4 @@
-# Skype 将视频 API 引入 SkypeKit For Desktop 正式发布应用目录 TechCrunch
+# Skype 将视频 API 引入 SkypeKit For Desktop 正式发布应用目录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/skype-brings-video-apis-to-skypekit-for-desktop-officially-launches-app-directory/>
 

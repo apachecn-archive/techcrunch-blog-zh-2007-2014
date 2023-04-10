@@ -1,4 +1,4 @@
-# 你的音乐不再在云端- blueTunes 倒下，死去 TechCrunch
+# 你的音乐不再在云端- blueTunes 倒下，死去 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/10/bluetunes-deadpool/>
 

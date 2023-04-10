@@ -1,4 +1,4 @@
-# Kno 为脸书带来 100，000 本教科书，将 QuizMe 和 Journal 添加到 iPad TechCrunch
+# Kno 为脸书带来 100，000 本教科书，将 QuizMe 和 Journal 添加到 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/kno-facebook-quizme-journal/>
 

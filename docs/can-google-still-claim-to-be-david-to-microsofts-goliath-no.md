@@ -1,4 +1,4 @@
-# 谷歌还能自称是微软歌利亚的大卫吗？没有。TechCrunch
+# 谷歌还能自称是微软歌利亚的大卫吗？没有。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/03/can-google-still-claim-to-be-david-to-microsofts-goliath-no/>
 

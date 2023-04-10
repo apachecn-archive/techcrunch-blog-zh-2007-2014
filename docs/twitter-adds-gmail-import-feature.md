@@ -1,4 +1,4 @@
-# Twitter 增加 Gmail 导入功能——TechCrunch
+# Twitter 增加 Gmail 导入功能——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/26/twitter-adds-gmail-import-feature>
 

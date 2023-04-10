@@ -1,4 +1,4 @@
-# 裁员之后，OneRiot 放弃了实时搜索门户，专注于广告网络 TechCrunch
+# 裁员之后，OneRiot 放弃了实时搜索门户，专注于广告网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/following-layoffs-oneriot-ditches-realtime-search-portal-to-focus-on-ad-network/>
 

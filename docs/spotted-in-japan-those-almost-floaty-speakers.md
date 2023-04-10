@@ -1,4 +1,4 @@
-# 日本现场:那些几乎漂浮的扬声器 TechCrunch
+# 日本现场:那些几乎漂浮的扬声器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/spotted-in-japan-those-almost-floaty-speakers/>
 

@@ -1,4 +1,4 @@
-# 无罪之前有罪:MegaUpload 的关闭让用户无法访问他们的文件 TechCrunch
+# 无罪之前有罪:MegaUpload 的关闭让用户无法访问他们的文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/guilty-until-proven-innocent-the-megaupload-closure-leaves-users-unable-to-access-their-files/>
 

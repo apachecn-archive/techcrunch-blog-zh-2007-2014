@@ -1,4 +1,4 @@
-# 对 PRISM 的双重否认掩盖了参与的真相 TechCrunch
+# 对 PRISM 的双重否认掩盖了参与的真相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/07/doublespeak-denials-and-broken-hearts/>
 

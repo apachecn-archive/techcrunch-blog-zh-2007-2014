@@ -1,4 +1,4 @@
-# 使用 Kindle Fire 的女性多于男性，iPad 的满意度最高:ComScore TechCrunch
+# 使用 Kindle Fire 的女性多于男性，iPad 的满意度最高:ComScore 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/06/more-women-than-men-use-the-kindle-fire-and-ipad-is-getting-highest-satisfaction-score-comscore/>
 

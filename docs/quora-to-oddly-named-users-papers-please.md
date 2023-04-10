@@ -1,4 +1,4 @@
-# 给名字奇怪的用户的 Quora:请给我报纸 TechCrunch
+# 给名字奇怪的用户的 Quora:请给我报纸 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/quora-to-oddly-named-users-papers-please/>
 

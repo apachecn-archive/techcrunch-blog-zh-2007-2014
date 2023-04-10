@@ -1,4 +1,4 @@
-# 支持 Windows Vista 的贴纸可能是微软的摇钱树 TechCrunch
+# 支持 Windows Vista 的贴纸可能是微软的摇钱树 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/04/windows-vista-capable-stickers-might-have-been-a-microsoft-cash-cow/>
 

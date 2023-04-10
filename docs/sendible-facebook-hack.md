@@ -1,4 +1,4 @@
-# Sendible 缺陷揭示了一个大的脸书错误；大量页面被垃圾邮件破坏 TechCrunch
+# Sendible 缺陷揭示了一个大的脸书错误；大量页面被垃圾邮件破坏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/sendible-facebook-hack/>
 

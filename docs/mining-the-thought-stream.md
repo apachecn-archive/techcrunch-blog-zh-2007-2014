@@ -1,4 +1,4 @@
-# 挖掘思想流 TechCrunch
+# 挖掘思想流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/15/mining-the-thought-stream/>
 

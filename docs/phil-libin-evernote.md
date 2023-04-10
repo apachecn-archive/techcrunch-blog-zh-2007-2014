@@ -1,4 +1,4 @@
-# Phil Libin 谈 Evernote 的紧急情况:2008 年金融危机期间只剩下 3 周的现金 TechCrunch
+# Phil Libin 谈 Evernote 的紧急情况:2008 年金融危机期间只剩下 3 周的现金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/19/phil-libin-evernote/>
 

@@ -1,4 +1,4 @@
-# Twitter 也考虑将 PayPal 作为其广场市场的竞争对手 TechCrunch
+# Twitter 也考虑将 PayPal 作为其广场市场的竞争对手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/twitter-commerce/>
 

@@ -1,4 +1,4 @@
-# 微软最终将在 11 月发布 Windows 7 的 IE10 预览版 TechCrunch
+# 微软最终将在 11 月发布 Windows 7 的 IE10 预览版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/17/microsoft-will-finally-release-a-preview-of-ie10-for-windows-7-in-november/>
 

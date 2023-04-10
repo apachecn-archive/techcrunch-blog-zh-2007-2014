@@ -1,4 +1,4 @@
-# 脸书向用户发送电子邮件，告诉他们将减少发送给他们的电子邮件 TechCrunch
+# 脸书向用户发送电子邮件，告诉他们将减少发送给他们的电子邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/facebook-sends-users-an-email-to-tell-them-its-going-to-send-them-less-email/>
 

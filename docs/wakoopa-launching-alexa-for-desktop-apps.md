@@ -1,4 +1,4 @@
-# Wakoopa 推出桌面应用“Alexa”TechCrunch
+# Wakoopa 推出桌面应用“Alexa”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/11/wakoopa-launching-alexa-for-desktop-apps/>
 

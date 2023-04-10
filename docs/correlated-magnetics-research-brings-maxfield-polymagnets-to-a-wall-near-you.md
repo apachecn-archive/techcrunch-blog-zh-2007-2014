@@ -1,4 +1,4 @@
-# 相关磁学研究将最大磁场聚磁体带到您身边 TechCrunch
+# 相关磁学研究将最大磁场聚磁体带到您身边 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/correlated-magnetics-research-brings-maxfield-polymagnets-to-a-wall-near-you/>
 

@@ -1,4 +1,4 @@
-# Groupon 对小企业不利吗？TechCrunch
+# Groupon 对小企业不利吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/02/groupon-small-businesses/>
 

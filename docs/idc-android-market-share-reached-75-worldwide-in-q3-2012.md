@@ -1,4 +1,4 @@
-# IDC:2012 年第三季度，Android 全球市场份额达到 75% TechCrunch
+# IDC:2012 年第三季度，Android 全球市场份额达到 75% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/02/idc-android-market-share-reached-75-worldwide-in-q3-2012/>
 

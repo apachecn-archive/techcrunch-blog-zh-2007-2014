@@ -1,4 +1,4 @@
-# 我不敢相信我会这么说，但 T-Mobile 太棒了 TechCrunch
+# 我不敢相信我会这么说，但 T-Mobile 太棒了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/28/i-cant-believe-im-saying-this-but-t-mobile-is-awesome/>
 

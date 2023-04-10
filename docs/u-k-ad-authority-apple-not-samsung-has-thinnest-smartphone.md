@@ -1,4 +1,4 @@
-# 英国广告权威:苹果，而非三星，拥有最薄的智能手机 TechCrunch
+# 英国广告权威:苹果，而非三星，拥有最薄的智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/u-k-ad-authority-apple-not-samsung-has-thinnest-smartphone/>
 

@@ -1,4 +1,4 @@
-# 当心:Pinterest 营销平台 Curalate 从 NEA 获得了 75 万美元的种子资金，第一轮，mentor tech TechCrunch
+# 当心:Pinterest 营销平台 Curalate 从 NEA 获得了 75 万美元的种子资金，第一轮，mentor tech 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/look-out-pinterest-marketing-platform-curalate-lands-750k-seed-from-nea-first-round-mentortech/>
 

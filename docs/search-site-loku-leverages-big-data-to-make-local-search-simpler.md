@@ -1,4 +1,4 @@
-# 搜索网站 Loku 利用大数据简化本地搜索 TechCrunch
+# 搜索网站 Loku 利用大数据简化本地搜索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/search-site-loku-leverages-big-data-to-make-local-search-simpler/>
 

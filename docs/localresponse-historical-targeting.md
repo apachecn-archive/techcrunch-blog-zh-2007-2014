@@ -1,4 +1,4 @@
-# LocalResponse 现在可以根据历史推文定位广告，并查看 TechCrunch
+# LocalResponse 现在可以根据历史推文定位广告，并查看 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/10/localresponse-historical-targeting/>
 

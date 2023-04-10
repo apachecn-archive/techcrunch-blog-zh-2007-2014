@@ -1,4 +1,4 @@
-# 点评:Gateway NV5214u 15.6 英寸笔记本电脑 TechCrunch
+# 点评:Gateway NV5214u 15.6 英寸笔记本电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/review-gateway-nv5214u-156-inch-notebook/>
 

@@ -1,4 +1,4 @@
-# Google AdWords 广告商现在可以为搜索广告中的电话竞价了 TechCrunch
+# Google AdWords 广告商现在可以为搜索广告中的电话竞价了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/google-adwords-advertisers-can-now-bid-for-phone-calls-in-search-ads/>
 

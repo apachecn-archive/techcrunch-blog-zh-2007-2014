@@ -1,4 +1,4 @@
-# TouchPal 动态优化您的联系人列表 TechCrunch
+# TouchPal 动态优化您的联系人列表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/touchpal-smartens-up-your-contact-list-on-the-fly/>
 

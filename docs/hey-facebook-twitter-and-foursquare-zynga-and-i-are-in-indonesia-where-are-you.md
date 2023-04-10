@@ -1,4 +1,4 @@
-# 嘿，脸书，推特和 Foursquare: Zynga 和我在印度尼西亚。你在哪里？TechCrunch
+# 嘿，脸书，推特和 Foursquare: Zynga 和我在印度尼西亚。你在哪里？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/06/hey-facebook-twitter-and-foursquare-zynga-and-i-are-in-indonesia-where-are-you/>
 

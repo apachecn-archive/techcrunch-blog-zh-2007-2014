@@ -1,4 +1,4 @@
-# SlideShare 为嵌入式演示赢得 300 万美元 TechCrunch
+# SlideShare 为嵌入式演示赢得 300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/07/slideshare-secures-3m-for-embeddable-presentations/>
 

@@ -1,4 +1,4 @@
-# Nook 三月份销量超过 Kindle TechCrunch
+# Nook 三月份销量超过 Kindle 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/nook-passes-kindle-sales-in-march/>
 

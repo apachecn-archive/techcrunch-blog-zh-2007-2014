@@ -1,4 +1,4 @@
-# 原子弹爆炸后广岛令人惊叹的全景照片 TechCrunch
+# 原子弹爆炸后广岛令人惊叹的全景照片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/amazing-panoramic-photos-of-hiroshima-after-the-atomic-bomb-blast/>
 

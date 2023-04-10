@@ -1,4 +1,4 @@
-# 谷歌的+1 按钮得到了它的奖赏:现在你可以分享到谷歌+圈子 TechCrunch
+# 谷歌的+1 按钮得到了它的奖赏:现在你可以分享到谷歌+圈子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/googles-1-button-gets-its-treat-now-lets-you-share-to-google-circles/>
 

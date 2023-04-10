@@ -1,4 +1,4 @@
-# Bubble Motion 扩展到语音博客之外，整合了 Twitter 和脸书 TechCrunch
+# Bubble Motion 扩展到语音博客之外，整合了 Twitter 和脸书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/20/bubble-motion-expands-beyond-voice-blogging-with-twitter-and-facebook-integration/>
 

@@ -1,4 +1,4 @@
-# 索尼希望推出“一种新形式的电视”——TechCrunch
+# 索尼希望推出“一种新形式的电视”——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/sony-hopes-to-debut-a-new-form-of-television/>
 

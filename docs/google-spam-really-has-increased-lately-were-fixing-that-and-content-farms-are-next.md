@@ -1,4 +1,4 @@
-# 谷歌:垃圾邮件最近真的增加了。我们正在解决这个问题，内容农场是下一个目标 TechCrunch
+# 谷歌:垃圾邮件最近真的增加了。我们正在解决这个问题，内容农场是下一个目标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/google-spam-really-has-increased-lately-were-fixing-that-and-content-farms-are-next/>
 

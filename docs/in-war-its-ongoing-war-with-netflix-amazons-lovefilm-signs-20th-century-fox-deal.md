@@ -1,4 +1,4 @@
-# 在与网飞的持续战争中，亚马逊的 Lovefilm 与 20 世纪福克斯签署了交易 TechCrunch
+# 在与网飞的持续战争中，亚马逊的 Lovefilm 与 20 世纪福克斯签署了交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/in-war-its-ongoing-war-with-netflix-amazons-lovefilm-signs-20th-century-fox-deal/>
 

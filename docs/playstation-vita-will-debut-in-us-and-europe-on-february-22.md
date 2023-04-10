@@ -1,4 +1,4 @@
-# PlayStation Vita 将于 2 月 22 日在美国和欧洲首次亮相 TechCrunch
+# PlayStation Vita 将于 2 月 22 日在美国和欧洲首次亮相 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/playstation-vita-will-debut-in-us-and-europe-on-february-22/>
 

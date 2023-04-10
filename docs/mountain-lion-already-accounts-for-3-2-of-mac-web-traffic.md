@@ -1,4 +1,4 @@
-# 仅仅 48 小时后，Mountain Lion 已经占据了 Mac 网站流量的 3.2% TechCrunch
+# 仅仅 48 小时后，Mountain Lion 已经占据了 Mac 网站流量的 3.2% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/27/mountain-lion-already-accounts-for-3-2-of-mac-web-traffic/>
 

@@ -1,4 +1,4 @@
-# 艺电首席执行官里奇泰洛:我们正在瞄准 Zynga TechCrunch
+# 艺电首席执行官里奇泰洛:我们正在瞄准 Zynga 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/ea-ceo-riccitiello-were-taking-dead-aim-at-zynga/>
 

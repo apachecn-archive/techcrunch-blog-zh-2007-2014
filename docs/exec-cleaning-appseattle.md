@@ -1,4 +1,4 @@
-# Exec 推出仅用于清洁的应用程序，扩展到西雅图，因为家务占销售额的 50% TechCrunch
+# Exec 推出仅用于清洁的应用程序，扩展到西雅图，因为家务占销售额的 50% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/12/exec-cleaning-appseattle/>
 

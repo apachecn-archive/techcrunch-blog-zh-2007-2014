@@ -1,4 +1,4 @@
-# 现在海盗湾被勒令关闭在荷兰的店铺 TechCrunch
+# 现在海盗湾被勒令关闭在荷兰的店铺 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/and-now-the-pirate-bay-has-been-ordered-to-close-up-shop-in-the-netherlands/>
 

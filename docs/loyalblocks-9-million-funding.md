@@ -1,4 +1,4 @@
-# LoyalBlocks 获得由 General Catalyst 牵头的 900 万美元，用于扩大其基于移动设备的忠诚度计划 TechCrunch
+# LoyalBlocks 获得由 General Catalyst 牵头的 900 万美元，用于扩大其基于移动设备的忠诚度计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/23/loyalblocks-9-million-funding/>
 

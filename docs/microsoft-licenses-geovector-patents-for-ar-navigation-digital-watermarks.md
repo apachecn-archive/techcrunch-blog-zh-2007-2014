@@ -1,4 +1,4 @@
-# 微软授权地理矢量专利用于增强现实导航、数字水印 TechCrunch
+# 微软授权地理矢量专利用于增强现实导航、数字水印 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/microsoft-licenses-geovector-patents-for-ar-navigation-digital-watermarks/>
 

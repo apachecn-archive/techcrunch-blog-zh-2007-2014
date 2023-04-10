@@ -1,4 +1,4 @@
-# Cowbird 是一个了不起的故事讲述者的社区，也是热爱互联网的另一个原因 TechCrunch
+# Cowbird 是一个了不起的故事讲述者的社区，也是热爱互联网的另一个原因 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/15/cowbird-is-a-community-for-amazing-storytellers-and-another-reason-to-love-the-internet/>
 

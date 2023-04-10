@@ -1,4 +1,4 @@
-# 谷歌音乐对美国所有人开放，提供完整歌曲分享到 Google+TechCrunch
+# 谷歌音乐对美国所有人开放，提供完整歌曲分享到 Google+
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/google-music-opening-for-everyone-features-full-song-sharing-to-google/>
 

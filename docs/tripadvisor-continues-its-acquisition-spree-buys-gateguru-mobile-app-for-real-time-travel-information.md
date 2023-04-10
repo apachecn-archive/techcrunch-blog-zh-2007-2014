@@ -1,4 +1,4 @@
-# 猫途鹰继续收购狂潮，收购实时旅游信息移动应用 gate guru TechCrunch
+# 猫途鹰继续收购狂潮，收购实时旅游信息移动应用 gate guru 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/19/tripadvisor-continues-its-acquisition-spree-buys-gateguru-mobile-app-for-real-time-travel-information/>
 

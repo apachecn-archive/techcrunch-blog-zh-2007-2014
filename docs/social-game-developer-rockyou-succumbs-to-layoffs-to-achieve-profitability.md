@@ -1,4 +1,4 @@
-# 社交游戏开发商 RockYou 屈服于裁员以实现盈利 TechCrunch
+# 社交游戏开发商 RockYou 屈服于裁员以实现盈利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/social-game-developer-rockyou-succumbs-to-layoffs-to-achieve-profitability/>
 

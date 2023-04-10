@@ -1,4 +1,4 @@
-# 黑莓 10 没有原生的 Instagram 应用，但这个移植的 Android 版本完成了这项工作 TechCrunch
+# 黑莓 10 没有原生的 Instagram 应用，但这个移植的 Android 版本完成了这项工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/04/theres-no-native-instagram-app-for-blackberry-10-but-this-ported-android-version-gets-the-job-done/>
 

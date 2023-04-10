@@ -1,4 +1,4 @@
-# 威比茨筹集种子资金，将文章转化为视频摘要 TechCrunch
+# 威比茨筹集种子资金，将文章转化为视频摘要 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/wibbitz-raises-seed-funding-to-turn-news-articles-into-video-summaries/>
 

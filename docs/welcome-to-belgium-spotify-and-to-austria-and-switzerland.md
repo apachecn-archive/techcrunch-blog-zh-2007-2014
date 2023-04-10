@@ -1,4 +1,4 @@
-# 欢迎来到比利时，Spotify。(以及奥地利和瑞士)TechCrunch
+# 欢迎来到比利时，Spotify。(以及奥地利和瑞士)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/welcome-to-belgium-spotify-and-to-austria-and-switzerland/>
 

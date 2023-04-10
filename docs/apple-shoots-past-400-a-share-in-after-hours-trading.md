@@ -1,4 +1,4 @@
-# 苹果股价在盘后交易中突破 400 美元 TechCrunch
+# 苹果股价在盘后交易中突破 400 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/apple-shoots-past-400-a-share-in-after-hours-trading/>
 

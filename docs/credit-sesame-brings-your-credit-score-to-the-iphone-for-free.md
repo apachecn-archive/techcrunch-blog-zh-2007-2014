@@ -1,4 +1,4 @@
-# Credit 芝麻街为 iPhone 带来您的信用评分。免费。TechCrunch
+# Credit 芝麻街为 iPhone 带来您的信用评分。免费。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/14/credit-sesame-brings-your-credit-score-to-the-iphone-for-free/>
 

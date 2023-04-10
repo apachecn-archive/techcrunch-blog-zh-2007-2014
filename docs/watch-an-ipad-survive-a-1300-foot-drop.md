@@ -1,4 +1,4 @@
-# 观看 iPad 从 1300 英尺高处跌落的场景 TechCrunch
+# 观看 iPad 从 1300 英尺高处跌落的场景 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/watch-an-ipad-survive-a-1300-foot-drop/>
 

@@ -1,4 +1,4 @@
-# Once Magazine 为您的 iPad 带来引人注目的新闻摄影技术 TechCrunch
+# Once Magazine 为您的 iPad 带来引人注目的新闻摄影技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/once-magazine-brings-compelling-photojournalism-to-your-ipad/>
 

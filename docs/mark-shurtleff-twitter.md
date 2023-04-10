@@ -1,4 +1,4 @@
-# 犹他州司法部长 Mark Shurtleff 使用 Twitter 宣布处决 TechCrunch
+# 犹他州司法部长 Mark Shurtleff 使用 Twitter 宣布处决 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/18/mark-shurtleff-twitter/>
 

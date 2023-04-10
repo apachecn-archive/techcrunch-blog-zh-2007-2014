@@ -1,4 +1,4 @@
-# 问一问风投:TransLink Capital 的 Jay Eum 如何拓展亚洲市场 TechCrunch
+# 问一问风投:TransLink Capital 的 Jay Eum 如何拓展亚洲市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/14/ask-a-vc-translink-capitals-jay-eum-on-expanding-to-asian-markets/>
 

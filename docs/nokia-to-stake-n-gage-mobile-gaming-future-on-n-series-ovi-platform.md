@@ -1,4 +1,4 @@
-# 诺基亚将 N-Gage 移动游戏的未来押在 N 系列 Ovi 平台上——TechCrunch
+# 诺基亚将 N-Gage 移动游戏的未来押在 N 系列 Ovi 平台上——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/nokia-to-stake-n-gage-mobile-gaming-future-on-n-series-ovi-platform/>
 

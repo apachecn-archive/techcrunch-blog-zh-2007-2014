@@ -1,4 +1,4 @@
-# 雅虎真的裁员了——但真正的数字是多少？TechCrunch
+# 雅虎真的裁员了——但真正的数字是多少？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/21/yahoo-layoffs-for-real%e2%80%94but-whats-the-real-number/>
 

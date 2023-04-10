@@ -1,4 +1,4 @@
-# YC 支持的 Opez 是 Yelp 会见脸书，为服务专业人士 TechCrunch
+# YC 支持的 Opez 是 Yelp 会见脸书，为服务专业人士 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/yc-backed-opez-is-yelp-meets-facebook-for-service-professionals/>
 

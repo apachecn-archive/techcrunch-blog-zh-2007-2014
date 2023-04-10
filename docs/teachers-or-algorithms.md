@@ -1,4 +1,4 @@
-# 我们会需要老师或者算法吗？TechCrunch
+# 我们会需要老师或者算法吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/15/teachers-or-algorithms/>
 

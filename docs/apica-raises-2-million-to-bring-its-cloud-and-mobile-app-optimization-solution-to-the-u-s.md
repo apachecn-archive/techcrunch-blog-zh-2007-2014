@@ -1,4 +1,4 @@
-# Apica 筹集了 200 万美元用于在美国扩张，使您的网络和移动应用程序运行更快 TechCrunch
+# Apica 筹集了 200 万美元用于在美国扩张，使您的网络和移动应用程序运行更快 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/apica-raises-2-million-to-bring-its-cloud-and-mobile-app-optimization-solution-to-the-u-s/>
 

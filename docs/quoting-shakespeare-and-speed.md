@@ -1,4 +1,4 @@
-# 迷你还是空中，这是 iPad 的问题 TechCrunch
+# 迷你还是空中，这是 iPad 的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/18/quoting-shakespeare-and-speed/>
 

@@ -1,4 +1,4 @@
-# Better Place 筹集 3.5 亿美元，让这个世界变得更美好 TechCrunch
+# Better Place 筹集 3.5 亿美元，让这个世界变得更美好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/better-place-350-million-funding/>
 

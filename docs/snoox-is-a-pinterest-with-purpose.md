@@ -1,4 +1,4 @@
-# Snoox 是有目的的 Pinterest TechCrunch
+# Snoox 是有目的的 Pinterest 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/14/snoox-is-a-pinterest-with-purpose/>
 

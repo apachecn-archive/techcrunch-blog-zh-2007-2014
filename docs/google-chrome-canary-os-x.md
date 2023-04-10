@@ -1,4 +1,4 @@
-# 谷歌 Chrome 金丝雀即将登陆 OS X——Chrome 16 将于年底前发布 TechCrunch
+# 谷歌 Chrome 金丝雀即将登陆 OS X——Chrome 16 将于年底前发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/02/google-chrome-canary-os-x/>
 

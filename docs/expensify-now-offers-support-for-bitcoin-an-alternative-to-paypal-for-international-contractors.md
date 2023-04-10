@@ -1,4 +1,4 @@
-# Expensify 现在支持比特币，这是国际承包商 PayPal 的替代选择 TechCrunch
+# Expensify 现在支持比特币，这是国际承包商 PayPal 的替代选择 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/expensify-now-offers-support-for-bitcoin-an-alternative-to-paypal-for-international-contractors/>
 

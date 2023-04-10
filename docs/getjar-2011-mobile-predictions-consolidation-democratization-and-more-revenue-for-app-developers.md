@@ -1,4 +1,4 @@
-# GetJar 2011 年移动预测:整合、民主化和应用开发者的更多收入 TechCrunch
+# GetJar 2011 年移动预测:整合、民主化和应用开发者的更多收入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/getjar-2011-mobile-predictions-consolidation-democratization-and-more-revenue-for-app-developers/>
 

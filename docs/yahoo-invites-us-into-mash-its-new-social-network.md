@@ -1,4 +1,4 @@
-# 雅虎邀请我们加入其新社交网络 TechCrunch
+# 雅虎邀请我们加入其新社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/14/yahoo-invites-us-into-mash-its-new-social-network/>
 

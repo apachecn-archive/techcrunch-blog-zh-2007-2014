@@ -1,4 +1,4 @@
-# Linux 碎片化:好还是坏？TechCrunch
+# Linux 碎片化:好还是坏？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/11/linux-fragmentation-good-or-bad/>
 

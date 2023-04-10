@@ -1,4 +1,4 @@
-# Orbotix 发布售价 99 美元的新型超高速可编程机器人 sp hero 2B TechCrunch
+# Orbotix 发布售价 99 美元的新型超高速可编程机器人 sp hero 2B 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/05/orbotix-announces-the-sphero-2b-a-super-fast-programmable-robot/>
 

@@ -1,4 +1,4 @@
-# 诺基亚 5310 XpressMusic 增加赌注 TechCrunch
+# 诺基亚 5310 XpressMusic 增加赌注 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/nokia-5310-xpressmusic-ups-the-ante/>
 

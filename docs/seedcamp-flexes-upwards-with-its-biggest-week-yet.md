@@ -1,4 +1,4 @@
-# Seedcamp 凭借其迄今最大的一周表现向上弯曲 TechCrunch
+# Seedcamp 凭借其迄今最大的一周表现向上弯曲 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/seedcamp-flexes-upwards-with-its-biggest-week-yet/>
 

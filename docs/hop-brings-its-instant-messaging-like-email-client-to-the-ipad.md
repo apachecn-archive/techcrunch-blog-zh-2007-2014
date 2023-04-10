@@ -1,4 +1,4 @@
-# Hop 将其类似即时通讯的电子邮件客户端引入 iPad TechCrunch
+# Hop 将其类似即时通讯的电子邮件客户端引入 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/hop-brings-its-instant-messaging-like-email-client-to-the-ipad/>
 

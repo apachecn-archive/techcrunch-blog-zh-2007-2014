@@ -1,4 +1,4 @@
-# 亚马逊收购了 GoPago 的移动支付技术和产品/工程团队，DoubleBeam 收购了 POS 业务 TechCrunch
+# 亚马逊收购了 GoPago 的移动支付技术和产品/工程团队，DoubleBeam 收购了 POS 业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/21/amazon-bought-gopagos-mobile-payment-tech-and-productengineering-team-doublebeam-bought-the-pos-business/>
 

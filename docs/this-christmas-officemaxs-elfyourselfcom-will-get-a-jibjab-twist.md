@@ -1,4 +1,4 @@
-# 今年圣诞节，OfficeMax 的 ElfYourself.com 将有一个 JibJab 转折 TechCrunch
+# 今年圣诞节，OfficeMax 的 ElfYourself.com 将有一个 JibJab 转折 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/this-christmas-officemaxs-elfyourselfcom-will-get-a-jibjab-twist/>
 

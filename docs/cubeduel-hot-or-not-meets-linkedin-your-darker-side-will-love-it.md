@@ -1,4 +1,4 @@
-# Cubeduel:热不热遇上 LinkedIn。你的阴暗面会喜欢的。TechCrunch
+# Cubeduel:热不热遇上 LinkedIn。你的阴暗面会喜欢的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/13/cubeduel-hot-or-not-meets-linkedin-your-darker-side-will-love-it/>
 

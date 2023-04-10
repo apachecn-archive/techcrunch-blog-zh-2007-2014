@@ -1,4 +1,4 @@
-# 免费增值商业模式完全指南 TechCrunch
+# 免费增值商业模式完全指南 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/04/complete-guide-freemium/>
 

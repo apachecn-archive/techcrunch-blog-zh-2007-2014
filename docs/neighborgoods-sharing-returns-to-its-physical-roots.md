@@ -1,4 +1,4 @@
-# 邻里商品:分享回归物质根源 TechCrunch
+# 邻里商品:分享回归物质根源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/07/neighborgoods-sharing-returns-to-its-physical-roots/>
 

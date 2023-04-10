@@ -1,4 +1,4 @@
-# NoWait 是一款可以让你从手机上加入餐厅等候名单的应用程序，它已经覆盖全国 TechCrunch
+# NoWait 是一款可以让你从手机上加入餐厅等候名单的应用程序，它已经覆盖全国 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/30/nowait-the-app-that-lets-you-join-a-restaurant-wait-list-from-your-phone-goes-nationwide/>
 

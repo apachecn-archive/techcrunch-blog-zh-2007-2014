@@ -1,4 +1,4 @@
-# Netflix.com 网站和流媒体服务关闭 TechCrunch
+# Netflix.com 网站和流媒体服务关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/19/netflix-website-and-streaming-services-go-down/>
 

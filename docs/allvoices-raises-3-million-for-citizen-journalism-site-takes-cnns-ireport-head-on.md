@@ -1,4 +1,4 @@
-# AllVoices 为公民新闻网站筹集了 300 万美元；直面 CNN 的 iReport TechCrunch
+# AllVoices 为公民新闻网站筹集了 300 万美元；直面 CNN 的 iReport 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/26/allvoices-raises-3-million-for-citizen-journalism-site-takes-cnns-ireport-head-on/>
 

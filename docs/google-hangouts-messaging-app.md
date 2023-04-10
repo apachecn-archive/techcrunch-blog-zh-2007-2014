@@ -1,4 +1,4 @@
-# 谷歌将 Gmail 和 G+ Chat 合并为“Hangouts ”,这是一款跨平台的文本和群组视频消息应用 TechCrunch
+# 谷歌将 Gmail 和 G+ Chat 合并为“Hangouts ”,这是一款跨平台的文本和群组视频消息应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/15/google-hangouts-messaging-app/>
 

@@ -1,4 +1,4 @@
-# Foursquare 开始执行规则，打击虚假签到 TechCrunch
+# Foursquare 开始执行规则，打击虚假签到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/07/foursquare-starts-to-enforce-the-rules-cracks-down-on-fake-check-ins/>
 

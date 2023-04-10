@@ -1,4 +1,4 @@
-# 当你没有苹果电视时，你拥有的苹果电视——TechCrunch
+# 当你没有苹果电视时，你拥有的苹果电视——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/the-apple-tv-youre-having-when-you-dont-own-an-apple-tv/>
 

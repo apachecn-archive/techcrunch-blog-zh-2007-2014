@@ -1,4 +1,4 @@
-# 获得新资金后，Alexa 的竞争对手 SimilarWeb 收购了竞争情报引擎 tap dog TechCrunch
+# 获得新资金后，Alexa 的竞争对手 SimilarWeb 收购了竞争情报引擎 tap dog 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/fresh-off-new-funding-alexa-competitor-similarweb-acquires-competitive-intelligence-engine-tapdog/>
 

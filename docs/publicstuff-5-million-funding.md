@@ -1,4 +1,4 @@
-# PublicStuff 筹集了 500 万美元用于实时连接居民和他们的市政府 TechCrunch
+# PublicStuff 筹集了 500 万美元用于实时连接居民和他们的市政府 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/publicstuff-5-million-funding/>
 

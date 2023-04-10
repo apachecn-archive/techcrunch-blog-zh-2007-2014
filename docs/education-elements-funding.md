@@ -1,4 +1,4 @@
-# Education Elements 筹集 600 万美元帮助学校利用技术加速学习 TechCrunch
+# Education Elements 筹集 600 万美元帮助学校利用技术加速学习 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/06/education-elements-funding/>
 

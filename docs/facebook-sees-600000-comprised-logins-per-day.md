@@ -1,4 +1,4 @@
-# 脸书每天有 600，000 次被侵入的登录 TechCrunch
+# 脸书每天有 600，000 次被侵入的登录 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/facebook-sees-600000-comprised-logins-per-day/>
 

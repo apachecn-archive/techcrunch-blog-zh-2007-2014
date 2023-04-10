@@ -1,4 +1,4 @@
-# 有了 Bitcasa，整个云就是你的硬盘，每月只需 10 美元 TechCrunch
+# 有了 Bitcasa，整个云就是你的硬盘，每月只需 10 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/with-bitcasa-the-entire-cloud-is-your-hard-drive-for-only-10-per-month/>
 

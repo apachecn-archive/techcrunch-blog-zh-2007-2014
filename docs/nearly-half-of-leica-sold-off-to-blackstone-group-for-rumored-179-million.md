@@ -1,4 +1,4 @@
-# 据传，徕卡将近一半的股份以 1.79 亿美元的价格卖给了黑石集团 TechCrunch
+# 据传，徕卡将近一半的股份以 1.79 亿美元的价格卖给了黑石集团 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/nearly-half-of-leica-sold-off-to-blackstone-group-for-rumored-179-million/>
 

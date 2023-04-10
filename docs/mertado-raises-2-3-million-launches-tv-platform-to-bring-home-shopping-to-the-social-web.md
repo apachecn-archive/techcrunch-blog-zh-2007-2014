@@ -1,4 +1,4 @@
-# 默塔多筹集 230 万美元；推出电视平台，将家庭购物带入社交网络 TechCrunch
+# 默塔多筹集 230 万美元；推出电视平台，将家庭购物带入社交网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/mertado-raises-2-3-million-launches-tv-platform-to-bring-home-shopping-to-the-social-web/>
 

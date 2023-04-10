@@ -1,4 +1,4 @@
-# 谷歌收购社交移动初创公司 Jaiku TechCrunch
+# 谷歌收购社交移动初创公司 Jaiku 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/09/google-buys-social-mobile-startup-jaiku/>
 

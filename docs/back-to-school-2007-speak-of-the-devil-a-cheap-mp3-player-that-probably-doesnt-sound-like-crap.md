@@ -1,4 +1,4 @@
-# 返校 2007:说曹操曹操到！一个便宜的 MP3 播放器，听起来可能不像废话 TechCrunch
+# 返校 2007:说曹操曹操到！一个便宜的 MP3 播放器，听起来可能不像废话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/10/back-to-school-2007-speak-of-the-devil-a-cheap-mp3-player-that-probably-doesnt-sound-like-crap/>
 

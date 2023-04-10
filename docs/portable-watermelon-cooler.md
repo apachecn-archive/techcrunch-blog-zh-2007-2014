@@ -1,4 +1,4 @@
-# 便携式西瓜冷藏器 TechCrunch
+# 便携式西瓜冷藏器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/19/portable-watermelon-cooler/>
 

@@ -1,4 +1,4 @@
-# 在 Tableau IPO 中寻找模式 TechCrunch
+# 在 Tableau IPO 中寻找模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/19/finding-patterns-in-the-tableau-ipo/>
 

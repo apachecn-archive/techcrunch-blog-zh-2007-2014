@@ -1,4 +1,4 @@
-# 三星 Galaxy S II 美国版相机 TechCrunch
+# 三星 Galaxy S II 美国版相机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/26/samsung-galaxy-s-ii-u-s-variants-pose-for-the-camera/>
 

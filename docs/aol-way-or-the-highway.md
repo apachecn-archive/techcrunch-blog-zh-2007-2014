@@ -1,4 +1,4 @@
-# 保罗·米勒和特技辞职的五条规则 TechCrunch
+# 保罗·米勒和特技辞职的五条规则 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/19/aol-way-or-the-highway/>
 

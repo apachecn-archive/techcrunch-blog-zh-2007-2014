@@ -1,4 +1,4 @@
-# Woot 为 TouchPad 买家提供星球大战笑话和部分退款 TechCrunch
+# Woot 为 TouchPad 买家提供星球大战笑话和部分退款 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/woot-offers-touchpad-buyers-star-wars-jokes-and-partial-refund/>
 

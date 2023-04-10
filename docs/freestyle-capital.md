@@ -1,4 +1,4 @@
-# Freestyle Capital 现在更加正式，拥有 2700 万美元的资金 TechCrunch
+# Freestyle Capital 现在更加正式，拥有 2700 万美元的资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/freestyle-capital/>
 

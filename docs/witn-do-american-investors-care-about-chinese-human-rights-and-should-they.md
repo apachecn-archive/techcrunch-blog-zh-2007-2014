@@ -1,4 +1,4 @@
-# WITN:美国投资者关心中国人权吗？他们应该吗？TechCrunch
+# WITN:美国投资者关心中国人权吗？他们应该吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/22/witn-do-american-investors-care-about-chinese-human-rights-and-should-they/>
 

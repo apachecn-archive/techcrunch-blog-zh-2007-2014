@@ -1,4 +1,4 @@
-# 哈佛成立第一家风险投资公司:实验基金 TechCrunch
+# 哈佛成立第一家风险投资公司:实验基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/27/harvard-gets-its-first-vc-firm-the-experiment-fund/>
 

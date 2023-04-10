@@ -1,4 +1,4 @@
-# 维亚康姆和 NBC 投身在线视频诉讼——TechCrunch
+# 维亚康姆和 NBC 投身在线视频诉讼——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/viacom-and-nbc-inject-themselves-into-online-video-litigation/>
 

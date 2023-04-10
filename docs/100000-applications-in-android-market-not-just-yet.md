@@ -1,4 +1,4 @@
-# 安卓市场 10 万个应用？还没有 TechCrunch
+# 安卓市场 10 万个应用？还没有 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/16/100000-applications-in-android-market-not-just-yet/>
 

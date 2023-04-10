@@ -1,4 +1,4 @@
-# 迭代:从新加坡到硅谷，以开发者为中心的跨越太平洋的旅程。IO TechCrunch
+# 迭代:从新加坡到硅谷，以开发者为中心的跨越太平洋的旅程。IO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/21/iterations-nitrousio/>
 

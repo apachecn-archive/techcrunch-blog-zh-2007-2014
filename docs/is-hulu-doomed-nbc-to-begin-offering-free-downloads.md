@@ -1,4 +1,4 @@
-# Hulu 是注定的吗？NBC 将开始提供免费下载 TechCrunch
+# Hulu 是注定的吗？NBC 将开始提供免费下载 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/19/is-hulu-doomed-nbc-to-begin-offering-free-downloads/>
 

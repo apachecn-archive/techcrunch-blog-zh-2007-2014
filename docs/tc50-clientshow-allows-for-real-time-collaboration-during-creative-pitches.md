@@ -1,4 +1,4 @@
-# TC50: ClientShow 允许在创意推介期间进行实时协作 TechCrunch
+# TC50: ClientShow 允许在创意推介期间进行实时协作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/tc50-clientshow-allows-for-real-time-collaboration-during-creative-pitches/>
 

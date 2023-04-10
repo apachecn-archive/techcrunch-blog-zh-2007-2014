@@ -1,4 +1,4 @@
-# 脸书的大型课程能改善发展中国家的教育吗？TechCrunch
+# 脸书的大型课程能改善发展中国家的教育吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/can-facebooks-massive-courses-improve-education-for-developing-nations/>
 

@@ -1,4 +1,4 @@
-# DudaMobile 将网站转换为移动网站，现在就在您的手机上 TechCrunch
+# DudaMobile 将网站转换为移动网站，现在就在您的手机上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/dudamobile-converts-websites-to-mobile-sites-now-right-on-your-mobile-phone/>
 

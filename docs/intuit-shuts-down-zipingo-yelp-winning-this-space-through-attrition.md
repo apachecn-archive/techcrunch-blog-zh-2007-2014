@@ -1,4 +1,4 @@
-# Intuit 关闭 Zipingo。Yelp 通过摩擦赢得这一空间 TechCrunch
+# Intuit 关闭 Zipingo。Yelp 通过摩擦赢得这一空间 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/intuit-shuts-down-zipingo-yelp-winning-this-space-through-attrition/>
 

@@ -1,4 +1,4 @@
-# 品尝台是美食家的日常糖果 TechCrunch
+# 品尝台是美食家的日常糖果 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/04/tasting-table-is-the-daily-candy-for-foodies/>
 

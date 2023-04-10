@@ -1,4 +1,4 @@
-# 图为:苹果即将推出的大型 5 层上海苹果商店 TechCrunch
+# 图为:苹果即将推出的大型 5 层上海苹果商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/watch-out-china-your-apple-overlords-are-coming/>
 

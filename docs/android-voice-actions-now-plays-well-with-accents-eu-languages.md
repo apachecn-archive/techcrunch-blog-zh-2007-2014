@@ -1,4 +1,4 @@
-# Android 语音操作现在可以很好地适应口音、欧盟语言 TechCrunch
+# Android 语音操作现在可以很好地适应口音、欧盟语言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/16/android-voice-actions-now-plays-well-with-accents-eu-languages/>
 

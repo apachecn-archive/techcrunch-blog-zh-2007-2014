@@ -1,4 +1,4 @@
-# LogMeIn 的 Dropbox 竞争对手 Cubby 透露定价；保持竞争力，100 GB 每月 7 美元 TechCrunch
+# LogMeIn 的 Dropbox 竞争对手 Cubby 透露定价；保持竞争力，100 GB 每月 7 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/logmeins-dropbox-competitor-cubby-reveals-pricing-stays-competitive-at-7-per-month-for-100-gb/>
 

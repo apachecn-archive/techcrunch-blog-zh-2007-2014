@@ -1,4 +1,4 @@
-# 为了追赶 Dropbox 的设计能力，Google Drive 改进了其共享文件夹的布局 TechCrunch
+# 为了追赶 Dropbox 的设计能力，Google Drive 改进了其共享文件夹的布局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/02/to-chase-dropboxs-design-prowess-google-drive-improves-its-layout-for-shared-folders/>
 

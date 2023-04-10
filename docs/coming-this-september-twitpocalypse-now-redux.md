@@ -1,4 +1,4 @@
-# 今年九月即将发布:Twitpocalypse Now Redux！TechCrunch
+# 今年九月即将发布:Twitpocalypse Now Redux！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/coming-this-september-twitpocalypse-now-redux/>
 

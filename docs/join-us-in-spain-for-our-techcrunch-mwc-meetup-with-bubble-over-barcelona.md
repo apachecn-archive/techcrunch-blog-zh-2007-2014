@@ -1,4 +1,4 @@
-# 在西班牙加入我们的 TechCrunch MWC 会议+ Pitchoff 与泡沫超过巴塞罗纳 TechCrunch
+# 在西班牙加入我们的 TechCrunch MWC 会议+ Pitchoff 与泡沫超过巴塞罗纳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/join-us-in-spain-for-our-techcrunch-mwc-meetup-with-bubble-over-barcelona/>
 

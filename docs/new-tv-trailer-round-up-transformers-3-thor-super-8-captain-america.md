@@ -1,4 +1,4 @@
-# 新的电视预告片综述:变形金刚 3，雷神，超级 8，美国队长 TechCrunch
+# 新的电视预告片综述:变形金刚 3，雷神，超级 8，美国队长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/new-tv-trailer-round-up-transformers-3-thor-super-8-captain-america/>
 

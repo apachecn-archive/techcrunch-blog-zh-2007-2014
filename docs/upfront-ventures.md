@@ -1,4 +1,4 @@
-# GRP Partners 筹集了 2 亿美元的资金，获得了新的办公空间，并更名为前期投资 TechCrunch
+# GRP Partners 筹集了 2 亿美元的资金，获得了新的办公空间，并更名为前期投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/upfront-ventures/>
 

@@ -1,4 +1,4 @@
-# 声学尺 iPhone 应用程序比声波螺丝刀更有用 TechCrunch
+# 声学尺 iPhone 应用程序比声波螺丝刀更有用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/the-acoustic-ruler-iphone-app-is-more-useful-than-the-sonic-screwdriver/>
 

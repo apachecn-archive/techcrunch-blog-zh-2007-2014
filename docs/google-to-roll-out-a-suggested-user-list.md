@@ -1,4 +1,4 @@
-# Google+推出类似 Twitter 的推荐用户列表 TechCrunch
+# Google+推出类似 Twitter 的推荐用户列表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/google-to-roll-out-a-suggested-user-list/>
 

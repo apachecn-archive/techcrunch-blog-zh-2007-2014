@@ -1,4 +1,4 @@
-# 电路城发生的事情 TechCrunch
+# 电路城发生的事情 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/13/time-on-what-happened-to-circuit-city/>
 

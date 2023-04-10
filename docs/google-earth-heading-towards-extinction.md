@@ -1,4 +1,4 @@
-# 谷歌地球走向灭绝？TechCrunch
+# 谷歌地球走向灭绝？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/28/google-earth-heading-towards-extinction/>
 

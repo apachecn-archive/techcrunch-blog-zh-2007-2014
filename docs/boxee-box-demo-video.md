@@ -1,4 +1,4 @@
-# Boxee 盒子演示(TCTV)TechCrunch
+# Boxee 盒子演示(TCTV)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/10/boxee-box-demo-video/>
 

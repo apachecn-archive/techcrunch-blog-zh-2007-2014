@@ -1,4 +1,4 @@
-# 脸书在 AIM 大受欢迎:100 万用户 TechCrunch
+# 脸书在 AIM 大受欢迎:100 万用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/facebook-on-aim-is-a-hit-1-million-users/>
 

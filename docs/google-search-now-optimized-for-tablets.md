@@ -1,4 +1,4 @@
-# 谷歌搜索现已针对平板电脑进行优化 TechCrunch
+# 谷歌搜索现已针对平板电脑进行优化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/google-search-now-optimized-for-tablets/>
 

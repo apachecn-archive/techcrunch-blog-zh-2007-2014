@@ -1,4 +1,4 @@
-# 黑莓特有的 BBM 音乐服务将于 6 月 2 日关闭 TechCrunch
+# 黑莓特有的 BBM 音乐服务将于 6 月 2 日关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/blackberrys-peculiar-bbm-music-service-slated-to-shut-down-on-june-2/>
 

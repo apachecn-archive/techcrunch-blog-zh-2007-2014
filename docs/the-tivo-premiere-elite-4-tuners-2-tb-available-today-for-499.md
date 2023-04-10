@@ -1,4 +1,4 @@
-# TiVo Premiere Elite: 4 个调谐器，2 TB，现已上市，售价 499 美元 TechCrunch
+# TiVo Premiere Elite: 4 个调谐器，2 TB，现已上市，售价 499 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/the-tivo-premiere-elite-4-tuners-2-tb-available-today-for-499/>
 

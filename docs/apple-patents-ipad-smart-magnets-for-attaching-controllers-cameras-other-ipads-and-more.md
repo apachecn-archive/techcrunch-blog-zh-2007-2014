@@ -1,4 +1,4 @@
-# 苹果为 iPad 智能磁铁申请专利，用于连接控制器、相机、其他 iPad 等 TechCrunch
+# 苹果为 iPad 智能磁铁申请专利，用于连接控制器、相机、其他 iPad 等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/apple-patents-ipad-smart-magnets-for-attaching-controllers-cameras-other-ipads-and-more/>
 

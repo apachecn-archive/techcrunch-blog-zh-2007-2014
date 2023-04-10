@@ -1,4 +1,4 @@
-# Lightbank 支持面向本地企业的客户忠诚度和奖励平台 Belly TechCrunch
+# Lightbank 支持面向本地企业的客户忠诚度和奖励平台 Belly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/lightbank-backs-belly-a-customer-loyalty-and-rewards-platform-for-local-businesses/>
 

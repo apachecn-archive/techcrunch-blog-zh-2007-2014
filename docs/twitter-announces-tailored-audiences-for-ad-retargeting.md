@@ -1,4 +1,4 @@
-# Twitter 宣布为广告重新定位“量身定制的受众”TechCrunch
+# Twitter 宣布为广告重新定位“量身定制的受众”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/05/twitter-announces-tailored-audiences-for-ad-retargeting/>
 

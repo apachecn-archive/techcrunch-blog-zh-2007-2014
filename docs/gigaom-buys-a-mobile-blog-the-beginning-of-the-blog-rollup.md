@@ -1,4 +1,4 @@
-# GigaOm 收购移动博客——世界上少了一个独立博客 TechCrunch
+# GigaOm 收购移动博客——世界上少了一个独立博客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/22/gigaom-buys-a-mobile-blog-the-beginning-of-the-blog-rollup/>
 

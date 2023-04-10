@@ -1,4 +1,4 @@
-# Groupon 收购智利的 ClanDescuento.com，在巴西开设 club eurbano TechCrunch
+# Groupon 收购智利的 ClanDescuento.com，在巴西开设 club eurbano 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/24/groupon-clandescuento-clubeurbano/>
 

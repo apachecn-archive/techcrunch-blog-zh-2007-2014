@@ -1,4 +1,4 @@
-# Windows Vista SP1 正式发布 TechCrunch
+# Windows Vista SP1 正式发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/windows-vista-sp1-gets-officially-announced/>
 

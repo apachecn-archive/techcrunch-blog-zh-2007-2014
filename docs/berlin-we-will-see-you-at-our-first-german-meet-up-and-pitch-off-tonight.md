@@ -1,4 +1,4 @@
-# 柏林:我们将在今晚的第一次德国见面会上见到你 TechCrunch
+# 柏林:我们将在今晚的第一次德国见面会上见到你 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/02/berlin-we-will-see-you-at-our-first-german-meet-up-and-pitch-off-tonight/>
 

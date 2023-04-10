@@ -1,4 +1,4 @@
-# Piictu 推出并获得种子基金，以发展其游戏化照片分享应用 TechCrunch
+# Piictu 推出并获得种子基金，以发展其游戏化照片分享应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/piictu-launches-grabs-seed-funding-to-grow-its-game-ified-photo-sharing-app/>
 

@@ -1,4 +1,4 @@
-# 美国运通将为数字钱包平台服务发布 API 关注数据和个性化 TechCrunch
+# 美国运通将为数字钱包平台服务发布 API 关注数据和个性化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/09/american-express-to-release-an-api-for-digital-wallet-platform-serve-focuses-on-data-and-personalization/>
 

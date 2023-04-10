@@ -1,4 +1,4 @@
-# EyeEm 的相机应用程序是一个漂亮的新摄影界面 TechCrunch
+# EyeEm 的相机应用程序是一个漂亮的新摄影界面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/eyeems-camera-app-is-a-beautiful-new-interface-for-photography/>
 

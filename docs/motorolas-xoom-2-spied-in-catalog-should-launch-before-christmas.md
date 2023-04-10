@@ -1,4 +1,4 @@
-# 目录中发现的摩托罗拉 Xoom 2 应在圣诞节前发布 TechCrunch
+# 目录中发现的摩托罗拉 Xoom 2 应在圣诞节前发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/motorolas-xoom-2-spied-in-catalog-should-launch-before-christmas/>
 

@@ -1,4 +1,4 @@
-# ShoeDazzle 最终能让名人联合创始人有所回报吗？TechCrunch
+# ShoeDazzle 最终能让名人联合创始人有所回报吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/09/can-shoedazzle-finally-make-celebrity-co-founders-pay-off-tctv/>
 

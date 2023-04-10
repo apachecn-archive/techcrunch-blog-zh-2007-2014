@@ -1,4 +1,4 @@
-# 迈克·莫里茨的点石成金、绿点的亿万富翁和伟大的低语 TechCrunch
+# 迈克·莫里茨的点石成金、绿点的亿万富翁和伟大的低语 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/28/mike-moritzs-midas-touch-green-dots-billions-and-whispers-of-greatness/>
 

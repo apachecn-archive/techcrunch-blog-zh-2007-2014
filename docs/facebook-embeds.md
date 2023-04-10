@@ -1,4 +1,4 @@
-# 脸书允许嵌入公共帖子以吸引新闻人物，开始在五个网站推出 TechCrunch
+# 脸书允许嵌入公共帖子以吸引新闻人物，开始在五个网站推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/facebook-embeds/>
 

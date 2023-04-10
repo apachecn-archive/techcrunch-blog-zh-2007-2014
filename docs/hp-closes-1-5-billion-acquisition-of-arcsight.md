@@ -1,4 +1,4 @@
-# 惠普完成 15 亿美元收购 arc sight TechCrunch
+# 惠普完成 15 亿美元收购 arc sight 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/22/hp-closes-1-5-billion-acquisition-of-arcsight/>
 

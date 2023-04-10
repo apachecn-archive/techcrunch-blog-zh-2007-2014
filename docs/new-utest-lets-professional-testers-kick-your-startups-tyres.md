@@ -1,4 +1,4 @@
-# 新的 uTest 让专业测试人员为您的初创公司打气 TechCrunch
+# 新的 uTest 让专业测试人员为您的初创公司打气 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/21/new-utest-lets-professional-testers-kick-your-startups-tyres/>
 

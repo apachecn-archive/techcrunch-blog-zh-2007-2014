@@ -1,4 +1,4 @@
-# Twitter 启示不是现在:危机已经避免。大部分是。TechCrunch
+# Twitter 启示不是现在:危机已经避免。大部分是。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/12/twitpocalypse-not-now-crisis-averted/>
 

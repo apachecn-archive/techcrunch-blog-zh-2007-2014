@@ -1,4 +1,4 @@
-# 苹果与 Adobe 签署了新的 iPhone SDK 协议 TechCrunch
+# 苹果与 Adobe 签署了新的 iPhone SDK 协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/08/adobe-flash-apple-sdk/>
 

@@ -1,4 +1,4 @@
-# 宁升级 TechCrunch
+# 宁升级 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/04/ning-goes-premium/>
 

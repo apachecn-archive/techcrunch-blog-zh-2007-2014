@@ -1,4 +1,4 @@
-# 当脸书捕获白鲸时，他们可能用鱼叉刺穿了它的头部 TechCrunch
+# 当脸书捕获白鲸时，他们可能用鱼叉刺穿了它的头部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/04/facebook-beluga-dead/>
 

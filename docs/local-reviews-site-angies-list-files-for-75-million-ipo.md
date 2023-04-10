@@ -1,4 +1,4 @@
-# 当地商业评论网站 Angie 的 7，500 万美元 IPO 上市文件 TechCrunch
+# 当地商业评论网站 Angie 的 7，500 万美元 IPO 上市文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/local-reviews-site-angies-list-files-for-75-million-ipo/>
 

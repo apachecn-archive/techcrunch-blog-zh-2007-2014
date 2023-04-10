@@ -1,4 +1,4 @@
-# hinter Gatherers TechCrunch
+# hinter Gatherers 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/hinter-gatherers/>
 

@@ -1,4 +1,4 @@
-# Greplin 版本必须有 iPhone 应用程序来组织你的生活，避免疯狂的谷歌人 TechCrunch
+# Greplin 版本必须有 iPhone 应用程序来组织你的生活，避免疯狂的谷歌人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/23/greplin-releases-must-have-iphone-app-to-organize-your-life-and-avoid-rabid-googlers/>
 

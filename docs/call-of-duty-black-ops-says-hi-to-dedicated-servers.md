@@ -1,4 +1,4 @@
-# 使命召唤:黑色行动向专用服务器问好 TechCrunch
+# 使命召唤:黑色行动向专用服务器问好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/14/call-of-duty-black-ops-says-hi-to-dedicated-servers/>
 

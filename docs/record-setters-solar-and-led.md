@@ -1,4 +1,4 @@
-# 清洁技术领域的新纪录为更廉价的太阳能、LED 灯带来了希望 TechCrunch
+# 清洁技术领域的新纪录为更廉价的太阳能、LED 灯带来了希望 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/02/record-setters-solar-and-led/>
 

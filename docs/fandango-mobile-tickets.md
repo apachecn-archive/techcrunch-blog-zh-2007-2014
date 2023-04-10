@@ -1,4 +1,4 @@
-# Fandango 开始推出移动电影票，让电影观众无纸化 TechCrunch
+# Fandango 开始推出移动电影票，让电影观众无纸化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/15/fandango-mobile-tickets/>
 

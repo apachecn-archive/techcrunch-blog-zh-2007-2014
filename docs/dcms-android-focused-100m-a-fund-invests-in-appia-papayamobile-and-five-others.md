@@ -1,4 +1,4 @@
-# DCM 专注于 Android 的 1 亿美元 A 基金投资于 Appia、PapayaMobile 和其他五家公司 TechCrunch
+# DCM 专注于 Android 的 1 亿美元 A 基金投资于 Appia、PapayaMobile 和其他五家公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/dcms-android-focused-100m-a-fund-invests-in-appia-papayamobile-and-five-others/>
 

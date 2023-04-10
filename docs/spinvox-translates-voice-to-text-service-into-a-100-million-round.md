@@ -1,4 +1,4 @@
-# SpinVox 将语音转文本服务转化为 1 亿美元的融资 TechCrunch
+# SpinVox 将语音转文本服务转化为 1 亿美元的融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/20/spinvox-translates-voice-to-text-service-into-a-100-million-round/>
 

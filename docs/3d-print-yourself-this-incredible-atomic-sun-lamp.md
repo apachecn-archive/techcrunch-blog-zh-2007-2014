@@ -1,4 +1,4 @@
-# 3D 打印这款不可思议的“原子太阳”灯 TechCrunch
+# 3D 打印这款不可思议的“原子太阳”灯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/3d-print-yourself-this-incredible-atomic-sun-lamp/>
 

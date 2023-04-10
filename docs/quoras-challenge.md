@@ -1,4 +1,4 @@
-# Quora 最大的挑战是什么？TechCrunch
+# Quora 最大的挑战是什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/quoras-challenge/>
 

@@ -1,4 +1,4 @@
-# 谷歌“Nexus Two”硬件问题推迟发布 TechCrunch
+# 谷歌“Nexus Two”硬件问题推迟发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/05/google-nexus-two-hardware-issue-delays-launch/>
 

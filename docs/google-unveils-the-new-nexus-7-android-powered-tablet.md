@@ -1,4 +1,4 @@
-# 谷歌推出新款 Nexus 7 Android 平板电脑，这是 iPad Mini 的竞争对手，拥有超大屏幕 7 月 30 日 TechCrunch
+# 谷歌推出新款 Nexus 7 Android 平板电脑，这是 iPad Mini 的竞争对手，拥有超大屏幕 7 月 30 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/24/google-unveils-the-new-nexus-7-android-powered-tablet/>
 

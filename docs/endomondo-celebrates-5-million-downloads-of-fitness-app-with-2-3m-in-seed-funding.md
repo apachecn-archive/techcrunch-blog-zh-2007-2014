@@ -1,4 +1,4 @@
-# Endomondo 庆祝健身应用下载量达到 500 万次，获得 230 万美元种子资金 TechCrunch
+# Endomondo 庆祝健身应用下载量达到 500 万次，获得 230 万美元种子资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/endomondo-celebrates-5-million-downloads-of-fitness-app-with-2-3m-in-seed-funding/>
 

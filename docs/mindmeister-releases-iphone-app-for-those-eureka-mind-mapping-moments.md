@@ -1,4 +1,4 @@
-# MindMeister 为那些灵光一现的思维导图时刻发布 iPhone 应用程序 TechCrunch
+# MindMeister 为那些灵光一现的思维导图时刻发布 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/02/mindmeister-releases-iphone-app-for-those-eureka-mind-mapping-moments/>
 

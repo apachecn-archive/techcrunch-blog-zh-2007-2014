@@ -1,4 +1,4 @@
-# YouTube 现在允许视频创作者为 Kickstarter 和 Indiegogo 项目募集捐款 TechCrunch
+# YouTube 现在允许视频创作者为 Kickstarter 和 Indiegogo 项目募集捐款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/17/youtube-now-lets-video-creators-solicit-donations-for-kickstarter-indiegogo-projects/>
 

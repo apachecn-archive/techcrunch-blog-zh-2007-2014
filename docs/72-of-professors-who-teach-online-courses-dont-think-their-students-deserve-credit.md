@@ -1,4 +1,4 @@
-# 72%教授在线课程的教授认为他们的学生不值得表扬 TechCrunch
+# 72%教授在线课程的教授认为他们的学生不值得表扬 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/22/72-of-professors-who-teach-online-courses-dont-think-their-students-deserve-credit/>
 

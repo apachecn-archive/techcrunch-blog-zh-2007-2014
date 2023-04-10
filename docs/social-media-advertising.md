@@ -1,4 +1,4 @@
-# 衡量社交媒体广告的价值 TechCrunch
+# 衡量社交媒体广告的价值 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/20/social-media-advertising/>
 

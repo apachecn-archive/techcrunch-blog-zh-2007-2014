@@ -1,4 +1,4 @@
-# 尤里·米尔纳对硅谷是个威胁吗？TechCrunch
+# 尤里·米尔纳对硅谷是个威胁吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/29/is-yuri-milner-is-a-threat-to-silicon-valley/>
 

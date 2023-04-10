@@ -1,4 +1,4 @@
-# Mullenweg 希望 WordPress 为大多数网站提供动力 TechCrunch
+# Mullenweg 希望 WordPress 为大多数网站提供动力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/mullenweg-wants-wordpress-to-power-a-majority-of-all-websites/>
 

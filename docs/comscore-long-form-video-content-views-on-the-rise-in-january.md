@@ -1,4 +1,4 @@
-# comScore:一月份长篇视频内容浏览量上升 TechCrunch
+# comScore:一月份长篇视频内容浏览量上升 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/20/comscore-long-form-video-content-views-on-the-rise-in-january/>
 

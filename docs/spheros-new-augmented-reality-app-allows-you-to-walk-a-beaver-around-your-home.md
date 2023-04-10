@@ -1,4 +1,4 @@
-# Sphero 的新增强现实应用程序允许你在家里遛海狸 TechCrunch
+# Sphero 的新增强现实应用程序允许你在家里遛海狸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/spheros-new-augmented-reality-app-allows-you-to-walk-a-beaver-around-your-home/>
 

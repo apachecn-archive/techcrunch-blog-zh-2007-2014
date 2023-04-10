@@ -1,4 +1,4 @@
-# hi5 收购社交游戏公司 Big Six TechCrunch
+# hi5 收购社交游戏公司 Big Six 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/24/hi5-acquires-social-gaming-company-big-six/>
 

@@ -1,4 +1,4 @@
-# HTC Jetstream:美国电话电报公司 10.1 英寸 LTE 平板电脑，9 月 4 日发布 TechCrunch
+# HTC Jetstream:美国电话电报公司 10.1 英寸 LTE 平板电脑，9 月 4 日发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/htc-jetstream-atts-10-1-inch-lte-tablet-launches-september-4/>
 

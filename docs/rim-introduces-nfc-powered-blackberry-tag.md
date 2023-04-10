@@ -1,4 +1,4 @@
-# RIM 推出基于 NFC 的黑莓 Tag TechCrunch
+# RIM 推出基于 NFC 的黑莓 Tag 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/rim-introduces-nfc-powered-blackberry-tag/>
 

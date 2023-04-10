@@ -1,4 +1,4 @@
-# 寻求应对股价暴跌的经验，脸书聘请 Zynga 首席财务官大卫·韦纳担任财务副总裁 TechCrunch
+# 寻求应对股价暴跌的经验，脸书聘请 Zynga 首席财务官大卫·韦纳担任财务副总裁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/zynga-facebook-david-wehner/>
 

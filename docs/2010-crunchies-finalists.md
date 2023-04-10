@@ -1,4 +1,4 @@
-# 宣布您的 2010 年 Crunchies 决赛选手 TechCrunch
+# 宣布您的 2010 年 Crunchies 决赛选手 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/07/2010-crunchies-finalists/>
 

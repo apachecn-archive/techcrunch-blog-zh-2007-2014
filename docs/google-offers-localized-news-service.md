@@ -1,4 +1,4 @@
-# 当心 Topix——谷歌推出本地化新闻服务 TechCrunch
+# 当心 Topix——谷歌推出本地化新闻服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/07/google-offers-localized-news-service/>
 

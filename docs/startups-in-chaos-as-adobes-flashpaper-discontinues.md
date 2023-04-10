@@ -1,4 +1,4 @@
-# 记录混乱中的初创公司，因为 Adobe 的 Flashpaper 停止了 TechCrunch
+# 记录混乱中的初创公司，因为 Adobe 的 Flashpaper 停止了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/04/startups-in-chaos-as-adobes-flashpaper-discontinues/>
 

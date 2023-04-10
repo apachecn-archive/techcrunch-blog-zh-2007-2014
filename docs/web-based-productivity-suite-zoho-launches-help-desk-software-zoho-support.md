@@ -1,4 +1,4 @@
-# 基于网络的生产力套件 Zoho 推出服务台软件 Zoho Support TechCrunch
+# 基于网络的生产力套件 Zoho 推出服务台软件 Zoho Support 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/10/web-based-productivity-suite-zoho-launches-help-desk-software-zoho-support/>
 

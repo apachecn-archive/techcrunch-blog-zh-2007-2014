@@ -1,4 +1,4 @@
-# Google Voice 添加垃圾邮件过滤器，识别“问题”呼叫者 TechCrunch
+# Google Voice 添加垃圾邮件过滤器，识别“问题”呼叫者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/google-voice-adds-spam-filter-identifies-problem-callers/>
 

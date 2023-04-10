@@ -1,4 +1,4 @@
-# 平板电脑出版初创公司 Onswipe 任命琼蒂·凯尔特为首席执行官，创始人杰森·巴蒂斯特成为 CMO TechCrunch
+# 平板电脑出版初创公司 Onswipe 任命琼蒂·凯尔特为首席执行官，创始人杰森·巴蒂斯特成为 CMO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/15/onswipe-new-ceo/>
 

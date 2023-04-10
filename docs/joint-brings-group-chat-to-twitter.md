@@ -1,4 +1,4 @@
-# 联合将群组聊天引入 Twitter TechCrunch
+# 联合将群组聊天引入 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/joint-brings-group-chat-to-twitter/>
 

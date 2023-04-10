@@ -1,4 +1,4 @@
-# 先锋在日本销售另一批激光唱盘播放器 TechCrunch
+# 先锋在日本销售另一批激光唱盘播放器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/pioneer-sells-another-batch-of-laserdisc-players-in-japan/>
 

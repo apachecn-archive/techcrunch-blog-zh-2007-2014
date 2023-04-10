@@ -1,4 +1,4 @@
-# 谷歌新闻徽章？我们不需要臭烘烘的谷歌新闻徽章 TechCrunch
+# 谷歌新闻徽章？我们不需要臭烘烘的谷歌新闻徽章 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/google-news-badges-we-dont-need-no-stinking-google-news-badges/>
 

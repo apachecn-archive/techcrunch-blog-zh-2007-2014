@@ -1,4 +1,4 @@
-# 东芝的梦想:锅里有鸡，SD 卡里有 WiFi TechCrunch
+# 东芝的梦想:锅里有鸡，SD 卡里有 WiFi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/toshibas-dream-a-chicken-in-every-pot-and-wifi-in-every-sd-card/>
 

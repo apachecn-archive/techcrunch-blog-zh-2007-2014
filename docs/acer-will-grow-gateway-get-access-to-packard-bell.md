@@ -1,4 +1,4 @@
-# 宏碁将发展 Gateway，获得 Packard Bell TechCrunch
+# 宏碁将发展 Gateway，获得 Packard Bell 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/acer-will-grow-gateway-get-access-to-packard-bell/>
 

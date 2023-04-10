@@ -1,4 +1,4 @@
-# OrderWithMe 为小型企业提供批发团购 TechCrunch
+# OrderWithMe 为小型企业提供批发团购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/orderwithme-offers-wholesale-group-buying-for-small-businesses/>
 

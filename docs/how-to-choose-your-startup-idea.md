@@ -1,4 +1,4 @@
-# 如何选择你的创业想法 TechCrunch
+# 如何选择你的创业想法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/how-to-choose-your-startup-idea/>
 

@@ -1,4 +1,4 @@
-# InsideView 首次推出 CRM+,将社交智能引入业务运营 TechCrunch
+# InsideView 首次推出 CRM+,将社交智能引入业务运营 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/insideview-debuts-crm-to-bring-social-intelligence-to-business-operations/>
 

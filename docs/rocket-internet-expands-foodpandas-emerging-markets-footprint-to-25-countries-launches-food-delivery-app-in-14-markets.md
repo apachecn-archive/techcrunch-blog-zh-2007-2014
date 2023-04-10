@@ -1,4 +1,4 @@
-# FoodPanda，火箭互联网对 GrubHub 的回应，现在在 25 个新兴市场提供食物；推出首款移动应用 TechCrunch
+# FoodPanda，火箭互联网对 GrubHub 的回应，现在在 25 个新兴市场提供食物；推出首款移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/04/rocket-internet-expands-foodpandas-emerging-markets-footprint-to-25-countries-launches-food-delivery-app-in-14-markets/>
 

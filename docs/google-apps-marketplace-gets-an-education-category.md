@@ -1,4 +1,4 @@
-# Google Apps Marketplace 获得教育类 TechCrunch
+# Google Apps Marketplace 获得教育类 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/25/google-apps-marketplace-gets-an-education-category/>
 

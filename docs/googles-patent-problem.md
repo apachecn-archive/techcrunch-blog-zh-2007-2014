@@ -1,4 +1,4 @@
-# 为什么谷歌今天会写关于专利的博客？因为北电的亏损只是一个开始。TechCrunch
+# 为什么谷歌今天会写关于专利的博客？因为北电的亏损只是一个开始。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/googles-patent-problem/>
 

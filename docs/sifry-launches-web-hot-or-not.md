@@ -1,4 +1,4 @@
-# Sifry 推出“网络热不热？”TechCrunch
+# Sifry 推出“网络热不热？”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/27/sifry-launches-web-hot-or-not/>
 

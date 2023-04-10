@@ -1,4 +1,4 @@
-# 谷歌推出谷歌供应商名录测试版，连接中国的公司和供应商 TechCrunch
+# 谷歌推出谷歌供应商名录测试版，连接中国的公司和供应商 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/18/google-launches-google-supplier-directory-beta-to-connect-companies-with-suppliers-in-china/>
 

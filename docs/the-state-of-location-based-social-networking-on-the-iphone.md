@@ -1,4 +1,4 @@
-# iPhone 上基于位置的社交网络的现状 TechCrunch
+# iPhone 上基于位置的社交网络的现状 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/28/the-state-of-location-based-social-networking-on-the-iphone/>
 

@@ -1,4 +1,4 @@
-# iPad HD 烂透了* TechCrunch
+# iPad HD 烂透了* 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/06/the-ipad-hd-is-wonderful/>
 

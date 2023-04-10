@@ -1,4 +1,4 @@
-# 黑客新闻封杀 Valleywag TechCrunch
+# 黑客新闻封杀 Valleywag 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/11/hacker-news-considers-banning-valleywag/>
 

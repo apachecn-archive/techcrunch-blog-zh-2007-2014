@@ -1,4 +1,4 @@
-# 种族主义和精英管理 TechCrunch
+# 种族主义和精英管理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/19/racism-and-meritocracy/>
 

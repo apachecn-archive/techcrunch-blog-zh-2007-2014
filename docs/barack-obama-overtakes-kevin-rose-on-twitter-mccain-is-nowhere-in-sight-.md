@@ -1,4 +1,4 @@
-# 巴拉克奥巴马在推特上超过凯文·罗斯。麦凯恩不见踪影。TechCrunch
+# 巴拉克奥巴马在推特上超过凯文·罗斯。麦凯恩不见踪影。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/13/barack-obama-overtakes-kevin-rose-on-twitter-mccain-is-nowhere-in-sight-/>
 

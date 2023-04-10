@@ -1,4 +1,4 @@
-# 从 Disrupt 亚军到 2200 万美元的资金，CloudFlare 告诉 All TechCrunch
+# 从 Disrupt 亚军到 2200 万美元的资金，CloudFlare 告诉 All 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/03/from-disrupt-runner-up-to-22-million-in-funding-cloudflare-tells-all/>
 

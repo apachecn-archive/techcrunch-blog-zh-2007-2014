@@ -1,4 +1,4 @@
-# Cybook Odyssey 电子阅读器带触摸屏，网络导航 TechCrunch
+# Cybook Odyssey 电子阅读器带触摸屏，网络导航 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/cybook-odyssey-e-reader-shows-off-slick-web-navigation/>
 

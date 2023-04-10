@@ -1,4 +1,4 @@
-# Gphone 可能真的会发生，弹药组可能正在设计它 TechCrunch
+# Gphone 可能真的会发生，弹药组可能正在设计它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/13/gphone-may-really-happen-and-ammunition-group-may-be-designing-it/>
 

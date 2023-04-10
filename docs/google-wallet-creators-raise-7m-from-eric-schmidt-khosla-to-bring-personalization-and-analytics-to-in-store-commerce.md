@@ -1,4 +1,4 @@
-# 谷歌钱包创造者从埃里克·施密特、科斯拉筹集 700 万美元，为店内商务带来个性化和分析技术 TechCrunch
+# 谷歌钱包创造者从埃里克·施密特、科斯拉筹集 700 万美元，为店内商务带来个性化和分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/google-wallet-creators-raise-7m-from-eric-schmidt-khosla-to-bring-personalization-and-analytics-to-in-store-commerce/>
 

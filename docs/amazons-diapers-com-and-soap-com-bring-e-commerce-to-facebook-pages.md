@@ -1,4 +1,4 @@
-# 亚马逊的 Diapers.com 和 Soap.com 将电子商务引入脸书页面 TechCrunch
+# 亚马逊的 Diapers.com 和 Soap.com 将电子商务引入脸书页面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/14/amazons-diapers-com-and-soap-com-bring-e-commerce-to-facebook-pages/>
 

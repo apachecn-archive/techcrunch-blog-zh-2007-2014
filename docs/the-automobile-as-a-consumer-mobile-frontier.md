@@ -1,4 +1,4 @@
-# 汽车作为消费移动前沿 TechCrunch
+# 汽车作为消费移动前沿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/12/the-automobile-as-a-consumer-mobile-frontier/>
 

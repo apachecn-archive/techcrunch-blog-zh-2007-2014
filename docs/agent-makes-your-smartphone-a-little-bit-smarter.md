@@ -1,4 +1,4 @@
-# Agent 让您的智能手机变得更加智能 TechCrunch
+# Agent 让您的智能手机变得更加智能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/29/agent-makes-your-smartphone-a-little-bit-smarter/>
 

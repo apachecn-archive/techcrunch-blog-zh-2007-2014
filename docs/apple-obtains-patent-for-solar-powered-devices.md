@@ -1,4 +1,4 @@
-# 苹果获得太阳能设备专利 TechCrunch
+# 苹果获得太阳能设备专利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/13/apple-obtains-patent-for-solar-powered-devices/>
 

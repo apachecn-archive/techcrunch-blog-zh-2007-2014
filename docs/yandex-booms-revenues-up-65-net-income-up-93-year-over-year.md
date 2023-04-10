@@ -1,4 +1,4 @@
-# Yandex 蓬勃发展:收入同比增长 65%，净收入同比增长 93% TechCrunch
+# Yandex 蓬勃发展:收入同比增长 65%，净收入同比增长 93% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/yandex-booms-revenues-up-65-net-income-up-93-year-over-year/>
 

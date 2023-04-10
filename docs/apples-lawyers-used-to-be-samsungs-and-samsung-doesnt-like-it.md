@@ -1,4 +1,4 @@
-# 苹果的律师以前是三星的，三星不喜欢 TechCrunch
+# 苹果的律师以前是三星的，三星不喜欢 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/apples-lawyers-used-to-be-samsungs-and-samsung-doesnt-like-it/>
 

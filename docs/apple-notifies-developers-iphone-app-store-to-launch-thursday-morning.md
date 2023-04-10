@@ -1,4 +1,4 @@
-# 苹果通知开发者:iPhone 应用商店将于周四上午发布 TechCrunch
+# 苹果通知开发者:iPhone 应用商店将于周四上午发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/09/apple-notifies-developers-iphone-app-store-to-launch-thursday-morning/>
 

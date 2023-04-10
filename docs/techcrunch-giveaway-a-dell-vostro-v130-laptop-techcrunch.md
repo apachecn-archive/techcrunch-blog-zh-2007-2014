@@ -1,8 +1,8 @@
-# TechCrunch 赠品:一台 Dell Vostro V130 笔记本电脑# TechCrunch TechCrunch
+# TechCrunch 赠品:一台 Dell Vostro V130 笔记本电脑# TechCrunch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/techcrunch-giveaway-a-dell-vostro-v130-laptop-techcrunch/>
 
-# TechCrunch 赠品:一台 Dell Vostro V130 笔记本电脑#TechCrunch
+# TechCrunch 赠品:一台 Dell Vostro V130 笔记本电脑#
 
 你可能听说过上周 TechCrunch 上的一则广告。你自己可能也注意到了这一点，你*可能*对此有点恼火。插播广告是一款戴尔 Vostro V130 笔记本电脑的广告。这些笔记本电脑通常价格约为 429 美元，具有获奖的设计，重量非常轻，只有 3.5 磅。我们想说，我们很抱歉戴尔[喊出了他们的广告](https://web.archive.org/web/20230203041212/https://techcrunch.com/2011/01/25/real-blogs-dont-have-interstitial-ads/)，所以今天我们将赠送其中一台笔记本电脑给一位幸运的读者！
 

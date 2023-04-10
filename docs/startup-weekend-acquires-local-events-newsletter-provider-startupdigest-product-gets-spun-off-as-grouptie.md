@@ -1,4 +1,4 @@
-# Startup Weekend 收购本地活动简讯提供商 StartupDigest 产品被分拆为 group tie TechCrunch
+# Startup Weekend 收购本地活动简讯提供商 StartupDigest 产品被分拆为 group tie 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/03/startup-weekend-acquires-local-events-newsletter-provider-startupdigest-product-gets-spun-off-as-grouptie/>
 

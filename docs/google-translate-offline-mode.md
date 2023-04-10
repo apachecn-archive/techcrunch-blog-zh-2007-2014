@@ -1,4 +1,4 @@
-# 谷歌安卓翻译支持 50 种语言离线模式 TechCrunch
+# 谷歌安卓翻译支持 50 种语言离线模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/google-translate-offline-mode/>
 

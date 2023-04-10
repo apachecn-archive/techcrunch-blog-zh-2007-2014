@@ -1,4 +1,4 @@
-# 使用此固件将优派平板电脑变成概念墨水亚当克隆版 TechCrunch
+# 使用此固件将优派平板电脑变成概念墨水亚当克隆版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/turn-a-viewsonic-gtablet-into-a-notion-ink-adam-clone-with-this-firmware/>
 

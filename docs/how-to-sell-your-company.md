@@ -1,4 +1,4 @@
-# 如何推销你的公司 TechCrunch
+# 如何推销你的公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/03/how-to-sell-your-company/>
 

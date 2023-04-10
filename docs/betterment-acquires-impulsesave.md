@@ -1,4 +1,4 @@
-# Betterment 收购了 ImpulseSave，这款应用鼓励你存钱而不是花钱 TechCrunch
+# Betterment 收购了 ImpulseSave，这款应用鼓励你存钱而不是花钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/18/betterment-acquires-impulsesave/>
 

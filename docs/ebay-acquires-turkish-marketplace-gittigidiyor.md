@@ -1,4 +1,4 @@
-# 易贝收购土耳其市场 GittiGidiyor TechCrunch
+# 易贝收购土耳其市场 GittiGidiyor 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/12/ebay-acquires-turkish-marketplace-gittigidiyor/>
 

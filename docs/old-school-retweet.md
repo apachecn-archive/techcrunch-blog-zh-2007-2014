@@ -1,4 +1,4 @@
-# WordPress Twitter Blackbird Pie 工具带回了老派的转发方式！TechCrunch
+# WordPress Twitter Blackbird Pie 工具带回了老派的转发方式！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/05/old-school-retweet/>
 

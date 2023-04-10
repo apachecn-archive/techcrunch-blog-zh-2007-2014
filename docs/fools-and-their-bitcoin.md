@@ -1,4 +1,4 @@
-# 傻瓜和他们的比特币 TechCrunch
+# 傻瓜和他们的比特币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/fools-and-their-bitcoin/>
 

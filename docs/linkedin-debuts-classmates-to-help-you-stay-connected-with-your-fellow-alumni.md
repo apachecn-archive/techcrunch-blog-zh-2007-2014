@@ -1,4 +1,4 @@
-# LinkedIn 首次推出同学会，帮助你与校友保持联系 TechCrunch
+# LinkedIn 首次推出同学会，帮助你与校友保持联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/linkedin-debuts-classmates-to-help-you-stay-connected-with-your-fellow-alumni/>
 

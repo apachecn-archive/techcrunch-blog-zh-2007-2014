@@ -1,4 +1,4 @@
-# 注意你在 Google Buzz 上回复的人，你可能会暴露他们的电子邮件地址 TechCrunch
+# 注意你在 Google Buzz 上回复的人，你可能会暴露他们的电子邮件地址 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/02/11/reply-google-buzz-exposing-email/>
 

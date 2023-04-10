@@ -1,4 +1,4 @@
-# Codecademy:教你如何编程的巧妙有趣的方法 TechCrunch
+# Codecademy:教你如何编程的巧妙有趣的方法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/18/codecademy-a-slick-fun-way-to-teach-yourself-how-to-program/>
 

@@ -1,4 +1,4 @@
-# 搜索硅谷自拍 TechCrunch
+# 搜索硅谷自拍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/10/searching-for-the-silicon-valley-selfie/>
 

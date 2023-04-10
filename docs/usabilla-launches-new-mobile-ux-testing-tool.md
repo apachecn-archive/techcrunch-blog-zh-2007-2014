@@ -1,4 +1,4 @@
-# Usabilla 推出新的移动 UX 测试工具 TechCrunch
+# Usabilla 推出新的移动 UX 测试工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/usabilla-launches-new-mobile-ux-testing-tool/>
 

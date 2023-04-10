@@ -1,4 +1,4 @@
-# Zimperium 筹集 800 万美元用于移动安全，扭转了攻击者的局面 TechCrunch
+# Zimperium 筹集 800 万美元用于移动安全，扭转了攻击者的局面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/20/zimperium-raises-8m-for-mobile-security-that-turns-the-tables-on-attackers/>
 

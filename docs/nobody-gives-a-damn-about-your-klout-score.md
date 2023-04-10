@@ -1,4 +1,4 @@
-# 没人在乎你的 Klout 分数 TechCrunch
+# 没人在乎你的 Klout 分数 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/nobody-gives-a-damn-about-your-klout-score/>
 

@@ -1,4 +1,4 @@
-# 从手机游戏到联网汽车:先睹为快 Gazelle Lab 的前 6 家初创公司 TechCrunch
+# 从手机游戏到联网汽车:先睹为快 Gazelle Lab 的前 6 家初创公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/from-mobile-games-to-connected-cars-sneak-peek-at-gazelle-labs-first-6-startups/>
 

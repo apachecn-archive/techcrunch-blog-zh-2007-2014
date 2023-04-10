@@ -1,4 +1,4 @@
-# 博客灾难:作者从未付款，承诺未兑现 TechCrunch
+# 博客灾难:作者从未付款，承诺未兑现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/05/blognation-meltdown-writers-never-paid-promises-not-kept/>
 

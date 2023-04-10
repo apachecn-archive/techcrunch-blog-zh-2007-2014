@@ -1,4 +1,4 @@
-# (创始人故事)迈克·拉泽罗在 Google+“我不知道谁在用它”TechCrunch
+# (创始人故事)迈克·拉泽罗在 Google+“我不知道谁在用它”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/founder-stories-lazarow-google-plus/>
 

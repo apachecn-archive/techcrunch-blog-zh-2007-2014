@@ -1,4 +1,4 @@
-# Gartner:到 2012 年，社交 CRM 市场的收入将达到 100 亿美元 1B TechCrunch
+# Gartner:到 2012 年，社交 CRM 市场的收入将达到 100 亿美元 1B 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/gartner-social-crm-market-will-reach-1b-in-revenue-by-2012/>
 

@@ -1,4 +1,4 @@
-# 微软仍然比苹果更赚钱——勉强 TechCrunch
+# 微软仍然比苹果更赚钱——勉强 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/apple-microsoft-profits/>
 

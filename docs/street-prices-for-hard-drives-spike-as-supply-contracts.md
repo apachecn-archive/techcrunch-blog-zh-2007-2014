@@ -1,4 +1,4 @@
-# 随着供应合同的签订，硬盘市场价飙升 TechCrunch
+# 随着供应合同的签订，硬盘市场价飙升 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/street-prices-for-hard-drives-spike-as-supply-contracts/>
 

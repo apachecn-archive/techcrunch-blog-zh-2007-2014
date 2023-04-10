@@ -1,4 +1,4 @@
-# 万宇让你可以和朋友一起收看你最喜欢的电视节目 TechCrunch
+# 万宇让你可以和朋友一起收看你最喜欢的电视节目 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/yuwan-check-into-your-favorite-tv-program-with-friends/>
 

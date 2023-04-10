@@ -1,4 +1,4 @@
-# Monster 收购雅虎。如果互联网是招聘平台，热门职位还重要吗？TechCrunch
+# Monster 收购雅虎。如果互联网是招聘平台，热门职位还重要吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/06/monster-yahoo-hotjobs-matter-internet-job-board/>
 

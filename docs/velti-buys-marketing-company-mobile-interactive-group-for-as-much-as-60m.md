@@ -1,4 +1,4 @@
-# Velti 以高达 6000 万美元收购营销公司 Mobile Interactive Group TechCrunch
+# Velti 以高达 6000 万美元收购营销公司 Mobile Interactive Group 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/velti-buys-marketing-company-mobile-interactive-group-for-as-much-as-60m/>
 

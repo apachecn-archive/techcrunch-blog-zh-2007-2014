@@ -1,4 +1,4 @@
-# 参观 DogVacay 的洛杉矶总部，认识宠物 Airbnb 背后的人(和狗)TechCrunch
+# 参观 DogVacay 的洛杉矶总部，认识宠物 Airbnb 背后的人(和狗)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/dogvacay-video-interview-santa-monica/>
 

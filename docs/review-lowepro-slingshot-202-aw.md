@@ -1,4 +1,4 @@
-# 点评:lowpro slings hot 202 AW TechCrunch
+# 点评:lowpro slings hot 202 AW 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/01/review-lowepro-slingshot-202-aw/>
 

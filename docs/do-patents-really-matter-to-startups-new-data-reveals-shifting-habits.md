@@ -1,4 +1,4 @@
-# 专利对创业公司真的很重要吗？新数据揭示习惯的转变 TechCrunch
+# 专利对创业公司真的很重要吗？新数据揭示习惯的转变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/21/do-patents-really-matter-to-startups-new-data-reveals-shifting-habits/>
 

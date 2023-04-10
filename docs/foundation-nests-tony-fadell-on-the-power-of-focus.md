@@ -1,4 +1,4 @@
-# 基金会:Nest 的托尼法德尔谈聚焦的力量 TechCrunch
+# 基金会:Nest 的托尼法德尔谈聚焦的力量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/foundation-nests-tony-fadell-on-the-power-of-focus/>
 

@@ -1,4 +1,4 @@
-# Kobo 将其 Vox 与 Fire 和 Nook 相抗衡，成为第一款“社交”电子阅读器 TechCrunch
+# Kobo 将其 Vox 与 Fire 和 Nook 相抗衡，成为第一款“社交”电子阅读器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/kobo-pits-its-vox-against-the-fire-and-nook-as-first-social-e-reader/>
 

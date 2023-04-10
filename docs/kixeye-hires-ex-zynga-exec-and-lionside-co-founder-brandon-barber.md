@@ -1,4 +1,4 @@
-# Kixeye 聘用前 Zynga 高管和 Lionside 联合创始人布兰登巴伯 TechCrunch
+# Kixeye 聘用前 Zynga 高管和 Lionside 联合创始人布兰登巴伯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/kixeye-hires-ex-zynga-exec-and-lionside-co-founder-brandon-barber/>
 

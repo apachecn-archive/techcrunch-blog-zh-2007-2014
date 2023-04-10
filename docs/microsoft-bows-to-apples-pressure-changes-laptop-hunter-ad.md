@@ -1,4 +1,4 @@
-# 微软屈服于苹果的压力，改变笔记本电脑猎人广告 TechCrunch
+# 微软屈服于苹果的压力，改变笔记本电脑猎人广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/microsoft-bows-to-apples-pressure-changes-laptop-hunter-ad/>
 

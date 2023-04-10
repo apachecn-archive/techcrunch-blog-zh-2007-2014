@@ -1,4 +1,4 @@
-# 仅仅因为筹集风险投资资金更容易，这并不意味着你应该 TechCrunch
+# 仅仅因为筹集风险投资资金更容易，这并不意味着你应该 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/just-because-its-easier-to-raise-vc-money-that-doesnt-mean-you-should/>
 

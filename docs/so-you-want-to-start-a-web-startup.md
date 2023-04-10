@@ -1,4 +1,4 @@
-# 所以你想开一家网络创业公司？TechCrunch
+# 所以你想开一家网络创业公司？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/05/so-you-want-to-start-a-web-startup/>
 

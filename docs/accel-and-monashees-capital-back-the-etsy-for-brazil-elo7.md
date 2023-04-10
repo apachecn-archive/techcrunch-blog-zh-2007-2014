@@ -1,4 +1,4 @@
-# Accel 和 Monashees Capital 支持巴西的 Etsy elo 7 TechCrunch
+# Accel 和 Monashees Capital 支持巴西的 Etsy elo 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/11/accel-and-monashees-capital-back-the-etsy-for-brazil-elo7/>
 

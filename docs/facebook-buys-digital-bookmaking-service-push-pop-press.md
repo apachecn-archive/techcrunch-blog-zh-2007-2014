@@ -1,4 +1,4 @@
-# 脸书收购数字博彩服务 Push Pop Press TechCrunch
+# 脸书收购数字博彩服务 Push Pop Press 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/02/facebook-buys-digital-bookmaking-service-push-pop-press/>
 

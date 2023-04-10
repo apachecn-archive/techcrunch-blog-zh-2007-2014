@@ -1,4 +1,4 @@
-# 为 Meebo、HootSuite 等提供客户参与工具的 UserVoice 筹集了 100 万美元 TechCrunch
+# 为 Meebo、HootSuite 等提供客户参与工具的 UserVoice 筹集了 100 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/uservoice-which-powers-customer-engagement-tools-for-meebo-hootsuite-more-raises-1-million/>
 

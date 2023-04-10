@@ -1,4 +1,4 @@
-# 皮尤:电子阅读器的采用率在 6 个月内翻倍，超过平板电脑 TechCrunch
+# 皮尤:电子阅读器的采用率在 6 个月内翻倍，超过平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/27/pew-e-readers-doubles-6-months/>
 

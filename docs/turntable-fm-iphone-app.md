@@ -1,4 +1,4 @@
-# Turntable.fm 即将摇滚一款 iPhone 应用；我们有截图 TechCrunch
+# Turntable.fm 即将摇滚一款 iPhone 应用；我们有截图 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/turntable-fm-iphone-app/>
 

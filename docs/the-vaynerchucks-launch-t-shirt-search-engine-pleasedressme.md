@@ -1,4 +1,4 @@
-# Vaynerchucks 推出的 t 恤搜索引擎 pleased reme TechCrunch
+# Vaynerchucks 推出的 t 恤搜索引擎 pleased reme 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/01/the-vaynerchucks-launch-t-shirt-search-engine-pleasedressme/>
 

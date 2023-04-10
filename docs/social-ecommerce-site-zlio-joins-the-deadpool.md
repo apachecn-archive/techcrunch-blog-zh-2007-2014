@@ -1,4 +1,4 @@
-# 社交电子商务网站 Zlio 加入死亡池 TechCrunch
+# 社交电子商务网站 Zlio 加入死亡池 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/social-ecommerce-site-zlio-joins-the-deadpool/>
 

@@ -1,4 +1,4 @@
-# 吉布森强迫 Wowwee 拉纸 Jamz 吉他 TechCrunch
+# 吉布森强迫 Wowwee 拉纸 Jamz 吉他 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/28/gibson-forces-wowwee-to-pull-paper-jamz-guitars/>
 

@@ -1,4 +1,4 @@
-# 不飞则亡:路径 2.0 TechCrunch
+# 不飞则亡:路径 2.0 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/fly-or-die-path-2-0/>
 

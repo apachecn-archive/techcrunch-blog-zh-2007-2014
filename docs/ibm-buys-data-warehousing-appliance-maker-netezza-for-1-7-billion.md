@@ -1,4 +1,4 @@
-# IBM 以 17 亿美元收购数据仓库设备制造商 nete zza TechCrunch
+# IBM 以 17 亿美元收购数据仓库设备制造商 nete zza 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/20/ibm-buys-data-warehousing-appliance-maker-netezza-for-1-7-billion/>
 

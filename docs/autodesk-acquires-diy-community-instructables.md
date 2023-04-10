@@ -1,4 +1,4 @@
-# 欧特克收购 DIY 社区 Instructables TechCrunch
+# 欧特克收购 DIY 社区 Instructables 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/autodesk-acquires-diy-community-instructables/>
 

@@ -1,4 +1,4 @@
-# 认识 Helpouts，谷歌的秘密项目，将 Hangouts 变成一个商业平台 TechCrunch
+# 认识 Helpouts，谷歌的秘密项目，将 Hangouts 变成一个商业平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/24/meet-helpouts-googles-secret-plan-to-bring-live-video-commerce-to-local-businesses/>
 

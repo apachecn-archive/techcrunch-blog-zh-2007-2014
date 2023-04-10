@@ -1,4 +1,4 @@
-# 你需要玩的六款精彩 ASCII 游戏 TechCrunch
+# 你需要玩的六款精彩 ASCII 游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/06/ascii-based-games-roundup/>
 

@@ -1,4 +1,4 @@
-# 视频广告技术开发商 Jivox 融资 820 万美元 TechCrunch
+# 视频广告技术开发商 Jivox 融资 820 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/video-ad-technology-developer-jivox-raises-8-2-million/>
 

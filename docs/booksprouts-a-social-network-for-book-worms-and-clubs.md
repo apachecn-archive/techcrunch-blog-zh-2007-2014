@@ -1,4 +1,4 @@
-# BookSprouts，书虫和俱乐部的社交网络 TechCrunch
+# BookSprouts，书虫和俱乐部的社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/27/booksprouts-a-social-network-for-book-worms-and-clubs/>
 

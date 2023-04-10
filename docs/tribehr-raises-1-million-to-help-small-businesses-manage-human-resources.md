@@ -1,4 +1,4 @@
-# TribeHR 筹集 100 万美元帮助小型企业管理人力资源 TechCrunch
+# TribeHR 筹集 100 万美元帮助小型企业管理人力资源 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/tribehr-raises-1-million-to-help-small-businesses-manage-human-resources/>
 

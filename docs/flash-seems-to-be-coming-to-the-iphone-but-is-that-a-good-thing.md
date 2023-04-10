@@ -1,4 +1,4 @@
-# Flash 好像要来 iPhone 了。但这是好事吗？TechCrunch
+# Flash 好像要来 iPhone 了。但这是好事吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/30/flash-seems-to-be-coming-to-the-iphone-but-is-that-a-good-thing/>
 

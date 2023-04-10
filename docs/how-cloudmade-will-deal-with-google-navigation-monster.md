@@ -1,4 +1,4 @@
-# Cloudmade 将如何应对谷歌导航怪兽 TechCrunch
+# Cloudmade 将如何应对谷歌导航怪兽 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/30/how-cloudmade-will-deal-with-google-navigation-monster/>
 

@@ -1,4 +1,4 @@
-# 来自诺基亚并不神秘的 Lumia 1020 活动的实时博客 TechCrunch
+# 来自诺基亚并不神秘的 Lumia 1020 活动的实时博客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/live-blog-from-nokias-not-so-mysterious-lumia-1020-event/>
 

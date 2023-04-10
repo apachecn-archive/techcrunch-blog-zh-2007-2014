@@ -1,4 +1,4 @@
-# 谷歌语音集成到 Gmail 中。通过浏览器拨打和接听电话 TechCrunch
+# 谷歌语音集成到 Gmail 中。通过浏览器拨打和接听电话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/google-voice-integrated-into-gmail-make-and-receive-calls-from-the-browser/>
 

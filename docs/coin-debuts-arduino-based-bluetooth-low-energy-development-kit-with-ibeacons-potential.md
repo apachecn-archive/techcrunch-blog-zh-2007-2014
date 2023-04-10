@@ -1,4 +1,4 @@
-# Coin 推出基于 Arduino 的蓝牙低能耗开发套件，具有 iBeacons 潜力 TechCrunch
+# Coin 推出基于 Arduino 的蓝牙低能耗开发套件，具有 iBeacons 潜力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/04/coin-debuts-arduino-based-bluetooth-low-energy-development-kit-with-ibeacons-potential/>
 

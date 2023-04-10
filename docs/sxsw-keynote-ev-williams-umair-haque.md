@@ -1,4 +1,4 @@
-# 等等，伊芙·威廉姆斯刚刚采访了乌马尔·哈克吗？奇怪。TechCrunch
+# 等等，伊芙·威廉姆斯刚刚采访了乌马尔·哈克吗？奇怪。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/15/sxsw-keynote-ev-williams-umair-haque/>
 

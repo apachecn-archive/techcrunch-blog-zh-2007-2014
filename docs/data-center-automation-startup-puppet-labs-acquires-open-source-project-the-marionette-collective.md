@@ -1,4 +1,4 @@
-# 数据中心自动化初创公司 Puppet Labs 收购开源项目 The 木偶集体 TechCrunch
+# 数据中心自动化初创公司 Puppet Labs 收购开源项目 The 木偶集体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/07/data-center-automation-startup-puppet-labs-acquires-open-source-project-the-marionette-collective/>
 

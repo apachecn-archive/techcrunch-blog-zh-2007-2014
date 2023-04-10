@@ -1,4 +1,4 @@
-# 安德森支持的 Makara 推出云应用部署和管理平台 TechCrunch
+# 安德森支持的 Makara 推出云应用部署和管理平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/01/andreessen-backed-makara-unveils-cloud-application-deployment-and-management-platform/>
 

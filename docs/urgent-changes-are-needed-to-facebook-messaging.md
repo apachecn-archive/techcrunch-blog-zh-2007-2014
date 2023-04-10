@@ -1,4 +1,4 @@
-# 迫切需要对脸书消息传递进行变革 TechCrunch
+# 迫切需要对脸书消息传递进行变革 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/03/urgent-changes-are-needed-to-facebook-messaging/>
 

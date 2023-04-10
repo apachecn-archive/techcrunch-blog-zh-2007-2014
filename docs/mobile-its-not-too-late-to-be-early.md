@@ -1,4 +1,4 @@
-# 移动:趁早不晚 TechCrunch
+# 移动:趁早不晚 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/mobile-its-not-too-late-to-be-early/>
 

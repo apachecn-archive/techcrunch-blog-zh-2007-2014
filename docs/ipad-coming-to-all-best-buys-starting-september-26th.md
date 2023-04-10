@@ -1,4 +1,4 @@
-# iPad 将于 9 月 26 日开始在所有百思买上销售 TechCrunch
+# iPad 将于 9 月 26 日开始在所有百思买上销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/ipad-coming-to-all-best-buys-starting-september-26th/>
 

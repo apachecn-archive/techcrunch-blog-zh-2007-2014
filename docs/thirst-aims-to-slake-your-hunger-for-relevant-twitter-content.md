@@ -1,4 +1,4 @@
-# 渴望旨在满足你对相关 Twitter 内容的渴望 TechCrunch
+# 渴望旨在满足你对相关 Twitter 内容的渴望 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/05/16/thirst-aims-to-slake-your-hunger-for-relevant-twitter-content/>
 

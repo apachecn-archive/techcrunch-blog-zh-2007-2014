@@ -1,4 +1,4 @@
-# Groupon 股价上涨，此前分析师对未来增长持积极态度 TechCrunch
+# Groupon 股价上涨，此前分析师对未来增长持积极态度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/groupons-stock-rises-following-positive-analyst-comments-about-future-growth/>
 

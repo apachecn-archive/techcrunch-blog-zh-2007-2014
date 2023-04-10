@@ -1,4 +1,4 @@
-# Gigwalk 发布:想用 iPhone 拍照赚钱吗？TechCrunch
+# Gigwalk 发布:想用 iPhone 拍照赚钱吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/04/gigwalk-launches-want-get-paid-for-taking-pictures-with-your-iphone/>
 

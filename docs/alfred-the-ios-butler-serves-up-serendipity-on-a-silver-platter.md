@@ -1,4 +1,4 @@
-# iOS 管家 Alfred 将意外收获端上银盘 TechCrunch
+# iOS 管家 Alfred 将意外收获端上银盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/alfred-the-ios-butler-serves-up-serendipity-on-a-silver-platter/>
 

@@ -1,4 +1,4 @@
-# 电子产品周回顾:Vision TechCrunch
+# 电子产品周回顾:Vision 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/gadgets-week-in-review-vision/>
 

@@ -1,4 +1,4 @@
-# 创始人基金投资 100 万美元支持其第一家食品科技初创公司 Hampton Creek Foods TechCrunch
+# 创始人基金投资 100 万美元支持其第一家食品科技初创公司 Hampton Creek Foods 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/20/founders-fund-backs-hampton-creek-foods/>
 

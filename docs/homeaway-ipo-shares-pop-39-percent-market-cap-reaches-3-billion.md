@@ -1,4 +1,4 @@
-# HomeAway IPO 股票上涨 39%，市值达到 30 亿美元 TechCrunch
+# HomeAway IPO 股票上涨 39%，市值达到 30 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/homeaway-ipo-shares-pop-39-percent-market-cap-reaches-3-billion/>
 

@@ -1,4 +1,4 @@
-# Bebo 终于死了吗？(更新:不完全是)TechCrunch
+# Bebo 终于死了吗？(更新:不完全是)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/30/is-bebo-finally-dead/>
 

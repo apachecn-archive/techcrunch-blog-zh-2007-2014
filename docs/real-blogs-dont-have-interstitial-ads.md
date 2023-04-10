@@ -1,4 +1,4 @@
-# 真正的博客没有间隙广告 TechCrunch
+# 真正的博客没有间隙广告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/25/real-blogs-dont-have-interstitial-ads/>
 

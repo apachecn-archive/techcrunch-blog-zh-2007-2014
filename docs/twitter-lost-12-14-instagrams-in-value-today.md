@@ -1,4 +1,4 @@
-# Twitter 今天损失了 12.14 个 Instagrams TechCrunch
+# Twitter 今天损失了 12.14 个 Instagrams 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/twitter-lost-12-14-instagrams-in-value-today/>
 

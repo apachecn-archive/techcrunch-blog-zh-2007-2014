@@ -1,4 +1,4 @@
-# Plaxo 的买家不是脸书，也不是谷歌。可能是康卡斯特 TechCrunch
+# Plaxo 的买家不是脸书，也不是谷歌。可能是康卡斯特 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/13/plaxos-buyer-not-facebook-not-google-likely-comcast/>
 

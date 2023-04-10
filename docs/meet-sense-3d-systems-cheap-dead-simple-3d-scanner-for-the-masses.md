@@ -1,4 +1,4 @@
-# 认识 Sense，3D Systems 面向大众的廉价、极其简单的 3D 扫描仪 TechCrunch
+# 认识 Sense，3D Systems 面向大众的廉价、极其简单的 3D 扫描仪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/10/meet-sense-3d-systems-cheap-dead-simple-3d-scanner-for-the-masses/>
 

@@ -1,4 +1,4 @@
-# Medpedia 的健康平台可能正是医生想要的 TechCrunch
+# Medpedia 的健康平台可能正是医生想要的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/17/medpedias-health-platform-could-be-just-what-the-doctor-ordered/>
 

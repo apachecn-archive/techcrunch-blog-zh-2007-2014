@@ -1,4 +1,4 @@
-# OMG/JK:狮子的倒吼 TechCrunch
+# OMG/JK:狮子的倒吼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/23/omgjk-lions-inverted-roar/>
 

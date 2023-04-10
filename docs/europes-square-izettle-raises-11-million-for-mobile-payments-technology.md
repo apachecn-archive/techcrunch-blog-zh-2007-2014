@@ -1,4 +1,4 @@
-# 欧洲 Square iZettle 为移动支付技术筹集 1100 万美元 TechCrunch
+# 欧洲 Square iZettle 为移动支付技术筹集 1100 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/europes-square-izettle-raises-11-million-for-mobile-payments-technology/>
 

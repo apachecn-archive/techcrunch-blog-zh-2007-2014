@@ -1,4 +1,4 @@
-# 通用电气在旧金山湾区开设新的软件中心 TechCrunch
+# 通用电气在旧金山湾区开设新的软件中心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/ge-opens-new-software-center-in-the-bay-area/>
 

@@ -1,4 +1,4 @@
-# 任天堂 3DS 将于 8 月 12 日降至 170 美元，现有用户可获得 20 款免费游戏 TechCrunch
+# 任天堂 3DS 将于 8 月 12 日降至 170 美元，现有用户可获得 20 款免费游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/nintendo-3ds-to-drop-to-170-on-august-12-current-owners-get-20-free-games/>
 

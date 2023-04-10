@@ -1,4 +1,4 @@
-# iPhone 4S 相机升级解释 TechCrunch
+# iPhone 4S 相机升级解释 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/the-iphone-4s-camera-upgrade-explained/>
 

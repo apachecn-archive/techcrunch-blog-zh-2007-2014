@@ -1,4 +1,4 @@
-# 通过手机查询价格？IDC 发现“展厅”趋势在周六最受欢迎 TechCrunch
+# 通过手机查询价格？IDC 发现“展厅”趋势在周六最受欢迎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/14/checking-prices-via-your-mobile-idc-finds-showrooming-trend-most-popular-on-saturdays/>
 

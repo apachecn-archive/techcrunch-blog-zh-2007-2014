@@ -1,4 +1,4 @@
-# Twilio 正在摧毁它:15 万个开发人员，每天 150 万个电话，5 亿个总电话，20 个新国家 TechCrunch
+# Twilio 正在摧毁它:15 万个开发人员，每天 150 万个电话，5 亿个总电话，20 个新国家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/17/twilio-is-crushing-it-150k-developers-1-5m-api-calls-a-day-1b-total-phone-calls-expanding-to-20-more-countries/>
 

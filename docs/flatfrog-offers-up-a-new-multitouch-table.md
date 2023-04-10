@@ -1,4 +1,4 @@
-# FlatFrog 推出新的多点触控桌子 TechCrunch
+# FlatFrog 推出新的多点触控桌子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/flatfrog-offers-up-a-new-multitouch-table/>
 

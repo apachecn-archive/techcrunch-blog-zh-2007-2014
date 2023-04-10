@@ -1,4 +1,4 @@
-# 威瑞森路线图承诺 9 月 8 日推出 Droid 仿生超级手机...最后 TechCrunch
+# 威瑞森路线图承诺 9 月 8 日推出 Droid 仿生超级手机...最后 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/verizon-roadmap-promises-september-8-launch-for-droid-bionic-superphone-finally/>
 

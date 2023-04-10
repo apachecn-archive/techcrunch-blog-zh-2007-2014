@@ -1,4 +1,4 @@
-# 约翰·奥利弗回来主持 Crunchies，以下是去年的亮点 TechCrunch
+# 约翰·奥利弗回来主持 Crunchies，以下是去年的亮点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/john-oliver-is-back-to-host-the-crunchies-here-are-last-years-highlights/>
 

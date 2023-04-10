@@ -1,4 +1,4 @@
-# 三星 Nexus Prime 支持页面弹出，传言规格泄露 TechCrunch
+# 三星 Nexus Prime 支持页面弹出，传言规格泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/samsung-nexus-prime-support-page-pops-up-rumored-specs-trickle-out/>
 

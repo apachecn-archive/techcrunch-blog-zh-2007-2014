@@ -1,4 +1,4 @@
-# TC Cribs: Pinterest，在这里制作漂亮的东西是一种生活方式 TechCrunch
+# TC Cribs: Pinterest，在这里制作漂亮的东西是一种生活方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/tc-cribs-pinterest-tour-office/>
 

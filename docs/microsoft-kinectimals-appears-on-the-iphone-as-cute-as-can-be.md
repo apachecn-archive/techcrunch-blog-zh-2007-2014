@@ -1,4 +1,4 @@
-# 微软 Kinectimals 出现在 iPhone 上，可爱至极 TechCrunch
+# 微软 Kinectimals 出现在 iPhone 上，可爱至极 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/microsoft-kinectimals-appears-on-the-iphone-as-cute-as-can-be/>
 

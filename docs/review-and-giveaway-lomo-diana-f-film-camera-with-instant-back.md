@@ -1,4 +1,4 @@
-# 回顾和赠品:Lomo Diana F+胶片相机，带即时背面 TechCrunch
+# 回顾和赠品:Lomo Diana F+胶片相机，带即时背面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/20/review-and-giveaway-lomo-diana-f-film-camera-with-instant-back/>
 

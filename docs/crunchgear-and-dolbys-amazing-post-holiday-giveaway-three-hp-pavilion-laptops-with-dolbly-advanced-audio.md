@@ -1,4 +1,4 @@
-# CrunchGear 和杜比的惊人节后赠品:三台配备杜比高级音频的惠普 Pavilion 笔记本电脑 TechCrunch
+# CrunchGear 和杜比的惊人节后赠品:三台配备杜比高级音频的惠普 Pavilion 笔记本电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/01/crunchgear-and-dolbys-amazing-post-holiday-giveaway-three-hp-pavilion-laptops-with-dolbly-advanced-audio/>
 

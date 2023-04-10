@@ -1,4 +1,4 @@
-# 报告称谷歌以 1.51 亿美元收购 Zagat TechCrunch
+# 报告称谷歌以 1.51 亿美元收购 Zagat 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/report-puts-googles-zagat-purchase-at-151-million/>
 

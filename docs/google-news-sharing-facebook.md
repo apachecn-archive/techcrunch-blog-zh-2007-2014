@@ -1,4 +1,4 @@
-# 谷歌新闻试图与脸书分享，但按钮在哪里？TechCrunch
+# 谷歌新闻试图与脸书分享，但按钮在哪里？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/25/google-news-sharing-facebook/>
 

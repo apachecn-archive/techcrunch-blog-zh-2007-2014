@@ -1,4 +1,4 @@
-# Gmail 插件 Rapportive 从 Gmail Creator 和许多其他人那里筹集了 100 多万美元 TechCrunch
+# Gmail 插件 Rapportive 从 Gmail Creator 和许多其他人那里筹集了 100 多万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/02/rapportive-funding/>
 

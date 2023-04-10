@@ -1,4 +1,4 @@
-# Thermaltake 的移动风扇 12 是一个外置内置电脑风扇 TechCrunch
+# Thermaltake 的移动风扇 12 是一个外置内置电脑风扇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/thermaltakes-mobile-fan-12-is-an-external-internal-computer-fan/>
 

@@ -1,4 +1,4 @@
-# 电子游戏是艺术吗？TechCrunch
+# 电子游戏是艺术吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/19/are-video-games-art/>
 

@@ -1,4 +1,4 @@
-# 导航 App Waze 带动过去 500 万用户；添加文本到语音的语音指导 TechCrunch
+# 导航 App Waze 带动过去 500 万用户；添加文本到语音的语音指导 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/navigation-app-waze-drives-past-5-million-users-adds-text-to-speech-voice-guidance/>
 

@@ -1,4 +1,4 @@
-# Twitter 推出活动流，让主页成为仪表盘 TechCrunch
+# Twitter 推出活动流，让主页成为仪表盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/twitter-activity-rollout/>
 

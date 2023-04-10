@@ -1,4 +1,4 @@
-# 雅虎的 360 度大转变 TechCrunch
+# 雅虎的 360 度大转变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/21/yahoos-360-degree-turnaround/>
 

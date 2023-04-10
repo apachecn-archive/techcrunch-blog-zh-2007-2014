@@ -1,4 +1,4 @@
-# 想知道自己作为创业者的排名吗？参加方正研究所测试 TechCrunch
+# 想知道自己作为创业者的排名吗？参加方正研究所测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/21/want-to-know-how-you-rank-as-an-entrepreneur-take-the-founder-institute-test/>
 

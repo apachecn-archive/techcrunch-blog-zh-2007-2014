@@ -1,4 +1,4 @@
-# 谷歌地图 API 在开发者叛逃后大幅降价 TechCrunch
+# 谷歌地图 API 在开发者叛逃后大幅降价 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/22/google-maps-api-gets-massive-price-cut-in-the-wake-of-developer-defections/>
 

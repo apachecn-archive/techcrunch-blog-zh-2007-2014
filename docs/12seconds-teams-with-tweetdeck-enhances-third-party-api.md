@@ -1,4 +1,4 @@
-# 12 秒团队使用 TweetDeck，增强第三方 API TechCrunch
+# 12 秒团队使用 TweetDeck，增强第三方 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/24/12seconds-teams-with-tweetdeck-enhances-third-party-api/>
 

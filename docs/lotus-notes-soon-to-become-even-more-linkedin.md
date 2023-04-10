@@ -1,4 +1,4 @@
-# Lotus Notes 即将变得更加 LinkedIn TechCrunch
+# Lotus Notes 即将变得更加 LinkedIn 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/19/lotus-notes-soon-to-become-even-more-linkedin/>
 

@@ -1,4 +1,4 @@
-# 动漫展:赢得世嘉的魔兵惊天录 Xbox 360！TechCrunch
+# 动漫展:赢得世嘉的魔兵惊天录 Xbox 360！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/comic-con-win-a-bayonetta-xbox-360-from-sega/>
 

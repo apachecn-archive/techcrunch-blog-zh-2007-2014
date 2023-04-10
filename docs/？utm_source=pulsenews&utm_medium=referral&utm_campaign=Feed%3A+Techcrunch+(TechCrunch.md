@@ -1,4 +1,4 @@
-# 全世界都在纪念史蒂夫·乔布斯 TechCrunch
+# 全世界都在纪念史蒂夫·乔布斯 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/put-a-dent-in-the-universe/?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed%3A+Techcrunch+(TechCrunch>)
 

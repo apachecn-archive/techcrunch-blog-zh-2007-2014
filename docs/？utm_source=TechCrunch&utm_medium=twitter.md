@@ -1,4 +1,4 @@
-# Junaio 3.0 手机 AR 浏览器更新。现在也能扫描条形码了。TechCrunch
+# Junaio 3.0 手机 AR 浏览器更新。现在也能扫描条形码了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/junaio-3-0-mobile-ar-browser-update-now-scans-barcodes-too/?utm_source=TechCrunch&utm_medium=twitter>
 

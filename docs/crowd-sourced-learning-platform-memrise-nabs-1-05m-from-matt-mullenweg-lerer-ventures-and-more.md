@@ -1,4 +1,4 @@
-# 众包学习平台 Memrise 从马特·莫楞威格、Lerer Ventures 等公司获得 105 万美元！TechCrunch
+# 众包学习平台 Memrise 从马特·莫楞威格、Lerer Ventures 等公司获得 105 万美元！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/crowd-sourced-learning-platform-memrise-nabs-1-05m-from-matt-mullenweg-lerer-ventures-and-more/>
 

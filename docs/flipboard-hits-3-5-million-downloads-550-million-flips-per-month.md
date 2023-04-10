@@ -1,4 +1,4 @@
-# Flipboard 的下载量达到 350 万次，每月 5.5 亿次点击 TechCrunch
+# Flipboard 的下载量达到 350 万次，每月 5.5 亿次点击 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/flipboard-hits-3-5-million-downloads-550-million-flips-per-month/>
 

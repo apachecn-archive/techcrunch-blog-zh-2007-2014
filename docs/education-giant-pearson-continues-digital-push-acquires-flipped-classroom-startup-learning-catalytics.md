@@ -1,4 +1,4 @@
-# 教育巨头培生继续推进数字化，收购翻转课堂管理人员，学习催化剂 TechCrunch
+# 教育巨头培生继续推进数字化，收购翻转课堂管理人员，学习催化剂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/22/education-giant-pearson-continues-digital-push-acquires-flipped-classroom-startup-learning-catalytics/>
 

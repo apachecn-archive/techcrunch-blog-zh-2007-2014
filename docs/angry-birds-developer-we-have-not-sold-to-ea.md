@@ -1,4 +1,4 @@
-# 艺电以 2000 万美元收购了《愤怒的小鸟》出版商 Chillingo，却没有得到《愤怒的小鸟》TechCrunch
+# 艺电以 2000 万美元收购了《愤怒的小鸟》出版商 Chillingo，却没有得到《愤怒的小鸟》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/angry-birds-developer-we-have-not-sold-to-ea/>
 

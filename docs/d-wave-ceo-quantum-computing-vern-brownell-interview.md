@@ -1,4 +1,4 @@
-# D-Wave 首席执行官 Vern Brownell 谈量子计算和解决技术大问题 TechCrunch
+# D-Wave 首席执行官 Vern Brownell 谈量子计算和解决技术大问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/23/d-wave-ceo-quantum-computing-vern-brownell-interview/>
 

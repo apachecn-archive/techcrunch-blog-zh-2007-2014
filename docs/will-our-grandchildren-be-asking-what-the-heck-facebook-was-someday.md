@@ -1,4 +1,4 @@
-# 有一天我们的孙子会问脸书到底是什么吗？TechCrunch
+# 有一天我们的孙子会问脸书到底是什么吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/03/will-our-grandchildren-be-asking-what-the-heck-facebook-was-someday/>
 

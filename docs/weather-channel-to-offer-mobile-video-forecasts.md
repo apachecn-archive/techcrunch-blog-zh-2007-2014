@@ -1,4 +1,4 @@
-# 天气频道将提供移动视频预报 TechCrunch
+# 天气频道将提供移动视频预报 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/22/weather-channel-to-offer-mobile-video-forecasts/>
 

@@ -1,4 +1,4 @@
-# 视频:ShopSquad 的首席执行官解释他们的个人购物者网络 TechCrunch
+# 视频:ShopSquad 的首席执行官解释他们的个人购物者网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/24/video-shopsquads-ceo-explains-their-personal-shopper-network/>
 

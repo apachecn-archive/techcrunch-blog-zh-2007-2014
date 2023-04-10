@@ -1,4 +1,4 @@
-# 阿里巴巴副总裁在回应谷歌打压时说，有人能请谷歌给安卓下定义吗？TechCrunch
+# 阿里巴巴副总裁在回应谷歌打压时说，有人能请谷歌给安卓下定义吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/14/alibaba-vp-in-response-to-google-smackdown-will-someone-please-ask-google-to-define-android/>
 

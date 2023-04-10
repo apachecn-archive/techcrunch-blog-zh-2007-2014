@@ -1,4 +1,4 @@
-# Seedcamp 孵化 Seedhack 事件:一场充满活力的欧洲黑客马拉松 TechCrunch
+# Seedcamp 孵化 Seedhack 事件:一场充满活力的欧洲黑客马拉松 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/seedcamp-hatches-the-seedhack-event-a-european-hackathon-on-steroids/>
 

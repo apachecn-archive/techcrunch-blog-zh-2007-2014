@@ -1,4 +1,4 @@
-# 新 VEVO:音乐视频巨头增加个性化、脸书播放列表和连续播放 TechCrunch
+# 新 VEVO:音乐视频巨头增加个性化、脸书播放列表和连续播放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/09/the-new-vevo-music-video-giant-adds-personalization-facebook-playlists-continuous-play/>
 

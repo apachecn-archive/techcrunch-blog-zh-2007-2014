@@ -1,4 +1,4 @@
-# MBA 在创业界是加分还是减分？TechCrunch
+# MBA 在创业界是加分还是减分？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/05/08/is-an-mba-a-plus-or-a-minus-in-the-startup-world/>
 

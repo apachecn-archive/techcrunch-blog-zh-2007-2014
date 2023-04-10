@@ -1,4 +1,4 @@
-# 350Green 将在美国增加 400 多个电动汽车充电站 TechCrunch
+# 350Green 将在美国增加 400 多个电动汽车充电站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/350green-to-add-400-more-ev-charging-stations-across-u-s/>
 

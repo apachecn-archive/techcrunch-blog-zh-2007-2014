@@ -1,4 +1,4 @@
-# GaryVee 准备推出一个拘谨的灰姑娘葡萄酒俱乐部和美食图书馆 TechCrunch
+# GaryVee 准备推出一个拘谨的灰姑娘葡萄酒俱乐部和美食图书馆 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/05/garyvee-gets-set-to-launch-a-prissy-cinderella-wine-club-and-gourmet-library/>
 

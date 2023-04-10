@@ -1,4 +1,4 @@
-# MoID 希望帮助你记住你见过的人 TechCrunch
+# MoID 希望帮助你记住你见过的人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/who-was-that-guy/>
 

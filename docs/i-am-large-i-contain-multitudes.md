@@ -1,4 +1,4 @@
-# 棱镜网英文版更新了它的新闻发现应用程序，为你带来你感兴趣的最好的东西 TechCrunch
+# 棱镜网英文版更新了它的新闻发现应用程序，为你带来你感兴趣的最好的东西 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/i-am-large-i-contain-multitudes/>
 

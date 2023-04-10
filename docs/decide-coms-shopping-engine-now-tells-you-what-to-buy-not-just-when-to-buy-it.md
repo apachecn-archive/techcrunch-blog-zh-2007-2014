@@ -1,4 +1,4 @@
-# Decide.com 的购物引擎现在告诉你买什么，而不仅仅是什么时候买——TechCrunch
+# Decide.com 的购物引擎现在告诉你买什么，而不仅仅是什么时候买——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/decide-coms-shopping-engine-now-tells-you-what-to-buy-not-just-when-to-buy-it/>
 

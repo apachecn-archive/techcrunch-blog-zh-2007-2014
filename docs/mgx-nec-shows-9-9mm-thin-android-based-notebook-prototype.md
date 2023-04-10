@@ -1,4 +1,4 @@
-# MGX: NEC 展示 9.9 毫米薄、基于 Android 的笔记本原型机 TechCrunch
+# MGX: NEC 展示 9.9 毫米薄、基于 Android 的笔记本原型机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/mgx-nec-shows-9-9mm-thin-android-based-notebook-prototype/>
 

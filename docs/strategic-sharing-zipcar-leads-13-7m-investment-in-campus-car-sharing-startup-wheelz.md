@@ -1,4 +1,4 @@
-# 战略共享:Zipcar 领投 1370 万美元投资校园汽车共享初创公司 Wheelz TechCrunch
+# 战略共享:Zipcar 领投 1370 万美元投资校园汽车共享初创公司 Wheelz 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/22/strategic-sharing-zipcar-leads-13-7m-investment-in-campus-car-sharing-startup-wheelz/>
 

@@ -1,4 +1,4 @@
-# 丝绸之路 2 被黑，4000 多个比特币据称被盗 TechCrunch
+# 丝绸之路 2 被黑，4000 多个比特币据称被盗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/silk-road-2-hacked-88000-bitcoin-allegedly-stolen/>
 

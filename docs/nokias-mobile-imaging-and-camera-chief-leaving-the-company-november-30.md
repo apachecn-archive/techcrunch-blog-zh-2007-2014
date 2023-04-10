@@ -1,4 +1,4 @@
-# 诺基亚移动成像和相机首席执行官离职 11 月 30 日 TechCrunch
+# 诺基亚移动成像和相机首席执行官离职 11 月 30 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/23/nokias-mobile-imaging-and-camera-chief-leaving-the-company-november-30/>
 

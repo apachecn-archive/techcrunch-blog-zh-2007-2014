@@ -1,4 +1,4 @@
-# 早上好，纳迪娜姆:FlipZu 让你成为即时播报员 TechCrunch
+# 早上好，纳迪娜姆:FlipZu 让你成为即时播报员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/gooood-morning-nerdina/>
 

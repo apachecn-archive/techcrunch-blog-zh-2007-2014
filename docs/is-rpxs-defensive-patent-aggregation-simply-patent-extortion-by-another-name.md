@@ -1,4 +1,4 @@
-# RPX 的“防御性专利聚合”仅仅是另一种名称的专利勒索吗？TechCrunch
+# RPX 的“防御性专利聚合”仅仅是另一种名称的专利勒索吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/24/is-rpxs-defensive-patent-aggregation-simply-patent-extortion-by-another-name/>
 

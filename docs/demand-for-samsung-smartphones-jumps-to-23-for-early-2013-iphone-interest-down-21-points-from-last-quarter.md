@@ -1,4 +1,4 @@
-# 2013 年初，对三星智能手机的需求跃升至 23%，对 iPhone 的兴趣较上一季度下降了 21 个百分点 TechCrunch
+# 2013 年初，对三星智能手机的需求跃升至 23%，对 iPhone 的兴趣较上一季度下降了 21 个百分点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/demand-for-samsung-smartphones-jumps-to-23-for-early-2013-iphone-interest-down-21-points-from-last-quarter/>
 

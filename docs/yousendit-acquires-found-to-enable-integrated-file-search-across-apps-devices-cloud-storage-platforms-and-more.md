@@ -1,4 +1,4 @@
-# YouSendIt 收购 Found，实现跨应用、设备、云存储平台等的集成文件搜索 TechCrunch
+# YouSendIt 收购 Found，实现跨应用、设备、云存储平台等的集成文件搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/yousendit-acquires-found-to-enable-integrated-file-search-across-apps-devices-cloud-storage-platforms-and-more/>
 

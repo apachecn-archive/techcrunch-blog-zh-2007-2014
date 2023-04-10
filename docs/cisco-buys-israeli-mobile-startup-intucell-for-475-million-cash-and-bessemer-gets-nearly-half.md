@@ -1,4 +1,4 @@
-# 思科将以 4.75 亿美元现金收购以色列移动初创公司 Intucell，Bessemer 将获得近一半 TechCrunch
+# 思科将以 4.75 亿美元现金收购以色列移动初创公司 Intucell，Bessemer 将获得近一半 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/23/cisco-buys-israeli-mobile-startup-intucell-for-475-million-cash-and-bessemer-gets-nearly-half/>
 

@@ -1,4 +1,4 @@
-# 程序员招聘平台 CodeEval 现已停止测试 TechCrunch
+# 程序员招聘平台 CodeEval 现已停止测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/09/coder-recruiting-platform-codeeval-now-out-of-beta/>
 

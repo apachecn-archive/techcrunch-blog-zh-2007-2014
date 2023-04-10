@@ -1,4 +1,4 @@
-# 为什么 Quora Mass 要在 Mechanical Turk 上创建 Twitter 账户？TechCrunch
+# 为什么 Quora Mass 要在 Mechanical Turk 上创建 Twitter 账户？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/why-is-quora-mass-creating-twitter-accounts-on-mechanical-turk/>
 

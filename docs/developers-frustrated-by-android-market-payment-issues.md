@@ -1,4 +1,4 @@
-# 开发者对 Android 市场支付问题感到沮丧 TechCrunch
+# 开发者对 Android 市场支付问题感到沮丧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/developers-frustrated-by-android-market-payment-issues/>
 

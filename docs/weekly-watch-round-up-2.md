@@ -1,4 +1,4 @@
-# 每周观察综述 TechCrunch
+# 每周观察综述 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/30/weekly-watch-round-up-2/>
 

@@ -1,4 +1,4 @@
-# Salesforce 推出全新 Radian6 社交营销和监控云 TechCrunch
+# Salesforce 推出全新 Radian6 社交营销和监控云 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/salesforce-debuts-the-new-radian6-powered-social-marketing-and-monitoring-cloud/>
 

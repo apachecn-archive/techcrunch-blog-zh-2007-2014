@@ -1,4 +1,4 @@
-# 全球范围内的大变动。首席执行官纳瓦罗赖特被拉赛尔·西蒙斯推到一边。TechCrunch
+# 全球范围内的大变动。首席执行官纳瓦罗赖特被拉赛尔·西蒙斯推到一边。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/17/shake-up-at-the-global-grind-ceo-navarrow-wright-shoved-aside-by-russell-simmons/>
 

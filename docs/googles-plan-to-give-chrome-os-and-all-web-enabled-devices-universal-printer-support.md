@@ -1,4 +1,4 @@
-# 谷歌计划为 Chrome 操作系统(以及所有支持网络的设备)提供通用打印机支持 TechCrunch
+# 谷歌计划为 Chrome 操作系统(以及所有支持网络的设备)提供通用打印机支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/15/googles-plan-to-give-chrome-os-and-all-web-enabled-devices-universal-printer-support/>
 

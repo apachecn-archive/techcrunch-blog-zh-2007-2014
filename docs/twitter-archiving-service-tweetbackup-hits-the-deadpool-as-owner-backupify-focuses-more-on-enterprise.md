@@ -1,4 +1,4 @@
-# Twitter 存档服务 TweetBackup 陷入停滞，因为所有者 Backupify 更加关注企业 TechCrunch
+# Twitter 存档服务 TweetBackup 陷入停滞，因为所有者 Backupify 更加关注企业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/15/twitter-archiving-service-tweetbackup-hits-the-deadpool-as-owner-backupify-focuses-more-on-enterprise/>
 

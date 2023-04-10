@@ -1,4 +1,4 @@
-# 已证实:Fancy 收购 Samplrs.com 以加强其手工食品业务 TechCrunch
+# 已证实:Fancy 收购 Samplrs.com 以加强其手工食品业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/22/fancy-reportedly-buys-samplrs-com-to-beef-up-its-artisanal-food-business/>
 

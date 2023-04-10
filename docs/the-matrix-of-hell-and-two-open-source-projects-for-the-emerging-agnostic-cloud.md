@@ -1,4 +1,4 @@
-# 地狱矩阵和两个针对新兴不可知论云的开源项目 TechCrunch
+# 地狱矩阵和两个针对新兴不可知论云的开源项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/28/the-matrix-of-hell-and-two-open-source-projects-for-the-emerging-agnostic-cloud/>
 

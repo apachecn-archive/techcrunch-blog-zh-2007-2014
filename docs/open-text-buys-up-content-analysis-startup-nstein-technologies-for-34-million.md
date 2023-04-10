@@ -1,4 +1,4 @@
-# Open Text 以 3400 万美元收购内容分析初创公司 Nstein Technologies TechCrunch
+# Open Text 以 3400 万美元收购内容分析初创公司 Nstein Technologies 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/open-text-buys-up-content-analysis-startup-nstein-technologies-for-34-million/>
 

@@ -1,4 +1,4 @@
-# 你的 iPhone 的价值每秒都在下降，所以试试这个 TechCrunch
+# 你的 iPhone 的价值每秒都在下降，所以试试这个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/31/the-value-of-your-iphone-drops-every-second-so-try-this/>
 

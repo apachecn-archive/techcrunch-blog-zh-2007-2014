@@ -1,4 +1,4 @@
-# 新的谷歌桌面地图带回了 Pegman，增加了 Waze 数据和 3D 地球之旅 TechCrunch
+# 新的谷歌桌面地图带回了 Pegman，增加了 Waze 数据和 3D 地球之旅 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/06/new-google-maps-for-desktop-brings-back-pegman-adds-waze-data-and-3d-earth-tours/>
 

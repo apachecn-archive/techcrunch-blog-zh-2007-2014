@@ -1,4 +1,4 @@
-# Spotify 播放可以增加 iTunes 的销量。这里有证据！TechCrunch
+# Spotify 播放可以增加 iTunes 的销量。这里有证据！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/06/spotify-increase-itunes-sales/>
 

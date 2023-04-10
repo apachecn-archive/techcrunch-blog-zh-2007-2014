@@ -1,4 +1,4 @@
-# 更新:交友网站 Badoo 有没有找到热不热形式的恋爱对象？TechCrunch
+# 更新:交友网站 Badoo 有没有找到热不热形式的恋爱对象？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/02/has-dating-site-badoo-found-a-love-match-in-the-form-of-hotornot/>
 

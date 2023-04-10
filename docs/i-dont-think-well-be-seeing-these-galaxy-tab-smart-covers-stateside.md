@@ -1,4 +1,4 @@
-# 我不认为我们会在美国看到这些 Galaxy Tab 智能外壳 TechCrunch
+# 我不认为我们会在美国看到这些 Galaxy Tab 智能外壳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/i-dont-think-well-be-seeing-these-galaxy-tab-smart-covers-stateside/>
 

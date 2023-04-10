@@ -1,4 +1,4 @@
-# 彭博终端为员工提供比特币股票 TechCrunch
+# 彭博终端为员工提供比特币股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/09/bitcoin-ticker-available-on-bloomberg-terminal/>
 

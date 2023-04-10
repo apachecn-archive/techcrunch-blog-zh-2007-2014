@@ -1,4 +1,4 @@
-# 调查显示:63%的人会忽略这个页面上的广告 TechCrunch
+# 调查显示:63%的人会忽略这个页面上的广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/03/survey-says-63-of-you-ignore-the-ads-on-this-very-page/>
 

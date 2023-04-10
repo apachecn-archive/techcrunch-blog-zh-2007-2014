@@ -1,4 +1,4 @@
-# DoubleTwist 增加了脸书和推特分享功能，现在你的朋友也可以收听了 TechCrunch
+# DoubleTwist 增加了脸书和推特分享功能，现在你的朋友也可以收听了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/doubletwist-adds-facebook-twitter-sharing-now-lets-your-friends-listen-too/>
 

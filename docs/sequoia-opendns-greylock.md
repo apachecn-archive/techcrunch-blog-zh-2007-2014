@@ -1,4 +1,4 @@
-# 红杉、格雷洛克入股 OpenDNS TechCrunch
+# 红杉、格雷洛克入股 OpenDNS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/07/sequoia-opendns-greylock/>
 

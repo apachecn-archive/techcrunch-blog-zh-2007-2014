@@ -1,4 +1,4 @@
-# 300 英尺无人机驱动的黑客预见了一个充斥着空中全方位应用程序的未来 TechCrunch
+# 300 英尺无人机驱动的黑客预见了一个充斥着空中全方位应用程序的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/300ft-hackathon/>
 

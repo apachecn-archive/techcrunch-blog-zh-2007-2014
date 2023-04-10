@@ -1,4 +1,4 @@
-# Exhibit 4G II 是 T-Mobile 首款非合约 4G Android 手机，将于 10 月 27 日发布，售价 200 美元 TechCrunch
+# Exhibit 4G II 是 T-Mobile 首款非合约 4G Android 手机，将于 10 月 27 日发布，售价 200 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/t-mobile-exhibit-4g-ii/>
 

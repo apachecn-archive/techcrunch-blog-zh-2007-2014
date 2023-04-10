@@ -1,4 +1,4 @@
-# 脸书的功能手机平台拥有 1 亿用户，大部分在新兴市场 TechCrunch
+# 脸书的功能手机平台拥有 1 亿用户，大部分在新兴市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/21/facebooks-feature-phone-platform-scores-100m-users-most-in-emerging-markets/>
 

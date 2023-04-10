@@ -1,4 +1,4 @@
-# 豪华汽车共享服务 HiGear 推出“交换俱乐部”，允许车主交换汽车 TechCrunch
+# 豪华汽车共享服务 HiGear 推出“交换俱乐部”，允许车主交换汽车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/luxury-car-sharing-service-higear-launches-swap-club-allowing-vehicle-owners-to-trade-cars/>
 

@@ -1,4 +1,4 @@
-# 猫途鹰从 Expedia 剥离，在纳斯达克上市 TechCrunch
+# 猫途鹰从 Expedia 剥离，在纳斯达克上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/21/tripadvisor-spins-off-from-expedia-takes-flight-on-the-nasdaq-as-a-public-company/>
 

@@ -1,4 +1,4 @@
-# 谷歌到底在用 Orkut 做什么？TechCrunch
+# 谷歌到底在用 Orkut 做什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/20/what-on-earth-is-google-doing-with-orkut/>
 

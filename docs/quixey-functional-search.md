@@ -1,4 +1,4 @@
-# 语义应用搜索引擎 Quixey 现在挖掘应用本身，为您提供直接结果 TechCrunch
+# 语义应用搜索引擎 Quixey 现在挖掘应用本身，为您提供直接结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/quixey-functional-search/>
 

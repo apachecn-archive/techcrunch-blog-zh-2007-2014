@@ -1,4 +1,4 @@
-# Cubeduel 传播太快，被 LinkedIn API 限制绊倒 TechCrunch
+# Cubeduel 传播太快，被 LinkedIn API 限制绊倒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/14/cubeduel-goes-viral-too-quickly-stumbles-over-linkedin-api-limits/>
 

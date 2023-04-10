@@ -1,4 +1,4 @@
-# Imeem 在任何地方都会吞并一家年轻的初创公司。FM TechCrunch
+# Imeem 在任何地方都会吞并一家年轻的初创公司。FM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/28/imeem-gobbles-up-a-young-startup-anywherefm/>
 

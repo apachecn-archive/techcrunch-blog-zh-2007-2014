@@ -1,4 +1,4 @@
-# 黑客马拉松参赛者 HeatData 痴迷于追踪人们如何与移动应用程序互动 TechCrunch
+# 黑客马拉松参赛者 HeatData 痴迷于追踪人们如何与移动应用程序互动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/09/hackathon-contestant-heatdata-tctv/>
 

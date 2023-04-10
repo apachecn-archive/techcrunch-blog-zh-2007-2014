@@ -1,4 +1,4 @@
-# 雅虎将于四月加入 OpenSocial，微软抱怨。TechCrunch
+# 雅虎将于四月加入 OpenSocial，微软抱怨。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/12/yahoo-to-join-opensocial-in-april/>
 

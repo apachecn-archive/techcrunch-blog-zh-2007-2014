@@ -1,4 +1,4 @@
-# 80 年代三连胜壁纸:Nerf，Zapper，超级酒鬼 TechCrunch
+# 80 年代三连胜壁纸:Nerf，Zapper，超级酒鬼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/28/80s-trifecta-wallpaper-nerf-zapper-super-soaker/>
 

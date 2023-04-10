@@ -1,4 +1,4 @@
-# SharesPost 报告:Groupon 交易价值 60 亿美元 TechCrunch
+# SharesPost 报告:Groupon 交易价值 60 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/03/groupon-sharespost-6-billion/>
 

@@ -1,4 +1,4 @@
-# Scanadu 完成 1050 万美元的 A 轮融资，准备让其医疗三录仪通过临床测试 TechCrunch
+# Scanadu 完成 1050 万美元的 A 轮融资，准备让其医疗三录仪通过临床测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/scanadu-closes-10-5m-series-a-round-gearing-up-to-send-its-medical-tricorder-through-clinical-testing/>
 

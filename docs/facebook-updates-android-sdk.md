@@ -1,4 +1,4 @@
-# 脸书更新了其 Android SDK，使其与 iOS SDK 保持一致，以将更多 Android 开发人员纳入其移动领域 TechCrunch
+# 脸书更新了其 Android SDK，使其与 iOS SDK 保持一致，以将更多 Android 开发人员纳入其移动领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/20/facebook-updates-android-sdk/>
 

@@ -1,4 +1,4 @@
-# Mac App Store 提供了 OS X 雄狮的味道和平台的未来 TechCrunch
+# Mac App Store 提供了 OS X 雄狮的味道和平台的未来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/06/mac-app-store-review/>
 

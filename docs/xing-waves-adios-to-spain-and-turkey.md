@@ -1,4 +1,4 @@
-# 邢向西班牙挥手告别...土耳其 TechCrunch
+# 邢向西班牙挥手告别...土耳其 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/22/xing-waves-adios-to-spain-and-turkey/>
 

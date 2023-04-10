@@ -1,4 +1,4 @@
-# 谷歌推出图片搜索广告-您的广告现在带有图片缩略图 TechCrunch
+# 谷歌推出图片搜索广告-您的广告现在带有图片缩略图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/20/google-image-search-ads/>
 

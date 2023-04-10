@@ -1,4 +1,4 @@
-# 24/7 3D 网络 3net 将儿童友好的内容带入第三维 TechCrunch
+# 24/7 3D 网络 3net 将儿童友好的内容带入第三维 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/247-3d-network-3net-brings-kid-friendly-content-to-the-third-dimension/>
 

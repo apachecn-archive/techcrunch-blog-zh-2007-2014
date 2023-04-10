@@ -1,4 +1,4 @@
-# Yummly 的语义搜索引擎是美食家的终极在线食谱 TechCrunch
+# Yummly 的语义搜索引擎是美食家的终极在线食谱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/21/yummlys-semantic-search-engine-is-the-ultimate-online-cookbook-for-foodies/>
 

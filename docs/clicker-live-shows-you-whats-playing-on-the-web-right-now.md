@@ -1,4 +1,4 @@
-# Clicker Live 向您展示网络上正在播放的内容 TechCrunch
+# Clicker Live 向您展示网络上正在播放的内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/04/clicker-live-shows-you-whats-playing-on-the-web-right-now/>
 

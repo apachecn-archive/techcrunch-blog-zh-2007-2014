@@ -1,4 +1,4 @@
-# 企业家如何创造自己的运气 TechCrunch
+# 企业家如何创造自己的运气 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/05/how-entrepreneurs-can-create-their-own-luck/>
 

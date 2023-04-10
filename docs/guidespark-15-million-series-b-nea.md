@@ -1,4 +1,4 @@
-# GuideSpark 筹集 1500 万美元成为您的一站式人力资源培训资源 TechCrunch
+# GuideSpark 筹集 1500 万美元成为您的一站式人力资源培训资源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/guidespark-15-million-series-b-nea/>
 

@@ -1,4 +1,4 @@
-# Silent Circle 专注于隐私的 Blackphone 以 629 美元的价格接受预购 TechCrunch
+# Silent Circle 专注于隐私的 Blackphone 以 629 美元的价格接受预购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/blackphone-pre-orders/>
 

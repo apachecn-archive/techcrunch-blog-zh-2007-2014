@@ -1,4 +1,4 @@
-# 在两周内第二次陷入黑暗之后，Tumblr 逐渐重新上线 TechCrunch
+# 在两周内第二次陷入黑暗之后，Tumblr 逐渐重新上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/after-going-dark-for-the-second-time-in-two-weeks-tumblr-is-coming-back-online/>
 

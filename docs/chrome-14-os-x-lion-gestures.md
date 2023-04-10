@@ -1,4 +1,4 @@
-# 好处:Chrome 获得了 OS X 狮子的双指手势！坏处:他们落后了。TechCrunch
+# 好处:Chrome 获得了 OS X 狮子的双指手势！坏处:他们落后了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/chrome-14-os-x-lion-gestures/>
 

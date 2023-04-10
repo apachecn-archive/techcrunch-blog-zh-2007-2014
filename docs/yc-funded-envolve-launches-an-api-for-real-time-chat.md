@@ -1,4 +1,4 @@
-# YC 资助的 Envolve 推出实时聊天应用编程接口 TechCrunch
+# YC 资助的 Envolve 推出实时聊天应用编程接口 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/10/yc-funded-envolve-launches-an-api-for-real-time-chat/>
 

@@ -1,4 +1,4 @@
-# 赫兹宣布投资租赁汽车设施的太阳能系统 TechCrunch
+# 赫兹宣布投资租赁汽车设施的太阳能系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/hertz-announces-investment-in-solar-systems-at-rental-car-facilities/>
 

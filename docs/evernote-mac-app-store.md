@@ -1,4 +1,4 @@
-# Evernote 登陆苹果应用商店第一周的四个教训 TechCrunch
+# Evernote 登陆苹果应用商店第一周的四个教训 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/evernote-mac-app-store/>
 

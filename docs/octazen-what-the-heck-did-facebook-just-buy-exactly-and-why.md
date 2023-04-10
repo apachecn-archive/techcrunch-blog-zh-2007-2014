@@ -1,4 +1,4 @@
-# 奥克塔森:脸书到底买了什么，为什么？TechCrunch
+# 奥克塔森:脸书到底买了什么，为什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/19/octazen-what-the-heck-did-facebook-just-buy-exactly-and-why/>
 

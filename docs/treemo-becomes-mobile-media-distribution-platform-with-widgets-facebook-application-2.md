@@ -1,4 +1,4 @@
-# Treemo 成为拥有 Widgets 的移动媒体分发平台，脸书应用 TechCrunch
+# Treemo 成为拥有 Widgets 的移动媒体分发平台，脸书应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/19/treemo-becomes-mobile-media-distribution-platform-with-widgets-facebook-application-2/>
 

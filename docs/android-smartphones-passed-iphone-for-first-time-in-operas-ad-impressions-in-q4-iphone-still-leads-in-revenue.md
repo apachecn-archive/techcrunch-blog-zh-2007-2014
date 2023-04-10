@@ -1,4 +1,4 @@
-# 第四季度，Android 智能手机在 Opera 的广告印象中首次超过 iPhone，iPhone 在收入方面仍然领先 TechCrunch
+# 第四季度，Android 智能手机在 Opera 的广告印象中首次超过 iPhone，iPhone 在收入方面仍然领先 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/android-smartphones-passed-iphone-for-first-time-in-operas-ad-impressions-in-q4-iphone-still-leads-in-revenue/>
 

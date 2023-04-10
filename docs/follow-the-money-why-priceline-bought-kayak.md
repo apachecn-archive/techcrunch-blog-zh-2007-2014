@@ -1,4 +1,4 @@
-# 跟着钱走:为什么 Priceline 收购 Kayak TechCrunch
+# 跟着钱走:为什么 Priceline 收购 Kayak 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/22/follow-the-money-why-priceline-bought-kayak/>
 

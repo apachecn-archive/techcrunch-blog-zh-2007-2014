@@ -1,4 +1,4 @@
-# Skype 推出新的 iOS 版 Wi-Fi Finder TechCrunch
+# Skype 推出新的 iOS 版 Wi-Fi Finder 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/skype-launches-new-wifi-finder-for-ios/>
 

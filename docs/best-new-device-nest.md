@@ -1,4 +1,4 @@
-# 最佳新设备:nest TechCrunch
+# 最佳新设备:nest 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/best-new-device-nest/>
 

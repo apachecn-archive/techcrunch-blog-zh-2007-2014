@@ -1,4 +1,4 @@
-# 优步和 Trulia 合作为潜在租车者提供乘车折扣 TechCrunch
+# 优步和 Trulia 合作为潜在租车者提供乘车折扣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/uber-and-trulia-partner-to-give-prospective-renters-discounts-on-car-rides/>
 

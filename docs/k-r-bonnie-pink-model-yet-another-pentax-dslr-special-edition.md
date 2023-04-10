@@ -1,4 +1,4 @@
-# “K-r BONNIE PINK MODEL”:又一款宾得 DSLR 特别版 TechCrunch
+# “K-r BONNIE PINK MODEL”:又一款宾得 DSLR 特别版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/k-r-bonnie-pink-model-yet-another-pentax-dslr-special-edition/>
 

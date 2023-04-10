@@ -1,4 +1,4 @@
-# 随着 Android 增长趋于平稳，iOS 和 RIM 在 Q2 的移动广告投放有所增加 TechCrunch
+# 随着 Android 增长趋于平稳，iOS 和 RIM 在 Q2 的移动广告投放有所增加 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/ios-rim-mobile-ad-impressions-pick-up-in-q2-as-android-growth-levels-off/>
 

@@ -1,4 +1,4 @@
-# Wacom 的新 WILL 项目旨在用数字墨水创造一种新的通用计算语言 TechCrunch
+# Wacom 的新 WILL 项目旨在用数字墨水创造一种新的通用计算语言 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/26/wacom-project-will-digital-ink/>
 

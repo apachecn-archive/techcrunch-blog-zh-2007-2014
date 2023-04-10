@@ -1,4 +1,4 @@
-# 比尔·科斯比，新可乐最大的支持者，想要加入新的 Digg TechCrunch
+# 比尔·科斯比，新可乐最大的支持者，想要加入新的 Digg 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/08/17/bill-cosby-twitter-spam/>
 

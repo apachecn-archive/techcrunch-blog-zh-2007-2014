@@ -1,4 +1,4 @@
-# 婚礼初创公司 Appy 夫妇的等候名单超过 7000 人，目前仍处于测试阶段 TechCrunch
+# 婚礼初创公司 Appy 夫妇的等候名单超过 7000 人，目前仍处于测试阶段 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/02/wedding-startup-appy-couple-has-a-wait-list-7000-strong-and-its-still-in-beta/>
 

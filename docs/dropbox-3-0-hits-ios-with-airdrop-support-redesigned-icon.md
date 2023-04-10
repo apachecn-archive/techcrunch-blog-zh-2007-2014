@@ -1,4 +1,4 @@
-# Dropbox 3.0 登陆 iOS，支持隔空投送，重新设计图标 TechCrunch
+# Dropbox 3.0 登陆 iOS，支持隔空投送，重新设计图标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/22/dropbox-3-0-hits-ios-with-airdrop-support-redesigned-icon/>
 

@@ -1,4 +1,4 @@
-# 在圣安东尼奥，污水中的温室气体被储存起来并作为能源出售 TechCrunch
+# 在圣安东尼奥，污水中的温室气体被储存起来并作为能源出售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/21/new-san-antonio-biogas-plant/>
 

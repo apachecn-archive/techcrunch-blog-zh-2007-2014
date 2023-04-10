@@ -1,4 +1,4 @@
-# AppRedeem 推出应用内交易，将免费应用的用户推向付费版本 TechCrunch
+# AppRedeem 推出应用内交易，将免费应用的用户推向付费版本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/appredeem-launches-in-app-deals-to-drive-users-of-free-apps-to-their-paid-versions/>
 

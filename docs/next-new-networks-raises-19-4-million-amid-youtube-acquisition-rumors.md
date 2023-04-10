@@ -1,4 +1,4 @@
-# 下一个新的网络 SEC 文件几乎证实了 YouTube 收购 TechCrunch
+# 下一个新的网络 SEC 文件几乎证实了 YouTube 收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/next-new-networks-raises-19-4-million-amid-youtube-acquisition-rumors/>
 

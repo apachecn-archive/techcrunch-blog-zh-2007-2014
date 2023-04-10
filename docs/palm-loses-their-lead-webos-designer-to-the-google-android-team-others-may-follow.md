@@ -1,4 +1,4 @@
-# Palm 的首席 webOS 设计师被谷歌 Android 团队抢走，其他人可能会效仿 TechCrunch
+# Palm 的首席 webOS 设计师被谷歌 Android 团队抢走，其他人可能会效仿 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/05/27/palm-loses-their-lead-webos-designer-to-the-google-android-team-others-may-follow/>
 

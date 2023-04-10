@@ -1,4 +1,4 @@
-# 谷歌的数据中心都在哪里？TechCrunch
+# 谷歌的数据中心都在哪里？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/11/where-are-all-the-google-data-centers/>
 

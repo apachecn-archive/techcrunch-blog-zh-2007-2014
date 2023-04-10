@@ -1,4 +1,4 @@
-# Pinterest 寄希望于国际增长，从本地化“Pin It Forward”活动开始，推动更多英国帖子 TechCrunch
+# Pinterest 寄希望于国际增长，从本地化“Pin It Forward”活动开始，推动更多英国帖子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/pinterest-pin-it-forward/>
 

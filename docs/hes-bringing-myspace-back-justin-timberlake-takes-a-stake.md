@@ -1,4 +1,4 @@
-# 他要让 Myspace 回归:贾斯汀·汀布莱克入股 TechCrunch
+# 他要让 Myspace 回归:贾斯汀·汀布莱克入股 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/hes-bringing-myspace-back-justin-timberlake-takes-a-stake/>
 

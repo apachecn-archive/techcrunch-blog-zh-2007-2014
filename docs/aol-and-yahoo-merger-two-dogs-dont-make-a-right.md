@@ -1,4 +1,4 @@
-# AOL 和雅虎合并？两只狗不一定是对的 TechCrunch
+# AOL 和雅虎合并？两只狗不一定是对的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/aol-and-yahoo-merger-two-dogs-dont-make-a-right/>
 

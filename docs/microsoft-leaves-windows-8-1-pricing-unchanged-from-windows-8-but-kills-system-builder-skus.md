@@ -1,4 +1,4 @@
-# 微软保持 Windows 8.1 价格不变，但取消了系统构建商 SKU TechCrunch
+# 微软保持 Windows 8.1 价格不变，但取消了系统构建商 SKU 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/17/microsoft-leaves-windows-8-1-pricing-unchanged-from-windows-8-but-kills-system-builder-skus/>
 

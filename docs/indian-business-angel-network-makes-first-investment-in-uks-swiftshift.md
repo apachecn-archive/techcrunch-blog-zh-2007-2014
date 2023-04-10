@@ -1,4 +1,4 @@
-# 印度天使投资人网络首次投资英国 swift shift TechCrunch
+# 印度天使投资人网络首次投资英国 swift shift 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/01/indian-business-angel-network-makes-first-investment-in-uks-swiftshift/>
 

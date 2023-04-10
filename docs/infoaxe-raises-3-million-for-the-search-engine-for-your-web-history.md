@@ -1,4 +1,4 @@
-# InfoAxe 为你的网络历史搜索引擎筹集了 300 万美元 TechCrunch
+# InfoAxe 为你的网络历史搜索引擎筹集了 300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/infoaxe-raises-3-million-for-the-search-engine-for-your-web-history/>
 

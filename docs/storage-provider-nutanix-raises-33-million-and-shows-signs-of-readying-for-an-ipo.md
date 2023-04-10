@@ -1,4 +1,4 @@
-# 存储提供商 Nutanix 融资 3300 万美元，并显示出准备 IPO 的迹象 TechCrunch
+# 存储提供商 Nutanix 融资 3300 万美元，并显示出准备 IPO 的迹象 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/22/storage-provider-nutanix-raises-33-million-and-shows-signs-of-readying-for-an-ipo/>
 

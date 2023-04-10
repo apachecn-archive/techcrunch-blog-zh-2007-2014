@@ -1,4 +1,4 @@
-# OUYA 发运 1200 台开发控制台，在视频上展示其预发布的 Android 游戏硬件 TechCrunch
+# OUYA 发运 1200 台开发控制台，在视频上展示其预发布的 Android 游戏硬件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/28/ouya-ships-1200-development-consoles-shows-off-its-pre-release-android-gaming-hardware-on-video/>
 

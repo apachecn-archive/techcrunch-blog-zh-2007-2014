@@ -1,4 +1,4 @@
-# 认识一下 Reddit 的新任首席执行官:脸书校友/ Quora 明星易山“火花裤”Wong TechCrunch
+# 认识一下 Reddit 的新任首席执行官:脸书校友/ Quora 明星易山“火花裤”Wong 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/new-reddit-ceo-yishan-wong/>
 

@@ -1,4 +1,4 @@
-# 脸书和谷歌在 2011 年第三季度花了创纪录的金额在华盛顿游说 TechCrunch
+# 脸书和谷歌在 2011 年第三季度花了创纪录的金额在华盛顿游说 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/facebook-and-google-spent-record-amounts-on-d-c-lobbying-in-q3-2011/>
 

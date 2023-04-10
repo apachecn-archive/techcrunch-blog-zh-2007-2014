@@ -1,4 +1,4 @@
-# 五个月内，200 万个网站使用脸书的新社交插件 TechCrunch
+# 五个月内，200 万个网站使用脸书的新社交插件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/29/five-months-in-2-million-websites-using-facebooks-new-social-plugins/>
 

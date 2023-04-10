@@ -1,4 +1,4 @@
-# Attendi 想探索你的大脑 TechCrunch
+# Attendi 想探索你的大脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/24/attendi-wants-to-search-inside-your-head/>
 

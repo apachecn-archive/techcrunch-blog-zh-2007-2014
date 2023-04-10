@@ -1,4 +1,4 @@
-# Salesforce 以 3.26 亿美元收购社交媒体监控公司 radian 6 TechCrunch
+# Salesforce 以 3.26 亿美元收购社交媒体监控公司 radian 6 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/30/salesforce-buys-social-media-monitoring-company-radian6-for-326-million/>
 

@@ -1,4 +1,4 @@
-# 我要我的 Ubuntu 电视！TechCrunch
+# 我要我的 Ubuntu 电视！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/i-want-my-ubuntu-tv/>
 

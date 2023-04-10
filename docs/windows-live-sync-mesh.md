@@ -1,4 +1,4 @@
-# Windows Live Sync 将存储空间升级到 5GB，成为 Windows Live Mesh TechCrunch
+# Windows Live Sync 将存储空间升级到 5GB，成为 Windows Live Mesh 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/27/windows-live-sync-mesh/>
 

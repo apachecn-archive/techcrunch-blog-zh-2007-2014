@@ -1,4 +1,4 @@
-# 向 FundersClub 推荐一家初创公司进行众筹，如果它退出，就能获得报酬 TechCrunch
+# 向 FundersClub 推荐一家初创公司进行众筹，如果它退出，就能获得报酬 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/19/fundersclub-refer/>
 

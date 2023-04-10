@@ -1,4 +1,4 @@
-# 索尼、日立和东芝宣布正式合并 LCD 业务 TechCrunch
+# 索尼、日立和东芝宣布正式合并 LCD 业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/31/sony-hitachi-and-toshiba-make-their-lcd-business-merger-official/>
 

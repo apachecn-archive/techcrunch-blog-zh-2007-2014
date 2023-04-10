@@ -1,4 +1,4 @@
-# 电子书出版商 Inkling 推出自己的在线商店:图文并茂的学习内容亚马逊 TechCrunch
+# 电子书出版商 Inkling 推出自己的在线商店:图文并茂的学习内容亚马逊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/01/ebook-publisher-inkling-launches-its-own-online-store-an-amazon-for-illustrated-learning-content/>
 

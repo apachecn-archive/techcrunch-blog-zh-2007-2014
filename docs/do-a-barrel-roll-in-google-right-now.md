@@ -1,4 +1,4 @@
-# 做桶滚！在谷歌！就现在！TechCrunch
+# 做桶滚！在谷歌！就现在！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/do-a-barrel-roll-in-google-right-now/>
 

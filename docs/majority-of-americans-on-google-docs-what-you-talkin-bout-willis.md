@@ -1,4 +1,4 @@
-# 大多数美国人在谷歌文档上问:“你在说什么，威利斯？”TechCrunch
+# 大多数美国人在谷歌文档上问:“你在说什么，威利斯？”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/18/majority-of-americans-on-google-docs-what-you-talkin-bout-willis/>
 

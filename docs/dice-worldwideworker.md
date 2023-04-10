@@ -1,4 +1,4 @@
-# Dice 支付高达 900 万美元收购 world wide worker TechCrunch
+# Dice 支付高达 900 万美元收购 world wide worker 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/10/dice-worldwideworker/>
 

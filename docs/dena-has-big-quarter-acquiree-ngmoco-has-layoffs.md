@@ -1,4 +1,4 @@
-# DeNA 有很大一个季度，被收购方 Ngmoco:(已经裁员 TechCrunch
+# DeNA 有很大一个季度，被收购方 Ngmoco:(已经裁员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/08/dena-has-big-quarter-acquiree-ngmoco-has-layoffs/>
 

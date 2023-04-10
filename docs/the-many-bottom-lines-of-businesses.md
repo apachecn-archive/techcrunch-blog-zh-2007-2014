@@ -1,4 +1,4 @@
-# 企业的许多底线 TechCrunch
+# 企业的许多底线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/18/the-many-bottom-lines-of-businesses/>
 

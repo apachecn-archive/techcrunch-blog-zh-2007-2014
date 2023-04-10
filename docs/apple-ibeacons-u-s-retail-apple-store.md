@@ -1,4 +1,4 @@
-# 苹果在美国所有 254 家商店都开启了 iBeacons，提供店内通知等服务 TechCrunch
+# 苹果在美国所有 254 家商店都开启了 iBeacons，提供店内通知等服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/06/apple-ibeacons-u-s-retail-apple-store/>
 

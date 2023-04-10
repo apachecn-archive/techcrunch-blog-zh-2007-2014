@@ -1,4 +1,4 @@
-# 谷歌推动绿色建筑，以身作则 TechCrunch
+# 谷歌推动绿色建筑，以身作则 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/google-pushes-for-greener-buildings-leads-by-example/>
 

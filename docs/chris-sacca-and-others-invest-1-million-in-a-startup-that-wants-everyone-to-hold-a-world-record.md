@@ -1,4 +1,4 @@
-# Chris Sacca 和其他人向一家希望每个人都保持世界纪录的初创公司投资 100 万美元 TechCrunch
+# Chris Sacca 和其他人向一家希望每个人都保持世界纪录的初创公司投资 100 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/chris-sacca-and-others-invest-1-million-in-a-startup-that-wants-everyone-to-hold-a-world-record/>
 

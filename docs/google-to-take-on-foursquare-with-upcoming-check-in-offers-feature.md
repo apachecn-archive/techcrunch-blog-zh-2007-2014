@@ -1,4 +1,4 @@
-# Google+将通过即将推出的“签到优惠”功能挑战 four square TechCrunch
+# Google+将通过即将推出的“签到优惠”功能挑战 four square 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/06/google-to-take-on-foursquare-with-upcoming-check-in-offers-feature/>
 

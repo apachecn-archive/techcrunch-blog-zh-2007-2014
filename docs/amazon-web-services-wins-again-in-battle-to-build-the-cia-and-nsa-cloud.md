@@ -1,4 +1,4 @@
-# 亚马逊网络服务在构建中情局云的战斗中再次获胜 TechCrunch
+# 亚马逊网络服务在构建中情局云的战斗中再次获胜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/07/amazon-web-services-wins-again-in-battle-to-build-the-cia-and-nsa-cloud/>
 

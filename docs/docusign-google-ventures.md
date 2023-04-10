@@ -1,4 +1,4 @@
-# Google Ventures 加入 DocuSign 的新融资，融资额增至 5570 万美元 TechCrunch
+# Google Ventures 加入 DocuSign 的新融资，融资额增至 5570 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/07/docusign-google-ventures/>
 

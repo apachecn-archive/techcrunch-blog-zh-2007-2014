@@ -1,4 +1,4 @@
-# OpenTable 预订来到 iPhone TechCrunch
+# OpenTable 预订来到 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/17/opentable-reservations-come-to-the-iphone/>
 

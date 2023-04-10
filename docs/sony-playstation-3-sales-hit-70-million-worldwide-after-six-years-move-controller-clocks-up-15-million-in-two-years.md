@@ -1,4 +1,4 @@
-# 索尼 PlayStation 3 在大约六年后全球销量达到 7000 万，Move Controller 时钟在大约两年内增长 1500 万 TechCrunch
+# 索尼 PlayStation 3 在大约六年后全球销量达到 7000 万，Move Controller 时钟在大约两年内增长 1500 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/sony-playstation-3-sales-hit-70-million-worldwide-after-six-years-move-controller-clocks-up-15-million-in-two-years/>
 

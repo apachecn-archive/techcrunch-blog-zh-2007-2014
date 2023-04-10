@@ -1,4 +1,4 @@
-# 3 个愚蠢的滥用奥巴马的专利巨魔行政命令可以停止 TechCrunch
+# 3 个愚蠢的滥用奥巴马的专利巨魔行政命令可以停止 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/04/3-silly-abuses-obamas-patent-troll-executive-order-could-stop/>
 

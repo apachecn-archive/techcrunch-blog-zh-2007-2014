@@ -1,4 +1,4 @@
-# 随着 SendHub Manager 的首次亮相，Google Voice 替代 SendHub 现在为企业提供了一种更简单的方式来提供数百条电话线路 TechCrunch
+# 随着 SendHub Manager 的首次亮相，Google Voice 替代 SendHub 现在为企业提供了一种更简单的方式来提供数百条电话线路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/22/with-debut-of-sendhub-manger-google-voice-alternative-sendhub-now-offers-businesses-an-easier-way-to-provision-hundreds-of-phone-lines/>
 

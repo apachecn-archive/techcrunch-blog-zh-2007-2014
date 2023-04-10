@@ -1,4 +1,4 @@
-# 《秘密逃亡》吸引了新的资金和久经沙场的首席执行官 TechCrunch
+# 《秘密逃亡》吸引了新的资金和久经沙场的首席执行官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/secret-escapes-attracts-new-funding-and-a-battle-hardened-ceo/>
 

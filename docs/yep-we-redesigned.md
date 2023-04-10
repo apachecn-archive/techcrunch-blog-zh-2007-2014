@@ -1,4 +1,4 @@
-# 是的，我们重新设计了 TechCrunch
+# 是的，我们重新设计了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/27/yep-we-redesigned/>
 

@@ -1,4 +1,4 @@
-# 一个新的产品发现网站出现了，拥有一个黑仔域名和 100 万美元的资金:Get.com TechCrunch
+# 一个新的产品发现网站出现了，拥有一个黑仔域名和 100 万美元的资金:Get.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/a-new-product-discovery-site-emerges-with-a-killer-domain-and-1m-in-funding-get-com/>
 

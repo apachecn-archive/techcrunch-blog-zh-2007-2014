@@ -1,4 +1,4 @@
-# 荣誉勋章？由于塔利班在游戏中的角色，艺电面临越来越大的压力，英国国防大臣呼吁禁止 TechCrunch
+# 荣誉勋章？由于塔利班在游戏中的角色，艺电面临越来越大的压力，英国国防大臣呼吁禁止 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/medal-of-dis-honor-pressure-mounts-on-ea-over-role-of-taliban-in-game-british-defense-secretary-calls-for-ban/>
 

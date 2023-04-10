@@ -1,4 +1,4 @@
-# YC 支持的 B2Brev 旨在成为 B2B 服务的 Yelp TechCrunch
+# YC 支持的 B2Brev 旨在成为 B2B 服务的 Yelp 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/yc-backed-b2brev-aims-to-be-the-yelp-for-b2b-services/>
 

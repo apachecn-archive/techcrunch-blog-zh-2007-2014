@@ -1,4 +1,4 @@
-# Chitika:在谷歌地图发布后，iOS 6 的采用量增加了 0.2%，苹果地图的影响可能被夸大了 TechCrunch
+# Chitika:在谷歌地图发布后，iOS 6 的采用量增加了 0.2%，苹果地图的影响可能被夸大了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/14/report-on-ios-6-adoption-after-google-maps-release-suggests-impact-of-apple-maps-exaggerated/>
 

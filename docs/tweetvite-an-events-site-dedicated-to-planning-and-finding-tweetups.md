@@ -1,4 +1,4 @@
-# Tweetvite:一个致力于计划和寻找 Tweetups 的活动网站 TechCrunch
+# Tweetvite:一个致力于计划和寻找 Tweetups 的活动网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/02/tweetvite-an-events-site-dedicated-to-planning-and-finding-tweetups/>
 

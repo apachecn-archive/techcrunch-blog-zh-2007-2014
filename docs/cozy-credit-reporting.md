@@ -1,4 +1,4 @@
-# Cozy 推出新功能，让租户更好地控制自己的信用报告 TechCrunch
+# Cozy 推出新功能，让租户更好地控制自己的信用报告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/cozy-credit-reporting/>
 

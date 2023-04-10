@@ -1,4 +1,4 @@
-# 电子发票公司 Tradeshift 以 1.37 亿美元的估值融资 1700 万美元 TechCrunch
+# 电子发票公司 Tradeshift 以 1.37 亿美元的估值融资 1700 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/e-invoicing-company-tradeshift-raises-17-million-at-137-million-valuation/>
 

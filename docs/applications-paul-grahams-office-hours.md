@@ -1,4 +1,4 @@
-# 保罗·格拉厄姆办公时间的申请今天截止。现在就申请吧。TechCrunch
+# 保罗·格拉厄姆办公时间的申请今天截止。现在就申请吧。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/10/applications-paul-grahams-office-hours/>
 

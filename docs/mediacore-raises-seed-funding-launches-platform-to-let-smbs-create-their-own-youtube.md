@@ -1,4 +1,4 @@
-# MediaCore 筹集种子资金，推出平台让中小企业创建自己的 YouTube TechCrunch
+# MediaCore 筹集种子资金，推出平台让中小企业创建自己的 YouTube 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/mediacore-raises-seed-funding-launches-platform-to-let-smbs-create-their-own-youtube/>
 

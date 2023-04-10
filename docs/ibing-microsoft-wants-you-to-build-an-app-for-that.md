@@ -1,4 +1,4 @@
-# 伊冰？微软希望你为此开发一个 iPhone 应用程序 TechCrunch
+# 伊冰？微软希望你为此开发一个 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/27/ibing-microsoft-wants-you-to-build-an-app-for-that/>
 

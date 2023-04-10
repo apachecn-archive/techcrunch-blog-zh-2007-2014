@@ -1,4 +1,4 @@
-# 约书亚·沙赫特启动最新的美味实验室项目 skills . to TechCrunch
+# 约书亚·沙赫特启动最新的美味实验室项目 skills . to 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/28/joshua-schachter-launches-newest-tasty-labs-project-skills-to/>
 

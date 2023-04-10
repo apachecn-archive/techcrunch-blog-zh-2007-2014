@@ -1,4 +1,4 @@
-# 业务 2.0:最终封面 TechCrunch
+# 业务 2.0:最终封面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/19/business-20-the-final-cover/>
 

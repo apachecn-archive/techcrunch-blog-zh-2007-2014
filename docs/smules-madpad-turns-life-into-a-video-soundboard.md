@@ -1,4 +1,4 @@
-# Smule 的 MadPad 将你的生活变成一个视频共鸣板 TechCrunch
+# Smule 的 MadPad 将你的生活变成一个视频共鸣板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/smules-madpad-turns-life-into-a-video-soundboard/>
 

@@ -1,4 +1,4 @@
-# 雅虎又一轮裁员，搜索团队受到打击 TechCrunch
+# 雅虎又一轮裁员，搜索团队受到打击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/07/another-round-of-layoffs-at-yahoo-search-team-gets-hit/>
 

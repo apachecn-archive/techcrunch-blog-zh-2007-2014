@@ -1,4 +1,4 @@
-# CNET 更换四分卫:丹·法伯接任主编 TechCrunch
+# CNET 更换四分卫:丹·法伯接任主编 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/19/cnet-changes-quarterbacks-dan-farber-takes-over-as-editor-in-chief/>
 

@@ -1,4 +1,4 @@
-# Yelp 与 Locu 合作，允许企业实时向 Yelp 发布菜单、每日特色菜和照片 TechCrunch
+# Yelp 与 Locu 合作，允许企业实时向 Yelp 发布菜单、每日特色菜和照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/yelp-partners-with-locu-allowing-businesses-to-post-menus-daily-specials-photos-to-yelp-in-real-time/>
 

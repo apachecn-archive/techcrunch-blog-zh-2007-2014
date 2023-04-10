@@ -1,4 +1,4 @@
-# 差不多是时候了:微软会悄悄地把每个人都升级到最新版本的 IE TechCrunch
+# 差不多是时候了:微软会悄悄地把每个人都升级到最新版本的 IE 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/15/about-damn-time-microsoft-will-silently-upgrade-everyone-to-latest-version-of-ie/>
 

@@ -1,4 +1,4 @@
-# 脸书 iPhone 开发者因苹果暴政退出项目 TechCrunch
+# 脸书 iPhone 开发者因苹果暴政退出项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/11/joe-hewitt-developer-of-facebooks-massively-popular-iphone-app-quits-the-project/>
 

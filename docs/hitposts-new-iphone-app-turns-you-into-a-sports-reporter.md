@@ -1,4 +1,4 @@
-# Hitpost 的新 iPhone 应用程序将你变成一名体育记者 TechCrunch
+# Hitpost 的新 iPhone 应用程序将你变成一名体育记者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/hitposts-new-iphone-app-turns-you-into-a-sports-reporter/>
 

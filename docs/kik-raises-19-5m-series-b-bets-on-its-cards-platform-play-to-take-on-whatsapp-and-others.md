@@ -1,4 +1,4 @@
-# Kik 筹集了 1950 万美元的 B 轮融资，押注于其 Cards Platform Play，以挑战 WhatsApp 和其他公司 TechCrunch
+# Kik 筹集了 1950 万美元的 B 轮融资，押注于其 Cards Platform Play，以挑战 WhatsApp 和其他公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/22/kik-raises-19-5m-series-b-bets-on-its-cards-platform-play-to-take-on-whatsapp-and-others/>
 

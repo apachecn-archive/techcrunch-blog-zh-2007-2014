@@ -1,4 +1,4 @@
-# UpTake 在 B 轮融资中筹集了 1000 万美元 TechCrunch
+# UpTake 在 B 轮融资中筹集了 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/17/uptake-raises-10-million-in-series-b-funding/>
 

@@ -1,4 +1,4 @@
-# 卡尔·蔡司将开始制造微型 4/3 镜头 TechCrunch
+# 卡尔·蔡司将开始制造微型 4/3 镜头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/carl-zeiss-to-start-making-micro-43-lenses/>
 

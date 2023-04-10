@@ -1,4 +1,4 @@
-# Trimit 通过摇动你的 iPhone 来汇总电子邮件、博客文章等等 TechCrunch
+# Trimit 通过摇动你的 iPhone 来汇总电子邮件、博客文章等等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/15/trimit-summarizes-emails-blog-posts-and-more-with-a-shake-of-your-iphone/>
 

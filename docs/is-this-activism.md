@@ -1,4 +1,4 @@
-# 这是激进主义吗？TechCrunch
+# 这是激进主义吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/18/is-this-activism/>
 

@@ -1,4 +1,4 @@
-# SocialPoint Gaming Studio 在突破 5000 万 MAUs 后宣布推出四款新的社交策略游戏 TechCrunch
+# SocialPoint Gaming Studio 在突破 5000 万 MAUs 后宣布推出四款新的社交策略游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/socialpoint-gaming-studio-announces-four-new-social-strategy-titles-after-topping-50-million-maus/>
 

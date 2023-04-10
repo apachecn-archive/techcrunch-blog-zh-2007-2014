@@ -1,4 +1,4 @@
-# 我们现在都生活在公共场合。习惯就好。TechCrunch
+# 我们现在都生活在公共场合。习惯就好。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/30/we-all-live-in-public/>
 

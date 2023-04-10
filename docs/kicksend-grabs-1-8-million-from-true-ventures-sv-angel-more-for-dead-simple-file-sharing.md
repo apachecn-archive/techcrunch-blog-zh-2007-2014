@@ -1,4 +1,4 @@
-# Kicksend 从 True Ventures、SV Angel & More 获得 180 万美元用于简单文件共享 TechCrunch
+# Kicksend 从 True Ventures、SV Angel & More 获得 180 万美元用于简单文件共享 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/kicksend-grabs-1-8-million-from-true-ventures-sv-angel-more-for-dead-simple-file-sharing/>
 

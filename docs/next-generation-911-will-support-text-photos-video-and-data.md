@@ -1,4 +1,4 @@
-# 下一代 911 将支持文本、照片、视频和数据 TechCrunch
+# 下一代 911 将支持文本、照片、视频和数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/next-generation-911-will-support-text-photos-video-and-data/>
 

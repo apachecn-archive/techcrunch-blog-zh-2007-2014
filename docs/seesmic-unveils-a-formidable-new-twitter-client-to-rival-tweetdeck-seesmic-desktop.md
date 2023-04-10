@@ -1,4 +1,4 @@
-# Seesmic 推出强大的新 Twitter 客户端，与 Tweetdeck 竞争:Seesmic Desktop TechCrunch
+# Seesmic 推出强大的新 Twitter 客户端，与 Tweetdeck 竞争:Seesmic Desktop 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/07/seesmic-unveils-a-formidable-new-twitter-client-to-rival-tweetdeck-seesmic-desktop/>
 

@@ -1,4 +1,4 @@
-# Nvidia 揭示 Kal-El 用于超低功耗任务的秘密第五核心 TechCrunch
+# Nvidia 揭示 Kal-El 用于超低功耗任务的秘密第五核心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/nvidia-reveals-kal-els-secret-fifth-core-for-ultra-low-power-tasks/>
 

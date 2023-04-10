@@ -1,4 +1,4 @@
-# 加入社交音乐网站——TechCrunch
+# 加入社交音乐网站——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/contrastream-to-join-social-music-sites/>
 

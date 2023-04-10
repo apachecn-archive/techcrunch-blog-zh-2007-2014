@@ -1,4 +1,4 @@
-# Kindle DTP，即现在的 Kindle Direct Publishing，将 70%的版税选项扩展到加拿大 TechCrunch
+# Kindle DTP，即现在的 Kindle Direct Publishing，将 70%的版税选项扩展到加拿大 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/kindle-dtp-now-kindle-direct-publishing-extends-70-royalty-option-to-canada/>
 

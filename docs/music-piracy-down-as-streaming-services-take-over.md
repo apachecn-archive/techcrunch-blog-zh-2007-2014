@@ -1,4 +1,4 @@
-# 流媒体服务接管后音乐盗版减少 TechCrunch
+# 流媒体服务接管后音乐盗版减少 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/29/music-piracy-down-as-streaming-services-take-over/>
 

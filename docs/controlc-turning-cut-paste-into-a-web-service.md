@@ -1,4 +1,4 @@
-# ControlC:将剪切和粘贴转变为 Web 服务 TechCrunch
+# ControlC:将剪切和粘贴转变为 Web 服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/29/controlc-turning-cut-paste-into-a-web-service/>
 

@@ -1,4 +1,4 @@
-# Jhannet Sejas 承认非法录音指控 TechCrunch
+# Jhannet Sejas 承认非法录音指控 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/jhannet-sejas-pleads-guilty-to-unlawful-recording-charges/>
 

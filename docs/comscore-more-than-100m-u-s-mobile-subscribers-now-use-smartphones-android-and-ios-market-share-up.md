@@ -1,4 +1,4 @@
-# comScore:超过 1 亿美国移动用户现在使用智能手机；Android 和 iOS 市场份额上升 TechCrunch
+# comScore:超过 1 亿美国移动用户现在使用智能手机；Android 和 iOS 市场份额上升 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/06/comscore-more-than-100m-u-s-mobile-subscribers-now-use-smartphones-android-and-ios-market-share-up/>
 

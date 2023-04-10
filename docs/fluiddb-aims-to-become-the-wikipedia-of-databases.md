@@ -1,4 +1,4 @@
-# FluidDB 旨在成为数据库的维基百科 TechCrunch
+# FluidDB 旨在成为数据库的维基百科 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/24/fluiddb-aims-to-become-the-wikipedia-of-databases/>
 

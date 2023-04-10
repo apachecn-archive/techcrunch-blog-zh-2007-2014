@@ -1,4 +1,4 @@
-# 观看 TC 扰乱 SF 2011 直播 TechCrunch
+# 观看 TC 扰乱 SF 2011 直播 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/watch-tc-disrupt-sf-2011-live/>
 

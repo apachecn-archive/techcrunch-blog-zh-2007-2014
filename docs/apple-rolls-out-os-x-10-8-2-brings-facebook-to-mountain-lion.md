@@ -1,4 +1,4 @@
-# 苹果推出 OS X 10.8.2，将脸书带到 Mountain Lion TechCrunch
+# 苹果推出 OS X 10.8.2，将脸书带到 Mountain Lion 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/19/apple-rolls-out-os-x-10-8-2-brings-facebook-to-mountain-lion/>
 

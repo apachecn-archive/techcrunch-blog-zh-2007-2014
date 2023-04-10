@@ -1,4 +1,4 @@
-# 火狐正在走向大规模衰落吗？它的联合创始人是这样认为的 TechCrunch
+# 火狐正在走向大规模衰落吗？它的联合创始人是这样认为的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/18/future-of-firefox/>
 

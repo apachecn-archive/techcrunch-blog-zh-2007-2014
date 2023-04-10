@@ -1,4 +1,4 @@
-# 保罗·格拉厄姆:SOPA 支持公司不再被允许参加 YC 演示日 TechCrunch
+# 保罗·格拉厄姆:SOPA 支持公司不再被允许参加 YC 演示日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/22/paul-graham-sopa-supporting-companies-no-longer-allowed-at-yc-demo-day/>
 

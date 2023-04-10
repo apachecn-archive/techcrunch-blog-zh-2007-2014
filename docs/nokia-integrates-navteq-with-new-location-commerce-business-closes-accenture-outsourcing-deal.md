@@ -1,4 +1,4 @@
-# 诺基亚将 NAVTEQ 与新的“位置和商务”业务整合，完成埃森哲外包交易 TechCrunch
+# 诺基亚将 NAVTEQ 与新的“位置和商务”业务整合，完成埃森哲外包交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/22/nokia-integrates-navteq-with-new-location-commerce-business-closes-accenture-outsourcing-deal/>
 

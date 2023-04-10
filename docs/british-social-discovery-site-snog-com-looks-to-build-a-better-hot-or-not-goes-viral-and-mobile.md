@@ -1,4 +1,4 @@
-# 英国社会发现网站 Snog.com 期待建立一个更好的热与否；病毒式传播(和移动)TechCrunch
+# 英国社会发现网站 Snog.com 期待建立一个更好的热与否；病毒式传播(和移动)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/british-social-discovery-site-snog-com-looks-to-build-a-better-hot-or-not-goes-viral-and-mobile/>
 

@@ -1,4 +1,4 @@
-# 全球研磨:Ajax，最终面向嘻哈人群 TechCrunch
+# 全球研磨:Ajax，最终面向嘻哈人群 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/26/global-grind-ajax-finally-for-the-hip-hop-demographic/>
 

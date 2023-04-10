@@ -1,4 +1,4 @@
-# MySpace 裁减三名高级技术高管 TechCrunch
+# MySpace 裁减三名高级技术高管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/20/myspace-cuts-tech/>
 

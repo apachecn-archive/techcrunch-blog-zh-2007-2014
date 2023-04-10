@@ -1,4 +1,4 @@
-# 谷歌个人资料通过虚荣心网址迈出重要的社交一步 TechCrunch
+# 谷歌个人资料通过虚荣心网址迈出重要的社交一步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/14/google-profiles-take-an-important-social-step-with-vanity-urls/>
 

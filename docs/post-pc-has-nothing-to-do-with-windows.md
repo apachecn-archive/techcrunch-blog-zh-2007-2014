@@ -1,4 +1,4 @@
-# 一个明显而现实的危险 TechCrunch
+# 一个明显而现实的危险 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/post-pc-has-nothing-to-do-with-windows/>
 

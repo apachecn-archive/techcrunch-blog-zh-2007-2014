@@ -1,4 +1,4 @@
-# Sugar Inc .收购虚拟时尚购物助手 MyPerfectSale TechCrunch
+# Sugar Inc .收购虚拟时尚购物助手 MyPerfectSale 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/14/sugar-inc-buys-virtual-fashion-shopping-assistant-myperfectsale/>
 

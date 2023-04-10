@@ -1,4 +1,4 @@
-# 第三代 Kindles 有了新名字，折扣价 TechCrunch
+# 第三代 Kindles 有了新名字，折扣价 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/3rd-generation-kindles-get-a-new-name-discounted-prices/>
 

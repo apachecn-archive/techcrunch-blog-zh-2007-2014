@@ -1,4 +1,4 @@
-# 总统候选人 Mike Gravel 的做法略有不同 TechCrunch
+# 总统候选人 Mike Gravel 的做法略有不同 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/08/presidential-candidate-mike-gravel-does-things-a-little-differently/>
 

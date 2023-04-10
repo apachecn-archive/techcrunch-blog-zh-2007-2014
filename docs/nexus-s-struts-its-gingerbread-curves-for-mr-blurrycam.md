@@ -1,4 +1,4 @@
-# Nexus S 为 Blurrycam 先生展示其姜饼曲线 TechCrunch
+# Nexus S 为 Blurrycam 先生展示其姜饼曲线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/25/nexus-s-struts-its-gingerbread-curves-for-mr-blurrycam/>
 

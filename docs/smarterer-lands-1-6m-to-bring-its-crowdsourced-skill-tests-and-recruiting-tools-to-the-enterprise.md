@@ -1,4 +1,4 @@
-# Smarterer 获得 160 万美元，将其技能测试和评估技术引入企业 TechCrunch
+# Smarterer 获得 160 万美元，将其技能测试和评估技术引入企业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/smarterer-lands-1-6m-to-bring-its-crowdsourced-skill-tests-and-recruiting-tools-to-the-enterprise/>
 

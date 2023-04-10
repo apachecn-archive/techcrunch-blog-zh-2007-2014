@@ -1,4 +1,4 @@
-# Google Android 现在在 1.3 亿台设备上运行，有 60 亿次应用程序下载 TechCrunch
+# Google Android 现在在 1.3 亿台设备上运行，有 60 亿次应用程序下载 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/google-android-now-on-130-million-total-devices/>
 

@@ -1,4 +1,4 @@
-# ThinkFree 是否在重新思考自己的业务？TechCrunch
+# ThinkFree 是否在重新思考自己的业务？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/11/is-thinkfree-rethinking-its-business/>
 

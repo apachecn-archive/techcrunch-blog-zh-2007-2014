@@ -1,4 +1,4 @@
-# 谢尔盖·布林(Sergey Brin)的弟弟共同创立了自己的初创公司:Butter，这是一个拥挤空间中的数字餐厅菜单 TechCrunch
+# 谢尔盖·布林(Sergey Brin)的弟弟共同创立了自己的初创公司:Butter，这是一个拥挤空间中的数字餐厅菜单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/sergey-brins-younger-brother-co-founds-a-startup-of-his-own/>
 

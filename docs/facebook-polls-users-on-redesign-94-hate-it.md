@@ -1,4 +1,4 @@
-# 脸书民意调查:94%的用户不喜欢重新设计 TechCrunch
+# 脸书民意调查:94%的用户不喜欢重新设计 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/03/19/facebook-polls-users-on-redesign-94-hate-it/>
 

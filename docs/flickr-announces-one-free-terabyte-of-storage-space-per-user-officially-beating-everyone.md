@@ -1,4 +1,4 @@
-# Flickr 宣布为每位用户免费提供 1tb 的存储空间，正式击败了所有人 TechCrunch
+# Flickr 宣布为每位用户免费提供 1tb 的存储空间，正式击败了所有人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/20/flickr-announces-one-free-terabyte-of-storage-space-per-user-officially-beating-everyone/>
 

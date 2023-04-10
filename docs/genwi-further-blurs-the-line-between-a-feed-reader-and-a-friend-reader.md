@@ -1,4 +1,4 @@
-# Genwi 进一步模糊了 Feed 阅读器和好友阅读器之间的界限 TechCrunch
+# Genwi 进一步模糊了 Feed 阅读器和好友阅读器之间的界限 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/20/genwi-further-blurs-the-line-between-a-feed-reader-and-a-friend-reader/>
 

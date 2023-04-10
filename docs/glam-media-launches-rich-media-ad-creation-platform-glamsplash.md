@@ -1,4 +1,4 @@
-# Glam Media 推出富媒体广告创作平台 glam splash TechCrunch
+# Glam Media 推出富媒体广告创作平台 glam splash 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/18/glam-media-launches-rich-media-ad-creation-platform-glamsplash/>
 

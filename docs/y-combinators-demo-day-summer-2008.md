@@ -1,4 +1,4 @@
-# y Combinator 2008 年夏季演示日 TechCrunch
+# y Combinator 2008 年夏季演示日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/14/y-combinators-demo-day-summer-2008/>
 

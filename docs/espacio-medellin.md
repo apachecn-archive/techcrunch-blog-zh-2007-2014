@@ -1,4 +1,4 @@
-# 合作空间 Espacio 启动，将麦德林变成创业中心 TechCrunch
+# 合作空间 Espacio 启动，将麦德林变成创业中心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/espacio-medellin/>
 

@@ -1,4 +1,4 @@
-# MinoMonsters 从 Andreessen Horowitz、SV Angel 等公司获得 100 万美元，用于移动怪物大战 TechCrunch
+# MinoMonsters 从 Andreessen Horowitz、SV Angel 等公司获得 100 万美元，用于移动怪物大战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/minomonsters-nabs-1-million-from-andreessen-horowitz-sv-angel-and-more-for-mobile-monster-battles/>
 

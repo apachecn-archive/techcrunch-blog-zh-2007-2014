@@ -1,4 +1,4 @@
-# “拒绝访问”:iPhone 4S 事件后 Apple.com 下台 TechCrunch
+# “拒绝访问”:iPhone 4S 事件后 Apple.com 下台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/access-denied-apple-com-goes-down-post-iphone-4s-event/>
 

@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear Givaway:迄今为止的赢家 TechCrunch
+# 10 天的 CrunchGear Givaway:迄今为止的赢家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/17/10-days-of-crunchgear-givaway-winners-so-far/>
 

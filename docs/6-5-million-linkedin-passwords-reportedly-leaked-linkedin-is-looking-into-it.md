@@ -1,4 +1,4 @@
-# 据报道，650 万 LinkedIn 密码泄露，LinkedIn 正在“调查”此事 TechCrunch
+# 据报道，650 万 LinkedIn 密码泄露，LinkedIn 正在“调查”此事 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/06/06/6-5-million-linkedin-passwords-reportedly-leaked-linkedin-is-looking-into-it/>
 

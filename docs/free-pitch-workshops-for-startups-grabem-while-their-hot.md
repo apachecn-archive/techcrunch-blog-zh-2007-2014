@@ -1,4 +1,4 @@
-# 面向初创公司的免费推介研讨会，趁热打铁 TechCrunch
+# 面向初创公司的免费推介研讨会，趁热打铁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/21/free-pitch-workshops-for-startups-grabem-while-their-hot/>
 

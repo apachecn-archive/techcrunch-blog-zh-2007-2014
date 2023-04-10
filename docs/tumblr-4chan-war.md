@@ -1,4 +1,4 @@
-# Tumblr 刚刚是不是反向拿下了 4Chan？TechCrunch
+# Tumblr 刚刚是不是反向拿下了 4Chan？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/14/tumblr-4chan-war/>
 

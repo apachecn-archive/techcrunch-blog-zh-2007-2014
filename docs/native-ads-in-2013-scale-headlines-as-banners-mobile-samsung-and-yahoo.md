@@ -1,4 +1,4 @@
-# 2013 年的原生广告:规模、标题横幅、移动、三星和雅虎 TechCrunch
+# 2013 年的原生广告:规模、标题横幅、移动、三星和雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/02/native-ads-in-2013-scale-headlines-as-banners-mobile-samsung-and-yahoo/>
 

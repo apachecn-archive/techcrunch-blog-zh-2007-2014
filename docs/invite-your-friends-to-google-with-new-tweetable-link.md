@@ -1,4 +1,4 @@
-# 邀请您的朋友加入 Google+,使用新的可在推特上发布的链接 TechCrunch
+# 邀请您的朋友加入 Google+,使用新的可在推特上发布的链接 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/06/invite-your-friends-to-google-with-new-tweetable-link/>
 

@@ -1,4 +1,4 @@
-# 索尼宣布€99 PSP 面向欧洲小气鬼 TechCrunch
+# 索尼宣布€99 PSP 面向欧洲小气鬼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/sony-announces-e99-psp-for-european-cheapskates/>
 

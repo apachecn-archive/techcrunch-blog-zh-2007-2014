@@ -1,4 +1,4 @@
-# 不存在泡沫的更多证据:Q2 风险投资持平 TechCrunch
+# 不存在泡沫的更多证据:Q2 风险投资持平 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/more-evidence-theres-no-bubble-vc-investments-were-flat-in-q2/>
 

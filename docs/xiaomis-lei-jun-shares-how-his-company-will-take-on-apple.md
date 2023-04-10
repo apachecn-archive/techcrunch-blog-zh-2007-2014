@@ -1,4 +1,4 @@
-# 小米的雷军分享了他的公司将如何挑战苹果 TechCrunch
+# 小米的雷军分享了他的公司将如何挑战苹果 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/xiaomis-lei-jun-shares-how-his-company-will-take-on-apple/>
 

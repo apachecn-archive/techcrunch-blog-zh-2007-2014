@@ -1,4 +1,4 @@
-# 视频:阿尔法狗是一只更大、更快、更安静的大狗 TechCrunch
+# 视频:阿尔法狗是一只更大、更快、更安静的大狗 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/video-alphadog-is-a-bigger-faster-quieter-bigdog/>
 

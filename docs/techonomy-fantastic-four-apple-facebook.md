@@ -1,4 +1,4 @@
-# 在互联网的“神奇四侠”中，谁最脆弱？Techonomy 小组成员说是苹果和脸书 TechCrunch
+# 在互联网的“神奇四侠”中，谁最脆弱？Techonomy 小组成员说是苹果和脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/11/techonomy-fantastic-four-apple-facebook/>
 

@@ -1,4 +1,4 @@
-# Meograph 增加了付费许可证，希望将其“面向所有人的 Adobe”推向课堂 TechCrunch
+# Meograph 增加了付费许可证，希望将其“面向所有人的 Adobe”推向课堂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/meograph-adds-paid-licenses-as-it-looks-to-push-its-adobe-for-everyone-into-the-classroom/>
 

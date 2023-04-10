@@ -1,4 +1,4 @@
-# 打印枪和买枪一样吗？TechCrunch
+# 打印枪和买枪一样吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/is-printing-a-gun-the-same-as-buying-a-gun/>
 

@@ -1,4 +1,4 @@
-# 海德生物识别设备可以扫描几乎所有东西...等等，在 640x480？今年是哪一年？TechCrunch
+# 海德生物识别设备可以扫描几乎所有东西...等等，在 640x480？今年是哪一年？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/19/hiide-biometrics-device-scans-pretty-much-everything-wait-at-640x480-what-year-is-this/>
 

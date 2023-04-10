@@ -1,4 +1,4 @@
-# 实时营销服务 Optify 融资 610 万美元 TechCrunch
+# 实时营销服务 Optify 融资 610 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/real-time-marketing-optify-funding/>
 

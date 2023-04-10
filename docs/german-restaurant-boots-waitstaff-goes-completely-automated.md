@@ -1,4 +1,4 @@
-# 德国餐厅 Boots Waitstaff 完全自动化 TechCrunch
+# 德国餐厅 Boots Waitstaff 完全自动化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/30/german-restaurant-boots-waitstaff-goes-completely-automated/>
 

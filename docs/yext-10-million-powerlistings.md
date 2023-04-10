@@ -1,4 +1,4 @@
-# Yext 筹集了 1000 万美元，为当地企业在电力线方面加倍努力 TechCrunch
+# Yext 筹集了 1000 万美元，为当地企业在电力线方面加倍努力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/yext-10-million-powerlistings/>
 

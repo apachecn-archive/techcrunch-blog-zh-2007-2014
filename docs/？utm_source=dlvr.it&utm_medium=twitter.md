@@ -1,4 +1,4 @@
-# Unity 收购 Applifier，为更多游戏带来可共享的即时回放 TechCrunch
+# Unity 收购 Applifier，为更多游戏带来可共享的即时回放 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/13/unity-acquires-applifier-to-bring-shareable-instant-replays-to-more-games/?utm_source=dlvr.it&utm_medium=twitter>
 

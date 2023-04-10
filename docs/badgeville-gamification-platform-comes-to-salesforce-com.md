@@ -1,4 +1,4 @@
-# Badgeville 游戏化平台来到 Salesforce.com TechCrunch
+# Badgeville 游戏化平台来到 Salesforce.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/18/badgeville-gamification-platform-comes-to-salesforce-com/>
 

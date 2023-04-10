@@ -1,4 +1,4 @@
-# 第三方 iOS 地图应用都去哪了？TechCrunch
+# 第三方 iOS 地图应用都去哪了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/where-have-all-the-third-party-ios-mapping-apps-gone/>
 

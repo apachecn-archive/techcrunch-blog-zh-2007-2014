@@ -1,4 +1,4 @@
-# 现代战争 3 装备来了:罗技胜过 MW3 G105 键盘和 G9X 游戏鼠标 TechCrunch
+# 现代战争 3 装备来了:罗技胜过 MW3 G105 键盘和 G9X 游戏鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/here-comes-the-modern-warfare-3-gear-logitech-outs-mw3-g105-keyboard-and-g9x-gaming-mouse/>
 

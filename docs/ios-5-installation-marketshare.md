@@ -1,4 +1,4 @@
-# 三分之一符合条件的设备上已经安装了 iOS 5 TechCrunch
+# 三分之一符合条件的设备上已经安装了 iOS 5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/17/ios-5-installation-marketshare/>
 

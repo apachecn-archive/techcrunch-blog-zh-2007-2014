@@ -1,4 +1,4 @@
-# 浏览器之战:iOS 5 的浏览器仍然(略)优于 Android 的 TechCrunch
+# 浏览器之战:iOS 5 的浏览器仍然(略)优于 Android 的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/battle-of-the-browsers-ios-5s-browser-is-still-slightly-better-than-androids-says-sencha/>
 

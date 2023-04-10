@@ -1,4 +1,4 @@
-# 微软退出分类列表业务 TechCrunch
+# 微软退出分类列表业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/09/microsoft-exits-classified-listings-business/>
 

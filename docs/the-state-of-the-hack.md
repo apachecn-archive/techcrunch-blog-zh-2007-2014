@@ -1,4 +1,4 @@
-# 在关于云操作系统的争论中，OpenStack 的成功激起了强烈反对 TechCrunch
+# 在关于云操作系统的争论中，OpenStack 的成功激起了强烈反对 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/12/the-state-of-the-hack/>
 

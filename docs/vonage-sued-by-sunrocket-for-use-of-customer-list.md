@@ -1,4 +1,4 @@
-# SunRocket 起诉 Vonage 使用客户名单 TechCrunch
+# SunRocket 起诉 Vonage 使用客户名单 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/vonage-sued-by-sunrocket-for-use-of-customer-list/>
 

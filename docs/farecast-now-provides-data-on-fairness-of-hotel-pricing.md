@@ -1,4 +1,4 @@
-# Farecast 现在提供关于酒店定价公平性的数据 TechCrunch
+# Farecast 现在提供关于酒店定价公平性的数据 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/farecast-now-provides-data-on-fairness-of-hotel-pricing/>
 

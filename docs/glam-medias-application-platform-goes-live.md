@@ -1,4 +1,4 @@
-# Glam Media 的应用平台上线 TechCrunch
+# Glam Media 的应用平台上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/18/glam-medias-application-platform-goes-live/>
 

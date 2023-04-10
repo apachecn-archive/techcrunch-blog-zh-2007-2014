@@ -1,4 +1,4 @@
-# 受欢迎并不容易。77%的脸书粉丝页面拥有不到 1000 名粉丝 TechCrunch
+# 受欢迎并不容易。77%的脸书粉丝页面拥有不到 1000 名粉丝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/28/facebook-fan-pages-77-percent/>
 

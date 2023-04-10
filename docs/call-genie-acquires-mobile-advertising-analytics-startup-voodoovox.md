@@ -1,4 +1,4 @@
-# Call Genie 收购移动广告、分析初创公司 voodouvox TechCrunch
+# Call Genie 收购移动广告、分析初创公司 voodouvox 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/28/call-genie-acquires-mobile-advertising-analytics-startup-voodoovox/>
 

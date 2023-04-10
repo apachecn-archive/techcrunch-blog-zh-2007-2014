@@ -1,4 +1,4 @@
-# 体验微软的新 Windows 手机 TechCrunch
+# 体验微软的新 Windows 手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/hands-on-with-microsofts-new-windows-phones/>
 

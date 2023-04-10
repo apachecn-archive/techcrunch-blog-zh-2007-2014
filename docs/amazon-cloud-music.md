@@ -1,4 +1,4 @@
-# 云将成为你的硬盘，尽管唱片公司贪婪 TechCrunch
+# 云将成为你的硬盘，尽管唱片公司贪婪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/30/amazon-cloud-music/>
 

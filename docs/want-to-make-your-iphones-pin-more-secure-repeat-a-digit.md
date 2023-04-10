@@ -1,4 +1,4 @@
-# 想让你的 iPhone 的 PIN 码更安全？重复一个数字。TechCrunch
+# 想让你的 iPhone 的 PIN 码更安全？重复一个数字。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/02/want-to-make-your-iphones-pin-more-secure-repeat-a-digit/>
 

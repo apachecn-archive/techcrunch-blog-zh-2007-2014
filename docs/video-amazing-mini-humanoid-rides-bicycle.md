@@ -1,4 +1,4 @@
-# 视频:令人惊叹的迷你人形自行车 TechCrunch
+# 视频:令人惊叹的迷你人形自行车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/video-amazing-mini-humanoid-rides-bicycle/>
 

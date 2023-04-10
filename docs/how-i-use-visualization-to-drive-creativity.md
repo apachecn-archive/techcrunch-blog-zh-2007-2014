@@ -1,4 +1,4 @@
-# 我如何利用可视化来推动创造力 TechCrunch
+# 我如何利用可视化来推动创造力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/17/how-i-use-visualization-to-drive-creativity/>
 

@@ -1,4 +1,4 @@
-# 苹果电视上的 HTML5 游戏 TechCrunch
+# 苹果电视上的 HTML5 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/html5-game-seen-working-on-apple-tv/>
 

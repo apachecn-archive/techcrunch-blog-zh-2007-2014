@@ -1,4 +1,4 @@
-# 通用电气将在科罗拉多州建造美国最大的太阳能工厂 TechCrunch
+# 通用电气将在科罗拉多州建造美国最大的太阳能工厂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/ge-to-build-largest-u-s-solar-factory-in-colorado/>
 

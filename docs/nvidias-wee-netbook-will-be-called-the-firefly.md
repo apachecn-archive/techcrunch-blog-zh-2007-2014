@@ -1,4 +1,4 @@
-# Nvidia 的小上网本将被称为 Firefly TechCrunch
+# Nvidia 的小上网本将被称为 Firefly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/nvidias-wee-netbook-will-be-called-the-firefly/>
 

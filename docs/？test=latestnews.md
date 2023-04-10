@@ -1,4 +1,4 @@
-# DARPA 主任 Regina Dugan 离开国防部加入 Google TechCrunch
+# DARPA 主任 Regina Dugan 离开国防部加入 Google 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/12/darpa-director-regina-dugan-leaves-defense-department-for-google/?test=latestnews>
 

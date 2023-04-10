@@ -1,4 +1,4 @@
-# 众包网站翻译 Easyling 在罗马尼亚赢得 How to Web startup 竞赛 TechCrunch
+# 众包网站翻译 Easyling 在罗马尼亚赢得 How to Web startup 竞赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/crowdsourced-website-translator-easyling-wins-how-to-web-startup-competition-in-romania/>
 

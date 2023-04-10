@@ -1,4 +1,4 @@
-# 耐克风投部门投资绿色创业公司 TechCrunch
+# 耐克风投部门投资绿色创业公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/nike-vc-arm-to-invest-in-green-startups/>
 

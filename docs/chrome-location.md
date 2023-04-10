@@ -1,4 +1,4 @@
-# 凭借 Chrome，谷歌正在向更深层次的位置整合迈进 TechCrunch
+# 凭借 Chrome，谷歌正在向更深层次的位置整合迈进 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/13/chrome-location/>
 

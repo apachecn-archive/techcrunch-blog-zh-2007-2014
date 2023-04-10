@@ -1,4 +1,4 @@
-# Index 和 Khosla 在数据建模竞赛平台 Kaggle 中以 1100 万美元领先 TechCrunch
+# Index 和 Khosla 在数据建模竞赛平台 Kaggle 中以 1100 万美元领先 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/index-and-khosla-lead-11m-round-in-kaggle-a-platform-for-data-modeling-competitions/>
 

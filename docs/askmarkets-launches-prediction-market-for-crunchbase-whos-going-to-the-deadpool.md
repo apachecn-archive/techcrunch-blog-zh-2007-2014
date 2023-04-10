@@ -1,4 +1,4 @@
-# AskMarkets 为 Crunchbase 推出预测市场。谁要去死亡池？TechCrunch
+# AskMarkets 为 Crunchbase 推出预测市场。谁要去死亡池？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/06/askmarkets-launches-prediction-market-for-crunchbase-whos-going-to-the-deadpool/>
 

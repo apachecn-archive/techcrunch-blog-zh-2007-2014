@@ -1,4 +1,4 @@
-# 日立推出 1tb:全新 Deskstar 硬盘 TechCrunch
+# 日立推出 1tb:全新 Deskstar 硬盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/23/hitachi-hits-one-terabyte-new-deskstar-hard-drive/>
 

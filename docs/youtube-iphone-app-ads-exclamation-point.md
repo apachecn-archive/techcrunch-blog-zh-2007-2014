@@ -1,4 +1,4 @@
-# YouTube 推出了自己的 iPhone 应用程序，提供更好的发现、社交分享、音乐视频和广告！TechCrunch
+# YouTube 推出了自己的 iPhone 应用程序，提供更好的发现、社交分享、音乐视频和广告！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/youtube-iphone-app-ads-exclamation-point/>
 

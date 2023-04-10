@@ -1,4 +1,4 @@
-# 美国指控 Sprint 欺诈性地对监控请求多收数百万美元 TechCrunch
+# 美国指控 Sprint 欺诈性地对监控请求多收数百万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/us-accuses-sprint-of-fraudulently-overcharging-millions-for-surveillance-requests/>
 

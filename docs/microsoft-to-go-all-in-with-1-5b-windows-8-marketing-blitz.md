@@ -1,4 +1,4 @@
-# 微软将全力投入 15 亿美元的 Windows 8 营销闪电战 TechCrunch
+# 微软将全力投入 15 亿美元的 Windows 8 营销闪电战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/12/microsoft-to-go-all-in-with-1-5b-windows-8-marketing-blitz/>
 

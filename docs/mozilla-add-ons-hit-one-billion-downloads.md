@@ -1,4 +1,4 @@
-# Mozilla 插件下载量达到 10 亿次 TechCrunch
+# Mozilla 插件下载量达到 10 亿次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/19/mozilla-add-ons-hit-one-billion-downloads/>
 

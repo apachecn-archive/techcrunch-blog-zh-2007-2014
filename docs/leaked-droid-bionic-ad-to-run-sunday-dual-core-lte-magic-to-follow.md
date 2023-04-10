@@ -1,4 +1,4 @@
-# 泄露的 Droid Bionic 广告将于周日发布，双核 LTE Magic 紧随其后 TechCrunch
+# 泄露的 Droid Bionic 广告将于周日发布，双核 LTE Magic 紧随其后 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/leaked-droid-bionic-ad-to-run-sunday-dual-core-lte-magic-to-follow/>
 

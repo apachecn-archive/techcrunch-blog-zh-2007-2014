@@ -1,4 +1,4 @@
-# Google Plus 有一个问题。不要担心:我有一个解决方案 TechCrunch
+# Google Plus 有一个问题。不要担心:我有一个解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/24/google-plus-has-a-problem-fear-not-i-have-a-solution/>
 

@@ -1,4 +1,4 @@
-# 猫途鹰收购 Wanderfly 继续推进社交旅行 TechCrunch
+# 猫途鹰收购 Wanderfly 继续推进社交旅行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/02/tripadvisor-acquires-wanderfly-to-continue-social-travel-push/>
 

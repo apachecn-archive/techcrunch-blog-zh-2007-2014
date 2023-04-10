@@ -1,4 +1,4 @@
-# Groupon 支付至少 1020 万美元收购 Zappedy TechCrunch
+# Groupon 支付至少 1020 万美元收购 Zappedy 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/groupon-pays-at-least-10-2-million-for-zappedy/>
 

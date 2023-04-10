@@ -1,4 +1,4 @@
-# Office For iPad 大受欢迎:Word 跃居美国第一，Excel 跃居第三，PowerPoint 跃居第四 TechCrunch
+# Office For iPad 大受欢迎:Word 跃居美国第一，Excel 跃居第三，PowerPoint 跃居第四 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/office-for-ipad-is-a-hit-word-jumps-to-1-in-us-excel-to-3-powerpoint-to-4/>
 

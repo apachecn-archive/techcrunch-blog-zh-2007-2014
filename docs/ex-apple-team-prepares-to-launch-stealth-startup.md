@@ -1,4 +1,4 @@
-# 前苹果团队将推出秘密创业公司 foto nauts TechCrunch
+# 前苹果团队将推出秘密创业公司 foto nauts 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/18/ex-apple-team-prepares-to-launch-stealth-startup/>
 

@@ -1,4 +1,4 @@
-# Polar 增加 MediaVoice 原生广告平台，在跨平台更名中去掉“移动”一词 TechCrunch
+# Polar 增加 MediaVoice 原生广告平台，在跨平台更名中去掉“移动”一词 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/29/polar-adds-mediavoice-native-ad-platform-drops-mobile-from-its-name-in-cross-platform-rebrand/>
 

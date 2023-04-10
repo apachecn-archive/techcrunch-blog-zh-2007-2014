@@ -1,4 +1,4 @@
-# 博主欢欣鼓舞！使用 RedLasso 定制电视剪辑(更新)TechCrunch
+# 博主欢欣鼓舞！使用 RedLasso 定制电视剪辑(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/20/bloggers-rejoice-customized-tv-clips-with-redlasso/>
 

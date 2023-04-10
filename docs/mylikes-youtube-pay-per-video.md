@@ -1,4 +1,4 @@
-# MyLikes 为 YouTube 带来付费视频广告 TechCrunch
+# MyLikes 为 YouTube 带来付费视频广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/mylikes-youtube-pay-per-video/>
 

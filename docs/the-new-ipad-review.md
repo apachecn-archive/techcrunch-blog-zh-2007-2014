@@ -1,4 +1,4 @@
-# 新款 iPad 让苹果平板电脑的统治地位变得前所未有的清晰 TechCrunch
+# 新款 iPad 让苹果平板电脑的统治地位变得前所未有的清晰 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/14/the-new-ipad-review/>
 

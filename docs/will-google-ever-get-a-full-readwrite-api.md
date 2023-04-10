@@ -1,4 +1,4 @@
-# Google+会有完整的读/写 API 吗？TechCrunch
+# Google+会有完整的读/写 API 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/30/will-google-ever-get-a-full-readwrite-api/>
 

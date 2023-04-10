@@ -1,4 +1,4 @@
-# 众议员 Amash 关于撤销 NSA 国内手机元数据项目的修正案失败 205-217 TechCrunch
+# 众议员 Amash 关于撤销 NSA 国内手机元数据项目的修正案失败 205-217 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/24/rep-amashs-amendment-to-defund-the-nsas-domestic-phone-metadata-program-fails-205-217/>
 

@@ -1,4 +1,4 @@
-# 亿万富翁只想要你的名片 TechCrunch
+# 亿万富翁只想要你的名片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/30/chamillionaire-just-wants-your-business-card/>
 

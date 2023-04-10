@@ -1,4 +1,4 @@
-# 微软专利平板滑盖手机外形、多点触控游戏鼠标 TechCrunch
+# 微软专利平板滑盖手机外形、多点触控游戏鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/microsoft-patents-flat-slider-phone-form-factor-multi-touch-gaming-mice/>
 

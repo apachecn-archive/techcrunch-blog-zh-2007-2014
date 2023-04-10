@@ -1,4 +1,4 @@
-# 微软意外确认 Mango 将成为“Windows Phone 7.5”，可能于 9 月上市 TechCrunch
+# 微软意外确认 Mango 将成为“Windows Phone 7.5”，可能于 9 月上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/14/microsoft-accidentally-confirms-mango-will-be-windows-phone-7-5-might-ship-by-september/>
 

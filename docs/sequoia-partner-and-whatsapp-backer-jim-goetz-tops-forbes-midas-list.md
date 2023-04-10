@@ -1,4 +1,4 @@
-# 红杉资本合伙人兼 WhatsApp 支持者吉姆·戈茨(Jim Goetz)荣登福布斯财富榜榜首 TechCrunch
+# 红杉资本合伙人兼 WhatsApp 支持者吉姆·戈茨(Jim Goetz)荣登福布斯财富榜榜首 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/sequoia-partner-and-whatsapp-backer-jim-goetz-tops-forbes-midas-list/>
 

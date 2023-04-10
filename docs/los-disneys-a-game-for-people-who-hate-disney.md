@@ -1,4 +1,4 @@
-# 洛杉矶迪士尼乐园:一款专为讨厌迪士尼的人设计的游戏 TechCrunch
+# 洛杉矶迪士尼乐园:一款专为讨厌迪士尼的人设计的游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/los-disneys-a-game-for-people-who-hate-disney/>
 

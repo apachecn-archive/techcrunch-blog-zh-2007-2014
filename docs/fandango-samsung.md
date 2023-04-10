@@ -1,4 +1,4 @@
-# Fandango 将在三星智能电视上提供嵌入式预告片和票务 TechCrunch
+# Fandango 将在三星智能电视上提供嵌入式预告片和票务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/fandango-samsung/>
 

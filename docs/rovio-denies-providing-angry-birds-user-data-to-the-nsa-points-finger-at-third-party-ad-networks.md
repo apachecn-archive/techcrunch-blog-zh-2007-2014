@@ -1,4 +1,4 @@
-# Rovio 否认向美国国家安全局提供愤怒的小鸟用户数据，指责第三方广告网络 TechCrunch
+# Rovio 否认向美国国家安全局提供愤怒的小鸟用户数据，指责第三方广告网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/rovio-denies-providing-angry-birds-user-data-to-the-nsa-points-finger-at-third-party-ad-networks/>
 

@@ -1,4 +1,4 @@
-# 更多的博主筹集资金。政治来了。我的咆哮来了。TechCrunch
+# 更多的博主筹集资金。政治来了。我的咆哮来了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/19/more-bloggers-raising-money-here-come-the-politics-and-here-comes-my-rant/>
 

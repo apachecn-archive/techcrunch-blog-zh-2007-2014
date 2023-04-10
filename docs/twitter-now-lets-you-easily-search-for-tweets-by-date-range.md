@@ -1,4 +1,4 @@
-# Twitter 现在可以让你轻松地按日期范围搜索推文 TechCrunch
+# Twitter 现在可以让你轻松地按日期范围搜索推文 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/twitter-now-lets-you-easily-search-for-tweets-by-date-range/>
 

@@ -1,4 +1,4 @@
-# 根据新鲜度过滤谷歌搜索 TechCrunch
+# 根据新鲜度过滤谷歌搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/24/filtering-google-searches-by-freshness/>
 

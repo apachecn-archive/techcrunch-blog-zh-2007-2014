@@ -1,4 +1,4 @@
-# 健康创业公司是下一个大机会吗？TechCrunch
+# 健康创业公司是下一个大机会吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/19/are-health-startups-the-next-big-opportunity-tctv/>
 

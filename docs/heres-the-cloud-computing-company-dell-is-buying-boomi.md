@@ -1,4 +1,4 @@
-# 这是戴尔正在收购的云计算公司:Boomi TechCrunch
+# 这是戴尔正在收购的云计算公司:Boomi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/02/heres-the-cloud-computing-company-dell-is-buying-boomi/>
 

@@ -1,4 +1,4 @@
-# NHK 展示超高清(7，680 x 4，320 像素)原型系统 TechCrunch
+# NHK 展示超高清(7，680 x 4，320 像素)原型系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/20/nhk-demonstrates-ultra-high-definition-7680-x-4320-pixels-protoype-system/>
 

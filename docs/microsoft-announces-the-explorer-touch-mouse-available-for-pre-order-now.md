@@ -1,4 +1,4 @@
-# 微软发布浏览器触摸鼠标 TechCrunch
+# 微软发布浏览器触摸鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/microsoft-announces-the-explorer-touch-mouse-available-for-pre-order-now/>
 

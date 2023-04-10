@@ -1,4 +1,4 @@
-# Zynga 收购你从未用过的社交浏览器 Flock TechCrunch
+# Zynga 收购你从未用过的社交浏览器 Flock 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/05/zynga-to-acquire-flock-the-social-browser-that-you-never-used/>
 

@@ -1,4 +1,4 @@
-# Android 版 RemoteRinger 帮助您在沙发上找到手机 TechCrunch
+# Android 版 RemoteRinger 帮助您在沙发上找到手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/remoteringer-for-android-helps-you-find-your-phone-in-the-couch/>
 

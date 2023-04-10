@@ -1,4 +1,4 @@
-# 杨致远的工资只有 1 美元，但伊坎还是想要他的脑袋 TechCrunch
+# 杨致远的工资只有 1 美元，但伊坎还是想要他的脑袋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/04/jerry-yangs-salary-is-only-1-but-icahn-still-wants-his-head/>
 

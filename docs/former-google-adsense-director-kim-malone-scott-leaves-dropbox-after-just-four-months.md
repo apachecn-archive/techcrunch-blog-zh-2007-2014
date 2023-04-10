@@ -1,4 +1,4 @@
-# 前 Google AdSense 主管 Kim Malone Scott 在仅仅四个月后离开 Dropbox TechCrunch
+# 前 Google AdSense 主管 Kim Malone Scott 在仅仅四个月后离开 Dropbox 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/former-google-adsense-director-kim-malone-scott-leaves-dropbox-after-just-four-months/>
 

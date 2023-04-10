@@ -1,4 +1,4 @@
-# Zerofootprint 如何利用数据让学校更环保 TechCrunch
+# Zerofootprint 如何利用数据让学校更环保 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/08/how-zerofootprint-uses-data-to-make-schools-greener/>
 

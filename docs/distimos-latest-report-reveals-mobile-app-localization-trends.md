@@ -1,4 +1,4 @@
-# Distimo 最新报告揭示移动应用本地化趋势 TechCrunch
+# Distimo 最新报告揭示移动应用本地化趋势 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/distimos-latest-report-reveals-mobile-app-localization-trends/>
 

@@ -1,4 +1,4 @@
-# 电影和电视节目推荐引擎金妮筹得 500 万美元 TechCrunch
+# 电影和电视节目推荐引擎金妮筹得 500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/05/movie-and-tv-show-recommendation-engine-jinni-raises-5-million/>
 

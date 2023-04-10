@@ -1,4 +1,4 @@
-# 网站测试服务优化融资 2800 万美元由 Benchmark 牵头，计划全球扩张 TechCrunch
+# 网站测试服务优化融资 2800 万美元由 Benchmark 牵头，计划全球扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/optimizely-series-a/>
 

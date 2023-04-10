@@ -1,4 +1,4 @@
-# iKnow 是一个社交学习平台，可以真正让你变得更聪明。打开 API。TechCrunch
+# iKnow 是一个社交学习平台，可以真正让你变得更聪明。打开 API。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/15/iknow-is-a-social-learning-platform-that-can-really-make-you-smarter-opens-api/>
 

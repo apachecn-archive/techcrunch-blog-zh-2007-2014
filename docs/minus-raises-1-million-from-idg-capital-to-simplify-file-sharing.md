@@ -1,4 +1,4 @@
-# Minus 从 IDG 资本筹集了 100 万美元用于简化文件共享 TechCrunch
+# Minus 从 IDG 资本筹集了 100 万美元用于简化文件共享 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/minus-raises-1-million-from-idg-capital-to-simplify-file-sharing/>
 

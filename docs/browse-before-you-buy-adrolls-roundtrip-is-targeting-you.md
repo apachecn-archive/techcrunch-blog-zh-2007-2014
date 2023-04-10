@@ -1,4 +1,4 @@
-# 买之前先浏览一下？Adroll 的往返目标是你。TechCrunch
+# 买之前先浏览一下？Adroll 的往返目标是你。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/05/browse-before-you-buy-adrolls-roundtrip-is-targeting-you/>
 

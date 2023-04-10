@@ -1,4 +1,4 @@
-# Pandora 推出基于 HTML5 的全新电视体验，从 Xbox 360 和 PS3 开始 TechCrunch
+# Pandora 推出基于 HTML5 的全新电视体验，从 Xbox 360 和 PS3 开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/05/pandora-launches-new-html5-based-tv-experience-starting-with-xbox-360-and-ps-3/>
 

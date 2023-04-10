@@ -1,4 +1,4 @@
-# 英特尔以 2600 万美元的价格收购了自然语言处理初创公司 Indisys，以打造其人工智能肌肉 TechCrunch
+# 英特尔以 2600 万美元的价格收购了自然语言处理初创公司 Indisys，以打造其人工智能肌肉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/13/intel-has-acquired-natural-language-processing-startup-indisys-price-north-of-26m/>
 

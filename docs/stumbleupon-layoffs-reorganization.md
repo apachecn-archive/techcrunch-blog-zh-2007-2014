@@ -1,4 +1,4 @@
-# StumbleUpon 裁员 30%,将公司重组为盈利状态 TechCrunch
+# StumbleUpon 裁员 30%,将公司重组为盈利状态 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/16/stumbleupon-layoffs-reorganization/>
 

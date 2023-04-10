@@ -1,4 +1,4 @@
-# 离开 Y Combinator 后，保罗·格拉厄姆接管了黑客新闻 TechCrunch
+# 离开 Y Combinator 后，保罗·格拉厄姆接管了黑客新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/29/after-stepping-aside-from-y-combinator-paul-graham-hands-over-the-reins-at-hacker-news/>
 

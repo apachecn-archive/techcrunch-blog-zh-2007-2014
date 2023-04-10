@@ -1,4 +1,4 @@
-# NCR 以 12 亿美元收购酒店和零售 POS 软件公司 Radiant Systems TechCrunch
+# NCR 以 12 亿美元收购酒店和零售 POS 软件公司 Radiant Systems 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/ncr-to-buy-hospitality-and-retail-pos-software-company-radiant-systems-for-1-2-billion/>
 

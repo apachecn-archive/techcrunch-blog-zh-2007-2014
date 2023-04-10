@@ -1,4 +1,4 @@
-# 受谷歌地图的启发，mydeco 为自己设计了一个新方向 TechCrunch
+# 受谷歌地图的启发，mydeco 为自己设计了一个新方向 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/23/inspired-by-google-maps-mydeco-designs-itself-a-new-direction/>
 

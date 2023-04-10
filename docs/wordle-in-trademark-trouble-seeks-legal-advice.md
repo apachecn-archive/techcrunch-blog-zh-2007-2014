@@ -1,4 +1,4 @@
-# Wordle 陷入商标纠纷，寻求法律建议 TechCrunch
+# Wordle 陷入商标纠纷，寻求法律建议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/28/wordle-in-trademark-trouble-seeks-legal-advice/>
 

@@ -1,4 +1,4 @@
-# ScamVille:新 Offerpal CEO 承认错误，做出大胆承诺 TechCrunch
+# ScamVille:新 Offerpal CEO 承认错误，做出大胆承诺 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/05/scamville-new-offerpal-ceo-admits-mistakes-makes-bold-promises/>
 

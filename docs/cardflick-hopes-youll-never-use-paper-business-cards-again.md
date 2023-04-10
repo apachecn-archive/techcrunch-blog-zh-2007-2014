@@ -1,4 +1,4 @@
-# CardFlick 希望你永远不再使用纸质名片 TechCrunch
+# CardFlick 希望你永远不再使用纸质名片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/cardflick-hopes-youll-never-use-paper-business-cards-again/>
 

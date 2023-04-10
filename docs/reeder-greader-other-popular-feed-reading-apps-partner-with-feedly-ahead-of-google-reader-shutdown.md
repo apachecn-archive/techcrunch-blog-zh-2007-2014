@@ -1,4 +1,4 @@
-# Reeder、gReader 和其他流行的 Feed 阅读应用在谷歌阅读器关闭前与 Feedly 合作 TechCrunch
+# Reeder、gReader 和其他流行的 Feed 阅读应用在谷歌阅读器关闭前与 Feedly 合作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/03/reeder-greader-other-popular-feed-reading-apps-partner-with-feedly-ahead-of-google-reader-shutdown/>
 

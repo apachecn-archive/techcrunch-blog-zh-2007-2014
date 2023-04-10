@@ -1,4 +1,4 @@
-# 数字上的 2007:美国在线扼杀网景流量的一年 TechCrunch
+# 数字上的 2007:美国在线扼杀网景流量的一年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/23/2007-in-numbers-the-year-aol-killed-netscapes-traffic/>
 

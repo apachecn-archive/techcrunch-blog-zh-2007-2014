@@ -1,4 +1,4 @@
-# Counsyl 联合创始人 Balaji Srinivasan 晋升为 Andreessen Horowitz 的最新普通合伙人 TechCrunch
+# Counsyl 联合创始人 Balaji Srinivasan 晋升为 Andreessen Horowitz 的最新普通合伙人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/09/counsyl-srinivasan-andreessen-horowitz/>
 

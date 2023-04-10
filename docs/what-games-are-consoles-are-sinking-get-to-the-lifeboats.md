@@ -1,4 +1,4 @@
-# 游戏是什么:主机在下沉。去救生艇那里！TechCrunch
+# 游戏是什么:主机在下沉。去救生艇那里！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/23/what-games-are-consoles-are-sinking-get-to-the-lifeboats/>
 

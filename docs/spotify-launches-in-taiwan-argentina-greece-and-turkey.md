@@ -1,4 +1,4 @@
-# Spotify 在台湾、阿根廷、希腊和土耳其推出 TechCrunch
+# Spotify 在台湾、阿根廷、希腊和土耳其推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/spotify-launches-in-taiwan-argentina-greece-and-turkey/>
 

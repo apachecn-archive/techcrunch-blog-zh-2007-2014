@@ -1,4 +1,4 @@
-# ZipPay 将推出比 Square 更便宜的新移动支付服务 TechCrunch
+# ZipPay 将推出比 Square 更便宜的新移动支付服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/zippay-to-launch-new-mobile-payments-service-cheaper-than-square/>
 

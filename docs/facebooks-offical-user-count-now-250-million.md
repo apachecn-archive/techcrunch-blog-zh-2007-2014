@@ -1,4 +1,4 @@
-# 脸书官方用户数量现已达到 2.5 亿 TechCrunch
+# 脸书官方用户数量现已达到 2.5 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/15/facebooks-offical-user-count-now-250-million/>
 

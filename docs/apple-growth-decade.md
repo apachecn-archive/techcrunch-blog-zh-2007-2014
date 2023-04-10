@@ -1,4 +1,4 @@
-# 苹果的增长火箭碰壁了。什么能让它重新开始？TechCrunch
+# 苹果的增长火箭碰壁了。什么能让它重新开始？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/apple-growth-decade/>
 

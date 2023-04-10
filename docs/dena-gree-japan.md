@@ -1,4 +1,4 @@
-# DeNA，GREE:日本移动社交游戏巨头报告令人印象深刻的财务数据 TechCrunch
+# DeNA，GREE:日本移动社交游戏巨头报告令人印象深刻的财务数据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/dena-gree-japan/>
 

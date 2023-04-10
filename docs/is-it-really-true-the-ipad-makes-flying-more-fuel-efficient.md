@@ -1,4 +1,4 @@
-# iPad 真的能让飞行更省油吗？TechCrunch
+# iPad 真的能让飞行更省油吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/is-it-really-true-the-ipad-makes-flying-more-fuel-efficient/>
 

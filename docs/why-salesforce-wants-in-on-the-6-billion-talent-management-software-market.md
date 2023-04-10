@@ -1,4 +1,4 @@
-# 为什么 Salesforce 想要进入价值 60 亿美元的人才管理软件市场 TechCrunch
+# 为什么 Salesforce 想要进入价值 60 亿美元的人才管理软件市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/16/why-salesforce-wants-in-on-the-6-billion-talent-management-software-market/>
 

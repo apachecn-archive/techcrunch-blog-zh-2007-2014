@@ -1,4 +1,4 @@
-# 创业学院来到伦敦和柏林——付费学习如何成为创业员工 TechCrunch
+# 创业学院来到伦敦和柏林——付费学习如何成为创业员工 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/startup-institute/>
 

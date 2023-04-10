@@ -1,4 +1,4 @@
-# Stealth Milewise 筹集 150 万美元帮助人们兑现奖励计划 TechCrunch
+# Stealth Milewise 筹集 150 万美元帮助人们兑现奖励计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/14/milewise-funding/>
 

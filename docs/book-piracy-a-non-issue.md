@@ -1,4 +1,4 @@
-# 图书盗版:一个非问题 TechCrunch
+# 图书盗版:一个非问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/23/book-piracy-a-non-issue/>
 

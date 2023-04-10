@@ -1,4 +1,4 @@
-# PayPal 作为道德警察？迫使电子书销售商删除某些色情内容 TechCrunch
+# PayPal 作为道德警察？迫使电子书销售商删除某些色情内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/26/paypal-erotica-smashwords-censorshi/>
 

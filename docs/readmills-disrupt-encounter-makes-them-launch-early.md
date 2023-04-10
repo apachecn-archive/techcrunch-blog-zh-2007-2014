@@ -1,4 +1,4 @@
-# ReadMill 的 Disrupt 遭遇让他们提前推出 TechCrunch
+# ReadMill 的 Disrupt 遭遇让他们提前推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/readmills-disrupt-encounter-makes-them-launch-early/>
 

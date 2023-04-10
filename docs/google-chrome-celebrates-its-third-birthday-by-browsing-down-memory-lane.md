@@ -1,4 +1,4 @@
-# 谷歌 Chrome 通过浏览记忆车道庆祝其三岁生日 TechCrunch
+# 谷歌 Chrome 通过浏览记忆车道庆祝其三岁生日 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/google-chrome-celebrates-its-third-birthday-by-browsing-down-memory-lane/>
 

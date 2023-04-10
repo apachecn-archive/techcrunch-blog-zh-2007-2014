@@ -1,4 +1,4 @@
-# 网络创业的小秘密 TechCrunch
+# 网络创业的小秘密 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/07/30/the-little-secret-of-web-startups/>
 

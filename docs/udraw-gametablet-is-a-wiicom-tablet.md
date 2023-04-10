@@ -1,4 +1,4 @@
-# THQ 的 uDraw 游戏本是...Wiicom 平板电脑 TechCrunch
+# THQ 的 uDraw 游戏本是...Wiicom 平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/udraw-gametablet-is-a-wiicom-tablet/>
 

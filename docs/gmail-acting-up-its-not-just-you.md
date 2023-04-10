@@ -1,4 +1,4 @@
-# Gmail 出问题了？不只是你 TechCrunch
+# Gmail 出问题了？不只是你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/25/gmail-acting-up-its-not-just-you/>
 

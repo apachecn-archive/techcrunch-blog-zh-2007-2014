@@ -1,4 +1,4 @@
-# Virident 从英特尔投资、思科、红杉等公司获得 2100 万美元用于企业存储解决方案 TechCrunch
+# Virident 从英特尔投资、思科、红杉等公司获得 2100 万美元用于企业存储解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/virident-grabs-21-million-from-intel-capital-cisco-sequoia-and-more-for-enterprise-storage-solutions/>
 

@@ -1,4 +1,4 @@
-# 工具与玩具:为什么时间表没有改变 TechCrunch
+# 工具与玩具:为什么时间表没有改变 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/24/tools-vs-toys-why-the-timeline-changes-nothing/>
 

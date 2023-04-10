@@ -1,4 +1,4 @@
-# 首席运营官·恩里克·德卡斯特罗将离开雅虎 TechCrunch
+# 首席运营官·恩里克·德卡斯特罗将离开雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/henrique-de-castro-leaves-yahoo/>
 

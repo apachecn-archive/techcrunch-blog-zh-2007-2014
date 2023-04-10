@@ -1,4 +1,4 @@
-# Shutterfly 以 2380 万美元收购柯达在线照片分享平台 TechCrunch
+# Shutterfly 以 2380 万美元收购柯达在线照片分享平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/01/shutterfly-to-buy-kodaks-online-photo-sharing-platform-for-23-8m/>
 

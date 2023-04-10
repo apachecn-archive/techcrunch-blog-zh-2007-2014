@@ -1,4 +1,4 @@
-# Weebly 的交易给了主机提供商耐力国际一个不臭的网页编辑器 TechCrunch
+# Weebly 的交易给了主机提供商耐力国际一个不臭的网页编辑器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/26/weebly-web-host-endurance/>
 

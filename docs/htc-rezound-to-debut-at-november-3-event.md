@@ -1,4 +1,4 @@
-# HTC Rezound 将在 11 月 3 日的活动中亮相？TechCrunch
+# HTC Rezound 将在 11 月 3 日的活动中亮相？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/htc-rezound-to-debut-at-november-3-event/>
 

@@ -1,4 +1,4 @@
-# 下一波电子纸设备会有发光屏幕吗？TechCrunch
+# 下一波电子纸设备会有发光屏幕吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/will-the-next-wave-of-e-paper-devices-have-glowing-screens/>
 

@@ -1,4 +1,4 @@
-# 还记得 NetZero 吗？现在，他们想向您销售移动宽带 TechCrunch
+# 还记得 NetZero 吗？现在，他们想向您销售移动宽带 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/remember-netzero-now-they-want-to-sell-you-mobile-broadband/>
 

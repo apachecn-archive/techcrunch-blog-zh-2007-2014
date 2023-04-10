@@ -1,4 +1,4 @@
-# Playdom 继续疯狂购物；收购社交游戏初创公司 hive 7 TechCrunch
+# Playdom 继续疯狂购物；收购社交游戏初创公司 hive 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/24/playdom-continues-shopping-spree-acquires-social-gaming-startup-hive7/>
 

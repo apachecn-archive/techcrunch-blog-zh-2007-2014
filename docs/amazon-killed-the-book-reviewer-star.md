@@ -1,4 +1,4 @@
-# 亚马逊杀了书评明星 TechCrunch
+# 亚马逊杀了书评明星 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/amazon-killed-the-book-reviewer-star/>
 

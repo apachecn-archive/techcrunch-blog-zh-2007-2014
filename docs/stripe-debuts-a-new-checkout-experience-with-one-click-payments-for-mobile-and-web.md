@@ -1,4 +1,4 @@
-# Stripe 首次推出全新的结账体验，支持移动和网络一键式支付 TechCrunch
+# Stripe 首次推出全新的结账体验，支持移动和网络一键式支付 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/stripe-debuts-a-new-checkout-experience-with-one-click-payments-for-mobile-and-web/>
 

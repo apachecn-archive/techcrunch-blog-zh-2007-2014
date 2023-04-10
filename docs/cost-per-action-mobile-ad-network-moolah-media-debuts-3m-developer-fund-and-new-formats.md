@@ -1,4 +1,4 @@
-# 按次计费的移动广告网络 Moolah Media 首次推出 300 万美元的开发者基金和新格式 TechCrunch
+# 按次计费的移动广告网络 Moolah Media 首次推出 300 万美元的开发者基金和新格式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/cost-per-action-mobile-ad-network-moolah-media-debuts-3m-developer-fund-and-new-formats/>
 

@@ -1,4 +1,4 @@
-# 7notes:适用于 iPad 和 iPhone 的精确手写识别应用 TechCrunch
+# 7notes:适用于 iPad 和 iPhone 的精确手写识别应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/7notes-ipad-iphone/>
 

@@ -1,4 +1,4 @@
-# 《在工作室》中，Kiip 的 Courtney Guertin 保持他的中西部伦理 TechCrunch
+# 《在工作室》中，Kiip 的 Courtney Guertin 保持他的中西部伦理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/in-the-studio-kiips-courtney-guertin-keeps-his-midwestern-ethic/>
 

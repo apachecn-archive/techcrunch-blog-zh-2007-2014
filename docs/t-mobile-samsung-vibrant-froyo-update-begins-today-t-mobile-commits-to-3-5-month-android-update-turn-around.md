@@ -1,4 +1,4 @@
-# T-mobile 三星充满活力的 Froyo 更新从今天开始，T-mobile 承诺 3-5 个月的 Android 更新周期 TechCrunch
+# T-mobile 三星充满活力的 Froyo 更新从今天开始，T-mobile 承诺 3-5 个月的 Android 更新周期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/t-mobile-samsung-vibrant-froyo-update-begins-today-t-mobile-commits-to-3-5-month-android-update-turn-around/>
 

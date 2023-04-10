@@ -1,4 +1,4 @@
-# 现在，Remind101 在 3 万所学校中快速发展，其使命是实现课堂交流的现代化 TechCrunch
+# 现在，Remind101 在 3 万所学校中快速发展，其使命是实现课堂交流的现代化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/now-in-30k-schools-remind101-lands-3-5m-from-socialcapital-yuri-milner-more-to-bring-texting-to-teachers/>
 

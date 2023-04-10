@@ -1,4 +1,4 @@
-# 你是海盗吗？TechCrunch
+# 你是海盗吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/31/are-you-a-pirate/>
 

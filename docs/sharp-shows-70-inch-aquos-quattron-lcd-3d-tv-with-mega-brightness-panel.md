@@ -1,4 +1,4 @@
-# 夏普展示带有“高亮度”面板的 70 英寸 Aquos Quattron 液晶 3D 电视 TechCrunch
+# 夏普展示带有“高亮度”面板的 70 英寸 Aquos Quattron 液晶 3D 电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/sharp-shows-70-inch-aquos-quattron-lcd-3d-tv-with-mega-brightness-panel/>
 

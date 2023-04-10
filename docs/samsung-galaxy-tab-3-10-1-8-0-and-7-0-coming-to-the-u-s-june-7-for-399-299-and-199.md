@@ -1,4 +1,4 @@
-# 三星 Galaxy Tab 3 10.1、8.0 和 7.0 将于 7 月 7 日在美国上市，售价分别为 399 美元、299 美元和 199 美元 TechCrunch
+# 三星 Galaxy Tab 3 10.1、8.0 和 7.0 将于 7 月 7 日在美国上市，售价分别为 399 美元、299 美元和 199 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/24/samsung-galaxy-tab-3-10-1-8-0-and-7-0-coming-to-the-u-s-june-7-for-399-299-and-199/>
 

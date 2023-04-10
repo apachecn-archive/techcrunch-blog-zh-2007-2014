@@ -1,4 +1,4 @@
-# PayPal 与德国 Orderbird 合作推出手机入住和支付服务 TechCrunch
+# PayPal 与德国 Orderbird 合作推出手机入住和支付服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/27/paypal-looking-for-more-mobile-business-in-europe-launches-a-check-in-and-payments-service-with-orderbird-in-germany/>
 

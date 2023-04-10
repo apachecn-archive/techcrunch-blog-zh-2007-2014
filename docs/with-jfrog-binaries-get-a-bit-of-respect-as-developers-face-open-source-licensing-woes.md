@@ -1,4 +1,4 @@
-# 有了 JFrog，二进制文件得到了一点尊重，因为开发者面临开源许可的困境 TechCrunch
+# 有了 JFrog，二进制文件得到了一点尊重，因为开发者面临开源许可的困境 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/01/with-jfrog-binaries-get-a-bit-of-respect-as-developers-face-open-source-licensing-woes/>
 

@@ -1,4 +1,4 @@
-# 脸书最近收购 Parse，为开发人员的网站提供托管服务 TechCrunch
+# 脸书最近收购 Parse，为开发人员的网站提供托管服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/07/facebook-parse-web-hosting/>
 

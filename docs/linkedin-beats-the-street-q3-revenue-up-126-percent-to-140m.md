@@ -1,4 +1,4 @@
-# LinkedIn 打街；第三季度收入增长 126%，达到 1.4 亿美元 TechCrunch
+# LinkedIn 打街；第三季度收入增长 126%，达到 1.4 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/linkedin-beats-the-street-q3-revenue-up-126-percent-to-140m/>
 

@@ -1,4 +1,4 @@
-# Square Cash 将允许您通过电子邮件向朋友汇款 TechCrunch
+# Square Cash 将允许您通过电子邮件向朋友汇款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/20/square-cash-will-let-you-send-money-to-your-friends-by-email/>
 

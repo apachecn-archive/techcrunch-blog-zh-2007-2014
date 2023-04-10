@@ -1,4 +1,4 @@
-# 脸书“肯定”会在今年筹集资金；谷歌考虑收购 TechCrunch
+# 脸书“肯定”会在今年筹集资金；谷歌考虑收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/27/facebook-definitely-raising-capital-this-year-google-considered-acquisition/>
 

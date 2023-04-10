@@ -1,4 +1,4 @@
-# True Ventures 投资口腔护理贾斯汀比伯 ora brush TechCrunch
+# True Ventures 投资口腔护理贾斯汀比伯 ora brush 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/true-ventures-funds-orabrush-the-justin-bieber-of-mouth-care/>
 

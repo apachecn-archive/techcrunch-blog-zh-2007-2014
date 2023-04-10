@@ -1,4 +1,4 @@
-# 微软阅读器电子书系统即将结束 TechCrunch
+# 微软阅读器电子书系统即将结束 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/microsoft-reader-e-book-system-comes-to-its-conclusion/>
 

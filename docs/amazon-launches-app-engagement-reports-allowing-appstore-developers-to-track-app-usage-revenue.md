@@ -1,4 +1,4 @@
-# 亚马逊发布应用参与报告，允许 Appstore 开发者跟踪应用使用和收入 TechCrunch
+# 亚马逊发布应用参与报告，允许 Appstore 开发者跟踪应用使用和收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/24/amazon-launches-app-engagement-reports-allowing-appstore-developers-to-track-app-usage-revenue/>
 

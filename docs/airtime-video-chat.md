@@ -1,4 +1,4 @@
-# Airtime 推出视频聊天网络，这是在线交流的新去处 TechCrunch
+# Airtime 推出视频聊天网络，这是在线交流的新去处 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/05/airtime-video-chat/>
 

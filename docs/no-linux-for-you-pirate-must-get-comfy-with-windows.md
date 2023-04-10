@@ -1,4 +1,4 @@
-# 没有适合你的 Linux:盗版者必须适应 Windows TechCrunch
+# 没有适合你的 Linux:盗版者必须适应 Windows 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/no-linux-for-you-pirate-must-get-comfy-with-windows/>
 

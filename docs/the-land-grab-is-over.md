@@ -1,4 +1,4 @@
-# 移动/社交/本地/云领域的争夺已经结束 TechCrunch
+# 移动/社交/本地/云领域的争夺已经结束 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/15/the-land-grab-is-over/>
 

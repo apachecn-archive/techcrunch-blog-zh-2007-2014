@@ -1,4 +1,4 @@
-# 谷歌公布 2008 年谷歌应用程序计划 TechCrunch
+# 谷歌公布 2008 年谷歌应用程序计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/01/google-reveals-2008-plans-for-google-apps/>
 

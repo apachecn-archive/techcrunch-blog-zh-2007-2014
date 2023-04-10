@@ -1,4 +1,4 @@
-# 特斯拉超级充电站合作伙伴计划内幕:道路交通电气化的成本和承诺 TechCrunch
+# 特斯拉超级充电站合作伙伴计划内幕:道路交通电气化的成本和承诺 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/inside-teslas-supercharger-partner-program-the-costs-and-commitments-of-electrifying-road-transport/?goback=.gde_4535494_member_261265017>
 

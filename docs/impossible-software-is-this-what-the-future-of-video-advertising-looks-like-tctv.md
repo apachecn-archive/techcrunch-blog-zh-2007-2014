@@ -1,4 +1,4 @@
-# 不可能的软件——这就是视频广告的未来吗？TechCrunch
+# 不可能的软件——这就是视频广告的未来吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/23/impossible-software-is-this-what-the-future-of-video-advertising-looks-like-tctv/>
 

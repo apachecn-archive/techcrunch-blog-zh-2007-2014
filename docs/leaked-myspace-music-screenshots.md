@@ -1,4 +1,4 @@
-# 泄露的 MySpace 音乐截图 TechCrunch
+# 泄露的 MySpace 音乐截图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/22/leaked-myspace-music-screenshots/>
 

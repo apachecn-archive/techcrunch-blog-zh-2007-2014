@@ -1,4 +1,4 @@
-# 新的盒装套装以 2.99 美元的价格流式传输到您的 iPhone 上 TechCrunch
+# 新的盒装套装以 2.99 美元的价格流式传输到您的 iPhone 上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/18/the-new-boxed-set-comes-streaming-to-your-iphone-for-299/>
 

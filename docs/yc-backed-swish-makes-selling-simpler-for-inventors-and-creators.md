@@ -1,4 +1,4 @@
-# YC 支持的 Swish 让发明家和创造者的销售变得更简单 TechCrunch
+# YC 支持的 Swish 让发明家和创造者的销售变得更简单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/01/yc-backed-swish-makes-selling-simpler-for-inventors-and-creators/>
 

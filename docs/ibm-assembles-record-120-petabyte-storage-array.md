@@ -1,4 +1,4 @@
-# IBM 组装创纪录的 120 Pb 存储阵列 TechCrunch
+# IBM 组装创纪录的 120 Pb 存储阵列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/ibm-assembles-record-120-petabyte-storage-array/>
 

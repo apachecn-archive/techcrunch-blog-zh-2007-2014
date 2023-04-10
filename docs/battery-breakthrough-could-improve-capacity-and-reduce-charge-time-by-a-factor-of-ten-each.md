@@ -1,4 +1,4 @@
-# 电池方面的突破可能会提高容量，并将充电时间缩短十分之一 TechCrunch
+# 电池方面的突破可能会提高容量，并将充电时间缩短十分之一 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/battery-breakthrough-could-improve-capacity-and-reduce-charge-time-by-a-factor-of-ten-each/>
 

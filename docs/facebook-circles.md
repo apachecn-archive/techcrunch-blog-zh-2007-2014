@@ -1,4 +1,4 @@
-# 脸书工程师打造受 Google+启发的脸书黑客 TechCrunch
+# 脸书工程师打造受 Google+启发的脸书黑客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/01/facebook-circles/>
 

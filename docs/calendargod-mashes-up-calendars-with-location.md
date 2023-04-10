@@ -1,4 +1,4 @@
-# CalendarGod 将日历与位置混搭在一起 TechCrunch
+# CalendarGod 将日历与位置混搭在一起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/27/calendargod-mashes-up-calendars-with-location/>
 

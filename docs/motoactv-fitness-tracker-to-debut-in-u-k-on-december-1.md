@@ -1,4 +1,4 @@
-# MOTOACTV 健身追踪器将于 12 月 1 日在英国亮相 TechCrunch
+# MOTOACTV 健身追踪器将于 12 月 1 日在英国亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/29/motoactv-fitness-tracker-to-debut-in-u-k-on-december-1/>
 

@@ -1,4 +1,4 @@
-# STI 以 1000 万美元收购 Chalkable，将其教育应用商店和学习平台引入 K-12 学校 TechCrunch
+# STI 以 1000 万美元收购 Chalkable，将其教育应用商店和学习平台引入 K-12 学校 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/06/sti-buys-chalkable-for-10m-to-bring-its-educational-app-store-and-learning-platform-to-k-12-schools/>
 

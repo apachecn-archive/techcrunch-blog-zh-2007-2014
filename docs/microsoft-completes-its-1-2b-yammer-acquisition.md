@@ -1,4 +1,4 @@
-# 微软完成 12 亿美元收购 Yammer TechCrunch
+# 微软完成 12 亿美元收购 Yammer 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/microsoft-completes-its-1-2b-yammer-acquisition/>
 

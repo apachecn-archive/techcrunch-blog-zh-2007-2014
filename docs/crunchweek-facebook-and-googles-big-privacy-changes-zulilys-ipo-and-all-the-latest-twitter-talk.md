@@ -1,4 +1,4 @@
-# CrunchWeek:脸书和谷歌的重大隐私变化，Zulily 的首次公开募股，以及所有最新的 Twitter 话题 TechCrunch
+# CrunchWeek:脸书和谷歌的重大隐私变化，Zulily 的首次公开募股，以及所有最新的 Twitter 话题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/12/crunchweek-facebook-and-googles-big-privacy-changes-zulilys-ipo-and-all-the-latest-twitter-talk/>
 

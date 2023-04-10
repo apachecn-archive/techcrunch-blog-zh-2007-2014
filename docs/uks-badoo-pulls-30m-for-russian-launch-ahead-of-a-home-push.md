@@ -1,4 +1,4 @@
-# 英国的 Badoo 为俄罗斯的发布筹集了 3000 万美元，领先于本土发布 TechCrunch
+# 英国的 Badoo 为俄罗斯的发布筹集了 3000 万美元，领先于本土发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/21/uks-badoo-pulls-30m-for-russian-launch-ahead-of-a-home-push/>
 

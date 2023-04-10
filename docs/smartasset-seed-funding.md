@@ -1,4 +1,4 @@
-# Y Combinator 支持的财务决策初创公司 SmartAsset 融资 90 万美元 TechCrunch
+# Y Combinator 支持的财务决策初创公司 SmartAsset 融资 90 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/15/smartasset-seed-funding/>
 

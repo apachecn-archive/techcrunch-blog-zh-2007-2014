@@ -1,4 +1,4 @@
-# CineSkates:为你的相机设计的溜冰鞋 TechCrunch
+# CineSkates:为你的相机设计的溜冰鞋 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/cineskates-roller-skates-for-your-camera/>
 

@@ -1,4 +1,4 @@
-# 索尼计划为电动汽车制造电池 TechCrunch
+# 索尼计划为电动汽车制造电池 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/sony-plans-to-make-batteries-for-electric-vehicles/>
 

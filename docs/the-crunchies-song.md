@@ -1,4 +1,4 @@
-# 视频:脆饼干之歌！TechCrunch
+# 视频:脆饼干之歌！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/22/the-crunchies-song/>
 

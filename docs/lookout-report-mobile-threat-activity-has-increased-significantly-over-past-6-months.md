@@ -1,4 +1,4 @@
-# Lookout 报告:Android 恶意软件在过去 6 个月中显著增加 TechCrunch
+# Lookout 报告:Android 恶意软件在过去 6 个月中显著增加 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/lookout-report-mobile-threat-activity-has-increased-significantly-over-past-6-months/>
 

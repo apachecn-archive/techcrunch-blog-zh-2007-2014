@@ -1,4 +1,4 @@
-# 电视无处不在是康卡斯特和时代华纳对免费网络视频的回应 TechCrunch
+# 电视无处不在是康卡斯特和时代华纳对免费网络视频的回应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/tv-everywhere-is-comcast-and-time-warners-answer-to-free-internet-video/>
 

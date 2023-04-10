@@ -1,4 +1,4 @@
-# 制作自己的 iWatch TechCrunch
+# 制作自己的 iWatch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/10/make-your-own-iwatch/>
 

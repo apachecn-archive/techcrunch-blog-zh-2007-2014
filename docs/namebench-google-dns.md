@@ -1,4 +1,4 @@
-# Namebench: Google 的 20%项目，寻找最快的 DNS 服务器 TechCrunch
+# Namebench: Google 的 20%项目，寻找最快的 DNS 服务器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/01/namebench-google-dns/>
 

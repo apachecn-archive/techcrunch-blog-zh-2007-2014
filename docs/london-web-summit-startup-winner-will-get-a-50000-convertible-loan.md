@@ -1,4 +1,4 @@
-# 伦敦网络峰会的创业者将获得 5 万英镑的可转换贷款 TechCrunch
+# 伦敦网络峰会的创业者将获得 5 万英镑的可转换贷款 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/12/london-web-summit-startup-winner-will-get-a-50000-convertible-loan/>
 

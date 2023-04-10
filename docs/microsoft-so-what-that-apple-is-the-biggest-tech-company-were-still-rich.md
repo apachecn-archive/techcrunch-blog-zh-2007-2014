@@ -1,4 +1,4 @@
-# 微软:那么苹果是“最大”的科技公司是什么？我们还是有钱的！TechCrunch
+# 微软:那么苹果是“最大”的科技公司是什么？我们还是有钱的！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/28/microsoft-so-what-that-apple-is-the-biggest-tech-company-were-still-rich/>
 

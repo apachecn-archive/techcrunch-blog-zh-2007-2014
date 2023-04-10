@@ -1,4 +1,4 @@
-# Y Combinator 现在每分钟处理一个申请 TechCrunch
+# Y Combinator 现在每分钟处理一个申请 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/10/y-combinator-is-now-getting-over-one-application-every-minute/>
 

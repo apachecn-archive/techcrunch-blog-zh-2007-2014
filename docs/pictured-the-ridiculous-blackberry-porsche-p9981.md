@@ -1,4 +1,4 @@
-# 图为:(可笑的)黑莓保时捷 P ' 9981 TechCrunch
+# 图为:(可笑的)黑莓保时捷 P ' 9981 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/pictured-the-ridiculous-blackberry-porsche-p9981/>
 

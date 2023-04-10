@@ -1,4 +1,4 @@
-# Mashape 拒绝收购提议；从知名投资者处筹集种子资金 TechCrunch
+# Mashape 拒绝收购提议；从知名投资者处筹集种子资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/mashape-turns-down-acquisition-offers-raises-seed-round-from-big-name-investors/>
 

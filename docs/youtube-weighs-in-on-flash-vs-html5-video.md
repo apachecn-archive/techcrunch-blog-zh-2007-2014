@@ -1,4 +1,4 @@
-# YouTube 参与 Flash 与 HTML5 视频的比较 TechCrunch
+# YouTube 参与 Flash 与 HTML5 视频的比较 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/29/youtube-weighs-in-on-flash-vs-html5-video/>
 

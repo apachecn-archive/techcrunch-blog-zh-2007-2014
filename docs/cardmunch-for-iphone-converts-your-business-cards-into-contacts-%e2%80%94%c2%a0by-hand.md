@@ -1,4 +1,4 @@
-# CardMunch for iPhone 将您的名片手动转换为联系人 TechCrunch
+# CardMunch for iPhone 将您的名片手动转换为联系人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/04/cardmunch-for-iphone-converts-your-business-cards-into-contacts-%e2%80%94%c2%a0by-hand/>
 

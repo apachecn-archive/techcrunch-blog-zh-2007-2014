@@ -1,4 +1,4 @@
-# AppGrooves:应用推荐引擎结合了社交和“热门与否”功能 TechCrunch
+# AppGrooves:应用推荐引擎结合了社交和“热门与否”功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/appgrooves-app-recommendation-engine-combines-social-with-hot-or-not-feature/>
 

@@ -1,4 +1,4 @@
-# 智能电视平台 Flingo 走出秘密，融合电视和网络 TechCrunch
+# 智能电视平台 Flingo 走出秘密，融合电视和网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/smart-tv-platform-flingo-comes-out-of-stealth-to-merge-television-and-the-web/>
 

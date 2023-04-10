@@ -1,4 +1,4 @@
-# Roku 在美国销售了 500 万个流媒体播放器，播放了 8B 个视频和音乐曲目 TechCrunch
+# Roku 在美国销售了 500 万个流媒体播放器，播放了 8B 个视频和音乐曲目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/roku-hits-5m-streaming-players-sold-in-the-u-s-has-streamed-8b-videos-and-music-tracks/>
 

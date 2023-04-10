@@ -1,4 +1,4 @@
-# OnGreen，一个连接清洁技术创业公司和投资者的网站，筹集了 140 万美元 TechCrunch
+# OnGreen，一个连接清洁技术创业公司和投资者的网站，筹集了 140 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/09/ongreen-series-a-investmen/>
 

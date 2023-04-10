@@ -1,4 +1,4 @@
-# 时髦的照片应用 Frontback 回避 Twitter 的兴趣，而是筹集了数百万美元 TechCrunch
+# 时髦的照片应用 Frontback 回避 Twitter 的兴趣，而是筹集了数百万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/buzzy-photo-app-frontback-shuns-twitter-interest-raises-millions-instead/>
 

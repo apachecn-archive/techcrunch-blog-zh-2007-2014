@@ -1,4 +1,4 @@
-# 应用程序制造商 Kidaptive 首次推出“父母的平板电脑”，这是一种在 iPad 上跟踪孩子教育发展的新方法 TechCrunch
+# 应用程序制造商 Kidaptive 首次推出“父母的平板电脑”，这是一种在 iPad 上跟踪孩子教育发展的新方法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/14/app-maker-kidaptive-debuts-parents-pad-a-new-way-to-track-a-childs-educational-development-on-ipad/>
 

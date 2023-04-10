@@ -1,4 +1,4 @@
-# 宣布最后一次呼吁脆饼干 Tix，最后一次投票的机会，和一个由 Animoto 前党！TechCrunch
+# 宣布最后一次呼吁脆饼干 Tix，最后一次投票的机会，和一个由 Animoto 前党！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/last-call-crunchies-tix/>
 

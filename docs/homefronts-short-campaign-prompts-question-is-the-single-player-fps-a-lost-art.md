@@ -1,4 +1,4 @@
-# Homefront 的短战役提示问题:单人 FPS 是失传的艺术吗？TechCrunch
+# Homefront 的短战役提示问题:单人 FPS 是失传的艺术吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/08/homefronts-short-campaign-prompts-question-is-the-single-player-fps-a-lost-art/>
 

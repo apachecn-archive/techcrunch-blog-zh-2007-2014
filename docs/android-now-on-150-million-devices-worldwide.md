@@ -1,4 +1,4 @@
-# Android 现已在全球 1.5 亿台设备上使用 TechCrunch
+# Android 现已在全球 1.5 亿台设备上使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/15/android-now-on-150-million-devices-worldwide/>
 

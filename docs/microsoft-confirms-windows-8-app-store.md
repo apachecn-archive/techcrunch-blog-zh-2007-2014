@@ -1,4 +1,4 @@
-# 微软确认 Windows 8 应用商店 TechCrunch
+# 微软确认 Windows 8 应用商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/microsoft-confirms-windows-8-app-store/>
 

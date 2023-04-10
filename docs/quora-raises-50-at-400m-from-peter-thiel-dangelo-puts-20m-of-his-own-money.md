@@ -1,4 +1,4 @@
-# Quora 从彼得·泰尔获得 4 亿美元融资 5000 万美元，D'Angelo 投入 2000 万美元自有资金 TechCrunch
+# Quora 从彼得·泰尔获得 4 亿美元融资 5000 万美元，D'Angelo 投入 2000 万美元自有资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/14/quora-raises-50-at-400m-from-peter-thiel-dangelo-puts-20m-of-his-own-money/>
 

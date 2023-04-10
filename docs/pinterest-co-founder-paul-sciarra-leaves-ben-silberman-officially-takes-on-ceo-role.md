@@ -1,4 +1,4 @@
-# Pinterest 联合创始人保罗·西拉离职，本·希伯尔曼正式担任首席执行官 TechCrunch
+# Pinterest 联合创始人保罗·西拉离职，本·希伯尔曼正式担任首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/02/pinterest-co-founder-paul-sciarra-leaves-ben-silberman-officially-takes-on-ceo-role/>
 

@@ -1,4 +1,4 @@
-# 伦敦现场直播:诺基亚:去参加新闻发布会 TechCrunch
+# 伦敦现场直播:诺基亚:去参加新闻发布会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/live-from-london-nokia-go-play-press-conference/>
 

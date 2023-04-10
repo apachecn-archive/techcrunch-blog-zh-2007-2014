@@ -1,4 +1,4 @@
-# Razer 的便携式 Ferox 扬声器向各个方向发射声音 TechCrunch
+# Razer 的便携式 Ferox 扬声器向各个方向发射声音 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/razers-portable-ferox-speakers-shoot-sound-in-every-direction/>
 

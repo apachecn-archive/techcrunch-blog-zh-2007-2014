@@ -1,4 +1,4 @@
-# GoPro 发布高清 Hero2 行动摄像机，在相同的坚固外壳中实现全新成像技术 TechCrunch
+# GoPro 发布高清 Hero2 行动摄像机，在相同的坚固外壳中实现全新成像技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/gopro-releases-the-hd-hero2-professional-camera-all-new-imaging-in-the-same-rugged-housing/>
 

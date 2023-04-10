@@ -1,4 +1,4 @@
-# 2014 年，网飞首席执行官雷德·哈斯汀斯的薪酬将增长 50%，达到 300 万美元 TechCrunch
+# 2014 年，网飞首席执行官雷德·哈斯汀斯的薪酬将增长 50%，达到 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/31/netflix-ceo-reed-hastings-salary-to-get-50-pay-bump-to-3m-in-2014/>
 

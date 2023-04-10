@@ -1,4 +1,4 @@
-# 突击测验:是谁要求脸书统计门户网站 Facebakers 改名的？TechCrunch
+# 突击测验:是谁要求脸书统计门户网站 Facebakers 改名的？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/pop-quiz-who-requested-facebook-stats-portal-facebakers-to-change-its-name/>
 

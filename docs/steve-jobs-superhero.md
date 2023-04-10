@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯，超级英雄 TechCrunch
+# 史蒂夫·乔布斯，超级英雄 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/28/steve-jobs-superhero/>
 

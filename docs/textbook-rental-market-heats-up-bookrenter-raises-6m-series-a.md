@@ -1,4 +1,4 @@
-# 教科书租赁市场升温:BookRenter 融资 600 万美元 A 轮 TechCrunch
+# 教科书租赁市场升温:BookRenter 融资 600 万美元 A 轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/22/textbook-rental-market-heats-up-bookrenter-raises-6m-series-a/>
 

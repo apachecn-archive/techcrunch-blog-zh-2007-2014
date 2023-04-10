@@ -1,4 +1,4 @@
-# 协作基金募集 3300 万美元第二支基金，Nexon 创始人 Jay Kim 成为风险合伙人 TechCrunch
+# 协作基金募集 3300 万美元第二支基金，Nexon 创始人 Jay Kim 成为风险合伙人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/26/collaborative-fund-33m-jay-kim/>
 

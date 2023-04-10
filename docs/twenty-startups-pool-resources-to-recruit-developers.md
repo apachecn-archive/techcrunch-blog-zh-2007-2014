@@ -1,4 +1,4 @@
-# 二十家创业公司汇集资源招募开发人员 TechCrunch
+# 二十家创业公司汇集资源招募开发人员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/24/twenty-startups-pool-resources-to-recruit-developers/>
 

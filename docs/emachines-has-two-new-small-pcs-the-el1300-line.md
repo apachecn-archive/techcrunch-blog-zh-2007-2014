@@ -1,4 +1,4 @@
-# eMachines 有两款新的小型电脑，EL1300 系列 TechCrunch
+# eMachines 有两款新的小型电脑，EL1300 系列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/20/emachines-has-two-new-small-pcs-the-el1300-line/>
 

@@ -1,4 +1,4 @@
-# 论泡沫...为什么一切都会好 TechCrunch
+# 论泡沫...为什么一切都会好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/22/on-bubbles-and-why-it-will-all-be-fine/>
 

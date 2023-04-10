@@ -1,4 +1,4 @@
-# 谷歌与 14 家交易提供商合作，成为家乡交易的一站式商店 TechCrunch
+# 谷歌与 14 家交易提供商合作，成为家乡交易的一站式商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/google-offers-partners-with-14-deal-providers-becoming-a-one-stop-shop-for-hometown-deals/>
 

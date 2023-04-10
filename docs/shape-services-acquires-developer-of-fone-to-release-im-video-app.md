@@ -1,4 +1,4 @@
-# SHAPE Services 收购“fone”开发商，发布 IM+视频应用 TechCrunch
+# SHAPE Services 收购“fone”开发商，发布 IM+视频应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/04/shape-services-acquires-developer-of-fone-to-release-im-video-app/>
 

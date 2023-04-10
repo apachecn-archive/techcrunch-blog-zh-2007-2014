@@ -1,4 +1,4 @@
-# Google Buzz 警告:强制喂食用户可能导致呕吐 TechCrunch
+# Google Buzz 警告:强制喂食用户可能导致呕吐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/google-buzz-warning-force-feeding-users-can-result-in-vomiting/>
 

@@ -1,4 +1,4 @@
-# 周三忙吗？和我们一起去看《钢铁侠》的试映吧 TechCrunch
+# 周三忙吗？和我们一起去看《钢铁侠》的试映吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/29/busy-wednesday-come-see-a-pre-screening-of-iron-man-with-us/>
 

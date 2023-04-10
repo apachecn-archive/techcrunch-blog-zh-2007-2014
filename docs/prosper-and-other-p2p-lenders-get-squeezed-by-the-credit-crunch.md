@@ -1,4 +1,4 @@
-# Prosper 和其他 P2P 贷款机构受到信贷危机的挤压 TechCrunch
+# Prosper 和其他 P2P 贷款机构受到信贷危机的挤压 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/prosper-and-other-p2p-lenders-get-squeezed-by-the-credit-crunch/>
 

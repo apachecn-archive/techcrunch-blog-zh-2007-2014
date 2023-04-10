@@ -1,4 +1,4 @@
-# 每日危机:高级中心版 TechCrunch
+# 每日危机:高级中心版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/daily-crunch-senior-center-edition/>
 

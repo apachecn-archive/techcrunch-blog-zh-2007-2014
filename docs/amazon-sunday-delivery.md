@@ -1,4 +1,4 @@
-# 亚马逊将开始在洛杉矶、纽约和伦敦为 Prime 客户提供周日送货服务 TechCrunch
+# 亚马逊将开始在洛杉矶、纽约和伦敦为 Prime 客户提供周日送货服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/11/amazon-sunday-delivery/>
 

@@ -1,4 +1,4 @@
-# 混合磁带 USB:完全复古真棒 TechCrunch
+# 混合磁带 USB:完全复古真棒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/mix-tape-usb-totally-retro-awesome/>
 

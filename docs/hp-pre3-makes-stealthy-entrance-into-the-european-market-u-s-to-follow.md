@@ -1,4 +1,4 @@
-# HP Pre3 秘密进入欧洲市场，随后进入美国市场 TechCrunch
+# HP Pre3 秘密进入欧洲市场，随后进入美国市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/hp-pre3-makes-stealthy-entrance-into-the-european-market-u-s-to-follow/>
 

@@ -1,4 +1,4 @@
-# 拥有自己的英格兰足球队:my football club–TechCrunch
+# 拥有自己的英格兰足球队:my football club–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/18/own-your-own-english-soccer-team-myfootballclub/>
 

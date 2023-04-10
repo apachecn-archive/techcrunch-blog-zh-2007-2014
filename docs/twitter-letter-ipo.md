@@ -1,4 +1,4 @@
-# 在 Twitter 的 IPO 文件中，致股东的信非常简洁 TechCrunch
+# 在 Twitter 的 IPO 文件中，致股东的信非常简洁 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/03/twitter-letter-ipo/>
 

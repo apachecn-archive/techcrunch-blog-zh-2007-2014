@@ -1,4 +1,4 @@
-# 小心 FriendFeed: Socialthing！更易于使用 TechCrunch
+# 小心 FriendFeed: Socialthing！更易于使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/10/watch-out-friendfeed-socialthing-is-even-easier-to-use/>
 

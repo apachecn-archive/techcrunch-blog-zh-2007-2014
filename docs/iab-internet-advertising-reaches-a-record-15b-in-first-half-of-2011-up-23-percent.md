@@ -1,4 +1,4 @@
-# IAB:2011 年上半年互联网广告达到创纪录的 150 亿美元；增长 23% TechCrunch
+# IAB:2011 年上半年互联网广告达到创纪录的 150 亿美元；增长 23% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/iab-internet-advertising-reaches-a-record-15b-in-first-half-of-2011-up-23-percent/>
 

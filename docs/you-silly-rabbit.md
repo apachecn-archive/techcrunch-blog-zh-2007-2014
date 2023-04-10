@@ -1,4 +1,4 @@
-# 当 TaskRabbit 考虑在英国推出时，两个本地竞争对手出现了:TaskPandas 和 Sorted TechCrunch
+# 当 TaskRabbit 考虑在英国推出时，两个本地竞争对手出现了:TaskPandas 和 Sorted 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/06/you-silly-rabbit/>
 

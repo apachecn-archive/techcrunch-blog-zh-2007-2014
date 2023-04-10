@@ -1,4 +1,4 @@
-# 移动支付吸引了社交网络，但费用高昂 TechCrunch
+# 移动支付吸引了社交网络，但费用高昂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/13/mobile-payments-getting-traction-on-social-networks-but-fees-are-sky-high/>
 

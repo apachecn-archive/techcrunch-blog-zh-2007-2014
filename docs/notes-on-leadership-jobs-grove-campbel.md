@@ -1,4 +1,4 @@
-# 领导力笔记:像史蒂夫·乔布斯一样。。。比尔·坎贝尔和安迪·格罗夫 TechCrunch
+# 领导力笔记:像史蒂夫·乔布斯一样。。。比尔·坎贝尔和安迪·格罗夫 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/14/notes-on-leadership-jobs-grove-campbel/>
 

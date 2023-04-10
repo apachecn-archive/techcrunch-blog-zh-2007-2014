@@ -1,4 +1,4 @@
-# FoxNews.com 似乎黑了(或者有人搞砸了)TechCrunch
+# FoxNews.com 似乎黑了(或者有人搞砸了)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/05/foxnews-com-seemingly-hacked-or-someone-just-screwed-up-big-time/>
 

@@ -1,4 +1,4 @@
-# 微软利用脸书的开放图表推出 Docs.com TechCrunch
+# 微软利用脸书的开放图表推出 Docs.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/microsoft-facebook-docs-com/>
 

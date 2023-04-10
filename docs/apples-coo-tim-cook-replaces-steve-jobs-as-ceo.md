@@ -1,4 +1,4 @@
-# 苹果公司的首席运营官·蒂姆·库克取代史蒂夫·乔布斯成为首席执行官 TechCrunch
+# 苹果公司的首席运营官·蒂姆·库克取代史蒂夫·乔布斯成为首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/24/apples-coo-tim-cook-replaces-steve-jobs-as-ceo/>
 

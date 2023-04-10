@@ -1,4 +1,4 @@
-# 托尼·霍克:Ride 今年将在三个地区推出，其他人都要等 TechCrunch
+# 托尼·霍克:Ride 今年将在三个地区推出，其他人都要等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/06/tony-hawk-ride-to-launch-in-three-territories-this-year-everyone-else-will-have-to-wait/>
 

@@ -1,4 +1,4 @@
-# Delicious 创始人约书亚·沙赫特离开谷歌 TechCrunch
+# Delicious 创始人约书亚·沙赫特离开谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/01/delicious-founder-joshua-schachter-leaves-google/>
 

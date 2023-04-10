@@ -1,4 +1,4 @@
-# 为了“创造意义”，Jaiku 联合创始人离开 Google TechCrunch
+# 为了“创造意义”，Jaiku 联合创始人离开 Google 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/12/aiming-to-make-meaning-jaiku-co-founder-leaves-google/>
 

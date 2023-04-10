@@ -1,4 +1,4 @@
-# LiveChat 创始人收购投资者 Naspers，重新获得 60%的股份 TechCrunch
+# LiveChat 创始人收购投资者 Naspers，重新获得 60%的股份 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/livechat-founders-buy-out-investor-naspers-regain-60-stake/>
 

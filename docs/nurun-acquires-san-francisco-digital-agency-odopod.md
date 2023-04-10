@@ -1,4 +1,4 @@
-# Nurun 收购旧金山数字机构 odo pod TechCrunch
+# Nurun 收购旧金山数字机构 odo pod 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/nurun-acquires-san-francisco-digital-agency-odopod/>
 

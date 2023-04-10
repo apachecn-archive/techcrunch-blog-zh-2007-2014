@@ -1,4 +1,4 @@
-# 部分得益于免费送货服务，在线假日消费增长了 12 %,达到 275 亿美元 TechCrunch
+# 部分得益于免费送货服务，在线假日消费增长了 12 %,达到 275 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/19/thanks-in-part-to-free-shipping-offers-online-holiday-spending-up-12-percent-to-27-5b/>
 

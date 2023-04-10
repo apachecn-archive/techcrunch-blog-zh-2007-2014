@@ -1,4 +1,4 @@
-# 观看阿诺德·施瓦辛格用坦克碾压东西...为了慈善 TechCrunch
+# 观看阿诺德·施瓦辛格用坦克碾压东西...为了慈善 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/watch-arnold-schwarzenegger-crush-things-with-a-tank-for-charity/>
 

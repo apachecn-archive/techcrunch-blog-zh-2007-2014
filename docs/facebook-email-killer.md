@@ -1,4 +1,4 @@
-# 扎克伯格:我们的系统不是电子邮件黑仔。但是如果它因此而死亡...TechCrunch
+# 扎克伯格:我们的系统不是电子邮件黑仔。但是如果它因此而死亡...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/15/facebook-email-killer/>
 

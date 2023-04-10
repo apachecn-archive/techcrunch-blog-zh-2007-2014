@@ -1,4 +1,4 @@
-# 诺基亚面向 Symbian^3 设备的 Anna 更新已准备就绪 TechCrunch
+# 诺基亚面向 Symbian^3 设备的 Anna 更新已准备就绪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/nokias-anna-update-for-symbian3-devices-is-ready-to-roll/>
 

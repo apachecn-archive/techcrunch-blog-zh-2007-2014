@@ -1,4 +1,4 @@
-# 市场认为“Googorola”交易将会通过，InterDigital 分享 Tank TechCrunch
+# 市场认为“Googorola”交易将会通过，InterDigital 分享 Tank 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/market-thinks-googorola-deal-will-go-through-interdigital-shares-tank/>
 

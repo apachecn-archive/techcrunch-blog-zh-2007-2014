@@ -1,4 +1,4 @@
-# 13 岁设计受橡树启发的高效太阳能电池阵列 TechCrunch
+# 13 岁设计受橡树启发的高效太阳能电池阵列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/21/13-year-old-designs-efficient-solar-array-inspired-by-oak-trees/>
 

@@ -1,4 +1,4 @@
-# Tapulous 带来 Weezer 和世界级的 DJ 来 Tap Tap 复仇 TechCrunch
+# Tapulous 带来 Weezer 和世界级的 DJ 来 Tap Tap 复仇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/04/tapulous-brings-weezer-and-world-class-djs-to-tap-tap-revenge/>
 

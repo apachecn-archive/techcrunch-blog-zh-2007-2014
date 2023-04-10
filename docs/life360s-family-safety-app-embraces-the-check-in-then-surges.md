@@ -1,4 +1,4 @@
-# Life360 的家庭安全应用程序支持签到，然后激增 TechCrunch
+# Life360 的家庭安全应用程序支持签到，然后激增 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/20/life360s-family-safety-app-embraces-the-check-in-then-surges/>
 

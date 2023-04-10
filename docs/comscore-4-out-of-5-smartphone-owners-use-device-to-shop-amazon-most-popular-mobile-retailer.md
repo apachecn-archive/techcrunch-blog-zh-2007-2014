@@ -1,4 +1,4 @@
-# comScore:五分之四的智能手机用户使用手机购物；亚马逊是最受欢迎的移动零售商 TechCrunch
+# comScore:五分之四的智能手机用户使用手机购物；亚马逊是最受欢迎的移动零售商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/19/comscore-4-out-of-5-smartphone-owners-use-device-to-shop-amazon-most-popular-mobile-retailer/>
 

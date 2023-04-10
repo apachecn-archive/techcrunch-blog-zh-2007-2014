@@ -1,4 +1,4 @@
-# Lookout 的新应用程序可视化了世界各地检测到的移动安全威胁 TechCrunch
+# Lookout 的新应用程序可视化了世界各地检测到的移动安全威胁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/24/lookouts-new-app-visualizes-mobile-security-threats-as-they-are-detected-around-the-world/>
 

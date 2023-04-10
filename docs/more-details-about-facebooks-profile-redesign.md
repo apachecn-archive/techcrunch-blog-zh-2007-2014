@@ -1,4 +1,4 @@
-# 关于脸书个人资料重新设计的更多细节 TechCrunch
+# 关于脸书个人资料重新设计的更多细节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/07/more-details-about-facebooks-profile-redesign/>
 

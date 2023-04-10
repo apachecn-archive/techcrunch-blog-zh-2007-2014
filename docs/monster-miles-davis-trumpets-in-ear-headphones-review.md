@@ -1,4 +1,4 @@
-# 怪物米勒·戴维斯小号入耳式耳机评论 TechCrunch
+# 怪物米勒·戴维斯小号入耳式耳机评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/monster-miles-davis-trumpets-in-ear-headphones-review/>
 

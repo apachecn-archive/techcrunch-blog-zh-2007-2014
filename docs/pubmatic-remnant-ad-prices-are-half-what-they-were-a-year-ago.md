@@ -1,4 +1,4 @@
-# PubMatic:剩余广告价格是一年前的一半 TechCrunch
+# PubMatic:剩余广告价格是一年前的一半 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/13/pubmatic-remnant-ad-prices-are-half-what-they-were-a-year-ago/>
 

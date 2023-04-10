@@ -1,4 +1,4 @@
-# 台湾健身初创公司 iFit 筹集了 90 万美元的种子资金 TechCrunch
+# 台湾健身初创公司 iFit 筹集了 90 万美元的种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/taiwan-fitness-startup-ifit-raises-900k-in-seed-funding/>
 

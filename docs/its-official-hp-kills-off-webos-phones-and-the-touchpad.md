@@ -1,4 +1,4 @@
-# 官方消息:惠普扼杀 webOS 手机和 TouchPad TechCrunch
+# 官方消息:惠普扼杀 webOS 手机和 TouchPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/its-official-hp-kills-off-webos-phones-and-the-touchpad/>
 

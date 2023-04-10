@@ -1,4 +1,4 @@
-# 已证实:Twitter 收购 Summize 搜索引擎 TechCrunch
+# 已证实:Twitter 收购 Summize 搜索引擎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/07/15/confirmed-twitter-acquires-summize-search-engine/>
 

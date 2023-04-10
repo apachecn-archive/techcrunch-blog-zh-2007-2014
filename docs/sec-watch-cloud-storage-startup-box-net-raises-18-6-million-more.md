@@ -1,4 +1,4 @@
-# SEC 观察:云存储初创公司 Box.net 再融资 1860 万美元 TechCrunch
+# SEC 观察:云存储初创公司 Box.net 再融资 1860 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/sec-watch-cloud-storage-startup-box-net-raises-18-6-million-more/>
 

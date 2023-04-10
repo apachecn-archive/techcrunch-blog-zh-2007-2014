@@ -1,4 +1,4 @@
-# 出于对睡眠的热爱，我将参加为期一周的杰欧挑战 TechCrunch
+# 出于对睡眠的热爱，我将参加为期一周的杰欧挑战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/for-the-love-of-sleep-ill-be-taking-the-one-week-zeo-challenge/>
 

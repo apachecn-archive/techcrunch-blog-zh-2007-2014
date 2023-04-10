@@ -1,4 +1,4 @@
-# 拒绝 AdMob，苹果以 2.75 亿美元收购竞争广告平台 Quattro Wireless TechCrunch
+# 拒绝 AdMob，苹果以 2.75 亿美元收购竞争广告平台 Quattro Wireless 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/apple-acquires-quattro-wireless/>
 

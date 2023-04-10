@@ -1,4 +1,4 @@
-# Chegg 的第一笔收购:course rank TechCrunch
+# Chegg 的第一笔收购:course rank 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/cheggs-first-acquisition-courserank/>
 

@@ -1,4 +1,4 @@
-# Mac 和 iPhone 官方 Twitter 应用的开发者 Loren Brichter 离开 Twitter TechCrunch
+# Mac 和 iPhone 官方 Twitter 应用的开发者 Loren Brichter 离开 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/loren-brichter-creator-of-official-twitter-apps-for-mac-and-iphone-leaves-twitter/>
 

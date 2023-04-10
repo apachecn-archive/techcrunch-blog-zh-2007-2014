@@ -1,4 +1,4 @@
-# 谷歌宣布新的 AdMob 功能，扩大对应用内购买的支持 TechCrunch
+# 谷歌宣布新的 AdMob 功能，扩大对应用内购买的支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/admob-in-app-purchase-analytics/>
 

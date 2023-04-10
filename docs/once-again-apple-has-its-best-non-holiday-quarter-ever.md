@@ -1,4 +1,4 @@
-# 苹果又一次获得了“有史以来最好的非假日季度”。有史以来最好的 iPhone 销量。TechCrunch
+# 苹果又一次获得了“有史以来最好的非假日季度”。有史以来最好的 iPhone 销量。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/20/once-again-apple-has-its-best-non-holiday-quarter-ever/>
 

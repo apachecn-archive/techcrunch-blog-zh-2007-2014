@@ -1,4 +1,4 @@
-# 视频:日本机器人帮助人类打扫办公室 TechCrunch
+# 视频:日本机器人帮助人类打扫办公室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/video-japanese-robot-helps-humans-clean-offices/>
 

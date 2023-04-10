@@ -1,4 +1,4 @@
-# 苹果 Q2 公司 13 年国际销售额占总收入的 56%；库克为中国辩护:“有史以来最好的季度”88 亿美元 TechCrunch
+# 苹果 Q2 公司 13 年国际销售额占总收入的 56%；库克为中国辩护:“有史以来最好的季度”88 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/apple-international-sales-q2-2013-china/>
 

@@ -1,4 +1,4 @@
-# 为什么创业公司不能造自动驾驶汽车？TechCrunch
+# 为什么创业公司不能造自动驾驶汽车？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/15/why-cant-a-startup-build-a-self-driving-car/>
 

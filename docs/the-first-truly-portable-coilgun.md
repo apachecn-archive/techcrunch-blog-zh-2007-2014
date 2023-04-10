@@ -1,4 +1,4 @@
-# 欢迎来到未来:首款真正的便携式线圈枪 TechCrunch
+# 欢迎来到未来:首款真正的便携式线圈枪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/20/the-first-truly-portable-coilgun/>
 

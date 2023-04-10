@@ -1,4 +1,4 @@
-# 苹果零售店 2012 年第四季度销售额达 4 2 亿美元，超过第三季度的收入 TechCrunch
+# 苹果零售店 2012 年第四季度销售额达 4 2 亿美元，超过第三季度的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/25/apple-retail-stores-do-4-2b-worth-of-sales-in-q4-2012-beats-out-q3-earnings/>
 

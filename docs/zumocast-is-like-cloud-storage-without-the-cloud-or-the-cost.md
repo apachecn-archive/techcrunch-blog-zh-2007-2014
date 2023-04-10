@@ -1,4 +1,4 @@
-# ZumoCast 就像没有云的云存储，或者成本 TechCrunch
+# ZumoCast 就像没有云的云存储，或者成本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/27/zumocast-is-like-cloud-storage-without-the-cloud-or-the-cost/>
 

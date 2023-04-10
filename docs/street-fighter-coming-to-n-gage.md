@@ -1,4 +1,4 @@
-# 街头霸王来到 N-Gage TechCrunch
+# 街头霸王来到 N-Gage 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/street-fighter-coming-to-n-gage/>
 

@@ -1,4 +1,4 @@
-# 墨西哥的 Square Clone Clip 吸引了 170 万美元的新资金，增加了支付功能 TechCrunch
+# 墨西哥的 Square Clone Clip 吸引了 170 万美元的新资金，增加了支付功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/16/mexicos-square-clone-clip-pulls-in-new-1-7m-funding-adds-payment-features/>
 

@@ -1,4 +1,4 @@
-# Twitter 将推广的推文、趋势和账户带到 Twitter 日本 TechCrunch
+# Twitter 将推广的推文、趋势和账户带到 Twitter 日本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/twitter-brings-promoted-tweets-trends-accounts-to-twitter-japan/>
 

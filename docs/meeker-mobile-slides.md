@@ -1,4 +1,4 @@
-# 升级:玛丽·米克尔最新移动趋势下滑 TechCrunch
+# 升级:玛丽·米克尔最新移动趋势下滑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/meeker-mobile-slides/>
 

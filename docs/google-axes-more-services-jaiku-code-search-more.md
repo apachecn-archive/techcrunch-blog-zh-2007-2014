@@ -1,4 +1,4 @@
-# 谷歌推出更多服务:Jaiku、Buzz、代码搜索和更多 TechCrunch
+# 谷歌推出更多服务:Jaiku、Buzz、代码搜索和更多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/google-axes-more-services-jaiku-code-search-more/>
 

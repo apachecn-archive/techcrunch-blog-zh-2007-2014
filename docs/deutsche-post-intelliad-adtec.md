@@ -1,4 +1,4 @@
-# 德国邮政 DHL 收购 IntelliAd 以扩大其广告技术业务 TechCrunch
+# 德国邮政 DHL 收购 IntelliAd 以扩大其广告技术业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/10/deutsche-post-intelliad-adtec/>
 

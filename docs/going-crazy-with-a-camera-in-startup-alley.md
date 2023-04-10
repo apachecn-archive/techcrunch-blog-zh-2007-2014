@@ -1,4 +1,4 @@
-# 在创业巷疯狂使用相机 TechCrunch
+# 在创业巷疯狂使用相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/going-crazy-with-a-camera-in-startup-alley/>
 

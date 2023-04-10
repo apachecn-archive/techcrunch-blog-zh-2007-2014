@@ -1,4 +1,4 @@
-# 已经有 500 万用户，Tynker 开始移动帮助孩子们学习在 iPad 上编程 TechCrunch
+# 已经有 500 万用户，Tynker 开始移动帮助孩子们学习在 iPad 上编程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/with-5m-users-already-on-board-tynker-goes-mobile-to-help-kids-learn-to-code-on-the-ipad/>
 

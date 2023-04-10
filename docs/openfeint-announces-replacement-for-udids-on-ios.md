@@ -1,4 +1,4 @@
-# OpenFeint 宣布取代 iOS 上的 udid TechCrunch
+# OpenFeint 宣布取代 iOS 上的 udid 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/26/openfeint-announces-replacement-for-udids-on-ios/>
 

@@ -1,4 +1,4 @@
-# DJ 解决方案公司 Scratch Music Group 融资 330 万美元 TechCrunch
+# DJ 解决方案公司 Scratch Music Group 融资 330 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/dj-solutions-company-scratch-music-group-raises-3-3-million/>
 

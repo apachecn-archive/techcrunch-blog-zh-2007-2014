@@ -1,4 +1,4 @@
-# 亚马逊打街；销售额增长 51%至 99 亿美元，净收入下降 8% TechCrunch
+# 亚马逊打街；销售额增长 51%至 99 亿美元，净收入下降 8% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/amazon-beats-the-street-sales-up-51-percent-to-9-9b-net-income-down-8-percent/>
 

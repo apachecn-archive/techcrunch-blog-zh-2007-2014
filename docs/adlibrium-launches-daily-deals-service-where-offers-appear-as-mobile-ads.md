@@ -1,4 +1,4 @@
-# adlimination 推出每日交易服务，优惠以移动广告的形式出现 TechCrunch
+# adlimination 推出每日交易服务，优惠以移动广告的形式出现 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/adlibrium-launches-daily-deals-service-where-offers-appear-as-mobile-ads/>
 

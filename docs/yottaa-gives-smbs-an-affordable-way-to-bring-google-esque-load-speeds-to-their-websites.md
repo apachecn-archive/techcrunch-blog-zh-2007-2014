@@ -1,4 +1,4 @@
-# Yottaa 为中小型企业提供了一种经济实惠的方式，让他们的网站获得谷歌式的加载速度 TechCrunch
+# Yottaa 为中小型企业提供了一种经济实惠的方式，让他们的网站获得谷歌式的加载速度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/yottaa-gives-smbs-an-affordable-way-to-bring-google-esque-load-speeds-to-their-websites/>
 

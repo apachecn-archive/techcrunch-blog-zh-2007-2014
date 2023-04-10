@@ -1,4 +1,4 @@
-# 帝国大道筹集 120 万美元，将社交影响力转化为虚拟股票市场 TechCrunch
+# 帝国大道筹集 120 万美元，将社交影响力转化为虚拟股票市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/empire-avenue-raises-1-2-million-to-turn-social-influence-into-a-virtual-stock-market/>
 

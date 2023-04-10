@@ -1,4 +1,4 @@
-# 飞还是死:给 Oink 一个机会 TechCrunch
+# 飞还是死:给 Oink 一个机会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/12/fly-or-die-oink/>
 

@@ -1,4 +1,4 @@
-# 如果你是个好人或者网络浏览狂，现在就下载这个 Chrome 扩展吧 TechCrunch
+# 如果你是个好人或者网络浏览狂，现在就下载这个 Chrome 扩展吧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/15/if-youre-a-good-person-or-a-web-browsing-fiend-download-this-chrome-extension-now/>
 

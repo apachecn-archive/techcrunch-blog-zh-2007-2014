@@ -1,4 +1,4 @@
-# InfiniteGraph 走出测试版，帮助公司识别大型数据集中的深层关系 TechCrunch
+# InfiniteGraph 走出测试版，帮助公司识别大型数据集中的深层关系 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/infinitegraph-steps-out-of-beta-to-help-companies-identify-deep-relationships-in-large-data-sets/>
 

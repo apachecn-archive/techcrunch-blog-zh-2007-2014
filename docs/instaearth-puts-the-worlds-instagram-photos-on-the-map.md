@@ -1,4 +1,4 @@
-# InstaEarth 将世界上的 Instagram 照片放到地图上 TechCrunch
+# InstaEarth 将世界上的 Instagram 照片放到地图上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/instaearth-puts-the-worlds-instagram-photos-on-the-map/>
 

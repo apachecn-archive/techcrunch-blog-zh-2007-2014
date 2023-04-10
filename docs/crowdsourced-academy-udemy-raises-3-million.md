@@ -1,4 +1,4 @@
-# 众包学习平台 Udemy 从 Lightbank 和其他公司筹集了 300 万美元 TechCrunch
+# 众包学习平台 Udemy 从 Lightbank 和其他公司筹集了 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/crowdsourced-academy-udemy-raises-3-million/>
 

@@ -1,4 +1,4 @@
-# E-Note 是一款极其简单的笔记平板电脑 TechCrunch
+# E-Note 是一款极其简单的笔记平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/the-e-note-is-an-ultra-simple-note-taking-tablet/>
 

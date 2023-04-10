@@ -1,4 +1,4 @@
-# Adfonic 击败风投，从超级天使手中筹得 750 万美元 TechCrunch
+# Adfonic 击败风投，从超级天使手中筹得 750 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/adfonic-snubs-vcs-to-raise-7-5-million-from-super-angels/>
 

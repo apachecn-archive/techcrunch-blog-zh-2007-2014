@@ -1,4 +1,4 @@
-# Urban Airship 以 1500 万美元从威瑞森收购 SimpleGeo，sales force TechCrunch
+# Urban Airship 以 1500 万美元从威瑞森收购 SimpleGeo，sales force 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/urban-airship-adds-to-its-simplegeo-acquisition-with-15-million-from-verizon-salesforce/>
 

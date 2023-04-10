@@ -1,4 +1,4 @@
-# Kodesk 就像办公空间的 Airbnb TechCrunch
+# Kodesk 就像办公空间的 Airbnb 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/02/kodesk-is-like-an-airbnb-for-office-space/>
 

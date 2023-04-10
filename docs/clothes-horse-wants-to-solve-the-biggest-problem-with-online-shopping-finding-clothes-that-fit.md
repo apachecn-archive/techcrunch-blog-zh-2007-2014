@@ -1,4 +1,4 @@
-# 衣服马想要解决网上购物的最大问题:找到合适的衣服 TechCrunch
+# 衣服马想要解决网上购物的最大问题:找到合适的衣服 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/22/clothes-horse-wants-to-solve-the-biggest-problem-with-online-shopping-finding-clothes-that-fit/>
 

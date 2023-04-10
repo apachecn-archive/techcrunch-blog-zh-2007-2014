@@ -1,4 +1,4 @@
-# 男士皮箱俱乐部的个人造型和零售平台筹得 1100 万美元 TechCrunch
+# 男士皮箱俱乐部的个人造型和零售平台筹得 1100 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/personal-styling-and-retail-platform-for-men-trunk-club-raises-11-million/>
 

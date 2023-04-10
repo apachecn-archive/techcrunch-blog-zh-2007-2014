@@ -1,4 +1,4 @@
-# 为什么没人驯服电子邮件 TechCrunch
+# 为什么没人驯服电子邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/19/why-no-one-has-tamed-email/>
 

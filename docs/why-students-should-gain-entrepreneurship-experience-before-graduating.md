@@ -1,4 +1,4 @@
-# 为什么学生应该在毕业前获得创业经验 TechCrunch
+# 为什么学生应该在毕业前获得创业经验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/30/why-students-should-gain-entrepreneurship-experience-before-graduating/>
 

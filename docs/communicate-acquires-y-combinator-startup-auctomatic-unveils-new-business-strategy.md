@@ -1,4 +1,4 @@
-# Communicate 收购 Y Combinator 初创公司 Auctomatic，推出新的业务战略 TechCrunch
+# Communicate 收购 Y Combinator 初创公司 Auctomatic，推出新的业务战略 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/26/communicate-acquires-y-combinator-startup-auctomatic-unveils-new-business-strategy/>
 

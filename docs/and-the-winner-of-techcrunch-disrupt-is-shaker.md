@@ -1,4 +1,4 @@
-# TechCrunch Disrupt 的赢家是...shaker TechCrunch
+# TechCrunch Disrupt 的赢家是...shaker 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/and-the-winner-of-techcrunch-disrupt-is-shaker/>
 

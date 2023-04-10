@@ -1,4 +1,4 @@
-# 来源:iPad Mini 将于 11 月 2 日上市并向早期买家发货 TechCrunch
+# 来源:iPad Mini 将于 11 月 2 日上市并向早期买家发货 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/source-ipad-mini-will-hit-stores-and-ship-to-early-buyers-november-2/>
 

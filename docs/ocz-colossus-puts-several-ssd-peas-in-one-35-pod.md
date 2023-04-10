@@ -1,4 +1,4 @@
-# OCZ Colossus 将几个固态硬盘放在一个 3.5 英寸的容器中 TechCrunch
+# OCZ Colossus 将几个固态硬盘放在一个 3.5 英寸的容器中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/ocz-colossus-puts-several-ssd-peas-in-one-35-pod/>
 

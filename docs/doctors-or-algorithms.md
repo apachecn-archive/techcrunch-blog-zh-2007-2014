@@ -1,4 +1,4 @@
-# 我们需要医生还是算法？TechCrunch
+# 我们需要医生还是算法？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/10/doctors-or-algorithms/>
 

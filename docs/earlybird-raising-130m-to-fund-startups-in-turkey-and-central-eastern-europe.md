@@ -1,4 +1,4 @@
-# EarlyBird 融资 1.3 亿美元，资助土耳其和中东欧地区的初创企业 TechCrunch
+# EarlyBird 融资 1.3 亿美元，资助土耳其和中东欧地区的初创企业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/earlybird-raising-130m-to-fund-startups-in-turkey-and-central-eastern-europe/>
 

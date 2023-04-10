@@ -1,4 +1,4 @@
-# Clearleap 从 Susquehanna 融资 2000 万美元，使电视更加多平台化 TechCrunch
+# Clearleap 从 Susquehanna 融资 2000 万美元，使电视更加多平台化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/13/clearleap-20m-susquehanna/>
 

@@ -1,4 +1,4 @@
-# Disrupt 黑客马拉松正在启动！TechCrunch
+# Disrupt 黑客马拉松正在启动！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/10/the-disrupt-hackathon-is-powering-up/>
 

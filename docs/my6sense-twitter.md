@@ -1,4 +1,4 @@
-# My6sense 将基于相关性的推文流注入 Twitter.com TechCrunch
+# My6sense 将基于相关性的推文流注入 Twitter.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/09/my6sense-twitter/>
 

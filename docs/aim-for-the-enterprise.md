@@ -1,4 +1,4 @@
-# 财富第一，名声第二——为什么你应该瞄准企业 TechCrunch
+# 财富第一，名声第二——为什么你应该瞄准企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/27/aim-for-the-enterprise/>
 

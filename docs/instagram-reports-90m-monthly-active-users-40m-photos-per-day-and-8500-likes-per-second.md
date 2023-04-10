@@ -1,4 +1,4 @@
-# Instagram 报告称，每月有 9000 万活跃用户，每天有 4000 万张照片，每秒有 8500 个赞 TechCrunch
+# Instagram 报告称，每月有 9000 万活跃用户，每天有 4000 万张照片，每秒有 8500 个赞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/01/17/instagram-reports-90m-monthly-active-users-40m-photos-per-day-and-8500-likes-per-second/>
 

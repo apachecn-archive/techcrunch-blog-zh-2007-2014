@@ -1,4 +1,4 @@
-# 谷歌眼镜被拆，显示它可以被黑客攻击成处方眼镜 TechCrunch
+# 谷歌眼镜被拆，显示它可以被黑客攻击成处方眼镜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/12/google-glass-gets-a-teardown-revealing-it-can-be-hacked-to-prescription-glasses/>
 

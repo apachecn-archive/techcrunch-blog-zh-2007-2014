@@ -1,4 +1,4 @@
-# 从您的新 Kindle 中删除特价优惠-价格 TechCrunch
+# 从您的新 Kindle 中删除特价优惠-价格 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/fact-amazon-understands-consumers/>
 

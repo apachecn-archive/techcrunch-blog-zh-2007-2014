@@ -1,4 +1,4 @@
-# 内华达州制定无人驾驶汽车法规 TechCrunch
+# 内华达州制定无人驾驶汽车法规 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/nevada-establishes-regulations-for-self-driving-cars/>
 

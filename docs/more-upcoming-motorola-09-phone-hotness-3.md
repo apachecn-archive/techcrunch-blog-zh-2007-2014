@@ -1,4 +1,4 @@
-# 更多即将到来的 2009 年摩托罗拉手机热 TechCrunch
+# 更多即将到来的 2009 年摩托罗拉手机热 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/18/more-upcoming-motorola-09-phone-hotness-3/>
 

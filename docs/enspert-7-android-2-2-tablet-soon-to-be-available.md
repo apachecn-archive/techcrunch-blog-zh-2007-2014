@@ -1,4 +1,4 @@
-# ens pert 7”Android 2.2 平板电脑即将上市 TechCrunch
+# ens pert 7”Android 2.2 平板电脑即将上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/28/enspert-7-android-2-2-tablet-soon-to-be-available/>
 

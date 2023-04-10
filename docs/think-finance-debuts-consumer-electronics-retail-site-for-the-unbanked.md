@@ -1,4 +1,4 @@
-# Think Finance 首次推出面向无银行客户的消费电子零售网站 TechCrunch
+# Think Finance 首次推出面向无银行客户的消费电子零售网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/think-finance-debuts-consumer-electronics-retail-site-for-the-unbanked/>
 

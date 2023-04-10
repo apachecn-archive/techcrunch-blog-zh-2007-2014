@@ -1,4 +1,4 @@
-# Xyologic 发布数百份报告，详细介绍全球移动应用趋势 TechCrunch
+# Xyologic 发布数百份报告，详细介绍全球移动应用趋势 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/xyologic-releases-hundreds-of-reports-detailing-worldwide-mobile-app-trends/>
 

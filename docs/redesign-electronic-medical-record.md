@@ -1,4 +1,4 @@
-# 设计师基金和白宫挑战您重新设计电子病历 TechCrunch
+# 设计师基金和白宫挑战您重新设计电子病历 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/redesign-electronic-medical-record/>
 

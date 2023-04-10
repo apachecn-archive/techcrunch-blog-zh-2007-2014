@@ -1,4 +1,4 @@
-# 互联网不仅仅是另一个电视频道 TechCrunch
+# 互联网不仅仅是另一个电视频道 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/01/the-internet-isnt-just-another-tv-pipe/>
 

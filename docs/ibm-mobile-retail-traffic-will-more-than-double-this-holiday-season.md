@@ -1,4 +1,4 @@
-# IBM:移动零售流量将在这个假期翻一番以上 TechCrunch
+# IBM:移动零售流量将在这个假期翻一番以上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/ibm-mobile-retail-traffic-will-more-than-double-this-holiday-season/>
 

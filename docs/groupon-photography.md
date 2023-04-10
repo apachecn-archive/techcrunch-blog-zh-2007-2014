@@ -1,4 +1,4 @@
-# 欺诈性 Groupon 摄影交易引起对服务缺陷的关注 TechCrunch
+# 欺诈性 Groupon 摄影交易引起对服务缺陷的关注 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/16/groupon-photography/>
 

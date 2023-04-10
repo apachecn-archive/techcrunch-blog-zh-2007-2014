@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear:生日快乐的最后一次召唤——TechCrunch
+# 10 天的 CrunchGear:生日快乐的最后一次召唤——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/19/10-days-of-crunchgear-last-call-for-birthday-fun/>
 

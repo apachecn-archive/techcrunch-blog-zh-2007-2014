@@ -1,4 +1,4 @@
-# 英国政府创建企业家论坛顾问委员会。哪些只是名人？TechCrunch
+# 英国政府创建企业家论坛顾问委员会。哪些只是名人？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/15/uk-government-creates-entrepreneurs-forum-advisory-board-which-ones-are-just-celebrities/>
 

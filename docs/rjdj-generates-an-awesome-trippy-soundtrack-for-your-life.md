@@ -1,4 +1,4 @@
-# RjDj 为你的生活制作了一个令人敬畏的、迷幻的配乐 TechCrunch
+# RjDj 为你的生活制作了一个令人敬畏的、迷幻的配乐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/13/rjdj-generates-an-awesome-trippy-soundtrack-for-your-life/>
 

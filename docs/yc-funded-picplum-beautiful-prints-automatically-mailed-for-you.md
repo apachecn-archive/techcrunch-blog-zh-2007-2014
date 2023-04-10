@@ -1,4 +1,4 @@
-# YC 资助的 PicPlum:漂亮的印刷品，自动为您邮寄 TechCrunch
+# YC 资助的 PicPlum:漂亮的印刷品，自动为您邮寄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/12/yc-funded-picplum-beautiful-prints-automatically-mailed-for-you/>
 

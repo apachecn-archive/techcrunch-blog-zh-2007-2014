@@ -1,4 +1,4 @@
-# 威瑞森无线(卡西欧)G'zOne Type-S 审查–TechCrunch
+# 威瑞森无线(卡西欧)G'zOne Type-S 审查–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/16/verizon-wireless-casio-g%e2%80%99zone-type-s-review/>
 

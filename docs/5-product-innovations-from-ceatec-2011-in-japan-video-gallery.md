@@ -1,4 +1,4 @@
-# 日本 CEATEC 2011 的 5 项产品创新(视频廊)TechCrunch
+# 日本 CEATEC 2011 的 5 项产品创新(视频廊)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/5-product-innovations-from-ceatec-2011-in-japan-video-gallery/>
 

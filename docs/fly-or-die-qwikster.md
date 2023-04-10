@@ -1,4 +1,4 @@
-# 飞或死:Qwikster 对这个世界来说有多长？TechCrunch
+# 飞或死:Qwikster 对这个世界来说有多长？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/fly-or-die-qwikster/>
 

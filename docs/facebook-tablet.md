@@ -1,4 +1,4 @@
-# 脸书正在努力打造平板电脑优化体验 TechCrunch
+# 脸书正在努力打造平板电脑优化体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/facebook-tablet/>
 

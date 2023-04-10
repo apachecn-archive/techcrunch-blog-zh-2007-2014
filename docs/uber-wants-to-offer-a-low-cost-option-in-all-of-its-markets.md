@@ -1,4 +1,4 @@
-# 优步希望在其所有市场中提供低成本选项 TechCrunch
+# 优步希望在其所有市场中提供低成本选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/07/uber-wants-to-offer-a-low-cost-option-in-all-of-its-markets/>
 

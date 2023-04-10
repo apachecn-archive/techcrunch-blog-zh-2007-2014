@@ -1,4 +1,4 @@
-# 索尼 PS2 销量超过 1.5 亿台 TechCrunch
+# 索尼 PS2 销量超过 1.5 亿台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/the-sony-ps2-surpasses-150-million-units-sold/>
 

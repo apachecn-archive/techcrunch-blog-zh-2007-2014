@@ -1,4 +1,4 @@
-# 教科书租赁巨头 Chegg 又增加了 7500 万美元的收入 TechCrunch
+# 教科书租赁巨头 Chegg 又增加了 7500 万美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/26/chegg-adds-75-million/>
 

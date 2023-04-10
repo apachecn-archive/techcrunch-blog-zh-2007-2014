@@ -1,4 +1,4 @@
-# 论坛报公司与三星合作(免费？)新闻平板电脑 TechCrunch
+# 论坛报公司与三星合作(免费？)新闻平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/tribune-co-working-with-samsung-on-free-news-tablet/>
 

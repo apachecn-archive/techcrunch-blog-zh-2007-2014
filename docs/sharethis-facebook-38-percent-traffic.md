@@ -1,4 +1,4 @@
-# 分享这项研究:脸书占网络分享流量的 38% TechCrunch
+# 分享这项研究:脸书占网络分享流量的 38% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/06/sharethis-facebook-38-percent-traffic/>
 

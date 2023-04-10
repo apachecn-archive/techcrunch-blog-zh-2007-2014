@@ -1,4 +1,4 @@
-# 安卓版 Evernote 2.0 重拳出击 TechCrunch
+# 安卓版 Evernote 2.0 重拳出击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/08/evernote-2-0-for-android-packs-many-punches/>
 

@@ -1,4 +1,4 @@
-# TrakInvest 是一个幻想的股票交易平台，可以带来真正的工作 TechCrunch
+# TrakInvest 是一个幻想的股票交易平台，可以带来真正的工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/trakinvest-is-a-fantasy-stock-trading-platform-that-can-lead-to-real-jobs/>
 

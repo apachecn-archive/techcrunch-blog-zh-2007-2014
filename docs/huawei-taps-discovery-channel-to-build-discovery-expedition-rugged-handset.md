@@ -1,4 +1,4 @@
-# 华为利用探索频道打造探索探险加固手机 TechCrunch
+# 华为利用探索频道打造探索探险加固手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/huawei-taps-discovery-channel-to-build-discovery-expedition-rugged-handset/>
 

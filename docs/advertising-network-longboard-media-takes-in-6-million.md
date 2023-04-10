@@ -1,4 +1,4 @@
-# 广告网络 Longboard Media 收入 600 万美元 TechCrunch
+# 广告网络 Longboard Media 收入 600 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/advertising-network-longboard-media-takes-in-6-million/>
 

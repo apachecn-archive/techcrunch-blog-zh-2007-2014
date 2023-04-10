@@ -1,4 +1,4 @@
-# OMG/JK:海量谷歌碎片(还有一个 iPod Nano 手表！)TechCrunch
+# OMG/JK:海量谷歌碎片(还有一个 iPod Nano 手表！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/29/omgjk-google-fragments-ipod-nano-watch/>
 

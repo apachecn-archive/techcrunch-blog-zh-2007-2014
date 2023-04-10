@@ -1,4 +1,4 @@
-# 纽约时报推出……my Yahoo——TechCrunch
+# 纽约时报推出……my Yahoo——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/nytimes-launches-myyahoo>
 

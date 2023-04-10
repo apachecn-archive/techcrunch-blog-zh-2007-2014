@@ -1,4 +1,4 @@
-# Groupon 现在在你的 Foursquare 中，两种美味一起品尝 TechCrunch
+# Groupon 现在在你的 Foursquare 中，两种美味一起品尝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/29/groupon-foursquare/>
 

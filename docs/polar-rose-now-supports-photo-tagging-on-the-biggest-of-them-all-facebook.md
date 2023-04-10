@@ -1,4 +1,4 @@
-# Polar Rose 现在在最大的网站上支持照片标签:脸书 TechCrunch
+# Polar Rose 现在在最大的网站上支持照片标签:脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/08/polar-rose-now-supports-photo-tagging-on-the-biggest-of-them-all-facebook/>
 

@@ -1,4 +1,4 @@
-# 只吃燕子 GrubCanada Whole TechCrunch
+# 只吃燕子 GrubCanada Whole 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/just-eat-swallows-grubcanada-whole/>
 

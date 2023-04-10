@@ -1,4 +1,4 @@
-# 安卓和谷歌在谷歌手机操作系统上狼狈为奸——TechCrunch
+# 安卓和谷歌在谷歌手机操作系统上狼狈为奸——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/android-and-google-in-cahoots-on-google-phone-os/>
 

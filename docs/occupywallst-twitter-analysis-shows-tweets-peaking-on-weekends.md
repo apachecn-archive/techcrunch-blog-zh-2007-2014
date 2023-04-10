@@ -1,4 +1,4 @@
-# #OccupyWallSt Twitter 分析显示，Tweets 在周末达到峰值 TechCrunch
+# #OccupyWallSt Twitter 分析显示，Tweets 在周末达到峰值 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/occupywallst-twitter-analysis-shows-tweets-peaking-on-weekends/>
 

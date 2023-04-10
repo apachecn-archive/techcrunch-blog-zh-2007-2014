@@ -1,4 +1,4 @@
-# LinkedIn 超越 Myspace 成为美国访客第二大社交网络；Twitter 紧随其后 TechCrunch
+# LinkedIn 超越 Myspace 成为美国访客第二大社交网络；Twitter 紧随其后 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/linkedin-surpasses-myspace-for-u-s-visitors-to-become-no-2-social-network-twitter-not-far-behind/>
 

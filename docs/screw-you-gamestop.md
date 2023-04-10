@@ -1,4 +1,4 @@
-# 去你的，GameStop。TechCrunch
+# 去你的，GameStop。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/screw-you-gamestop/>
 

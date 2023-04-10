@@ -1,4 +1,4 @@
-# 谷歌现在允许企业和学校购买 Chromebooks 而无需订阅 TechCrunch
+# 谷歌现在允许企业和学校购买 Chromebooks 而无需订阅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/google-now-lets-businesses-schools-buy-chromebooks-without-subscriptions/>
 

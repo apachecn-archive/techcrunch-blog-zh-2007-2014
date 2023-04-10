@@ -1,4 +1,4 @@
-# 谷歌内部代号为“Mario”和“Andretti”的 Chrome OS 上网本？TechCrunch
+# 谷歌内部代号为“Mario”和“Andretti”的 Chrome OS 上网本？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/25/google-chrome-os-mario-andretti/>
 

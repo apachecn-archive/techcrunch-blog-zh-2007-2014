@@ -1,4 +1,4 @@
-# Oculus VR 筹集了 1600 万美元来制造他们疯狂的虚拟现实游戏护目镜——TechCrunch
+# Oculus VR 筹集了 1600 万美元来制造他们疯狂的虚拟现实游戏护目镜——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/17/oculus-vr-raises-16m-to-build-their-crazy-virtual-reality-gaming-goggles/?_ga=2.3664565.442824655.1541336880-1120459407.1541336880>
 

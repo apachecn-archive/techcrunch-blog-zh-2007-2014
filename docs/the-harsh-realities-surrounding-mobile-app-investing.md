@@ -1,4 +1,4 @@
-# 围绕移动应用投资的残酷现实 TechCrunch
+# 围绕移动应用投资的残酷现实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/29/the-harsh-realities-surrounding-mobile-app-investing/>
 

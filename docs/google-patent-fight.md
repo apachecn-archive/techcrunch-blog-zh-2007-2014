@@ -1,4 +1,4 @@
-# 谷歌对北电的损失，专利作为政府授予的垄断，和意大利面条的盘子 TechCrunch
+# 谷歌对北电的损失，专利作为政府授予的垄断，和意大利面条的盘子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/25/google-patent-fight/>
 

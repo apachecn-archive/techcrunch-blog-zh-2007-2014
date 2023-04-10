@@ -1,4 +1,4 @@
-# 这笔 7000 万美元的 Obopay 交易更多的是关于没有银行账户的人，而不是有银行账户的 TechCrunch
+# 这笔 7000 万美元的 Obopay 交易更多的是关于没有银行账户的人，而不是有银行账户的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/27/the-70-million-obopay-deal-is-more-about-the-unbanked-than-the-banked/>
 

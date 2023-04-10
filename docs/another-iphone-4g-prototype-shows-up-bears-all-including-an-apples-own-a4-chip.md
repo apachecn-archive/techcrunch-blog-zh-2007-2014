@@ -1,4 +1,4 @@
-# 另一个 iPhone 4G 原型出现了，全部裸露，包括苹果自己的 A4 芯片 TechCrunch
+# 另一个 iPhone 4G 原型出现了，全部裸露，包括苹果自己的 A4 芯片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/12/another-iphone-4g-prototype-shows-up-bears-all-including-an-apples-own-a4-chip/>
 

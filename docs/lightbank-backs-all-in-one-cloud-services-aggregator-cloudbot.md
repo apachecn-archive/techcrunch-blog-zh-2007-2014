@@ -1,4 +1,4 @@
-# Lightbank 支持一体化云服务聚合器 Cloud bot TechCrunch
+# Lightbank 支持一体化云服务聚合器 Cloud bot 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/lightbank-backs-all-in-one-cloud-services-aggregator-cloudbot/>
 

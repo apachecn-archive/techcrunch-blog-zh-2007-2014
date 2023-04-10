@@ -1,4 +1,4 @@
-# Vlingo:语音支持任何移动应用 TechCrunch
+# Vlingo:语音支持任何移动应用 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/vlingo-voice-enable-any-mobile-application/>
 

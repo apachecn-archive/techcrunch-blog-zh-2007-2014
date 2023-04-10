@@ -1,4 +1,4 @@
-# 中国超越美国成为全球最大智能设备市场 TechCrunch
+# 中国超越美国成为全球最大智能设备市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/18/china-passes-u-s-as-worlds-top-smart-device-market/>
 

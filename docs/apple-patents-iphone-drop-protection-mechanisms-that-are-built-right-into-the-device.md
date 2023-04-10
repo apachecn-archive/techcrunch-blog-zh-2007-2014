@@ -1,4 +1,4 @@
-# 苹果申请了 iPhone 跌落保护机制的专利，这种保护机制内置于设备中 TechCrunch
+# 苹果申请了 iPhone 跌落保护机制的专利，这种保护机制内置于设备中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/21/apple-patents-iphone-drop-protection-mechanisms-that-are-built-right-into-the-device/>
 

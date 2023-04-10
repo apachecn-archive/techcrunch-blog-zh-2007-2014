@@ -1,4 +1,4 @@
-# Twitter 照片分享平台 TwitPic 增加视频支持 TechCrunch
+# Twitter 照片分享平台 TwitPic 增加视频支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/08/twitter-photo-sharing-platform-twitpic-adds-video-support/>
 

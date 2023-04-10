@@ -1,4 +1,4 @@
-# Gmail 神秘的灰色盒子 TechCrunch
+# Gmail 神秘的灰色盒子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/06/gmails-mysterious-grey-box/>
 

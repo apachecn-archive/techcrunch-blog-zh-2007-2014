@@ -1,4 +1,4 @@
-# Pinterest 现在产生的推荐流量超过 Twitter:研究 TechCrunch
+# Pinterest 现在产生的推荐流量超过 Twitter:研究 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/pinterest-now-generates-more-referral-traffic-than-twitter-study/>
 

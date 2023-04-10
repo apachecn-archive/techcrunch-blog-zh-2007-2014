@@ -1,4 +1,4 @@
-# HTC Desire 手把手(带视频)TechCrunch
+# HTC Desire 手把手(带视频)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/16/hands-on-with-the-htc-desire-with-video/>
 

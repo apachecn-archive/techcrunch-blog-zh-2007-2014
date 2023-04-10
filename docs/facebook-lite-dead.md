@@ -1,4 +1,4 @@
-# 从字面上看，这很复杂。脸书取消了它的精简版 TechCrunch
+# 从字面上看，这很复杂。脸书取消了它的精简版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/20/facebook-lite-dead/>
 

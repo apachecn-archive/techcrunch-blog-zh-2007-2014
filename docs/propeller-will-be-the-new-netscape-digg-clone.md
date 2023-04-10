@@ -1,4 +1,4 @@
-# Propeller 将成为新的 Netscape Digg 克隆版 TechCrunch
+# Propeller 将成为新的 Netscape Digg 克隆版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/11/propeller-will-be-the-new-netscape-digg-clone/>
 

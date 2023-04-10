@@ -1,4 +1,4 @@
-# 其中一些裁员并不是真正的裁员 TechCrunch
+# 其中一些裁员并不是真正的裁员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/17/some-of-these-layoffs-arent-really-layoffs/>
 

@@ -1,4 +1,4 @@
-# 时代华纳有线电视以 2.3 亿美元收购企业托管和云服务公司 NaviSite TechCrunch
+# 时代华纳有线电视以 2.3 亿美元收购企业托管和云服务公司 NaviSite 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/01/time-warner-buys-enterprise-hosting-and-cloud-services-company-navisite-for-230m/>
 

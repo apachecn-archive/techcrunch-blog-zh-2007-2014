@@ -1,4 +1,4 @@
-# Causes 第一年的报告-20，000 个慈善机构和非营利组织获得 250 万美元 TechCrunch
+# Causes 第一年的报告-20，000 个慈善机构和非营利组织获得 250 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/28/causes-reports-on-its-first-year/>
 

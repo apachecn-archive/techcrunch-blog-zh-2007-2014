@@ -1,4 +1,4 @@
-# 美国电话电报公司新款 LTE 手机将预装流媒体音乐服务 MOG TechCrunch
+# 美国电话电报公司新款 LTE 手机将预装流媒体音乐服务 MOG 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/streaming-music-service-mog-to-be-pre-loaded-on-atts-new-lte-phones/>
 

@@ -1,4 +1,4 @@
-# 通过 Voicefeed iOS 应用程序，您可以根据来电者自定义语音邮件问候语 TechCrunch
+# 通过 Voicefeed iOS 应用程序，您可以根据来电者自定义语音邮件问候语 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/on-voicefeed-ios-app-lets-you-customize-voicemail-greetings-based-on-whos-calling/>
 

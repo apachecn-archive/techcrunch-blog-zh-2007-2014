@@ -1,4 +1,4 @@
-# 2011 年假日礼物指南:各种类型的 iPhone 配件 TechCrunch
+# 2011 年假日礼物指南:各种类型的 iPhone 配件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/01/2011-holiday-gift-guide-iphone-accessories-for-every-type/>
 

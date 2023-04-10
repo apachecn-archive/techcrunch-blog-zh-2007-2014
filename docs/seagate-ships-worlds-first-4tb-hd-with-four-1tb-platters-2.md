@@ -1,4 +1,4 @@
-# 希捷推出全球首款 4TB 硬盘，配有四个 1TB 盘片 TechCrunch
+# 希捷推出全球首款 4TB 硬盘，配有四个 1TB 盘片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/seagate-ships-worlds-first-4tb-hd-with-four-1tb-platters-2/>
 

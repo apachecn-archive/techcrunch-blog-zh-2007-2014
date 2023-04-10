@@ -1,4 +1,4 @@
-# 亚马逊的小赌博 TechCrunch
+# 亚马逊的小赌博 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/amazons-small-gamble/>
 

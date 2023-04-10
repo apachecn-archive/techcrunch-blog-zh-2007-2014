@@ -1,4 +1,4 @@
-# NBC Universal 选择该平台将美国电视网、Syfy 和 Oxygen 带到网上 TechCrunch
+# NBC Universal 选择该平台将美国电视网、Syfy 和 Oxygen 带到网上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/nbc-universal-theplatform/>
 

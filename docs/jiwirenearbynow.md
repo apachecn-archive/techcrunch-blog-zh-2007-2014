@@ -1,4 +1,4 @@
-# JiWire 收购基于位置的移动购物平台 nearby now TechCrunch
+# JiWire 收购基于位置的移动购物平台 nearby now 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/23/jiwirenearbynow/>
 

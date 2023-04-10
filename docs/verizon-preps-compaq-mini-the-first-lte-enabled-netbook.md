@@ -1,4 +1,4 @@
-# 威瑞森准备推出首款支持 LTE 的上网本 Compaq Mini TechCrunch
+# 威瑞森准备推出首款支持 LTE 的上网本 Compaq Mini 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/verizon-preps-compaq-mini-the-first-lte-enabled-netbook/>
 

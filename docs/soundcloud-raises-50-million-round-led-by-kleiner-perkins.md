@@ -1,4 +1,4 @@
-# 由凯鹏华盈领投的 SoundCloud 融资 5000 万美元 TechCrunch
+# 由凯鹏华盈领投的 SoundCloud 融资 5000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/02/soundcloud-raises-50-million-round-led-by-kleiner-perkins/>
 

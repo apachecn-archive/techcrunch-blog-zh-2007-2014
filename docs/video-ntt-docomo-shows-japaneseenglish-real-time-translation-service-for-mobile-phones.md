@@ -1,4 +1,4 @@
-# 视频:NTT Docomo 展示手机日语/英语实时翻译服务 TechCrunch
+# 视频:NTT Docomo 展示手机日语/英语实时翻译服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/video-ntt-docomo-shows-japaneseenglish-real-time-translation-service-for-mobile-phones/>
 

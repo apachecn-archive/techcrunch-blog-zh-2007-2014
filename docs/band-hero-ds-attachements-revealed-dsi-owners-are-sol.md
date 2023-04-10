@@ -1,4 +1,4 @@
-# 乐队英雄 DS 附件透露，DSi 所有者是 s . o . l . TechCrunch
+# 乐队英雄 DS 附件透露，DSi 所有者是 s . o . l . 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/band-hero-ds-attachements-revealed-dsi-owners-are-sol/>
 

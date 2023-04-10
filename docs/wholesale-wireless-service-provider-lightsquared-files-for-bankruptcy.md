@@ -1,4 +1,4 @@
-# 批发无线服务提供商 LightSquared 申请破产 TechCrunch
+# 批发无线服务提供商 LightSquared 申请破产 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/14/wholesale-wireless-service-provider-lightsquared-files-for-bankruptcy/>
 

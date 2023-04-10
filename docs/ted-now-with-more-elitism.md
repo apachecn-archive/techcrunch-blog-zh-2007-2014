@@ -1,4 +1,4 @@
-# 泰德:现在有了更多的精英主义？TechCrunch
+# 泰德:现在有了更多的精英主义？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/ted-now-with-more-elitism/>
 

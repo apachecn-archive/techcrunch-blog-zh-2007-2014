@@ -1,4 +1,4 @@
-# 报道:巴基斯坦因亵渎内容封锁推特，脸书顺从？[更新:备份 TechCrunch
+# 报道:巴基斯坦因亵渎内容封锁推特，脸书顺从？[更新:备份 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/20/report-pakistan-blocks-twitter-over-blasphemous-content-facebook-complies/>
 

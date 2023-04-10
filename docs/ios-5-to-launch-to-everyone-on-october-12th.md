@@ -1,4 +1,4 @@
-# iOS 5 将于 10 月 12 日向所有人开放 TechCrunch
+# iOS 5 将于 10 月 12 日向所有人开放 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/ios-5-to-launch-to-everyone-on-october-12th/>
 

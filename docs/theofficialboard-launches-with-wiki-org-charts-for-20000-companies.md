@@ -1,4 +1,4 @@
-# 官方公告板发布了 20，000 家公司的维基组织结构图 TechCrunch
+# 官方公告板发布了 20，000 家公司的维基组织结构图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/09/theofficialboard-launches-with-wiki-org-charts-for-20000-companies/>
 

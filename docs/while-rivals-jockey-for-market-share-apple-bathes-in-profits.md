@@ -1,4 +1,4 @@
-# 当竞争对手争夺市场份额时，苹果享受利润 TechCrunch
+# 当竞争对手争夺市场份额时，苹果享受利润 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/11/while-rivals-jockey-for-market-share-apple-bathes-in-profits/>
 

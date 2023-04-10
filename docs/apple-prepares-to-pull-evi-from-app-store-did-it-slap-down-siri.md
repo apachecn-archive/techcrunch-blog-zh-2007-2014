@@ -1,4 +1,4 @@
-# 苹果公司准备从应用程序商店撤出 Evi。它是否拒绝了 Siri？TechCrunch
+# 苹果公司准备从应用程序商店撤出 Evi。它是否拒绝了 Siri？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/26/apple-prepares-to-pull-evi-from-app-store-did-it-slap-down-siri/>
 

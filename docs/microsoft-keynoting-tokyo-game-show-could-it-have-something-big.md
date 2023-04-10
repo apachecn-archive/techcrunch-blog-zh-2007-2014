@@ -1,4 +1,4 @@
-# 微软在东京游戏展上的主题演讲——它会有什么大作为吗？TechCrunch
+# 微软在东京游戏展上的主题演讲——它会有什么大作为吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/26/microsoft-keynoting-tokyo-game-show-could-it-have-something-big/>
 

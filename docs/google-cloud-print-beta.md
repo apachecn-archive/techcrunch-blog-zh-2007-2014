@@ -1,4 +1,4 @@
-# 在 Chrome 操作系统发布之前，谷歌云打印似乎准备推出测试版 TechCrunch
+# 在 Chrome 操作系统发布之前，谷歌云打印似乎准备推出测试版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/07/google-cloud-print-beta/>
 

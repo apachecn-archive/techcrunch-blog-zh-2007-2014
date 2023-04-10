@@ -1,4 +1,4 @@
-# 汽车保险比较初创公司 Leaky 在全国推出，融资 67 万美元 TechCrunch
+# 汽车保险比较初创公司 Leaky 在全国推出，融资 67 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/05/leaky-national-launch-seed-funding/>
 

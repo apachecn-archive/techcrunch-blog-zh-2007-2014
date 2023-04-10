@@ -1,4 +1,4 @@
-# 保持简单，笨蛋 TechCrunch
+# 保持简单，笨蛋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/28/keep-it-simple-stupid/>
 

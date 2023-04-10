@@ -1,4 +1,4 @@
-# 无线合同无懈可击，但开始生锈——TechCrunch
+# 无线合同无懈可击，但开始生锈——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/wireless-contracts-ironclad-but-starting-to-rust/>
 

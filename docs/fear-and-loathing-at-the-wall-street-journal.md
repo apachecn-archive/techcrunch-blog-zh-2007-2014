@@ -1,4 +1,4 @@
-# 对华尔街日报的恐惧和厌恶 TechCrunch
+# 对华尔街日报的恐惧和厌恶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/18/fear-and-loathing-at-the-wall-street-journal/>
 

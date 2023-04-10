@@ -1,4 +1,4 @@
-# 苹果即将开业的中央大商店将在黑色星期五前准备就绪 TechCrunch
+# 苹果即将开业的中央大商店将在黑色星期五前准备就绪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/apples-upcoming-grand-central-store-will-be-ready-by-black-friday/>
 

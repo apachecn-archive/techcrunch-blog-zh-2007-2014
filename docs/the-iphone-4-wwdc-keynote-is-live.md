@@ -1,4 +1,4 @@
-# iPhone 4 WWDC 主题演讲直播 TechCrunch
+# iPhone 4 WWDC 主题演讲直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/08/the-iphone-4-wwdc-keynote-is-live/>
 

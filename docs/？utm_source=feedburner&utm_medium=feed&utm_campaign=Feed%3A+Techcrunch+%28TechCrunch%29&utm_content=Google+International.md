@@ -1,4 +1,4 @@
-# Gmail 创建者认为电子邮件将永远存在。也没试过 Google Wave。TechCrunch
+# Gmail 创建者认为电子邮件将永远存在。也没试过 Google Wave。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/20/gmail-creator-thinks-email-will-last-forever-and-hasnt-tried-google-wave/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=Google+International>
 

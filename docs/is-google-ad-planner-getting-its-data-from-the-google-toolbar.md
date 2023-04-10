@@ -1,4 +1,4 @@
-# Google Ad Planner 是从 Google 工具栏获取数据的吗？TechCrunch
+# Google Ad Planner 是从 Google 工具栏获取数据的吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/24/is-google-ad-planner-getting-its-data-from-the-google-toolbar/>
 

@@ -1,4 +1,4 @@
-# 如何立即启用脸书时间轴 TechCrunch
+# 如何立即启用脸书时间轴 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/how-to-enable-facebook-timeline/>
 

@@ -1,4 +1,4 @@
-# Dimdim 因开源网络会议获得 600 万美元 TechCrunch
+# Dimdim 因开源网络会议获得 600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/09/dimdim-gets-6-million-for-open-sourced-web-meetings/>
 

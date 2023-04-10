@@ -1,4 +1,4 @@
-# 即将来到你附近的商店:Tagtile，一个类似正方形的移动忠诚度服务 TechCrunch
+# 即将来到你附近的商店:Tagtile，一个类似正方形的移动忠诚度服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/coming-soon-to-a-store-near-you-tagtile-a-square-like-mobile-loyalty-service/>
 

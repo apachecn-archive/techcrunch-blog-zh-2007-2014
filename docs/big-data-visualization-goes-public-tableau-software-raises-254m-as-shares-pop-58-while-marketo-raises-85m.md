@@ -1,4 +1,4 @@
-# 大数据分析专家 Tableau Software 通过 IPO 筹集了 2.54 亿美元，股价收盘上涨 64%；Marketo 上市首日上涨 78%，至 23.10 美元 TechCrunch
+# 大数据分析专家 Tableau Software 通过 IPO 筹集了 2.54 亿美元，股价收盘上涨 64%；Marketo 上市首日上涨 78%，至 23.10 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/17/big-data-visualization-goes-public-tableau-software-raises-254m-as-shares-pop-58-while-marketo-raises-85m/>
 

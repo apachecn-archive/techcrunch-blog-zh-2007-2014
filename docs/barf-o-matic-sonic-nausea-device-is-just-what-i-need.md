@@ -1,4 +1,4 @@
-# Barf-o-matic“声波恶心”设备正是我所需要的 TechCrunch
+# Barf-o-matic“声波恶心”设备正是我所需要的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/03/barf-o-matic-sonic-nausea-device-is-just-what-i-need/>
 

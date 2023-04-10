@@ -1,4 +1,4 @@
-# 在 Homejoy 的幕后，一家清洁初创公司声称它实际上是一家科技公司 TechCrunch
+# 在 Homejoy 的幕后，一家清洁初创公司声称它实际上是一家科技公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/18/homejoy-behind-the-scenes/>
 

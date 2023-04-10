@@ -1,4 +1,4 @@
-# 创业公司不应忽视国际专利保护 TechCrunch
+# 创业公司不应忽视国际专利保护 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/17/startups-shouldnt-ignore-international-patent-protection/>
 

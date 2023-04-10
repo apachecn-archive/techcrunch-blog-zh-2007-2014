@@ -1,4 +1,4 @@
-# Touchpad(短暂)重返英国 TechCrunch
+# Touchpad(短暂)重返英国 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/the-touchpad-is-back-briefly-in-the-uk/>
 

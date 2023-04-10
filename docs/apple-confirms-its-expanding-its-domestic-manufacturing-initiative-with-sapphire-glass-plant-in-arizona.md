@@ -1,4 +1,4 @@
-# 苹果与亚利桑那州的蓝宝石玻璃厂达成制造协议，扩大“美国制造”的努力 TechCrunch
+# 苹果与亚利桑那州的蓝宝石玻璃厂达成制造协议，扩大“美国制造”的努力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/04/apple-confirms-its-expanding-its-domestic-manufacturing-initiative-with-sapphire-glass-plant-in-arizona/>
 

@@ -1,4 +1,4 @@
-# 面对面评论:佳能 T3i 与尼康 d 5100 TechCrunch
+# 面对面评论:佳能 T3i 与尼康 d 5100 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/head-to-head-review-canon-t3i-vs-nikon-d5100/>
 

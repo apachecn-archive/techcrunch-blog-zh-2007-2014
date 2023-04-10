@@ -1,4 +1,4 @@
-# 并非所有的 IMAX 屏幕都是一样的 TechCrunch
+# 并非所有的 IMAX 屏幕都是一样的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/05/22/not-all-imax-screens-are-created-equal/>
 

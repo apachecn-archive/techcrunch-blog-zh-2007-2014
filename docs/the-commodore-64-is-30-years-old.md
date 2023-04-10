@@ -1,4 +1,4 @@
-# Commodore 64 已有 30 年历史 TechCrunch
+# Commodore 64 已有 30 年历史 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/02/the-commodore-64-is-30-years-old/>
 

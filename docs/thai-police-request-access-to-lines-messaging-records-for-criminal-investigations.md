@@ -1,4 +1,4 @@
-# 泰国警方要求访问 Line 的信息记录以进行刑事调查 TechCrunch
+# 泰国警方要求访问 Line 的信息记录以进行刑事调查 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/13/thai-police-request-access-to-lines-messaging-records-for-criminal-investigations/>
 

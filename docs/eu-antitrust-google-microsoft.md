@@ -1,4 +1,4 @@
-# 欧盟对谷歌展开反垄断调查。微软的指纹无处不在。TechCrunch
+# 欧盟对谷歌展开反垄断调查。微软的指纹无处不在。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/23/eu-antitrust-google-microsoft/>
 

@@ -1,4 +1,4 @@
-# 十字路口的硅谷:娱乐还是科学？TechCrunch
+# 十字路口的硅谷:娱乐还是科学？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/05/silicon-valley-at-a-cross-roads-entertainment-or-science/>
 

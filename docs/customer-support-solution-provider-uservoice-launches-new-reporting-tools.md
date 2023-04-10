@@ -1,4 +1,4 @@
-# 客户支持解决方案提供商 UserVoice 推出新的报告工具 TechCrunch
+# 客户支持解决方案提供商 UserVoice 推出新的报告工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/customer-support-solution-provider-uservoice-launches-new-reporting-tools/>
 

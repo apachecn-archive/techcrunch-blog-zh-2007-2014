@@ -1,4 +1,4 @@
-# 没去成就职典礼？假装你做了。TechCrunch
+# 没去成就职典礼？假装你做了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/21/didnt-make-it-to-the-inauguration-just-pretend-you-did/>
 

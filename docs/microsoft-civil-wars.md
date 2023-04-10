@@ -1,4 +1,4 @@
-# 迷失:如果微软不能活在一起，微软可能会孤独终老 TechCrunch
+# 迷失:如果微软不能活在一起，微软可能会孤独终老 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/04/microsoft-civil-wars/>
 

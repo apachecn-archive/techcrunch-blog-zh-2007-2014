@@ -1,4 +1,4 @@
-# 现代版的耶稣诞生故事，以脸书、Twitter 等为特色 TechCrunch
+# 现代版的耶稣诞生故事，以脸书、Twitter 等为特色 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/15/the-modern-version-of-the-nativity-story-featuring-facebook-twitter-and-more/>
 

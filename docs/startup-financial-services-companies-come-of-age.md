@@ -1,4 +1,4 @@
-# 初创金融服务公司走向成熟 TechCrunch
+# 初创金融服务公司走向成熟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/24/startup-financial-services-companies-come-of-age/>
 

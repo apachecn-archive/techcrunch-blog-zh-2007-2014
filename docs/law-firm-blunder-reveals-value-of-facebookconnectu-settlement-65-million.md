@@ -1,4 +1,4 @@
-# 律师事务所失策披露脸书支付给 ConnectU 的价值:6500 万美元 TechCrunch
+# 律师事务所失策披露脸书支付给 ConnectU 的价值:6500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/10/law-firm-blunder-reveals-value-of-facebookconnectu-settlement-65-million/>
 

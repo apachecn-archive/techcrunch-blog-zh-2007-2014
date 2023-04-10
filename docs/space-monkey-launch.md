@@ -1,4 +1,4 @@
-# P2P Dropbox 竞争对手 Space Monkey 赢得发布，已经筹集了 75 万美元 TechCrunch
+# P2P Dropbox 竞争对手 Space Monkey 赢得发布，已经筹集了 75 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/space-monkey-launch/>
 

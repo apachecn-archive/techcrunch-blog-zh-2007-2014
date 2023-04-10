@@ -1,4 +1,4 @@
-# 终于！Twitter-以卡通形式解释税收故事 TechCrunch
+# 终于！Twitter-以卡通形式解释税收故事 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/08/finally-twitter-tax-story-explained-in-cartoon-form/>
 

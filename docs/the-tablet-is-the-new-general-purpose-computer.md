@@ -1,4 +1,4 @@
-# 平板电脑是新的通用电脑 TechCrunch
+# 平板电脑是新的通用电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/18/the-tablet-is-the-new-general-purpose-computer/>
 

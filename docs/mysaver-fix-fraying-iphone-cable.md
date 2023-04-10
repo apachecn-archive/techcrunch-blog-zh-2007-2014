@@ -1,4 +1,4 @@
-# MySaver 让你的 iPhone 线缆第 100 次不会断裂 TechCrunch
+# MySaver 让你的 iPhone 线缆第 100 次不会断裂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/mysaver-fix-fraying-iphone-cable/>
 

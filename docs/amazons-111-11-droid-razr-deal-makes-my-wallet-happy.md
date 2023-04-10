@@ -1,4 +1,4 @@
-# 亚马逊 111.11 美元的 Droid RAZR 交易让我的钱包很开心 TechCrunch
+# 亚马逊 111.11 美元的 Droid RAZR 交易让我的钱包很开心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/amazons-111-11-droid-razr-deal-makes-my-wallet-happy/>
 

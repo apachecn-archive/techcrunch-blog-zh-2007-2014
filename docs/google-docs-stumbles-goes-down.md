@@ -1,4 +1,4 @@
-# 谷歌文档跌跌撞撞，倒闭 TechCrunch
+# 谷歌文档跌跌撞撞，倒闭 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/google-docs-stumbles-goes-down/>
 

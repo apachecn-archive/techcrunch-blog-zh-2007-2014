@@ -1,4 +1,4 @@
-# 极简主义的瑞士座钟非常漂亮，非常昂贵 TechCrunch
+# 极简主义的瑞士座钟非常漂亮，非常昂贵 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/minimalist-swiss-block-clock-is-beautiful-incredibly-expensive/>
 

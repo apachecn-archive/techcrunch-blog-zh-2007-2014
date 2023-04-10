@@ -1,4 +1,4 @@
-# 美国电话电报公司和 T-Mobile 的合并会创造就业机会吗？(更新)TechCrunch
+# 美国电话电报公司和 T-Mobile 的合并会创造就业机会吗？(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/will-the-attt-mobile-merger-create-jobs/>
 

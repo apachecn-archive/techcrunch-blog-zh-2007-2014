@@ -1,4 +1,4 @@
-# T-Mobile 的下一款大型 Android 手机被摄像头捕捉到 TechCrunch
+# T-Mobile 的下一款大型 Android 手机被摄像头捕捉到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/05/t-mobile-amaze-4g-specs/>
 

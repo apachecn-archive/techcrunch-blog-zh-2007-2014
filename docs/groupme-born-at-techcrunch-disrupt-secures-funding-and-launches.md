@@ -1,4 +1,4 @@
-# 诞生于 TechCrunch Disrupt 的 GroupMe 获得资金并推出 TechCrunch
+# 诞生于 TechCrunch Disrupt 的 GroupMe 获得资金并推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/groupme-born-at-techcrunch-disrupt-secures-funding-and-launches/>
 

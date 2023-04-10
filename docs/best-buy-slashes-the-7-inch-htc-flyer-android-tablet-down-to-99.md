@@ -1,4 +1,4 @@
-# 百思买将 7 英寸 HTC Flyer Android 平板电脑降价至 99 美元更新 TechCrunch
+# 百思买将 7 英寸 HTC Flyer Android 平板电脑降价至 99 美元更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/best-buy-slashes-the-7-inch-htc-flyer-android-tablet-down-to-99/>
 

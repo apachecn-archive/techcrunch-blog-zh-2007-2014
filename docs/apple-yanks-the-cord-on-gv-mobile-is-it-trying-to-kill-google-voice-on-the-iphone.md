@@ -1,4 +1,4 @@
-# 苹果猛拉 GV Mobile 的绳索。是想在 iPhone 上干掉 Google Voice 吗？TechCrunch
+# 苹果猛拉 GV Mobile 的绳索。是想在 iPhone 上干掉 Google Voice 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/27/apple-yanks-the-cord-on-gv-mobile-is-it-trying-to-kill-google-voice-on-the-iphone/>
 

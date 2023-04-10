@@ -1,4 +1,4 @@
-# 谨慎的代价 TechCrunch
+# 谨慎的代价 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/29/the-cost-of-prudence/>
 

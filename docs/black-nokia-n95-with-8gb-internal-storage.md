@@ -1,4 +1,4 @@
-# 配备 8GB 内部存储的黑色诺基亚 N95–TechCrunch
+# 配备 8GB 内部存储的黑色诺基亚 N95–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/black-nokia-n95-with-8gb-internal-storage/>
 

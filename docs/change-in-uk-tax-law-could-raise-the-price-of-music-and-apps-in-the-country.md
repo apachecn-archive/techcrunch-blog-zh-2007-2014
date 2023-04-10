@@ -1,4 +1,4 @@
-# 英国税法的变化可能会提高该国音乐和应用的价格 TechCrunch
+# 英国税法的变化可能会提高该国音乐和应用的价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/23/change-in-uk-tax-law-could-raise-the-price-of-music-and-apps-in-the-country/>
 

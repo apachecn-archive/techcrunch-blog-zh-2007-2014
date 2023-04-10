@@ -1,4 +1,4 @@
-# 微软在 Box 涉足其地盘后发起反击，将 SkyDrive Pro 存储提升至 25gb TechCrunch
+# 微软在 Box 涉足其地盘后发起反击，将 SkyDrive Pro 存储提升至 25gb 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/microsoft-fires-back-after-box-steps-on-its-turf-boosts-skydrive-pro-storage-to-25-gb/>
 

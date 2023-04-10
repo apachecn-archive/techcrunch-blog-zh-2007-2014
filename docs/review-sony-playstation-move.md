@@ -1,4 +1,4 @@
-# 点评:索尼 PlayStation Move TechCrunch
+# 点评:索尼 PlayStation Move 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/01/review-sony-playstation-move/>
 

@@ -1,4 +1,4 @@
-# 凭借其新的医疗语言 iPad 应用程序，Swiftkey 更接近 iOS 平台 TechCrunch
+# 凭借其新的医疗语言 iPad 应用程序，Swiftkey 更接近 iOS 平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/26/with-its-new-medical-language-ipad-app-swiftkey-edges-closer-to-the-ios-platform/>
 

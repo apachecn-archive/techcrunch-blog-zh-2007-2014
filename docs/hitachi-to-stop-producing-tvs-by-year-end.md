@@ -1,4 +1,4 @@
-# 日立将于年底停止生产电视 TechCrunch
+# 日立将于年底停止生产电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/hitachi-to-stop-producing-tvs-by-year-end/>
 

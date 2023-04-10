@@ -1,4 +1,4 @@
-# 拆除 TC:潘多拉——网络直播的艰难生意 TechCrunch
+# 拆除 TC:潘多拉——网络直播的艰难生意 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/06/16/tc-teardown-pandora-the-tough-business-of-webcasting/>
 

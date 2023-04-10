@@ -1,4 +1,4 @@
-# 《战争与和平》或《iPhone 法案》——TechCrunch
+# 《战争与和平》或《iPhone 法案》——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/war-and-peace-or-iphone-bill/>
 

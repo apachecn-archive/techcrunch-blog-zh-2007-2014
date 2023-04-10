@@ -1,4 +1,4 @@
-# Kantox 推出 P2P 外汇对冲交易测试版 TechCrunch
+# Kantox 推出 P2P 外汇对冲交易测试版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/kantox-launches-beta-for-peer-to-peer-fx-hedge-transactions/>
 

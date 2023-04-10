@@ -1,4 +1,4 @@
-# Kinobi 将使用 Kinect 教你瑜伽、舞蹈，甚至外科手术 TechCrunch
+# Kinobi 将使用 Kinect 教你瑜伽、舞蹈，甚至外科手术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/kinobi-will-use-kinect-to-teach-you-yoga-dancing-or-maybe-even-surgery/>
 

@@ -1,4 +1,4 @@
-# 脸书推出开放学院，为孩子的开源贡献授予大学学分 TechCrunch
+# 脸书推出开放学院，为孩子的开源贡献授予大学学分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/13/facebook-open-academy/>
 

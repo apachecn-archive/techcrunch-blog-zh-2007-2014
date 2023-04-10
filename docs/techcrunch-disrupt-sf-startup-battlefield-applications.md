@@ -1,4 +1,4 @@
-# 让游戏开始，TechCrunch 扰乱 SF 启动战场应用程序现已开放！TechCrunch
+# 让游戏开始，TechCrunch 扰乱 SF 启动战场应用程序现已开放！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/techcrunch-disrupt-sf-startup-battlefield-applications/>
 

@@ -1,4 +1,4 @@
-# HireVue 收购 CodeEval，这是一款面向招聘人员的程序员评估工具 TechCrunch
+# HireVue 收购 CodeEval，这是一款面向招聘人员的程序员评估工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/02/hirevue-acquires-codeeval-a-programmer-evaluation-tool-for-recruiters/>
 

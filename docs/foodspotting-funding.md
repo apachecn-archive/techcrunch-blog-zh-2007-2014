@@ -1,4 +1,4 @@
-# 美食投资者将他们的资金投入到 75 万美元的种子轮 TechCrunch
+# 美食投资者将他们的资金投入到 75 万美元的种子轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/foodspotting-funding/>
 

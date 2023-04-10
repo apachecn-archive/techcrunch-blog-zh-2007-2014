@@ -1,4 +1,4 @@
-# iPhone 5s 通过 10%的采用率；5c 与过去发布的产品相比，也有强劲的增长 TechCrunch
+# iPhone 5s 通过 10%的采用率；5c 与过去发布的产品相比，也有强劲的增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/09/iphone-5s-5c-adoption/>
 

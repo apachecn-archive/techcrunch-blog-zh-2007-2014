@@ -1,4 +1,4 @@
-# 软件招聘巨头 Bullhorn 被 Vista Equity Partners 以低于 9 位数的价格收购 TechCrunch
+# 软件招聘巨头 Bullhorn 被 Vista Equity Partners 以低于 9 位数的价格收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/14/recruitment-giant-bullhorn-acquired-by-vista-equity-partners-for-nine-figures/>
 

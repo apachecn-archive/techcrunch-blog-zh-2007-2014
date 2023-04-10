@@ -1,4 +1,4 @@
-# Cloudscaling 将 Google 计算引擎 API 开放给 OpenStack，为亚马逊网络服务提供替代方案 TechCrunch
+# Cloudscaling 将 Google 计算引擎 API 开放给 OpenStack，为亚马逊网络服务提供替代方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/12/cloudscaling-opens-google-compute-engine-apis-to-openstack-provides-alternative-to-amazon-web-services/>
 

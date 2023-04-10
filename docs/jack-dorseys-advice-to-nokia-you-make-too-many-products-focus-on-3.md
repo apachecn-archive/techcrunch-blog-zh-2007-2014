@@ -1,4 +1,4 @@
-# 杰克·多西给诺基亚的建议是:“你制造了太多产品。关注 3 英寸 TechCrunch
+# 杰克·多西给诺基亚的建议是:“你制造了太多产品。关注 3 英寸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/jack-dorseys-advice-to-nokia-you-make-too-many-products-focus-on-3/>
 

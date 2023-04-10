@@ -1,4 +1,4 @@
-# Myo 的开发者 Alpha Teaser 编译视频展示手势控制潜力 TechCrunch
+# Myo 的开发者 Alpha Teaser 编译视频展示手势控制潜力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/10/myos-developer-alpha-teaser-compilation-video-showcases-gesture-control-potential/>
 

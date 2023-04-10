@@ -1,4 +1,4 @@
-# 任天堂老板为 3DS 销售承担责任，薪水减半 TechCrunch
+# 任天堂老板为 3DS 销售承担责任，薪水减半 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/29/nintendo-boss-takes-the-blame-for-3ds-sales-cuts-his-paycheck-in-half/>
 

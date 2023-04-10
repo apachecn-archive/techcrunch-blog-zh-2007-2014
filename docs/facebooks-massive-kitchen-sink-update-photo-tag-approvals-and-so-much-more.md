@@ -1,4 +1,4 @@
-# 脸书的大规模厨房水槽更新:照片标签批准等等 TechCrunch
+# 脸书的大规模厨房水槽更新:照片标签批准等等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/facebooks-massive-kitchen-sink-update-photo-tag-approvals-and-so-much-more/>
 

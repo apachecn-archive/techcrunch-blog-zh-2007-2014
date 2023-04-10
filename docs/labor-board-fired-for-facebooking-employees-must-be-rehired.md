@@ -1,4 +1,4 @@
-# 劳工委员会:因 Facebooking 被解雇的员工必须被重新雇用 TechCrunch
+# 劳工委员会:因 Facebooking 被解雇的员工必须被重新雇用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/labor-board-fired-for-facebooking-employees-must-be-rehired/>
 

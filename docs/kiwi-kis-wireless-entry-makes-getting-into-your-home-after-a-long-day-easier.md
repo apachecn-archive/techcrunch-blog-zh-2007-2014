@@ -1,4 +1,4 @@
-# Kiwi.ki 的无线入口让您在漫长的一天后更容易进入家中 TechCrunch
+# Kiwi.ki 的无线入口让您在漫长的一天后更容易进入家中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/28/kiwi-kis-wireless-entry-makes-getting-into-your-home-after-a-long-day-easier/>
 

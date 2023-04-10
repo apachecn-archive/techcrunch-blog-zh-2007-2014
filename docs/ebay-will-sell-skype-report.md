@@ -1,4 +1,4 @@
-# 报道:易贝称可能出售 Skype TechCrunch
+# 报道:易贝称可能出售 Skype 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/18/ebay-will-sell-skype-report/>
 

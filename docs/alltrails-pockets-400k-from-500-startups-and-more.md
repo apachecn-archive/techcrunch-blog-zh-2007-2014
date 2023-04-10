@@ -1,4 +1,4 @@
-# AllTrails 从 500 家初创公司和更多公司获得 40 万美元 TechCrunch
+# AllTrails 从 500 家初创公司和更多公司获得 40 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/13/alltrails-pockets-400k-from-500-startups-and-more/>
 

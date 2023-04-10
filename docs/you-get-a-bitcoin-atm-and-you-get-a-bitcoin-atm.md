@@ -1,4 +1,4 @@
-# 你得到一台比特币自动取款机，你得到一台比特币自动取款机...TechCrunch
+# 你得到一台比特币自动取款机，你得到一台比特币自动取款机...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/24/you-get-a-bitcoin-atm-and-you-get-a-bitcoin-atm/>
 

@@ -1,4 +1,4 @@
-# 谷歌证实解雇了违反内部隐私政策的工程师 TechCrunch
+# 谷歌证实解雇了违反内部隐私政策的工程师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/google-engineer-spying-fired/>
 

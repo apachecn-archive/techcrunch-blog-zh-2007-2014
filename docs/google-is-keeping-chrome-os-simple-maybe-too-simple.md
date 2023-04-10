@@ -1,4 +1,4 @@
-# 谷歌保持了 Chrome 操作系统的简单性。也许太简单了。TechCrunch
+# 谷歌保持了 Chrome 操作系统的简单性。也许太简单了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/19/google-is-keeping-chrome-os-simple-maybe-too-simple/>
 

@@ -1,4 +1,4 @@
-# 据报道，Milo.com 以 7500 万美元收购易贝 TechCrunch
+# 据报道，Milo.com 以 7500 万美元收购易贝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/02/ebay-reportedly-goes-shopping-acquires-milo-com-for-75-million/>
 

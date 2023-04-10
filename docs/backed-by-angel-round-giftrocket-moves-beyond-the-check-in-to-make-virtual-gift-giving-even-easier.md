@@ -1,4 +1,4 @@
-# 在天使轮的支持下，GiftRocket 超越了签到，使虚拟礼物赠送变得更加容易 TechCrunch
+# 在天使轮的支持下，GiftRocket 超越了签到，使虚拟礼物赠送变得更加容易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/backed-by-angel-round-giftrocket-moves-beyond-the-check-in-to-make-virtual-gift-giving-even-easier/>
 

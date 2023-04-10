@@ -1,4 +1,4 @@
-# 苹果专利暗示多部分手势，可触摸 OS X TechCrunch
+# 苹果专利暗示多部分手势，可触摸 OS X 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/apple-patents-hint-at-multi-part-gestures-touchable-os-x/>
 

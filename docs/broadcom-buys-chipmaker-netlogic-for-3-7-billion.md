@@ -1,4 +1,4 @@
-# 博通以 37 亿美元收购芯片制造技术公司 net logic TechCrunch
+# 博通以 37 亿美元收购芯片制造技术公司 net logic 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/broadcom-buys-chipmaker-netlogic-for-3-7-billion/>
 

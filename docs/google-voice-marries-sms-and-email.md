@@ -1,4 +1,4 @@
-# 谷歌语音最终将短信和电子邮件结合起来 TechCrunch
+# 谷歌语音最终将短信和电子邮件结合起来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/08/google-voice-marries-sms-and-email/>
 

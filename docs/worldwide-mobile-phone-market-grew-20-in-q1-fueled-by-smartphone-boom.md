@@ -1,4 +1,4 @@
-# 受智能手机热潮推动，2011 年 Q1 全球手机市场增长 20% TechCrunch
+# 受智能手机热潮推动，2011 年 Q1 全球手机市场增长 20% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/28/worldwide-mobile-phone-market-grew-20-in-q1-fueled-by-smartphone-boom/>
 

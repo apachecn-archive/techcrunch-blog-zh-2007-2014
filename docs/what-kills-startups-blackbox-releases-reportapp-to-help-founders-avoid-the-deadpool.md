@@ -1,4 +1,4 @@
-# 是什么扼杀了创业？Blackbox 发布报告/应用程序，帮助创始人避免死池 TechCrunch
+# 是什么扼杀了创业？Blackbox 发布报告/应用程序，帮助创始人避免死池 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/what-kills-startups-blackbox-releases-reportapp-to-help-founders-avoid-the-deadpool/>
 

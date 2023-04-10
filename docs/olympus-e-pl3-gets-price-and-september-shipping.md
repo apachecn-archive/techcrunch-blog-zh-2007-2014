@@ -1,4 +1,4 @@
-# Olympus E-PL3 获得价格并于 9 月发货 TechCrunch
+# Olympus E-PL3 获得价格并于 9 月发货 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/olympus-e-pl3-gets-price-and-september-shipping/>
 

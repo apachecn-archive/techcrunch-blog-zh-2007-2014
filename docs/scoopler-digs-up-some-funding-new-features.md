@@ -1,4 +1,4 @@
-# Scoopler 挖掘到一些资金，新功能 TechCrunch
+# Scoopler 挖掘到一些资金，新功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/29/scoopler-digs-up-some-funding-new-features/>
 

@@ -1,4 +1,4 @@
-# 又一个个性化新闻网站落败 TechCrunch
+# 又一个个性化新闻网站落败 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/02/another-personalized-news-site-bites-the-dust/>
 

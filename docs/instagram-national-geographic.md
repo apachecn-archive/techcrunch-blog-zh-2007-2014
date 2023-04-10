@@ -1,4 +1,4 @@
-# Instagram 抓住了他们的第一个大品牌合作伙伴:国家地理 TechCrunch
+# Instagram 抓住了他们的第一个大品牌合作伙伴:国家地理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/30/instagram-national-geographic/>
 

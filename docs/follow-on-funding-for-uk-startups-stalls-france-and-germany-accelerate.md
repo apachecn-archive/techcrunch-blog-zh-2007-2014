@@ -1,4 +1,4 @@
-# 英国初创企业的后续融资停滞—法国和德国加速 TechCrunch
+# 英国初创企业的后续融资停滞—法国和德国加速 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/follow-on-funding-for-uk-startups-stalls-france-and-germany-accelerate/>
 

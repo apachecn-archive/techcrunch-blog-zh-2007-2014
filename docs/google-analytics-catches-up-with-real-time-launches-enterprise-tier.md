@@ -1,4 +1,4 @@
-# 谷歌分析赶上实时，推出企业级 TechCrunch
+# 谷歌分析赶上实时，推出企业级 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/google-analytics-catches-up-with-real-time-launches-enterprise-tier/>
 

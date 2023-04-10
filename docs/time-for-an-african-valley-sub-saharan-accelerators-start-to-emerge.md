@@ -1,4 +1,4 @@
-# 是时候去非洲山谷了？—撒哈拉以南地区的加速器开始出现 TechCrunch
+# 是时候去非洲山谷了？—撒哈拉以南地区的加速器开始出现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/07/time-for-an-african-valley-sub-saharan-accelerators-start-to-emerge/>
 

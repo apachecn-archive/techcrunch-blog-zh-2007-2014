@@ -1,4 +1,4 @@
-# comScore: YouTube 在 5 月份创下 146 亿视频观看量的历史新高 TechCrunch
+# comScore: YouTube 在 5 月份创下 146 亿视频观看量的历史新高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/24/comscore-youtube-reaches-all-time-high-of-14-6-billion-videos-viewed-in-may/>
 

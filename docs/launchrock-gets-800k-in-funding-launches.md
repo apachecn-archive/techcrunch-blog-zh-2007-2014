@@ -1,4 +1,4 @@
-# LaunchRock 获得 80 万美元资金，推出 TechCrunch
+# LaunchRock 获得 80 万美元资金，推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/launchrock-gets-800k-in-funding-launches/>
 

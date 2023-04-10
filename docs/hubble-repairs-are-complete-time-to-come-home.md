@@ -1,4 +1,4 @@
-# 哈勃修复完成，该回家了 TechCrunch
+# 哈勃修复完成，该回家了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/19/hubble-repairs-are-complete-time-to-come-home/>
 

@@ -1,4 +1,4 @@
-# 观看现实生活中的 TacoCopter 从 20 英尺高的地方扔下美味的墨西哥食物 TechCrunch
+# 观看现实生活中的 TacoCopter 从 20 英尺高的地方扔下美味的墨西哥食物 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/09/watch-the-real-life-taco-copter-drop-some-delicious-mexican-food-from-20-feet/>
 

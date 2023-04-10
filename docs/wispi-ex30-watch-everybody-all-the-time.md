@@ -1,4 +1,4 @@
-# WiSpi EX30:随时关注每个人 TechCrunch
+# WiSpi EX30:随时关注每个人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/13/wispi-ex30-watch-everybody-all-the-time/>
 

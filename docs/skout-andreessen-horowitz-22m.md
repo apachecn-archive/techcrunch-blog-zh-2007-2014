@@ -1,4 +1,4 @@
-# Skout 的故事:从死亡之门到 Andreessen Horowitz 领导的 2200 万美元 TechCrunch
+# Skout 的故事:从死亡之门到 Andreessen Horowitz 领导的 2200 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/03/skout-andreessen-horowitz-22m/>
 

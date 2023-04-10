@@ -1,4 +1,4 @@
-# Gmail Magic 收件箱里有什么？TechCrunch
+# Gmail Magic 收件箱里有什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/21/whats-in-the-gmail-magic-inbox/>
 

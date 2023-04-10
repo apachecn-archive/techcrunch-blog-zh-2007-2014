@@ -1,4 +1,4 @@
-# 移动广告网络 Greystripe 将其 iFlash 广告引入 iPad TechCrunch
+# 移动广告网络 Greystripe 将其 iFlash 广告引入 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/30/mobile-advertising-network-greystripe-brings-its-iflash-ads-to-the-ipad/>
 

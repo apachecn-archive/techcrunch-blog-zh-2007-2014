@@ -1,4 +1,4 @@
-# 本杰明·富兰克林焕然一新 TechCrunch
+# 本杰明·富兰克林焕然一新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/benjamin-franklin-gets-a-makeover/>
 

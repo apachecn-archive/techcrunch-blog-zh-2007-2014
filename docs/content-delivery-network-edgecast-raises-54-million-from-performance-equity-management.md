@@ -1,4 +1,4 @@
-# 内容交付网络 EdgeCast 从 Performance Equity Management 获得 5400 万美元 TechCrunch
+# 内容交付网络 EdgeCast 从 Performance Equity Management 获得 5400 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/content-delivery-network-edgecast-raises-54-million-from-performance-equity-management/>
 

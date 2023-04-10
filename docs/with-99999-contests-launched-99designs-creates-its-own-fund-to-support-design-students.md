@@ -1,4 +1,4 @@
-# 随着 99，999 竞赛的开展，99designs 创建了自己的基金来支持设计专业的学生 TechCrunch
+# 随着 99，999 竞赛的开展，99designs 创建了自己的基金来支持设计专业的学生 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/with-99999-contests-launched-99designs-creates-its-own-fund-to-support-design-students/>
 

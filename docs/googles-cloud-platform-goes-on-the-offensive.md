@@ -1,4 +1,4 @@
-# 谷歌的云平台通过降价和新功能发动攻势 TechCrunch
+# 谷歌的云平台通过降价和新功能发动攻势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/googles-cloud-platform-goes-on-the-offensive/>
 

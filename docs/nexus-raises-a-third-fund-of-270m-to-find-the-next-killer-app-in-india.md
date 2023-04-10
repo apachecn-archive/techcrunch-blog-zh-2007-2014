@@ -1,4 +1,4 @@
-# Nexus 筹集了第三笔 2.7 亿美元资金，在印度开发下一款黑仔应用 TechCrunch
+# Nexus 筹集了第三笔 2.7 亿美元资金，在印度开发下一款黑仔应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/nexus-raises-a-third-fund-of-270m-to-find-the-next-killer-app-in-india/>
 

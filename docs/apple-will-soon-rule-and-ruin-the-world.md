@@ -1,4 +1,4 @@
-# 中国联通即将首次提供 iPad 3G TechCrunch
+# 中国联通即将首次提供 iPad 3G 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/apple-will-soon-rule-and-ruin-the-world/>
 

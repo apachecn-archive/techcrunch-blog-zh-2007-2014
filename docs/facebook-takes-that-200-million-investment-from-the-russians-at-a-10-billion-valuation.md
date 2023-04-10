@@ -1,4 +1,4 @@
-# 脸书以 100 亿美元的估值接受了俄罗斯的 2 亿美元投资。TechCrunch
+# 脸书以 100 亿美元的估值接受了俄罗斯的 2 亿美元投资。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/26/facebook-takes-that-200-million-investment-from-the-russians-at-a-10-billion-valuation/>
 

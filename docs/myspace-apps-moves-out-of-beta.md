@@ -1,4 +1,4 @@
-# MySpace Apps 退出测试版 TechCrunch
+# MySpace Apps 退出测试版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/24/myspace-apps-moves-out-of-beta/>
 

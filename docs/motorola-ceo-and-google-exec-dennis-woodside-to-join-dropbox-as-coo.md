@@ -1,4 +1,4 @@
-# 摩托罗拉首席执行官兼谷歌高管丹尼斯·伍德赛德将加盟 Dropbox，出任首席运营官 TechCrunch
+# 摩托罗拉首席执行官兼谷歌高管丹尼斯·伍德赛德将加盟 Dropbox，出任首席运营官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/motorola-ceo-and-google-exec-dennis-woodside-to-join-dropbox-as-coo/>
 

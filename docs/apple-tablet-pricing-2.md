@@ -1,4 +1,4 @@
-# 苹果围绕平板电脑的定价硝烟越来越浓 TechCrunch
+# 苹果围绕平板电脑的定价硝烟越来越浓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/06/apple-tablet-pricing-2/>
 

@@ -1,4 +1,4 @@
-# Snapchat 和短暂的摄影之美以及转瞬即逝的创造力 TechCrunch
+# Snapchat 和短暂的摄影之美以及转瞬即逝的创造力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/27/snapchat-and-the-beauty-of-ephemeral-photography-and-fleeting-creativity/>
 

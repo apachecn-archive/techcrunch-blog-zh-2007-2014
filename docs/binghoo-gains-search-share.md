@@ -1,4 +1,4 @@
-# 冰呼！6 月份搜索份额增加 TechCrunch
+# 冰呼！6 月份搜索份额增加 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/binghoo-gains-search-share/>
 

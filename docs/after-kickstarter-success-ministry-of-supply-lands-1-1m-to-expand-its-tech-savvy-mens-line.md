@@ -1,4 +1,4 @@
-# 在 Kickstarter 获得成功后，供应部获得了 110 万美元，用于扩展其精通技术的男士系列 TechCrunch
+# 在 Kickstarter 获得成功后，供应部获得了 110 万美元，用于扩展其精通技术的男士系列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/26/after-kickstarter-success-ministry-of-supply-lands-1-1m-to-expand-its-tech-savvy-mens-line/>
 

@@ -1,4 +1,4 @@
-# 美好世界游戏的 MyConservationPark 帮助你拯救濒危物种 TechCrunch
+# 美好世界游戏的 MyConservationPark 帮助你拯救濒危物种 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/19/good-world-games-myconservationpark-helps-you-save-endangered-species/>
 

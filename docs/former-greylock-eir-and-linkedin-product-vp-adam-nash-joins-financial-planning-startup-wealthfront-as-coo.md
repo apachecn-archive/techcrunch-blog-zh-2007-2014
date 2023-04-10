@@ -1,4 +1,4 @@
-# 前格雷洛克 EIR 和 LinkedIn 产品副总裁亚当纳什加入财务规划初创公司 Wealthfront，成为首席运营官 TechCrunch
+# 前格雷洛克 EIR 和 LinkedIn 产品副总裁亚当纳什加入财务规划初创公司 Wealthfront，成为首席运营官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/former-greylock-eir-and-linkedin-product-vp-adam-nash-joins-financial-planning-startup-wealthfront-as-coo/>
 

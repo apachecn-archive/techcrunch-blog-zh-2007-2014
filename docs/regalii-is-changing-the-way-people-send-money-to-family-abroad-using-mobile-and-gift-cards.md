@@ -1,4 +1,4 @@
-# Regalii 正在改变人们通过手机和礼品卡向国外家人汇款的方式 TechCrunch
+# Regalii 正在改变人们通过手机和礼品卡向国外家人汇款的方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/regalii-is-changing-the-way-people-send-money-to-family-abroad-using-mobile-and-gift-cards/>
 

@@ -1,4 +1,4 @@
-# Pose:一款时尚和购物照片分享应用，刚刚筹集了 160 万美元 TechCrunch
+# Pose:一款时尚和购物照片分享应用，刚刚筹集了 160 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/11/pose-a-photo-sharing-app-for-fashion-and-shopping-that-just-raised-1-6-million/>
 

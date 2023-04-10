@@ -1,4 +1,4 @@
-# 一键收听、阅读和观看行情按钮，提高脸书应用的使用率 TechCrunch
+# 一键收听、阅读和观看行情按钮，提高脸书应用的使用率 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/listen-read-watch/>
 

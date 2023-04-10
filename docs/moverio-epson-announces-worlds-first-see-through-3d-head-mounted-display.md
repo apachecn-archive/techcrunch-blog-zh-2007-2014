@@ -1,4 +1,4 @@
-# Moverio:爱普生宣布推出全球首款透明 3D 头戴显示器 TechCrunch
+# Moverio:爱普生宣布推出全球首款透明 3D 头戴显示器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/moverio-epson-announces-worlds-first-see-through-3d-head-mounted-display/>
 

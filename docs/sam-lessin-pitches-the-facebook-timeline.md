@@ -1,4 +1,4 @@
-# Sam Lessin 推介脸书时间表 TechCrunch
+# Sam Lessin 推介脸书时间表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/09/sam-lessin-pitches-the-facebook-timeline/>
 

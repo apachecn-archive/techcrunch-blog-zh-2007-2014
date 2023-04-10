@@ -1,4 +1,4 @@
-# 欧洲初创企业加速器逐渐显示出它们的表现 TechCrunch
+# 欧洲初创企业加速器逐渐显示出它们的表现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/27/european-startup-accelerators-are-gradually-revealing-their-performance-figures/>
 

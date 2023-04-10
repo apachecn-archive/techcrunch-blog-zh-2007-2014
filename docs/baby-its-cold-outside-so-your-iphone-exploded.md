@@ -1,4 +1,4 @@
-# 宝贝，外面很冷(所以你的 iPhone 爆炸了)TechCrunch
+# 宝贝，外面很冷(所以你的 iPhone 爆炸了)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/13/baby-its-cold-outside-so-your-iphone-exploded/>
 

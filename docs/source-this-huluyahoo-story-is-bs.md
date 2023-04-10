@@ -1,4 +1,4 @@
-# 来源:这个 Hulu/Yahoo 的故事是 BS TechCrunch
+# 来源:这个 Hulu/Yahoo 的故事是 BS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/21/source-this-huluyahoo-story-is-bs/>
 

@@ -1,4 +1,4 @@
-# Dropbox 已聘请外部专家调查可能的安全漏洞 TechCrunch
+# Dropbox 已聘请外部专家调查可能的安全漏洞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/18/dropbox-has-hired-outside-experts-to-investigate-possible-security-breach/>
 

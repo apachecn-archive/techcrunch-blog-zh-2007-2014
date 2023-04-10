@@ -1,4 +1,4 @@
-# Lightbank 支持的讨价还价平台 oBaz 将重点转向产品发现和监管 TechCrunch
+# Lightbank 支持的讨价还价平台 oBaz 将重点转向产品发现和监管 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/lightbank-backed-haggling-platform-obaz-shifts-focus-to-product-discovery-and-curation/>
 

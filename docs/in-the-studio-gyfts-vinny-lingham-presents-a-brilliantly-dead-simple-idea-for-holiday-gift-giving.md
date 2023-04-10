@@ -1,4 +1,4 @@
-# 《在工作室》中，Gyft 的 Vinny Lingham 展示了一个非常简单的节日送礼点子 TechCrunch
+# 《在工作室》中，Gyft 的 Vinny Lingham 展示了一个非常简单的节日送礼点子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/23/in-the-studio-gyfts-vinny-lingham-presents-a-brilliantly-dead-simple-idea-for-holiday-gift-giving/>
 

@@ -1,4 +1,4 @@
-# Bose SoundLink Mobile 通过 AirPlay 支持蓝牙 A2DP 流媒体 TechCrunch
+# Bose SoundLink Mobile 通过 AirPlay 支持蓝牙 A2DP 流媒体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/bose-soundlink-mobile-passes-on-airplay-for-bluetooth-a2dp-streaming/>
 

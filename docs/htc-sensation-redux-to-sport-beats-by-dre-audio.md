@@ -1,4 +1,4 @@
-# HTC 的感觉 Redux 到体育节拍由 Dre 音频？TechCrunch
+# HTC 的感觉 Redux 到体育节拍由 Dre 音频？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/htc-sensation-redux-to-sport-beats-by-dre-audio/>
 

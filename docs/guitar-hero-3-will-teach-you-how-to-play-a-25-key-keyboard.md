@@ -1,4 +1,4 @@
-# 摇滚乐队 3 将教你如何弹奏 25 键键盘 TechCrunch
+# 摇滚乐队 3 将教你如何弹奏 25 键键盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/10/guitar-hero-3-will-teach-you-how-to-play-a-25-key-keyboard/>
 

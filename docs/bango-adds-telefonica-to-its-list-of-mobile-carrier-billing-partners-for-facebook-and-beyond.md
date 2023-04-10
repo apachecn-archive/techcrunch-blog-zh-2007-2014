@@ -1,4 +1,4 @@
-# Bango 将 Telefonica 加入其脸书及其他地区的移动运营商计费合作伙伴名单 TechCrunch
+# Bango 将 Telefonica 加入其脸书及其他地区的移动运营商计费合作伙伴名单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/16/bango-adds-telefonica-to-its-list-of-mobile-carrier-billing-partners-for-facebook-and-beyond/>
 

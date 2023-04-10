@@ -1,4 +1,4 @@
-# 想在你的 iPhone 上看到奥巴马的“希望”图案吗？苹果公司说没有。TechCrunch
+# 想在你的 iPhone 上看到奥巴马的“希望”图案吗？苹果公司说没有。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/03/want-the-obama-hope-artwork-on-your-iphone-nope-says-apple/>
 

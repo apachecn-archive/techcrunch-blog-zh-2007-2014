@@ -1,4 +1,4 @@
-# 雅虎将裁员 20%？TechCrunch
+# 雅虎将裁员 20%？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/20/yahoo-to-cut-20-of-its-workforce/>
 

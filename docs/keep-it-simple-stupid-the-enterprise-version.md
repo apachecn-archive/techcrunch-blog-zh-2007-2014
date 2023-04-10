@@ -1,4 +1,4 @@
-# 保持简单，笨蛋:企业版 TechCrunch
+# 保持简单，笨蛋:企业版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/05/keep-it-simple-stupid-the-enterprise-version/>
 

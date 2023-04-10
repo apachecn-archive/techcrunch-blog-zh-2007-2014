@@ -1,4 +1,4 @@
-# Mint 是 Yodlee 的 YouTube TechCrunch
+# Mint 是 Yodlee 的 YouTube 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/18/mint-is-yodlees-youtube/>
 

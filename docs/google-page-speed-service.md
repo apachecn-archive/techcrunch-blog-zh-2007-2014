@@ -1,4 +1,4 @@
-# 谷歌提议动态重写你的网页，承诺速度提高 25%到 60% TechCrunch
+# 谷歌提议动态重写你的网页，承诺速度提高 25%到 60% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/google-page-speed-service/>
 

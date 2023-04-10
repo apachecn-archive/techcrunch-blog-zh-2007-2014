@@ -1,4 +1,4 @@
-# Gcorelab 因新的电池冷却技术获得 482，000 美元 TechCrunch
+# Gcorelab 因新的电池冷却技术获得 482，000 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/gcorelab-gets-482000-for-new-battery-cooling-technology/>
 

@@ -1,4 +1,4 @@
-# 中国屏蔽微信息网站 Plurk。Twitter 是下一个吗？TechCrunch
+# 中国屏蔽微信息网站 Plurk。Twitter 是下一个吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/23/china-blocks-micro-messaging-site-plurk-is-twitter-next/>
 

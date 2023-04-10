@@ -1,4 +1,4 @@
-# HTC 起诉苹果专利，要求禁令和大量赔偿 TechCrunch
+# HTC 起诉苹果专利，要求禁令和大量赔偿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/htc-sues-apple-over-patents-wants-injunction-and-lots-of-damages/>
 

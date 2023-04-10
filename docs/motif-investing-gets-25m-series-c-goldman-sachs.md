@@ -1,4 +1,4 @@
-# Motif 获得高盛领投的 2500 万美元 C 轮投资，投资主题股票投资平台 TechCrunch
+# Motif 获得高盛领投的 2500 万美元 C 轮投资，投资主题股票投资平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/12/motif-investing-gets-25m-series-c-goldman-sachs/>
 

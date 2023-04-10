@@ -1,4 +1,4 @@
-# 首款 Android 专用 GPS 设备看起来相当不错 TechCrunch
+# 首款 Android 专用 GPS 设备看起来相当不错 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/14/first-android-dedicated-gps-unit-actually-looks-pretty-decent/>
 

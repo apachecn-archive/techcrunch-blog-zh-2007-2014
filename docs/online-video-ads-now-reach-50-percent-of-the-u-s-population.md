@@ -1,4 +1,4 @@
-# 在线视频广告现在覆盖了 50%的美国人口 TechCrunch
+# 在线视频广告现在覆盖了 50%的美国人口 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/online-video-ads-now-reach-50-percent-of-the-u-s-population/>
 

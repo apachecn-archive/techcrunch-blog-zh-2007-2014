@@ -1,4 +1,4 @@
-# Workface 获得我最喜欢的在线名片创建服务 Card . ly TechCrunch
+# Workface 获得我最喜欢的在线名片创建服务 Card . ly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/workface-cardly/>
 

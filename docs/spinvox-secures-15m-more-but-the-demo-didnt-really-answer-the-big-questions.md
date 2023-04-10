@@ -1,4 +1,4 @@
-# Spinvox 多保护了 1500 万，但演示并没有真正回答大问题 TechCrunch
+# Spinvox 多保护了 1500 万，但演示并没有真正回答大问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/spinvox-secures-15m-more-but-the-demo-didnt-really-answer-the-big-questions/>
 

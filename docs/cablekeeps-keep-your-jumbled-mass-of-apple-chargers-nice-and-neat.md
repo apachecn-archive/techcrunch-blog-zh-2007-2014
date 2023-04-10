@@ -1,4 +1,4 @@
-# 线缆保持你杂乱的苹果充电器整洁美观 TechCrunch
+# 线缆保持你杂乱的苹果充电器整洁美观 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/cablekeeps-keep-your-jumbled-mass-of-apple-chargers-nice-and-neat/>
 

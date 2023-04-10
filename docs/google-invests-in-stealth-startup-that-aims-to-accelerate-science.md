@@ -1,4 +1,4 @@
-# 谷歌投资旨在“加速科学”的秘密创业公司 TechCrunch
+# 谷歌投资旨在“加速科学”的秘密创业公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/google-invests-in-stealth-startup-that-aims-to-accelerate-science/>
 

@@ -1,4 +1,4 @@
-# 学生破解 Kinect 让盲人导航 TechCrunch
+# 学生破解 Kinect 让盲人导航 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/students-hack-the-kinect-to-allow-blind-to-navigate/>
 

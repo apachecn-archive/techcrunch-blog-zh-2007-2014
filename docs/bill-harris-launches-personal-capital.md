@@ -1,4 +1,4 @@
-# Intuit 前首席执行官 Bill Harris 推出个人资本 TechCrunch
+# Intuit 前首席执行官 Bill Harris 推出个人资本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/bill-harris-launches-personal-capital/>
 

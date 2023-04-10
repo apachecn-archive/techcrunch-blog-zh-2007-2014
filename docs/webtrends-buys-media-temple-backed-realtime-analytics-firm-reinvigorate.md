@@ -1,4 +1,4 @@
-# Webtrends 收购 Media Temple 支持的实时分析公司重振 TechCrunch
+# Webtrends 收购 Media Temple 支持的实时分析公司重振 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/webtrends-buys-media-temple-backed-realtime-analytics-firm-reinvigorate/>
 

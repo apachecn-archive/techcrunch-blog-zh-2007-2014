@@ -1,4 +1,4 @@
-# RocketSpace 推出 RocketU 开发者训练营，为 N00bs 和忍者提供现场课程 TechCrunch
+# RocketSpace 推出 RocketU 开发者训练营，为 N00bs 和忍者提供现场课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/14/rocketspace-launches-rocketu-developer-bootcamp-with-in-person-classes-for-n00bs-and-ninjas/>
 

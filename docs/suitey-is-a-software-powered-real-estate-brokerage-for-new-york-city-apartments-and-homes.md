@@ -1,4 +1,4 @@
-# Suitey 是一家为纽约市公寓和住宅提供软件支持的房地产经纪公司 TechCrunch
+# Suitey 是一家为纽约市公寓和住宅提供软件支持的房地产经纪公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/26/suitey-is-a-software-powered-real-estate-brokerage-for-new-york-city-apartments-and-homes/>
 

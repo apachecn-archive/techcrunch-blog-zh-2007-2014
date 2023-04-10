@@ -1,4 +1,4 @@
-# Opzi:面向企业的 Quora TechCrunch
+# Opzi:面向企业的 Quora 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/27/opzi-a-quora-for-the-enterprise/>
 

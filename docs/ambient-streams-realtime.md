@@ -1,4 +1,4 @@
-# 超越实时搜索:环境流的曙光 TechCrunch
+# 超越实时搜索:环境流的曙光 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/20/ambient-streams-realtime/>
 

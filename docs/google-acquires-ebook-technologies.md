@@ -1,4 +1,4 @@
-# 谷歌收购电子书技术 TechCrunch
+# 谷歌收购电子书技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/12/google-acquires-ebook-technologies/>
 

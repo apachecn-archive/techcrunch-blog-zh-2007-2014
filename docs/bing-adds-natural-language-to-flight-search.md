@@ -1,4 +1,4 @@
-# 必应为航班搜索添加自然语言 TechCrunch
+# 必应为航班搜索添加自然语言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/13/bing-adds-natural-language-to-flight-search/>
 

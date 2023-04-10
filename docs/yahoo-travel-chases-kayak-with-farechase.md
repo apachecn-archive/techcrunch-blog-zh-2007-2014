@@ -1,4 +1,4 @@
-# 雅虎旅游用 FareChase 追逐 Kayak TechCrunch
+# 雅虎旅游用 FareChase 追逐 Kayak 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/10/yahoo-travel-chases-kayak-with-farechase/>
 

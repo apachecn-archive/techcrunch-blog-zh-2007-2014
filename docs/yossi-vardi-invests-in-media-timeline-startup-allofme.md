@@ -1,4 +1,4 @@
-# Yossi Vardi 投资媒体时间线初创公司 AllofMe TechCrunch
+# Yossi Vardi 投资媒体时间线初创公司 AllofMe 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/27/yossi-vardi-invests-in-media-timeline-startup-allofme/>
 

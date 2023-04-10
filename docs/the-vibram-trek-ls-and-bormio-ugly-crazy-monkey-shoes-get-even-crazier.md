@@ -1,4 +1,4 @@
-# Vibram Trek LS 和 Bormio:丑陋、疯狂的猴子鞋变得更加疯狂 TechCrunch
+# Vibram Trek LS 和 Bormio:丑陋、疯狂的猴子鞋变得更加疯狂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/the-vibram-trek-ls-and-bormio-ugly-crazy-monkey-shoes-get-even-crazier/>
 

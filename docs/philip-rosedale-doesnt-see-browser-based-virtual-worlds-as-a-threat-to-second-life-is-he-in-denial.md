@@ -1,4 +1,4 @@
-# 菲利普·罗斯戴尔并不认为基于浏览器的虚拟世界是对第二人生的威胁。他否认了吗？TechCrunch
+# 菲利普·罗斯戴尔并不认为基于浏览器的虚拟世界是对第二人生的威胁。他否认了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/31/philip-rosedale-doesnt-see-browser-based-virtual-worlds-as-a-threat-to-second-life-is-he-in-denial/>
 

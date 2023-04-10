@@ -1,4 +1,4 @@
-# 科里·布克和民主党的硅谷改造 TechCrunch
+# 科里·布克和民主党的硅谷改造 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/16/cory-booker-and-the-silicon-valley-makeover-of-the-democratic-party/>
 

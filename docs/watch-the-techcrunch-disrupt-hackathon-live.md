@@ -1,4 +1,4 @@
-# 观看 TechCrunch 现场颠覆黑客马拉松！TechCrunch
+# 观看 TechCrunch 现场颠覆黑客马拉松！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/22/watch-the-techcrunch-disrupt-hackathon-live/>
 

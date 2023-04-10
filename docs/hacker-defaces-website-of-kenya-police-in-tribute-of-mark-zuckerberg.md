@@ -1,4 +1,4 @@
-# 黑客篡改肯尼亚警方网站以纪念马克扎克伯格 TechCrunch
+# 黑客篡改肯尼亚警方网站以纪念马克扎克伯格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/hacker-defaces-website-of-kenya-police-in-tribute-of-mark-zuckerberg/>
 

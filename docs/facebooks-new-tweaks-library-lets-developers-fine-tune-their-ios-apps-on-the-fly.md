@@ -1,4 +1,4 @@
-# 脸书新的“调整”库让开发者可以随时调整他们的 iOS 应用程序 TechCrunch
+# 脸书新的“调整”库让开发者可以随时调整他们的 iOS 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/facebooks-new-tweaks-library-lets-developers-fine-tune-their-ios-apps-on-the-fly/>
 

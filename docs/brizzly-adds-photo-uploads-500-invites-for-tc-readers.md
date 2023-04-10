@@ -1,4 +1,4 @@
-# Brizzly 增加了照片上传。TC 读者 500 个邀请。TechCrunch
+# Brizzly 增加了照片上传。TC 读者 500 个邀请。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/01/brizzly-adds-photo-uploads-500-invites-for-tc-readers/>
 

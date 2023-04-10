@@ -1,4 +1,4 @@
-# Groupon 的克隆产品也如雨后春笋般在美国出现 TechCrunch
+# Groupon 的克隆产品也如雨后春笋般在美国出现 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/07/groupon-clones-pop-up-like-mushrooms-in-the-united-states-too/>
 

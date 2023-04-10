@@ -1,4 +1,4 @@
-# 戴尔未能实现 Q2 收入，净收入增长 60%，但下调了第 3 季度预期 TechCrunch
+# 戴尔未能实现 Q2 收入，净收入增长 60%，但下调了第 3 季度预期 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/dell-q2-revenue-up-only-1-percent-to-15-7-billion-net-income-up-60-percent/>
 

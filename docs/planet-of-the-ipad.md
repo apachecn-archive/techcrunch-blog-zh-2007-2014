@@ -1,4 +1,4 @@
-# iPad 星球 TechCrunch
+# iPad 星球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/07/planet-of-the-ipad/>
 

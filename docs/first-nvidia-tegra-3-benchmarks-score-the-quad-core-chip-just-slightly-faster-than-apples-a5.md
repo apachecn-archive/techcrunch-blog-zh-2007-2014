@@ -1,4 +1,4 @@
-# 首先，Nvidia Tegra 3 基准测试的四核芯片得分仅略快于苹果的 A5 TechCrunch
+# 首先，Nvidia Tegra 3 基准测试的四核芯片得分仅略快于苹果的 A5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/01/first-nvidia-tegra-3-benchmarks-score-the-quad-core-chip-just-slightly-faster-than-apples-a5/>
 

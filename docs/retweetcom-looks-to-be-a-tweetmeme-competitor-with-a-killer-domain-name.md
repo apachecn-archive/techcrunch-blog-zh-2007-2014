@@ -1,4 +1,4 @@
-# Retweet.com 看起来是 TweetMeme 的竞争对手，其黑仔域名为 TechCrunch
+# Retweet.com 看起来是 TweetMeme 的竞争对手，其黑仔域名为 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/26/retweetcom-looks-to-be-a-tweetmeme-competitor-with-a-killer-domain-name/>
 

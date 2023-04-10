@@ -1,4 +1,4 @@
-# Zynga 准备推出 RewardVille:玩游戏获得奖励 TechCrunch
+# Zynga 准备推出 RewardVille:玩游戏获得奖励 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/zynga-rewardville/>
 

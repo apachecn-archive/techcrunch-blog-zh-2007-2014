@@ -1,4 +1,4 @@
-# Twitter 感觉像坠入爱河，至少从荷尔蒙的角度看是这样 TechCrunch
+# Twitter 感觉像坠入爱河，至少从荷尔蒙的角度看是这样 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/24/twitter-feels-like-falling-in-love-at-least-from-a-hormonal-perspective/>
 

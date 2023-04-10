@@ -1,4 +1,4 @@
-# 透明广告平台 Human Demand 完成 90 万美元的 A 轮融资 TechCrunch
+# 透明广告平台 Human Demand 完成 90 万美元的 A 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/20/transparent-ad-platform-human-demand-closes-900k-series-a/>
 

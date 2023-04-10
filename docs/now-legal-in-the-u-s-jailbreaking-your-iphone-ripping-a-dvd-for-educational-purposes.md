@@ -1,4 +1,4 @@
-# 现在在美国是合法的:越狱你的 iPhone，为教育目的翻录 DVD TechCrunch
+# 现在在美国是合法的:越狱你的 iPhone，为教育目的翻录 DVD 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/26/now-legal-in-the-u-s-jailbreaking-your-iphone-ripping-a-dvd-for-educational-purposes/>
 

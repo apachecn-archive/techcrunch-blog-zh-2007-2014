@@ -1,4 +1,4 @@
-# Palantir 的最新一轮估值为 90 亿美元，新融资额增至 1.078 亿美元 TechCrunch
+# Palantir 的最新一轮估值为 90 亿美元，新融资额增至 1.078 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/10/palantir-107-8-million/>
 

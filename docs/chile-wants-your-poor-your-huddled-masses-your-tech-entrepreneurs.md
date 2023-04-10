@@ -1,4 +1,4 @@
-# 智利想要你们的穷人，你们拥挤的群众，你们的科技企业家 TechCrunch
+# 智利想要你们的穷人，你们拥挤的群众，你们的科技企业家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/10/10/chile-wants-your-poor-your-huddled-masses-your-tech-entrepreneurs/>
 

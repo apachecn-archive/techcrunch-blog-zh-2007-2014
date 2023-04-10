@@ -1,4 +1,4 @@
-# 夏普推出具有 NFC 和 RFID 功能的 RW-T107 姜饼平板电脑 TechCrunch
+# 夏普推出具有 NFC 和 RFID 功能的 RW-T107 姜饼平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/smell-it-thats-progress/>
 

@@ -1,4 +1,4 @@
-# 呈现神奇的 iPhoue TechCrunch
+# 呈现神奇的 iPhoue 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/presenting-the-amazing-and-magical-iphoue/>
 

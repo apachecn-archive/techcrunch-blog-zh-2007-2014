@@ -1,4 +1,4 @@
-# 诺基亚抛弃旧的熟悉字体，采用闪亮的新字体 TechCrunch
+# 诺基亚抛弃旧的熟悉字体，采用闪亮的新字体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/28/nokia-ditches-old-familiar-font-for-shiny-new-one/>
 

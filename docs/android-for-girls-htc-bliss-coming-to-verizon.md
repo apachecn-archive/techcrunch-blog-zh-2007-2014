@@ -1,4 +1,4 @@
-# “女生用安卓？”HTC Bliss 来到威瑞森 TechCrunch
+# “女生用安卓？”HTC Bliss 来到威瑞森 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/android-for-girls-htc-bliss-coming-to-verizon/>
 

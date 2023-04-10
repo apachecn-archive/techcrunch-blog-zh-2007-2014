@@ -1,4 +1,4 @@
-# 随着首次公开募股的临近，Trulia 为房地产专业人士增加了社交推荐 TechCrunch
+# 随着首次公开募股的临近，Trulia 为房地产专业人士增加了社交推荐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/with-an-ipo-on-the-horizon-trulia-adds-social-recommendations-for-real-estate-professionals/>
 

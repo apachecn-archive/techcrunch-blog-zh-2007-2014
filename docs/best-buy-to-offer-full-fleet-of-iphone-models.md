@@ -1,4 +1,4 @@
-# 百思买提供全部 iPhone 型号 TechCrunch
+# 百思买提供全部 iPhone 型号 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/best-buy-to-offer-full-fleet-of-iphone-models/>
 

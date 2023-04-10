@@ -1,4 +1,4 @@
-# Luca Technologies 申请上市，从老井生产新天然气 TechCrunch
+# Luca Technologies 申请上市，从老井生产新天然气 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/luca-technologies-s1-natural-gas-tech/>
 

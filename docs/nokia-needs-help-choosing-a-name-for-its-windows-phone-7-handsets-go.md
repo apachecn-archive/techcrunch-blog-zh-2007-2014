@@ -1,4 +1,4 @@
-# 诺基亚需要帮助为其 Windows Phone 7 手机选择一个名字...走吧。TechCrunch
+# 诺基亚需要帮助为其 Windows Phone 7 手机选择一个名字...走吧。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/nokia-needs-help-choosing-a-name-for-its-windows-phone-7-handsets-go/>
 

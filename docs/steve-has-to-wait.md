@@ -1,4 +1,4 @@
-# Padfone，史上最搞笑的产品发布会 TechCrunch
+# Padfone，史上最搞笑的产品发布会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/steve-has-to-wait/>
 

@@ -1,4 +1,4 @@
-# 苹果 iPhone 5 的改造不会延续到下一代 iPod Touch TechCrunch
+# 苹果 iPhone 5 的改造不会延续到下一代 iPod Touch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/next-generation-ipod-touch/>
 

@@ -1,4 +1,4 @@
-# 惠普:我们正在生产最后一批触摸板以满足需求 TechCrunch
+# 惠普:我们正在生产最后一批触摸板以满足需求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/30/hp-were-producing-one-last-run-of-touchpads-to-meet-demand/>
 

@@ -1,4 +1,4 @@
-# 传闻:谷歌是否即将以 10 亿至 15 亿美元收购 Bebo？还是会是 MySpace？TechCrunch
+# 传闻:谷歌是否即将以 10 亿至 15 亿美元收购 Bebo？还是会是 MySpace？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/06/rumor-is-google-about-to-buy-bebo-for-1-billion-to-15-billion-or-will-it-be-myspace/>
 

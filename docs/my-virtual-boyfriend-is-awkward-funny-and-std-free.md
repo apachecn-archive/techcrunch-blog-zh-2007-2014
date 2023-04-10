@@ -1,4 +1,4 @@
-# 我的虚拟男友笨拙、有趣、没有性病 TechCrunch
+# 我的虚拟男友笨拙、有趣、没有性病 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/my-virtual-boyfriend-is-awkward-funny-and-std-free/>
 

@@ -1,4 +1,4 @@
-# Android Honeycomb 迷人的启动屏幕 TechCrunch
+# Android Honeycomb 迷人的启动屏幕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/04/android-honeycombs-mesmerizing-bootup-screen/>
 

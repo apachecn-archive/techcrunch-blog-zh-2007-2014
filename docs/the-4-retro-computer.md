@@ -1,4 +1,4 @@
-# 4 美元复古电脑 TechCrunch
+# 4 美元复古电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/the-4-retro-computer/>
 

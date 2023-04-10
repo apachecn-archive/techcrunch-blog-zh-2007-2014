@@ -1,4 +1,4 @@
-# 熔岩灯能在木星上工作吗？TechCrunch
+# 熔岩灯能在木星上工作吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/13/would-a-lava-lamp-work-on-jupiter/>
 

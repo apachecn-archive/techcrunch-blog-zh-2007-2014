@@ -1,4 +1,4 @@
-# 哦哦...Qwikster 已经有了一个活跃的 Twitter 账户，但它不属于网飞 TechCrunch
+# 哦哦...Qwikster 已经有了一个活跃的 Twitter 账户，但它不属于网飞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/18/uh-oh-qwikster-already-has-a-lively-twitter-account-but-its-not-owned-by-netflix/>
 

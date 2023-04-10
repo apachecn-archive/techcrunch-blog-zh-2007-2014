@@ -1,4 +1,4 @@
-# 宏碁将在 Computex 上推出 Chrome OS 设备？TechCrunch
+# 宏碁将在 Computex 上推出 Chrome OS 设备？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/acer-to-debut-chrome-os-devices-at-computex/>
 

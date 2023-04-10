@@ -1,4 +1,4 @@
-# 脸书聘请 Mozilla 高管迈克·斯科洛普夫担任工程总监 TechCrunch
+# 脸书聘请 Mozilla 高管迈克·斯科洛普夫担任工程总监 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/28/facebook-hires-mozilla-exec-mike-schroepfer-as-director-of-engineering/>
 

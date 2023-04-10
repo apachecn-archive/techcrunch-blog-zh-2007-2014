@@ -1,4 +1,4 @@
-# 是谷歌和威瑞森还是联邦通信委员会在移动网络中立性问题上给了我们麻烦？TechCrunch
+# 是谷歌和威瑞森还是联邦通信委员会在移动网络中立性问题上给了我们麻烦？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/21/verizon-google-fcc-net-neutrality/>
 

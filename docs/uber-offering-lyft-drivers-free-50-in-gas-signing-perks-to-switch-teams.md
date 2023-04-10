@@ -1,4 +1,4 @@
-# 优步向 Lyft 司机免费提供 50 美元汽油，签署津贴以转换车队 TechCrunch
+# 优步向 Lyft 司机免费提供 50 美元汽油，签署津贴以转换车队 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/11/uber-offering-lyft-drivers-free-50-in-gas-signing-perks-to-switch-teams/>
 

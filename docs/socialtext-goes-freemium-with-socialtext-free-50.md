@@ -1,4 +1,4 @@
-# Socialtext 免费增值 Socialtext 免费 50 TechCrunch
+# Socialtext 免费增值 Socialtext 免费 50 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/23/socialtext-goes-freemium-with-socialtext-free-50/>
 

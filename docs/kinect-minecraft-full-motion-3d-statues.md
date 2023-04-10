@@ -1,4 +1,4 @@
-# Kinect +《我的世界》=全动态 3D 雕像 TechCrunch
+# Kinect +《我的世界》=全动态 3D 雕像 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/24/kinect-minecraft-full-motion-3d-statues/>
 

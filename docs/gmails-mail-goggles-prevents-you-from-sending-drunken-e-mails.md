@@ -1,4 +1,4 @@
-# Gmail 的邮件护目镜可防止您发送醉酒邮件 TechCrunch
+# Gmail 的邮件护目镜可防止您发送醉酒邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/07/gmails-mail-goggles-prevents-you-from-sending-drunken-e-mails/>
 

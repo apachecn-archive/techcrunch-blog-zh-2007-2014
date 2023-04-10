@@ -1,4 +1,4 @@
-# OpenX 推出收入智能，帮助在线出版商计算其内容的价值 TechCrunch
+# OpenX 推出收入智能，帮助在线出版商计算其内容的价值 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/08/openx-revenue-intelligence/>
 

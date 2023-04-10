@@ -1,4 +1,4 @@
-# 移动广告的未来在于拉动，而非推动 TechCrunch
+# 移动广告的未来在于拉动，而非推动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/29/mobile-marketing-strategy/>
 

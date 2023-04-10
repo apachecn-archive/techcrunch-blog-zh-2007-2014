@@ -1,4 +1,4 @@
-# TRC ElectraShield 嵌入式笔记本电脑电涌保护器 TechCrunch
+# TRC ElectraShield 嵌入式笔记本电脑电涌保护器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/the-trc-electrashield-in-line-notebook-surge-protector/>
 

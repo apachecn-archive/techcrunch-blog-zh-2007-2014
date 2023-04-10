@@ -1,4 +1,4 @@
-# 脸书的 iPhone 应用拥有 100 万用户 TechCrunch
+# 脸书的 iPhone 应用拥有 100 万用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/25/facebooks-iphone-app-has-1-million-users/>
 

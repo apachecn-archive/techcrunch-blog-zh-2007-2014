@@ -1,4 +1,4 @@
-# 宝丽来 Socialmatic 是一台安卓相机和一台即时打印机的混合体 TechCrunch
+# 宝丽来 Socialmatic 是一台安卓相机和一台即时打印机的混合体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/the-polaroid-socialmatic-is-an-android-camera-and-an-instant-printer-mashed-together/>
 

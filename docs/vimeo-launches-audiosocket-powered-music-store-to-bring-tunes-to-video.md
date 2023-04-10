@@ -1,4 +1,4 @@
-# Vimeo 推出基于 Audiosocket 的音乐商店，将音乐融入视频 TechCrunch
+# Vimeo 推出基于 Audiosocket 的音乐商店，将音乐融入视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/vimeo-launches-audiosocket-powered-music-store-to-bring-tunes-to-video/>
 

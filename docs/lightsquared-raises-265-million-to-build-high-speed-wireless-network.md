@@ -1,4 +1,4 @@
-# LightSquared 筹集 2.65 亿美元建设高速无线网络 TechCrunch
+# LightSquared 筹集 2.65 亿美元建设高速无线网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/lightsquared-raises-265-million-to-build-high-speed-wireless-network/>
 

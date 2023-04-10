@@ -1,4 +1,4 @@
-# Troll 在专利侵权诉讼中瞄准脸书和 Twitter TechCrunch
+# Troll 在专利侵权诉讼中瞄准脸书和 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/troll-targets-facebook-twitter-in-patent-infringement-lawsuits/>
 

@@ -1,4 +1,4 @@
-# 安迪·鲁宾在原型摩托罗拉平板电脑上展示 Android 3.0 TechCrunch
+# 安迪·鲁宾在原型摩托罗拉平板电脑上展示 Android 3.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/andy-rubin-shows-off-android-3-0-on-prototype-motorola-tablet-at-dive-into-mobile/>
 

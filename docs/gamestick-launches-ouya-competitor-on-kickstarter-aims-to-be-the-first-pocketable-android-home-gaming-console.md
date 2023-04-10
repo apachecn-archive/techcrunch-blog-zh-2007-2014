@@ -1,4 +1,4 @@
-# GameStick 在 Kickstarter 上推出 OUYA 竞争对手，旨在成为首款便携式 Android 家庭游戏主机 TechCrunch
+# GameStick 在 Kickstarter 上推出 OUYA 竞争对手，旨在成为首款便携式 Android 家庭游戏主机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/02/gamestick-launches-ouya-competitor-on-kickstarter-aims-to-be-the-first-pocketable-android-home-gaming-console/>
 

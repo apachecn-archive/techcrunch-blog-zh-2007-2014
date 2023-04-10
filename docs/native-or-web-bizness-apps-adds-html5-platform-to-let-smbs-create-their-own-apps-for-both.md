@@ -1,4 +1,4 @@
-# 原生还是 Web？Bizness Apps 增加了 HTML5 平台，让中小型企业可以创建自己的应用——TechCrunch
+# 原生还是 Web？Bizness Apps 增加了 HTML5 平台，让中小型企业可以创建自己的应用——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/27/native-or-web-bizness-apps-adds-html5-platform-to-let-smbs-create-their-own-apps-for-both/>
 

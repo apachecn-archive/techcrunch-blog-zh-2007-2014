@@ -1,4 +1,4 @@
-# 硅谷皇室——一个硅谷人如何看待一位皇室成员访问伦敦科技圈 TechCrunch
+# 硅谷皇室——一个硅谷人如何看待一位皇室成员访问伦敦科技圈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/silicon-royalty-how-a-valley-person-views-a-royals-visit-to-londons-tech-scene/>
 

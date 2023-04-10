@@ -1,4 +1,4 @@
-# 音频文件:铐上数字音乐——TechCrunch
+# 音频文件:铐上数字音乐——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/the-audiofile-handcuffing-digital-music/>
 

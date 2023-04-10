@@ -1,4 +1,4 @@
-# 德州仪器以 65 亿美元现金收购国家半导体 TechCrunch
+# 德州仪器以 65 亿美元现金收购国家半导体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/04/texas-instruments-acquires-manufacturer-national-semiconductor-for-6-5-billion-in-cash/>
 

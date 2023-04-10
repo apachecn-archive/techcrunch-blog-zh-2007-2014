@@ -1,4 +1,4 @@
-# 《愤怒的小鸟》已经在其他所有内容上移植了 Rovio Exec 的妻子的裙子 TechCrunch
+# 《愤怒的小鸟》已经在其他所有内容上移植了 Rovio Exec 的妻子的裙子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/06/already-on-everything-else-angry-birds-ported-to-rovio-execs-wifes-dress/>
 

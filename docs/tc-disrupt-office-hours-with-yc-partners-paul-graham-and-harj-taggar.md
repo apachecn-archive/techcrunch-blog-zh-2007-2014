@@ -1,4 +1,4 @@
-# TC Disrupt:与 YC 合伙人保罗·格拉厄姆和哈尔·塔格的办公时间 TechCrunch
+# TC Disrupt:与 YC 合伙人保罗·格拉厄姆和哈尔·塔格的办公时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/tc-disrupt-office-hours-with-yc-partners-paul-graham-and-harj-taggar/>
 

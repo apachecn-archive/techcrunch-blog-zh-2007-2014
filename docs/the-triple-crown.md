@@ -1,4 +1,4 @@
-# 三冠王 TechCrunch
+# 三冠王 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/30/the-triple-crown/>
 

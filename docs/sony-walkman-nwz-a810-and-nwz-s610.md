@@ -1,4 +1,4 @@
-# 索尼随身听 NWZ A810 和 NWZ S610-TechCrunch
+# 索尼随身听 NWZ A810 和 NWZ S610-
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/sony-walkman-nwz-a810-and-nwz-s610/>
 

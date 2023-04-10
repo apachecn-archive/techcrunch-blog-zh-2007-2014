@@ -1,4 +1,4 @@
-# 总部位于维也纳的 Speedinvest 为中欧关闭了 1000 万美元的基金 TechCrunch
+# 总部位于维也纳的 Speedinvest 为中欧关闭了 1000 万美元的基金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/vienna-based-speedinvest-closes-10m-fund-for-central-europe/>
 

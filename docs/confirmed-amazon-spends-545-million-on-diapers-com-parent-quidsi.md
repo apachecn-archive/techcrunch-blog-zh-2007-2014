@@ -1,4 +1,4 @@
-# 证实:亚马逊斥资 5.45 亿美元收购 Diapers.com 母公司 Quidsi TechCrunch
+# 证实:亚马逊斥资 5.45 亿美元收购 Diapers.com 母公司 Quidsi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/08/confirmed-amazon-spends-545-million-on-diapers-com-parent-quidsi/>
 

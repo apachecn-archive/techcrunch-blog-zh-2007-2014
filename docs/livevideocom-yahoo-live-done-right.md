@@ -1,4 +1,4 @@
-# LiveVideo.com:雅虎直播做得好 TechCrunch
+# LiveVideo.com:雅虎直播做得好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/20/livevideocom-yahoo-live-done-right/>
 

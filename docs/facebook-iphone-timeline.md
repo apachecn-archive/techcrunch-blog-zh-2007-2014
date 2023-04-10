@@ -1,4 +1,4 @@
-# iPhone 4.1 的新脸书包括时间轴访问和更快的照片 TechCrunch
+# iPhone 4.1 的新脸书包括时间轴访问和更快的照片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/18/facebook-iphone-timeline/>
 

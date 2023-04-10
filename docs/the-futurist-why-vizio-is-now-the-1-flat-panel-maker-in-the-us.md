@@ -1,4 +1,4 @@
-# 未来学家:为什么 Vizio 现在是美国第一大平板制造商 TechCrunch
+# 未来学家:为什么 Vizio 现在是美国第一大平板制造商 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/the-futurist-why-vizio-is-now-the-1-flat-panel-maker-in-the-us/>
 

@@ -1,4 +1,4 @@
-# Siri 遭遇长时间中断 TechCrunch
+# Siri 遭遇长时间中断 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/siri-experiencing-its-first-extended-outage/>
 

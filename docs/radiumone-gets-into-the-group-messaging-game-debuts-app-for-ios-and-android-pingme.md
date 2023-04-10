@@ -1,4 +1,4 @@
-# RadiumOne 进入群发消息游戏，推出 iOS 和 Android 应用程序 ping me TechCrunch
+# RadiumOne 进入群发消息游戏，推出 iOS 和 Android 应用程序 ping me 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/radiumone-gets-into-the-group-messaging-game-debuts-app-for-ios-and-android-pingme/>
 

@@ -1,4 +1,4 @@
-# 疯狂的诺基亚动能概念扭转了 TechCrunch
+# 疯狂的诺基亚动能概念扭转了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/crazy-nokia-kinetic-concept-does-the-twist/>
 

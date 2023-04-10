@@ -1,4 +1,4 @@
-# Socrata 为开放政府数据的平台筹集了 1800 万美元 TechCrunch
+# Socrata 为开放政府数据的平台筹集了 1800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/26/socrata-raises-18m-for-platform-to-open-government-data/>
 

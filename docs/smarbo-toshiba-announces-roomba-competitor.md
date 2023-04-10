@@ -1,4 +1,4 @@
-# Smarbo:东芝宣布 Roomba 竞争对手 TechCrunch
+# Smarbo:东芝宣布 Roomba 竞争对手 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/smarbo-toshiba-announces-roomba-competitor/>
 

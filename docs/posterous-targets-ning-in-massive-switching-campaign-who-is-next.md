@@ -1,4 +1,4 @@
-# Posterous 目标宁在大规模转换运动。下一个是谁？TechCrunch
+# Posterous 目标宁在大规模转换运动。下一个是谁？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/posterous-targets-ning-in-massive-switching-campaign-who-is-next/>
 

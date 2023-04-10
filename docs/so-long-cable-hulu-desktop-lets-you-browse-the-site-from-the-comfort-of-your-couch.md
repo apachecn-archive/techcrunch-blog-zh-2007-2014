@@ -1,4 +1,4 @@
-# Hulu 桌面让你舒舒服服地躺在沙发上让大脑腐烂 TechCrunch
+# Hulu 桌面让你舒舒服服地躺在沙发上让大脑腐烂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/28/so-long-cable-hulu-desktop-lets-you-browse-the-site-from-the-comfort-of-your-couch/>
 

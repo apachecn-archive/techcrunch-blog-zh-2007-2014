@@ -1,4 +1,4 @@
-# Scamville: Zynga 称 1/3 的收入来自 Lead Gen 和其他报价 TechCrunch
+# Scamville: Zynga 称 1/3 的收入来自 Lead Gen 和其他报价 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/02/scamville-zynga-says-13-of-revenue-comes-from-lead-gen-and-other-offers/>
 

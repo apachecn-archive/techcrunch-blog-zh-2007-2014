@@ -1,4 +1,4 @@
-# 前苹果零售主管在未播出的视频中详细介绍苹果商店的规划和理念 TechCrunch
+# 前苹果零售主管在未播出的视频中详细介绍苹果商店的规划和理念 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/26/former-apple-retail-chief-details-apple-store-planning-and-philosophy-in-unaired-video/>
 

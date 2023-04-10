@@ -1,4 +1,4 @@
-# AmazonLocal 将每日优惠带到您身边的 Kindle TechCrunch
+# AmazonLocal 将每日优惠带到您身边的 Kindle 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/amazonlocal-brings-daily-deals-to-a-kindle-near-you/>
 

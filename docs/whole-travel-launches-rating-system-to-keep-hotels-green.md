@@ -1,4 +1,4 @@
-# 全旅推出评级系统，让环保酒店保持诚信 TechCrunch
+# 全旅推出评级系统，让环保酒店保持诚信 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/29/whole-travel-launches-rating-system-to-keep-hotels-green/>
 

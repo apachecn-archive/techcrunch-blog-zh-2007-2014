@@ -1,4 +1,4 @@
-# Gootip 将 Twitter 转变为基于位置的问答服务；发布 iPhone 应用程序、API 等 TechCrunch
+# Gootip 将 Twitter 转变为基于位置的问答服务；发布 iPhone 应用程序、API 等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/01/gootip-turns-twitter-into-a-location-based-qa-service-launches-iphone-app-apis-and-more/>
 

@@ -1,4 +1,4 @@
-# 来源:Dropbox Acqui——以 800 万美元租用社交阅读应用 read mill TechCrunch
+# 来源:Dropbox Acqui——以 800 万美元租用社交阅读应用 read mill 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/readmill-acqui-hired/>
 

@@ -1,4 +1,4 @@
-# Evernote 5 For Mac 更新改进了界面并简化了导航 TechCrunch
+# Evernote 5 For Mac 更新改进了界面并简化了导航 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/evernote-5-for-mac-update-revamps-interface-and-streamlines-navigation/>
 

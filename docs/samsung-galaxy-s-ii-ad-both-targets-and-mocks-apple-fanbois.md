@@ -1,4 +1,4 @@
-# 三星 Galaxy S II 广告既针对也嘲笑苹果粉丝 TechCrunch
+# 三星 Galaxy S II 广告既针对也嘲笑苹果粉丝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/samsung-galaxy-s-ii-ad-both-targets-and-mocks-apple-fanbois/>
 

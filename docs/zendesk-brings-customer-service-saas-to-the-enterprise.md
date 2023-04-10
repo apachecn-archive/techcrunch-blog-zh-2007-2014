@@ -1,4 +1,4 @@
-# Zendesk 将客户服务 SaaS 带入企业 TechCrunch
+# Zendesk 将客户服务 SaaS 带入企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/zendesk-brings-customer-service-saas-to-the-enterprise/>
 

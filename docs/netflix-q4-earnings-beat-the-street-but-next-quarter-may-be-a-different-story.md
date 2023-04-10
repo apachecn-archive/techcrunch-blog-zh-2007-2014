@@ -1,4 +1,4 @@
-# 网飞第四季度收益超过华尔街，但下一季度可能会有所不同 TechCrunch
+# 网飞第四季度收益超过华尔街，但下一季度可能会有所不同 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/netflix-q4-earnings-beat-the-street-but-next-quarter-may-be-a-different-story/>
 

@@ -1,4 +1,4 @@
-# 研究:脸书“应用经济”增加超过 20 万个工作岗位，为美国经济贡献超过 150 亿美元 TechCrunch
+# 研究:脸书“应用经济”增加超过 20 万个工作岗位，为美国经济贡献超过 150 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/study-facebook-app-economy-adds-over-200k-jobs-contributes-more-than-15b-to-the-u-s-economy/>
 

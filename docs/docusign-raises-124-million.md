@@ -1,4 +1,4 @@
-# DocuSign 融资 1240 万美元 TechCrunch
+# DocuSign 融资 1240 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/24/docusign-raises-124-million/>
 

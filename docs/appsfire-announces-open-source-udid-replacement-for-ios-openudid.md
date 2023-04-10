@@ -1,4 +1,4 @@
-# Appsfire 宣布 iOS 的开源 UDID 替代品:OpenUDID TechCrunch
+# Appsfire 宣布 iOS 的开源 UDID 替代品:OpenUDID 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/appsfire-announces-open-source-udid-replacement-for-ios-openudid/>
 

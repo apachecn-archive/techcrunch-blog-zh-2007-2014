@@ -1,4 +1,4 @@
-# 英特尔不会忘记 MeeGo TechCrunch
+# 英特尔不会忘记 MeeGo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/intel-wont-forget-about-meego/>
 

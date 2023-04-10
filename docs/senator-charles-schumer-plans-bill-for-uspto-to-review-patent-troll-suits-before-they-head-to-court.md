@@ -1,4 +1,4 @@
-# 参议员查尔斯·舒默瞄准专利流氓，希望 USPTO 在侵权诉讼上法庭之前对其进行审查 TechCrunch
+# 参议员查尔斯·舒默瞄准专利流氓，希望 USPTO 在侵权诉讼上法庭之前对其进行审查 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/senator-charles-schumer-plans-bill-for-uspto-to-review-patent-troll-suits-before-they-head-to-court/>
 

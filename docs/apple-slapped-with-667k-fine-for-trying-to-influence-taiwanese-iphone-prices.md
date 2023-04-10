@@ -1,4 +1,4 @@
-# 苹果因试图影响台湾 iPhone 价格被罚款 66.7 万美元 TechCrunch
+# 苹果因试图影响台湾 iPhone 价格被罚款 66.7 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/25/apple-slapped-with-667k-fine-for-trying-to-influence-taiwanese-iphone-prices/>
 

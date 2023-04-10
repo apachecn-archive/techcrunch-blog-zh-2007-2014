@@ -1,4 +1,4 @@
-# 2011 年礼品指南:6 款热销电脑配件，让您和您的家人在这个假期倍感温暖 TechCrunch
+# 2011 年礼品指南:6 款热销电脑配件，让您和您的家人在这个假期倍感温暖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/2011-gift-guide-6-hot-pc-accessories-to-keep-you-and-yours-warm-this-holiday/>
 

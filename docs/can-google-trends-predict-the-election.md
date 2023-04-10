@@ -1,4 +1,4 @@
-# 谷歌趋势能预测选举吗？TechCrunch
+# 谷歌趋势能预测选举吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/07/can-google-trends-predict-the-election/>
 

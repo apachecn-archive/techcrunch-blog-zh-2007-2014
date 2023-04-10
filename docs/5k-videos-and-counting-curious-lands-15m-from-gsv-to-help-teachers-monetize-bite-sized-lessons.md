@@ -1,4 +1,4 @@
-# 5K 视频和计数，好奇从 GSV 获得 1500 万美元帮助教师将一口大小的课程货币化 TechCrunch
+# 5K 视频和计数，好奇从 GSV 获得 1500 万美元帮助教师将一口大小的课程货币化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/5k-videos-and-counting-curious-lands-15m-from-gsv-to-help-teachers-monetize-bite-sized-lessons/>
 

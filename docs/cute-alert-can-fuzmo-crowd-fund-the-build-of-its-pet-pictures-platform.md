@@ -1,4 +1,4 @@
-# 可爱的警报！Fuzmo 能众筹到宠物图片平台的建设资金吗？TechCrunch
+# 可爱的警报！Fuzmo 能众筹到宠物图片平台的建设资金吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/25/cute-alert-can-fuzmo-crowd-fund-the-build-of-its-pet-pictures-platform/>
 

@@ -1,4 +1,4 @@
-# 视频聊天市场 LiveNinja 额外筹集 50 万美元，推出在线业务工具 TechCrunch
+# 视频聊天市场 LiveNinja 额外筹集 50 万美元，推出在线业务工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/video-chat-marketplace-liveninja-raises-additional-500k-launches-tools-for-online-businesses/>
 

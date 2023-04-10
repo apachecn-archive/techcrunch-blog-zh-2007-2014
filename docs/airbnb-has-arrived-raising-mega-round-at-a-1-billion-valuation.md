@@ -1,4 +1,4 @@
-# Airbnb 已经到来:以超过 10 亿美元的估值筹集 Mega-Round TechCrunch
+# Airbnb 已经到来:以超过 10 亿美元的估值筹集 Mega-Round 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/30/airbnb-has-arrived-raising-mega-round-at-a-1-billion-valuation/>
 

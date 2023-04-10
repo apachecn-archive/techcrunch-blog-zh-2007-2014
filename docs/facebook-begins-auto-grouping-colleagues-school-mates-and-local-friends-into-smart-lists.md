@@ -1,4 +1,4 @@
-# 脸书开始将朋友自动分组到智能列表中 TechCrunch
+# 脸书开始将朋友自动分组到智能列表中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/08/facebook-begins-auto-grouping-colleagues-school-mates-and-local-friends-into-smart-lists/>
 

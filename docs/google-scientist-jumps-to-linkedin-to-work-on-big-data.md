@@ -1,4 +1,4 @@
-# 谷歌科学家跳槽到 LinkedIn 从事大数据工作 TechCrunch
+# 谷歌科学家跳槽到 LinkedIn 从事大数据工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/03/google-scientist-jumps-to-linkedin-to-work-on-big-data/>
 

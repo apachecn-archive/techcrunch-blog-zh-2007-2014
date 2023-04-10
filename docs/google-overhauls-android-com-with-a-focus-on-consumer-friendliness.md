@@ -1,4 +1,4 @@
-# 谷歌全面改革 Android.com，关注消费者友好度 TechCrunch
+# 谷歌全面改革 Android.com，关注消费者友好度 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/google-overhauls-android-com-with-a-focus-on-consumer-friendliness/>
 

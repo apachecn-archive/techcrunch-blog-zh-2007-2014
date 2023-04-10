@@ -1,4 +1,4 @@
-# Rovio:愤怒的小鸟空间 3 天内下载 1000 万次 TechCrunch
+# Rovio:愤怒的小鸟空间 3 天内下载 1000 万次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/26/rovio-angry-birds-space-downloaded-10m-times-in-three-days/>
 

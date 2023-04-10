@@ -1,4 +1,4 @@
-# 方正研究所扩展到南美，你的国家应该是下一个吗？TechCrunch
+# 方正研究所扩展到南美，你的国家应该是下一个吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/founders-institute-expands-to-south-america-should-your-country-be-next/>
 

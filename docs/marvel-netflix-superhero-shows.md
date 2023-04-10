@@ -1,4 +1,4 @@
-# 漫威与网飞合作四部新超级英雄剧和一部迷你剧——TechCrunch
+# 漫威与网飞合作四部新超级英雄剧和一部迷你剧——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/07/marvel-netflix-superhero-shows/>
 

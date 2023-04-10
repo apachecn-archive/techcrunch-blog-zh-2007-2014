@@ -1,4 +1,4 @@
-# Next Jump 购物者已经烧掉了超过 16 亿个 WOWPoints，每个 wow points 值一便士 TechCrunch
+# Next Jump 购物者已经烧掉了超过 16 亿个 WOWPoints，每个 wow points 值一便士 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/next-jump-wowpoints/>
 

@@ -1,4 +1,4 @@
-# 约翰·杜尔登和玛丽·米克尔谈论他们的新伙伴关系 TechCrunch
+# 约翰·杜尔登和玛丽·米克尔谈论他们的新伙伴关系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/29/mary-meeker-joins-kleiner-perkins-as-partner/>
 

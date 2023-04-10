@@ -1,4 +1,4 @@
-# Mozilla 准备对 Firefox 进行重大重新设计，思考未来的浏览器应该是什么样子 TechCrunch
+# Mozilla 准备对 Firefox 进行重大重新设计，思考未来的浏览器应该是什么样子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/01/mozilla-readies-major-firefox-redesign-as-it-ponders-what-the-browser-of-the-future-should-look-like/>
 

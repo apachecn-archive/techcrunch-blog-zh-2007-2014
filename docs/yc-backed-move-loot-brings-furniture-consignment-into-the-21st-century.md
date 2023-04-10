@@ -1,4 +1,4 @@
-# YC 支持的 Move Loot 将家具寄售带入 21 世纪 TechCrunch
+# YC 支持的 Move Loot 将家具寄售带入 21 世纪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/yc-backed-move-loot-brings-furniture-consignment-into-the-21st-century/>
 

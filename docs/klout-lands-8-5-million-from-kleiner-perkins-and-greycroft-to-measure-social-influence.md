@@ -1,4 +1,4 @@
-# Klout 从 Kleiner Perkins 和 Greycroft 处获得 850 万美元用于衡量社会影响力 TechCrunch
+# Klout 从 Kleiner Perkins 和 Greycroft 处获得 850 万美元用于衡量社会影响力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/10/klout-lands-8-5-million-from-kleiner-perkins-and-greycroft-to-measure-social-influence/>
 

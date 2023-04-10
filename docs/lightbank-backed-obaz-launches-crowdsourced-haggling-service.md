@@ -1,4 +1,4 @@
-# Lightbank 支持的 oBaz 推出众包砍价服务 TechCrunch
+# Lightbank 支持的 oBaz 推出众包砍价服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/lightbank-backed-obaz-launches-crowdsourced-haggling-service/>
 

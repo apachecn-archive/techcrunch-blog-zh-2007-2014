@@ -1,4 +1,4 @@
-# RockYou 加入无诈骗游行。但是脸书在做什么呢？TechCrunch
+# RockYou 加入无诈骗游行。但是脸书在做什么呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/02/rockyou-joins-the-no-scams-parade-but-whats-facebook-up-to/>
 

@@ -1,4 +1,4 @@
-# 给阿伦·索尔金的备忘录:你也发明了这个愤怒的讨厌女人的呆子 TechCrunch
+# 给阿伦·索尔金的备忘录:你也发明了这个愤怒的讨厌女人的呆子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/11/memo-to-aaron-sorkin-you-invented-this-angry-nerd-misogeny-too/>
 

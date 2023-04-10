@@ -1,4 +1,4 @@
-# 苹果“证据不准确”的灾难，第二部分:智能手机版 TechCrunch
+# 苹果“证据不准确”的灾难，第二部分:智能手机版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/apples-inaccurate-evidence-debacle-part-2-smartphone-edition/>
 

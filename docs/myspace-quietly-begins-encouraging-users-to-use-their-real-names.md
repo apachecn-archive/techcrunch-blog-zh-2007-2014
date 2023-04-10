@@ -1,4 +1,4 @@
-# MySpace 悄悄开始鼓励用户使用真实姓名 TechCrunch
+# MySpace 悄悄开始鼓励用户使用真实姓名 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/17/myspace-quietly-begins-encouraging-users-to-use-their-real-names/>
 

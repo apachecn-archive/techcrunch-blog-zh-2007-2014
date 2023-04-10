@@ -1,4 +1,4 @@
-# 谷歌开启地图导航，语音搜索更多国家 TechCrunch
+# 谷歌开启地图导航，语音搜索更多国家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/09/google-switches-on-maps-navigation-voice-search-for-more-countries/>
 

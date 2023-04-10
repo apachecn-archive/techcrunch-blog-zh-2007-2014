@@ -1,4 +1,4 @@
-# Rovio 的《愤怒的小鸟》超过 5 亿次下载 TechCrunch
+# Rovio 的《愤怒的小鸟》超过 5 亿次下载 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/rovios-angry-birds-reaches-half-a-billion-downloads/>
 

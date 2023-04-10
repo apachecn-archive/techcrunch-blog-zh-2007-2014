@@ -1,4 +1,4 @@
-# MSN Redux。明显少了蓝色。但是增加了脸书和推特！TechCrunch
+# MSN Redux。明显少了蓝色。但是增加了脸书和推特！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/03/msn-redux-significantly-less-blue-but-with-added-facebook-and-twitter/>
 

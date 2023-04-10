@@ -1,4 +1,4 @@
-# 雅虎邮箱退出测试；新功能——TechCrunch
+# 雅虎邮箱退出测试；新功能——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/26/yahoo-mail-out-of-beta-new-features/>
 

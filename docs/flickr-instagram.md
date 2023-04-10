@@ -1,4 +1,4 @@
-# Flickr 早该建 Instagram 了。但是他们没有。原因如下。TechCrunch
+# Flickr 早该建 Instagram 了。但是他们没有。原因如下。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/25/flickr-instagram/>
 

@@ -1,4 +1,4 @@
-# 未来的像素会是微镜吗？TechCrunch
+# 未来的像素会是微镜吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/will-the-futures-pixels-be-micro-mirrors/>
 

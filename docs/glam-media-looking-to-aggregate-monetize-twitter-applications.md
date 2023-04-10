@@ -1,4 +1,4 @@
-# Glam Media 希望整合 Twitter 应用并从中获利 TechCrunch
+# Glam Media 希望整合 Twitter 应用并从中获利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/26/glam-media-looking-to-aggregate-monetize-twitter-applications/>
 

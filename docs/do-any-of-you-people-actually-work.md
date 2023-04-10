@@ -1,4 +1,4 @@
-# 你们中有人真正工作吗？TechCrunch
+# 你们中有人真正工作吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/14/do-any-of-you-people-actually-work/>
 

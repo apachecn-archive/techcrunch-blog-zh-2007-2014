@@ -1,4 +1,4 @@
-# 在线视频广告预算预计将在 2012 年大幅增加 TechCrunch
+# 在线视频广告预算预计将在 2012 年大幅增加 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/online-video-ad-budgets-expected-to-rise-sharply-in-2012/>
 

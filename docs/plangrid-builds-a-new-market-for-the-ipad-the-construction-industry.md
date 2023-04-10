@@ -1,4 +1,4 @@
-# PlanGrid 为 iPad 建立了一个新市场:建筑行业 TechCrunch
+# PlanGrid 为 iPad 建立了一个新市场:建筑行业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/02/plangrid-builds-a-new-market-for-the-ipad-the-construction-industry/>
 

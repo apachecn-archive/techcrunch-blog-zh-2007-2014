@@ -1,4 +1,4 @@
-# 苹果悄悄调整 MacBook Pro 产品线，保持价格不变 TechCrunch
+# 苹果悄悄调整 MacBook Pro 产品线，保持价格不变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/apple-quietly-tweaks-macbook-pro-line-up-leaves-prices-unchanged/>
 

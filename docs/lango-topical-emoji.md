@@ -1,4 +1,4 @@
-# 在转向只在美国使用后，移动通讯应用 Lango 增加了热门表情符号，以搭载潮流和电视聊天 TechCrunch
+# 在转向只在美国使用后，移动通讯应用 Lango 增加了热门表情符号，以搭载潮流和电视聊天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/06/lango-topical-emoji/>
 

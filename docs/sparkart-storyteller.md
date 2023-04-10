@@ -1,4 +1,4 @@
-# 讲故事者:创建一个网站，内容来自(几乎)任何地方 TechCrunch
+# 讲故事者:创建一个网站，内容来自(几乎)任何地方 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/11/sparkart-storyteller/>
 

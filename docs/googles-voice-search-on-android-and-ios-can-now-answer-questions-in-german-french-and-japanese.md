@@ -1,4 +1,4 @@
-# 谷歌在 Android 和 iOS 上的语音搜索现在可以用德语、法语和日语回答问题 TechCrunch
+# 谷歌在 Android 和 iOS 上的语音搜索现在可以用德语、法语和日语回答问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/05/googles-voice-search-on-android-and-ios-can-now-answer-questions-in-german-french-and-japanese/>
 

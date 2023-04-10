@@ -1,4 +1,4 @@
-# 视频:Padzilla Case 将你的 iPad 变成一个 iCoffeeTable TechCrunch
+# 视频:Padzilla Case 将你的 iPad 变成一个 iCoffeeTable 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/video-padzilla-case-turns-your-ipad-into-an-icoffeetable/>
 

@@ -1,4 +1,4 @@
-# 亚马逊在其应用商店走向国际时保持沉默 TechCrunch
+# 亚马逊在其应用商店走向国际时保持沉默 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/amazon-stays-quiet-as-their-appstore-goes-international/>
 

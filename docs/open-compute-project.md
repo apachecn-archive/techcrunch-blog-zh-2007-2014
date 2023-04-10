@@ -1,4 +1,4 @@
-# 脸书的“开放计算项目”:他们的服务器/数据中心专业知识现已向所有人开放 TechCrunch
+# 脸书的“开放计算项目”:他们的服务器/数据中心专业知识现已向所有人开放 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/07/open-compute-project/>
 

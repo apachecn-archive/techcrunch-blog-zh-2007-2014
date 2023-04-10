@@ -1,4 +1,4 @@
-# Siri，能给我倒杯啤酒吗？TechCrunch
+# Siri，能给我倒杯啤酒吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/skynets-motivation/>
 

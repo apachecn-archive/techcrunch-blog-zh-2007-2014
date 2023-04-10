@@ -1,4 +1,4 @@
-# 套装软件的死亡:微软商店在网上为美国消费者开放 TechCrunch
+# 套装软件的死亡:微软商店在网上为美国消费者开放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/13/the-death-of-packaged-software-microsoft-store-opens-on-the-web-for-us-shoppers/>
 

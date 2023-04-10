@@ -1,4 +1,4 @@
-# 最后一个倒下了。禁运已经结束。TechCrunch
+# 最后一个倒下了。禁运已经结束。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/23/the-last-has-fallen-the-embargo-is-dead/>
 

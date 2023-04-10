@@ -1,4 +1,4 @@
-# 为什么微软迫切需要变得更有收购欲 TechCrunch
+# 为什么微软迫切需要变得更有收购欲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/why-microsoft-desperately-needs-to-become-more-acquisitive/>
 

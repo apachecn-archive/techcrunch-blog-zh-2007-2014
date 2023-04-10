@@ -1,4 +1,4 @@
-# 惊喜！微软推出适用于 iPhone 和 iPad 的 Xbox Live 应用 TechCrunch
+# 惊喜！微软推出适用于 iPhone 和 iPad 的 Xbox Live 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/surprise-microsoft-launches-xbox-live-app-for-iphone-and-ipad/>
 

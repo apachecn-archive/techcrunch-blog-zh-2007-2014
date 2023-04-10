@@ -1,4 +1,4 @@
-# 服装媒体在你的衣服上投放广告 TechCrunch
+# 服装媒体在你的衣服上投放广告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/28/apparel-media-puts-ads-on-your-clothes/>
 

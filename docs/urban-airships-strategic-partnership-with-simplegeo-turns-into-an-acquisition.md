@@ -1,4 +1,4 @@
-# Urban Airship 与 SimpleGeo 的战略合作变成收购 TechCrunch
+# Urban Airship 与 SimpleGeo 的战略合作变成收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/urban-airships-strategic-partnership-with-simplegeo-turns-into-an-acquisition/>
 

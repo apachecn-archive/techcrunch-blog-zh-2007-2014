@@ -1,4 +1,4 @@
-# PollDaddy 扩展 Widget 套件，升级系统 TechCrunch
+# PollDaddy 扩展 Widget 套件，升级系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/18/polldaddy-expands-widget-suite-upgrades-system/>
 

@@ -1,4 +1,4 @@
-# 交易速度超过现实 TechCrunch
+# 交易速度超过现实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/14/trading-faster-than-the-speed-of-reality/>
 

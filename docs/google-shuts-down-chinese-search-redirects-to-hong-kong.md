@@ -1,4 +1,4 @@
-# 谷歌关闭中文搜索，转向香港 TechCrunch
+# 谷歌关闭中文搜索，转向香港 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/22/google-shuts-down-chinese-search-redirects-to-hong-kong/>
 

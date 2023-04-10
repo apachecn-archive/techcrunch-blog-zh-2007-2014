@@ -1,4 +1,4 @@
-# 谷歌推出了一款精美的 iOS 音乐测试版应用——网络版，而非原生版 TechCrunch
+# 谷歌推出了一款精美的 iOS 音乐测试版应用——网络版，而非原生版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/google-music-beta-ios/>
 

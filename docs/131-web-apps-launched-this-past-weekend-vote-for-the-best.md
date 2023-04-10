@@ -1,4 +1,4 @@
-# 上周末推出了 131 款 Rails 应用；你可以投票选出最佳 TechCrunch
+# 上周末推出了 131 款 Rails 应用；你可以投票选出最佳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/23/131-web-apps-launched-this-past-weekend-vote-for-the-best/>
 

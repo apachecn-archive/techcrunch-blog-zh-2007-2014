@@ -1,4 +1,4 @@
-# 有光学和电子取景器的新卡农？TechCrunch
+# 有光学和电子取景器的新卡农？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/new-canons-to-have-optical-and-electronic-viewfinders/>
 

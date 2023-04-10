@@ -1,4 +1,4 @@
-# Google Plus 就像弗兰肯斯坦的怪物 TechCrunch
+# Google Plus 就像弗兰肯斯坦的怪物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/06/google-plus-is-like-frankensteins-monster/>
 

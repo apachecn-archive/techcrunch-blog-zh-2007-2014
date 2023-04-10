@@ -1,4 +1,4 @@
-# 克里斯·休斯的社会公益创业公司 Jumo 被并入 GOOD TechCrunch
+# 克里斯·休斯的社会公益创业公司 Jumo 被并入 GOOD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/hughes-jumo-good/>
 

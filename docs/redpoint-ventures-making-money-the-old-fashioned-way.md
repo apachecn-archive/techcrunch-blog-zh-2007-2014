@@ -1,4 +1,4 @@
-# 红点风险投资:用老方法赚钱 TechCrunch
+# 红点风险投资:用老方法赚钱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/17/redpoint-ventures-making-money-the-old-fashioned-way/>
 

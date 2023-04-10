@@ -1,4 +1,4 @@
-# 佳能的 ELPHs 军团增加了两个——TechCrunch
+# 佳能的 ELPHs 军团增加了两个——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/canons-legion-of-elphs-increased-by-two/>
 

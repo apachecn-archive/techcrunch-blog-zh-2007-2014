@@ -1,4 +1,4 @@
-# 可重写的非电电子纸大有可为，但它真的有用吗？TechCrunch
+# 可重写的非电电子纸大有可为，但它真的有用吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/08/rewriteable-non-electric-e-paper-makes-big-promises-but-is-it-really-useful/>
 

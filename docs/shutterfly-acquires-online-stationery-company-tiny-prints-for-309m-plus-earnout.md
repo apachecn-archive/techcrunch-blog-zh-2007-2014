@@ -1,4 +1,4 @@
-# Shutterfly 以 3.33 亿美元的现金和股票收购在线文具公司 Tiny Prints TechCrunch
+# Shutterfly 以 3.33 亿美元的现金和股票收购在线文具公司 Tiny Prints 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/21/shutterfly-acquires-online-stationery-company-tiny-prints-for-309m-plus-earnout/>
 

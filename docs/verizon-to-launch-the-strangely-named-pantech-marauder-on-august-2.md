@@ -1,4 +1,4 @@
-# 威瑞森将于 8 月 2 日推出名字奇怪的泛泰掠夺者 TechCrunch
+# 威瑞森将于 8 月 2 日推出名字奇怪的泛泰掠夺者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/verizon-to-launch-the-strangely-named-pantech-marauder-on-august-2/>
 

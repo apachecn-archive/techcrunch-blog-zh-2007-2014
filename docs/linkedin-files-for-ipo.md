@@ -1,4 +1,4 @@
-# LinkedIn 申请 IPO 的文件；2010 年前九个月收入 1.61 亿美元 TechCrunch
+# LinkedIn 申请 IPO 的文件；2010 年前九个月收入 1.61 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/27/linkedin-files-for-ipo/>
 

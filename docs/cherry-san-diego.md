@@ -1,4 +1,4 @@
-# 洗车行业的优步 Cherry 在圣地亚哥发布 TechCrunch
+# 洗车行业的优步 Cherry 在圣地亚哥发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/cherry-san-diego/>
 

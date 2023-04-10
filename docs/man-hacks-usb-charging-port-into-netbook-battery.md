@@ -1,4 +1,4 @@
-# 男子将 USB 充电端口植入上网本电池 TechCrunch
+# 男子将 USB 充电端口植入上网本电池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/man-hacks-usb-charging-port-into-netbook-battery/>
 

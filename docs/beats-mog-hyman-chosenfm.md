@@ -1,4 +1,4 @@
-# Beats 将于 4 月 15 日关闭 MOG MusicMOG 创始人加入秘密移动创业公司 TechCrunch
+# Beats 将于 4 月 15 日关闭 MOG MusicMOG 创始人加入秘密移动创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/20/beats-mog-hyman-chosenfm/>
 

@@ -1,4 +1,4 @@
-# 马克·贝尼奥夫想要#占领企业 TechCrunch
+# 马克·贝尼奥夫想要#占领企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/benioff-occupytheenterprise/>
 

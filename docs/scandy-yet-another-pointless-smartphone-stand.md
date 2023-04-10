@@ -1,4 +1,4 @@
-# Scandy:又一个毫无意义的智能手机支架 TechCrunch
+# Scandy:又一个毫无意义的智能手机支架 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/scandy-yet-another-pointless-smartphone-stand/>
 

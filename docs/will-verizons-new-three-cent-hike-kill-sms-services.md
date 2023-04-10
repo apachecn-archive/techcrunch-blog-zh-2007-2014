@@ -1,4 +1,4 @@
-# 威瑞森新的 3 美分提价会扼杀短信服务吗？TechCrunch
+# 威瑞森新的 3 美分提价会扼杀短信服务吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/12/will-verizons-new-three-cent-hike-kill-sms-services/>
 

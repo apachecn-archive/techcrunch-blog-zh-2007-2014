@@ -1,4 +1,4 @@
-# 铱星公司的新 AxcessPoint 热点在雨林中提供 WiFi TechCrunch
+# 铱星公司的新 AxcessPoint 热点在雨林中提供 WiFi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/iridiums-new-axcesspoint-hotspot-provides-wifi-in-the-rainforest/>
 

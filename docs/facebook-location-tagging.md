@@ -1,4 +1,4 @@
-# 一年后，脸书杀光了地方...将位置无处不在 TechCrunch
+# 一年后，脸书杀光了地方...将位置无处不在 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/facebook-location-tagging/>
 

@@ -1,4 +1,4 @@
-# 一年之内，Tumblr 从 10 亿条帖子增加到 100 亿条 TechCrunch
+# 一年之内，Tumblr 从 10 亿条帖子增加到 100 亿条 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/tumblr-10-billion/>
 

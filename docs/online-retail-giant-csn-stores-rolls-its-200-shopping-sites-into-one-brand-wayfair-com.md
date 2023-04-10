@@ -1,4 +1,4 @@
-# 在线零售巨头 CSN 商店将其 200 多个购物网站整合为一个品牌:Wayfair.com TechCrunch
+# 在线零售巨头 CSN 商店将其 200 多个购物网站整合为一个品牌:Wayfair.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/online-retail-giant-csn-stores-rolls-its-200-shopping-sites-into-one-brand-wayfair-com/>
 

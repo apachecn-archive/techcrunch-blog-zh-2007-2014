@@ -1,4 +1,4 @@
-# 脸书没有证实超本地移动广告产品，但它会如何针对你 TechCrunch
+# 脸书没有证实超本地移动广告产品，但它会如何针对你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/facebook-local-ad-targeting/>
 

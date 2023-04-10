@@ -1,4 +1,4 @@
-# 美国空军准备第二次发射 X-37B TechCrunch
+# 美国空军准备第二次发射 X-37B 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/03/u-s-air-force-prepares-for-second-x-37b-launch/>
 

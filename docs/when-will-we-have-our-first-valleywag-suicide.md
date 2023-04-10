@@ -1,4 +1,4 @@
-# 我们什么时候会有第一次山谷自杀？TechCrunch
+# 我们什么时候会有第一次山谷自杀？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/02/when-will-we-have-our-first-valleywag-suicide/>
 

@@ -1,4 +1,4 @@
-# Kindle DX 从达顿商学院退学 TechCrunch
+# Kindle DX 从达顿商学院退学 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/14/kindle-dx-failing-out-of-darden-business-school/>
 

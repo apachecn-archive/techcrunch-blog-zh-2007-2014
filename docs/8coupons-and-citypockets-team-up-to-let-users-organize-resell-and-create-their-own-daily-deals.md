@@ -1,4 +1,4 @@
-# 8 优惠券和 CityPockets 联手让用户组织、转售和创建自己的日常交易 TechCrunch
+# 8 优惠券和 CityPockets 联手让用户组织、转售和创建自己的日常交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/8coupons-and-citypockets-team-up-to-let-users-organize-resell-and-create-their-own-daily-deals/>
 

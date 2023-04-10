@@ -1,4 +1,4 @@
-# CityVille 增加 20 个新关卡以取悦 1 亿玩家 TechCrunch
+# CityVille 增加 20 个新关卡以取悦 1 亿玩家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/01/cityville-adds-20-new-levels-to-please-100-million-players/>
 

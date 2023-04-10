@@ -1,4 +1,4 @@
-# 羊皮纸筹集了 1000 万美元用于加速学生应用分析工具的开发 TechCrunch
+# 羊皮纸筹集了 1000 万美元用于加速学生应用分析工具的开发 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/parchment-raises-10m-to-accelerate-development-of-application-analytics-tools-for-students/>
 

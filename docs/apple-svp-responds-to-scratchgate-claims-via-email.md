@@ -1,4 +1,4 @@
-# 苹果席勒在#ScratchGate 上:铝划伤是正常的 TechCrunch
+# 苹果席勒在#ScratchGate 上:铝划伤是正常的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/apple-svp-responds-to-scratchgate-claims-via-email/>
 

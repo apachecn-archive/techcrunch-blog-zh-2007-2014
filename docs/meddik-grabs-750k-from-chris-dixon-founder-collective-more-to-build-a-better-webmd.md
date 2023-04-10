@@ -1,4 +1,4 @@
-# Meddik 从创始人 Collective & More 获得 75 万美元，用于打造更好的 WebMD TechCrunch
+# Meddik 从创始人 Collective & More 获得 75 万美元，用于打造更好的 WebMD 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/24/meddik-grabs-750k-from-chris-dixon-founder-collective-more-to-build-a-better-webmd/>
 

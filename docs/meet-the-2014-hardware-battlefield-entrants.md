@@ -1,4 +1,4 @@
-# 认识 2014 年硬件战场的参与者 TechCrunch
+# 认识 2014 年硬件战场的参与者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/meet-the-2014-hardware-battlefield-entrants/>
 

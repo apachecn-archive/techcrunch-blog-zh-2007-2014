@@ -1,4 +1,4 @@
-# Pinterest 尚未为科技品牌做好准备的 7 个理由 TechCrunch
+# Pinterest 尚未为科技品牌做好准备的 7 个理由 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/29/7-reasons-why-pinterest-isnt-yet-ready-for-tech-brands/>
 

@@ -1,4 +1,4 @@
-# 以下是凯鹏华盈合伙人玛丽·米克尔的最新数据:注意移动货币化差距 TechCrunch
+# 以下是凯鹏华盈合伙人玛丽·米克尔的最新数据:注意移动货币化差距 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/heres-kleiner-partner-mary-meekers-latest-data-dump-mind-the-mobile-monetization-gap/?grcc=33333Z98ZtrendingZ0>
 

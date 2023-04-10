@@ -1,4 +1,4 @@
-# 随着 IE8 开始下滑，IE 浏览器份额最终跌破 50% TechCrunch
+# 随着 IE8 开始下滑，IE 浏览器份额最终跌破 50% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/05/ie-market-share/>
 

@@ -1,4 +1,4 @@
-# 优步耍了我(但至少它给我买了早餐！)TechCrunch
+# 优步耍了我(但至少它给我买了早餐！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/19/uber-screwed-me-but-at-least-it-bought-me-breakfast/>
 

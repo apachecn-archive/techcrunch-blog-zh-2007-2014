@@ -1,4 +1,4 @@
-# 唐·德雷珀推介脸书时间表 TechCrunch
+# 唐·德雷珀推介脸书时间表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/don-draper-pitches-the-facebook-timeline/>
 

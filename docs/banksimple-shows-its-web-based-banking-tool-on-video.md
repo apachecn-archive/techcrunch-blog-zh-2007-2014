@@ -1,4 +1,4 @@
-# BankSimple 在视频上展示其基于网络的银行工具 TechCrunch
+# BankSimple 在视频上展示其基于网络的银行工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/banksimple-shows-its-web-based-banking-tool-on-video/>
 

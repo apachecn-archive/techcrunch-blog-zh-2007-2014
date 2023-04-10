@@ -1,4 +1,4 @@
-# Automattic 点击 3 亿独立访客，收入约 1000 万美元 TechCrunch
+# Automattic 点击 3 亿独立访客，收入约 1000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/09/automattic-hits-300-million-unique-visitors-roughly-10-million-in-revenues/>
 

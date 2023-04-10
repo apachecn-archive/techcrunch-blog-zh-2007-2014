@@ -1,4 +1,4 @@
-# 从您的剪贴板到几乎任何地方:只需一次点击即可共享文件。到 TechCrunch
+# 从您的剪贴板到几乎任何地方:只需一次点击即可共享文件。到 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/from-your-clipboard-to-just-about-anywhere-sharing-files-in-one-click-to/>
 

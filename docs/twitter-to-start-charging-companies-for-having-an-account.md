@@ -1,4 +1,4 @@
-# Twitter 开始向拥有账户的公司收费？TechCrunch
+# Twitter 开始向拥有账户的公司收费？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/10/twitter-to-start-charging-companies-for-having-an-account/>
 

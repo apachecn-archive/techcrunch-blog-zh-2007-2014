@@ -1,4 +1,4 @@
-# 付费媒体:我错了。TC 竞争对手都应该注册 TechCrunch
+# 付费媒体:我错了。TC 竞争对手都应该注册 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/25/pay-per-play-media-i-was-wrong/>
 

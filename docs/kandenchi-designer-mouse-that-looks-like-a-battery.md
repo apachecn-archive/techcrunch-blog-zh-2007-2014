@@ -1,4 +1,4 @@
-# kandenchi:看起来像电池的设计师鼠标 TechCrunch
+# kandenchi:看起来像电池的设计师鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/kandenchi-designer-mouse-that-looks-like-a-battery/>
 

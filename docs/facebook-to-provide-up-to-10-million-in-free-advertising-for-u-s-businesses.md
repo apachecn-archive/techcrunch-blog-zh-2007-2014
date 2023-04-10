@@ -1,4 +1,4 @@
-# 脸书将为美国企业提供高达 1000 万美元的免费广告 TechCrunch
+# 脸书将为美国企业提供高达 1000 万美元的免费广告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/facebook-to-provide-up-to-10-million-in-free-advertising-for-u-s-businesses/>
 

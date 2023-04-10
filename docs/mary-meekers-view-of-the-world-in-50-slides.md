@@ -1,4 +1,4 @@
-# 玛丽·米克尔用 50 张幻灯片看世界 TechCrunch
+# 玛丽·米克尔用 50 张幻灯片看世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/06/mary-meekers-view-of-the-world-in-50-slides/>
 

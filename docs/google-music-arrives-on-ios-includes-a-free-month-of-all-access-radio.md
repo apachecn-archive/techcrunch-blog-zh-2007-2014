@@ -1,4 +1,4 @@
-# 谷歌音乐登陆 iOS，包括一个月免费的“全频道”电台 TechCrunch
+# 谷歌音乐登陆 iOS，包括一个月免费的“全频道”电台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/15/google-music-arrives-on-ios-includes-a-free-month-of-all-access-radio/>
 

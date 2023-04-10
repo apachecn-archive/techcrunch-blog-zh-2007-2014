@@ -1,4 +1,4 @@
-# BookRenter 向校园书店和其他合作伙伴开放教科书租赁 TechCrunch
+# BookRenter 向校园书店和其他合作伙伴开放教科书租赁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/03/bookrenter-opens-textbook-rentals-campus-bookstores-partners/>
 

@@ -1,4 +1,4 @@
-# DockBoss+将您的手机或 PMP 连接到任何兼容 iPod 的扬声器 TechCrunch
+# DockBoss+将您的手机或 PMP 连接到任何兼容 iPod 的扬声器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/dockboss-connects-your-phone-or-pmp-to-any-ipod-compatible-speaker/>
 

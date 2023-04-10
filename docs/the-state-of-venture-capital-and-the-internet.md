@@ -1,4 +1,4 @@
-# 风险投资和互联网的现状 TechCrunch
+# 风险投资和互联网的现状 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/the-state-of-venture-capital-and-the-internet/>
 

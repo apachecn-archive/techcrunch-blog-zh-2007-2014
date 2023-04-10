@@ -1,4 +1,4 @@
-# 如果一辆车在《第二人生》推出，会有人注意到吗？TechCrunch
+# 如果一辆车在《第二人生》推出，会有人注意到吗？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/if-a-car-launches-in-second-life-will-anyone-notice-it/>
 

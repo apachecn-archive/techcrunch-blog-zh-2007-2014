@@ -1,4 +1,4 @@
-# 中国向空间站迈出第一步，发射天宫一号 TechCrunch
+# 中国向空间站迈出第一步，发射天宫一号 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/china-space-tiangong-1/>
 

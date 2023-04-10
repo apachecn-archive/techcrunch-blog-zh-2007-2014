@@ -1,4 +1,4 @@
-# 斯蒂维·旺德感谢史蒂夫·乔布斯的事情太棒了 TechCrunch
+# 斯蒂维·旺德感谢史蒂夫·乔布斯的事情太棒了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/18/steve-jobs-stevie-wonder/>
 

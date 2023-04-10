@@ -1,4 +1,4 @@
-# RIM 推出莫名其妙的 BBM 音乐应用 TechCrunch
+# RIM 推出莫名其妙的 BBM 音乐应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/rim-launches-inexplicable-bbm-music-app/>
 

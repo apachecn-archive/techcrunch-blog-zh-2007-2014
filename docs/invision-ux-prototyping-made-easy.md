@@ -1,4 +1,4 @@
-# 愿景:UX 原型制作变得简单 TechCrunch
+# 愿景:UX 原型制作变得简单 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/invision-ux-prototyping-made-easy/>
 

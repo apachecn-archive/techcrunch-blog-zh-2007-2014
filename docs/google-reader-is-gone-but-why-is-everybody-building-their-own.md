@@ -1,4 +1,4 @@
-# Google Reader 的死亡开启了更智能订阅生态系统的大门 TechCrunch
+# Google Reader 的死亡开启了更智能订阅生态系统的大门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/06/google-reader-is-gone-but-why-is-everybody-building-their-own/>
 

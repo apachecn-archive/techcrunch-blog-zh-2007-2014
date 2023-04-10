@@ -1,4 +1,4 @@
-# 如何立即试用 Spotify，无论你住在哪里 TechCrunch
+# 如何立即试用 Spotify，无论你住在哪里 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/01/03/how-to-try-spotify-immediately-no-matter-where-you-live/>
 

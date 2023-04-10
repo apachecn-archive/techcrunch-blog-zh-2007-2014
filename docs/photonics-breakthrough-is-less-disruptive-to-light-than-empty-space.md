@@ -1,4 +1,4 @@
-# 光子学的突破对光的破坏性比真空小 TechCrunch
+# 光子学的突破对光的破坏性比真空小 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/photonics-breakthrough-is-less-disruptive-to-light-than-empty-space/>
 

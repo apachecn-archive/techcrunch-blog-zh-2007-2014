@@ -1,4 +1,4 @@
-# Pinterest 效应:Pinfluencer 在今天公开亮相之前为其 Pinterest 分析平台筹集了 140 万美元 TechCrunch
+# Pinterest 效应:Pinfluencer 在今天公开亮相之前为其 Pinterest 分析平台筹集了 140 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/pinterest-effect-pinfluencer-raises-1-4-million-for-its-pinterest-analytics-platform-before-todays-public-debut/>
 

@@ -1,4 +1,4 @@
-# Box 推出 HTML5 嵌入式框架，将内容与第三方企业软件应用集成 TechCrunch
+# Box 推出 HTML5 嵌入式框架，将内容与第三方企业软件应用集成 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/box-debuts-html5-embeddable-framework-to-integrate-content-with-third-party-enterprise-software-apps/>
 

@@ -1,4 +1,4 @@
-# BBC 的 iPlayer Radio iOS 应用下载量达到 100 万次；Android 将于 2013 年推出 TechCrunch
+# BBC 的 iPlayer Radio iOS 应用下载量达到 100 万次；Android 将于 2013 年推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/13/bbc-reaches-1m-downloads-of-its-iplayer-radio-ios-app-android-coming-in-2013/>
 

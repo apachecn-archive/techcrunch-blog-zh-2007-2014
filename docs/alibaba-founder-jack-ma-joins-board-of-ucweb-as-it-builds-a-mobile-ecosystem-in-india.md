@@ -1,4 +1,4 @@
-# 阿里巴巴创始人马云加入 UCWeb 董事会，在印度建立移动生态系统 TechCrunch
+# 阿里巴巴创始人马云加入 UCWeb 董事会，在印度建立移动生态系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/21/alibaba-founder-jack-ma-joins-board-of-ucweb-as-it-builds-a-mobile-ecosystem-in-india/>
 

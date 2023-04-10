@@ -1,4 +1,4 @@
-# 十年后，LimeWire 屈服于音乐行业 TechCrunch
+# 十年后，LimeWire 屈服于音乐行业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/limewire-capitulates-music-industry/>
 

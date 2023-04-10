@@ -1,4 +1,4 @@
-# 谷歌与哈里斯互动合作推出新的自助式消费者研究工具 TechCrunch
+# 谷歌与哈里斯互动合作推出新的自助式消费者研究工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/18/google-harris-interactive-market-research/>
 

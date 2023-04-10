@@ -1,4 +1,4 @@
-# 尼康无反光镜相机的传闻规格 TechCrunch
+# 尼康无反光镜相机的传闻规格 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/rumored-specs-for-nikons-mirrorless-cameras/>
 

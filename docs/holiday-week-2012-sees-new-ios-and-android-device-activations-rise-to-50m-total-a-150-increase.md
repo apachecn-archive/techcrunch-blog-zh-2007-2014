@@ -1,4 +1,4 @@
-# 2012 年假日周，新的 iOS 和 Android 设备激活总数上升至 5000 万，增长 150% TechCrunch
+# 2012 年假日周，新的 iOS 和 Android 设备激活总数上升至 5000 万，增长 150% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/02/holiday-week-2012-sees-new-ios-and-android-device-activations-rise-to-50m-total-a-150-increase/>
 

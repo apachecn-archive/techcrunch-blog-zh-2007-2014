@@ -1,4 +1,4 @@
-# 堆栈溢出上升到问答板块:2010 年增长 131%，从 700 万增加到超过 1600 万 Uniques TechCrunch
+# 堆栈溢出上升到问答板块:2010 年增长 131%，从 700 万增加到超过 1600 万 Uniques 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/stack-overflow-steps-up-to-the-qa-plate-growing-131-in-2010-from-7m-to-over-16m-uniques/>
 

@@ -1,4 +1,4 @@
-# 自救:Cosmo Noah 海啸避难所/游戏屋 TechCrunch
+# 自救:Cosmo Noah 海啸避难所/游戏屋 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/save-yourselves-cosmo-noah-tsunami-shelterplayhouse/>
 

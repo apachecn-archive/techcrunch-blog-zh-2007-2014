@@ -1,4 +1,4 @@
-# 现在 iPhone 可以解锁了，苹果会尝试封杀黑客吗？–TechCrunch
+# 现在 iPhone 可以解锁了，苹果会尝试封杀黑客吗？–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/now-that-the-iphone-can-be-unlocked-will-apple-try-to-block-the-hack/>
 

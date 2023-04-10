@@ -1,4 +1,4 @@
-# 社交出版商 Wattpad 从科斯拉、杨致远等人手中筹得 1730 万美元 TechCrunch
+# 社交出版商 Wattpad 从科斯拉、杨致远等人手中筹得 1730 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/06/wattpad-series-b/>
 

@@ -1,4 +1,4 @@
-# 小心 Craigslist，姐妹网站 Kijiji 正在起飞。TechCrunch
+# 小心 Craigslist，姐妹网站 Kijiji 正在起飞。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/14/watch-out-craigslist-sister-site-kijiji-is-taking-off/>
 

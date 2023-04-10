@@ -1,4 +1,4 @@
-# 蓝水卫星的数据潜水:一个非常 21 世纪的行业 TechCrunch
+# 蓝水卫星的数据潜水:一个非常 21 世纪的行业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/25/blue-water-satellites-data-diving-a-very-21st-century-industry/>
 

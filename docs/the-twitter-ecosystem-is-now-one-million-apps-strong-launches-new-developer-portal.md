@@ -1,4 +1,4 @@
-# 100 万个强大的应用程序，Twitter 推出新的开发者门户 TechCrunch
+# 100 万个强大的应用程序，Twitter 推出新的开发者门户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/11/the-twitter-ecosystem-is-now-one-million-apps-strong-launches-new-developer-portal/>
 

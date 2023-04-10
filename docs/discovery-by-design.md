@@ -1,4 +1,4 @@
-# 设计发现 TechCrunch
+# 设计发现 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/06/discovery-by-design/>
 

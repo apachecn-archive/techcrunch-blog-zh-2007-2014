@@ -1,4 +1,4 @@
-# RSA 与 NSA 的交易反映了一种普遍的不信任 TechCrunch
+# RSA 与 NSA 的交易反映了一种普遍的不信任 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/28/rsas-deal-with-the-nsa-shows-how-mistrust-is-spreading-everywhere/>
 

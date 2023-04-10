@@ -1,4 +1,4 @@
-# Fampus 为大学推出社交活动网站 TechCrunch
+# Fampus 为大学推出社交活动网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/fampus-launches-social-events-site-for-universities/>
 

@@ -1,4 +1,4 @@
-# 在 iPad 时代卖木马 TechCrunch
+# 在 iPad 时代卖木马 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/24/selling-the-wooden-horse-in-the-age-of-the-ipad/>
 

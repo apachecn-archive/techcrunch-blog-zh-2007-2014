@@ -1,4 +1,4 @@
-# 前 MySQL 首席执行官马丁·米科斯加入 Index Ventures，成为 EIR·TechCrunch
+# 前 MySQL 首席执行官马丁·米科斯加入 Index Ventures，成为 EIR·
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/28/former-mysql-ceo-marten-mickos-joins-index-ventures-as-eir/>
 

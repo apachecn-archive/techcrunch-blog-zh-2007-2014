@@ -1,4 +1,4 @@
-# YC 资助的科学交易所:核心研究设施的中心市场 TechCrunch
+# YC 资助的科学交易所:核心研究设施的中心市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/yc-funded-science-exchange-a-central-database-for-core-research-facilities/>
 

@@ -1,4 +1,4 @@
-# 欧洲科技创业公司#TheEuropas Awards 投票开始 TechCrunch
+# 欧洲科技创业公司#TheEuropas Awards 投票开始 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/voting-in-theeuropas-awards-for-european-tech-startups-goes-live/>
 

@@ -1,4 +1,4 @@
-# YouTube 获得广告 TechCrunch
+# YouTube 获得广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/29/youtube-gets-adsensed/>
 

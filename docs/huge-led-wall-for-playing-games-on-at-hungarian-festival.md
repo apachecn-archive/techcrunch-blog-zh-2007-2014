@@ -1,4 +1,4 @@
-# 匈牙利节上用于玩游戏的巨大 LED 墙 TechCrunch
+# 匈牙利节上用于玩游戏的巨大 LED 墙 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/huge-led-wall-for-playing-games-on-at-hungarian-festival/>
 

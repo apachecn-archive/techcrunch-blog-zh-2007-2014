@@ -1,4 +1,4 @@
-# 跨浏览器扩展开发平台 Crossrider 以 3700 万美元出售给 Market.com:已确认 TechCrunch
+# 跨浏览器扩展开发平台 Crossrider 以 3700 万美元出售给 Market.com:已确认 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/cross-browser-extension-development-platform-crossrider-sold-for-37m-to-markets-com-report/>
 

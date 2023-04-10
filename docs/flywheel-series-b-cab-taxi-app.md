@@ -1,4 +1,4 @@
-# 飞轮获得 1480 万美元，加倍投资将技术引入出租车司机的世界 TechCrunch
+# 飞轮获得 1480 万美元，加倍投资将技术引入出租车司机的世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/flywheel-series-b-cab-taxi-app/>
 

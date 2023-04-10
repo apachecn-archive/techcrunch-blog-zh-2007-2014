@@ -1,4 +1,4 @@
-# 埃里克·施密特(Eric Schmidt)支持的 Slice 超越了收据跟踪，推出了面向读者的社交网络 Bookshelf TechCrunch
+# 埃里克·施密特(Eric Schmidt)支持的 Slice 超越了收据跟踪，推出了面向读者的社交网络 Bookshelf 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/06/eric-schmidt-backed-slice-moves-beyond-receipt-tracking-with-debut-of-bookshelf-a-social-network-for-readers/?_ga=2.2189552.152585094.1534706915-1510196584.1533849207>
 

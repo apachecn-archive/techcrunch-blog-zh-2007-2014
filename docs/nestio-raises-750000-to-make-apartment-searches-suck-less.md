@@ -1,4 +1,4 @@
-# 内斯特筹集 750，000 美元让公寓搜查变得不那么糟糕 TechCrunch
+# 内斯特筹集 750，000 美元让公寓搜查变得不那么糟糕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/nestio-raises-750000-to-make-apartment-searches-suck-less/>
 

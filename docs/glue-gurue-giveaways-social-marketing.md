@@ -1,4 +1,4 @@
-# 社交营销:Glue Guru 赠品瞄准在线影响者 TechCrunch
+# 社交营销:Glue Guru 赠品瞄准在线影响者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/glue-gurue-giveaways-social-marketing/>
 

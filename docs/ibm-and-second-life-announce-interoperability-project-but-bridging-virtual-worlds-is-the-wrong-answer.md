@@ -1,4 +1,4 @@
-# IBM 和 Second Life 宣布了互操作性，但是桥接虚拟世界是错误的答案 TechCrunch
+# IBM 和 Second Life 宣布了互操作性，但是桥接虚拟世界是错误的答案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/08/ibm-and-second-life-announce-interoperability-project-but-bridging-virtual-worlds-is-the-wrong-answer/>
 

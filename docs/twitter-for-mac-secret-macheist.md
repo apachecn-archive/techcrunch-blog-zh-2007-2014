@@ -1,4 +1,4 @@
-# Mac 版 Twitter 附带了一个秘密后门，以感谢 MacHeist 的忠诚者 TechCrunch
+# Mac 版 Twitter 附带了一个秘密后门，以感谢 MacHeist 的忠诚者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/06/twitter-for-mac-secret-macheist/>
 

@@ -1,4 +1,4 @@
-# 使用 Pubmatic 可以让你获得一些免费广告 TechCrunch
+# 使用 Pubmatic 可以让你获得一些免费广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/31/using-pubmatic-could-land-you-some-free-advertising/>
 

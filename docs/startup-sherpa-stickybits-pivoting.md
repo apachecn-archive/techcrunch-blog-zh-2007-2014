@@ -1,4 +1,4 @@
-# 初创公司 Sherpa: Chris Dixon 和 Stickybits 首席执行官 Billy Chasen 谈论中枢(第一部分)TechCrunch
+# 初创公司 Sherpa: Chris Dixon 和 Stickybits 首席执行官 Billy Chasen 谈论中枢(第一部分)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/17/startup-sherpa-stickybits-pivoting/>
 

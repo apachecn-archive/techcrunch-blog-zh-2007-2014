@@ -1,4 +1,4 @@
-# 新的 API 公共平台允许开发者在知识共享许可下共享 API TechCrunch
+# 新的 API 公共平台允许开发者在知识共享许可下共享 API 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/05/3scale-launches-api-commons-to-allow-developers-to-share-apis-under-creative-commons-licenses/>
 

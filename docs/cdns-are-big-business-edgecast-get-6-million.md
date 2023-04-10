@@ -1,4 +1,4 @@
-# cdn 是大生意，EdgeCast 获得 600 万美元 TechCrunch
+# cdn 是大生意，EdgeCast 获得 600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/09/cdns-are-big-business-edgecast-get-6-million/>
 

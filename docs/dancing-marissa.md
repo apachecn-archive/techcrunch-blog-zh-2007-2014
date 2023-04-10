@@ -1,4 +1,4 @@
-# 一整页都是跳舞的玛丽莎·梅耶尔 gif TechCrunch
+# 一整页都是跳舞的玛丽莎·梅耶尔 gif 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/dancing-marissa/>
 

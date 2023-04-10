@@ -1,4 +1,4 @@
-# 脸书货币化总监 Tim Kendall 离职 TechCrunch
+# 脸书货币化总监 Tim Kendall 离职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/04/facebook-director-of-monetization-tim-kendall-steps-down/>
 

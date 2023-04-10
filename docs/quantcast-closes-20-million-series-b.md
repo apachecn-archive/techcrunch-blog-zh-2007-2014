@@ -1,4 +1,4 @@
-# Quantcast 完成 2000 万美元的 B 轮融资 TechCrunch
+# Quantcast 完成 2000 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/21/quantcast-closes-20-million-series-b/>
 

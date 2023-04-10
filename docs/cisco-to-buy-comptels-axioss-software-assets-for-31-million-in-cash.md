@@ -1,4 +1,4 @@
-# 思科将以 3100 万美元现金收购 Comptel 的 Axioss 软件资产 TechCrunch
+# 思科将以 3100 万美元现金收购 Comptel 的 Axioss 软件资产 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/cisco-to-buy-comptels-axioss-software-assets-for-31-million-in-cash/>
 

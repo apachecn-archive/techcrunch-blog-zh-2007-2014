@@ -1,4 +1,4 @@
-# 谷歌今天反垄断听证会的谈话要点:唯一不喜欢我们与雅虎交易的是微软 TechCrunch
+# 谷歌今天反垄断听证会的谈话要点:唯一不喜欢我们与雅虎交易的是微软 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/15/googles-talking-points-for-todays-antitrust-hearings-the-only-one-who-wont-our-yahoo-deal-is-microsoft/>
 

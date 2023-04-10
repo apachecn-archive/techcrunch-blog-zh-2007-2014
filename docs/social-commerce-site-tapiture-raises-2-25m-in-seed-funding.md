@@ -1,4 +1,4 @@
-# 社交商务网站 Tapiture 筹集了 225 万美元的种子资金 TechCrunch
+# 社交商务网站 Tapiture 筹集了 225 万美元的种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/social-commerce-site-tapiture-raises-2-25m-in-seed-funding/>
 

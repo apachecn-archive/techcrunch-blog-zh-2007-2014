@@ -1,4 +1,4 @@
-# Android 的 SugarTrip 采用新方法躲避街道交通 TechCrunch
+# Android 的 SugarTrip 采用新方法躲避街道交通 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/20/androids-sugartrip-takes-a-new-approach-to-dodging-street-traffic/>
 

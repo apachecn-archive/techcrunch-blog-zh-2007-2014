@@ -1,4 +1,4 @@
-# 冰淇淋三明治来了之后...果冻豆 TechCrunch
+# 冰淇淋三明治来了之后...果冻豆 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/after-ice-cream-sandwich-comes-jelly-bean/>
 

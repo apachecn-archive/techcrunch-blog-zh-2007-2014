@@ -1,4 +1,4 @@
-# 亚马逊让你加速运行超级计算机集群 TechCrunch
+# 亚马逊让你加速运行超级计算机集群 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/amazon-spin-up-supercomputer-cluster/>
 

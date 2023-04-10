@@ -1,4 +1,4 @@
-# Braintree 扩大 Venmo Touch，与在线银行初创公司 Simple 合作进行一键式移动支付 TechCrunch
+# Braintree 扩大 Venmo Touch，与在线银行初创公司 Simple 合作进行一键式移动支付 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/braintree-expands-venmo-touch-partners-with-online-banking-startup-simple-for-one-touch-mobile-payments/>
 

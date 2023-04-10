@@ -1,4 +1,4 @@
-# 前 Digg 工程师:Digg v4 将继续存在 TechCrunch
+# 前 Digg 工程师:Digg v4 将继续存在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/broken-is-repaired/>
 

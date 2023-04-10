@@ -1,4 +1,4 @@
-# 非常想要一个 Google+邀请？试试易贝 TechCrunch
+# 非常想要一个 Google+邀请？试试易贝 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/want-a-google-invite-real-bad-try-ebay/>
 

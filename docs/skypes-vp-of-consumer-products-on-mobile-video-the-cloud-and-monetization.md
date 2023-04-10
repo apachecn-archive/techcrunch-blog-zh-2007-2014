@@ -1,4 +1,4 @@
-# Skype 的移动视频消费产品总经理；云和货币化 TechCrunch
+# Skype 的移动视频消费产品总经理；云和货币化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/06/skypes-vp-of-consumer-products-on-mobile-video-the-cloud-and-monetization/>
 

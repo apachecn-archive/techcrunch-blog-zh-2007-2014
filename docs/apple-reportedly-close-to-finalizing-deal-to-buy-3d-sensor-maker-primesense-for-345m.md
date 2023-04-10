@@ -1,4 +1,4 @@
-# 据报道，苹果接近以 3.45 亿美元收购 3D 传感器制造商 PrimeSense，但尚未达成交易 TechCrunch
+# 据报道，苹果接近以 3.45 亿美元收购 3D 传感器制造商 PrimeSense，但尚未达成交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/17/apple-reportedly-close-to-finalizing-deal-to-buy-3d-sensor-maker-primesense-for-345m/>
 

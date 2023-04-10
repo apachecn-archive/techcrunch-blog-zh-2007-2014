@@ -1,4 +1,4 @@
-# 谷歌的 BufferBox 将其包裹取件的货运亭服务扩展到旧金山 TechCrunch
+# 谷歌的 BufferBox 将其包裹取件的货运亭服务扩展到旧金山 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/30/googles-bufferbox-expands-its-shipping-kiosk-service-for-parcel-pickups-to-san-francisco/>
 

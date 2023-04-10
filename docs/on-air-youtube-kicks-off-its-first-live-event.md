@@ -1,4 +1,4 @@
-# 直播:YouTube 开始第一场直播活动 TechCrunch
+# 直播:YouTube 开始第一场直播活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/22/on-air-youtube-kicks-off-its-first-live-event/>
 

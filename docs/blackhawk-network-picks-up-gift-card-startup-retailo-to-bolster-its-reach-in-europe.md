@@ -1,4 +1,4 @@
-# Blackhawk Network 收购礼品卡初创公司 Retailo，收购€5000 万英镑，以扩大其在欧洲的影响力 TechCrunch
+# Blackhawk Network 收购礼品卡初创公司 Retailo，收购€5000 万英镑，以扩大其在欧洲的影响力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/03/blackhawk-network-picks-up-gift-card-startup-retailo-to-bolster-its-reach-in-europe/>
 

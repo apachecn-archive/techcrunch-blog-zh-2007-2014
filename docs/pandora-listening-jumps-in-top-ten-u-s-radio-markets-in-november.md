@@ -1,4 +1,4 @@
-# Pandora Listening 在 11 月份跃居美国十大广播市场 TechCrunch
+# Pandora Listening 在 11 月份跃居美国十大广播市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/13/pandora-listening-jumps-in-top-ten-u-s-radio-markets-in-november/>
 

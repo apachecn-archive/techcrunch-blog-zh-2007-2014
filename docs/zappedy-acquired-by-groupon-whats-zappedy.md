@@ -1,4 +1,4 @@
-# 被 Groupon 收购的 Zappedy。Zappedy 是什么？TechCrunch
+# 被 Groupon 收购的 Zappedy。Zappedy 是什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/17/zappedy-acquired-by-groupon-whats-zappedy/>
 

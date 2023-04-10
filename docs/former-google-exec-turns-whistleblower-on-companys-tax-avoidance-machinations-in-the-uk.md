@@ -1,4 +1,4 @@
-# 前谷歌高管揭发公司在英国的避税阴谋 TechCrunch
+# 前谷歌高管揭发公司在英国的避税阴谋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/19/former-google-exec-turns-whistleblower-on-companys-tax-avoidance-machinations-in-the-uk/>
 

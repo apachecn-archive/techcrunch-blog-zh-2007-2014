@@ -1,4 +1,4 @@
-# SV Angel 在 Pinterest 二次出售中收购了 3000 万美元 TechCrunch
+# SV Angel 在 Pinterest 二次出售中收购了 3000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/23/sv-angel-invested-30m-in-pinterest-secondary-sale/>
 

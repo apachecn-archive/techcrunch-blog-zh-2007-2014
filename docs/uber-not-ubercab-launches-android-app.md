@@ -1,4 +1,4 @@
-# 优步，而不是 UberCab，发布安卓应用 TechCrunch
+# 优步，而不是 UberCab，发布安卓应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/03/uber-not-ubercab-launches-android-app/>
 

@@ -1,4 +1,4 @@
-# iPad 版 QuickBooks Online 不是一个无聊的会计应用程序——它是一个简单的 CRM TechCrunch
+# iPad 版 QuickBooks Online 不是一个无聊的会计应用程序——它是一个简单的 CRM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/14/quickbooks-online-for-ipad-isnt-a-boring-accounting-app-its-a-simple-crm/>
 

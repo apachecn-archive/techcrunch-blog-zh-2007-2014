@@ -1,4 +1,4 @@
-# 另一个受欢迎的开发者抨击苹果的应用商店 TechCrunch
+# 另一个受欢迎的开发者抨击苹果的应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/31/another-popular-developer-lays-the-smack-down-on-apples-app-store/>
 

@@ -1,4 +1,4 @@
-# ChaCha 创造了疯狂的商业模式...有利可图 TechCrunch
+# ChaCha 创造了疯狂的商业模式...有利可图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/31/chacha-makes-its-crazy-business-model-profitable/>
 

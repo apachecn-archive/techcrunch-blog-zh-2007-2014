@@ -1,4 +1,4 @@
-# 言简意赅！-在 Y Combinator 面试中被问到的首要问题 TechCrunch
+# 言简意赅！-在 Y Combinator 面试中被问到的首要问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/27/be-concise-the-top-questions-asked-at-a-y-combinator-interview/>
 

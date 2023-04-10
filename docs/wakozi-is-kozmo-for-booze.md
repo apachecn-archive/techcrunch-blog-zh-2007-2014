@@ -1,4 +1,4 @@
-# Wakozi 是 Kozmo，意思是酒——TechCrunch
+# Wakozi 是 Kozmo，意思是酒——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/28/wakozi-is-kozmo-for-booze/>
 

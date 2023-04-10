@@ -1,4 +1,4 @@
-# Vulfpeck 在 Spotify 上发布了一张绝对沉默的专辑来赚钱 TechCrunch
+# Vulfpeck 在 Spotify 上发布了一张绝对沉默的专辑来赚钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/21/vulfpeck-releases-an-album-of-absolute-silence-on-spotify-to-make-money/>
 

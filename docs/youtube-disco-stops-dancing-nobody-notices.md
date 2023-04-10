@@ -1,4 +1,4 @@
-# YouTube 迪斯科停止跳舞，没人注意到 TechCrunch
+# YouTube 迪斯科停止跳舞，没人注意到 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/youtube-disco-stops-dancing-nobody-notices/>
 

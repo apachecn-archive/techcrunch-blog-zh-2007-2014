@@ -1,4 +1,4 @@
-# 拍卖后，Dropbox 接近选择投资者——这一轮估值可能达到 100 亿美元 TechCrunch
+# 拍卖后，Dropbox 接近选择投资者——这一轮估值可能达到 100 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/dropbox-10-billion/>
 

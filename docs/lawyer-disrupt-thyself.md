@@ -1,4 +1,4 @@
-# 律师，扰乱你自己 TechCrunch
+# 律师，扰乱你自己 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/21/lawyer-disrupt-thyself/>
 

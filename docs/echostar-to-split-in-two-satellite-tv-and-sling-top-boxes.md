@@ -1,4 +1,4 @@
-# EchoStar 将一分为二:卫星电视和机顶盒 TechCrunch
+# EchoStar 将一分为二:卫星电视和机顶盒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/07/echostar-to-split-in-two-satellite-tv-and-sling-top-boxes/>
 

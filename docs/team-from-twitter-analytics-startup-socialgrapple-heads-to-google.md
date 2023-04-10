@@ -1,4 +1,4 @@
-# Twitter 分析初创公司 SocialGrapple 的团队前往谷歌 TechCrunch
+# Twitter 分析初创公司 SocialGrapple 的团队前往谷歌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/team-from-twitter-analytics-startup-socialgrapple-heads-to-google/>
 

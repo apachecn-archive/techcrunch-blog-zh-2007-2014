@@ -1,4 +1,4 @@
-# 如何在敞篷车中获得顶级音频 TechCrunch
+# 如何在敞篷车中获得顶级音频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/how-to-get-top-tier-audio-in-your-convertible/>
 

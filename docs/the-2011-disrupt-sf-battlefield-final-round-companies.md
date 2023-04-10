@@ -1,4 +1,4 @@
-# 2011 年扰乱旧金山战场最后一轮公司 TechCrunch
+# 2011 年扰乱旧金山战场最后一轮公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/the-2011-disrupt-sf-battlefield-final-round-companies/>
 

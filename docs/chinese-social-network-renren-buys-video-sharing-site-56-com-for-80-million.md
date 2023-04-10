@@ -1,4 +1,4 @@
-# 中国社交网络人人网以 8000 万美元收购视频分享网站 56.com TechCrunch
+# 中国社交网络人人网以 8000 万美元收购视频分享网站 56.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/chinese-social-network-renren-buys-video-sharing-site-56-com-for-80-million/>
 

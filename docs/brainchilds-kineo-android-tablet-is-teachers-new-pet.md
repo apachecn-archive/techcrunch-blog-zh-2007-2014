@@ -1,4 +1,4 @@
-# Brainchild 的 Kineo Android 平板电脑是教师的新宠 TechCrunch
+# Brainchild 的 Kineo Android 平板电脑是教师的新宠 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/01/brainchilds-kineo-android-tablet-is-teachers-new-pet/>
 

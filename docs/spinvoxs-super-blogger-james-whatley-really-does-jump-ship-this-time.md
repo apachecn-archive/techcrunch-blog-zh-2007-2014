@@ -1,4 +1,4 @@
-# SpinVox 的超级博主詹姆斯·沃特利这次真的跳槽了 TechCrunch
+# SpinVox 的超级博主詹姆斯·沃特利这次真的跳槽了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/24/spinvoxs-super-blogger-james-whatley-really-does-jump-ship-this-time/>
 

@@ -1,4 +1,4 @@
-# 更多扰乱北京演讲嘉宾:李开复、李国宝、弗里兹·泽莫普洛斯等 TechCrunch
+# 更多扰乱北京演讲嘉宾:李开复、李国宝、弗里兹·泽莫普洛斯等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/more-disrupt-beijing-speakers-kai-fu-lee-david-li-fritz-demopoulos-and-more/>
 

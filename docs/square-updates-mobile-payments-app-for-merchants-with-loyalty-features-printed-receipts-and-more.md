@@ -1,4 +1,4 @@
-# Square 为商户更新移动支付应用，提供忠诚度功能、打印收据等 TechCrunch
+# Square 为商户更新移动支付应用，提供忠诚度功能、打印收据等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/square-updates-mobile-payments-app-for-merchants-with-loyalty-features-printed-receipts-and-more/>
 

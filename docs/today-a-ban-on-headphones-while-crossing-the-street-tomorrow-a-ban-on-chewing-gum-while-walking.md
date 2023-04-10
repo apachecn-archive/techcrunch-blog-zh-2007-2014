@@ -1,4 +1,4 @@
-# 今天，禁止在过马路时戴耳机；明天，禁止走路时嚼口香糖 TechCrunch
+# 今天，禁止在过马路时戴耳机；明天，禁止走路时嚼口香糖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/today-a-ban-on-headphones-while-crossing-the-street-tomorrow-a-ban-on-chewing-gum-while-walking/>
 

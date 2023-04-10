@@ -1,4 +1,4 @@
-# GroupMe 从 Khosla Ventures 和其他公司获得 1060 万美元 TechCrunch
+# GroupMe 从 Khosla Ventures 和其他公司获得 1060 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/groupme-scores-10-6-million-from-khosla-ventures-and-others/>
 

@@ -1,4 +1,4 @@
-# 每日一课:苹果不会自杀 TechCrunch
+# 每日一课:苹果不会自杀 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/09/apple-defies-death-once-again/>
 

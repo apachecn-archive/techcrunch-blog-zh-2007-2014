@@ -1,4 +1,4 @@
-# XKCD 更新地图:我们不再生活在真实的国家，而是生活在数字化的国家 TechCrunch
+# XKCD 更新地图:我们不再生活在真实的国家，而是生活在数字化的国家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/09/map-of-online-communities/>
 

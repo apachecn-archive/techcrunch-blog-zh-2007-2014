@@ -1,4 +1,4 @@
-# 社交媒体技术公司 Syncapse 获得 2500 万美元 TechCrunch
+# 社交媒体技术公司 Syncapse 获得 2500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/24/social-media-technology-company-syncapse-scores-25-million-round/>
 

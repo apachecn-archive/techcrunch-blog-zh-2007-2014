@@ -1,4 +1,4 @@
-# 脸书在印度招聘 500 人 TechCrunch
+# 脸书在印度招聘 500 人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/28/facebook-hiring-500-people-in-india/>
 

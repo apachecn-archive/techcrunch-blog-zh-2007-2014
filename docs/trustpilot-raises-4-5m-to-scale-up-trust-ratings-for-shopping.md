@@ -1,4 +1,4 @@
-# Trustpilot 筹集 450 万美元提升购物信任度 TechCrunch
+# Trustpilot 筹集 450 万美元提升购物信任度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/trustpilot-raises-4-5m-to-scale-up-trust-ratings-for-shopping/>
 

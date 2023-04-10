@@ -1,4 +1,4 @@
-# 不是每个人都希望在玩电脑游戏时手持电脑 TechCrunch
+# 不是每个人都希望在玩电脑游戏时手持电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/15/not-everyone-wants-their-hand-held-when-pc-gaming/>
 

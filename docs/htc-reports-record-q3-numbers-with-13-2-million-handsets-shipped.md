@@ -1,4 +1,4 @@
-# HTC 报告创下第三季度手机出货量 1320 万部的记录 TechCrunch
+# HTC 报告创下第三季度手机出货量 1320 万部的记录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/htc-reports-record-q3-numbers-with-13-2-million-handsets-shipped/>
 

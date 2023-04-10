@@ -1,4 +1,4 @@
-# Spot Runner 经营不善:又有 60 人失业 TechCrunch
+# Spot Runner 经营不善:又有 60 人失业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/14/spot-runner-is-running-on-fumes-at-least-another-60-to-lose-their-jobs/>
 

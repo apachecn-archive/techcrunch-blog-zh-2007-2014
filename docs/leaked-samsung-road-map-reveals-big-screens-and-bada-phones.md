@@ -1,4 +1,4 @@
-# 泄露的三星路线图揭示大屏幕和 Bada 手机 TechCrunch
+# 泄露的三星路线图揭示大屏幕和 Bada 手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/leaked-samsung-road-map-reveals-big-screens-and-bada-phones/>
 

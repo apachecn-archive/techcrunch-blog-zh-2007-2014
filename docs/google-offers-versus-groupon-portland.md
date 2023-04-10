@@ -1,4 +1,4 @@
-# 谷歌要约与 Groupon:波特兰之战 TechCrunch
+# 谷歌要约与 Groupon:波特兰之战 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/04/google-offers-versus-groupon-portland/>
 

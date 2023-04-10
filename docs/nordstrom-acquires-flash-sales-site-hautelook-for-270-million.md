@@ -1,4 +1,4 @@
-# Nordstrom 以 2.7 亿美元收购 Flash 销售网站 HauteLook TechCrunch
+# Nordstrom 以 2.7 亿美元收购 Flash 销售网站 HauteLook 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/nordstrom-acquires-flash-sales-site-hautelook-for-270-million/>
 

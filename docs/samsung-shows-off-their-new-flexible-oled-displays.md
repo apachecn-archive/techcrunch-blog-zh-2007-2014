@@ -1,4 +1,4 @@
-# 三星展示其新的柔性有机发光二极管显示屏 TechCrunch
+# 三星展示其新的柔性有机发光二极管显示屏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/10/samsung-shows-off-their-new-flexible-oled-displays/>
 

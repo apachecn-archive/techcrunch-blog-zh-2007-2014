@@ -1,4 +1,4 @@
-# 维诺德·科斯拉谈后 PC 时代和隐形汉堡公司 TechCrunch
+# 维诺德·科斯拉谈后 PC 时代和隐形汉堡公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/meat-two-point-o/>
 

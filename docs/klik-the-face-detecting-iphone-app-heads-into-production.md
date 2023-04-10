@@ -1,4 +1,4 @@
-# iPhone 人脸检测应用 KLIK 即将投入生产 TechCrunch
+# iPhone 人脸检测应用 KLIK 即将投入生产 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/10/klik-the-face-detecting-iphone-app-heads-into-production/>
 

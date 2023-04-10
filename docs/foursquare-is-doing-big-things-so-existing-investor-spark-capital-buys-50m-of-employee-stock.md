@@ -1,4 +1,4 @@
-# Foursquare 正在做大事，因此现有投资者 Spark Capital 购买了 5000 万美元的员工股票 TechCrunch
+# Foursquare 正在做大事，因此现有投资者 Spark Capital 购买了 5000 万美元的员工股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/29/foursquare-is-doing-big-things-so-existing-investor-spark-capital-buys-50m-of-employee-stock/>
 

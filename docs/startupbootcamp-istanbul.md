@@ -1,4 +1,4 @@
-# 随着投资者对土耳其的兴趣升温，泛欧加速器在伊斯坦布尔启动 boot camp TechCrunch
+# 随着投资者对土耳其的兴趣升温，泛欧加速器在伊斯坦布尔启动 boot camp 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/startupbootcamp-istanbul/>
 

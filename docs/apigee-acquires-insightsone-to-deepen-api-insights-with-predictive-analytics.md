@@ -1,4 +1,4 @@
-# Apigee 收购 InsightsOne 以深化 API 分析产品 TechCrunch
+# Apigee 收购 InsightsOne 以深化 API 分析产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/08/apigee-acquires-insightsone-to-deepen-api-insights-with-predictive-analytics/>
 

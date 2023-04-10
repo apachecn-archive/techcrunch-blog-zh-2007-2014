@@ -1,4 +1,4 @@
-# 操纵的艺术 TechCrunch
+# 操纵的艺术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/01/the-art-of-manipulation/>
 

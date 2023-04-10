@@ -1,4 +1,4 @@
-# 音乐产业的新敲诈计划 TechCrunch
+# 音乐产业的新敲诈计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/27/the-music-industrys-new-extortion-scheme/>
 

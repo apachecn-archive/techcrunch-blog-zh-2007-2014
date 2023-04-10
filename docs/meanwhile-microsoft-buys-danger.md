@@ -1,4 +1,4 @@
-# 与此同时，微软以 5 亿美元收购 Danger TechCrunch
+# 与此同时，微软以 5 亿美元收购 Danger 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/11/meanwhile-microsoft-buys-danger/>
 

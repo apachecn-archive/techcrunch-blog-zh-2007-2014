@@ -1,4 +1,4 @@
-# Tango 获得 4200 万美元风险投资，将其移动视频通话引入 PC TechCrunch
+# Tango 获得 4200 万美元风险投资，将其移动视频通话引入 PC 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/tango-takes-42-million/>
 

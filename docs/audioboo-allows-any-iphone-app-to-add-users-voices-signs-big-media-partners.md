@@ -1,4 +1,4 @@
-# Audioboo 允许任何 iPhone 应用程序添加用户声音-签署大型媒体合作伙伴 TechCrunch
+# Audioboo 允许任何 iPhone 应用程序添加用户声音-签署大型媒体合作伙伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/audioboo-allows-any-iphone-app-to-add-users-voices-signs-big-media-partners/>
 

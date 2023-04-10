@@ -1,4 +1,4 @@
-# 苹果在打造搜索引擎吗？TechCrunch
+# 苹果在打造搜索引擎吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/13/is-apple-building-a-search-engine/>
 

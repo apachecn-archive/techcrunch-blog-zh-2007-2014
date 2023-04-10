@@ -1,4 +1,4 @@
-# Pobody 的 Nerfect:使命召唤开发者称不可能发布无 Bug 游戏 TechCrunch
+# Pobody 的 Nerfect:使命召唤开发者称不可能发布无 Bug 游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/pobodys-nerfect-call-of-duty-developer-says-its-impossible-to-ship-bug-free-games/>
 

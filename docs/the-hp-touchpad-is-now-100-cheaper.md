@@ -1,4 +1,4 @@
-# 惠普触摸板现在便宜了 100 美元 TechCrunch
+# 惠普触摸板现在便宜了 100 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/the-hp-touchpad-is-now-100-cheaper/>
 

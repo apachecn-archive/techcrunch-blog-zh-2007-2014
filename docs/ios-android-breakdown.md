@@ -1,4 +1,4 @@
-# iPhone 用户？你有 90%的机会使用最新的操作系统。安卓用户？0.4%的几率 TechCrunch
+# iPhone 用户？你有 90%的机会使用最新的操作系统。安卓用户？0.4%的几率 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/17/ios-android-breakdown/>
 

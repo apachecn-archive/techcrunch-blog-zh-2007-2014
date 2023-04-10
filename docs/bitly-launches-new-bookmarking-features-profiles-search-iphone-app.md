@@ -1,4 +1,4 @@
-# Bitly 推出新的书签功能、个人资料、搜索和 iPhone 应用 TechCrunch
+# Bitly 推出新的书签功能、个人资料、搜索和 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/29/bitly-launches-new-bookmarking-features-profiles-search-iphone-app/>
 

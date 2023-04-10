@@ -1,4 +1,4 @@
-# 重新思考作为社会书籍的圣经 TechCrunch
+# 重新思考作为社会书籍的圣经 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/rethinking-bible-social-book/>
 

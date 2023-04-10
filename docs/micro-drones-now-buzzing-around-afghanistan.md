@@ -1,4 +1,4 @@
-# 微型无人机现在在阿富汗嗡嗡作响 TechCrunch
+# 微型无人机现在在阿富汗嗡嗡作响 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/04/micro-drones-now-buzzing-around-afghanistan/>
 

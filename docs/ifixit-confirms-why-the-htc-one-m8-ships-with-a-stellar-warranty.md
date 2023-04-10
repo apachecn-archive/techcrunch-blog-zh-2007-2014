@@ -1,4 +1,4 @@
-# iFixit 证实了 HTC One M8 拥有卓越保修的原因 TechCrunch
+# iFixit 证实了 HTC One M8 拥有卓越保修的原因 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/ifixit-confirms-why-the-htc-one-m8-ships-with-a-stellar-warranty/>
 

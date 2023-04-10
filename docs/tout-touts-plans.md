@@ -1,4 +1,4 @@
-# Tout 将视频状态更新转化为业务的计划 TechCrunch
+# Tout 将视频状态更新转化为业务的计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/14/tout-touts-plans/>
 

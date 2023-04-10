@@ -1,4 +1,4 @@
-# 脸书超越雅虎成为媒体网站视频的第二大流量来源 TechCrunch
+# 脸书超越雅虎成为媒体网站视频的第二大流量来源 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/23/facebook-second-largest-source-videos/>
 

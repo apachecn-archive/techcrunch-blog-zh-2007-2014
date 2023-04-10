@@ -1,4 +1,4 @@
-# FanDuel 将梦幻体育博彩变成社交游戏 TechCrunch
+# FanDuel 将梦幻体育博彩变成社交游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/07/21/fanduel-turns-fantasy-sports-betting-into-a-social-game/>
 

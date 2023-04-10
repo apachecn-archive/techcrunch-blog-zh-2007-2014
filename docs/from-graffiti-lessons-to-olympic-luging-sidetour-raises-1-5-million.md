@@ -1,4 +1,4 @@
-# 从涂鸦课到奥运徒步:SideTour 募集 150 万美元 TechCrunch
+# 从涂鸦课到奥运徒步:SideTour 募集 150 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/17/from-graffiti-lessons-to-olympic-luging-sidetour-raises-1-5-million/>
 

@@ -1,4 +1,4 @@
-# 金退出广告，因为它在糖果粉碎购买上赚了很多钱 TechCrunch
+# 金退出广告，因为它在糖果粉碎购买上赚了很多钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/12/king-quits-advertising-since-it-earns-so-much-on-candy-crush-purchases/>
 

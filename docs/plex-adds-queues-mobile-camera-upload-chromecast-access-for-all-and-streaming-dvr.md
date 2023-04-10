@@ -1,4 +1,4 @@
-# Plex 增加了队列、移动摄像头上传、面向所有人的 Chromecast 访问和流媒体 DVR TechCrunch
+# Plex 增加了队列、移动摄像头上传、面向所有人的 Chromecast 访问和流媒体 DVR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/plex-adds-queues-mobile-camera-upload-chromecast-access-for-all-and-streaming-dvr/>
 

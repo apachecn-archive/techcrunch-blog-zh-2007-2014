@@ -1,4 +1,4 @@
-# Foursquare 继续在 50 多个城市展开地面攻势 TechCrunch
+# Foursquare 继续在 50 多个城市展开地面攻势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/19/foursquare-continues-its-ground-assault-with-50-more-cities/>
 

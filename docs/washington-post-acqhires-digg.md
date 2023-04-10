@@ -1,4 +1,4 @@
-# Digg 团队要去 WaPo，但资产不是 TechCrunch
+# Digg 团队要去 WaPo，但资产不是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/30/washington-post-acqhires-digg/>
 

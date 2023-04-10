@@ -1,4 +1,4 @@
-# Zillow 的 Q2:收入增长 116%，达到创纪录的 1580 万美元，实现盈利 TechCrunch
+# Zillow 的 Q2:收入增长 116%，达到创纪录的 1580 万美元，实现盈利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/zillows-q2-revenues-up-116-percent-to-a-record-15-8m-hits-profitability/>
 

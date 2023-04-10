@@ -1,4 +1,4 @@
-# 爱普瑞斯:Air RSS 阅读器，集成 AIM/Twitter TechCrunch
+# 爱普瑞斯:Air RSS 阅读器，集成 AIM/Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/28/apprise-an-air-rss-reader-with-aimtwitter-integration/>
 

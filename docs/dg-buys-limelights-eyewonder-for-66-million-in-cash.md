@@ -1,4 +1,4 @@
-# DG 以 6600 万美元现金收购 Limelight 的富媒体广告部门 eye wonder TechCrunch
+# DG 以 6600 万美元现金收购 Limelight 的富媒体广告部门 eye wonder 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/dg-buys-limelights-eyewonder-for-66-million-in-cash/>
 

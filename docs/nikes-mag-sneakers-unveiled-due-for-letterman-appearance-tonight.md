@@ -1,4 +1,4 @@
-# 耐克的 Mag 运动鞋亮相，预计今晚莱特曼出现？TechCrunch
+# 耐克的 Mag 运动鞋亮相，预计今晚莱特曼出现？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/nikes-mag-sneakers-unveiled-due-for-letterman-appearance-tonight/>
 

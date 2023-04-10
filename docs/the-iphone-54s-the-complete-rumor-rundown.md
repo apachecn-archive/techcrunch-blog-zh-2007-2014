@@ -1,4 +1,4 @@
-# iPhone 5/4S:完整的谣言纲要 TechCrunch
+# iPhone 5/4S:完整的谣言纲要 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/the-iphone-54s-the-complete-rumor-rundown/>
 

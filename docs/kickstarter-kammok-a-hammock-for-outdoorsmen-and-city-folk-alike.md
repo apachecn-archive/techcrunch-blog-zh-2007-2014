@@ -1,4 +1,4 @@
-# Kickstarter: Kammok，户外运动者和城市人的吊床 TechCrunch
+# Kickstarter: Kammok，户外运动者和城市人的吊床 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/kickstarter-kammok-a-hammock-for-outdoorsmen-and-city-folk-alike/>
 

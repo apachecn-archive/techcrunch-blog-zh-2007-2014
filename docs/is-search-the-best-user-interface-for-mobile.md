@@ -1,4 +1,4 @@
-# 搜索是移动端最好的用户界面吗？TechCrunch
+# 搜索是移动端最好的用户界面吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/02/is-search-the-best-user-interface-for-mobile/>
 

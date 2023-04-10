@@ -1,4 +1,4 @@
-# 诺基亚任命研究主管为新首席技术官——他将常驻硅谷 TechCrunch
+# 诺基亚任命研究主管为新首席技术官——他将常驻硅谷 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/nokia-appoints-research-chief-as-new-cto-hell-be-based-in-silicon-valley/>
 

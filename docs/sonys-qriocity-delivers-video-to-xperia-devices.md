@@ -1,4 +1,4 @@
-# 索尼 Qriocity 向 Xperia 设备提供视频 TechCrunch
+# 索尼 Qriocity 向 Xperia 设备提供视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/29/sonys-qriocity-delivers-video-to-xperia-devices/>
 

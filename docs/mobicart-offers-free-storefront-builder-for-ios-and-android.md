@@ -1,4 +1,4 @@
-# MobiCart 为 iOS 和 Android 提供免费的店面生成器 TechCrunch
+# MobiCart 为 iOS 和 Android 提供免费的店面生成器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/15/mobicart-offers-free-storefront-builder-for-ios-and-android/>
 

@@ -1,4 +1,4 @@
-# 提拉·班克斯投资了 Locket，这款应用将广告和其他内容引入安卓锁屏 TechCrunch
+# 提拉·班克斯投资了 Locket，这款应用将广告和其他内容引入安卓锁屏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/tyra-banks-invests-in-locket-the-app-that-brings-ads-and-other-content-to-android-lockscreens/>
 

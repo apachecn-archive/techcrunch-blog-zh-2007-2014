@@ -1,4 +1,4 @@
-# 据称丝绸之路 2 论坛的顶级版主在国际扫荡中在美国爱尔兰被捕 TechCrunch
+# 据称丝绸之路 2 论坛的顶级版主在国际扫荡中在美国爱尔兰被捕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/20/alleged-top-moderator-of-silk-road-2-forums-arrested-in-ireland/>
 

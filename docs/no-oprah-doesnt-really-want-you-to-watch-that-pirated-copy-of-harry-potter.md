@@ -1,4 +1,4 @@
-# 不，@Oprah 不是真的想让你看那个盗版的哈利波特 TechCrunch
+# 不，@Oprah 不是真的想让你看那个盗版的哈利波特 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/16/no-oprah-doesnt-really-want-you-to-watch-that-pirated-copy-of-harry-potter/>
 

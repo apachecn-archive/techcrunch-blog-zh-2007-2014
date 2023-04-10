@@ -1,4 +1,4 @@
-# Zynga 在主要零售商处推出预付费游戏卡 TechCrunch
+# Zynga 在主要零售商处推出预付费游戏卡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/25/zynga-rolls-out-pre-paid-game-cards-at-major-retailers/>
 

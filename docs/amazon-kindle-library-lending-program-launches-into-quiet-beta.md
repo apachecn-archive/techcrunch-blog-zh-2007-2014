@@ -1,4 +1,4 @@
-# 亚马逊 Kindle 图书馆借阅计划推出安静测试版 TechCrunch
+# 亚马逊 Kindle 图书馆借阅计划推出安静测试版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/amazon-kindle-library-lending-program-launches-into-quiet-beta/>
 

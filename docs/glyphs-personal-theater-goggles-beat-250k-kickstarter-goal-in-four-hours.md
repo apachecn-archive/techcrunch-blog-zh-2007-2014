@@ -1,4 +1,4 @@
-# 字形“个人影院”护目镜在四小时内击败了 25 万美元的 Kickstarter 目标 TechCrunch
+# 字形“个人影院”护目镜在四小时内击败了 25 万美元的 Kickstarter 目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/glyphs-personal-theater-goggles-beat-250k-kickstarter-goal-in-four-hours/>
 

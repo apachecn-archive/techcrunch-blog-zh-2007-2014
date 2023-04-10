@@ -1,4 +1,4 @@
-# 水上乐园所有者收购苦苦挣扎的 CityDeals.com 的资产。等等，什么？TechCrunch
+# 水上乐园所有者收购苦苦挣扎的 CityDeals.com 的资产。等等，什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/assets-of-struggling-citydeals-com-acquired-by-water-parks-owner-wait-what/>
 

@@ -1,4 +1,4 @@
-# 特斯拉扭亏为盈！庆祝一下！TechCrunch
+# 特斯拉扭亏为盈！庆祝一下！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/07/tesla-turned-a-profit-celebrate/>
 

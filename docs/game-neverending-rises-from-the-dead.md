@@ -1,4 +1,4 @@
-# 游戏《永无止境起死回生》TechCrunch
+# 游戏《永无止境起死回生》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/02/game-neverending-rises-from-the-dead/>
 

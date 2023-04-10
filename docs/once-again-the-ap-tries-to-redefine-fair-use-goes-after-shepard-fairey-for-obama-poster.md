@@ -1,4 +1,4 @@
-# 美联社再次试图重新定义合理使用；为奥巴马追踪谢泼德·费尔雷海报 TechCrunch
+# 美联社再次试图重新定义合理使用；为奥巴马追踪谢泼德·费尔雷海报 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/05/once-again-the-ap-tries-to-redefine-fair-use-goes-after-shepard-fairey-for-obama-poster/>
 

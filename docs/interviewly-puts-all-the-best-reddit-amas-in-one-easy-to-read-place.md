@@ -1,4 +1,4 @@
-# Interviewly 将所有最好的 Reddit AMAs 放在一个易于阅读的地方 TechCrunch
+# Interviewly 将所有最好的 Reddit AMAs 放在一个易于阅读的地方 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/interviewly-puts-all-the-best-reddit-amas-in-one-easy-to-read-place/>
 

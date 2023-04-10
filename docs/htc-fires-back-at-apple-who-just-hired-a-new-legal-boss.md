@@ -1,4 +1,4 @@
-# HTC 回击苹果新法律主管 TechCrunch
+# HTC 回击苹果新法律主管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/12/htc-fires-back-at-apple-who-just-hired-a-new-legal-boss/>
 

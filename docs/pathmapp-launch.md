@@ -1,4 +1,4 @@
-# Pathmapp 推出面向移动开发者的 A/B 测试和可视化分析服务 TechCrunch
+# Pathmapp 推出面向移动开发者的 A/B 测试和可视化分析服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/pathmapp-launch/>
 

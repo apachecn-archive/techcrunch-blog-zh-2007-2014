@@ -1,4 +1,4 @@
-# SoundCloud、Deezer 和 Rhapsody 成为脸书音乐发布合作伙伴？TechCrunch
+# SoundCloud、Deezer 和 Rhapsody 成为脸书音乐发布合作伙伴？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/17/facebook-music-soundcloud-deezer-rhapsody/>
 

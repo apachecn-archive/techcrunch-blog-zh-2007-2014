@@ -1,4 +1,4 @@
-# 比尔·盖茨想用手机银行帮助第三世界 TechCrunch
+# 比尔·盖茨想用手机银行帮助第三世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/17/bill-gates-wants-to-help-the-third-world-with-cellphone-banking/>
 

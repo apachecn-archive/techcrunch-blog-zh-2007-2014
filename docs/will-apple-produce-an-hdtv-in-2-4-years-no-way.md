@@ -1,4 +1,4 @@
-# 苹果会在 2-4 年内生产一台高清电视吗？不可能 TechCrunch
+# 苹果会在 2-4 年内生产一台高清电视吗？不可能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/16/will-apple-produce-an-hdtv-in-2-4-years-no-way/>
 

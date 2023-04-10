@@ -1,4 +1,4 @@
-# 沃尔玛的人们，你们中的一些人应该在出门前照照镜子 TechCrunch
+# 沃尔玛的人们，你们中的一些人应该在出门前照照镜子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/04/people-of-walmart-some-of-you-should-look-in-the-mirror-before-you-walk-out-the-door/>
 

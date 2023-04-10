@@ -1,4 +1,4 @@
-# 澳大利亚公司以 138，000 美元收购 CreditCard.net TechCrunch
+# 澳大利亚公司以 138，000 美元收购 CreditCard.net 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/australian-company-buys-creditcard-net-for-138000/>
 

@@ -1,4 +1,4 @@
-# 移动应用测试初创公司 Sauce Labs 融资 500 万美元 TechCrunch
+# 移动应用测试初创公司 Sauce Labs 融资 500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/sauce-labs-5m-series-c-funding/>
 

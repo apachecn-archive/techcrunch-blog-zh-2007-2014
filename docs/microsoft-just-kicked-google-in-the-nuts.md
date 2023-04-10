@@ -1,4 +1,4 @@
-# 谷歌重拳出击，微软以导弹回击 TechCrunch
+# 谷歌重拳出击，微软以导弹回击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/microsoft-just-kicked-google-in-the-nuts/>
 

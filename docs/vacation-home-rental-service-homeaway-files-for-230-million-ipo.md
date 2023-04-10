@@ -1,4 +1,4 @@
-# 度假房屋租赁服务 HomeAway 申请 2.3 亿美元 IPO TechCrunch
+# 度假房屋租赁服务 HomeAway 申请 2.3 亿美元 IPO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/11/vacation-home-rental-service-homeaway-files-for-230-million-ipo/>
 

@@ -1,4 +1,4 @@
-# 百思买 10 月 1 日将 HTC Flyer 平板电脑降价至 299 美元 TechCrunch
+# 百思买 10 月 1 日将 HTC Flyer 平板电脑降价至 299 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/best-buy-to-cut-the-htc-flyer-tablet-to-299-on-october-1st/>
 

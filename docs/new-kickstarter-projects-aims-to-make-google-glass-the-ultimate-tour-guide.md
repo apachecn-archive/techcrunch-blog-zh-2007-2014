@@ -1,4 +1,4 @@
-# 新的 Kickstarter 项目旨在让谷歌眼镜成为终极导游 TechCrunch
+# 新的 Kickstarter 项目旨在让谷歌眼镜成为终极导游 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/06/new-kickstarter-projects-aims-to-make-google-glass-the-ultimate-tour-guide/>
 

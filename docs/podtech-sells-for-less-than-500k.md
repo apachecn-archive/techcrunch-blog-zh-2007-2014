@@ -1,4 +1,4 @@
-# PodTech 售价不到 50 万美元 TechCrunch
+# PodTech 售价不到 50 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/17/podtech-sells-for-less-than-500k/>
 

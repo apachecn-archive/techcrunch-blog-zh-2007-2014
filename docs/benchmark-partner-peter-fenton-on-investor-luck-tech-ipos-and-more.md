@@ -1,4 +1,4 @@
-# 投资者运气、科技公司 IPO 等方面的基准合伙人彼得·芬顿 TechCrunch
+# 投资者运气、科技公司 IPO 等方面的基准合伙人彼得·芬顿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/03/benchmark-partner-peter-fenton-on-investor-luck-tech-ipos-and-more/>
 

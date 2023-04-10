@@ -1,4 +1,4 @@
-# 阿什顿·库彻，创始人基金以 775，000 美元投资“造型师 OpenTable”style seat TechCrunch
+# 阿什顿·库彻，创始人基金以 775，000 美元投资“造型师 OpenTable”style seat 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/15/ashton-kutcher-founders-fund-go-in-for-775k-on-opentable-for-stylists-styleseat/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=Google+Feedfetcher>
 

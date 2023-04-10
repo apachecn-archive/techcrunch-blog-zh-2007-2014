@@ -1,4 +1,4 @@
-# 12 邮件= 12 秒+推特+脸书+iPhone TechCrunch
+# 12 邮件= 12 秒+推特+脸书+iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/22/12mail-12seconds-twitter-facebook-iphone/>
 

@@ -1,4 +1,4 @@
-# 刚刚发生了什么？周四应该是宾日。TechCrunch
+# 刚刚发生了什么？周四应该是宾日。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/28/what-just-happened-thursday-was-supposed-to-be-bing-day/?awesm=tcrn.ch_2oM&utm_campaign=techcrunch&utm_content=techcrunch-autopost&utm_medium=tcrn.ch-twitter&utm_source=direct-tcrn.ch>
 

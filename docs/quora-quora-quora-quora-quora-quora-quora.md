@@ -1,4 +1,4 @@
-# Quora Backlash 迎头痛击 Quora Backlash Backlash TechCrunch
+# Quora Backlash 迎头痛击 Quora Backlash Backlash 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/quora-quora-quora-quora-quora-quora-quora/>
 

@@ -1,4 +1,4 @@
-# Doxie Go:无线扫描仪(大部分)切断电缆 TechCrunch
+# Doxie Go:无线扫描仪(大部分)切断电缆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/doxie-go-wireless-scanner-mostly-cuts-the-cord/>
 

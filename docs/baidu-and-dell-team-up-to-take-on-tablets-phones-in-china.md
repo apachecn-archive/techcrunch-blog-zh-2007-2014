@@ -1,4 +1,4 @@
-# 百度和戴尔联手进军中国平板电脑和手机市场 TechCrunch
+# 百度和戴尔联手进军中国平板电脑和手机市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/baidu-and-dell-team-up-to-take-on-tablets-phones-in-china/>
 

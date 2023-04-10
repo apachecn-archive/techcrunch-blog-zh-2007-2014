@@ -1,4 +1,4 @@
-# 瑞典寻宝者刚刚在海底发现了千年隼吗？TechCrunch
+# 瑞典寻宝者刚刚在海底发现了千年隼吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/have-swedish-treasure-hunters-just-discovered-the-millenium-falcon-on-the-sea-floor/>
 

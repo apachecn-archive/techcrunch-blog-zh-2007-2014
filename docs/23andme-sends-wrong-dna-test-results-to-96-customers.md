@@ -1,4 +1,4 @@
-# 23andMe 向 96 名客户发送了错误的 DNA 测试结果 TechCrunch
+# 23andMe 向 96 名客户发送了错误的 DNA 测试结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/07/23andme-sends-wrong-dna-test-results-to-96-customers/>
 

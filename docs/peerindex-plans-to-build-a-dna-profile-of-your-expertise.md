@@ -1,4 +1,4 @@
-# PeerIndex 计划建立您的专业知识的 DNA 档案 TechCrunch
+# PeerIndex 计划建立您的专业知识的 DNA 档案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/15/peerindex-plans-to-build-a-dna-profile-of-your-expertise/>
 

@@ -1,4 +1,4 @@
-# 如何成功“否定”脸书 TechCrunch
+# 如何成功“否定”脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/24/facebook-branch-snapchat/>
 

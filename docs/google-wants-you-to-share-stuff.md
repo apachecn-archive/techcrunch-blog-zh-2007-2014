@@ -1,4 +1,4 @@
-# 谷歌希望你分享东西 TechCrunch
+# 谷歌希望你分享东西 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/20/google-wants-you-to-share-stuff/>
 

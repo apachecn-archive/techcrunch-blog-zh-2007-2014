@@ -1,4 +1,4 @@
-# M5 和 Bluewolf 合作将 Salesforce 带入短信时代 TechCrunch
+# M5 和 Bluewolf 合作将 Salesforce 带入短信时代 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/m5-networks-and-bluewolf-partner-to-bring-salesforce-into-the-texting-era/>
 

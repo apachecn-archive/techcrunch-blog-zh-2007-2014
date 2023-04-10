@@ -1,4 +1,4 @@
-# 听喜欢的音乐时应该喝什么？问 Drinkify。TechCrunch
+# 听喜欢的音乐时应该喝什么？问 Drinkify。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/music-hacks-what-should-you-drink-while-listening-to-your-favorite-music-ask-drinkify/>
 

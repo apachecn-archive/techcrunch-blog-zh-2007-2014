@@ -1,4 +1,4 @@
-# 新雅虎！Mail 增加了短信功能 TechCrunch
+# 新雅虎！Mail 增加了短信功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/new-yahoo-mail-adds-text-messaging-feature/>
 

@@ -1,4 +1,4 @@
-# 你现在可以购买 Belkin 20 美元的 iPod shuffle 适配器 TechCrunch
+# 你现在可以购买 Belkin 20 美元的 iPod shuffle 适配器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/28/you-may-now-purchase-belkins-20-ipod-shuffle-adapter/>
 

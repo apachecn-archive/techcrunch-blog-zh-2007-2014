@@ -1,4 +1,4 @@
-# 25 岁生日快乐，光盘 TechCrunch
+# 25 岁生日快乐，光盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/happy-25th-birthday-compact-disc/>
 

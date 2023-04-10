@@ -1,4 +1,4 @@
-# Konami 代码再次来袭:脸书增加了一些亮点 TechCrunch
+# Konami 代码再次来袭:脸书增加了一些亮点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/08/the-konami-code-strikes-again-facebook-adds-some-flare/>
 

@@ -1,4 +1,4 @@
-# 当然不会，Tumblr 用户不会去雅虎！TechCrunch
+# 当然不会，Tumblr 用户不会去雅虎！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/18/hell-no-tumblr-users-wont-go-to-yahoo/>
 

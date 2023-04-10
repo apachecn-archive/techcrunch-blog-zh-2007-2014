@@ -1,4 +1,4 @@
-# 安全宝让互联网更安全、更快捷、更智能 TechCrunch
+# 安全宝让互联网更安全、更快捷、更智能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/anquanbao-makes-the-internet-safer-faster-and-more-intelligent/>
 

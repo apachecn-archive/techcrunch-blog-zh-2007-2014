@@ -1,4 +1,4 @@
-# 移动员工创业公司 Gigwalk Pivots 从诺基亚和其他人那里筹集了 1000 万美元 TechCrunch
+# 移动员工创业公司 Gigwalk Pivots 从诺基亚和其他人那里筹集了 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/mobile-workforce-startup-gigwalk-pivots-raises-10m-from-nokia-and-others/>
 

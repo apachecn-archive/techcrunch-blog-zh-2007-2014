@@ -1,4 +1,4 @@
-# 基于云的视频编辑器 WeVideo 向公众发布 TechCrunch
+# 基于云的视频编辑器 WeVideo 向公众发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/cloud-based-video-editor-wevideo-launches-to-public/>
 

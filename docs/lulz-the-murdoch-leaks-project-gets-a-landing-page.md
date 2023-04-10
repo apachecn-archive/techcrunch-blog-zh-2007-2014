@@ -1,4 +1,4 @@
-# Lulz？“默多克泄密项目”获得登陆页面 TechCrunch
+# Lulz？“默多克泄密项目”获得登陆页面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/lulz-the-murdoch-leaks-project-gets-a-landing-page/>
 

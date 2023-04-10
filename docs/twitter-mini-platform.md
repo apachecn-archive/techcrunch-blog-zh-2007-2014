@@ -1,4 +1,4 @@
-# Twitter 的新迷你平台:右侧窗格 TechCrunch
+# Twitter 的新迷你平台:右侧窗格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/15/twitter-mini-platform/>
 

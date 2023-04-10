@@ -1,4 +1,4 @@
-# 谢天谢地，甲骨文有了新对手 TechCrunch
+# 谢天谢地，甲骨文有了新对手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/01/oh-thank-god-oracle-has-a-new-rivalry/>
 

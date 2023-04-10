@@ -1,4 +1,4 @@
-# NTT DoCoMo 交易将 FlyScreen 带给数百万日本 Android 用户 TechCrunch
+# NTT DoCoMo 交易将 FlyScreen 带给数百万日本 Android 用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/24/ntt-docomo-deal-brings-flyscreen-to-millions-of-japanese-android-users/>
 

@@ -1,4 +1,4 @@
-# 必应用户点击广告的可能性比谷歌用户高 50%吗？TechCrunch
+# 必应用户点击广告的可能性比谷歌用户高 50%吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/are-bing-users-are-twice-as-likely-to-click-on-an-ad-than-google-users/>
 

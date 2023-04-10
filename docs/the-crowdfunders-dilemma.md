@@ -1,4 +1,4 @@
-# 众筹的困境 TechCrunch
+# 众筹的困境 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/22/the-crowdfunders-dilemma/>
 

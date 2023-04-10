@@ -1,4 +1,4 @@
-# 脸书分析平台 Kontagent 现在追踪 1 亿用户；每月 150 万条消息 TechCrunch
+# 脸书分析平台 Kontagent 现在追踪 1 亿用户；每月 150 万条消息 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/facebook-analytics-platform-kontagent-now-tracking-100m-users-15b-messages-per-month/>
 

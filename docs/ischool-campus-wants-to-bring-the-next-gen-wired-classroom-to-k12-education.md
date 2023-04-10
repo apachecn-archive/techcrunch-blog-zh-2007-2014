@@ -1,4 +1,4 @@
-# iSchool 校园希望将下一代有线教室引入 K12 教育 TechCrunch
+# iSchool 校园希望将下一代有线教室引入 K12 教育 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/28/ischool-campus-wants-to-bring-the-next-gen-wired-classroom-to-k12-education/>
 

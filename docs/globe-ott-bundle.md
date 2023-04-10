@@ -1,4 +1,4 @@
-# 菲律宾电信将包括 Facebook Messenger 和 WhatsApp 在内的六款消息应用整合为一个无限制访问数据包 TechCrunch
+# 菲律宾电信将包括 Facebook Messenger 和 WhatsApp 在内的六款消息应用整合为一个无限制访问数据包 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/23/globe-ott-bundle/>
 

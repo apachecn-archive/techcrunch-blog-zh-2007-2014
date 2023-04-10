@@ -1,4 +1,4 @@
-# NSFW:在 Twitter 上扮演刽子手 TechCrunch
+# NSFW:在 Twitter 上扮演刽子手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/07/abundans-cautela-non-nocet/>
 

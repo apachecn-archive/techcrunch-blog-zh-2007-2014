@@ -1,4 +1,4 @@
-# Windows Live 专注于基本功能(Hotmail 和 Messenger)TechCrunch
+# Windows Live 专注于基本功能(Hotmail 和 Messenger)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/windows-live-essentials-hotmail-messenger/>
 

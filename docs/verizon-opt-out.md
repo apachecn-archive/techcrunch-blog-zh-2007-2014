@@ -1,4 +1,4 @@
-# 威瑞森欢迎用户选择退出广告定向派对 TechCrunch
+# 威瑞森欢迎用户选择退出广告定向派对 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/verizon-opt-out/>
 

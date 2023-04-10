@@ -1,4 +1,4 @@
-# 上帝是不是忙到没时间看你的微博了？显然不是。TechCrunch
+# 上帝是不是忙到没时间看你的微博了？显然不是。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/is-god-too-busy-to-read-your-tweets-apparently-not/>
 

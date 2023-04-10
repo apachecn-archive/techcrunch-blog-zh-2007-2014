@@ -1,4 +1,4 @@
-# DocStoc 翻开了新的一页，因为它看起来是小企业知识的一站式商店 TechCrunch
+# DocStoc 翻开了新的一页，因为它看起来是小企业知识的一站式商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/05/docstoc-turns-a-page-as-it-looks-to-be-a-one-stop-shop-for-small-business-knowledge/>
 

@@ -1,4 +1,4 @@
-# 谷歌的雷达上的 Expedia？TechCrunch
+# 谷歌的雷达上的 Expedia？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/02/expedia-on-googles-radar/>
 

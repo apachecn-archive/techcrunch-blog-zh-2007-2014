@@ -1,4 +1,4 @@
-# 基于位置的问答平台 Localmind 融资 60 万美元 TechCrunch
+# 基于位置的问答平台 Localmind 融资 60 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/location-based-qa-platform-localmind-raises-600k/>
 

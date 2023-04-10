@@ -1,4 +1,4 @@
-# 想要在你的应用中获得更多隐私？Wickr 将其加密、自毁技术转售给其他应用程序 TechCrunch
+# 想要在你的应用中获得更多隐私？Wickr 将其加密、自毁技术转售给其他应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/want-more-privacy-in-your-app-wickr-now-resells-its-encryption-and-self-destructing-technology/>
 

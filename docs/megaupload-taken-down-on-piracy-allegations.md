@@ -1,4 +1,4 @@
-# Megaupload 因盗版指控被关闭 TechCrunch
+# Megaupload 因盗版指控被关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/19/megaupload-taken-down-on-piracy-allegations/>
 

@@ -1,4 +1,4 @@
-# “云是新的互联网”(视频集锦)TechCrunch
+# “云是新的互联网”(视频集锦)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/03/01/the-cloud-is-the-new-dotcom-video-highlights/>
 

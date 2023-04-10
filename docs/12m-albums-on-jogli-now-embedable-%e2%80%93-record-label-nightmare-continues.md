@@ -1,4 +1,4 @@
-# Jogli 上的 1200 万张专辑现已嵌入——唱片公司的噩梦仍在继续 TechCrunch
+# Jogli 上的 1200 万张专辑现已嵌入——唱片公司的噩梦仍在继续 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/21/12m-albums-on-jogli-now-embedable-%e2%80%93-record-label-nightmare-continues/>
 

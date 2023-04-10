@@ -1,4 +1,4 @@
-# 谷歌团队成员将使用面部识别识别伦敦骚乱者 TechCrunch
+# 谷歌团队成员将使用面部识别识别伦敦骚乱者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/google-group-members-to-use-facial-recognition-to-identify-london-rioter/>
 

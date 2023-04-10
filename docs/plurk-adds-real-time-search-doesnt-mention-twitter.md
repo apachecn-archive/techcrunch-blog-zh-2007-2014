@@ -1,4 +1,4 @@
-# Plurk 增加了实时搜索。没有提到推特。TechCrunch
+# Plurk 增加了实时搜索。没有提到推特。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/04/plurk-adds-real-time-search-doesnt-mention-twitter/>
 

@@ -1,4 +1,4 @@
-# Accel 在葡萄酒和美食的快闪销售网站中领先 3000 万美元 18 TechCrunch
+# Accel 在葡萄酒和美食的快闪销售网站中领先 3000 万美元 18 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/accel-leads-30m-round-in-flash-sales-site-for-wine-and-gourmet-food-lot18/>
 

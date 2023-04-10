@@ -1,4 +1,4 @@
-# Sprint:是的，关于我们宣布的 4G 黑莓 Playbook？不会发生的。TechCrunch
+# Sprint:是的，关于我们宣布的 4G 黑莓 Playbook？不会发生的。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/rim-sprint-4g-playbook-cancelled/>
 

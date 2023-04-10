@@ -1,4 +1,4 @@
-# CyberHomes 从测试版中脱颖而出，声称拥有更好的房地产数据 TechCrunch
+# CyberHomes 从测试版中脱颖而出，声称拥有更好的房地产数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/11/cyberhomes-emerges-from-beta-with-claims-of-better-real-estate-data/>
 

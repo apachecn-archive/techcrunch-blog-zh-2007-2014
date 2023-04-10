@@ -1,4 +1,4 @@
-# 中国“取缔”VoIP，创建 VoIP 举报热线 TechCrunch
+# 中国“取缔”VoIP，创建 VoIP 举报热线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/31/china-outlaws-voip-creates-voip-reporting-hotline/>
 

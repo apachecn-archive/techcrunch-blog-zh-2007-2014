@@ -1,4 +1,4 @@
-# 技术工作网站 Dice 报告短缺。NET 开发人员 TechCrunch
+# 技术工作网站 Dice 报告短缺。NET 开发人员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/tech-job-site-dice-reports-shortage-of-net-developers/>
 

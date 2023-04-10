@@ -1,4 +1,4 @@
-# Pinterest 登上创业之巅的不太可能的旅程 TechCrunch
+# Pinterest 登上创业之巅的不太可能的旅程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/08/pinterest-startup-mountain/>
 

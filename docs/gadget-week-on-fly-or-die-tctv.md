@@ -1,4 +1,4 @@
-# 科技博客 TechCrunch
+# 科技博客 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/04/gadget-week-on-fly-or-die-tctv/>
 

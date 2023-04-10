@@ -1,4 +1,4 @@
-# 苹果的强大鼠标从来都名不副实。现在不行了。TechCrunch
+# 苹果的强大鼠标从来都名不副实。现在不行了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/07/apples-mighty-mouse-never-lived-up-to-its-name-and-now-it-cant/>
 

@@ -1,4 +1,4 @@
-# 长期在谷歌工作的全国媒体销售主管 Russ Laraway 加入 Twitter TechCrunch
+# 长期在谷歌工作的全国媒体销售主管 Russ Laraway 加入 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/25/longtime-googler-russ-laraway-lead-of-national-media-sales-joins-twitter/>
 

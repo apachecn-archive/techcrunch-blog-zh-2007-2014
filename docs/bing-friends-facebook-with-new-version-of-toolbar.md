@@ -1,4 +1,4 @@
-# 必应好友脸书拥有新版工具栏 TechCrunch
+# 必应好友脸书拥有新版工具栏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/17/bing-friends-facebook-with-new-version-of-toolbar/>
 

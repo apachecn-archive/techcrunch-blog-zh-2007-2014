@@ -1,4 +1,4 @@
-# 微软的创意大熔炉:从 Kinect、Bing 和 Killing The Blue Screen Of Death，到可以学习的代码、可以保存的像素和从 DNA 中提取的药物 TechCrunch
+# 微软的创意大熔炉:从 Kinect、Bing 和 Killing The Blue Screen Of Death，到可以学习的代码、可以保存的像素和从 DNA 中提取的药物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/17/inside-microsofts-cauldron-of-ideas-from-kinect-bing-and-killing-the-blue-screen-of-death-to-code-that-can-learn-pixels-you-can-hold-and-drugs-compiled-from-dna/>
 

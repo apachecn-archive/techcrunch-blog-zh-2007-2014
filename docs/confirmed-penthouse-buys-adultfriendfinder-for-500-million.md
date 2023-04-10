@@ -1,4 +1,4 @@
-# 已证实:Penthouse 以 5 亿美元收购 adult friend finder TechCrunch
+# 已证实:Penthouse 以 5 亿美元收购 adult friend finder 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/11/confirmed-penthouse-buys-adultfriendfinder-for-500-million/>
 

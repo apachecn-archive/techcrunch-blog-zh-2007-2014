@@ -1,4 +1,4 @@
-# 霍尼韦尔 vs Nest:当权势集团起诉硅谷 TechCrunch
+# 霍尼韦尔 vs Nest:当权势集团起诉硅谷 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/07/honeywell-vs-nest-when-the-establishment-sues-silicon-valley/>
 

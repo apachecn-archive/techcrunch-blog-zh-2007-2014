@@ -1,4 +1,4 @@
-# 威瑞森正式推出世界上最薄的智能手机:摩托罗拉 Droid RAZR TechCrunch
+# 威瑞森正式推出世界上最薄的智能手机:摩托罗拉 Droid RAZR 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/verizon-officially-unveils-the-motorola-droid-razr/>
 

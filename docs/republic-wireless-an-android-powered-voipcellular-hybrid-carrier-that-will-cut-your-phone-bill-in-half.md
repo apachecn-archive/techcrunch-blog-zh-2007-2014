@@ -1,4 +1,4 @@
-# Republic Wireless:Android 驱动的 VoIP/蜂窝混合运营商，将使您的电话账单减少一半 TechCrunch
+# Republic Wireless:Android 驱动的 VoIP/蜂窝混合运营商，将使您的电话账单减少一半 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/republic-wireless-an-android-powered-voipcellular-hybrid-carrier-that-will-cut-your-phone-bill-in-half/>
 

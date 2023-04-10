@@ -1,4 +1,4 @@
-# 签到疲劳。或者，为什么我支持一场全面的定位战。TechCrunch
+# 签到疲劳。或者，为什么我支持一场全面的定位战。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/19/check-in-fatigue-location-war/>
 

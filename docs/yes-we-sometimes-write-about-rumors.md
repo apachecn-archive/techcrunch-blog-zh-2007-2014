@@ -1,4 +1,4 @@
-# 这是谣言星期天！苹果一直在迎合 DIY 指南应用 snap Guide TechCrunch
+# 这是谣言星期天！苹果一直在迎合 DIY 指南应用 snap Guide 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/09/yes-we-sometimes-write-about-rumors/>
 

@@ -1,4 +1,4 @@
-# 雅虎中国将关闭其音乐网站 TechCrunch
+# 雅虎中国将关闭其音乐网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/yahoo-china-will-shutter-its-music-website/>
 

@@ -1,4 +1,4 @@
-# trv 筹集了 680 万美元，让富人能够列举、调查和发现他们成堆的东西中隐藏的价值 TechCrunch
+# trv 筹集了 680 万美元，让富人能够列举、调查和发现他们成堆的东西中隐藏的价值 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/trov-raises-6-8m-to-empower-the-rich-itemize-survey-and-find-hidden-value-in-their-heaps-of-stuff/>
 

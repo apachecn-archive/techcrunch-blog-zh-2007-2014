@@ -1,4 +1,4 @@
-# CloudFlare 透露来自 Union Square Ventures 的 5000 万美元融资 TechCrunch
+# CloudFlare 透露来自 Union Square Ventures 的 5000 万美元融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/17/cloudflare-reveals-50m-round-from-union-square-ventures/>
 

@@ -1,4 +1,4 @@
-# CabEasy 希望让陌生人以半价搭出租车 TechCrunch
+# CabEasy 希望让陌生人以半价搭出租车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/28/cabeasy-looks-to-pair-off-strangers-for-half-priced-taxi-fares/>
 

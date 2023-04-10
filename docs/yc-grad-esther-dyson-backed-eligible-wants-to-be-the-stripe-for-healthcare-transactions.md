@@ -1,4 +1,4 @@
-# YC 大学毕业生和埃丝特·戴森支持的合格人员希望成为医疗保健交易的一员 TechCrunch
+# YC 大学毕业生和埃丝特·戴森支持的合格人员希望成为医疗保健交易的一员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/22/yc-grad-esther-dyson-backed-eligible-wants-to-be-the-stripe-for-healthcare-transactions/>
 

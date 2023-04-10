@@ -1,4 +1,4 @@
-# 任务管理解决方案问题 Burner 看到商业版本 TechCrunch
+# 任务管理解决方案问题 Burner 看到商业版本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/task-management-solution-issueburner-sees-commercial-release/>
 

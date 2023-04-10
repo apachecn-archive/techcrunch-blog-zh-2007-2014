@@ -1,4 +1,4 @@
-# 华为表示，安全问题将阻碍美国的增长，但它仍然预计欧洲和亚洲的牵引力 TechCrunch
+# 华为表示，安全问题将阻碍美国的增长，但它仍然预计欧洲和亚洲的牵引力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/huawei-says-security-concerns-will-hinder-u-s-growth-but-it-still-expects-traction-in-europe-and-asia/>
 

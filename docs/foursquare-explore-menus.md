@@ -1,4 +1,4 @@
-# Foursquare 增加餐厅菜单，食物签到怎么办？TechCrunch
+# Foursquare 增加餐厅菜单，食物签到怎么办？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/18/foursquare-explore-menus/>
 

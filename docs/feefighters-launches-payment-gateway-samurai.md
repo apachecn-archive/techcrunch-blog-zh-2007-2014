@@ -1,4 +1,4 @@
-# FeeFighters 推出支付网关 Samurai TechCrunch
+# FeeFighters 推出支付网关 Samurai 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/feefighters-launches-payment-gateway-samurai/>
 

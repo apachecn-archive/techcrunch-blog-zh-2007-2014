@@ -1,4 +1,4 @@
-# 《今夜酒店》面临欧洲最新酒店应用克隆的攻击 TechCrunch
+# 《今夜酒店》面临欧洲最新酒店应用克隆的攻击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/07/hotel-tonight-faces-an-attack-of-the-last-minute-hotel-app-clones-in-europe/>
 

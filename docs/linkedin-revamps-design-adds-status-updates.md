@@ -1,4 +1,4 @@
-# LinkedIn 改进设计，增加状态更新 TechCrunch
+# LinkedIn 改进设计，增加状态更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/27/linkedin-revamps-design-adds-status-updates/>
 

@@ -1,4 +1,4 @@
-# 印度能创造 1000 亿美元的软件产品产业吗？TechCrunch
+# 印度能创造 1000 亿美元的软件产品产业吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/04/can-india-create-100b-software-products-industry/>
 

@@ -1,4 +1,4 @@
-# 谷歌测试在搜索结果中点击“添加到圈子”按钮 TechCrunch
+# 谷歌测试在搜索结果中点击“添加到圈子”按钮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/google-tests-one-click-add-to-circles-button-in-search-results/>
 

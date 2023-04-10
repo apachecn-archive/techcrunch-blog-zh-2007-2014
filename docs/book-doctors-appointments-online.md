@@ -1,4 +1,4 @@
-# 实践融合启动医生预约并审查网站患者融合 TechCrunch
+# 实践融合启动医生预约并审查网站患者融合 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/08/book-doctors-appointments-online/>
 

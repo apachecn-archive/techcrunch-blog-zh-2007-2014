@@ -1,4 +1,4 @@
-# AIM 现在更快、更好、更流畅 TechCrunch
+# AIM 现在更快、更好、更流畅 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/aim-is-now-faster-better-more-streamy/>
 

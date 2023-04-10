@@ -1,4 +1,4 @@
-# 索尼 Playstation Vita 将于 12 月 17 日登陆日本 TechCrunch
+# 索尼 Playstation Vita 将于 12 月 17 日登陆日本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/sonys-playstation-vita-to-hit-japan-on-december-17/>
 

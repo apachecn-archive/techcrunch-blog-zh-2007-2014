@@ -1,4 +1,4 @@
-# 谷歌阅读器进行全面检查，删除你的朋友 TechCrunch
+# 谷歌阅读器进行全面检查，删除你的朋友 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/google-reader-getting-overhauled-removing-your-friends/>
 

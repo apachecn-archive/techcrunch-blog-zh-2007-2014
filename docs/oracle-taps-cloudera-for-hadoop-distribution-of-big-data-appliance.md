@@ -1,4 +1,4 @@
-# Oracle 利用 Cloudera 发布大数据设备的 Hadoop 版本 TechCrunch
+# Oracle 利用 Cloudera 发布大数据设备的 Hadoop 版本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/10/oracle-taps-cloudera-for-hadoop-distribution-of-big-data-appliance/>
 

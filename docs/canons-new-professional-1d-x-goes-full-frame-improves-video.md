@@ -1,4 +1,4 @@
-# 佳能新款专业 1D X 采用全画幅，改善视频质量 TechCrunch
+# 佳能新款专业 1D X 采用全画幅，改善视频质量 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/canons-new-professional-1d-x-goes-full-frame-improves-video/>
 

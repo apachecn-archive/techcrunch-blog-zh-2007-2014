@@ -1,4 +1,4 @@
-# 点评:Tokyoflash Tibida 手表 TechCrunch
+# 点评:Tokyoflash Tibida 手表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/03/review-tokyoflash-tibida-watch/>
 

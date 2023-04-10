@@ -1,4 +1,4 @@
-# 谷歌地球驶向星空 TechCrunch
+# 谷歌地球驶向星空 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/22/google-earth-heads-for-the-stars/>
 

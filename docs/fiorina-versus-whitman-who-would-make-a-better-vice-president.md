@@ -1,4 +1,4 @@
-# 菲奥莉娜与惠特曼:谁会成为更好的副总统？TechCrunch
+# 菲奥莉娜与惠特曼:谁会成为更好的副总统？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/29/fiorina-versus-whitman-who-would-make-a-better-vice-president/>
 

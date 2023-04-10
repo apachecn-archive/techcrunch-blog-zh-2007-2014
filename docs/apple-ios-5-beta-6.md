@@ -1,4 +1,4 @@
-# 苹果向开发者发布 iOS 5 Beta 6 TechCrunch
+# 苹果向开发者发布 iOS 5 Beta 6 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/apple-ios-5-beta-6/>
 

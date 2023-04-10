@@ -1,4 +1,4 @@
-# 现在安卓系统的免费应用比 iPhone 多:Distimo TechCrunch
+# 现在安卓系统的免费应用比 iPhone 多:Distimo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/27/there-are-now-more-free-apps-for-android-than-for-the-ios-platform-distimo/>
 

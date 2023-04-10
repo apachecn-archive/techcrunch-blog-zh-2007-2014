@@ -1,4 +1,4 @@
-# 纳文·贾恩的因特留斯骗局开始瓦解。很好。TechCrunch
+# 纳文·贾恩的因特留斯骗局开始瓦解。很好。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/18/naveen-jains-intelius-begins-to-crumble-good/>
 

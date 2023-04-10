@@ -1,4 +1,4 @@
-# Go28Days:我保证永远不会使用的网站 TechCrunch
+# Go28Days:我保证永远不会使用的网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/24/go28days-a-site-i-guarantee-ill-never-use/>
 

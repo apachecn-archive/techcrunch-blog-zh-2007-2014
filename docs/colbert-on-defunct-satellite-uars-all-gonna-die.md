@@ -1,4 +1,4 @@
-# 废弃卫星上的科尔伯特:“UARS 都会死！”TechCrunch
+# 废弃卫星上的科尔伯特:“UARS 都会死！”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/colbert-on-defunct-satellite-uars-all-gonna-die/>
 

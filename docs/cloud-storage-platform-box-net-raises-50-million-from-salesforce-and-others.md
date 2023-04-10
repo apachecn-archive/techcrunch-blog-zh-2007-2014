@@ -1,4 +1,4 @@
-# 云存储平台 Box.net 从 Salesforce 和其他公司筹得 5000 万美元 TechCrunch
+# 云存储平台 Box.net 从 Salesforce 和其他公司筹得 5000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/cloud-storage-platform-box-net-raises-50-million-from-salesforce-and-others/>
 

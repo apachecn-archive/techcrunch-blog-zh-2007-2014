@@ -1,4 +1,4 @@
-# Linux Foundation、Canonical 和 Red Hat 对安全启动进行了评估 TechCrunch
+# Linux Foundation、Canonical 和 Red Hat 对安全启动进行了评估 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/linux-foundation-canonical-and-red-hat-weigh-in-on-secure-boot/>
 

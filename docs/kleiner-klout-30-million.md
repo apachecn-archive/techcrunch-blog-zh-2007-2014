@@ -1,4 +1,4 @@
-# 凯鹏华盈领投 Klout 最新一轮“3000 万美元”融资 TechCrunch
+# 凯鹏华盈领投 Klout 最新一轮“3000 万美元”融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/kleiner-klout-30-million/>
 

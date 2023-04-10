@@ -1,4 +1,4 @@
-# 麦凯恩对雅虎在中国的行为感到尴尬；也叫谷歌到垫子上 TechCrunch
+# 麦凯恩对雅虎在中国的行为感到尴尬；也叫谷歌到垫子上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/12/mccain-embarrassed-by-yahoo%e2%80%99s-actions-in-china-also-calls-google-to-the-mat/>
 

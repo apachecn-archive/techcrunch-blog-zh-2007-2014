@@ -1,4 +1,4 @@
-# Jibe Mobile 筹集 830 万美元发展其基于云的应用程序开发平台——希望教会运营商如何在全 IP 世界中取胜 TechCrunch
+# Jibe Mobile 筹集 830 万美元发展其基于云的应用程序开发平台——希望教会运营商如何在全 IP 世界中取胜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/11/jibe-mobile-raises-8-3m/>
 

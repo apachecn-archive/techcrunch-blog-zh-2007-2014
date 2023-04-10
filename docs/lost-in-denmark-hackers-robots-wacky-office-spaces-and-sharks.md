@@ -1,4 +1,4 @@
-# 迷失在丹麦:黑客、机器人、古怪的办公空间和鲨鱼 TechCrunch
+# 迷失在丹麦:黑客、机器人、古怪的办公空间和鲨鱼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/04/lost-in-denmark-hackers-robots-wacky-office-spaces-and-sharks/>
 

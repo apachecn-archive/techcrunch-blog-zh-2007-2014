@@ -1,4 +1,4 @@
-# LivingSocial 售出 100 万张亚马逊礼品卡，卡值 2000 万美元 TechCrunch
+# LivingSocial 售出 100 万张亚马逊礼品卡，卡值 2000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/19/livingsocial-hits-a-million-amazon-gift-cards-sold-20-million-in-card-value/>
 

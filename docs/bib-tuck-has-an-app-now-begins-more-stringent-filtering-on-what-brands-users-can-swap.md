@@ -1,4 +1,4 @@
-# Bib + Tuck 现在有一个应用程序，开始对用户可以交换的品牌进行更严格的过滤 TechCrunch
+# Bib + Tuck 现在有一个应用程序，开始对用户可以交换的品牌进行更严格的过滤 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/26/bib-tuck-has-an-app-now-begins-more-stringent-filtering-on-what-brands-users-can-swap/>
 

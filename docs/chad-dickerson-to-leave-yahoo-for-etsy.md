@@ -1,4 +1,4 @@
-# 查德·迪克森将离开雅虎加盟 Etsy TechCrunch
+# 查德·迪克森将离开雅虎加盟 Etsy 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/22/chad-dickerson-to-leave-yahoo-for-etsy/>
 

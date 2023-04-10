@@ -1,4 +1,4 @@
-# 你最喜欢的视频游戏主题曲是由一支奇怪的乐队创作的 TechCrunch
+# 你最喜欢的视频游戏主题曲是由一支奇怪的乐队创作的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/your-favorite-video-game-theme-songs-done-by-an-entire-freaking-orchestra/>
 

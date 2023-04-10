@@ -1,4 +1,4 @@
-# 在谷歌 2012 年第四季度 144.2 亿美元的收入中，摩托罗拉移动贡献了 15.1 亿美元 TechCrunch
+# 在谷歌 2012 年第四季度 144.2 亿美元的收入中，摩托罗拉移动贡献了 15.1 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/22/motorola-mobility-generated-1-51-billion-in-revenue-for-google-in-q4-2012/>
 

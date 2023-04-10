@@ -1,4 +1,4 @@
-# BillToMobile Lands 与 T-Mobile 达成交易，现在与美国四大运营商有直接关系 TechCrunch
+# BillToMobile Lands 与 T-Mobile 达成交易，现在与美国四大运营商有直接关系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/billtomobile-lands-deal-with-t-mobile-now-has-direct-relationships-with-the-top-4-u-s-carriers/>
 

@@ -1,4 +1,4 @@
-# Codecademy 的 CodeYear 在 48 小时内吸引了 100，000 名有抱负的程序员 TechCrunch
+# Codecademy 的 CodeYear 在 48 小时内吸引了 100，000 名有抱负的程序员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/codecademys-codeyear-attracts-100000-aspiring-programmers-in-48-hours/>
 

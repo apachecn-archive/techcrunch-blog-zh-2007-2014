@@ -1,4 +1,4 @@
-# 法国软件公司 Qosmos 向€融资 2000 万 TechCrunch
+# 法国软件公司 Qosmos 向€融资 2000 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/french-software-company-qosmos-raises-e20-million/>
 

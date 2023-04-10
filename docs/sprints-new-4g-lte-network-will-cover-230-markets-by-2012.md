@@ -1,4 +1,4 @@
-# 到 2013 年，Sprint 新的 4G LTE 网络将覆盖 260 个市场 TechCrunch
+# 到 2013 年，Sprint 新的 4G LTE 网络将覆盖 260 个市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/sprints-new-4g-lte-network-will-cover-230-markets-by-2012/>
 

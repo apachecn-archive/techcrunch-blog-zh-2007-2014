@@ -1,4 +1,4 @@
-# 这款小巧便携的笔记本电脑支架将最终修正您的姿势 TechCrunch
+# 这款小巧便携的笔记本电脑支架将最终修正您的姿势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/05/roost-laptop-stand/>
 

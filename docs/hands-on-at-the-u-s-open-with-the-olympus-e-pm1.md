@@ -1,4 +1,4 @@
-# 动手操作:在美国公开赛上使用奥林巴斯电子 PM1 TechCrunch
+# 动手操作:在美国公开赛上使用奥林巴斯电子 PM1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/hands-on-at-the-u-s-open-with-the-olympus-e-pm1/>
 

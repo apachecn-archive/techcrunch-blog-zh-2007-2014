@@ -1,4 +1,4 @@
-# Siri-Creator SRI 的最新项目:智能银行助理 Lola TechCrunch
+# Siri-Creator SRI 的最新项目:智能银行助理 Lola 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/26/sri-lola-intelligent-banking-assistant/>
 

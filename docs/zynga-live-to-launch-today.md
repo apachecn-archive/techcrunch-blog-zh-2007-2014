@@ -1,4 +1,4 @@
-# Zynga 的独立游戏网络“Z 计划”今天宣布 TechCrunch
+# Zynga 的独立游戏网络“Z 计划”今天宣布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/11/zynga-live-to-launch-today/>
 

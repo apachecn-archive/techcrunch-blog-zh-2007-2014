@@ -1,4 +1,4 @@
-# 觉得巴茨回答不了雅虎是什么？听听鲍尔默试图回答你为什么应该在微软工作。TechCrunch
+# 觉得巴茨回答不了雅虎是什么？听听鲍尔默试图回答你为什么应该在微软工作。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/15/think-bartz-cant-answer-what-yahoo-is-listen-to-ballmer-try-to-answer-why-you-should-work-at-microsoft/>
 

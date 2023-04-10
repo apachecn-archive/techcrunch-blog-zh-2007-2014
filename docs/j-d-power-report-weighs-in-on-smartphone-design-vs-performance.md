@@ -1,4 +1,4 @@
-# J.D. Power 报告强调智能手机设计与性能 TechCrunch
+# J.D. Power 报告强调智能手机设计与性能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/j-d-power-report-weighs-in-on-smartphone-design-vs-performance/>
 

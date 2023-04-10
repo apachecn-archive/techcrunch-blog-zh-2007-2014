@@ -1,4 +1,4 @@
-# 多了 Flash，谷歌是不是要割掉 HTML5 的鼻子来刁难苹果的脸？TechCrunch
+# 多了 Flash，谷歌是不是要割掉 HTML5 的鼻子来刁难苹果的脸？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/29/google-flash-apple/>
 

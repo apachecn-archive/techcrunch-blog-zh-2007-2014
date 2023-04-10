@@ -1,4 +1,4 @@
-# PayPal 向 15 家全国性零售商推广，宣布与 6 家顶级 POS 软件和终端制造商达成交易 TechCrunch
+# PayPal 向 15 家全国性零售商推广，宣布与 6 家顶级 POS 软件和终端制造商达成交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/25/paypal-rolls-out-to-15-more-national-retailers-announces-deals-with-6-top-pos-software-terminal-makers/>
 

@@ -1,4 +1,4 @@
-# 带来平台战争！TechCrunch
+# 带来平台战争！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/09/bring-on-the-platform-wars/>
 

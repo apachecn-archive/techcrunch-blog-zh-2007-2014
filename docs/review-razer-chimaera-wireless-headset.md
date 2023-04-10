@@ -1,4 +1,4 @@
-# 点评:Razer Chimaera 无线耳机 TechCrunch
+# 点评:Razer Chimaera 无线耳机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/review-razer-chimaera-wireless-headset/>
 

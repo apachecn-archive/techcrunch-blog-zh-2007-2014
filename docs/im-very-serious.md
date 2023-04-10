@@ -1,4 +1,4 @@
-# 停下来。你们都疯了！WebOS 比 Android 好！TechCrunch
+# 停下来。你们都疯了！WebOS 比 Android 好！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/im-very-serious/>
 

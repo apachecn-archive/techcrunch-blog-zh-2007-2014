@@ -1,4 +1,4 @@
-# 这个网站会告诉你投票给谁 TechCrunch
+# 这个网站会告诉你投票给谁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/22/this-website-will-tell-you-who-to-vote-for/>
 

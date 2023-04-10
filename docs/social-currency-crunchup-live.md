@@ -1,4 +1,4 @@
-# 社交货币 crunch up Live TechCrunch
+# 社交货币 crunch up Live 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/30/social-currency-crunchup-live/>
 

@@ -1,4 +1,4 @@
-# RadioShack 将于 10 月 3 日开始销售 Nook 和 Nook 配件 TechCrunch
+# RadioShack 将于 10 月 3 日开始销售 Nook 和 Nook 配件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/radioshack-to-start-selling-the-nook-and-nook-accessories-on-october-3rd/>
 

@@ -1,4 +1,4 @@
-# 网飞与 Miramax 达成拉丁美洲用户国际许可协议 TechCrunch
+# 网飞与 Miramax 达成拉丁美洲用户国际许可协议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/netflix-expands-licensing-deal-with-miramax-for-latin-american-subscribers/>
 

@@ -1,4 +1,4 @@
-# Kindle Fire 有 WiFi 问题？TechCrunch
+# Kindle Fire 有 WiFi 问题？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/kindle-fire-having-wifi-issues/>
 

@@ -1,4 +1,4 @@
-# 联邦政府又从 Mt. Gox 没收了 210 万美元，总计 500 万美元 TechCrunch
+# 联邦政府又从 Mt. Gox 没收了 210 万美元，总计 500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/23/feds-seize-another-2-1-million-from-mt-gox-adding-up-to-5-million/>
 

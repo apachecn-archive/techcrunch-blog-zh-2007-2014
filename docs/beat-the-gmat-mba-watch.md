@@ -1,4 +1,4 @@
-# 击败 GMAT 推出 MBA Watch，这是一个面向 MBA 的社交网络 TechCrunch
+# 击败 GMAT 推出 MBA Watch，这是一个面向 MBA 的社交网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/beat-the-gmat-mba-watch/>
 

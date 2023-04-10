@@ -1,4 +1,4 @@
-# Practice Fusion 获得 Artis 领导的 3400 万美元 C 轮融资，击败其他电子医疗唱片初创公司 TechCrunch
+# Practice Fusion 获得 Artis 领导的 3400 万美元 C 轮融资，击败其他电子医疗唱片初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/28/practice-fusion/>
 

@@ -1,4 +1,4 @@
-# 社交网络的世界地图显示脸书日益增长的统治地位 TechCrunch
+# 社交网络的世界地图显示脸书日益增长的统治地位 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/10/world-map-of-social-networks-shows-facebooks-ever-increasing-dominance/>
 

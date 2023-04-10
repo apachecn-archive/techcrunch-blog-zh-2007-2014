@@ -1,4 +1,4 @@
-# 谷歌正在商讨以 5 亿美元或更高价格收购 Yelp TechCrunch
+# 谷歌正在商讨以 5 亿美元或更高价格收购 Yelp 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/17/google-acquire-buy-yelp/>
 

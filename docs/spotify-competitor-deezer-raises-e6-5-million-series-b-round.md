@@ -1,4 +1,4 @@
-# Spotify 的竞争对手 Deezer 为€融资 650 万美元 B 轮 TechCrunch
+# Spotify 的竞争对手 Deezer 为€融资 650 万美元 B 轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/12/spotify-competitor-deezer-raises-e6-5-million-series-b-round/>
 

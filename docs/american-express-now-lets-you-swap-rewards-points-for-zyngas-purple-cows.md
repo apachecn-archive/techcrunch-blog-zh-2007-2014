@@ -1,4 +1,4 @@
-# 美国运通现在允许你用积分兑换 Zynga 的紫色奶牛 TechCrunch
+# 美国运通现在允许你用积分兑换 Zynga 的紫色奶牛 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/30/american-express-now-lets-you-swap-rewards-points-for-zyngas-purple-cows/>
 

@@ -1,4 +1,4 @@
-# SV Angel:“我们不会放过老企业家”TechCrunch
+# SV Angel:“我们不会放过老企业家”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/03/svangel-peak-age-old-entrpreneurs/>
 

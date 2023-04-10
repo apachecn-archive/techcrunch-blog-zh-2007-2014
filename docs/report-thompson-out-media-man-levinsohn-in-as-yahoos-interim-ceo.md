@@ -1,4 +1,4 @@
-# 报道:汤普森出局，媒体人莱文森接任雅虎临时 CEO TechCrunch
+# 报道:汤普森出局，媒体人莱文森接任雅虎临时 CEO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/13/report-thompson-out-media-man-levinsohn-in-as-yahoos-interim-ceo/>
 

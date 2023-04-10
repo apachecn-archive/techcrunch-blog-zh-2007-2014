@@ -1,4 +1,4 @@
-# 如何构建基于 Raspberry Pi 的比特币挖矿平台 TechCrunch
+# 如何构建基于 Raspberry Pi 的比特币挖矿平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/13/how-to-build-a-raspberry-pi-based-bitcoin-mining-rig/>
 

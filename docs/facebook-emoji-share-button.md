@@ -1,4 +1,4 @@
-# 脸书在信息中添加表情符号，在线好友标记，iOS 和 Android 应用更新中的分享按钮 TechCrunch
+# 脸书在信息中添加表情符号，在线好友标记，iOS 和 Android 应用更新中的分享按钮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/facebook-emoji-share-button/>
 

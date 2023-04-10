@@ -1,4 +1,4 @@
-# 奥普拉的第一条推特将于明天在她的节目上发布。足球妈妈接管服务？TechCrunch
+# 奥普拉的第一条推特将于明天在她的节目上发布。足球妈妈接管服务？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/16/oprah-first-tweet-will-be-tomorrow-with-ashton-kutcher-on-the-show-soccer-moms-to-take-over-the-service/>
 

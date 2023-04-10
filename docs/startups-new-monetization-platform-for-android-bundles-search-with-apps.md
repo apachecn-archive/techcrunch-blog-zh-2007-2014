@@ -1,4 +1,4 @@
-# StartApp 面向 Android 的新盈利平台将搜索与应用捆绑在一起 TechCrunch
+# StartApp 面向 Android 的新盈利平台将搜索与应用捆绑在一起 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/startups-new-monetization-platform-for-android-bundles-search-with-apps/>
 

@@ -1,4 +1,4 @@
-# TC50 决赛入围者 SeatGeek 筹集种子资金，改造网站 TechCrunch
+# TC50 决赛入围者 SeatGeek 筹集种子资金，改造网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/08/seatgeek-series-a-funding/>
 

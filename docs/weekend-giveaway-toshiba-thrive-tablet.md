@@ -1,4 +1,4 @@
-# 周末赠品:东芝茁壮成长平板电脑 TechCrunch
+# 周末赠品:东芝茁壮成长平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/17/weekend-giveaway-toshiba-thrive-tablet/>
 

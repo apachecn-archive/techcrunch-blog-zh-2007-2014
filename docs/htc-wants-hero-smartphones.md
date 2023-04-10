@@ -1,4 +1,4 @@
-# 是时候了:HTC 将智能手机的努力重新聚焦于“英雄”设备 TechCrunch
+# 是时候了:HTC 将智能手机的努力重新聚焦于“英雄”设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/26/htc-wants-hero-smartphones/>
 

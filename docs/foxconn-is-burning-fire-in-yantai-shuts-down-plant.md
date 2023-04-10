@@ -1,4 +1,4 @@
-# 富士康着火:烟台大火关闭工厂 TechCrunch
+# 富士康着火:烟台大火关闭工厂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/foxconn-is-burning-fire-in-yantai-shuts-down-plant/>
 

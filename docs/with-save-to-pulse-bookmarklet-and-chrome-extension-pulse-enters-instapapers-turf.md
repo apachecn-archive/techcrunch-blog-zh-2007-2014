@@ -1,4 +1,4 @@
-# 通过“保存到 Pulse”Bookmarklet 和 Chrome 扩展，Pulse 进入了 Instapaper 的地盘 TechCrunch
+# 通过“保存到 Pulse”Bookmarklet 和 Chrome 扩展，Pulse 进入了 Instapaper 的地盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/with-save-to-pulse-bookmarklet-and-chrome-extension-pulse-enters-instapapers-turf/>
 

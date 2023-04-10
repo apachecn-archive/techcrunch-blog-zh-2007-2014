@@ -1,4 +1,4 @@
-# 点评:Nexto DI eXtreme 便携式媒体存储 TechCrunch
+# 点评:Nexto DI eXtreme 便携式媒体存储 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/14/review-nexto-di-extreme-portable-media-storage/>
 

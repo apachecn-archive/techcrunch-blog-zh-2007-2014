@@ -1,4 +1,4 @@
-# myYearbook 在竞争异常激烈的社交网络世界中发现盈利空间 TechCrunch
+# myYearbook 在竞争异常激烈的社交网络世界中发现盈利空间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/25/myyearbook-finds-profitability-in-hyper-competive-social-networking-world/>
 

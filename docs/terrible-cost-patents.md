@@ -1,4 +1,4 @@
-# 专利的可怕成本 TechCrunch
+# 专利的可怕成本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/19/terrible-cost-patents/>
 

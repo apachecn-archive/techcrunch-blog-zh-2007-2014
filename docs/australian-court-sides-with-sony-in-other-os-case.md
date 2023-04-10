@@ -1,4 +1,4 @@
-# 澳大利亚法院在“其他操作系统”案件中支持索尼 TechCrunch
+# 澳大利亚法院在“其他操作系统”案件中支持索尼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/australian-court-sides-with-sony-in-other-os-case/>
 

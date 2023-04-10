@@ -1,4 +1,4 @@
-# 劳工网络协议 TechCrunch
+# 劳工网络协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/17/a-networking-protocol-for-labor/>
 

@@ -1,4 +1,4 @@
-# Kindle Fire 的 6 大替代品 TechCrunch
+# Kindle Fire 的 6 大替代品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/the-top-6-alternatives-to-the-kindle-fire/>
 

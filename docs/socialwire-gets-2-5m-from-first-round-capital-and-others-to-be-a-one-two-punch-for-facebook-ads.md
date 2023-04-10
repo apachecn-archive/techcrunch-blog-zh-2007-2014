@@ -1,4 +1,4 @@
-# SocialWire 从第一轮资本和其他公司获得 100 万美元，成为脸书广告的组合拳 TechCrunch
+# SocialWire 从第一轮资本和其他公司获得 100 万美元，成为脸书广告的组合拳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/socialwire-gets-2-5m-from-first-round-capital-and-others-to-be-a-one-two-punch-for-facebook-ads/>
 

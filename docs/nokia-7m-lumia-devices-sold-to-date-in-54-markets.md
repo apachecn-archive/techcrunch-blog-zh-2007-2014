@@ -1,4 +1,4 @@
-# 诺基亚:截至 6 月，54 个市场售出 700 万部 Lumia 设备 TechCrunch
+# 诺基亚:截至 6 月，54 个市场售出 700 万部 Lumia 设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/05/nokia-7m-lumia-devices-sold-to-date-in-54-markets/>
 

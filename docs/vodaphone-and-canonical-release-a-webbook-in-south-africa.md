@@ -1,4 +1,4 @@
-# 沃达丰和 Canonical 在南非发布网络图书 TechCrunch
+# 沃达丰和 Canonical 在南非发布网络图书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/vodaphone-and-canonical-release-a-webbook-in-south-africa/>
 

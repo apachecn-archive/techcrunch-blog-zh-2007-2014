@@ -1,4 +1,4 @@
-# Domain Holdings 获得 290 万美元，推出改进的域名开发平台 TechCrunch
+# Domain Holdings 获得 290 万美元，推出改进的域名开发平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/domain-holdings-lands-2-9-million-launches-revamped-domain-development-platform/>
 

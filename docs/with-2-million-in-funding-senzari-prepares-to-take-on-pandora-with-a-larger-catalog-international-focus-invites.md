@@ -1,4 +1,4 @@
-# 凭借 200 万美元的资金，Senzari 准备挑战 Pandora TechCrunch
+# 凭借 200 万美元的资金，Senzari 准备挑战 Pandora 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/02/with-2-million-in-funding-senzari-prepares-to-take-on-pandora-with-a-larger-catalog-international-focus-invites/>
 

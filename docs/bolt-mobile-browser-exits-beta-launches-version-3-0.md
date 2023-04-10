@@ -1,4 +1,4 @@
-# BOLT 手机浏览器退出测试版，推出 3.0 版 TechCrunch
+# BOLT 手机浏览器退出测试版，推出 3.0 版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/bolt-mobile-browser-exits-beta-launches-version-3-0/>
 

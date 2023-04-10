@@ -1,4 +1,4 @@
-# 视频:黑暗骑士和玩具总动员 2 混搭 TechCrunch
+# 视频:黑暗骑士和玩具总动员 2 混搭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/14/video-dark-knight-and-toy-story-2-mashup/>
 

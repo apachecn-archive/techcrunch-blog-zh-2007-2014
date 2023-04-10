@@ -1,4 +1,4 @@
-# 面向应用的移动支付平台 Venmo Touch 扩展至 Android、iOS 7 TechCrunch
+# 面向应用的移动支付平台 Venmo Touch 扩展至 Android、iOS 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/07/mobile-payments-platform-for-apps-venmo-touch-expands-to-android-ios-7/>
 

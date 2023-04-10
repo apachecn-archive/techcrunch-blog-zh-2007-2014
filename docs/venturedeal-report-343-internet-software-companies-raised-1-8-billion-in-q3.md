@@ -1,4 +1,4 @@
-# VentureDeal 报告:343 家互联网和软件公司在第三季度筹集了 18 亿美元 TechCrunch
+# VentureDeal 报告:343 家互联网和软件公司在第三季度筹集了 18 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/06/venturedeal-report-343-internet-software-companies-raised-1-8-billion-in-q3/>
 

@@ -1,4 +1,4 @@
-# 接近决赛的摩托罗拉·斯奈德和 Xoom 2 照片泄露 TechCrunch
+# 接近决赛的摩托罗拉·斯奈德和 Xoom 2 照片泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/near-final-motorola-spyder-and-xoom-2-photos-leaked/>
 

@@ -1,4 +1,4 @@
-# AWS 为高流量应用程序设计的实例在所有地区降价 10% TechCrunch
+# AWS 为高流量应用程序设计的实例在所有地区降价 10% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/05/aws-drops-prices-10-across-all-regions-for-instances-designed-for-high-traffic-apps/>
 

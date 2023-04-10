@@ -1,4 +1,4 @@
-# 浏览 Jonathan 的卡片寻找乐趣和乐趣 TechCrunch
+# 浏览 Jonathan 的卡片寻找乐趣和乐趣 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/skimming-jonathans-card-for-fun-and-philanthrophy/>
 

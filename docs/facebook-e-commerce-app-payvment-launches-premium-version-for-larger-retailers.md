@@ -1,4 +1,4 @@
-# 脸书电子商务应用 Payvment 为大型零售商推出高级版 TechCrunch
+# 脸书电子商务应用 Payvment 为大型零售商推出高级版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/facebook-e-commerce-app-payvment-launches-premium-version-for-larger-retailers/>
 

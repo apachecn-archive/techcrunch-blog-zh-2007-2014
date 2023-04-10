@@ -1,4 +1,4 @@
-# Friendfeed 诉 Twitter:五个月内一半的追随者 TechCrunch
+# Friendfeed 诉 Twitter:五个月内一半的追随者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/05/friendfeed-v-twitter-half-the-followers-in-five-months/>
 

@@ -1,4 +1,4 @@
-# 出售 FlixsterIAC 感兴趣 TechCrunch
+# 出售 FlixsterIAC 感兴趣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/28/fixster-for-sale-iac-interested/>
 

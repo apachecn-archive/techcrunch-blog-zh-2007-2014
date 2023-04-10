@@ -1,4 +1,4 @@
-# eMusic:下载了 2.5 亿首歌曲。iTunes:50 亿 TechCrunch
+# eMusic:下载了 2.5 亿首歌曲。iTunes:50 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/20/emusic-250-million-songs-downloaded-itunes-5-billion/>
 

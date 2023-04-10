@@ -1,4 +1,4 @@
-# 电动飞机竞赛结束，超过普锐斯的飞机获得 135 万美元奖金 TechCrunch
+# 电动飞机竞赛结束，超过普锐斯的飞机获得 135 万美元奖金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/electric-aircraft-competition-wraps-with-1-35m-prize-for-plane-that-out-economizes-a-prius/>
 

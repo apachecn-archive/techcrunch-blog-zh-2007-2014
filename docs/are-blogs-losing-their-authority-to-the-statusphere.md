@@ -1,4 +1,4 @@
-# 博客是否正在失去对地位圈的权威？TechCrunch
+# 博客是否正在失去对地位圈的权威？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/10/are-blogs-losing-their-authority-to-the-statusphere/>
 

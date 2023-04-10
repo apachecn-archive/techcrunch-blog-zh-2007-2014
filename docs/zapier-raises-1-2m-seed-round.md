@@ -1,4 +1,4 @@
-# Zapier 从 Bessemer Venture Partners、Draper Fisher Jurvetson & Others 获得 120 万美元种子资金 TechCrunch
+# Zapier 从 Bessemer Venture Partners、Draper Fisher Jurvetson & Others 获得 120 万美元种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/31/zapier-raises-1-2m-seed-round/>
 

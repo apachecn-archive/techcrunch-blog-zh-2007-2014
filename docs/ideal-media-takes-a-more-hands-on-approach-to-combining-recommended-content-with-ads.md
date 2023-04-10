@@ -1,4 +1,4 @@
-# 理想媒体采取更实际的方法将推荐内容与广告相结合 TechCrunch
+# 理想媒体采取更实际的方法将推荐内容与广告相结合 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/06/ideal-media-takes-a-more-hands-on-approach-to-combining-recommended-content-with-ads/>
 

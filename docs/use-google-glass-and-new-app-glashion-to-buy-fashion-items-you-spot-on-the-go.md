@@ -1,4 +1,4 @@
-# 使用谷歌眼镜和新应用 Glashion 购买你在旅途中发现的时尚物品 TechCrunch
+# 使用谷歌眼镜和新应用 Glashion 购买你在旅途中发现的时尚物品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/use-google-glass-and-new-app-glashion-to-buy-fashion-items-you-spot-on-the-go/>
 

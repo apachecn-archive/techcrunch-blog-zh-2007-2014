@@ -1,4 +1,4 @@
-# 索尼宣布为 PAL 领地推出 PlayTV TechCrunch
+# 索尼宣布为 PAL 领地推出 PlayTV 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/sony-announces-playtv-for-pal-territories/>
 

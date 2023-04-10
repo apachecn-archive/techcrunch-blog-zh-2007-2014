@@ -1,4 +1,4 @@
-# Android 市场:目前已有 100 亿个应用程序，每月新增 10 亿个 TechCrunch
+# Android 市场:目前已有 100 亿个应用程序，每月新增 10 亿个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/06/android-market-10-billion-apps-served-so-far-and-another-1-billion-each-month/>
 

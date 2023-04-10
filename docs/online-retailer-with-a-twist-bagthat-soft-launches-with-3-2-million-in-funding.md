@@ -1,4 +1,4 @@
-# 在线零售商凭借 320 万美元的融资试运行 TechCrunch
+# 在线零售商凭借 320 万美元的融资试运行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/online-retailer-with-a-twist-bagthat-soft-launches-with-3-2-million-in-funding/>
 

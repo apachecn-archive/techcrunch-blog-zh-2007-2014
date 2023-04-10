@@ -1,4 +1,4 @@
-# NoSo——对我们“永不停机”文化的抵制——TechCrunch
+# NoSo——对我们“永不停机”文化的抵制——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/noso-backlash-against-our-always-on-culture/>
 

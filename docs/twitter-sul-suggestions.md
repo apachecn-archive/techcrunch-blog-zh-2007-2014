@@ -1,4 +1,4 @@
-# Twitter 改造 SUL，转而提供分类建议，没有大众关注 TechCrunch
+# Twitter 改造 SUL，转而提供分类建议，没有大众关注 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/21/twitter-sul-suggestions/>
 

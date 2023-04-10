@@ -1,4 +1,4 @@
-# iPhone 4S 预购在 22 个新国家开始 TechCrunch
+# iPhone 4S 预购在 22 个新国家开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/iphone-4s-pre-orders-go-live-in-22-new-countries/>
 

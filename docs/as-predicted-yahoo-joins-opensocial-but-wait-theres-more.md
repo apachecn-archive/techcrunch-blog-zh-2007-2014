@@ -1,4 +1,4 @@
-# 正如预测的那样，雅虎加入 OpenSocial。但是等等，还有更多 TechCrunch
+# 正如预测的那样，雅虎加入 OpenSocial。但是等等，还有更多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/25/as-predicted-yahoo-joins-opensocial-but-wait-theres-more/>
 

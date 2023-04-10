@@ -1,4 +1,4 @@
-# 苹果的“应用程序复活”功能对客户来说很棒，但对开发者来说不透明 TechCrunch
+# 苹果的“应用程序复活”功能对客户来说很棒，但对开发者来说不透明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/17/apples-app-resurrection-feature-great-for-customers-but-opaque-to-developers/>
 

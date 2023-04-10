@@ -1,4 +1,4 @@
-# Adobe 收购 Business Catalyst/good Barry TechCrunch
+# Adobe 收购 Business Catalyst/good Barry 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/31/adobe-buys-business-catalyst-goodbarry/>
 

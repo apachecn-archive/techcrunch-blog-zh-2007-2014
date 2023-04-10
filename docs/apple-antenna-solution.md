@@ -1,4 +1,4 @@
-# 苹果天线问题的唯一真正解决方案 TechCrunch
+# 苹果天线问题的唯一真正解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/15/apple-antenna-solution/>
 

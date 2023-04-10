@@ -1,4 +1,4 @@
-# 追根溯源，脸书测试。edu 专属团体 TechCrunch
+# 追根溯源，脸书测试。edu 专属团体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/groups-at-universities/>
 

@@ -1,4 +1,4 @@
-# 欧特克收购红杉支持的软件设计初创公司 plan platform TechCrunch
+# 欧特克收购红杉支持的软件设计初创公司 plan platform 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/17/autodesk-acquires-sequoia-backed-software-design-startup-planplatform/>
 

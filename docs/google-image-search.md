@@ -1,4 +1,4 @@
-# 谷歌图片搜索:每天超过 100 亿张图片，10 亿次页面浏览 TechCrunch
+# 谷歌图片搜索:每天超过 100 亿张图片，10 亿次页面浏览 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/20/google-image-search/>
 

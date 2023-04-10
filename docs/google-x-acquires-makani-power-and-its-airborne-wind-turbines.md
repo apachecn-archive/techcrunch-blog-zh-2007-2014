@@ -1,4 +1,4 @@
-# Google X 收购 Makani Power 及其机载风力涡轮机 TechCrunch
+# Google X 收购 Makani Power 及其机载风力涡轮机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/22/google-x-acquires-makani-power-and-its-airborne-wind-turbines/>
 

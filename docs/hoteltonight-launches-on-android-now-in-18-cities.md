@@ -1,4 +1,4 @@
-# HotelTonight 在 Android 上推出，现已在 18 个城市推出 TechCrunch
+# HotelTonight 在 Android 上推出，现已在 18 个城市推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/hoteltonight-launches-on-android-now-in-18-cities/>
 

@@ -1,4 +1,4 @@
-# FinePix REAL 3D V3:富士胶片的裸眼 3D 相框支持从其他设备进行 3D 播放 TechCrunch
+# FinePix REAL 3D V3:富士胶片的裸眼 3D 相框支持从其他设备进行 3D 播放 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/finepix-real-3d-v3-fujifilms-naked-eye-3d-photoframe-supports-3d-playback-from-other-devices/>
 

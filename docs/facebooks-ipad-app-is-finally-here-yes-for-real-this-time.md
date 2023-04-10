@@ -1,4 +1,4 @@
-# 脸书的 iPad 应用终于来了。是的，这次是真的。TechCrunch
+# 脸书的 iPad 应用终于来了。是的，这次是真的。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/facebooks-ipad-app-is-finally-here-yes-for-real-this-time/>
 

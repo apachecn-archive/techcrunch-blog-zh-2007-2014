@@ -1,4 +1,4 @@
-# Blippar AR 广告应用在 Windows Phone 上发布 TechCrunch
+# Blippar AR 广告应用在 Windows Phone 上发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/blippar-ar-advertising-app-launches-on-windows-phone/>
 

@@ -1,4 +1,4 @@
-# 三星 Galaxy Tab 7.7，Galaxy Note 不在美国上市？从来没有？TechCrunch
+# 三星 Galaxy Tab 7.7，Galaxy Note 不在美国上市？从来没有？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/gotta-see-eurotrip/>
 

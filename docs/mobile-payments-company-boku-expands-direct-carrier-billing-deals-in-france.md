@@ -1,4 +1,4 @@
-# 移动支付公司 Boku 在法国扩大直接运营商计费交易 TechCrunch
+# 移动支付公司 Boku 在法国扩大直接运营商计费交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/mobile-payments-company-boku-expands-direct-carrier-billing-deals-in-france/>
 

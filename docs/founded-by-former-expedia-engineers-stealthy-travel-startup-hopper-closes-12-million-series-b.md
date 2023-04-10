@@ -1,4 +1,4 @@
-# 由前 Expedia 工程师创立的隐形旅行初创公司 Hopper 完成了 1200 万美元的 B 轮融资 TechCrunch
+# 由前 Expedia 工程师创立的隐形旅行初创公司 Hopper 完成了 1200 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/15/founded-by-former-expedia-engineers-stealthy-travel-startup-hopper-closes-12-million-series-b/>
 

@@ -1,4 +1,4 @@
-# 今天的社交网络实验可能不会有回报——TechCrunch
+# 今天的社交网络实验可能不会有回报——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/usatoday-relaunch-as-social-network-may-not-be-paying-off/>
 

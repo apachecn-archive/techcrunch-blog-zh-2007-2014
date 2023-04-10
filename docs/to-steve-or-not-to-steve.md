@@ -1,4 +1,4 @@
-# 对史蒂夫还是不对史蒂夫？TechCrunch
+# 对史蒂夫还是不对史蒂夫？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/13/to-steve-or-not-to-steve/>
 

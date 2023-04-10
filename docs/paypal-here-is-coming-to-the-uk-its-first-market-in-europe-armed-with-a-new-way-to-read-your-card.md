@@ -1,4 +1,4 @@
-# PayPal 即将进军英国，这是它在欧洲的第一个移动支付市场，配备了一种新的读卡方式 TechCrunch
+# PayPal 即将进军英国，这是它在欧洲的第一个移动支付市场，配备了一种新的读卡方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/21/paypal-here-is-coming-to-the-uk-its-first-market-in-europe-armed-with-a-new-way-to-read-your-card/>
 

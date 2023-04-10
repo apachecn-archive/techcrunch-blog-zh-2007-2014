@@ -1,4 +1,4 @@
-# 迷你 RFID 设备存储个人医疗数据，使其可立即访问 TechCrunch
+# 迷你 RFID 设备存储个人医疗数据，使其可立即访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/mini-rfid-device-stores-personal-medical-data-makes-it-instantly-accessible/>
 

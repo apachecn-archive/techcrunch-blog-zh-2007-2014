@@ -1,4 +1,4 @@
-# 即将上映的电影可能是影院和点播发行策略的试金石 TechCrunch
+# 即将上映的电影可能是影院和点播发行策略的试金石 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/upcoming-film-could-be-litmus-test-for-theater-and-on-demand-release-strategy/>
 

@@ -1,4 +1,4 @@
-# Subtext 从 Google Ventures 筹集了 300 万美元&更多资金用于电子书阅读社交化 TechCrunch
+# Subtext 从 Google Ventures 筹集了 300 万美元&更多资金用于电子书阅读社交化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/subtext-raises-3-million-from-google-ventures-more-to-make-ebook-reading-social/>
 

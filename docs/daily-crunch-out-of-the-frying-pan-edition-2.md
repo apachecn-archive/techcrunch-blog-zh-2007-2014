@@ -1,4 +1,4 @@
-# 每日危机:走出煎锅版 TechCrunch
+# 每日危机:走出煎锅版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/02/daily-crunch-out-of-the-frying-pan-edition-2/>
 

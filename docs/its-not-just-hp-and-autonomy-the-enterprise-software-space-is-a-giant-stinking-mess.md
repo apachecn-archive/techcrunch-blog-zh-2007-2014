@@ -1,4 +1,4 @@
-# 不仅仅是惠普和 Autonomy，企业软件领域也是一片混乱 TechCrunch
+# 不仅仅是惠普和 Autonomy，企业软件领域也是一片混乱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/20/its-not-just-hp-and-autonomy-the-enterprise-software-space-is-a-giant-stinking-mess/>
 

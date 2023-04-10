@@ -1,4 +1,4 @@
-# 您的新社交日历:UpTo Now 让您发现并关注从体育到电视的各种活动 TechCrunch
+# 您的新社交日历:UpTo Now 让您发现并关注从体育到电视的各种活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/16/your-new-social-calendar-upto-now-lets-you-discover-and-follow-events-from-sports-to-tv/>
 

@@ -1,4 +1,4 @@
-# 正如 OS X Mountain Lion 所证明的，Twitter 是苹果的社交网络 TechCrunch
+# 正如 OS X Mountain Lion 所证明的，Twitter 是苹果的社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/twitter-os-x-mountain-lion/>
 

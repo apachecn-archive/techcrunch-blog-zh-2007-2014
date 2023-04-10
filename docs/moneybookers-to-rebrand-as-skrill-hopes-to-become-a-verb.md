@@ -1,4 +1,4 @@
-# Moneybookers 将更名为 Skrill -希望成为动词 TechCrunch
+# Moneybookers 将更名为 Skrill -希望成为动词 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/16/moneybookers-to-rebrand-as-skrill-hopes-to-become-a-verb/>
 

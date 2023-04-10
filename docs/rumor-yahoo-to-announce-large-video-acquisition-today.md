@@ -1,4 +1,4 @@
-# 雅虎宣布以 1.5 亿美元收购大型视频公司——Maven Networks。TechCrunch
+# 雅虎宣布以 1.5 亿美元收购大型视频公司——Maven Networks。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/31/rumor-yahoo-to-announce-large-video-acquisition-today/>
 

@@ -1,4 +1,4 @@
-# Qik 扩展到 Windows Mobile 平台 TechCrunch
+# Qik 扩展到 Windows Mobile 平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/05/qik-expands-to-windows-mobile-platform/>
 

@@ -1,4 +1,4 @@
-# Target 确认销售点数据泄露，宣布暴露了 4000 万个信用卡号 TechCrunch
+# Target 确认销售点数据泄露，宣布暴露了 4000 万个信用卡号 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/target-confirms-point-of-sale-data-breach-announces-it-exposed-40-million-credit-card-numbers/>
 

@@ -1,4 +1,4 @@
-# Meebo 将文件共享添加到 Webchat TechCrunch
+# Meebo 将文件共享添加到 Webchat 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/10/meebo-adds-file-sharing-to-webchat/>
 

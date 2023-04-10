@@ -1,4 +1,4 @@
-# 个性化新闻阅读器 News360 2.0 登陆 iPhone TechCrunch
+# 个性化新闻阅读器 News360 2.0 登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/personalized-news-reader-news360-arrives-on-iphone/>
 

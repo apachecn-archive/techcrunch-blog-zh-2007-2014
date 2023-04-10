@@ -1,4 +1,4 @@
-# Spotify 将不再仅在美国被邀请，用户将获得前六个月的免费服务 TechCrunch
+# Spotify 将不再仅在美国被邀请，用户将获得前六个月的免费服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/spotify-is-no-longer-invite-only-in-the-us-and-users-get-their-first-six-months-of-service-free/>
 

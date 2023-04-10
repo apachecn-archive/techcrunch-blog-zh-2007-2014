@@ -1,4 +1,4 @@
-# 新的 Google+扩展为 Hangouts 增加了实时代码协作 TechCrunch
+# 新的 Google+扩展为 Hangouts 增加了实时代码协作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/new-google-extension-adds-real-time-document-collaboration-to-hangouts/>
 

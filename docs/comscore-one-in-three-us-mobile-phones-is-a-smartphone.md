@@ -1,4 +1,4 @@
-# comScore:美国三分之一的手机是智能手机 TechCrunch
+# comScore:美国三分之一的手机是智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/comscore-one-in-three-us-mobile-phones-is-a-smartphone/>
 

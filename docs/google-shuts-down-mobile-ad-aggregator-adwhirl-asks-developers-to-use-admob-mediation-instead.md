@@ -1,4 +1,4 @@
-# 谷歌将于 9 月 30 日关闭移动广告聚合器 AdWhirl，让开发者转向 AdMob 中介 TechCrunch
+# 谷歌将于 9 月 30 日关闭移动广告聚合器 AdWhirl，让开发者转向 AdMob 中介 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/13/google-shuts-down-mobile-ad-aggregator-adwhirl-asks-developers-to-use-admob-mediation-instead/>
 

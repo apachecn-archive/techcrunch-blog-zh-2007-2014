@@ -1,4 +1,4 @@
-# IBM 开源是不是在吹毛求疵？–TechCrunch
+# IBM 开源是不是在吹毛求疵？–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/08/is-ibm-splitting-hairs-with-open-source/>
 

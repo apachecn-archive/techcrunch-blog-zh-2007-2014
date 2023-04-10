@@ -1,4 +1,4 @@
-# 谷歌光纤:密苏里州堪萨斯城 20%的社区已经实现了注册目标 TechCrunch
+# 谷歌光纤:密苏里州堪萨斯城 20%的社区已经实现了注册目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/29/kc-google-fiber-threshold-20-percent/>
 

@@ -1,4 +1,4 @@
-# 丹尼斯·克劳利证实他们拒绝了 1.4 亿美元的收购要约 TechCrunch
+# 丹尼斯·克劳利证实他们拒绝了 1.4 亿美元的收购要约 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/08/dennis-crowley-pretty-much-confirms-they-turned-down-a-140-million-acquisition-offer/>
 

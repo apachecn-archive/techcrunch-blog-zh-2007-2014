@@ -1,4 +1,4 @@
-# AMD 的新 FX 处理器达到世界纪录时钟速度 TechCrunch
+# AMD 的新 FX 处理器达到世界纪录时钟速度 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/amds-new-fx-processor-reaches-world-record-clock-speed/>
 

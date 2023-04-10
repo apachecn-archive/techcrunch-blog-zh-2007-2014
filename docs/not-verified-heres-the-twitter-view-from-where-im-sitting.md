@@ -1,4 +1,4 @@
-# 未验证？这是我坐的地方的 Twitter 视图 TechCrunch
+# 未验证？这是我坐的地方的 Twitter 视图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/30/not-verified-heres-the-twitter-view-from-where-im-sitting/>
 

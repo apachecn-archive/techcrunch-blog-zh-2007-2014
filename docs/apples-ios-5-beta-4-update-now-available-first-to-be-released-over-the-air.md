@@ -1,4 +1,4 @@
-# 苹果 iOS 5 Beta 4 更新现已发布，首次以无线方式发布 TechCrunch
+# 苹果 iOS 5 Beta 4 更新现已发布，首次以无线方式发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/apples-ios-5-beta-4-update-now-available-first-to-be-released-over-the-air/>
 

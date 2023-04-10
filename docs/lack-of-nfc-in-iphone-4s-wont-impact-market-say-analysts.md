@@ -1,4 +1,4 @@
-# iPhone 4S 缺少 NFC 不会影响市场 TechCrunch
+# iPhone 4S 缺少 NFC 不会影响市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/lack-of-nfc-in-iphone-4s-wont-impact-market-say-analysts/>
 

@@ -1,4 +1,4 @@
-# 谷歌对联邦通信委员会:停止让语音网络尾巴摇互联网狗 TechCrunch
+# 谷歌对联邦通信委员会:停止让语音网络尾巴摇互联网狗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/20/google-fcc-tail-wagging-dog/>
 

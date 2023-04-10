@@ -1,4 +1,4 @@
-# 花钱:苹果:758.76 亿美元。美国政府:737.68 亿美元。TechCrunch
+# 花钱:苹果:758.76 亿美元。美国政府:737.68 亿美元。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/apple-has-more-money-than-our-government/>
 

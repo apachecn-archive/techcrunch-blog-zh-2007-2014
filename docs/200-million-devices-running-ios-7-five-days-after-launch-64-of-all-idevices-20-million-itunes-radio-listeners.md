@@ -1,4 +1,4 @@
-# iOS 7 的数字:5 天内 2 亿次下载，64%的采用率，2000 万 iTunes 电台听众 TechCrunch
+# iOS 7 的数字:5 天内 2 亿次下载，64%的采用率，2000 万 iTunes 电台听众 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/22/200-million-devices-running-ios-7-five-days-after-launch-64-of-all-idevices-20-million-itunes-radio-listeners/>
 

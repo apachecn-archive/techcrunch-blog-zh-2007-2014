@@ -1,4 +1,4 @@
-# 苹果的数字报摊颠覆了出版业 TechCrunch
+# 苹果的数字报摊颠覆了出版业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/15/apples-digital-newsstand-just-disrupted-the-publishing-industry/>
 

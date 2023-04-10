@@ -1,4 +1,4 @@
-# Mobile Roadie 现在为 Android 生态系统创建应用 TechCrunch
+# Mobile Roadie 现在为 Android 生态系统创建应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/mobile-roadie-now-creates-apps-for-android-ecosystem/>
 

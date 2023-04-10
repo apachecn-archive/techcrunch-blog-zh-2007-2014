@@ -1,4 +1,4 @@
-# 请看:Path 来到 Android 公测版 TechCrunch
+# 请看:Path 来到 Android 公测版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/behold-path-comes-to-android-in-public-beta/>
 

@@ -1,4 +1,4 @@
-# PapayaMobile 和 Tapjoy 宣布合作开发新的移动社交市场 TechCrunch
+# PapayaMobile 和 Tapjoy 宣布合作开发新的移动社交市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/papayamobile-tapjoy-announce-partnership-on-new-social-marketplace-for-mobile/>
 

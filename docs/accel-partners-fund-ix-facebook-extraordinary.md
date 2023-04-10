@@ -1,4 +1,4 @@
-# Accel Partners 2005 年特别基金 IX TechCrunch
+# Accel Partners 2005 年特别基金 IX 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/22/accel-partners-fund-ix-facebook-extraordinary/>
 

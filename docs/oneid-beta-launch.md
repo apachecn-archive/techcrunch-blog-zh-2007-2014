@@ -1,4 +1,4 @@
-# 不再有多个用户名和密码:OneID 推出其下一代身份服务 TechCrunch
+# 不再有多个用户名和密码:OneID 推出其下一代身份服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/13/oneid-beta-launch/>
 

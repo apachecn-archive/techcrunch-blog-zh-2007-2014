@@ -1,4 +1,4 @@
-# 苹果-三星专利战开始让法官厌烦，高管们庭外和解？TechCrunch
+# 苹果-三星专利战开始让法官厌烦，高管们庭外和解？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/20/apple-samsung-patent-war-begins-to-bore-judge-execs-to-settle-out-of-court/>
 

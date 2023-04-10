@@ -1,4 +1,4 @@
-# 乱舞:亚马逊的 Kindle Fire 已经开始吞噬三星的 Galaxy Tab TechCrunch
+# 乱舞:亚马逊的 Kindle Fire 已经开始吞噬三星的 Galaxy Tab 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/27/flurry-amazons-kindle-fire-is-already-starting-to-smoke-samsungs-galaxy-tab/>
 

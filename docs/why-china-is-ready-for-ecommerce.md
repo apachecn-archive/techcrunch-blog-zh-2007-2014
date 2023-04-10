@@ -1,4 +1,4 @@
-# 为什么中国为电子商务做好了准备 TechCrunch
+# 为什么中国为电子商务做好了准备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/why-china-is-ready-for-ecommerce/>
 

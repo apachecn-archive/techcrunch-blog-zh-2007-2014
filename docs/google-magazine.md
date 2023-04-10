@@ -1,4 +1,4 @@
-# 谷歌杂志？TechCrunch
+# 谷歌杂志？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/19/google-magazine/>
 

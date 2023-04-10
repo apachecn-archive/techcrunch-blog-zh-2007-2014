@@ -1,4 +1,4 @@
-# Pinterest 和 Path 争夺字母“P”标志商标 TechCrunch
+# Pinterest 和 Path 争夺字母“P”标志商标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/06/pinterest-and-path-to-battle-over-letter-p-logo-trademark/>
 

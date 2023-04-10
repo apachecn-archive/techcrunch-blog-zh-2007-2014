@@ -1,4 +1,4 @@
-# Greplin 从红杉获得 400 万美元用于社交搜索 TechCrunch
+# Greplin 从红杉获得 400 万美元用于社交搜索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/greplin-grabs-4-million-from-sequoia-for-social-search/>
 

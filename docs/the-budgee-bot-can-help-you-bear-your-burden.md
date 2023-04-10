@@ -1,4 +1,4 @@
-# Budgee 机器人可以帮你减轻负担 TechCrunch
+# Budgee 机器人可以帮你减轻负担 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/the-budgee-bot-can-help-you-bear-your-burden/>
 

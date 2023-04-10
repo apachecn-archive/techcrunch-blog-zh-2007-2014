@@ -1,4 +1,4 @@
-# 50 个流行 API 的正常运行时间 TechCrunch
+# 50 个流行 API 的正常运行时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/25/a-look-at-the-uptime-of-50-popular-apis/>
 

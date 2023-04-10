@@ -1,4 +1,4 @@
-# AMD 硬件加速来到 Flash Player 10.2 TechCrunch
+# AMD 硬件加速来到 Flash Player 10.2 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/amd-hardware-acceleration-comes-to-flash-player-10-2/>
 

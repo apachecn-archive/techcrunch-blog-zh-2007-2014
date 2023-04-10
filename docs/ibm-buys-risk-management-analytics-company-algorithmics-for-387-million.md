@@ -1,4 +1,4 @@
-# IBM 以 3.87 亿美元收购风险管理分析公司 algorithm ics TechCrunch
+# IBM 以 3.87 亿美元收购风险管理分析公司 algorithm ics 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/ibm-buys-risk-management-analytics-company-algorithmics-for-387-million/>
 

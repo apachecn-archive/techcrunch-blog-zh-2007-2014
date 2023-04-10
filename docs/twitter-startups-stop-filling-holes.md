@@ -1,4 +1,4 @@
-# 嘿，Twitter 初创公司:是时候停止填补漏洞，开始构建黑仔应用了 TechCrunch
+# 嘿，Twitter 初创公司:是时候停止填补漏洞，开始构建黑仔应用了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/07/twitter-startups-stop-filling-holes/>
 

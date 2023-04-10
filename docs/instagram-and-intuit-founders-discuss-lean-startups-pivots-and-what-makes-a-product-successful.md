@@ -1,4 +1,4 @@
-# Instagram 和 Intuit 创始人讨论精益创业、支点以及产品成功的要素 TechCrunch
+# Instagram 和 Intuit 创始人讨论精益创业、支点以及产品成功的要素 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/instagram-and-intuit-founders-discuss-lean-startups-pivots-and-what-makes-a-product-successful/>
 

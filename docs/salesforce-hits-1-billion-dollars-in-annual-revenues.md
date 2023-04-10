@@ -1,4 +1,4 @@
-# Salesforce 年收入达到 10 亿美元 TechCrunch
+# Salesforce 年收入达到 10 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/25/salesforce-hits-1-billion-dollars-in-annual-revenues/>
 

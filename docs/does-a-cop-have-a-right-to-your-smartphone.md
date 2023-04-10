@@ -1,4 +1,4 @@
-# 警察有权拿你的智能手机吗？TechCrunch
+# 警察有权拿你的智能手机吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/does-a-cop-have-a-right-to-your-smartphone/>
 

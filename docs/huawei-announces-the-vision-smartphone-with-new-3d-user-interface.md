@@ -1,4 +1,4 @@
-# 华为发布具有新“3D”用户界面的 Vision 智能手机 TechCrunch
+# 华为发布具有新“3D”用户界面的 Vision 智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/huawei-announces-the-vision-smartphone-with-new-3d-user-interface/>
 

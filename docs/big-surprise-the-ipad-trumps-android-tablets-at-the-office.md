@@ -1,4 +1,4 @@
-# 大惊喜！iPad 在办公室胜过安卓平板电脑 TechCrunch
+# 大惊喜！iPad 在办公室胜过安卓平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/big-surprise-the-ipad-trumps-android-tablets-at-the-office/>
 

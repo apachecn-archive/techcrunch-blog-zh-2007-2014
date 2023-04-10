@@ -1,4 +1,4 @@
-# 这些是新的 iPad LTE 数据计划 TechCrunch
+# 这些是新的 iPad LTE 数据计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/new-ipad-data-plans/>
 

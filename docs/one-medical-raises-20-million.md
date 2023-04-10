@@ -1,4 +1,4 @@
-# One Medical 为现代医生办公室筹集了 2000 万美元 TechCrunch
+# One Medical 为现代医生办公室筹集了 2000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/05/one-medical-raises-20-million/>
 

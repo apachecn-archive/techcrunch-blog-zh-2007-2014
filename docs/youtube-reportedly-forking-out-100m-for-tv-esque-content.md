@@ -1,4 +1,4 @@
-# 据报道，YouTube 为类似电视的内容支付了 1 亿美元 TechCrunch
+# 据报道，YouTube 为类似电视的内容支付了 1 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/youtube-reportedly-forking-out-100m-for-tv-esque-content/>
 

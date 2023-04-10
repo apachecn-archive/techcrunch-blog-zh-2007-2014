@@ -1,4 +1,4 @@
-# 脸书礼品销售和收入起步缓慢 TechCrunch
+# 脸书礼品销售和收入起步缓慢 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/28/how-many-gifts-has-facebook-sold/>
 

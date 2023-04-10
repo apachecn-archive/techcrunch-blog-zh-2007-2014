@@ -1,4 +1,4 @@
-# 亲爱的汽车制造商:请雇佣这样的人 TechCrunch
+# 亲爱的汽车制造商:请雇佣这样的人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/dear-car-makers-please-hire-people-like-this/>
 

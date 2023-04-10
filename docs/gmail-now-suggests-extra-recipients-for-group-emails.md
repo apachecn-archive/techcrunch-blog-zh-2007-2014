@@ -1,4 +1,4 @@
-# Gmail 现在会告诉您希望向谁发送电子邮件 TechCrunch
+# Gmail 现在会告诉您希望向谁发送电子邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/17/gmail-now-suggests-extra-recipients-for-group-emails/>
 

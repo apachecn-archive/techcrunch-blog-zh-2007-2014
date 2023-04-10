@@ -1,4 +1,4 @@
-# Gartner:个人电脑出货量增长 14%，2011 年将售出 4.09 亿台电脑 TechCrunch
+# Gartner:个人电脑出货量增长 14%，2011 年将售出 4.09 亿台电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/29/gartner-pc-shipments-up-14-percent-409-million-computers-to-be-sold-in-2011/>
 

@@ -1,4 +1,4 @@
-# Games2Win 推出游戏库里，一个 Flash 游戏的搜索引擎 TechCrunch
+# Games2Win 推出游戏库里，一个 Flash 游戏的搜索引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/22/games2win-launches-gamecurry-a-search-engine-for-flash-games/>
 

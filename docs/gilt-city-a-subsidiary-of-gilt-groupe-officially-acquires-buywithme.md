@@ -1,4 +1,4 @@
-# Gilt Groupe 的子公司 Gilt City 正式收购 BuyWithMe TechCrunch
+# Gilt Groupe 的子公司 Gilt City 正式收购 BuyWithMe 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/gilt-city-a-subsidiary-of-gilt-groupe-officially-acquires-buywithme/>
 

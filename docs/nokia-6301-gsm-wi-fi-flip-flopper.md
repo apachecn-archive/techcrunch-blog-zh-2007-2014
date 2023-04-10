@@ -1,4 +1,4 @@
-# 诺基亚 6301: GSM、Wi-Fi 人字拖 TechCrunch
+# 诺基亚 6301: GSM、Wi-Fi 人字拖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/20/nokia-6301-gsm-wi-fi-flip-flopper/>
 

@@ -1,4 +1,4 @@
-# 情节变得复杂:Skype 创始人和 Joost 起诉前董事长兼首席执行官迈克沃尔皮 TechCrunch
+# 情节变得复杂:Skype 创始人和 Joost 起诉前董事长兼首席执行官迈克沃尔皮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/18/joost-sues-former-chairman-and-ceo-mike-volpi/>
 

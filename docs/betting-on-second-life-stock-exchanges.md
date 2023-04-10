@@ -1,4 +1,4 @@
-# 押注第二人生证券交易所——TechCrunch
+# 押注第二人生证券交易所——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/betting-on-second-life-stock-exchanges/>
 

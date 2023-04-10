@@ -1,4 +1,4 @@
-# 三星 Galaxy Tab 8.9 预购上线，Galaxy Players 4.0 和 5.0 随后推出 TechCrunch
+# 三星 Galaxy Tab 8.9 预购上线，Galaxy Players 4.0 和 5.0 随后推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/samsung-galaxy-tab-8-9-pre-order-goes-live-galaxy-players-4-0-and-5-0-to-follow/>
 

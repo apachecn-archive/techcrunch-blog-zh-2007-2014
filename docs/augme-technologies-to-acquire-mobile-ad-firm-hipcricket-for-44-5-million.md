@@ -1,4 +1,4 @@
-# Augme Technologies 以 4450 万美元收购移动广告公司 hip cricket TechCrunch
+# Augme Technologies 以 4450 万美元收购移动广告公司 hip cricket 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/augme-technologies-to-acquire-mobile-ad-firm-hipcricket-for-44-5-million/>
 

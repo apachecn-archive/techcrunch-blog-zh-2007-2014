@@ -1,4 +1,4 @@
-# 我的保沃快乐指数:新的狗狗减肥玩具 TechCrunch
+# 我的保沃快乐指数:新的狗狗减肥玩具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/16/the-index-of-my-bow-wows-merriness-new-anti-fat-toy-for-dogs/>
 

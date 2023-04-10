@@ -1,4 +1,4 @@
-# 私人飞机预订网络 PrivateFly.com 融资 200 万 TechCrunch
+# 私人飞机预订网络 PrivateFly.com 融资 200 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/private-jet-booking-network-privatefly-com-raises-2-million/>
 

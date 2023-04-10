@@ -1,4 +1,4 @@
-# 即将推出:脸书的自动“阅读”按钮 TechCrunch
+# 即将推出:脸书的自动“阅读”按钮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/facebook-read-button/>
 

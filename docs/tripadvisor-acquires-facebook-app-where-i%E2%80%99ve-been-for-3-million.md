@@ -1,4 +1,4 @@
-# 猫途鹰以 300 万美元收购脸书 App 我去过的地方 TechCrunch
+# 猫途鹰以 300 万美元收购脸书 App 我去过的地方 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/tripadvisor-acquires-facebook-app-where-i%E2%80%99ve-been-for-3-million/>
 

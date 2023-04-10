@@ -1,4 +1,4 @@
-# 1DollarScan 与 Evernote 集成，将您扫描的书籍添加到 Evernote 的数据存储中[更新 TechCrunch
+# 1DollarScan 与 Evernote 集成，将您扫描的书籍添加到 Evernote 的数据存储中[更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/23/evernote-1dollarscan-readin/>
 

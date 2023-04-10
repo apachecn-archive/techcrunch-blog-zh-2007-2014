@@ -1,4 +1,4 @@
-# 观看索尼 CES 2012 新闻发布会 TechCrunch
+# 观看索尼 CES 2012 新闻发布会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/watch-sonys-live-press-conference-from-ces-2012-here/>
 

@@ -1,4 +1,4 @@
-# 美国宇航局将邀请 150 名推特粉丝参加火星车发布会 TechCrunch
+# 美国宇航局将邀请 150 名推特粉丝参加火星车发布会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/nasa-to-invite-150-of-its-twitter-followers-to-mars-rover-launch/>
 

@@ -1,4 +1,4 @@
-# Twitter 的自助广告产品能否满足乐观的预期，到 2013 年将收入提高到 4 亿美元？TechCrunch
+# Twitter 的自助广告产品能否满足乐观的预期，到 2013 年将收入提高到 4 亿美元？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/can-twitters-self-serve-ad-product-meet-rosy-expectations-to-drive-revenues-to-400m-by-2013/>
 

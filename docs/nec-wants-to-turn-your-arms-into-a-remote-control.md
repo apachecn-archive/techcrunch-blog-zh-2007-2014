@@ -1,4 +1,4 @@
-# NEC 希望将您的手臂变成遥控器 TechCrunch
+# NEC 希望将您的手臂变成遥控器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/07/nec-wants-to-turn-your-arms-into-a-remote-control/>
 

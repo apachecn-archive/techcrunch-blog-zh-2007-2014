@@ -1,4 +1,4 @@
-# 增强现实与虚拟现实:哪个更真实？TechCrunch
+# 增强现实与虚拟现实:哪个更真实？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/06/augmented-reality-vs-virtual-reality/>
 

@@ -1,4 +1,4 @@
-# 新的日产 Leaf 车型将采用无线充电和其他电气技术 TechCrunch
+# 新的日产 Leaf 车型将采用无线充电和其他电气技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/new-nissan-leaf-models-will-feature-wireless-charging-and-other-electrical-advances/>
 

@@ -1,4 +1,4 @@
-# Klout 希望潜在雇主在雇佣你之前考虑你的分数。这是愚蠢的。TechCrunch
+# Klout 希望潜在雇主在雇佣你之前考虑你的分数。这是愚蠢的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/29/klout-would-like-potential-employers-to-consider-your-score-before-hiring-you-and-thats-stupid/>
 

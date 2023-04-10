@@ -1,4 +1,4 @@
-# Jawbone UP 用户:你的端盖怎么样了？TechCrunch
+# Jawbone UP 用户:你的端盖怎么样了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/21/jawbone-up-users-how-is-your-end-cap-holding-up/>
 

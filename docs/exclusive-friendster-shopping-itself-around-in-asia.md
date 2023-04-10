@@ -1,4 +1,4 @@
-# 独家报道:Friendster 在亚洲购物 TechCrunch
+# 独家报道:Friendster 在亚洲购物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/27/exclusive-friendster-shopping-itself-around-in-asia/>
 

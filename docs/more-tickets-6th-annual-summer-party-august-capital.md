@@ -1,4 +1,4 @@
-# 八月资本第六届年度夏季派对门票现已发售 TechCrunch
+# 八月资本第六届年度夏季派对门票现已发售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/more-tickets-6th-annual-summer-party-august-capital/>
 

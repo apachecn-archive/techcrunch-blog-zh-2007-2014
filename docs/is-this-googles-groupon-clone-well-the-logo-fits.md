@@ -1,4 +1,4 @@
-# 这是谷歌的 Groupon 克隆吗？这个标志很合适。[更新:已确认 TechCrunch
+# 这是谷歌的 Groupon 克隆吗？这个标志很合适。[更新:已确认 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/20/is-this-googles-groupon-clone-well-the-logo-fits/>
 

@@ -1,4 +1,4 @@
-# 苹果:我们能不能不要再说“神奇”了？TechCrunch
+# 苹果:我们能不能不要再说“神奇”了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/03/apple-can-we-stop-with-the-magical-already/>
 

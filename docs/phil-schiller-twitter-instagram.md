@@ -1,4 +1,4 @@
-# 苹果高管菲尔·席勒现在活跃在 Twitter 上，也活跃在 Instagram 上！TechCrunch
+# 苹果高管菲尔·席勒现在活跃在 Twitter 上，也活跃在 Instagram 上！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/22/phil-schiller-twitter-instagram/>
 

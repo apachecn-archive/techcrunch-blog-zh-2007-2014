@@ -1,4 +1,4 @@
-# Weblogs，Inc .三年后:惊人的页面浏览量和收入增长 TechCrunch
+# Weblogs，Inc .三年后:惊人的页面浏览量和收入增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/22/weblogs-inc-three-years-later-impressive-page-view-and-revenue-growth/>
 

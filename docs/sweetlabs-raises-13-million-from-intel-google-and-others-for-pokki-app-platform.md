@@ -1,4 +1,4 @@
-# SweetLabs 从英特尔、谷歌和其他公司筹集了 1300 万美元用于 Pokki 应用平台 TechCrunch
+# SweetLabs 从英特尔、谷歌和其他公司筹集了 1300 万美元用于 Pokki 应用平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/29/sweetlabs-raises-13-million-from-intel-google-and-others-for-pokki-app-platform/>
 

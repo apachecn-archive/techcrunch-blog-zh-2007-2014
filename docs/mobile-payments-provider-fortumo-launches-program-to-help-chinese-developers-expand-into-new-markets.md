@@ -1,4 +1,4 @@
-# 移动支付提供商 Fortumo 推出计划，帮助中国开发者拓展新市场 TechCrunch
+# 移动支付提供商 Fortumo 推出计划，帮助中国开发者拓展新市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/mobile-payments-provider-fortumo-launches-program-to-help-chinese-developers-expand-into-new-markets/>
 

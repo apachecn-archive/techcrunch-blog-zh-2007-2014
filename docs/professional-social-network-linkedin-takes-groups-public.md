@@ -1,4 +1,4 @@
-# 职业社交网络 LinkedIn 将团体上市 TechCrunch
+# 职业社交网络 LinkedIn 将团体上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/20/professional-social-network-linkedin-takes-groups-public/>
 

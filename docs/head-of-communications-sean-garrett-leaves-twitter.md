@@ -1,4 +1,4 @@
-# 通信主管 Sean Garrett 离开 Twitter TechCrunch
+# 通信主管 Sean Garrett 离开 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/head-of-communications-sean-garrett-leaves-twitter/>
 

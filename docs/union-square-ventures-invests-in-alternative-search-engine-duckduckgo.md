@@ -1,4 +1,4 @@
-# Union Square Ventures，其他公司投资另类搜索引擎 duck duck go TechCrunch
+# Union Square Ventures，其他公司投资另类搜索引擎 duck duck go 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/union-square-ventures-invests-in-alternative-search-engine-duckduckgo/>
 

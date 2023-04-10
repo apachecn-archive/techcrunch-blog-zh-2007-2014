@@ -1,4 +1,4 @@
-# Airbnb 收购总部位于英国的 Crashpadder，作为推动国际增长的一部分 TechCrunch
+# Airbnb 收购总部位于英国的 Crashpadder，作为推动国际增长的一部分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/20/airbnb-acquires-uk-based-crashpadder-as-part-of-international-growth-push/>
 

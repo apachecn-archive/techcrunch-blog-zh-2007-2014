@@ -1,4 +1,4 @@
-# 脸书将取消 5000 个好友的限制 TechCrunch
+# 脸书将取消 5000 个好友的限制 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/09/facebook-to-lift-5000-friends-limit/>
 

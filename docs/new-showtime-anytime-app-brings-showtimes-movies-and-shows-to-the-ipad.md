@@ -1,4 +1,4 @@
-# 新的“Showtime Anytime”应用程序将 Showtime 的电影和节目引入 iPad TechCrunch
+# 新的“Showtime Anytime”应用程序将 Showtime 的电影和节目引入 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/10/new-showtime-anytime-app-brings-showtimes-movies-and-shows-to-the-ipad/>
 

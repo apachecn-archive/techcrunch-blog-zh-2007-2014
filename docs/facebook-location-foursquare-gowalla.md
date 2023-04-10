@@ -1,4 +1,4 @@
-# 脸书正在测试使用 Foursquare 和 Gowalla 签到来发布其位置信息 TechCrunch
+# 脸书正在测试使用 Foursquare 和 Gowalla 签到来发布其位置信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/10/facebook-location-foursquare-gowalla/>
 

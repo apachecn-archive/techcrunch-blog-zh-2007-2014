@@ -1,4 +1,4 @@
-# 杨致远到底在哪里？TechCrunch
+# 杨致远到底在哪里？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/21/where-in-the-world-is-jerry-yang/>
 

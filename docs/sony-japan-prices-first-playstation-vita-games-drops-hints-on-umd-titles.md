@@ -1,4 +1,4 @@
-# 索尼日本推出首款 Playstation Vita 游戏 TechCrunch
+# 索尼日本推出首款 Playstation Vita 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/sony-japan-prices-first-playstation-vita-games-drops-hints-on-umd-titles/>
 

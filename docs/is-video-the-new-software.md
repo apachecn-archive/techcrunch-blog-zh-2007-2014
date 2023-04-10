@@ -1,4 +1,4 @@
-# 视频是新软件吗？TechCrunch
+# 视频是新软件吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/26/is-video-the-new-software/>
 

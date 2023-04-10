@@ -1,4 +1,4 @@
-# 米克说，潘多拉和 Twitter 的大部分流量是移动的；Square 交易增长 20，000% TechCrunch
+# 米克说，潘多拉和 Twitter 的大部分流量是移动的；Square 交易增长 20，000% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/meeker-mobile-pandora-twitter-square/>
 

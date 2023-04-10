@@ -1,4 +1,4 @@
-# 百万美元主页创建者 2 分钟无所事事 TechCrunch
+# 百万美元主页创建者 2 分钟无所事事 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/creator-of-million-dollar-homepage-makes-do-nothing-for-2-minutes/>
 

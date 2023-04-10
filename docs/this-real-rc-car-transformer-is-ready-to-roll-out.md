@@ -1,4 +1,4 @@
-# 这款真正的 RC 汽车变压器即将推出 TechCrunch
+# 这款真正的 RC 汽车变压器即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/08/this-real-rc-car-transformer-is-ready-to-roll-out/>
 

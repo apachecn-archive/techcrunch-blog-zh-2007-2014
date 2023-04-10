@@ -1,4 +1,4 @@
-# PayPal 推出改进的 iPhone 应用程序，与 Bump 合作进行电话窃听转账 TechCrunch
+# PayPal 推出改进的 iPhone 应用程序，与 Bump 合作进行电话窃听转账 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/15/paypal-iphone-app-bump/>
 

@@ -1,4 +1,4 @@
-# Cater2.me 可能正在资助你最喜欢的初创公司 TechCrunch
+# Cater2.me 可能正在资助你最喜欢的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/09/cater2-me-feeds-startups/>
 

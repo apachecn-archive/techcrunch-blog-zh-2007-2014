@@ -1,4 +1,4 @@
-# Bose 用更便宜的入耳式耳机击败德瑞医生 TechCrunch
+# Bose 用更便宜的入耳式耳机击败德瑞医生 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/bose-out-to-beat-dr-dre-with-cheaper-on-ear-headphones/>
 

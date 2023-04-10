@@ -1,4 +1,4 @@
-# 是的，Android 的新面部解锁功能可以被一张照片骗过 TechCrunch
+# 是的，Android 的新面部解锁功能可以被一张照片骗过 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/android-facial-unlock-photo/>
 

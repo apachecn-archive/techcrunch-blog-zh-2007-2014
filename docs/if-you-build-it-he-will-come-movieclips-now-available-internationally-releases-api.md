@@ -1,4 +1,4 @@
-# 如果你建造了它，他会来的:电影剪辑现在可以在国际上使用，发布 API TechCrunch
+# 如果你建造了它，他会来的:电影剪辑现在可以在国际上使用，发布 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/01/if-you-build-it-he-will-come-movieclips-now-available-internationally-releases-api/>
 

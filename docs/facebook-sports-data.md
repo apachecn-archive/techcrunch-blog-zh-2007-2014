@@ -1,4 +1,4 @@
-# 脸书选择 SportStream 为新闻媒体增强实时体育数据 TechCrunch
+# 脸书选择 SportStream 为新闻媒体增强实时体育数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/18/facebook-sports-data/>
 

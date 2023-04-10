@@ -1,4 +1,4 @@
-# TechCrunch 的数学，第 2 部分:它有偏好吗？TechCrunch
+# TechCrunch 的数学，第 2 部分:它有偏好吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/26/math-techcrunch-part-2-favorites/>
 

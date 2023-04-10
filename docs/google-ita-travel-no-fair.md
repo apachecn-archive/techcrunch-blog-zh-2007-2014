@@ -1,4 +1,4 @@
-# 谷歌提议的 ITA 交易让在线旅游业叫苦不迭，“不公平！”TechCrunch
+# 谷歌提议的 ITA 交易让在线旅游业叫苦不迭，“不公平！”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/google-ita-travel-no-fair/>
 

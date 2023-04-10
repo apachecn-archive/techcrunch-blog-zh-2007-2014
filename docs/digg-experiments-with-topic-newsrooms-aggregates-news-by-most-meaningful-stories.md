@@ -1,4 +1,4 @@
-# Digg 尝试主题新闻编辑室，通过“最有意义”的故事聚合新闻 TechCrunch
+# Digg 尝试主题新闻编辑室，通过“最有意义”的故事聚合新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/digg-experiments-with-topic-newsrooms-aggregates-news-by-most-meaningful-stories/>
 

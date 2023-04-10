@@ -1,4 +1,4 @@
-# 大数据可视化初创公司 Lucky Sort 与 StockTwits 合作，让投资者实时绘制股票趋势图 TechCrunch
+# 大数据可视化初创公司 Lucky Sort 与 StockTwits 合作，让投资者实时绘制股票趋势图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/01/big-data-visualization-startup-lucky-sort-partners-with-stocktwits-lets-investors-chart-stock-trends-in-real-time/>
 

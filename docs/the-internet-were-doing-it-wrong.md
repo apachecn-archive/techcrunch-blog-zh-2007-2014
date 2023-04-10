@@ -1,4 +1,4 @@
-# 互联网:我们做错了 TechCrunch
+# 互联网:我们做错了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/18/the-internet-were-doing-it-wrong/>
 

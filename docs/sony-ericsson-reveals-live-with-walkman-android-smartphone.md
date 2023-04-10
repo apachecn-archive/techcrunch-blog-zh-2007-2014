@@ -1,4 +1,4 @@
-# 索尼爱立信推出“随身听生活”安卓智能手机 TechCrunch
+# 索尼爱立信推出“随身听生活”安卓智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/sony-ericsson-reveals-live-with-walkman-android-smartphone/>
 

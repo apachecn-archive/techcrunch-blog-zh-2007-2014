@@ -1,4 +1,4 @@
-# 通过调整，Twitter“关注谁”变得更强大、更灵活 TechCrunch
+# 通过调整，Twitter“关注谁”变得更强大、更灵活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/20/twitter-recommendations-2/>
 

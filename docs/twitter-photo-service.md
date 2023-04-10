@@ -1,4 +1,4 @@
-# Twitter 超越 TwitPic 和 YFrog 成为头号图片服务 TechCrunch
+# Twitter 超越 TwitPic 和 YFrog 成为头号图片服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/twitter-photo-service/>
 

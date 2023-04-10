@@ -1,4 +1,4 @@
-# 皮尤:30%的美国成年人没有宽带；10%的人将智能手机作为唯一的互联网接入手段；20%的人没有 TechCrunch
+# 皮尤:30%的美国成年人没有宽带；10%的人将智能手机作为唯一的互联网接入手段；20%的人没有 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/26/pew-30-of-u-s-adults-dont-have-broadband-10-use-smartphones-as-sole-internet-access-20-have-zilch/>
 

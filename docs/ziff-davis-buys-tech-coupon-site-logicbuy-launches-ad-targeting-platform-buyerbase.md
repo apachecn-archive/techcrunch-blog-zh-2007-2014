@@ -1,4 +1,4 @@
-# Ziff Davis 收购技术交易网站 LogicBuy 推出广告定位平台 buyer base TechCrunch
+# Ziff Davis 收购技术交易网站 LogicBuy 推出广告定位平台 buyer base 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/04/ziff-davis-buys-tech-coupon-site-logicbuy-launches-ad-targeting-platform-buyerbase/>
 

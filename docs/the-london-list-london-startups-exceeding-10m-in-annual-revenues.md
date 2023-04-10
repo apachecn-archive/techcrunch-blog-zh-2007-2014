@@ -1,4 +1,4 @@
-# 伦敦榜单-伦敦初创企业年收入超过 1000 万美元 TechCrunch
+# 伦敦榜单-伦敦初创企业年收入超过 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/10/the-london-list-london-startups-exceeding-10m-in-annual-revenues/>
 

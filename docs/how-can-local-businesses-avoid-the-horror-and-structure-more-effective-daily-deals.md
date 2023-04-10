@@ -1,4 +1,4 @@
-# 当地企业如何避免恐惧，构建更有效的日常交易？TechCrunch
+# 当地企业如何避免恐惧，构建更有效的日常交易？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/10/how-can-local-businesses-avoid-the-horror-and-structure-more-effective-daily-deals/>
 

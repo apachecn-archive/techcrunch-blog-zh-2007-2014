@@ -1,4 +1,4 @@
-# 亚马逊将于 9 月 28 日召开新闻发布会，新款平板电脑即将上市？TechCrunch
+# 亚马逊将于 9 月 28 日召开新闻发布会，新款平板电脑即将上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/amazon-to-hold-press-conference-on-928-new-tablet-incoming/>
 

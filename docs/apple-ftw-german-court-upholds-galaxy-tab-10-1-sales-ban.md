@@ -1,4 +1,4 @@
-# 苹果 FTW，德国法院支持 Galaxy Tab 10.1 销售禁令 TechCrunch
+# 苹果 FTW，德国法院支持 Galaxy Tab 10.1 销售禁令 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/apple-ftw-german-court-upholds-galaxy-tab-10-1-sales-ban/>
 

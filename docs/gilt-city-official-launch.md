@@ -1,4 +1,4 @@
-# Gilt City 正式成立，扩展到美国六个城市 TechCrunch
+# Gilt City 正式成立，扩展到美国六个城市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/gilt-city-official-launch/>
 

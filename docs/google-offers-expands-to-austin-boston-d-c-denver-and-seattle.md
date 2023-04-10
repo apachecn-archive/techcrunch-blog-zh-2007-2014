@@ -1,4 +1,4 @@
-# Google 将服务扩展到奥斯汀、波士顿、丹佛和西雅图 TechCrunch
+# Google 将服务扩展到奥斯汀、波士顿、丹佛和西雅图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/google-offers-expands-to-austin-boston-d-c-denver-and-seattle/>
 

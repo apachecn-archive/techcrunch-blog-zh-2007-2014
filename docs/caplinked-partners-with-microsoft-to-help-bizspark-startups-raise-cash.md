@@ -1,4 +1,4 @@
-# 与微软合作帮助 BizSpark 创业公司筹集资金 TechCrunch
+# 与微软合作帮助 BizSpark 创业公司筹集资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/caplinked-partners-with-microsoft-to-help-bizspark-startups-raise-cash/>
 

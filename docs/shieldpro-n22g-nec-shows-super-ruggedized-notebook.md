@@ -1,4 +1,4 @@
-# ShieldPRO N22G: NEC 展示超耐用笔记本电脑 TechCrunch
+# ShieldPRO N22G: NEC 展示超耐用笔记本电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/shieldpro-n22g-nec-shows-super-ruggedized-notebook/>
 

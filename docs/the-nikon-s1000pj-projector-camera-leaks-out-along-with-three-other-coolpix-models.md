@@ -1,4 +1,4 @@
-# 尼康 S1000PJ 投影仪相机与其他三款 Coolpix 型号一起泄露 TechCrunch
+# 尼康 S1000PJ 投影仪相机与其他三款 Coolpix 型号一起泄露 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/03/the-nikon-s1000pj-projector-camera-leaks-out-along-with-three-other-coolpix-models/>
 

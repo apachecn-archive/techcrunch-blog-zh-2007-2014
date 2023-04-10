@@ -1,4 +1,4 @@
-# LoginBox 推出了一种新的密码管理器，它可以记录你的工作流程(但是它安全吗？)TechCrunch
+# LoginBox 推出了一种新的密码管理器，它可以记录你的工作流程(但是它安全吗？)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/10/loginbox-debuts-a-new-kind-of-password-manager-that-actually-records-your-workflows-but-is-it-safe/>
 

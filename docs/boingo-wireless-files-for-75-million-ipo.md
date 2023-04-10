@@ -1,4 +1,4 @@
-# Boingo Wireless 申请 7500 万美元的 IPO TechCrunch
+# Boingo Wireless 申请 7500 万美元的 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/14/boingo-wireless-files-for-75-million-ipo/>
 

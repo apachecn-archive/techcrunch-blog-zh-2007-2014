@@ -1,4 +1,4 @@
-# 帝国大道改版界面，增加 Google+评分 TechCrunch
+# 帝国大道改版界面，增加 Google+评分 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/12/empire-avenue-revamps-interface-adds-google-scoring/>
 

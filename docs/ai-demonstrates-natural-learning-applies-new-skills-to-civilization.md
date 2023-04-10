@@ -1,4 +1,4 @@
-# 人工智能展示自然学习，将新技能应用于文明 TechCrunch
+# 人工智能展示自然学习，将新技能应用于文明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/ai-demonstrates-natural-learning-applies-new-skills-to-civilization/>
 

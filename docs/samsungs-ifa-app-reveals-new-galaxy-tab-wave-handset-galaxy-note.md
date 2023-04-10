@@ -1,4 +1,4 @@
-# 三星的 IFA 应用揭示了新的 Galaxy Tab，Wave 手机 TechCrunch
+# 三星的 IFA 应用揭示了新的 Galaxy Tab，Wave 手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/samsungs-ifa-app-reveals-new-galaxy-tab-wave-handset-galaxy-note/>
 

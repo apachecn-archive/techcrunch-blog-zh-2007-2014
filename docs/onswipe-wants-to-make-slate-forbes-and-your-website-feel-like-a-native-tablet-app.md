@@ -1,4 +1,4 @@
-# Onswipe 希望让 Slate、Forbes 和你的网站感觉像一个原生平板电脑应用 TechCrunch
+# Onswipe 希望让 Slate、Forbes 和你的网站感觉像一个原生平板电脑应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/20/onswipe-wants-to-make-slate-forbes-and-your-website-feel-like-a-native-tablet-app/>
 

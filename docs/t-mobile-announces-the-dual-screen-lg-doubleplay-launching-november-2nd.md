@@ -1,4 +1,4 @@
-# T-Mobile 宣布将于 11 月 2 日推出双屏 LG DoublePlay？TechCrunch
+# T-Mobile 宣布将于 11 月 2 日推出双屏 LG DoublePlay？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/t-mobile-announces-the-dual-screen-lg-doubleplay-launching-november-2nd/>
 

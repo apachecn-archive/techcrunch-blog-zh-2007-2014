@@ -1,4 +1,4 @@
-# 意大利维基百科关闭抗议拟议中的法律 TechCrunch
+# 意大利维基百科关闭抗议拟议中的法律 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/italian-wikipedia-shuts-down-in-protest-of-proposed-law/>
 

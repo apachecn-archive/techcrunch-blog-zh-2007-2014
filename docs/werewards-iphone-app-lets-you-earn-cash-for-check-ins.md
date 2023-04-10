@@ -1,4 +1,4 @@
-# 狼人的 iPhone 应用程序让你为签到赚取现金 TechCrunch
+# 狼人的 iPhone 应用程序让你为签到赚取现金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/25/werewards-iphone-app-lets-you-earn-cash-for-check-ins/>
 

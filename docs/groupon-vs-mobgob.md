@@ -1,4 +1,4 @@
-# Groupon 起诉团购网站 MobGob 超过 9 年专利 TechCrunch
+# Groupon 起诉团购网站 MobGob 超过 9 年专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/19/groupon-vs-mobgob/>
 

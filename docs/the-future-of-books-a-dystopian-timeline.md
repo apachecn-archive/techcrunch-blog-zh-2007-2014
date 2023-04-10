@@ -1,4 +1,4 @@
-# 书籍的未来:反乌托邦时间线 TechCrunch
+# 书籍的未来:反乌托邦时间线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/the-future-of-books-a-dystopian-timeline/>
 

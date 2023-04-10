@@ -1,4 +1,4 @@
-# 幸运的易贝买家在视频上演示冰淇淋三明治 TechCrunch
+# 幸运的易贝买家在视频上演示冰淇淋三明治 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/lucky-ebay-buyer-demos-ice-cream-sandwich-on-video/>
 

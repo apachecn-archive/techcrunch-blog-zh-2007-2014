@@ -1,4 +1,4 @@
-# Meteocontrol 北美公司和普林斯顿太阳能解决方案公司结成合作伙伴 TechCrunch
+# Meteocontrol 北美公司和普林斯顿太阳能解决方案公司结成合作伙伴 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/meteocontrol-north-america-and-princeton-solar-solutions-form-partnership/>
 

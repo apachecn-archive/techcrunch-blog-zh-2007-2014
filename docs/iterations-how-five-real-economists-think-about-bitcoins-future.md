@@ -1,4 +1,4 @@
-# 迭代:五位真正的经济学家如何看待比特币的未来 TechCrunch
+# 迭代:五位真正的经济学家如何看待比特币的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/14/iterations-how-five-real-economists-think-about-bitcoins-future/>
 

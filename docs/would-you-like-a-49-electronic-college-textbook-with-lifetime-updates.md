@@ -1,4 +1,4 @@
-# 你想要一本终身更新的 49 美元电子大学教科书吗？TechCrunch
+# 你想要一本终身更新的 49 美元电子大学教科书吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/24/would-you-like-a-49-electronic-college-textbook-with-lifetime-updates/>
 

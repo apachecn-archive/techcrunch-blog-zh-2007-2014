@@ -1,4 +1,4 @@
-# SalesVu 为类似 Square 的移动支付服务筹集了 60 万美元 TechCrunch
+# SalesVu 为类似 Square 的移动支付服务筹集了 60 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/salesvu-raises-600k-for-square-like-mobile-payments-service/>
 

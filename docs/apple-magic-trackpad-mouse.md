@@ -1,4 +1,4 @@
-# 苹果的魔法轨迹板标志着鼠标时代的终结 TechCrunch
+# 苹果的魔法轨迹板标志着鼠标时代的终结 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/27/apple-magic-trackpad-mouse/>
 

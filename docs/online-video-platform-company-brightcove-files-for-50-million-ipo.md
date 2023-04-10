@@ -1,4 +1,4 @@
-# 在线视频平台公司 Brightcove 申请 5000 万美元 IPO TechCrunch
+# 在线视频平台公司 Brightcove 申请 5000 万美元 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/online-video-platform-company-brightcove-files-for-50-million-ipo/>
 

@@ -1,4 +1,4 @@
-# Rhapsody 收购流媒体音乐竞争对手 Napster TechCrunch
+# Rhapsody 收购流媒体音乐竞争对手 Napster 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/rhapsody-to-acquire-streaming-music-competitor-napster/>
 

@@ -1,4 +1,4 @@
-# Netvibes 推出面向品牌和代理商的强大社交分析平台 TechCrunch
+# Netvibes 推出面向品牌和代理商的强大社交分析平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/netvibes-debuts-powerful-social-analytics-platform-for-brands-and-agencies/>
 

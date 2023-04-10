@@ -1,4 +1,4 @@
-# 大袋周赠品:一台惠普 OfficeJet 打印机、一台惠普笔记本电脑，当然还有一个袋子 TechCrunch
+# 大袋周赠品:一台惠普 OfficeJet 打印机、一台惠普笔记本电脑，当然还有一个袋子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/the-big-bag-week-giveaway-an-hp-officejet-printer-an-hp-laptop-and-obviously-a-bag/>
 

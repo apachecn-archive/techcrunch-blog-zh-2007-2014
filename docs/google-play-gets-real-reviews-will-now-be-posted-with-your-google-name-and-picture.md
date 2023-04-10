@@ -1,4 +1,4 @@
-# Google Play 变得真实:评论现在将与您的 Google+名称和图片一起发布 TechCrunch
+# Google Play 变得真实:评论现在将与您的 Google+名称和图片一起发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/26/google-play-gets-real-reviews-will-now-be-posted-with-your-google-name-and-picture/>
 

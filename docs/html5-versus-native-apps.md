@@ -1,4 +1,4 @@
-# HTML5 是迎面而来的列车，但本地应用开发是迎面而来的火箭船 TechCrunch
+# HTML5 是迎面而来的列车，但本地应用开发是迎面而来的火箭船 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/html5-versus-native-apps/>
 

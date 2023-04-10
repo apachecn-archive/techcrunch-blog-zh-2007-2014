@@ -1,4 +1,4 @@
-# iFixIt 拆除 Macintosh 128K 庆祝计算机 30 岁生日 TechCrunch
+# iFixIt 拆除 Macintosh 128K 庆祝计算机 30 岁生日 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/24/ifixit-tears-down-the-macintosh-128k-to-celebrate-the-computers-30th-birthday/>
 

@@ -1,4 +1,4 @@
-# 东海岸暴风雪推动在线假日销售 TechCrunch
+# 东海岸暴风雪推动在线假日销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/22/online-holiday-sales-boosted-by-east-coast-snowstorms/>
 

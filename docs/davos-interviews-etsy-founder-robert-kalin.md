@@ -1,4 +1,4 @@
-# 达沃斯访谈:Etsy 创始人罗伯特卡琳 TechCrunch
+# 达沃斯访谈:Etsy 创始人罗伯特卡琳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/02/01/davos-interviews-etsy-founder-robert-kalin/>
 

@@ -1,4 +1,4 @@
-# 奢侈时尚初创公司 StyleSaint 轮融资 430 万美元，推出首款服装系列 TechCrunch
+# 奢侈时尚初创公司 StyleSaint 轮融资 430 万美元，推出首款服装系列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/14/stylesaint-funding-apparel-launch/>
 

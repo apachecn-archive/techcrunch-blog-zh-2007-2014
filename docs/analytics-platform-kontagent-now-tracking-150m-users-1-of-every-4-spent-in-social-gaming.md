@@ -1,4 +1,4 @@
-# 分析平台 Kontagent 现在追踪 1.5 亿用户；花在社交游戏上的每 4 美元中的 1 美元 TechCrunch
+# 分析平台 Kontagent 现在追踪 1.5 亿用户；花在社交游戏上的每 4 美元中的 1 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/analytics-platform-kontagent-now-tracking-150m-users-1-of-every-4-spent-in-social-gaming/>
 

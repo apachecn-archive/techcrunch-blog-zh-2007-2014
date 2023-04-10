@@ -1,4 +1,4 @@
-# 什么是游戏:不再有游戏的铁王座 TechCrunch
+# 什么是游戏:不再有游戏的铁王座 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/12/what-games-are-there-is-no-iron-throne-of-games-any-more/>
 

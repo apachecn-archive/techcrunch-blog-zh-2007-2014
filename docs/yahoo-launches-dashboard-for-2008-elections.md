@@ -1,4 +1,4 @@
-# 雅虎为 2008 年选举推出仪表板 TechCrunch
+# 雅虎为 2008 年选举推出仪表板 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/14/yahoo-launches-dashboard-for-2008-elections/>
 

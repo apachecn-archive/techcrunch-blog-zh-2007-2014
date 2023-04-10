@@ -1,4 +1,4 @@
-# 扰乱北京决赛:太好了，我们不得不选择六个 TechCrunch
+# 扰乱北京决赛:太好了，我们不得不选择六个 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/disrupt-beijing-finalists-so-good-we-had-to-pick-six/>
 

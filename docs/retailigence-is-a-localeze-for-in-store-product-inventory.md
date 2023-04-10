@@ -1,4 +1,4 @@
-# Retailigence 是店内产品库存的区域设置 TechCrunch
+# Retailigence 是店内产品库存的区域设置 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/12/retailigence-is-a-localeze-for-in-store-product-inventory/>
 

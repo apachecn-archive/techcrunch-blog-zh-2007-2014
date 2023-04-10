@@ -1,4 +1,4 @@
-# 微缩照片:你的小宝宝的 3D 打印照片 TechCrunch
+# 微缩照片:你的小宝宝的 3D 打印照片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/miniaturemoments-3d-printed-pictures-of-your-wee-bairns/>
 

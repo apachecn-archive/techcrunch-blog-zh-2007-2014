@@ -1,4 +1,4 @@
-# 苹果在 App Store 搜索上啃咬？开发者看到搜索结果的转变 TechCrunch
+# 苹果在 App Store 搜索上啃咬？开发者看到搜索结果的转变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/23/apple-app-store-relevancy/>
 

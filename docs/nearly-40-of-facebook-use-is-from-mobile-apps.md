@@ -1,4 +1,4 @@
-# 近 40%的脸书用户是移动应用用户 TechCrunch
+# 近 40%的脸书用户是移动应用用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/29/nearly-40-of-facebook-use-is-from-mobile-apps/>
 

@@ -1,4 +1,4 @@
-# T-Mobile 登陆黑莓 Bold 9900，这是其首款 4G 黑莓手机 TechCrunch
+# T-Mobile 登陆黑莓 Bold 9900，这是其首款 4G 黑莓手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/t-mobile-lands-the-blackberry-bold-9900-its-first-4g-blackberry/>
 

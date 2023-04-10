@@ -1,4 +1,4 @@
-# 神圣的 CATS！这是你苹果电脑后面放东西的架子！TechCrunch
+# 神圣的 CATS！这是你苹果电脑后面放东西的架子！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/holy-cats-its-a-shelf-for-stuff-behind-your-apple-computer/>
 

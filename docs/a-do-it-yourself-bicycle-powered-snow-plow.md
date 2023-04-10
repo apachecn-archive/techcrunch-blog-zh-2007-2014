@@ -1,4 +1,4 @@
-# 一台自己动手的自行车动力扫雪机 TechCrunch
+# 一台自己动手的自行车动力扫雪机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/a-do-it-yourself-bicycle-powered-snow-plow/>
 

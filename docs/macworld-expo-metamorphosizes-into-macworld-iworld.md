@@ -1,4 +1,4 @@
-# Macworld Expo 变成 Macworld | I world TechCrunch
+# Macworld Expo 变成 Macworld | I world 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/macworld-expo-metamorphosizes-into-macworld-iworld/>
 

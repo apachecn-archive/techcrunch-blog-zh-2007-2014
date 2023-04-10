@@ -1,4 +1,4 @@
-# 城市飞艇筹集了 2500 万美元，因为它扩展到了移动后端 TechCrunch
+# 城市飞艇筹集了 2500 万美元，因为它扩展到了移动后端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/06/urban-airship-raises-25-million-as-it-expands-beyond-the-mobile-backend/>
 

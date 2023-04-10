@@ -1,4 +1,4 @@
-# 亲身体验 Iomega 超级英雄 iPhone 备份和充电器 TechCrunch
+# 亲身体验 Iomega 超级英雄 iPhone 备份和充电器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/09/hands-on-with-the-iomega-superhero-iphone-back-up-and-charger/>
 

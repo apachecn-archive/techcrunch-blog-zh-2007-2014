@@ -1,4 +1,4 @@
-# Gigya 推出平台，让企业获得用户的完整社交身份 TechCrunch
+# Gigya 推出平台，让企业获得用户的完整社交身份 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/gigya-launches-platform-to-give-businesses-access-to-users-complete-social-identities/>
 

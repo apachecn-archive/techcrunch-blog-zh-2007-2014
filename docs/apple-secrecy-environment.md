@@ -1,4 +1,4 @@
-# 苹果重视保密胜过环境吗？TechCrunch
+# 苹果重视保密胜过环境吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/04/apple-secrecy-environment/>
 

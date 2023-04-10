@@ -1,4 +1,4 @@
-# Qwilt 推出网络视频交付平台 TechCrunch
+# Qwilt 推出网络视频交付平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/qwilt-debuts-network-video-delivery-platform/>
 

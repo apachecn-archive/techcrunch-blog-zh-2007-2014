@@ -1,4 +1,4 @@
-# 视频:Kinect 控制的千兆像素图像探索 TechCrunch
+# 视频:Kinect 控制的千兆像素图像探索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/video-kinect-controlled-gigapixel-image-exploration/>
 

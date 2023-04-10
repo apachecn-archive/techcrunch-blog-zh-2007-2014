@@ -1,4 +1,4 @@
-# “隐形钥匙”让你用手势打开门 TechCrunch
+# “隐形钥匙”让你用手势打开门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/invisible-key-lets-you-unlocks-doors-with-hand-gestures/>
 

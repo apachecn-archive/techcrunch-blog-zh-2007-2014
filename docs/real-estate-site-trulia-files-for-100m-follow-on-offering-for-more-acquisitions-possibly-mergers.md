@@ -1,4 +1,4 @@
-# 房地产网站 Trulia 申请 1.5 亿美元的后续发行，以进行更多收购，可能是合并 TechCrunch
+# 房地产网站 Trulia 申请 1.5 亿美元的后续发行，以进行更多收购，可能是合并 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/11/real-estate-site-trulia-files-for-100m-follow-on-offering-for-more-acquisitions-possibly-mergers/>
 

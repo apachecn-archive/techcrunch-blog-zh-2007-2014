@@ -1,4 +1,4 @@
-# Mozilla Festival 向更多爆米花和更少开发者致敬 TechCrunch
+# Mozilla Festival 向更多爆米花和更少开发者致敬 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/mozilla-festival-salutes-more-popcorn-and-less-developer-ghetto/>
 

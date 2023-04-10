@@ -1,4 +1,4 @@
-# Crunchdeal:劲量精装手电筒 TechCrunch
+# Crunchdeal:劲量精装手电筒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/crunchdeal-energizer-hardcase-flashlight/>
 

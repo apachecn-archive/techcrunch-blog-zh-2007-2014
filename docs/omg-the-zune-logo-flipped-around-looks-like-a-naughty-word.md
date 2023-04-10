@@ -1,4 +1,4 @@
-# OMG，翻转过来的 Zune 标志看起来像一个淘气的词 TechCrunch
+# OMG，翻转过来的 Zune 标志看起来像一个淘气的词 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/omg-the-zune-logo-flipped-around-looks-like-a-naughty-word/>
 

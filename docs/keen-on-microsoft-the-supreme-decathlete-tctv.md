@@ -1,4 +1,4 @@
-# 热衷于...微软:超级十项全能运动员(TCTV)TechCrunch
+# 热衷于...微软:超级十项全能运动员(TCTV)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/keen-on-microsoft-the-supreme-decathlete-tctv/>
 

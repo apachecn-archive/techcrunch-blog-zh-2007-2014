@@ -1,4 +1,4 @@
-# Levchin 和 Gurley 说下一个大公司将会抓住有趣的图表 TechCrunch
+# Levchin 和 Gurley 说下一个大公司将会抓住有趣的图表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/levchin-and-gurley-say-that-next-big-company-will-capture-the-interest-graph/>
 

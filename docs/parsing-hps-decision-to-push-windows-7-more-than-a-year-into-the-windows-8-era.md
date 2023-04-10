@@ -1,4 +1,4 @@
-# 解析惠普将 Windows 7 推向 Windows 8 时代一年多的决定 TechCrunch
+# 解析惠普将 Windows 7 推向 Windows 8 时代一年多的决定 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/20/parsing-hps-decision-to-push-windows-7-more-than-a-year-into-the-windows-8-era/>
 

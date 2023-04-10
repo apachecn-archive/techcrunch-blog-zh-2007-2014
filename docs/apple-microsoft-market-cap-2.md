@@ -1,4 +1,4 @@
-# 繁荣，的确:苹果市值超过微软 TechCrunch
+# 繁荣，的确:苹果市值超过微软 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/26/apple-microsoft-market-cap-2/>
 

@@ -1,4 +1,4 @@
-# 各大在线零售商如何应对黑色星期五的疯狂？TechCrunch
+# 各大在线零售商如何应对黑色星期五的疯狂？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/29/online-retailers-black-friday-uptime/>
 

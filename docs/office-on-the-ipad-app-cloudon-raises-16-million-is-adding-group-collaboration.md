@@ -1,4 +1,4 @@
-# “iPad 上的 Office”应用 CloudOn 筹集了 1600 万美元，正在增加小组协作 TechCrunch
+# “iPad 上的 Office”应用 CloudOn 筹集了 1600 万美元，正在增加小组协作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/21/office-on-the-ipad-app-cloudon-raises-16-million-is-adding-group-collaboration/>
 

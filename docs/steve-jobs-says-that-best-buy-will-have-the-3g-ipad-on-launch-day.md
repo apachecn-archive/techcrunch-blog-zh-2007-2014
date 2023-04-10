@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯说百思买将在发布日推出 3G 版 iPad TechCrunch
+# 史蒂夫·乔布斯说百思买将在发布日推出 3G 版 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/steve-jobs-says-that-best-buy-will-have-the-3g-ipad-on-launch-day/>
 

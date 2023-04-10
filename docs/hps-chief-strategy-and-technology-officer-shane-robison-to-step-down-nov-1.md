@@ -1,4 +1,4 @@
-# 惠普首席战略和技术官谢恩·罗宾逊将于 11 月 1 日离职 TechCrunch
+# 惠普首席战略和技术官谢恩·罗宾逊将于 11 月 1 日离职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/hps-chief-strategy-and-technology-officer-shane-robison-to-step-down-nov-1/>
 

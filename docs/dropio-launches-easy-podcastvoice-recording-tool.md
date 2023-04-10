@@ -1,4 +1,4 @@
-# Drop.io 推出简单的手机转 MP3 工具 TechCrunch
+# Drop.io 推出简单的手机转 MP3 工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/14/dropio-launches-easy-podcastvoice-recording-tool/>
 

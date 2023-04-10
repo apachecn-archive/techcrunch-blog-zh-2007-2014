@@ -1,4 +1,4 @@
-# 三星要求苹果支付 iPhone 芯片组 2.4%的费用 TechCrunch
+# 三星要求苹果支付 iPhone 芯片组 2.4%的费用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/samsung-asks-apple-for-2-4-payout-on-iphone-chipsets/>
 

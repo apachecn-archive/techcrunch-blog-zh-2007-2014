@@ -1,4 +1,4 @@
-# 脸书关于股票分割和转让费的股东通知 TechCrunch
+# 脸书关于股票分割和转让费的股东通知 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/13/facebooks-notice-to-shareholders-on-stock-split-and-transfer-fees/>
 

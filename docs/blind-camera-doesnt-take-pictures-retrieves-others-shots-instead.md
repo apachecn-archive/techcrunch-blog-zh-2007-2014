@@ -1,4 +1,4 @@
-# “盲人相机”不拍照，而是检索他人的镜头 TechCrunch
+# “盲人相机”不拍照，而是检索他人的镜头 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/01/blind-camera-doesnt-take-pictures-retrieves-others-shots-instead/>
 

@@ -1,4 +1,4 @@
-# 脸书确认其定位产品 TechCrunch
+# 脸书确认其定位产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/09/facebook-location-feature/>
 

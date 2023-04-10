@@ -1,4 +1,4 @@
-# 奇特的双屏 gScreen 笔记本电脑实际上已经上市 TechCrunch
+# 奇特的双屏 gScreen 笔记本电脑实际上已经上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/15/the-odd-dual-screen-gscreen-laptop-is-actually-shipping/>
 

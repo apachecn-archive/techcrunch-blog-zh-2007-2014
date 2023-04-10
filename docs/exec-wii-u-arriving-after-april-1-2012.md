@@ -1,4 +1,4 @@
-# 高管:Wii U 于 2012 年 4 月 1 日后上市 TechCrunch
+# 高管:Wii U 于 2012 年 4 月 1 日后上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/exec-wii-u-arriving-after-april-1-2012/>
 

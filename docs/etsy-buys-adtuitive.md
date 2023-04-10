@@ -1,4 +1,4 @@
-# Etsy 收购零售产品广告平台 Adtuitive，获得五名新程序员 TechCrunch
+# Etsy 收购零售产品广告平台 Adtuitive，获得五名新程序员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/18/etsy-buys-adtuitive/>
 

@@ -1,4 +1,4 @@
-# 前 Groupon 产品 SVP·杰夫·霍尔登加盟优步，担任首席产品官 TechCrunch
+# 前 Groupon 产品 SVP·杰夫·霍尔登加盟优步，担任首席产品官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/14/jeff-holden-uber-chief-product-officer/>
 

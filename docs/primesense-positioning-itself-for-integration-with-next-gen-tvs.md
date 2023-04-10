@@ -1,4 +1,4 @@
-# PrimeSense 定位于与下一代电视集成 TechCrunch
+# PrimeSense 定位于与下一代电视集成 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/primesense-positioning-itself-for-integration-with-next-gen-tvs/>
 

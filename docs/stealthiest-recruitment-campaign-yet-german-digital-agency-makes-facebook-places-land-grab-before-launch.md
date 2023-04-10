@@ -1,4 +1,4 @@
-# 史上最隐秘的招募活动？代理商让脸书在发布前抢占土地 TechCrunch
+# 史上最隐秘的招募活动？代理商让脸书在发布前抢占土地 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/stealthiest-recruitment-campaign-yet-german-digital-agency-makes-facebook-places-land-grab-before-launch/>
 

@@ -1,4 +1,4 @@
-# 百思买以 1.67 亿美元收购 IT 服务公司 mind shift TechCrunch
+# 百思买以 1.67 亿美元收购 IT 服务公司 mind shift 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/best-buy-acquires-it-services-company-mindshift-for-167-million/>
 

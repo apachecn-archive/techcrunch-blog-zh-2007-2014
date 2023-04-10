@@ -1,4 +1,4 @@
-# 6waves Lolapps 裁减了大部分开发团队，专注于发布游戏 TechCrunch
+# 6waves Lolapps 裁减了大部分开发团队，专注于发布游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/19/6waves-lolapps-layoffs/>
 

@@ -1,4 +1,4 @@
-# 迈克菲将极光行动称为“网络安全的分水岭时刻”,提供指导 TechCrunch
+# 迈克菲将极光行动称为“网络安全的分水岭时刻”,提供指导 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/17/mcafee-operation-aurora-2/>
 

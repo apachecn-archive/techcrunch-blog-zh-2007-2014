@@ -1,4 +1,4 @@
-# 底特律需要一座机械战警雕像！迄今为止最好的 Kickstarter 项目。TechCrunch
+# 底特律需要一座机械战警雕像！迄今为止最好的 Kickstarter 项目。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/detroit-robocop-statue/>
 

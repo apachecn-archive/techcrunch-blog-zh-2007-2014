@@ -1,4 +1,4 @@
-# 三星发布 Galaxy Gear 2、Gear 2 Neo 和 Gear Fit TechCrunch
+# 三星发布 Galaxy Gear 2、Gear 2 Neo 和 Gear Fit 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/samsung-unveils-the-galaxy-gear-2-gear-2-neo-and-gear-fit/>
 

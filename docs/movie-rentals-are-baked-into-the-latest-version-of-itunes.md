@@ -1,4 +1,4 @@
-# 影片租赁被嵌入到最新版本的 iTunes 中。TechCrunch
+# 影片租赁被嵌入到最新版本的 iTunes 中。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/09/movie-rentals-are-baked-into-the-latest-version-of-itunes/>
 

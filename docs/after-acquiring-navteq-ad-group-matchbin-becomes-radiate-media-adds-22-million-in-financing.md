@@ -1,4 +1,4 @@
-# 收购 NAVTEQ 广告集团后，Matchbin 成为辐射媒体；新增 2200 万美元融资 TechCrunch
+# 收购 NAVTEQ 广告集团后，Matchbin 成为辐射媒体；新增 2200 万美元融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/after-acquiring-navteq-ad-group-matchbin-becomes-radiate-media-adds-22-million-in-financing/>
 

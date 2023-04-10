@@ -1,4 +1,4 @@
-# 《老大哥 8》在威瑞森无线网站上全天候运行——TechCrunch
+# 《老大哥 8》在威瑞森无线网站上全天候运行——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/big-brother-8-goes-247-on-verizon-wireless/>
 

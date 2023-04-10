@@ -1,4 +1,4 @@
-# 鲍尔默承认我们都知道的事情:微软制造了太多的 surface TechCrunch
+# 鲍尔默承认我们都知道的事情:微软制造了太多的 surface 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/ballmer-admits-what-we-all-knew-microsoft-built-far-too-many-surfaces/>
 

@@ -1,4 +1,4 @@
-# Hulu Plus 为另外四种 Android 设备增加了流媒体支持 TechCrunch
+# Hulu Plus 为另外四种 Android 设备增加了流媒体支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/hulu-plus-android-devices/>
 

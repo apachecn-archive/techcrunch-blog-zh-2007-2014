@@ -1,4 +1,4 @@
-# T-Mobile 可能成为周三谷歌音乐活动的头条 TechCrunch
+# T-Mobile 可能成为周三谷歌音乐活动的头条 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/t-mobile-may-headline-google-music-event-on-wednesday/>
 

@@ -1,4 +1,4 @@
-# Vudu 现在传输到 iPad，使用 Web 应用程序来避免应用程序商店收入税 TechCrunch
+# Vudu 现在传输到 iPad，使用 Web 应用程序来避免应用程序商店收入税 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/vudu-is-now-streaming-to-the-ipad-uses-web-app-to-avoid-the-app-store-revenue-tax/>
 

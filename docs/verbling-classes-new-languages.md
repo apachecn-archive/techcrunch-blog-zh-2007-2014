@@ -1,4 +1,4 @@
-# 语言学习服务 Verbling 推出基于 Google Hangouts 的课程，增加了对 9 种新语言的支持 TechCrunch
+# 语言学习服务 Verbling 推出基于 Google Hangouts 的课程，增加了对 9 种新语言的支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/30/verbling-classes-new-languages/>
 

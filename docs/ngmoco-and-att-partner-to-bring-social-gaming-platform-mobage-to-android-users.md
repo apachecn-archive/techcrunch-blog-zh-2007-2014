@@ -1,4 +1,4 @@
-# Ngmoco 与美国电话电报公司合作，为 Android 用户带来社交游戏平台 Mobage TechCrunch
+# Ngmoco 与美国电话电报公司合作，为 Android 用户带来社交游戏平台 Mobage 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/ngmoco-and-att-partner-to-bring-social-gaming-platform-mobage-to-android-users/>
 

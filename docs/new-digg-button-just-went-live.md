@@ -1,4 +1,4 @@
-# 新的 Digg 按钮刚刚上线 TechCrunch
+# 新的 Digg 按钮刚刚上线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/29/new-digg-button-just-went-live/>
 

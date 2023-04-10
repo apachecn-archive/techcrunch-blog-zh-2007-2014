@@ -1,4 +1,4 @@
-# 苹果公司的 iPhone 以旧换新计划今天在美国全面启动 TechCrunch
+# 苹果公司的 iPhone 以旧换新计划今天在美国全面启动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/30/apples-iphone-trade-in-program-going-live-across-the-u-s-today/>
 

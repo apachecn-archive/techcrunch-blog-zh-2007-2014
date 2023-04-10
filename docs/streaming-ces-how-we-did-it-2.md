@@ -1,4 +1,4 @@
-# 流媒体消费电子展:我们是如何做到的 TechCrunch
+# 流媒体消费电子展:我们是如何做到的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/09/streaming-ces-how-we-did-it-2/>
 

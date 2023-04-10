@@ -1,4 +1,4 @@
-# ITC 将根据 HTC 对谷歌引发的专利投诉调查苹果 TechCrunch
+# ITC 将根据 HTC 对谷歌引发的专利投诉调查苹果 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/itc-to-investigate-apple-based-on-htcs-google-fueled-patent-complaint/>
 

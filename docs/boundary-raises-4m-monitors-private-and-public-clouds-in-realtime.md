@@ -1,4 +1,4 @@
-# Boundary 筹集了 400 万美元；实时监控私有云和公共云 TechCrunch
+# Boundary 筹集了 400 万美元；实时监控私有云和公共云 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/boundary-raises-4m-monitors-private-and-public-clouds-in-realtime/>
 

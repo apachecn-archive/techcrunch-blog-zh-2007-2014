@@ -1,4 +1,4 @@
-# 柏林的生产力应用程序制造商 6Wunderkinder 从 LivingSocial 聘请 Chad Fowler 担任新的首席技术官 TechCrunch
+# 柏林的生产力应用程序制造商 6Wunderkinder 从 LivingSocial 聘请 Chad Fowler 担任新的首席技术官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/19/berlins-productivity-app-maker-6wunderkinder-plucks-chad-fowler-from-livingsocial-as-new-cto/>
 

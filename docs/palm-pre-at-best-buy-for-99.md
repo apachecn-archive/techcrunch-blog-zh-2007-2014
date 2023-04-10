@@ -1,4 +1,4 @@
-# 百思买 Palm Pre 售价 99 美元-更新 TechCrunch
+# 百思买 Palm Pre 售价 99 美元-更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/26/palm-pre-at-best-buy-for-99/>
 

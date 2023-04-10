@@ -1,4 +1,4 @@
-# 现在年收入超过 1 亿美元的 ModCloth 将首先进军移动领域 TechCrunch
+# 现在年收入超过 1 亿美元的 ModCloth 将首先进军移动领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/19/modcloth-now-with-over-100-million-in-annual-revenue-is-going-mobile-first/>
 

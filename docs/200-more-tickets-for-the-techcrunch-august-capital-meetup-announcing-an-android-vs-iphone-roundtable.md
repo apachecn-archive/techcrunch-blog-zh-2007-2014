@@ -1,4 +1,4 @@
-# TechCrunch 月资本聚会的 200 多张门票；宣布召开 Android 与 iPhone 圆桌会议 TechCrunch
+# TechCrunch 月资本聚会的 200 多张门票；宣布召开 Android 与 iPhone 圆桌会议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/02/200-more-tickets-for-the-techcrunch-august-capital-meetup-announcing-an-android-vs-iphone-roundtable/>
 

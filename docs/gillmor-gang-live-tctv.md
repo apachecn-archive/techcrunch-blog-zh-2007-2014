@@ -1,4 +1,4 @@
-# 吉尔摩帮派直播(TCTV)TechCrunch
+# 吉尔摩帮派直播(TCTV)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/23/gillmor-gang-live-tctv/>
 

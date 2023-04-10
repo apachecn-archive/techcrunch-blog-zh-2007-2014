@@ -1,4 +1,4 @@
-# 禧玛诺转向公路车电子设置 TechCrunch
+# 禧玛诺转向公路车电子设置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/01/shimano-shifts-to-electronic-set-up-for-road-bikes/>
 

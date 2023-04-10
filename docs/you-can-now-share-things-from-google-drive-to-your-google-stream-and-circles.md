@@ -1,4 +1,4 @@
-# 您现在可以在 Google+中查看从 Google Drive 共享的内容，而无需离开流 TechCrunch
+# 您现在可以在 Google+中查看从 Google Drive 共享的内容，而无需离开流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/31/you-can-now-share-things-from-google-drive-to-your-google-stream-and-circles/>
 

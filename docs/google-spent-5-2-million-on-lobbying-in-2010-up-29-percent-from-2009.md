@@ -1,4 +1,4 @@
-# 谷歌在 2010 年花费了 520 万美元用于游说；比 2009 年增长 29% TechCrunch
+# 谷歌在 2010 年花费了 520 万美元用于游说；比 2009 年增长 29% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/31/google-spent-5-2-million-on-lobbying-in-2010-up-29-percent-from-2009/>
 

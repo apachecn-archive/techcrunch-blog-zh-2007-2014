@@ -1,4 +1,4 @@
-# peerTransfer 从 Spark、Accel 和 Maveron 筹集了 750 万美元，用于为学生提供简单的支付解决方案 TechCrunch
+# peerTransfer 从 Spark、Accel 和 Maveron 筹集了 750 万美元，用于为学生提供简单的支付解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/peertransfer-raises-7-5-million-from-spark-accel-and-maveron-to-help-students-save-money-on-payments/>
 

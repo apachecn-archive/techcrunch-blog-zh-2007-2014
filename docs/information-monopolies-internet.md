@@ -1,4 +1,4 @@
-# 互联网上的信息垄断有多持久？TechCrunch
+# 互联网上的信息垄断有多持久？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/13/information-monopolies-internet/>
 

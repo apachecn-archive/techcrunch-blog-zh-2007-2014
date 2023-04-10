@@ -1,4 +1,4 @@
-# CrowdFlower 的照片审核工具变得更加灵活 TechCrunch
+# CrowdFlower 的照片审核工具变得更加灵活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/21/crowdflower-rtfm-2-0/>
 

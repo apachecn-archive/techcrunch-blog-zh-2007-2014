@@ -1,4 +1,4 @@
-# Lodgify 推出度假租赁网站和房源自建解决方案 TechCrunch
+# Lodgify 推出度假租赁网站和房源自建解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/29/lodgify-launches-its-build-your-own-solution-for-vacation-rental-websites-and-listings/>
 

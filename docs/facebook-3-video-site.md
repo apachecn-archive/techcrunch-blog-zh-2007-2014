@@ -1,4 +1,4 @@
-# 脸书攀上美国第三大视频网站 TechCrunch
+# 脸书攀上美国第三大视频网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/facebook-3-video-site/>
 

@@ -1,4 +1,4 @@
-# ClarityRay 以 50 万美元的资金对抗广告拦截器 TechCrunch
+# ClarityRay 以 50 万美元的资金对抗广告拦截器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/18/clarityray-ad-blockers/>
 

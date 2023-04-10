@@ -1,4 +1,4 @@
-# 谷歌电视更新今天推出，已经触及索尼互联网电视设备 TechCrunch
+# 谷歌电视更新今天推出，已经触及索尼互联网电视设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/google-tv-update-rolls-out-today-already-hitting-select-sony-internet-tv-devices/>
 

@@ -1,4 +1,4 @@
-# 忘了安卓 4.0 吧！Google Exec 暗示 Android 5.0 将于 2012 年秋季发布 TechCrunch
+# 忘了安卓 4.0 吧！Google Exec 暗示 Android 5.0 将于 2012 年秋季发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/28/forget-about-android-4-0-google-exec-hints-android-5-0-will-launch-in-fall-of-2012/>
 

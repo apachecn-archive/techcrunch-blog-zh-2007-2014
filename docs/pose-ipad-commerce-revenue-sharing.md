@@ -1,4 +1,4 @@
-# 拥有 100 万用户的 Pose 将其时尚照片应用程序带到了 iPad 上，并开始创造(和分享)收入 TechCrunch
+# 拥有 100 万用户的 Pose 将其时尚照片应用程序带到了 iPad 上，并开始创造(和分享)收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/pose-ipad-commerce-revenue-sharing/>
 

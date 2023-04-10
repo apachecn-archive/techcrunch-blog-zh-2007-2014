@@ -1,4 +1,4 @@
-# SkyGrid 将实时新闻聚合器引入 Android 平板电脑 TechCrunch
+# SkyGrid 将实时新闻聚合器引入 Android 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/skygrid-brings-realtime-news-aggregator-to-android-tablets/>
 

@@ -1,4 +1,4 @@
-# 《迷失的四个理由》将作为一部糟糕的电视剧载入史册 TechCrunch
+# 《迷失的四个理由》将作为一部糟糕的电视剧载入史册 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/22/the-four-reasons-lost-will-go-down-in-history-as-a-bad-tv-show/>
 

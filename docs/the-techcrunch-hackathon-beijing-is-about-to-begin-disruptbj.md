@@ -1,4 +1,4 @@
-# TechCrunch 北京黑客马拉松即将开始# disrupt bj TechCrunch
+# TechCrunch 北京黑客马拉松即将开始# disrupt bj 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/28/the-techcrunch-hackathon-beijing-is-about-to-begin-disruptbj/>
 

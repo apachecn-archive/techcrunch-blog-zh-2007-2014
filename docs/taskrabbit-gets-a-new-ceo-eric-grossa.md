@@ -1,4 +1,4 @@
-# TaskRabbit 新任首席执行官 Eric Grosse TechCrunch
+# TaskRabbit 新任首席执行官 Eric Grosse 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/12/taskrabbit-gets-a-new-ceo-eric-grossa/>
 

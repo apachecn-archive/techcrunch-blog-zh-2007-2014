@@ -1,4 +1,4 @@
-# 掏出你的钱包，帮助建造一所儿童医院 TechCrunch
+# 掏出你的钱包，帮助建造一所儿童医院 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/15/get-your-wallet-out-and-help-build-a-childrens-hospital/>
 

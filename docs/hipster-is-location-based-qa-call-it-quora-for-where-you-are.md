@@ -1,4 +1,4 @@
-# Hipster 是一个基于位置的问答网站——称之为 Quora for where you are TechCrunch
+# Hipster 是一个基于位置的问答网站——称之为 Quora for where you are 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/hipster-is-location-based-qa-call-it-quora-for-where-you-are/>
 

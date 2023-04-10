@@ -1,4 +1,4 @@
-# 谷歌推出 Google Earth Pro 7.1，带有新的视域可视化工具和改进的打印选项 TechCrunch
+# 谷歌推出 Google Earth Pro 7.1，带有新的视域可视化工具和改进的打印选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/22/google-launches-google-earth-pro-7-1-with-new-viewshed-visualization-tool-and-improved-printing-options/>
 

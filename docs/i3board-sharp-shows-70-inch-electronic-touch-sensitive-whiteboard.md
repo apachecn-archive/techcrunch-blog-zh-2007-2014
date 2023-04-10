@@ -1,4 +1,4 @@
-# i3 板:夏普展示 70 英寸电子触摸感应白板 TechCrunch
+# i3 板:夏普展示 70 英寸电子触摸感应白板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/i3board-sharp-shows-70-inch-electronic-touch-sensitive-whiteboard/>
 

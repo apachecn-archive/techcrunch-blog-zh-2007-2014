@@ -1,4 +1,4 @@
-# 还记得神奇收件箱吗？是的，这就是现在的 Gmail 优先收件箱 TechCrunch
+# 还记得神奇收件箱吗？是的，这就是现在的 Gmail 优先收件箱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/google-magic-inbox/>
 

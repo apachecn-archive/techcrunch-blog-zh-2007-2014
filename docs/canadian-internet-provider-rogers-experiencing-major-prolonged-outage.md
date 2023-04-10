@@ -1,4 +1,4 @@
-# 加拿大互联网提供商罗杰斯经历重大，长时间的停电[更新:它回来了！】TechCrunch
+# 加拿大互联网提供商罗杰斯经历重大，长时间的停电[更新:它回来了！】
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/29/canadian-internet-provider-rogers-experiencing-major-prolonged-outage/>
 

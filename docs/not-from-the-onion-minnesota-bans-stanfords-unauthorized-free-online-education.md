@@ -1,4 +1,4 @@
-# 不是来自洋葱:明尼苏达州禁止斯坦福未经授权的免费在线教育 TechCrunch
+# 不是来自洋葱:明尼苏达州禁止斯坦福未经授权的免费在线教育 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/not-from-the-onion-minnesota-bans-stanfords-unauthorized-free-online-education/>
 

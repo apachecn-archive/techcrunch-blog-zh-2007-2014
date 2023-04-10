@@ -1,4 +1,4 @@
-# 在旧金山湾区，为什么“租金太高”TechCrunch
+# 在旧金山湾区，为什么“租金太高”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/07/in-the-bay-area-economic-transformation-is-structural-not-cyclical/>
 

@@ -1,4 +1,4 @@
-# 社交分析初创公司 Awe.sm 聘请前 CBSi 和 AOL 高管 Fred McIntyre 担任首席执行官 TechCrunch
+# 社交分析初创公司 Awe.sm 聘请前 CBSi 和 AOL 高管 Fred McIntyre 担任首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/16/social-analytics-startup-awe-sm-hires-former-cbsi-and-aol-exec-fred-mcintyre-as-ceo/>
 

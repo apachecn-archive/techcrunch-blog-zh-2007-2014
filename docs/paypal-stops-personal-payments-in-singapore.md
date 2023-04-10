@@ -1,4 +1,4 @@
-# PayPal 在新加坡停止个人支付 TechCrunch
+# PayPal 在新加坡停止个人支付 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/18/paypal-stops-personal-payments-in-singapore/>
 

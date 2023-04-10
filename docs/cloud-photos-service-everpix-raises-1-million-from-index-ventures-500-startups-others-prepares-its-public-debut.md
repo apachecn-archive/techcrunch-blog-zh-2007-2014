@@ -1,4 +1,4 @@
-# 云照片服务 Everpix 从 Index Ventures、500 Startups & Others 筹集了 100 万美元，准备公开亮相 TechCrunch
+# 云照片服务 Everpix 从 Index Ventures、500 Startups & Others 筹集了 100 万美元，准备公开亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/cloud-photos-service-everpix-raises-1-million-from-index-ventures-500-startups-others-prepares-its-public-debut/>
 

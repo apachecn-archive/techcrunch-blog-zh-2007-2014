@@ -1,4 +1,4 @@
-# 卡西欧发布两款新 Exilim 相机 TechCrunch
+# 卡西欧发布两款新 Exilim 相机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/casio-announces-two-new-exilim-cameras/>
 

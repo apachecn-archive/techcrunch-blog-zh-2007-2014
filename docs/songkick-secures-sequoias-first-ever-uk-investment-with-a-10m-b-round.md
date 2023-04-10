@@ -1,4 +1,4 @@
-# Songkick 获得红杉资本在英国的首笔 1000 万美元投资 TechCrunch
+# Songkick 获得红杉资本在英国的首笔 1000 万美元投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/songkick-secures-sequoias-first-ever-uk-investment-with-a-10m-b-round/>
 

@@ -1,4 +1,4 @@
-# 哦，诺基亚。又有 3，500 人下岗，制造业务缩减 TechCrunch
+# 哦，诺基亚。又有 3，500 人下岗，制造业务缩减 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/29/oh-nokia-another-3500-people-laid-off-manufacturing-operations-trimmed-down/>
 

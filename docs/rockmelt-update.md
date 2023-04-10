@@ -1,4 +1,4 @@
-# RockMelt 推出首次重大更新:Chromium 7，更社会化，更好的 Gmail TechCrunch
+# RockMelt 推出首次重大更新:Chromium 7，更社会化，更好的 Gmail 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/23/rockmelt-update/>
 

@@ -1,4 +1,4 @@
-# 旧金山港务局关闭技术中心 38 号码头；启动所有租户，包括 Dogpatch Labs、Polaris Ventures、Automattic、True Ventures TechCrunch
+# 旧金山港务局关闭技术中心 38 号码头；启动所有租户，包括 Dogpatch Labs、Polaris Ventures、Automattic、True Ventures 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/pier-38-shut-down/>
 

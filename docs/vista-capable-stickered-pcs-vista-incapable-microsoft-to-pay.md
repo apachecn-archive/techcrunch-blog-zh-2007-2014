@@ -1,4 +1,4 @@
-# “支持 Vista”的电脑不支持 Vista；微软来买单？TechCrunch
+# “支持 Vista”的电脑不支持 Vista；微软来买单？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/27/vista-capable-stickered-pcs-vista-incapable-microsoft-to-pay/>
 

@@ -1,4 +1,4 @@
-# 混合智慧实验室推出快速、可扩展的引擎，用于可视化客户洞察 TechCrunch
+# 混合智慧实验室推出快速、可扩展的引擎，用于可视化客户洞察 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/hybrid-wisdom-labs-launches-a-speedy-scalable-engine-for-visualizing-customer-insight/>
 

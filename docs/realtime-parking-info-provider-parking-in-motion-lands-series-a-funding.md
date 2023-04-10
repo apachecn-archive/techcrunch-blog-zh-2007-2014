@@ -1,4 +1,4 @@
-# 实时停车信息提供商 Parking In Motion Lands 轮融资 TechCrunch
+# 实时停车信息提供商 Parking In Motion Lands 轮融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/realtime-parking-info-provider-parking-in-motion-lands-series-a-funding/>
 

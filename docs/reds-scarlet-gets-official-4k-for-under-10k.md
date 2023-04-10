@@ -1,4 +1,4 @@
-# RED's Scarlet 正式上市:4K 售价低于 10K TechCrunch
+# RED's Scarlet 正式上市:4K 售价低于 10K 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/reds-scarlet-gets-official-4k-for-under-10k/>
 

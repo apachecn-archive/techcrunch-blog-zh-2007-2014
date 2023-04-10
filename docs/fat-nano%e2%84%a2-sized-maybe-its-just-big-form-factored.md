@@ -1,4 +1,4 @@
-# Fat Nano 尺寸:也许只是大尺寸？TechCrunch
+# Fat Nano 尺寸:也许只是大尺寸？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/fat-nano%e2%84%a2-sized-maybe-its-just-big-form-factored/>
 

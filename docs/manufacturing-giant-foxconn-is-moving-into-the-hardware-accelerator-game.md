@@ -1,4 +1,4 @@
-# 制造业巨头富士康正在进入硬件加速器游戏 TechCrunch
+# 制造业巨头富士康正在进入硬件加速器游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/manufacturing-giant-foxconn-is-moving-into-the-hardware-accelerator-game/>
 

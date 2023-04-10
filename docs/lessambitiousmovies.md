@@ -1,4 +1,4 @@
-# # LessAmbitiousMovies 旨在接管你的部分 Twitter 信息流 TechCrunch
+# # LessAmbitiousMovies 旨在接管你的部分 Twitter 信息流 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/04/lessambitiousmovies/>
 

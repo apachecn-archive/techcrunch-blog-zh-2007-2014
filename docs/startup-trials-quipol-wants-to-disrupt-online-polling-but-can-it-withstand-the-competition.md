@@ -1,4 +1,4 @@
-# 创业试验:Quipol 试图在拥挤的市场中扰乱在线投票 TechCrunch
+# 创业试验:Quipol 试图在拥挤的市场中扰乱在线投票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/startup-trials-quipol-wants-to-disrupt-online-polling-but-can-it-withstand-the-competition/>
 

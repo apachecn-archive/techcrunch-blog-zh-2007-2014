@@ -1,4 +1,4 @@
-# 谷歌研究称移动搜索行动迅速，在第一个小时就有 55%的转化率 TechCrunch
+# 谷歌研究称移动搜索行动迅速，在第一个小时就有 55%的转化率 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/google-nelsen-mobile-search/>
 

@@ -1,4 +1,4 @@
-# Gibson 推出 Firebird X，吉他中的电脑 TechCrunch
+# Gibson 推出 Firebird X，吉他中的电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/gibson-shipping-the-firebird-x-a-computer-inside-a-guitar/>
 

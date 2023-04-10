@@ -1,4 +1,4 @@
-# 谷歌用转盘设计更新桌面上的本地搜索结果 TechCrunch
+# 谷歌用转盘设计更新桌面上的本地搜索结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/18/google-updates-local-search-results-on-desktop-with-carousel-design/>
 

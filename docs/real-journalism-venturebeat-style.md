@@ -1,8 +1,8 @@
-# 真正的新闻业，风险投资风格 TechCrunch
+# 真正的新闻业，风险投资风格 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/real-journalism-venturebeat-style/>
 
-> 顺便说一下，这就是为什么任何关心真正新闻的人都不信任 TechCrunch
+> 顺便说一下，这就是为什么任何关心真正新闻的人都不信任 
 
 TechCrunch 有很多批评者。但我认为我从来没有读过像迪伦·特维尼(Dylan Tweney)今晚在 VentureBeat 上发表的一篇题为“TechCrunch 的幕后交易如何摧毁其可信度”的帖子(该帖子现已被撤下——这里是一个[的删帖版本](https://web.archive.org/web/20230205041518/http://www.digitalninjastl.com/blog/2011/09/29/how-techcrunch%E2%80%99s-back-room-deals-destroy-its-credibility/))这样拙劣的攻击尝试。Tweney 在发帖前 20 分钟给我发了一封电子邮件，声称，“我们有证据证明你们用有利的报道来换取未来的独家报道，我们将在今晚发表。”
 

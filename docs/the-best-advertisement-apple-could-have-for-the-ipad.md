@@ -1,4 +1,4 @@
-# 还有比这更好的 iPad 广告吗？TechCrunch
+# 还有比这更好的 iPad 广告吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/24/the-best-advertisement-apple-could-have-for-the-ipad/>
 

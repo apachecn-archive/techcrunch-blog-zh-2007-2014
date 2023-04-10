@@ -1,4 +1,4 @@
-# 认识一下 Turntable 的 Piki，它是第一个做社交音乐分享的音乐应用 TechCrunch
+# 认识一下 Turntable 的 Piki，它是第一个做社交音乐分享的音乐应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/03/meet-turntables-piki-the-first-music-app-to-do-social-music-sharing-right/>
 

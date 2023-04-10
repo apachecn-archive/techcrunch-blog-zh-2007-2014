@@ -1,4 +1,4 @@
-# 宾夕法尼亚大学学生离开学校，用 100 万美元启动 CourseKit 种子轮 TechCrunch
+# 宾夕法尼亚大学学生离开学校，用 100 万美元启动 CourseKit 种子轮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/27/coursekit-1-million-seed/>
 

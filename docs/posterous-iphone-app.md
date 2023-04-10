@@ -1,4 +1,4 @@
-# Posterous iPhone 应用程序将使您最终获得一个 Posterous TechCrunch
+# Posterous iPhone 应用程序将使您最终获得一个 Posterous 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/posterous-iphone-app/>
 

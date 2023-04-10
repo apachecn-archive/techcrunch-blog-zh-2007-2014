@@ -1,4 +1,4 @@
-# 前美国首席信息官维韦克·孔德劳加入 Salesforce，担任新兴市场副总裁 TechCrunch
+# 前美国首席信息官维韦克·孔德劳加入 Salesforce，担任新兴市场副总裁 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/16/former-u-s-cio-vivek-kundra-joins-salesforce-as-evp-of-emerging-markets/>
 

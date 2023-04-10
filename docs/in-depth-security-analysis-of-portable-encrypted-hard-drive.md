@@ -1,4 +1,4 @@
-# 便携式加密硬盘的深度安全分析 TechCrunch
+# 便携式加密硬盘的深度安全分析 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/27/in-depth-security-analysis-of-portable-encrypted-hard-drive/>
 

@@ -1,4 +1,4 @@
-# 雅虎向第三方开发者开放通讯录 TechCrunch
+# 雅虎向第三方开发者开放通讯录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/04/yahoo-opens-address-books-to-3rd-party-developers/>
 

@@ -1,4 +1,4 @@
-# RIM 的 PlayBook 推送:买二送一 TechCrunch
+# RIM 的 PlayBook 推送:买二送一 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/rims-playbook-push-businesses-buy-two-get-one-free/>
 

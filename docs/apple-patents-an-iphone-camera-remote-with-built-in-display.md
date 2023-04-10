@@ -1,4 +1,4 @@
-# 苹果为内置显示器的 iPhone 相机遥控器申请专利 TechCrunch
+# 苹果为内置显示器的 iPhone 相机遥控器申请专利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/18/apple-patents-an-iphone-camera-remote-with-built-in-display/>
 

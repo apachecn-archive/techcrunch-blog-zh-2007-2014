@@ -1,4 +1,4 @@
-# Windows Phone Manager 因诺基亚电话推特离开微软 TechCrunch
+# Windows Phone Manager 因诺基亚电话推特离开微软 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/windows-phone-manager-leaves-microsoft-over-nokia-phone-tweets/>
 

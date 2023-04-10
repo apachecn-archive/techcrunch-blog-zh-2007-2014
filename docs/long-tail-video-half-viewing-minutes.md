@@ -1,4 +1,4 @@
-# 视频网站的长尾占据了一半的观看时间 TechCrunch
+# 视频网站的长尾占据了一半的观看时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/08/long-tail-video-half-viewing-minutes/>
 

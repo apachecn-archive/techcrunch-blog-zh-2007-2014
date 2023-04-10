@@ -1,4 +1,4 @@
-# 最后，一个面向所有人的体面的脸书欢迎标签创建器 TechCrunch
+# 最后，一个面向所有人的体面的脸书欢迎标签创建器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/04/facebook-tab-creator-pagemodo/>
 

@@ -1,4 +1,4 @@
-# Visa 计划如何主导移动支付、创造数字钱包等 TechCrunch
+# Visa 计划如何主导移动支付、创造数字钱包等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/07/how-visa-plans-to-dominate-mobile-payments-create-the-digital-wallet-and-more/>
 

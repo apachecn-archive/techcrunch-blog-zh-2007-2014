@@ -1,4 +1,4 @@
-# 脸书冷落 Zynga 的 CityVille 成为最受欢迎的游戏，尽管 5X 用户的#1 时间花园 TechCrunch
+# 脸书冷落 Zynga 的 CityVille 成为最受欢迎的游戏，尽管 5X 用户的#1 时间花园 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/21/facebook-top-games/>
 

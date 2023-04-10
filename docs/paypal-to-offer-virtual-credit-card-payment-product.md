@@ -1,4 +1,4 @@
-# PayPal 将提供虚拟信用卡支付产品 TechCrunch
+# PayPal 将提供虚拟信用卡支付产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/18/paypal-to-offer-virtual-credit-card-payment-product/>
 

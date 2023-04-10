@@ -1,4 +1,4 @@
-# 包包周回顾:Chrome Krakow 笔记本电脑包 TechCrunch
+# 包包周回顾:Chrome Krakow 笔记本电脑包 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/review-chrome-krakow/>
 

@@ -1,4 +1,4 @@
-# Quixey 为应用程序的功能搜索引擎筹集了 380 万美元 TechCrunch
+# Quixey 为应用程序的功能搜索引擎筹集了 380 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/28/quixey-raises-3-8-million-for-a-functional-search-engine-for-apps/>
 

@@ -1,4 +1,4 @@
-# 老辣妹在 YouTube 上回复推文——凯文·罗斯、艾莉莎·米兰诺和朱丝婷·贝特曼的绳索 TechCrunch
+# 老辣妹在 YouTube 上回复推文——凯文·罗斯、艾莉莎·米兰诺和朱丝婷·贝特曼的绳索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/13/old-spice-tweets-youtube/>
 

@@ -1,4 +1,4 @@
-# 内容生产者能成为颠覆者吗，或者说内容仅仅是为了被颠覆？TechCrunch
+# 内容生产者能成为颠覆者吗，或者说内容仅仅是为了被颠覆？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/12/content-producers-disruptos/>
 

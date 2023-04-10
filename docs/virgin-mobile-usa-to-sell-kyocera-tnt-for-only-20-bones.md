@@ -1,4 +1,4 @@
-# 维珍移动美国出售京瓷 TNT！仅售 20 美元 TechCrunch
+# 维珍移动美国出售京瓷 TNT！仅售 20 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/15/virgin-mobile-usa-to-sell-kyocera-tnt-for-only-20-bones/>
 

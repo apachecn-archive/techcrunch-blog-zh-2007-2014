@@ -1,4 +1,4 @@
-# 苹果专利出现新手势:按住并滑动 TechCrunch
+# 苹果专利出现新手势:按住并滑动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/a-new-gesture-appears-in-apple-patent-hold-and-swipe/>
 

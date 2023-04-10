@@ -1,4 +1,4 @@
-# 脸书时间轴照片重新设计，让您将收藏夹放大 4 倍，首先显示标记的照片 TechCrunch
+# 脸书时间轴照片重新设计，让您将收藏夹放大 4 倍，首先显示标记的照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/30/facebook-photos-timeline/>
 

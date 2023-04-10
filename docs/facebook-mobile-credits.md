@@ -1,4 +1,4 @@
-# 脸书将为移动浏览器带来积分 TechCrunch
+# 脸书将为移动浏览器带来积分 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/facebook-mobile-credits/>
 

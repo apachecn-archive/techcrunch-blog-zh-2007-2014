@@ -1,4 +1,4 @@
-# YouTube 有自己的短网址。只不过它们还是很长。TechCrunch
+# YouTube 有自己的短网址。只不过它们还是很长。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/21/youtube-url-shortener/>
 

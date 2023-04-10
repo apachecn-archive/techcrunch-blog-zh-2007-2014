@@ -1,4 +1,4 @@
-# HTC 活力在野外发现，可能包装威瑞森 LTE TechCrunch
+# HTC 活力在野外发现，可能包装威瑞森 LTE 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/htc-vigor-spotted-in-the-wild-possibly-packing-verizon-lte/>
 

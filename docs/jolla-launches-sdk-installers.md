@@ -1,4 +1,4 @@
-# Jolla 增加了适用于 Windows、OS X 和 Linux 的 Sailfish SDK 安装程序，推动更多开发者为其 MeeGo 平台开发本地应用 TechCrunch
+# Jolla 增加了适用于 Windows、OS X 和 Linux 的 Sailfish SDK 安装程序，推动更多开发者为其 MeeGo 平台开发本地应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/05/jolla-launches-sdk-installers/>
 

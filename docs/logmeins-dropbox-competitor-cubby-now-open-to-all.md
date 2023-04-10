@@ -1,4 +1,4 @@
-# LogMeIn 的 Dropbox 竞争对手 Cubby 现向所有人开放 TechCrunch
+# LogMeIn 的 Dropbox 竞争对手 Cubby 现向所有人开放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/05/logmeins-dropbox-competitor-cubby-now-open-to-all/>
 

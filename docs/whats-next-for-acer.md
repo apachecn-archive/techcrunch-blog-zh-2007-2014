@@ -1,4 +1,4 @@
-# 宏碁的下一步是什么？TechCrunch
+# 宏碁的下一步是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/24/whats-next-for-acer/>
 

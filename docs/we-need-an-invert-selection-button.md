@@ -1,4 +1,4 @@
-# “尊重探险家的遗产”TechCrunch
+# “尊重探险家的遗产”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/30/we-need-an-invert-selection-button/>
 

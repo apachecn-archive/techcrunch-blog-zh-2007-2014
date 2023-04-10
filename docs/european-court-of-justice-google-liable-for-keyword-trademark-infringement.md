@@ -1,4 +1,4 @@
-# 更新:欧洲法院:谷歌不对关键词商标侵权负责，但其他人可能 TechCrunch
+# 更新:欧洲法院:谷歌不对关键词商标侵权负责，但其他人可能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/23/european-court-of-justice-google-liable-for-keyword-trademark-infringement/>
 

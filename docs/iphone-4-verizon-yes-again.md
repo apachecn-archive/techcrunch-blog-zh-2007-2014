@@ -1,4 +1,4 @@
-# 威瑞森 iPhone 传言的绝佳时机 TechCrunch
+# 威瑞森 iPhone 传言的绝佳时机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/06/iphone-4-verizon-yes-again/>
 

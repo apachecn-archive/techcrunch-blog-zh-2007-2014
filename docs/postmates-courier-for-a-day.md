@@ -1,4 +1,4 @@
-# 我当了一天邮局快递员 TechCrunch
+# 我当了一天邮局快递员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/postmates-courier-for-a-day/>
 

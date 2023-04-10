@@ -1,4 +1,4 @@
-# ZenPayroll 推出基于云的薪资服务，Yammer、Box、Yelp 和 Dropbox 的首席执行官提供了 610 万美元的种子资金 TechCrunch
+# ZenPayroll 推出基于云的薪资服务，Yammer、Box、Yelp 和 Dropbox 的首席执行官提供了 610 万美元的种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/11/zenpayroll-launches-cloud-based-payroll-service-with-6-1m-in-seed-funding-from-the-ceos-at-yammer-box-yelp-and-dropbox/>
 

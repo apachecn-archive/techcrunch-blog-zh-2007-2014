@@ -1,4 +1,4 @@
-# 愤怒的小鸟品牌:Rovio 每月售出 100 万件 t 恤和 100 万件毛绒玩具 TechCrunch
+# 愤怒的小鸟品牌:Rovio 每月售出 100 万件 t 恤和 100 万件毛绒玩具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/angry-birds-the-brand-rovio-sells-1m-t-shirts-and-1m-plush-toys-per-month/>
 

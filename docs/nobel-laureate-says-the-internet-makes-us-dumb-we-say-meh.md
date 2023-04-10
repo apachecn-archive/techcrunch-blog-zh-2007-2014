@@ -1,4 +1,4 @@
-# 诺贝尔奖获得者说互联网让我们变得愚蠢，我们说:Meh TechCrunch
+# 诺贝尔奖获得者说互联网让我们变得愚蠢，我们说:Meh 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/09/nobel-laureate-says-the-internet-makes-us-dumb-we-say-meh/>
 

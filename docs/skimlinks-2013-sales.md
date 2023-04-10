@@ -1,4 +1,4 @@
-# Skimlinks 表示，其附属链接技术去年推动了超过 5 亿美元的电子商务销售额 TechCrunch
+# Skimlinks 表示，其附属链接技术去年推动了超过 5 亿美元的电子商务销售额 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/19/skimlinks-2013-sales/>
 

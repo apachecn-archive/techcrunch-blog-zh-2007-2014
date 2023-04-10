@@ -1,4 +1,4 @@
-# 官方消息:Sprint 的 iPhone 4S 将解锁，但不会很久 TechCrunch
+# 官方消息:Sprint 的 iPhone 4S 将解锁，但不会很久 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/the-official-word-sprints-iphone-4s-will-be-unlocked-but-not-for-long/>
 

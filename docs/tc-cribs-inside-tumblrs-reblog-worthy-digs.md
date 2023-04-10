@@ -1,4 +1,4 @@
-# TC 婴儿床:Tumblr 值得重新博客的内幕 TechCrunch
+# TC 婴儿床:Tumblr 值得重新博客的内幕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/tc-cribs-inside-tumblrs-reblog-worthy-digs/>
 

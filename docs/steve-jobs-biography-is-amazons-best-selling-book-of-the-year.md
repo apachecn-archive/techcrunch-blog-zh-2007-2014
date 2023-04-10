@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯传是亚马逊今年最畅销的书籍 TechCrunch
+# 史蒂夫·乔布斯传是亚马逊今年最畅销的书籍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/steve-jobs-biography-is-amazons-best-selling-book-of-the-year/>
 

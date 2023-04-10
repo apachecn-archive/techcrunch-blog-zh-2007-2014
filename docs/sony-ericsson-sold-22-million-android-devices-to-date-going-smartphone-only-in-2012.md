@@ -1,4 +1,4 @@
-# 索尼爱立信迄今已售出 2200 万部 Android 设备，2012 年仅面向智能手机 TechCrunch
+# 索尼爱立信迄今已售出 2200 万部 Android 设备，2012 年仅面向智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/sony-ericsson-sold-22-million-android-devices-to-date-going-smartphone-only-in-2012/>
 

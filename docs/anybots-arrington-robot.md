@@ -1,4 +1,4 @@
-# 最后，一个我们能忍受的阿林顿。我们可以拔掉的阿林顿 TechCrunch
+# 最后，一个我们能忍受的阿林顿。我们可以拔掉的阿林顿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/08/anybots-arrington-robot/>
 

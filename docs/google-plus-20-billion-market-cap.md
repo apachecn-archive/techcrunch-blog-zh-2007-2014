@@ -1,4 +1,4 @@
-# Google+为谷歌市值增加了 200 亿美元 TechCrunch
+# Google+为谷歌市值增加了 200 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/10/google-plus-20-billion-market-cap/>
 

@@ -1,4 +1,4 @@
-# TaskRabbit 发布令人惊叹的 iPhone 应用 TechCrunch
+# TaskRabbit 发布令人惊叹的 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/taskrabbit-drops-its-amazing-iphone-app/>
 

@@ -1,4 +1,4 @@
-# Chomp 更深入地进行搜索；想成为应用程序的谷歌 TechCrunch
+# Chomp 更深入地进行搜索；想成为应用程序的谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/chomp-app-search/>
 

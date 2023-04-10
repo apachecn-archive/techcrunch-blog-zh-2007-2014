@@ -1,4 +1,4 @@
-# 微软的增强现实 3D 全息桌面让你可以实时玩球 TechCrunch
+# 微软的增强现实 3D 全息桌面让你可以实时玩球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/microsofts-augmented-reality-3d-holodesk-lets-you-play-with-balls-in-real-time/>
 

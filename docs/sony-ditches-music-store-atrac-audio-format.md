@@ -1,4 +1,4 @@
-# 索尼放弃音乐商店，ATRAC 音频格式 TechCrunch
+# 索尼放弃音乐商店，ATRAC 音频格式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/sony-ditches-music-store-atrac-audio-format/>
 

@@ -1,4 +1,4 @@
-# 以 8 亿美元收购 Buddy Media 相当于其当前收入的 8 倍 TechCrunch
+# 以 8 亿美元收购 Buddy Media 相当于其当前收入的 8 倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/29/salesforce-acquires-buddy-media/>
 

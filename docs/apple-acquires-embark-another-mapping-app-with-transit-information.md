@@ -1,4 +1,4 @@
-# 苹果收购 Embark，另一款提供交通信息的地图应用 TechCrunch
+# 苹果收购 Embark，另一款提供交通信息的地图应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/22/apple-acquires-embark-another-mapping-app-with-transit-information/>
 

@@ -1,4 +1,4 @@
-# 谷歌推出所有更新之母:更大的搜索框 TechCrunch
+# 谷歌推出所有更新之母:更大的搜索框 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/09/google-appears-to-be-testing-the-mother-of-all-updates-a-larger-search-box/>
 

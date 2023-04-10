@@ -1,4 +1,4 @@
-# (创始人故事)Baseline Ventures，史蒂夫·安德森:关于他为什么投资 Heroku 和 Weebly TechCrunch
+# (创始人故事)Baseline Ventures，史蒂夫·安德森:关于他为什么投资 Heroku 和 Weebly 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/founder-stories-baseline-ventures-steve-anderson-on-why-he-invested-in-heroku-and-weebly/>
 

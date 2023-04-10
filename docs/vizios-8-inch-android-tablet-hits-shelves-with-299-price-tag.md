@@ -1,4 +1,4 @@
-# Vizio 的 8 英寸 Android 平板电脑以 299 美元的价格上市 TechCrunch
+# Vizio 的 8 英寸 Android 平板电脑以 299 美元的价格上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/vizios-8-inch-android-tablet-hits-shelves-with-299-price-tag/>
 

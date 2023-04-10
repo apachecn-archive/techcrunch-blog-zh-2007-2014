@@ -1,4 +1,4 @@
-# 索尼 PS3 降价 50 美元，基本款降至 250 美元 TechCrunch
+# 索尼 PS3 降价 50 美元，基本款降至 250 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/sony-slashes-50-off-the-ps3-drops-the-base-model-to-250/>
 

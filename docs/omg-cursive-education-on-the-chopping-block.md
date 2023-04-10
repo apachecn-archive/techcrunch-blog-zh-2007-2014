@@ -1,4 +1,4 @@
-# OMG！砧板上的草书教育 TechCrunch
+# OMG！砧板上的草书教育 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/12/omg-cursive-education-on-the-chopping-block/>
 

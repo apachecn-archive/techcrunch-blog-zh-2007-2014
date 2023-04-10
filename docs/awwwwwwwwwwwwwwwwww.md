@@ -1,4 +1,4 @@
-# Instagram 创始人的女朋友学习如何为 V-Day 编码，建立 Lovestagram TechCrunch
+# Instagram 创始人的女朋友学习如何为 V-Day 编码，建立 Lovestagram 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/09/awwwwwwwwwwwwwwwwww/>
 

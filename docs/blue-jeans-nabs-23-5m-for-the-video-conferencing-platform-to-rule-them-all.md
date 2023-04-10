@@ -1,4 +1,4 @@
-# 蓝色牛仔裤凭借视频会议平台赢得 2350 万美元，统治一切 TechCrunch
+# 蓝色牛仔裤凭借视频会议平台赢得 2350 万美元，统治一切 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/blue-jeans-nabs-23-5m-for-the-video-conferencing-platform-to-rule-them-all/>
 

@@ -1,4 +1,4 @@
-# 为什么 Solyndra 会如此失败？TechCrunch
+# 为什么 Solyndra 会如此失败？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/why-did-solyndra-fail-so-spectacularly/>
 

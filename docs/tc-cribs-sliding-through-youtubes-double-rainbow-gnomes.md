@@ -1,4 +1,4 @@
-# TC 婴儿床:滑过 YouTube 的双彩虹(侏儒！)TechCrunch
+# TC 婴儿床:滑过 YouTube 的双彩虹(侏儒！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/tc-cribs-sliding-through-youtubes-double-rainbow-gnomes/>
 

@@ -1,4 +1,4 @@
-# 我们知道好莱坞很蠢。你呢，网飞？TechCrunch
+# 我们知道好莱坞很蠢。你呢，网飞？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/10/we-know-hollywood-is-this-dumb-et-tu-netflix/>
 

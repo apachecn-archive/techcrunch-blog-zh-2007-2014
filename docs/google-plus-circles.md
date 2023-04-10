@@ -1,4 +1,4 @@
-# 绕着圈子走:随着 Google+的开放，人们会开始正确使用它吗？TechCrunch
+# 绕着圈子走:随着 Google+的开放，人们会开始正确使用它吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/google-plus-circles/>
 

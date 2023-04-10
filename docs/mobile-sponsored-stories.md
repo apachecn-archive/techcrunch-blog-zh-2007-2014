@@ -1,4 +1,4 @@
-# 有证据支持脸书计划通过赞助故事新闻提要广告将移动业务货币化 TechCrunch
+# 有证据支持脸书计划通过赞助故事新闻提要广告将移动业务货币化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/mobile-sponsored-stories/>
 

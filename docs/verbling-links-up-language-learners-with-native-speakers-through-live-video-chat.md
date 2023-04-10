@@ -1,4 +1,4 @@
-# Verbling 通过实时视频聊天将语言学习者与母语人士联系起来 TechCrunch
+# Verbling 通过实时视频聊天将语言学习者与母语人士联系起来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/08/verbling-links-up-language-learners-with-native-speakers-through-live-video-chat/>
 

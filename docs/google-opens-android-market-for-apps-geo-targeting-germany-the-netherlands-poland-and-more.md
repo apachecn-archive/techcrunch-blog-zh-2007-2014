@@ -1,4 +1,4 @@
-# 谷歌向针对德国、荷兰、波兰等地区的应用开放 Android 市场 TechCrunch
+# 谷歌向针对德国、荷兰、波兰等地区的应用开放 Android 市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/18/google-opens-android-market-for-apps-geo-targeting-germany-the-netherlands-poland-and-more/>
 

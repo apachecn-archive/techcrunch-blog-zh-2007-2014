@@ -1,4 +1,4 @@
-# Pico Dolly:适用于小型相机的小型移动系统 TechCrunch
+# Pico Dolly:适用于小型相机的小型移动系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/pico-dolly-a-diminutive-dolly-system-for-smaller-cameras/>
 

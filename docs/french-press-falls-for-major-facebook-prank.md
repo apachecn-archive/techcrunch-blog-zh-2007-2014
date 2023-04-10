@@ -1,4 +1,4 @@
-# 法国媒体陷入脸书重大恶作剧 TechCrunch
+# 法国媒体陷入脸书重大恶作剧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/09/french-press-falls-for-major-facebook-prank/>
 

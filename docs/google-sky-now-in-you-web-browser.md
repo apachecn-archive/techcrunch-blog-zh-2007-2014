@@ -1,4 +1,4 @@
-# Google Sky，现在在您的网络浏览器中 TechCrunch
+# Google Sky，现在在您的网络浏览器中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/13/google-sky-now-in-you-web-browser/>
 

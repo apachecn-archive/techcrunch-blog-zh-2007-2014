@@ -1,4 +1,4 @@
-# 谷歌回应安卓短信漏洞:修复正在进行 TechCrunch
+# 谷歌回应安卓短信漏洞:修复正在进行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/05/google-android-sms-bug/>
 

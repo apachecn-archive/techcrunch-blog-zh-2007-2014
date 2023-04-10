@@ -1,4 +1,4 @@
-# MySpace 宣布推出自助式超定向广告网络 TechCrunch
+# MySpace 宣布推出自助式超定向广告网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/04/myspace-to-announce-self-serve-advertising-network/>
 

@@ -1,4 +1,4 @@
-# 针对地点、推文、Flickr 照片等发布 GeoAPI TechCrunch
+# 针对地点、推文、Flickr 照片等发布 GeoAPI 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/12/geoapi-places-twitter-flickr/>
 

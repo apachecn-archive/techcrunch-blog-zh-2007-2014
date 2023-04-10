@@ -1,4 +1,4 @@
-# Udemy 推出新发布平台，帮助教师创建优质在线课程 TechCrunch
+# Udemy 推出新发布平台，帮助教师创建优质在线课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/17/udemy-rolls-out-new-publishing-platform-to-helps-teachers-create-quality-online-courses/>
 

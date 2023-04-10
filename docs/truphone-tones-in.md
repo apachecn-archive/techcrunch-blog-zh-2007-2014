@@ -1,4 +1,4 @@
-# truphone Tones In–TechCrunch
+# truphone Tones In–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/truphone-tones-in/>
 

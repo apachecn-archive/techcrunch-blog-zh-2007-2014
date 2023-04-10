@@ -1,4 +1,4 @@
-# 苹果阻止三星 Galaxy Tab 10.1 在欧盟销售，接下来是摩托罗拉的 Xoom？TechCrunch
+# 苹果阻止三星 Galaxy Tab 10.1 在欧盟销售，接下来是摩托罗拉的 Xoom？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/apple-blocks-sales-of-samsung-galaxy-tab-10-1-in-eu-motorolas-xoom-next/>
 

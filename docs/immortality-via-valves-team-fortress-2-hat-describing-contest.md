@@ -1,4 +1,4 @@
-# 不朽通过 Valve 的团队堡垒 2 帽子描述比赛 TechCrunch
+# 不朽通过 Valve 的团队堡垒 2 帽子描述比赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/immortality-via-valves-team-fortress-2-hat-describing-contest/>
 

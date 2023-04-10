@@ -1,4 +1,4 @@
-# TheFunded 列出了 2009 年最受欢迎的风投 TechCrunch
+# TheFunded 列出了 2009 年最受欢迎的风投 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/most-loved-vcs-2009-thefunded/>
 

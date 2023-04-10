@@ -1,4 +1,4 @@
-# TweetDeck、TwitJobSearch 联手打造定制求职桌面应用 TechCrunch
+# TweetDeck、TwitJobSearch 联手打造定制求职桌面应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/tweetdeck-twitterjobsearch-jobdeck/>
 

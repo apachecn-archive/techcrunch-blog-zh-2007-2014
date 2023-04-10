@@ -1,4 +1,4 @@
-# “哭泣”:史密斯飞船公司的史蒂芬·泰勒未能起诉匿名博客作者 TechCrunch
+# “哭泣”:史密斯飞船公司的史蒂芬·泰勒未能起诉匿名博客作者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/22/cryin-aerosmiths-steven-tyler-fails-to-sue-anonymous-bloggers/>
 

@@ -1,4 +1,4 @@
-# 自宣布摩托罗拉交易以来，谷歌市值缩水超过 125 亿美元 TechCrunch
+# 自宣布摩托罗拉交易以来，谷歌市值缩水超过 125 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/google-market-cap-down-more-12-5-billion-motorola/>
 

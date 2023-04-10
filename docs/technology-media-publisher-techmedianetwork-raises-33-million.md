@@ -1,4 +1,4 @@
-# 科技媒体发行商 TechMediaNetwork 融资 3300 万美元 TechCrunch
+# 科技媒体发行商 TechMediaNetwork 融资 3300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/technology-media-publisher-techmedianetwork-raises-33-million/>
 

@@ -1,4 +1,4 @@
-# 众筹网站 Kickstarter 从今天开始启动英国项目，并着眼于其他国际项目 TechCrunch
+# 众筹网站 Kickstarter 从今天开始启动英国项目，并着眼于其他国际项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/31/crowdfunding-site-kickstarter-kicks-off-u-k-based-projects-from-today-eyeing-other-international-launches/>
 

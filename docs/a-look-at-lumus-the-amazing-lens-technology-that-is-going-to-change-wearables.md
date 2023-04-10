@@ -1,4 +1,4 @@
-# 看看 Lumus，这一令人惊叹的镜头技术将改变可穿戴设备 TechCrunch
+# 看看 Lumus，这一令人惊叹的镜头技术将改变可穿戴设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/06/a-look-at-lumus-the-amazing-lens-technology-that-is-going-to-change-wearables/>
 

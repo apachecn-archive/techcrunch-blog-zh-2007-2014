@@ -1,4 +1,4 @@
-# Vungle 为不断增长的应用内移动视频广告业务筹集了 650 万美元 TechCrunch
+# Vungle 为不断增长的应用内移动视频广告业务筹集了 650 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/vungle-series-a/>
 

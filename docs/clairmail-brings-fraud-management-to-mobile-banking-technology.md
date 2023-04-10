@@ -1,4 +1,4 @@
-# Clairmail 将欺诈管理引入移动银行技术 TechCrunch
+# Clairmail 将欺诈管理引入移动银行技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/17/clairmail-brings-fraud-management-to-mobile-banking-technology/>
 

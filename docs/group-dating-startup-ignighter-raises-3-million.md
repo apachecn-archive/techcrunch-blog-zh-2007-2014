@@ -1,4 +1,4 @@
-# 团购网站 Ignighter 融资 300 万美元 TechCrunch
+# 团购网站 Ignighter 融资 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/group-dating-startup-ignighter-raises-3-million/>
 

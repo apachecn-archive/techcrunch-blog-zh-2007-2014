@@ -1,4 +1,4 @@
-# 零售巨头乐购跟随亚马逊的脚步，推出了低价自主品牌安卓平板电脑 Hudl TechCrunch
+# 零售巨头乐购跟随亚马逊的脚步，推出了低价自主品牌安卓平板电脑 Hudl 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/23/retail-giant-tesco-follows-in-amazons-footsteps-with-hudl-a-cut-price-own-brand-android-tablet/>
 

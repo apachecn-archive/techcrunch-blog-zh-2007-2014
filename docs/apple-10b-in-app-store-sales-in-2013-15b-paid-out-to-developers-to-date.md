@@ -1,4 +1,4 @@
-# 苹果:2013 年应用商店销售额 100 亿美元，迄今为止支付给开发者 150 亿美元 TechCrunch
+# 苹果:2013 年应用商店销售额 100 亿美元，迄今为止支付给开发者 150 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/apple-10b-in-app-store-sales-in-2013-15b-paid-out-to-developers-to-date/>
 

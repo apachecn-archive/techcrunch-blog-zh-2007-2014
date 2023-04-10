@@ -1,4 +1,4 @@
-# Tongal 筹集了 1500 万美元建立平台，让任何人都可以参与制作品牌视频广告 TechCrunch
+# Tongal 筹集了 1500 万美元建立平台，让任何人都可以参与制作品牌视频广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/13/tongal-raises-15m-for-platform-that-lets-anyone-compete-to-make-branded-video-campaigns/>
 

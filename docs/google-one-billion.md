@@ -1,4 +1,4 @@
-# Google 现在每周为 10 亿用户提供服务 TechCrunch
+# Google 现在每周为 10 亿用户提供服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/08/google-one-billion/>
 

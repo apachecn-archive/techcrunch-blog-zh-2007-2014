@@ -1,4 +1,4 @@
-# 演示变得绝望:希普利出局，马歇尔加入 TechCrunch
+# 演示变得绝望:希普利出局，马歇尔加入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/18/demo-gets-desperate-shipley-out-marshall-in/>
 

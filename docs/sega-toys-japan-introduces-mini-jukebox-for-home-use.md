@@ -1,4 +1,4 @@
-# 世嘉玩具日本推出家用迷你点唱机 TechCrunch
+# 世嘉玩具日本推出家用迷你点唱机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/13/sega-toys-japan-introduces-mini-jukebox-for-home-use/>
 

@@ -1,4 +1,4 @@
-# 假约翰·杜尔登告诉我们很酷的 Twitter 照片搜索技巧 TechCrunch
+# 假约翰·杜尔登告诉我们很酷的 Twitter 照片搜索技巧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/twitter-photo-search/>
 

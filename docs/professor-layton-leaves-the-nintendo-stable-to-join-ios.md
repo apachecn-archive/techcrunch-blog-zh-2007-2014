@@ -1,4 +1,4 @@
-# 雷顿教授离开任天堂，将 iOS 加入支持平台 TechCrunch
+# 雷顿教授离开任天堂，将 iOS 加入支持平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/professor-layton-leaves-the-nintendo-stable-to-join-ios/>
 

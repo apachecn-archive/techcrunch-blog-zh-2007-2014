@@ -1,4 +1,4 @@
-# 球球，基于位置的 Android 应用发现引擎 TechCrunch
+# 球球，基于位置的 Android 应用发现引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/qiuqiu-the-location-based-discovery-engine-for-android-applications/>
 

@@ -1,4 +1,4 @@
-# NumberFire 筹集种子资金，打造你需要的最后一个梦幻足球工具 TechCrunch
+# NumberFire 筹集种子资金，打造你需要的最后一个梦幻足球工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/numberfire-raising-seed-round-to-build-the-last-fantasy-football-tool-youll-ever-need/>
 

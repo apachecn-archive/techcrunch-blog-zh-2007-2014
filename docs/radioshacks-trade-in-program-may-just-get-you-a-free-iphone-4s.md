@@ -1,4 +1,4 @@
-# RadioShack 的以旧换新计划可能会给你一部免费的 iPhone 4S TechCrunch
+# RadioShack 的以旧换新计划可能会给你一部免费的 iPhone 4S 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/radioshacks-trade-in-program-may-just-get-you-a-free-iphone-4s/>
 

@@ -1,4 +1,4 @@
-# 通用电气使用数字全息图为风车做广告 TechCrunch
+# 通用电气使用数字全息图为风车做广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/20/ge-uses-digital-hologram-to-advertize-windmills/>
 

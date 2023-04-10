@@ -1,4 +1,4 @@
-# 带着雅虎迷因转一圈:它是一个平庸的 Tumblr 克隆版 TechCrunch
+# 带着雅虎迷因转一圈:它是一个平庸的 Tumblr 克隆版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/26/taking-yahoo-meme-for-a-spin-its-a-mediocre-tumblr-clone/>
 

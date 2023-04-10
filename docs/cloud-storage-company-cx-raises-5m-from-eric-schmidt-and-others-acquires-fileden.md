@@ -1,4 +1,4 @@
-# 云存储公司 CX 从 Eric Schmidt 等人处筹集 500 万美元，收购 FileDen TechCrunch
+# 云存储公司 CX 从 Eric Schmidt 等人处筹集 500 万美元，收购 FileDen 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/cloud-storage-company-cx-raises-5m-from-eric-schmidt-and-others-acquires-fileden/>
 

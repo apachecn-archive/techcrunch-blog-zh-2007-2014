@@ -1,4 +1,4 @@
-# 动手操作摩托罗拉 Droid:性感 TechCrunch
+# 动手操作摩托罗拉 Droid:性感 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/28/hands-on-with-the-motorola-droid-sexy/>
 

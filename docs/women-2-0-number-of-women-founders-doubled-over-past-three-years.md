@@ -1,4 +1,4 @@
-# 女性 2.0:女性创始人的数量在过去三年翻了一番 TechCrunch
+# 女性 2.0:女性创始人的数量在过去三年翻了一番 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/women-2-0-number-of-women-founders-doubled-over-past-three-years/>
 

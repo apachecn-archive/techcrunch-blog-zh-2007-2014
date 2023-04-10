@@ -1,4 +1,4 @@
-# 还不确定投票给谁？参加玻璃展台测试。TechCrunch
+# 还不确定投票给谁？参加玻璃展台测试。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/14/still-not-sure-who-to-vote-for-take-the-glassbooth-quiz/>
 

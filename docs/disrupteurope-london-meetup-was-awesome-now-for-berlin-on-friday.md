@@ -1,4 +1,4 @@
-# #DisruptEurope London Meetup 太棒了-现在是周五的柏林！TechCrunch
+# #DisruptEurope London Meetup 太棒了-现在是周五的柏林！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/disrupteurope-london-meetup-was-awesome-now-for-berlin-on-friday/>
 

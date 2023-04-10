@@ -1,4 +1,4 @@
-# 裂缝的反吹 TechCrunch
+# 裂缝的反吹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/blowback-from-the-rift/>
 

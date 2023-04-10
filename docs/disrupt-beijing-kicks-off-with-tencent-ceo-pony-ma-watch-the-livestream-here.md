@@ -1,4 +1,4 @@
-# 腾讯首席执行官马化腾为“扰乱北京”揭幕。在这里看直播！TechCrunch
+# 腾讯首席执行官马化腾为“扰乱北京”揭幕。在这里看直播！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/30/disrupt-beijing-kicks-off-with-tencent-ceo-pony-ma-watch-the-livestream-here/>
 

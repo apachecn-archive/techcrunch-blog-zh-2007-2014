@@ -1,4 +1,4 @@
-# OMG/JK:亚马逊平板电脑、卡罗尔·巴茨和友谊手环 TechCrunch
+# OMG/JK:亚马逊平板电脑、卡罗尔·巴茨和友谊手环 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/omgjk-amazon-tablets-carol-bartz-and-friendship-bracelets/>
 

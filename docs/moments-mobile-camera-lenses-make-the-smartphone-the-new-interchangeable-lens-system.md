@@ -1,4 +1,4 @@
-# Moment 的移动相机镜头使智能手机成为新的可互换镜头系统 TechCrunch
+# Moment 的移动相机镜头使智能手机成为新的可互换镜头系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/24/moments-mobile-camera-lenses-make-the-smartphone-the-new-interchangeable-lens-system/>
 

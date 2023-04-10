@@ -1,4 +1,4 @@
-# 人人 3D！花费 150 美元购买任天堂 3DS TechCrunch
+# 人人 3D！花费 150 美元购买任天堂 3DS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/get-the-nintendo-3ds-150/>
 

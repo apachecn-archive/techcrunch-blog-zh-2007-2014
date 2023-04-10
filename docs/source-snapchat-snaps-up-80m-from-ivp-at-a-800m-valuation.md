@@ -1,4 +1,4 @@
-# Snapchat 以 8 亿美元的估值收购了由 IVP 牵头的 8000 万美元的 B 轮融资 TechCrunch
+# Snapchat 以 8 亿美元的估值收购了由 IVP 牵头的 8000 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/22/source-snapchat-snaps-up-80m-from-ivp-at-a-800m-valuation/>
 

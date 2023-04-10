@@ -1,4 +1,4 @@
-# 宣布 Disrupt SF 的初创公司、硬件公司和国际馆公司 TechCrunch
+# 宣布 Disrupt SF 的初创公司、硬件公司和国际馆公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/16/announcing-disrupt-sfs-startup-alley-hardware-alley-and-international-pavilion-companies/>
 

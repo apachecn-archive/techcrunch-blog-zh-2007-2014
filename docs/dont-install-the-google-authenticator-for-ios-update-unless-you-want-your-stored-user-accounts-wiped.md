@@ -1,4 +1,4 @@
-# 不要安装 iOS 更新的谷歌认证器，除非你想清除你存储的用户帐户 TechCrunch
+# 不要安装 iOS 更新的谷歌认证器，除非你想清除你存储的用户帐户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/04/dont-install-the-google-authenticator-for-ios-update-unless-you-want-your-stored-user-accounts-wiped/>
 

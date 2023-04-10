@@ -1,4 +1,4 @@
-# Sobees 推出 iPad 应用 NewsMix，这是一份社交策划数字杂志 TechCrunch
+# Sobees 推出 iPad 应用 NewsMix，这是一份社交策划数字杂志 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/17/sobees-launches-ipad-app-newsmix-a-socially-curated-digital-magazine/>
 

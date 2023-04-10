@@ -1,4 +1,4 @@
-# GuestDriven 筹集 300 万美元扩大其酒店客人互动和忠诚度平台 TechCrunch
+# GuestDriven 筹集 300 万美元扩大其酒店客人互动和忠诚度平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/18/guestdriven-raises-3m-to-expand-its-hotel-guest-interaction-and-rewards-platform/>
 

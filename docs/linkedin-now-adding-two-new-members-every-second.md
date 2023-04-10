@@ -1,4 +1,4 @@
-# LinkedIn 现在每秒增加两名新成员 TechCrunch
+# LinkedIn 现在每秒增加两名新成员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/linkedin-now-adding-two-new-members-every-second/>
 

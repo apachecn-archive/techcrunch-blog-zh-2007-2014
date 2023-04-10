@@ -1,4 +1,4 @@
-# “中断”的真正含义是什么 TechCrunch
+# “中断”的真正含义是什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/16/the-truth-about-disruption/>
 

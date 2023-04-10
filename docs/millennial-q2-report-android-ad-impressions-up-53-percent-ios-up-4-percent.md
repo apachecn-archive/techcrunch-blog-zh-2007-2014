@@ -1,4 +1,4 @@
-# 千禧一代:Android 在 Q2 获得了 53%的广告印象；iOS 占据 27%的市场份额 TechCrunch
+# 千禧一代:Android 在 Q2 获得了 53%的广告印象；iOS 占据 27%的市场份额 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/millennial-q2-report-android-ad-impressions-up-53-percent-ios-up-4-percent/>
 

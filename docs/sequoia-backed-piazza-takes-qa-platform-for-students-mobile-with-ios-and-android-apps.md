@@ -1,4 +1,4 @@
-# 红杉支持的 Piazza 为学生提供了一个问答平台，支持 iOS 和 Android 应用 TechCrunch
+# 红杉支持的 Piazza 为学生提供了一个问答平台，支持 iOS 和 Android 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/sequoia-backed-piazza-takes-qa-platform-for-students-mobile-with-ios-and-android-apps/>
 

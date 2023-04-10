@@ -1,4 +1,4 @@
-# Google 企业应用套件获得 ISO 27001 认证 TechCrunch
+# Google 企业应用套件获得 ISO 27001 认证 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/28/google-apps-for-business-iso-27001-certification/>
 

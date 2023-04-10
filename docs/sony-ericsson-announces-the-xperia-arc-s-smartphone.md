@@ -1,4 +1,4 @@
-# 索尼爱立信发布 Xperia Arc S 智能手机 TechCrunch
+# 索尼爱立信发布 Xperia Arc S 智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/sony-ericsson-announces-the-xperia-arc-s-smartphone/>
 

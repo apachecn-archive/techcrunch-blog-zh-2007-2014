@@ -1,4 +1,4 @@
-# 数据库管理员！红门想把你们中的一个送上太空 TechCrunch
+# 数据库管理员！红门想把你们中的一个送上太空 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/database-admins-red-gate-wants-to-send-one-of-you-into-space/>
 

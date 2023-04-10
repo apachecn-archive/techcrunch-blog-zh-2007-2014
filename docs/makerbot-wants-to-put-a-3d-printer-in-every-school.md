@@ -1,4 +1,4 @@
-# Makerbot 希望在每所学校安装 3D 打印机 TechCrunch
+# Makerbot 希望在每所学校安装 3D 打印机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/makerbot-wants-to-put-a-3d-printer-in-every-school/>
 

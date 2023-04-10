@@ -1,4 +1,4 @@
-# 当苹果和 NBC 像校园里的女孩一样争吵时，BitTorrent 仍在继续运转 TechCrunch
+# 当苹果和 NBC 像校园里的女孩一样争吵时，BitTorrent 仍在继续运转 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/08/31/while-apple-and-nbc-squabble-like-girls-in-a-schoolyard-bit-torrent-keeps-on-rolling/>
 

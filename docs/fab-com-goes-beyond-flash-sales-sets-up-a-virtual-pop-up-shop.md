@@ -1,4 +1,4 @@
-# 拥有 60 万会员的 Fab.com 超越了快闪销售，建立了一个虚拟快闪店 TechCrunch
+# 拥有 60 万会员的 Fab.com 超越了快闪销售，建立了一个虚拟快闪店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/fab-com-goes-beyond-flash-sales-sets-up-a-virtual-pop-up-shop/>
 

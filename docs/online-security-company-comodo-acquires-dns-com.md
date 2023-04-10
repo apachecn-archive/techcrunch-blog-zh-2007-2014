@@ -1,4 +1,4 @@
-# 在线安全公司 Comodo 收购 DNS.com TechCrunch
+# 在线安全公司 Comodo 收购 DNS.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/online-security-company-comodo-acquires-dns-com/>
 

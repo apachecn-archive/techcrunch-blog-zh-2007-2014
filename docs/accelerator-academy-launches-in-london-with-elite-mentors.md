@@ -1,4 +1,4 @@
-# 加速器学院在伦敦成立，有“精英”导师 TechCrunch
+# 加速器学院在伦敦成立，有“精英”导师 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/accelerator-academy-launches-in-london-with-elite-mentors/>
 

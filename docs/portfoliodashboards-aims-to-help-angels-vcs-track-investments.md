@@ -1,4 +1,4 @@
-# PortfolioDashboards.com 旨在帮助天使投资人、风险投资人追踪投资 TechCrunch
+# PortfolioDashboards.com 旨在帮助天使投资人、风险投资人追踪投资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/portfoliodashboards-aims-to-help-angels-vcs-track-investments/>
 

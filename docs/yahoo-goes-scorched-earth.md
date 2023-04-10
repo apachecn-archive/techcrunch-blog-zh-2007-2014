@@ -1,4 +1,4 @@
-# 雅虎陷入困境 TechCrunch
+# 雅虎陷入困境 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/10/yahoo-goes-scorched-earth/>
 

@@ -1,4 +1,4 @@
-# 被动但可能具有侵略性的移动应用战略 TechCrunch
+# 被动但可能具有侵略性的移动应用战略 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/05/a-passive-aggressive-mobile-app-strategy/>
 

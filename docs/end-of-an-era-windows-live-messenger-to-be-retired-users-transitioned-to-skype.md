@@ -1,4 +1,4 @@
-# 一个时代的终结:Windows Live Messenger 即将退役，用户转向 Skype TechCrunch
+# 一个时代的终结:Windows Live Messenger 即将退役，用户转向 Skype 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/11/06/end-of-an-era-windows-live-messenger-to-be-retired-users-transitioned-to-skype/>
 

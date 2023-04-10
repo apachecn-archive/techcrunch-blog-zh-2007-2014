@@ -1,4 +1,4 @@
-# Target 的数据泄露变得更糟:7000 万客户的信息被盗，包括姓名、电子邮件和电话 TechCrunch
+# Target 的数据泄露变得更糟:7000 万客户的信息被盗，包括姓名、电子邮件和电话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/10/targets-data-breach-gets-worse-70-million-customers-had-info-stolen-including-names-emails-and-phones/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+(TechCrunch>
 

@@ -1,4 +1,4 @@
-# Rocket Internet 的 Linio 获得 5000 万美元，进一步扩大其拉丁美洲亚马逊式市场 TechCrunch
+# Rocket Internet 的 Linio 获得 5000 万美元，进一步扩大其拉丁美洲亚马逊式市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/05/linio-rocket-internet/>
 

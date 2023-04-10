@@ -1,4 +1,4 @@
-# Tele Scouter: NEC 发布透明头盔显示器 TechCrunch
+# Tele Scouter: NEC 发布透明头盔显示器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/tele-scouter-nec-announces-transparent-head-mounted-display/>
 

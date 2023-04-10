@@ -1,4 +1,4 @@
-# PeopleBrowsr 的 ReSearch.ly 可以让你搜索过去 1000 天的 Twitter 对话 TechCrunch
+# PeopleBrowsr 的 ReSearch.ly 可以让你搜索过去 1000 天的 Twitter 对话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/25/peoplebrowsrs-research-ly-lets-you-search-1000-days-of-past-twitter-conversations/>
 

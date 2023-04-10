@@ -1,4 +1,4 @@
-# 快速回顾:Kogeto Dot 全景 iPhone 4/4S 附加软件 TechCrunch
+# 快速回顾:Kogeto Dot 全景 iPhone 4/4S 附加软件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/12/quick-review-kogeto-dot-panoramic-iphone-44s-add-on/>
 

@@ -1,4 +1,4 @@
-# 福特将与电动汽车一起销售太阳能电池板系统 TechCrunch
+# 福特将与电动汽车一起销售太阳能电池板系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/ford-to-sell-solar-panel-system-alongside-electric-cars/>
 

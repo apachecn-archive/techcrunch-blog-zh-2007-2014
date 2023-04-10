@@ -1,4 +1,4 @@
-# 视频:OTOY 在行动。你得看看这个。TechCrunch
+# 视频:OTOY 在行动。你得看看这个。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/06/16/videos-otoy-in-action-you-have-to-see-this/>
 

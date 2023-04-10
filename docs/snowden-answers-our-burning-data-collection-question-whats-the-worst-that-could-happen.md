@@ -1,4 +1,4 @@
-# 斯诺登回答了我们亟待解决的数据收集问题:最坏可能会发生什么？TechCrunch
+# 斯诺登回答了我们亟待解决的数据收集问题:最坏可能会发生什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/snowden-answers-our-burning-data-collection-question-whats-the-worst-that-could-happen/>
 

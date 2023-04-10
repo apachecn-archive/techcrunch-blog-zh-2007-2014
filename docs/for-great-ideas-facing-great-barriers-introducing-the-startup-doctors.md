@@ -1,4 +1,4 @@
-# 伟大的想法面临巨大的障碍:介绍创业医生 TechCrunch
+# 伟大的想法面临巨大的障碍:介绍创业医生 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/13/for-great-ideas-facing-great-barriers-introducing-the-startup-doctors/>
 

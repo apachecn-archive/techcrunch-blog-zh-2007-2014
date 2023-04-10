@@ -1,4 +1,4 @@
-# 热衷于...凯文·凯利:科技想要什么？TechCrunch
+# 热衷于...凯文·凯利:科技想要什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/19/keen-on-kevin-kelly-what-does-technology-want-tctv/>
 

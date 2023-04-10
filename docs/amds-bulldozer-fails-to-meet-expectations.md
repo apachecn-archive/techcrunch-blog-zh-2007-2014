@@ -1,4 +1,4 @@
-# AMD 的推土机未能达到预期 TechCrunch
+# AMD 的推土机未能达到预期 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/amds-bulldozer-fails-to-meet-expectations/>
 

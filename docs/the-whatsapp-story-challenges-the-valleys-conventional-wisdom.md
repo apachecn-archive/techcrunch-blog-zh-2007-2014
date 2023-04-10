@@ -1,4 +1,4 @@
-# WhatsApp 的故事挑战了硅谷的一些传统智慧 TechCrunch
+# WhatsApp 的故事挑战了硅谷的一些传统智慧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/23/the-whatsapp-story-challenges-the-valleys-conventional-wisdom/>
 

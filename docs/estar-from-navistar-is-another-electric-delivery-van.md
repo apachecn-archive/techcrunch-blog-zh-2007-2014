@@ -1,4 +1,4 @@
-# Navistar 的 eStar 是另一款电动送货车 TechCrunch
+# Navistar 的 eStar 是另一款电动送货车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/03/estar-from-navistar-is-another-electric-delivery-van/>
 

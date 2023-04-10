@@ -1,4 +1,4 @@
-# 周五电梯推介:make five TechCrunch
+# 周五电梯推介:make five 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/19/elevator-pitch-friday-makefive/>
 

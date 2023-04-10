@@ -1,4 +1,4 @@
-# 一键订阅 iPad TechCrunch
+# 一键订阅 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/02/one-click-subscriptions-come-to-the-ipad/>
 

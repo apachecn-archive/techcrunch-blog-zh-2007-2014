@@ -1,4 +1,4 @@
-# 网飞应用程序(非官方)出现在蜂巢平板电脑上，以下是安装方法 TechCrunch
+# 网飞应用程序(非官方)出现在蜂巢平板电脑上，以下是安装方法 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/the-netflix-app-unofficially-arrives-on-honeycomb-tablets-heres-how-to-install-it/>
 

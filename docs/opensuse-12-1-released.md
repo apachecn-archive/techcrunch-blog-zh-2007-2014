@@ -1,4 +1,4 @@
-# openSUSE 12.1 发布 TechCrunch
+# openSUSE 12.1 发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/opensuse-12-1-released/>
 

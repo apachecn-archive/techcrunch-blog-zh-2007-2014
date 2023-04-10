@@ -1,4 +1,4 @@
-# 你的推特粉丝是怎么想的？进行一次 twtpoll 并找出答案。TechCrunch
+# 你的推特粉丝是怎么想的？进行一次 twtpoll 并找出答案。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/02/what-do-your-twitter-followers-think-conduct-a-twtpoll-and-find-out/>
 

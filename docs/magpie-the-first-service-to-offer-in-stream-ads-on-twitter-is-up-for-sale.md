@@ -1,4 +1,4 @@
-# Twitter 上第一个提供流内广告的服务 Magpie 即将出售 TechCrunch
+# Twitter 上第一个提供流内广告的服务 Magpie 即将出售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/13/magpie-the-first-service-to-offer-in-stream-ads-on-twitter-is-up-for-sale/>
 

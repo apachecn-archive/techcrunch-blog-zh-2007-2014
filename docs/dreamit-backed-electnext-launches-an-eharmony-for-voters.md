@@ -1,4 +1,4 @@
-# DreamIt 支持的 ElectNext 推出了“选民电子和谐”TechCrunch
+# DreamIt 支持的 ElectNext 推出了“选民电子和谐”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/dreamit-backed-electnext-launches-an-eharmony-for-voters/>
 

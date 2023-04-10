@@ -1,4 +1,4 @@
-# 巴塞罗那街头的应用综述 TechCrunch
+# 巴塞罗那街头的应用综述 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/28/apps-round-up-from-the-streets-of-barcelona/>
 

@@ -1,4 +1,4 @@
-# 白色 iPhone 又延迟了。明年春天，它会击败 iPhone 5 上市吗？TechCrunch
+# 白色 iPhone 又延迟了。明年春天，它会击败 iPhone 5 上市吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/white-iphone-spring/>
 

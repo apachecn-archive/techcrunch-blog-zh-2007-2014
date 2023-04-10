@@ -1,4 +1,4 @@
-# MySpace 联席总裁 Jason Hirschhorn 离开 TechCrunch
+# MySpace 联席总裁 Jason Hirschhorn 离开 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/17/myspace-co-president-jason-hirschhorn-out/>
 

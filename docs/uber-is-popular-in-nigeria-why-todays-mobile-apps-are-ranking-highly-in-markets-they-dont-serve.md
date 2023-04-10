@@ -1,4 +1,4 @@
-# 优步在尼日利亚很受欢迎？为什么今天的移动应用在它们不服务的市场中排名很高 TechCrunch
+# 优步在尼日利亚很受欢迎？为什么今天的移动应用在它们不服务的市场中排名很高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/09/uber-is-popular-in-nigeria-why-todays-mobile-apps-are-ranking-highly-in-markets-they-dont-serve/>
 

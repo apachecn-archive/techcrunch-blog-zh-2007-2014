@@ -1,4 +1,4 @@
-# 点评:T-Mobile G1 TechCrunch
+# 点评:T-Mobile G1 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/review-t-mobile-g1-2/>
 

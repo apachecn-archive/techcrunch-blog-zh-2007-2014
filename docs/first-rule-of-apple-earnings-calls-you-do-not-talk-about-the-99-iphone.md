@@ -1,4 +1,4 @@
-# 苹果财报电话会议的第一条规则:不要谈论 99 美元的 iPhone TechCrunch
+# 苹果财报电话会议的第一条规则:不要谈论 99 美元的 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/first-rule-of-apple-earnings-calls-you-do-not-talk-about-the-99-iphone/>
 

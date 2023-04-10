@@ -1,4 +1,4 @@
-# 谷歌应用引擎今天停止了大约 6 个小时 TechCrunch
+# 谷歌应用引擎今天停止了大约 6 个小时 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/02/google-app-engine-broken-for-4-hours-and-counting/>
 

@@ -1,4 +1,4 @@
-# B&N 推出网络版 Nook，但无法在 iPhone 或 iPad 上运行 TechCrunch
+# B&N 推出网络版 Nook，但无法在 iPhone 或 iPad 上运行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/bn-launches-nook-for-web-doesnt-work-on-iphone-or-ipad/>
 

@@ -1,4 +1,4 @@
-# GramercyOne 从 Revolution 筹集了 1450 万美元，其他资金用于基于云的业务管理软件 TechCrunch
+# GramercyOne 从 Revolution 筹集了 1450 万美元，其他资金用于基于云的业务管理软件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/gramercyone-raises-14-5m-from-revolution-others-for-cloud-based-business-management-software/>
 

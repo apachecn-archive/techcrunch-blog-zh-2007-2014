@@ -1,4 +1,4 @@
-# 随着 iOS 7.1 Beta 3 的发布，苹果更喜欢圆形按钮，改变手机和“关机”屏幕 TechCrunch
+# 随着 iOS 7.1 Beta 3 的发布，苹果更喜欢圆形按钮，改变手机和“关机”屏幕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/apple-ios-7-1-beta-3-new-screens-buttons/>
 

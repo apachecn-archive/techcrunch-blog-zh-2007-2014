@@ -1,4 +1,4 @@
-# 启动初始资本，投资以色列和巴西的种子交易 TechCrunch
+# 启动初始资本，投资以色列和巴西的种子交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/initial-capital-launches-to-invest-in-seed-deals-in-israel-and-brazil/>
 

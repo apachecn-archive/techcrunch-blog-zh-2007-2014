@@ -1,4 +1,4 @@
-# 谷歌将收购 Valve？TechCrunch
+# 谷歌将收购 Valve？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/17/google-to-acquire-valve/>
 

@@ -1,4 +1,4 @@
-# Appcelerator 收购 Web 应用开发套件 Aptana TechCrunch
+# Appcelerator 收购 Web 应用开发套件 Aptana 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/appcelerator-acquires-web-app-development-suite-aptana/>
 

@@ -1,4 +1,4 @@
-# Zingaya 获得 115 万美元进军俄罗斯点击呼叫市场 TechCrunch
+# Zingaya 获得 115 万美元进军俄罗斯点击呼叫市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/zingaya-secures-1-15m-to-take-on-russian-click-to-call-market/>
 

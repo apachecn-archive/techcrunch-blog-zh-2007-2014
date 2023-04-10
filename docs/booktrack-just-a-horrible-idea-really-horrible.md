@@ -1,4 +1,4 @@
-# Booktrack:只是一个可怕的想法。非常可怕 TechCrunch
+# Booktrack:只是一个可怕的想法。非常可怕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/04/booktrack-just-a-horrible-idea-really-horrible/>
 

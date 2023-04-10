@@ -1,4 +1,4 @@
-# Canonical 发布 Windows 版 Ubuntu One TechCrunch
+# Canonical 发布 Windows 版 Ubuntu One 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/canonical-releases-windows-version-of-ubuntu-one/>
 

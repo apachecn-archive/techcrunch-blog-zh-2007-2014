@@ -1,4 +1,4 @@
-# “律师很贵。我们可以做朋友。”(@ Posterous To @ TwitPic)TechCrunch
+# “律师很贵。我们可以做朋友。”(@ Posterous To @ TwitPic)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/lawyers-are-expensive-we-can-be-friends-posterous-to-twitpic/>
 

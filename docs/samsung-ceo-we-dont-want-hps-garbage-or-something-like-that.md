@@ -1,4 +1,4 @@
-# 三星 CEO，“我们不要惠普的垃圾”——或者类似的话 TechCrunch
+# 三星 CEO，“我们不要惠普的垃圾”——或者类似的话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/samsung-ceo-we-dont-want-hps-garbage-or-something-like-that/>
 

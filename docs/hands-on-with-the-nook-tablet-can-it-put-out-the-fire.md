@@ -1,4 +1,4 @@
-# Nook 平板的上手:它能灭火吗？TechCrunch
+# Nook 平板的上手:它能灭火吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/hands-on-with-the-nook-tablet-can-it-put-out-the-fire/>
 

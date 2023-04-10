@@ -1,4 +1,4 @@
-# 破纪录的网络星期一在美国在线消费超过 10 亿美元 TechCrunch
+# 破纪录的网络星期一在美国在线消费超过 10 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/record-breaking-cyber-monday-surpasses-1-billion-in-u-s-online-spending/>
 

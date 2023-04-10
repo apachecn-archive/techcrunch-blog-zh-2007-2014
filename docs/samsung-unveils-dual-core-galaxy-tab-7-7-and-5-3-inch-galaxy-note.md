@@ -1,4 +1,4 @@
-# 三星发布双核 Galaxy Tab 7.7 和 5.3 英寸 Galaxy Note TechCrunch
+# 三星发布双核 Galaxy Tab 7.7 和 5.3 英寸 Galaxy Note 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/samsung-unveils-dual-core-galaxy-tab-7-7-and-5-3-inch-galaxy-note/>
 

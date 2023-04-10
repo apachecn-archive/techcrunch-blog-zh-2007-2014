@@ -1,4 +1,4 @@
-# 替代能源:绿化家园指南 TechCrunch
+# 替代能源:绿化家园指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/alternative-energy-a-guide-to-greening-your-home/>
 

@@ -1,4 +1,4 @@
-# NationBuilder 是为政治活动创建网站的一站式商店 TechCrunch
+# NationBuilder 是为政治活动创建网站的一站式商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/06/nationbuilder-is-a-one-stop-shop-for-creating-a-website-for-a-political-campaign/>
 

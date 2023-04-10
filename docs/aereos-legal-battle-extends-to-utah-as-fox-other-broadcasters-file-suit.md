@@ -1,4 +1,4 @@
-# Aereo 的法律战延伸到犹他州，福克斯和其他广播公司起诉 TechCrunch
+# Aereo 的法律战延伸到犹他州，福克斯和其他广播公司起诉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/08/aereos-legal-battle-extends-to-utah-as-fox-other-broadcasters-file-suit/>
 

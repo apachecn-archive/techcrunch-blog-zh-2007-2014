@@ -1,4 +1,4 @@
-# Intuit 推出面向 Android 的 QuickBooks 移动应用 TechCrunch
+# Intuit 推出面向 Android 的 QuickBooks 移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/intuit-launches-quickbooks-mobile-app-for-android/>
 

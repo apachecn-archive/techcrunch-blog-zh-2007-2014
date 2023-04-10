@@ -1,4 +1,4 @@
-# 点评:劲量双区感应充电板 TechCrunch
+# 点评:劲量双区感应充电板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/20/review-energizer-dual-zone-inductive-charging-pad/>
 

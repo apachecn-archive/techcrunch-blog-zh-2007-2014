@@ -1,4 +1,4 @@
-# Parature 将客户支持标签带到脸书页面 TechCrunch
+# Parature 将客户支持标签带到脸书页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/04/parature-brings-a-customer-support-tab-to-facebook-pages/>
 

@@ -1,4 +1,4 @@
-# Gartner:2011 年，1.41 亿消费者将使用移动支付支付 861 亿美元 TechCrunch
+# Gartner:2011 年，1.41 亿消费者将使用移动支付支付 861 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/gartner-141-million-consumers-will-spend-86-1-billion-using-mobile-payments-in-2011/>
 

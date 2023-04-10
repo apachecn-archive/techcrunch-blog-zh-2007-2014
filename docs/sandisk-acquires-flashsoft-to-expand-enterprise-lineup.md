@@ -1,4 +1,4 @@
-# SanDisk 收购 FlashSoft 以扩大企业阵容 TechCrunch
+# SanDisk 收购 FlashSoft 以扩大企业阵容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/15/sandisk-acquires-flashsoft-to-expand-enterprise-lineup/>
 

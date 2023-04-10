@@ -1,4 +1,4 @@
-# 谷歌显示 1 月份美国搜索量健康增长 TechCrunch
+# 谷歌显示 1 月份美国搜索量健康增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/18/google-shows-healthy-january-growth-in-us-search-volume/>
 

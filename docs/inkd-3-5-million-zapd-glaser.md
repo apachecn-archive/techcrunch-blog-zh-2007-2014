@@ -1,4 +1,4 @@
-# Pressplane 为移动网络出版应用 Zapd 筹集 350 万美元，Rob Glaser 加入董事会 TechCrunch
+# Pressplane 为移动网络出版应用 Zapd 筹集 350 万美元，Rob Glaser 加入董事会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/28/inkd-3-5-million-zapd-glaser/>
 

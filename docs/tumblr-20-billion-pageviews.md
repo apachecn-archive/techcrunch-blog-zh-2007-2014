@@ -1,4 +1,4 @@
-# 通过移动展示，Tumblr 每月浏览量突破 200 亿 TechCrunch
+# 通过移动展示，Tumblr 每月浏览量突破 200 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/05/tumblr-20-billion-pageviews/>
 

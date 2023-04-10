@@ -1,4 +1,4 @@
-# 罗技推出惊人有用的新 iPad 配件 TechCrunch
+# 罗技推出惊人有用的新 iPad 配件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/logitech-introduces-surprisingly-useful-new-ipad-accessories/>
 

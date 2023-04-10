@@ -1,4 +1,4 @@
-# 感谢 7 个致命网站，我们都是罪人 TechCrunch
+# 感谢 7 个致命网站，我们都是罪人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/7-deadly-websites/>
 

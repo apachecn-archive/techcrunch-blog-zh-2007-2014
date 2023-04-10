@@ -1,4 +1,4 @@
-# 在公交车上吻我:这款应用众包公交车位置 TechCrunch
+# 在公交车上吻我:这款应用众包公交车位置 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/kiss-me-on-the-bus-this-app-crowdsources-bus-locations/>
 

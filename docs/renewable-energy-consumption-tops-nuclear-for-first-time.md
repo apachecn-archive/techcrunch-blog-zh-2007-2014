@@ -1,4 +1,4 @@
-# 可再生能源消耗首次超过核能 TechCrunch
+# 可再生能源消耗首次超过核能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/renewable-energy-consumption-tops-nuclear-for-first-time/>
 

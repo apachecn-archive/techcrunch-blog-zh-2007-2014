@@ -1,4 +1,4 @@
-# MyID .现在处于公开测试阶段，旨在成为数字认证标准 TechCrunch
+# MyID .现在处于公开测试阶段，旨在成为数字认证标准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/27/myidis-now-in-public-beta-aims-to-become-the-digital-certification-standard/>
 

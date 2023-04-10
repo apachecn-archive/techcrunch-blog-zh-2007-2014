@@ -1,4 +1,4 @@
-# 脸书的大部分页面浏览量包含社交广告形式 TechCrunch
+# 脸书的大部分页面浏览量包含社交广告形式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/most-of-the-page-views-on-facebook-contain-social-ad-formats/>
 

@@ -1,4 +1,4 @@
-# 中国互联网:为什么“抄袭猫”赢了 TechCrunch
+# 中国互联网:为什么“抄袭猫”赢了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/28/the-chinese-internet-why-the-%e2%80%9ccopy-cats%e2%80%9d-win/>
 

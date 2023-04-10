@@ -1,4 +1,4 @@
-# WildTangent 面向 T-Mobile 客户推出 Android 游戏租赁服务 TechCrunch
+# WildTangent 面向 T-Mobile 客户推出 Android 游戏租赁服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/wildtangent-rolls-out-android-game-rentals-for-t-mobile-customers/>
 

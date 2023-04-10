@@ -1,4 +1,4 @@
-# HiPiHi 寻求标准化 3D 世界并开发互操作性——TechCrunch
+# HiPiHi 寻求标准化 3D 世界并开发互操作性——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/hipihi-seeks-to-standardize-3d-worlds-and-develop-interoperability/>
 

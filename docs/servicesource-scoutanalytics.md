@@ -1,4 +1,4 @@
-# 续订点播提供商 ServiceSource 以 3200 万美元收购 Scout Analytics TechCrunch
+# 续订点播提供商 ServiceSource 以 3200 万美元收购 Scout Analytics 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/servicesource-scoutanalytics/>
 

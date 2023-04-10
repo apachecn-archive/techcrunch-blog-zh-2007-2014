@@ -1,4 +1,4 @@
-# NeuStar 将以 6.5 亿美元收购按需客户洞察提供商 TARGUSinfo TechCrunch
+# NeuStar 将以 6.5 亿美元收购按需客户洞察提供商 TARGUSinfo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/neustar-to-acquire-on-demand-customer-insight-provider-targusinfo-for-650-million/>
 

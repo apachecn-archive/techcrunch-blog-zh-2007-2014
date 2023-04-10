@@ -1,4 +1,4 @@
-# Barnes & Noble 首席执行官卸任，BN.com 总裁 William Lynch 接任 TechCrunch
+# Barnes & Noble 首席执行官卸任，BN.com 总裁 William Lynch 接任 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/18/barnes-nobles-ceo-steps-down-bn-com-president-william-lynch-takes-over/>
 

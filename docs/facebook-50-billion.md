@@ -1,4 +1,4 @@
-# 10 亿美元并不酷。你知道什么是酷吗？500 亿美元。高盛和脸书达成一致。TechCrunch
+# 10 亿美元并不酷。你知道什么是酷吗？500 亿美元。高盛和脸书达成一致。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/02/facebook-50-billion/>
 

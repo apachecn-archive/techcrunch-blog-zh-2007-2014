@@ -1,4 +1,4 @@
-# 订阅计费初创公司 Recurly 首次推出支付网关 TechCrunch
+# 订阅计费初创公司 Recurly 首次推出支付网关 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/subscription-billings-startup-recurly-debuts-payment-gateway/>
 

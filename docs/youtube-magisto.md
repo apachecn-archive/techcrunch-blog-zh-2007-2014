@@ -1,4 +1,4 @@
-# YouTube 整合了 Magisto 的“神奇视频编辑”工具 TechCrunch
+# YouTube 整合了 Magisto 的“神奇视频编辑”工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/youtube-magisto/>
 

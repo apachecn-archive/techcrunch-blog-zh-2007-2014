@@ -1,4 +1,4 @@
-# 新的 Android 应用 Smozzy 让你不用数据套餐就能上网冲浪 TechCrunch
+# 新的 Android 应用 Smozzy 让你不用数据套餐就能上网冲浪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/new-android-app-smozzy-lets-you-surf-the-web-without-a-data-plan/>
 

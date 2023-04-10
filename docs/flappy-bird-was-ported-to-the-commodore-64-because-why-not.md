@@ -1,4 +1,4 @@
-# Flappy Bird 被移植到 Commodore 64 是因为 TechCrunch
+# Flappy Bird 被移植到 Commodore 64 是因为 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/flappy-bird-was-ported-to-the-commodore-64-because-why-not/>
 

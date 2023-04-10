@@ -1,4 +1,4 @@
-# 视频:丰田展示四款医疗和护理机器人 TechCrunch
+# 视频:丰田展示四款医疗和护理机器人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/video-toyota-shows-four-healthcare-and-nursing-robots/>
 

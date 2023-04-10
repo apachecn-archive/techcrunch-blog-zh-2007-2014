@@ -1,4 +1,4 @@
-# 联想现在销售的手机比个人电脑多，因为它依赖中国的需求 TechCrunch
+# 联想现在销售的手机比个人电脑多，因为它依赖中国的需求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/lenovo-sells-more-mobiles-than-pcs-now-as-it-rides-high-on-chinese-demand/>
 

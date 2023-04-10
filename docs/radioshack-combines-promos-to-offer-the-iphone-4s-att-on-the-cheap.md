@@ -1,4 +1,4 @@
-# RadioShack 结合促销活动，以低廉的价格提供 iPhone 4S(美国电话电报公司)版 TechCrunch
+# RadioShack 结合促销活动，以低廉的价格提供 iPhone 4S(美国电话电报公司)版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/radioshack-combines-promos-to-offer-the-iphone-4s-att-on-the-cheap/>
 

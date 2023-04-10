@@ -1,4 +1,4 @@
-# Gnip 现在每月提供超过 300 亿次社交数据活动 TechCrunch
+# Gnip 现在每月提供超过 300 亿次社交数据活动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/gnip-now-delivers-over-30-billion-social-data-activities-per-month/>
 

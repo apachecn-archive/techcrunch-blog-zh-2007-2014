@@ -1,4 +1,4 @@
-# Soap.com 发射-"没有线。没有沉重的袋子。不开车。”TechCrunch
+# Soap.com 发射-"没有线。没有沉重的袋子。不开车。”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/15/soap-com-launch/>
 

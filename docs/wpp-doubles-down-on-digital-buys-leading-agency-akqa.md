@@ -1,4 +1,4 @@
-# WPP 加倍投资 Digital，以 5.5 亿美元的估值收购领先机构 AKQA TechCrunch
+# WPP 加倍投资 Digital，以 5.5 亿美元的估值收购领先机构 AKQA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/20/wpp-doubles-down-on-digital-buys-leading-agency-akqa/>
 

@@ -1,4 +1,4 @@
-# CrunchGear 将重返校园 TechCrunch
+# CrunchGear 将重返校园 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/crunchgears-going-back-to-school/>
 

@@ -1,4 +1,4 @@
-# 雅虎将关闭即将推出的、交易、短信提醒、Kids 和一些邮件，专注于你日常使用的应用程序 TechCrunch
+# 雅虎将关闭即将推出的、交易、短信提醒、Kids 和一些邮件，专注于你日常使用的应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/19/yahoo-will-shut-down-upcoming-deal-sms-alerts-kids-and-some-versions-of-mail-focus-on-apps-youll-use-daily/>
 

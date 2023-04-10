@@ -1,4 +1,4 @@
-# Flickr 涉足社交领域，推出 Twitter 和脸书的“分享”功能 TechCrunch
+# Flickr 涉足社交领域，推出 Twitter 和脸书的“分享”功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/30/flickr-dips-its-toes-into-social-with-twitter-and-facebook-share-this-features/>
 

@@ -1,4 +1,4 @@
-# 另一个 Google/Slide 产品 VideoInbox 将病毒式视频带到你的收件箱 TechCrunch
+# 另一个 Google/Slide 产品 VideoInbox 将病毒式视频带到你的收件箱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/videoinbox-another-googleslide-production-brings-viral-videos-to-your-inbox/>
 

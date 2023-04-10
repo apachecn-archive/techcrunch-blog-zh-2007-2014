@@ -1,4 +1,4 @@
-# 第一次合法直播超级碗大获成功，但观众仍然否认真正的表演 TechCrunch
+# 第一次合法直播超级碗大获成功，但观众仍然否认真正的表演 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/05/first-legal-streaming-super-bowl-a-success-but-audience-still-denied-the-real-show/>
 

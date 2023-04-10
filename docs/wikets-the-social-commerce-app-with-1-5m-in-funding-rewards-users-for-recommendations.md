@@ -1,4 +1,4 @@
-# 拥有 150 万美元资金的社交商务应用 Wikets 对用户的推荐进行奖励 TechCrunch
+# 拥有 150 万美元资金的社交商务应用 Wikets 对用户的推荐进行奖励 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/wikets-the-social-commerce-app-with-1-5m-in-funding-rewards-users-for-recommendations/>
 

@@ -1,4 +1,4 @@
-# 同性恋女性约会应用 Dattch 在旧金山发布 TechCrunch
+# 同性恋女性约会应用 Dattch 在旧金山发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/01/dattch-the-dating-app-for-gay-women-launches-in-san-francisco/>
 

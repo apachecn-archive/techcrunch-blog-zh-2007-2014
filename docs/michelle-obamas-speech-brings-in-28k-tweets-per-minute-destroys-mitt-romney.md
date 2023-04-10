@@ -1,4 +1,4 @@
-# 米歇尔奥巴马的演讲每分钟带来 28K 条推文，摧毁米特罗姆尼 TechCrunch
+# 米歇尔奥巴马的演讲每分钟带来 28K 条推文，摧毁米特罗姆尼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/04/michelle-obamas-speech-brings-in-28k-tweets-per-minute-destroys-mitt-romney/>
 

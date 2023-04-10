@@ -1,4 +1,4 @@
-# Android 媒体播放器 doubleTwist 的活跃用户数达到 100 万 TechCrunch
+# Android 媒体播放器 doubleTwist 的活跃用户数达到 100 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/android-media-player-doubletwist-hits-1-million-active-users/>
 

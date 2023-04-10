@@ -1,4 +1,4 @@
-# 雅虎将花费 1 亿多美元试图与你联系 TechCrunch
+# 雅虎将花费 1 亿多美元试图与你联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/22/yahoo-will-spend-more-than-100-million-to-try-to-connect-with-you/>
 

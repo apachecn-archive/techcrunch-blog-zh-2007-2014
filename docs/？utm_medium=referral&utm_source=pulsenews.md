@@ -1,4 +1,4 @@
-# 三星高管证实，Galaxy Gear 智能手表将于 9 月 4 日上市，目标客户是年轻时尚的买家 TechCrunch
+# 三星高管证实，Galaxy Gear 智能手表将于 9 月 4 日上市，目标客户是年轻时尚的买家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/samsung-exec-confirms-galaxy-gear-smartwatch-aimed-at-younger-hip-buyers-coming-sept-4/?utm_medium=referral&utm_source=pulsenews>
 

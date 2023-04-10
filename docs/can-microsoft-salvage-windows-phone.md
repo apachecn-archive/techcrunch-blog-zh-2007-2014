@@ -1,4 +1,4 @@
-# 微软能挽回 Windows Phone 吗？TechCrunch
+# 微软能挽回 Windows Phone 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/can-microsoft-salvage-windows-phone/>
 

@@ -1,4 +1,4 @@
-# Monitise 以 1 亿美元收购土耳其的 Pozitron，将其移动货币网络带到中东 TechCrunch
+# Monitise 以 1 亿美元收购土耳其的 Pozitron，将其移动货币网络带到中东 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/03/monitise-buys-turkeys-pozitron-for-up-to-100m-to-take-its-mobile-money-network-to-the-middle-east/>
 

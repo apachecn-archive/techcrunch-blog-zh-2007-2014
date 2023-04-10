@@ -1,4 +1,4 @@
-# 你的代码有问题吗？AirPair 将您与专业程序员联系在一起 TechCrunch
+# 你的代码有问题吗？AirPair 将您与专业程序员联系在一起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/trouble-with-your-code-airpair-connects-you-live-with-expert-programmers/>
 

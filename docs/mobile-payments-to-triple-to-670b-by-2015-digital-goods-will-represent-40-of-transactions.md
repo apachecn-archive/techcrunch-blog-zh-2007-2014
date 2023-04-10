@@ -1,4 +1,4 @@
-# 到 2015 年，移动支付将增长两倍，达到 6700 亿美元；数字商品将占交易的 40% TechCrunch
+# 到 2015 年，移动支付将增长两倍，达到 6700 亿美元；数字商品将占交易的 40% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/mobile-payments-to-triple-to-670b-by-2015-digital-goods-will-represent-40-of-transactions/>
 

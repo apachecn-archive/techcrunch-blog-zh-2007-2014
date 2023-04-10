@@ -1,4 +1,4 @@
-# Wercker 简化代码交付，从 Shamrock Ventures、Greylock Venture Partners 和 A-List technologies 获得种子资金 TechCrunch
+# Wercker 简化代码交付，从 Shamrock Ventures、Greylock Venture Partners 和 A-List technologies 获得种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/23/wercker-makes-code-delivery-easy-gets-seed-funding-from-shamrock-ventures-greylock-venture-partners-and-a-list-technologists/>
 

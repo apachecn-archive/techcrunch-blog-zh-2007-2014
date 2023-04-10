@@ -1,4 +1,4 @@
-# 500 Startups 发起彩虹回合，这是 LGBT 技术社区成员的聚会 TechCrunch
+# 500 Startups 发起彩虹回合，这是 LGBT 技术社区成员的聚会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/28/500-startups-rainbow-round/>
 

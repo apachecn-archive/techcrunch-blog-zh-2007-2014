@@ -1,4 +1,4 @@
-# Spotify 和福特联手展示音乐服务首次车载集成 TechCrunch
+# Spotify 和福特联手展示音乐服务首次车载集成 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/10/spotify-and-ford-team-together-to-showcase-the-music-services-first-in-car-integration/>
 

@@ -1,4 +1,4 @@
-# Fuse Corps 将企业家与政府配对，希望实现大规模社会变革 TechCrunch
+# Fuse Corps 将企业家与政府配对，希望实现大规模社会变革 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/fuse-corps-will-pair-entrepreneurs-with-government-hopes-to-achieve-large-scale-social-change/>
 

@@ -1,4 +1,4 @@
-# 家庭聚会是一项严肃的业务，收入 530 万美元 TechCrunch
+# 家庭聚会是一项严肃的业务，收入 530 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/26/house-party-is-a-serious-business-scores-5-3-million/>
 

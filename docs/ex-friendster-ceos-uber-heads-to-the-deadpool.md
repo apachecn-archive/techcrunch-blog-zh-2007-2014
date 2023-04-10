@@ -1,4 +1,4 @@
-# 前 Friendster 首席执行官优步走向死亡池 TechCrunch
+# 前 Friendster 首席执行官优步走向死亡池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/26/ex-friendster-ceos-uber-heads-to-the-deadpool/>
 

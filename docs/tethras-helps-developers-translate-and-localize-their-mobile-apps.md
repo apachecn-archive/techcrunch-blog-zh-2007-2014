@@ -1,4 +1,4 @@
-# Tethras 帮助开发人员翻译和本地化他们的移动应用 TechCrunch
+# Tethras 帮助开发人员翻译和本地化他们的移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/tethras-helps-developers-translate-and-localize-their-mobile-apps/>
 

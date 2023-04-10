@@ -1,4 +1,4 @@
-# Chrome OS:代码线索就在那里 TechCrunch
+# Chrome OS:代码线索就在那里 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/01/chrome-os-the-code-clues-are-out-there/>
 

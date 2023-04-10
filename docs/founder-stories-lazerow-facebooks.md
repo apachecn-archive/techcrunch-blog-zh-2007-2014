@@ -1,4 +1,4 @@
-# 《创始人故事》迈克·拉泽罗:脸书的辉煌？“很早就知道他们是谁”TechCrunch
+# 《创始人故事》迈克·拉泽罗:脸书的辉煌？“很早就知道他们是谁”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/founder-stories-lazerow-facebooks/>
 

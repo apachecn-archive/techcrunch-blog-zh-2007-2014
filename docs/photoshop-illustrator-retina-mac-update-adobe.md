@@ -1,4 +1,4 @@
-# Adobe 为 Photoshop 和 Illustrator CS6 带来 Retina 显示屏支持，作为所有用户的免费更新 TechCrunch
+# Adobe 为 Photoshop 和 Illustrator CS6 带来 Retina 显示屏支持，作为所有用户的免费更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/10/photoshop-illustrator-retina-mac-update-adobe/>
 

@@ -1,4 +1,4 @@
-# 通过 DeepMind，谷歌为我们在每一次计算交互中看到自己的未来做好了准备 TechCrunch
+# 通过 DeepMind，谷歌为我们在每一次计算交互中看到自己的未来做好了准备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/27/why-google-bought-deepmind/>
 

@@ -1,4 +1,4 @@
-# 总部位于芝加哥的 Bidmyway 推出超本地移动交易应用 TechCrunch
+# 总部位于芝加哥的 Bidmyway 推出超本地移动交易应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/chicago-based-bidmyway-launches-hyperlocal-mobile-deals-app/>
 

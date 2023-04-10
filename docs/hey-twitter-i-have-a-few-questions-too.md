@@ -1,4 +1,4 @@
-# 嘿 Twitter 我也有几个问题 TechCrunch
+# 嘿 Twitter 我也有几个问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/31/hey-twitter-i-have-a-few-questions-too/>
 

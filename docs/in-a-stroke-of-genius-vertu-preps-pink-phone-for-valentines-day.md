@@ -1,4 +1,4 @@
-# 灵光一现，Vertu 为情人节准备了粉色手机 TechCrunch
+# 灵光一现，Vertu 为情人节准备了粉色手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/08/in-a-stroke-of-genius-vertu-preps-pink-phone-for-valentines-day/>
 

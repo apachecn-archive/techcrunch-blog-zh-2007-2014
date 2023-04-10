@@ -1,4 +1,4 @@
-# 在推特遭到强烈反对一年后，欧洲之星终于拥有了社交媒体吗？TechCrunch
+# 在推特遭到强烈反对一年后，欧洲之星终于拥有了社交媒体吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/17/one-year-after-a-twitter-backlash-has-eurostar-finally-got-social-media/>
 

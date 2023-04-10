@@ -1,4 +1,4 @@
-# 埃隆马斯克敢于在 Twitter 上发表政治观点 TechCrunch
+# 埃隆马斯克敢于在 Twitter 上发表政治观点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/elon-musk-dares-to-have-a-political-opinion-on-twitter/>
 

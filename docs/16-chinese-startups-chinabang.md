@@ -1,4 +1,4 @@
-# 16 家中国创业公司在 ChinaBang 大会上大放异彩 TechCrunch
+# 16 家中国创业公司在 ChinaBang 大会上大放异彩 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/25/16-chinese-startups-chinabang/>
 

@@ -1,4 +1,4 @@
-# 独家抢先看 Spin 的新音乐播放网站 TechCrunch
+# 独家抢先看 Spin 的新音乐播放网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/spin-music-playing-website/>
 

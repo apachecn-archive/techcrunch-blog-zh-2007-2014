@@ -1,4 +1,4 @@
-# 客户评论和社交商务平台 Bazaarvoice 申请 8600 万美元 IPO TechCrunch
+# 客户评论和社交商务平台 Bazaarvoice 申请 8600 万美元 IPO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/26/customer-reviews-and-social-commerce-platform-bazaarvoice-files-for-86m-ipo/>
 

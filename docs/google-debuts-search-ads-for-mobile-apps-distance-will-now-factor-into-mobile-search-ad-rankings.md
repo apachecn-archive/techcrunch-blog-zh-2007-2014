@@ -1,4 +1,4 @@
-# 谷歌推出移动应用搜索广告；距离现在将成为移动搜索广告排名的因素 TechCrunch
+# 谷歌推出移动应用搜索广告；距离现在将成为移动搜索广告排名的因素 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/google-debuts-search-ads-for-mobile-apps-distance-will-now-factor-into-mobile-search-ad-rankings/>
 

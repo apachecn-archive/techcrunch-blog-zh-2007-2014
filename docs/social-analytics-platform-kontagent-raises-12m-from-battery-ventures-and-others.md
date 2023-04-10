@@ -1,4 +1,4 @@
-# 社交应用分析平台 Kontagent 从 Battery Ventures 和其他公司获得 1200 万美元 TechCrunch
+# 社交应用分析平台 Kontagent 从 Battery Ventures 和其他公司获得 1200 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/social-analytics-platform-kontagent-raises-12m-from-battery-ventures-and-others/>
 

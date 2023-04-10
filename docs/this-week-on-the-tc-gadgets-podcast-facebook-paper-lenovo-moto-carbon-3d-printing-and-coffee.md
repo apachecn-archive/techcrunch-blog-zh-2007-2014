@@ -1,4 +1,4 @@
-# 本周 TC 小工具播客:脸书造纸，联想-Moto，碳 3D 打印和咖啡！TechCrunch
+# 本周 TC 小工具播客:脸书造纸，联想-Moto，碳 3D 打印和咖啡！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/31/this-week-on-the-tc-gadgets-podcast-facebook-paper-lenovo-moto-carbon-3d-printing-and-coffee/>
 

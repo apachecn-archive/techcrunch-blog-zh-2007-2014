@@ -1,4 +1,4 @@
-# 湾区的技术工资是全国最高的，为 12.3 万美元，但随着成本上升，企业家应该去别处看看吗？TechCrunch
+# 湾区的技术工资是全国最高的，为 12.3 万美元，但随着成本上升，企业家应该去别处看看吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/20/bay-area-tech-wages-are-nations-highest/>
 

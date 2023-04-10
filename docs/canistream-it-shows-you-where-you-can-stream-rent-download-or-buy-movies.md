@@ -1,4 +1,4 @@
-# CanIStream .它向你展示你可以在哪里观看、租借、下载或购买电影 TechCrunch
+# CanIStream .它向你展示你可以在哪里观看、租借、下载或购买电影 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/canistream-it-shows-you-where-you-can-stream-rent-download-or-buy-movies/>
 

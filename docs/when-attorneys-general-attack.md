@@ -1,4 +1,4 @@
-# 当司法部长攻击 TechCrunch
+# 当司法部长攻击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/when-attorneys-general-attack/>
 

@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯传记将于 11 月发布 TechCrunch
+# 史蒂夫·乔布斯传记将于 11 月发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/steve-jobs-biography-to-launch-in-november/>
 

@@ -1,4 +1,4 @@
-# SkimLinks 利用 Atma Links 收购来增强 SkimWords 2.0 TechCrunch
+# SkimLinks 利用 Atma Links 收购来增强 SkimWords 2.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/skimlinks-harnesses-atma-links-acquisition-to-power-skimwords-2-0/>
 

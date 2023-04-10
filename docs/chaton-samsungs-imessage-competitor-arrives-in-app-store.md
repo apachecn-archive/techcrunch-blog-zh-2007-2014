@@ -1,4 +1,4 @@
-# 三星的即时消息竞争对手 ChatON 抵达应用商店 TechCrunch
+# 三星的即时消息竞争对手 ChatON 抵达应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/06/chaton-samsungs-imessage-competitor-arrives-in-app-store/>
 

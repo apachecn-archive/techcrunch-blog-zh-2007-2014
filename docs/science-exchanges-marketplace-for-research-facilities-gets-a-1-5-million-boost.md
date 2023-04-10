@@ -1,4 +1,4 @@
-# 科学交易所的研究设施市场获得 150 万美元的增长 TechCrunch
+# 科学交易所的研究设施市场获得 150 万美元的增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/02/science-exchanges-marketplace-for-research-facilities-gets-a-1-5-million-boost/>
 

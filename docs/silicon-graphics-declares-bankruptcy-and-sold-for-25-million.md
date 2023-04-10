@@ -1,4 +1,4 @@
-# Silicon Graphics 宣布破产，并以 2500 万美元的价格出售自己 TechCrunch
+# Silicon Graphics 宣布破产，并以 2500 万美元的价格出售自己 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/01/silicon-graphics-declares-bankruptcy-and-sold-for-25-million/>
 

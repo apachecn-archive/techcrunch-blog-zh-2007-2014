@@ -1,4 +1,4 @@
-# 500 家创业公司宣布首批新孵化器项目 TechCrunch
+# 500 家创业公司宣布首批新孵化器项目 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/500-startups-announces-first-class-of-new-incubator-program/>
 

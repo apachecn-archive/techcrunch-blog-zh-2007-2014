@@ -1,4 +1,4 @@
-# 社交实验室筹集 700 万美元帮助零售商管理社交商务 TechCrunch
+# 社交实验室筹集 700 万美元帮助零售商管理社交商务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/sociable-labs-raises-7-million-to-help-retailers-manage-social-commerce/>
 

@@ -1,4 +1,4 @@
-# 一名突尼斯黑客的自白 TechCrunch
+# 一名突尼斯黑客的自白 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/23/confessions-of-a-tunisian-hacktivist/>
 

@@ -1,4 +1,4 @@
-# 同性恋城市试图减少评论的匿名性 TechCrunch
+# 同性恋城市试图减少评论的匿名性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/11/gaycities-tries-to-make-reviews-less-anonymous/>
 

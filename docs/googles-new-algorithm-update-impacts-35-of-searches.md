@@ -1,4 +1,4 @@
-# 谷歌的新算法更新影响了 35%的搜索 TechCrunch
+# 谷歌的新算法更新影响了 35%的搜索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/googles-new-algorithm-update-impacts-35-of-searches/>
 

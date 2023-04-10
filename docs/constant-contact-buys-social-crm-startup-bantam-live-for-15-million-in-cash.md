@@ -1,4 +1,4 @@
-# Constant Contact 以 1500 万美元现金收购社交 CRM 初创公司 Bantam Live TechCrunch
+# Constant Contact 以 1500 万美元现金收购社交 CRM 初创公司 Bantam Live 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/16/constant-contact-buys-social-crm-startup-bantam-live-for-15-million-in-cash/>
 

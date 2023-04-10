@@ -1,4 +1,4 @@
-# Twitter 因允许名人在线互动而被起诉 TechCrunch
+# Twitter 因允许名人在线互动而被起诉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/20/twitter-lawsuit-vs-technologies/?icid=main%7Cverizon%7Cdl8%7Csec3_lnk3%7C196585>
 

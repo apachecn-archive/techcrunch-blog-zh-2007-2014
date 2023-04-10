@@ -1,4 +1,4 @@
-# Square 在发布前价值 4000 万美元 TechCrunch
+# Square 在发布前价值 4000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/01/square-worth-40-million-before-launch/>
 

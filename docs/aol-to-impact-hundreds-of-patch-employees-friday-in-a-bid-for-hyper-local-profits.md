@@ -1,4 +1,4 @@
-# 美国在线周五将“影响”数百名补丁员工，以获得超本地利润 TechCrunch
+# 美国在线周五将“影响”数百名补丁员工，以获得超本地利润 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/08/aol-to-impact-hundreds-of-patch-employees-friday-in-a-bid-for-hyper-local-profits/>
 

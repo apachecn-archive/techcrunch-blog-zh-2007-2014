@@ -1,4 +1,4 @@
-# 你该怎么处理你那蹩脚的服务生意？TechCrunch
+# 你该怎么处理你那蹩脚的服务生意？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/24/what-should-you-do-with-your-crappy-little-services-business/>
 

@@ -1,4 +1,4 @@
-# 4Moms 折纸:看看这个机器人推车！看着它！TechCrunch
+# 4Moms 折纸:看看这个机器人推车！看着它！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/the-4moms-oragami-look-at-this-robotic-stroller-look-at-it/>
 

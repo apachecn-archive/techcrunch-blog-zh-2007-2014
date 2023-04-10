@@ -1,4 +1,4 @@
-# 三星用户更喜欢应用程序，对广告更开放，比其他 Android OEMs 用户更喜欢 iOS 用户 TechCrunch
+# 三星用户更喜欢应用程序，对广告更开放，比其他 Android OEMs 用户更喜欢 iOS 用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/20/samsung-users-more-fond-of-apps-more-open-to-ads-and-more-like-ios-users-than-those-of-other-android-oems/>
 

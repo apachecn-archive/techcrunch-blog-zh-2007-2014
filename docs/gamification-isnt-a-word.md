@@ -1,4 +1,4 @@
-# 战争，有什么好处？三分！TechCrunch
+# 战争，有什么好处？三分！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/10/gamification-isnt-a-word/>
 

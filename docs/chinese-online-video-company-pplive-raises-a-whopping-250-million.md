@@ -1,4 +1,4 @@
-# 中国在线视频公司 PPLive 融资 2.5 亿美元 TechCrunch
+# 中国在线视频公司 PPLive 融资 2.5 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/chinese-online-video-company-pplive-raises-a-whopping-250-million/>
 

@@ -1,4 +1,4 @@
-# Elon Musk 转向媒体和 gif 展示新车型的消防安全功能 TechCrunch
+# Elon Musk 转向媒体和 gif 展示新车型的消防安全功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/28/elon-musk-turns-to-medium-and-gifs-to-reveal-new-model-s-fire-safety-feature/>
 

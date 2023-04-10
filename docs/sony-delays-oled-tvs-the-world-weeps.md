@@ -1,4 +1,4 @@
-# 索尼推迟有机发光二极管电视，世界哭泣 TechCrunch
+# 索尼推迟有机发光二极管电视，世界哭泣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/sony-delays-oled-tvs-the-world-weeps/>
 

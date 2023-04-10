@@ -1,4 +1,4 @@
-# 现场有 350 名投资者，TechStars 首次推出新的云加速器首批产品 TechCrunch
+# 现场有 350 名投资者，TechStars 首次推出新的云加速器首批产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/techstars-debuts-11-cloud-startups/>
 

@@ -1,4 +1,4 @@
-# 放松资源 Calm.com 推出帮助你放松的 iPhone 应用程序，获得 41.5 万美元天使投资 TechCrunch
+# 放松资源 Calm.com 推出帮助你放松的 iPhone 应用程序，获得 41.5 万美元天使投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/26/relaxation-resource-calm-com-launches-iphone-app-that-helps-you-chill-grabs-415k-in-angel-funding/>
 

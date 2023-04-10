@@ -1,4 +1,4 @@
-# 据报道，封锁 Twitter 后，埃及开始限制访问脸书 TechCrunch
+# 据报道，封锁 Twitter 后，埃及开始限制访问脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/after-blocking-twitter-egypt-reportedly-starts-restricting-access-to-facebook/>
 

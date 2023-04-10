@@ -1,4 +1,4 @@
-# Jolicloud 再次转向，现在是云服务的起始页——这次他们成功了吗？TechCrunch
+# Jolicloud 再次转向，现在是云服务的起始页——这次他们成功了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/17/jolicloud-pivots-yet-again-as-a-start-page-for-cloud-services-have-they-cracked-it-this-time/>
 

@@ -1,4 +1,4 @@
-# 苹果公司将于本周推出新款热门机型重燃 iPod 之火？没错。TechCrunch
+# 苹果公司将于本周推出新款热门机型重燃 iPod 之火？没错。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/apple-to-reignite-the-ipod-fire-with-hot-new-models-this-week-yep/>
 

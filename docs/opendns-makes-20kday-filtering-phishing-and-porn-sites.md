@@ -1,4 +1,4 @@
-# OpenDNS 通过过滤网络钓鱼和色情网站每天赚取 2 万美元 TechCrunch
+# OpenDNS 通过过滤网络钓鱼和色情网站每天赚取 2 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/20/opendns-makes-20kday-filtering-phishing-and-porn-sites/>
 

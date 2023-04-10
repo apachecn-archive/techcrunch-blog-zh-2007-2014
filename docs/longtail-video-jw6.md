@@ -1,4 +1,4 @@
-# 长尾视频发布其开源视频播放器的新版本，支持苹果 HLS TechCrunch
+# 长尾视频发布其开源视频播放器的新版本，支持苹果 HLS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/longtail-video-jw6/>
 

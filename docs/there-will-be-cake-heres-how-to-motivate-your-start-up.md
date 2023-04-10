@@ -1,4 +1,4 @@
-# 将会有蛋糕:以下是如何激励你的初创企业 TechCrunch
+# 将会有蛋糕:以下是如何激励你的初创企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/there-will-be-cake-heres-how-to-motivate-your-start-up/>
 

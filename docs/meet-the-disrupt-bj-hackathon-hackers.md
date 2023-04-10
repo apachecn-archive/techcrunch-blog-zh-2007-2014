@@ -1,4 +1,4 @@
-# 认识一下扰乱 BJ 黑客马拉松黑客 TechCrunch
+# 认识一下扰乱 BJ 黑客马拉松黑客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/29/meet-the-disrupt-bj-hackathon-hackers/>
 

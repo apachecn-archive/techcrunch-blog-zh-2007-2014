@@ -1,4 +1,4 @@
-# 为高管招聘提供云软件的公司 Invenias 又追加了一笔 2M TechCrunch
+# 为高管招聘提供云软件的公司 Invenias 又追加了一笔 2M 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/invenias-expansion-round/>
 

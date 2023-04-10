@@ -1,4 +1,4 @@
-# Mixpanel 现已成为过去 TechCrunch
+# Mixpanel 现已成为过去 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/mixpanel-now-funnels-into-the-past/>
 

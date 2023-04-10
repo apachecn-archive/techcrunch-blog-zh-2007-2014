@@ -1,4 +1,4 @@
-# 雅虎聘用前 Twitter 首席架构师布雷恩·库克 TechCrunch
+# 雅虎聘用前 Twitter 首席架构师布雷恩·库克 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/16/yahoo-hires-former-twitter-chief-architect-blaine-cook/>
 

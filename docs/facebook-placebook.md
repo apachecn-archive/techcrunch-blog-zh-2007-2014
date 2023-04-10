@@ -1,4 +1,4 @@
-# 脸书胁迫 PlaceBook 更改他们的名字——或者它的发音 TechCrunch
+# 脸书胁迫 PlaceBook 更改他们的名字——或者它的发音 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/10/facebook-placebook/>
 

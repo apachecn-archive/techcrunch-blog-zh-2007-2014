@@ -1,4 +1,4 @@
-# 没人预测到 iPad 的增长。没人。TechCrunch
+# 没人预测到 iPad 的增长。没人。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/nobody-predicted-ipad-growth/>
 

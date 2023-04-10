@@ -1,4 +1,4 @@
-# 微软的 Windows 8 鞋拔子触及台式机和笔记本电脑:这不会有好结果 TechCrunch
+# 微软的 Windows 8 鞋拔子触及台式机和笔记本电脑:这不会有好结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/microsofts-windows-8-shoehorns-touch-into-desktops-and-laptops-this-wont-end-well/>
 

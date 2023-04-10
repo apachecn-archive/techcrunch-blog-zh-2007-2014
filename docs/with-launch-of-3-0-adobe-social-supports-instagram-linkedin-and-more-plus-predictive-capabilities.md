@@ -1,4 +1,4 @@
-# 随着 3.0 的推出，Adobe Social 支持 Instagram、LinkedIn 等，以及预测功能 TechCrunch
+# 随着 3.0 的推出，Adobe Social 支持 Instagram、LinkedIn 等，以及预测功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/17/with-launch-of-3-0-adobe-social-supports-instagram-linkedin-and-more-plus-predictive-capabilities/>
 

@@ -1,4 +1,4 @@
-# 隐私问题:我们遇到了敌人，他就是我们 TechCrunch
+# 隐私问题:我们遇到了敌人，他就是我们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/05/the-privacy-problem-we-have-met-the-enemy-and-he-is-us/>
 

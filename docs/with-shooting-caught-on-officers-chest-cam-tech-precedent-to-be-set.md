@@ -1,4 +1,4 @@
-# 警官的“胸部摄像头”捕捉到了枪击事件，开创了技术先例 TechCrunch
+# 警官的“胸部摄像头”捕捉到了枪击事件，开创了技术先例 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/with-shooting-caught-on-officers-chest-cam-tech-precedent-to-be-set/>
 

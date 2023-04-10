@@ -1,4 +1,4 @@
-# 高通·SSLS:eZone 于 2010 年上市 TechCrunch
+# 高通·SSLS:eZone 于 2010 年上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/qualcomm-ssls-ezone-hitting-the-market-in-2010/>
 

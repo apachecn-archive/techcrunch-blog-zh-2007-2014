@@ -1,4 +1,4 @@
-# 谷歌被认为向 LabPixies 支付了 2500 万美元，以使应用程序充斥网络 TechCrunch
+# 谷歌被认为向 LabPixies 支付了 2500 万美元，以使应用程序充斥网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/27/labpixies-google-25-million/>
 

@@ -1,4 +1,4 @@
-# 大撤回 iPhone 4 授权，归还 Gizmodo 编辑的财产 TechCrunch
+# 大撤回 iPhone 4 授权，归还 Gizmodo 编辑的财产 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/16/gizmodo-iphone-warrant/>
 

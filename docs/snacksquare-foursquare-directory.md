@@ -1,4 +1,4 @@
-# Snacksquare:交易和场所的四方目录 TechCrunch
+# Snacksquare:交易和场所的四方目录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/15/snacksquare-foursquare-directory/>
 

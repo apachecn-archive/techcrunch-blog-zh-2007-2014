@@ -1,4 +1,4 @@
-# 为什么 Zynga 急于上市？TechCrunch
+# 为什么 Zynga 急于上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/zynga-rushing-ipo/>
 

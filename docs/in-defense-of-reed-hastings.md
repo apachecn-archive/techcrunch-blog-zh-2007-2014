@@ -1,4 +1,4 @@
-# 捍卫雷德·哈斯汀斯 TechCrunch
+# 捍卫雷德·哈斯汀斯 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/05/in-defense-of-reed-hastings/>
 

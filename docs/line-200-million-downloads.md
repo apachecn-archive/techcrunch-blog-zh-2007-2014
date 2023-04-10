@@ -1,4 +1,4 @@
-# 日本 Line 的消息应用程序注册用户超过 2 亿，但仍未公布每月活跃用户数 TechCrunch
+# 日本 Line 的消息应用程序注册用户超过 2 亿，但仍未公布每月活跃用户数 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/line-200-million-downloads/>
 

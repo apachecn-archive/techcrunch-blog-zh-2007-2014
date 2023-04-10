@@ -1,4 +1,4 @@
-# NBC 放弃 iTunes TechCrunch
+# NBC 放弃 iTunes 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/nbc-bails-on-itunes/>
 

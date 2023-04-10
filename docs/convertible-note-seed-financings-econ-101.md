@@ -1,4 +1,4 @@
-# 可转换票据种子融资:创始人经济 101 TechCrunch
+# 可转换票据种子融资:创始人经济 101 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/21/convertible-note-seed-financings-econ-101/>
 

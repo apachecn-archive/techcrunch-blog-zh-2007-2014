@@ -1,4 +1,4 @@
-# 嘿，你有没有看到世界上最无聊的手表？TechCrunch
+# 嘿，你有没有看到世界上最无聊的手表？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/hey-did-you-happen-to-see-the-nerdiest-watch-in-the-world/>
 

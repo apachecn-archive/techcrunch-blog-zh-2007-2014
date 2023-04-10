@@ -1,4 +1,4 @@
-# 让我们在创新而不是专利上竞争 TechCrunch
+# 让我们在创新而不是专利上竞争 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/15/lets-compete-on-innovation/>
 

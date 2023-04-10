@@ -1,4 +1,4 @@
-# Instagram 为网络浏览器推出完整的图片订阅，包括评论和点赞功能 TechCrunch
+# Instagram 为网络浏览器推出完整的图片订阅，包括评论和点赞功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/05/instagram-launches-full-image-feed-for-web-browsers-including-commenting-and-liking/>
 

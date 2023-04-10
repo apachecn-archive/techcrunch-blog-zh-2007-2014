@@ -1,4 +1,4 @@
-# 瑞典粉丝自制字幕网站被版权警察关闭 TechCrunch
+# 瑞典粉丝自制字幕网站被版权警察关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/swedish-fan-made-subtitle-site-is-shut-down-by-copyright-police/>
 

@@ -1,4 +1,4 @@
-# 脸书新的移动测试框架诞生底部标签栏导航重新设计 iOS 5、6 和 7 TechCrunch
+# 脸书新的移动测试框架诞生底部标签栏导航重新设计 iOS 5、6 和 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/facebooks-new-mobile-test-framework-births-bottom-tab-bar-navigation-redesign-for-ios-5-6-7/>
 

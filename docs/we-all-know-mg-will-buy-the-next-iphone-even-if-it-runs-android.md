@@ -1,4 +1,4 @@
-# 下一代 iPhone 会更薄更宽吗？大量泄露的案例支持 TechCrunch
+# 下一代 iPhone 会更薄更宽吗？大量泄露的案例支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/02/we-all-know-mg-will-buy-the-next-iphone-even-if-it-runs-android/>
 

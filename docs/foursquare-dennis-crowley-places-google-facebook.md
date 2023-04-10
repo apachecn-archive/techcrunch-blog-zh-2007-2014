@@ -1,4 +1,4 @@
-# Foursquare 的克劳利:巨人是“通用的”，我们是有趣的。我想知道他指的是谁...TechCrunch
+# Foursquare 的克劳利:巨人是“通用的”，我们是有趣的。我想知道他指的是谁...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/21/foursquare-dennis-crowley-places-google-facebook/>
 

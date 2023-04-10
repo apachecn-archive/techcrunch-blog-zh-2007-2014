@@ -1,4 +1,4 @@
-# 据报道，谷歌本周将在 I/O 大会上推出音乐流媒体 Spotify 黑仔 TechCrunch
+# 据报道，谷歌本周将在 I/O 大会上推出音乐流媒体 Spotify 黑仔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/14/googles-reportedly-launching-a-music-streaming-spotify-killer-at-io-this-week/>
 

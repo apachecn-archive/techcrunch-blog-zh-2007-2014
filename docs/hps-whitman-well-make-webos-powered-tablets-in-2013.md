@@ -1,4 +1,4 @@
-# 惠普的惠特曼:我们将在 2013 年生产基于 WebOS 的平板电脑 TechCrunch
+# 惠普的惠特曼:我们将在 2013 年生产基于 WebOS 的平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/hps-whitman-well-make-webos-powered-tablets-in-2013/>
 

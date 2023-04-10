@@ -1,4 +1,4 @@
-# 微软失去唐道奇。这是一个巨大的错误 TechCrunch
+# 微软失去唐道奇。这是一个巨大的错误 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/04/microsoft-loses-don-dodge-this-is-a-huge-mistake/>
 

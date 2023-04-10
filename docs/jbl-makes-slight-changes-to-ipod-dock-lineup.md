@@ -1,4 +1,4 @@
-# JBL 对 iPod dock 阵容做了细微的改变 TechCrunch
+# JBL 对 iPod dock 阵容做了细微的改变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/18/jbl-makes-slight-changes-to-ipod-dock-lineup/>
 

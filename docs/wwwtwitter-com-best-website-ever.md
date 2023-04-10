@@ -1,4 +1,4 @@
-# WWWTWITTER.com:有史以来最好的网站 TechCrunch
+# WWWTWITTER.com:有史以来最好的网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/10/07/wwwtwitter-com-best-website-ever/>
 

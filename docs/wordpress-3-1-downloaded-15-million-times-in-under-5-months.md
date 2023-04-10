@@ -1,4 +1,4 @@
-# WordPress 3.1 在不到 5 个月的时间里下载了超过 1500 万次 TechCrunch
+# WordPress 3.1 在不到 5 个月的时间里下载了超过 1500 万次 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/04/wordpress-3-1-downloaded-15-million-times-in-under-5-months/>
 

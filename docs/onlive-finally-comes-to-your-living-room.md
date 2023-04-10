@@ -1,4 +1,4 @@
-# OnLive 终于来到你的客厅 TechCrunch
+# OnLive 终于来到你的客厅 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/18/onlive-finally-comes-to-your-living-room/>
 

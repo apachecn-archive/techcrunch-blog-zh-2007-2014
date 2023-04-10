@@ -1,4 +1,4 @@
-# 云托管公司 FireHost 融资 1000 万美元 TechCrunch
+# 云托管公司 FireHost 融资 1000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/cloud-hosting-company-firehost-raises-10-million/>
 

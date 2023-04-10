@@ -1,4 +1,4 @@
-# Gilt 焕然一新 TechCrunch
+# Gilt 焕然一新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/gilt-gets-a-makeover/>
 

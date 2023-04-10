@@ -1,4 +1,4 @@
-# CBS 测试社交视听室:与陌生人一起观看节目，并在节目中交谈 TechCrunch
+# CBS 测试社交视听室:与陌生人一起观看节目，并在节目中交谈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/02/cbs-testing-social-viewing-room-watch-stuff-with-strangers-and-talk-during-the-show/>
 

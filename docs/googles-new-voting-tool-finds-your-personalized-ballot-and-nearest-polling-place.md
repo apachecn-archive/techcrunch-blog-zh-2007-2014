@@ -1,4 +1,4 @@
-# 谷歌的新投票工具可以找到你的个性化选票和最近的投票地点 TechCrunch
+# 谷歌的新投票工具可以找到你的个性化选票和最近的投票地点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/31/googles-new-voting-tool-finds-your-personalized-ballot-and-nearest-polling-place/>
 

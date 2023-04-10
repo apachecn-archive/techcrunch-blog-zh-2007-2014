@@ -1,4 +1,4 @@
-# Slots.com 以 550 万美元易手 TechCrunch
+# Slots.com 以 550 万美元易手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/slots-com-changes-hands-for-5-5-million/>
 

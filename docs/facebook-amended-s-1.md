@@ -1,4 +1,4 @@
-# 脸书修订版 S-1 的主要变化:移动广告、Zynga、雅虎专利、信贷 TechCrunch
+# 脸书修订版 S-1 的主要变化:移动广告、Zynga、雅虎专利、信贷 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/07/facebook-amended-s-1/>
 

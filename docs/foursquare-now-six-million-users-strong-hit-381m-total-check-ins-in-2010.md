@@ -1,4 +1,4 @@
-# Foursquare 目前拥有 600 万用户，2010 年入住总人数达到 3.81 亿 TechCrunch
+# Foursquare 目前拥有 600 万用户，2010 年入住总人数达到 3.81 亿 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/foursquare-now-six-million-users-strong-hit-381m-total-check-ins-in-2010/>
 

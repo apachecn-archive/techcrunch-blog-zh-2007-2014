@@ -1,4 +1,4 @@
-# T-Mobile Amaze 4G 评测:大手机中的精美摄像头 TechCrunch
+# T-Mobile Amaze 4G 评测:大手机中的精美摄像头 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/the-t-mobile-amaze-4g-review-a-nice-camera-in-a-big-phone/>
 

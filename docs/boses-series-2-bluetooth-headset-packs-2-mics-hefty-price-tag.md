@@ -1,4 +1,4 @@
-# Bose 的 2 系列蓝牙耳机包含 2 个麦克风，价格不菲 TechCrunch
+# Bose 的 2 系列蓝牙耳机包含 2 个麦克风，价格不菲 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/boses-series-2-bluetooth-headset-packs-2-mics-hefty-price-tag/>
 

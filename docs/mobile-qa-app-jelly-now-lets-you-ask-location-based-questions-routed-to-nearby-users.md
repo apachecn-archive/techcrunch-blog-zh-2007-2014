@@ -1,4 +1,4 @@
-# 手机问答应用 Jelly 现在允许你向附近的用户提出基于位置的问题 TechCrunch
+# 手机问答应用 Jelly 现在允许你向附近的用户提出基于位置的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/mobile-qa-app-jelly-now-lets-you-ask-location-based-questions-routed-to-nearby-users/>
 

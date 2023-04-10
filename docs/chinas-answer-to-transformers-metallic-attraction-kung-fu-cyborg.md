@@ -1,4 +1,4 @@
-# 中国的变形金刚:金属吸引力功夫机器人 TechCrunch
+# 中国的变形金刚:金属吸引力功夫机器人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/chinas-answer-to-transformers-metallic-attraction-kung-fu-cyborg/>
 

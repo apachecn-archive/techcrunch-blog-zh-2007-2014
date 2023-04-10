@@ -1,4 +1,4 @@
-# OMG/JK:脸书广场在这里。让我们找到尸体。TechCrunch
+# OMG/JK:脸书广场在这里。让我们找到尸体。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/omgjk-facebook-places/>
 

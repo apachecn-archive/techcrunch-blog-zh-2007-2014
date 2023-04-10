@@ -1,4 +1,4 @@
-# IDC 预测，到 2015 年，移动应用下载量将达到 1830 亿次，应用内购买的增长 TechCrunch
+# IDC 预测，到 2015 年，移动应用下载量将达到 1830 亿次，应用内购买的增长 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/28/idc-predicts-183-billion-mobile-app-downloads-by-2015-rise-of-in-app-purchasing/>
 

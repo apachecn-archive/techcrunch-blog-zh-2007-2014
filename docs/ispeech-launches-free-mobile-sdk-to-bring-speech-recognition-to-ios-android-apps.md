@@ -1,4 +1,4 @@
-# iSpeech 推出免费移动 SDK，为 iOS 和 Android 应用带来语音识别技术 TechCrunch
+# iSpeech 推出免费移动 SDK，为 iOS 和 Android 应用带来语音识别技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/ispeech-launches-free-mobile-sdk-to-bring-speech-recognition-to-ios-android-apps/>
 

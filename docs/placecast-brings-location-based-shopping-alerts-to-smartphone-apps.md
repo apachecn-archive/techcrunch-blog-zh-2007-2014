@@ -1,4 +1,4 @@
-# Placecast 为零售商智能手机应用程序带来基于位置的购物提醒 TechCrunch
+# Placecast 为零售商智能手机应用程序带来基于位置的购物提醒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/placecast-brings-location-based-shopping-alerts-to-smartphone-apps/>
 

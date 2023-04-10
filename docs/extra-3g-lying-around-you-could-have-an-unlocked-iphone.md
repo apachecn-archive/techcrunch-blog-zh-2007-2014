@@ -1,4 +1,4 @@
-# 额外的 3G 费用？你可以拥有一部解锁的 iPhone！TechCrunch
+# 额外的 3G 费用？你可以拥有一部解锁的 iPhone！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/24/extra-3g-lying-around-you-could-have-an-unlocked-iphone/>
 

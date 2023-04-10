@@ -1,4 +1,4 @@
-# Amazon Cloud Drive 现在包含无限量音乐，但费用为每年 20 美元 TechCrunch
+# Amazon Cloud Drive 现在包含无限量音乐，但费用为每年 20 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/amazon-cloud-drive-now-to-include-unlimited-music-but-it-will-cost-20year/>
 

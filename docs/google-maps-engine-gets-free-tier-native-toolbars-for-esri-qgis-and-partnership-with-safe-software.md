@@ -1,4 +1,4 @@
-# 谷歌地图引擎获得免费层和公共数据程序，以帮助政府和其他组织表面地图 TechCrunch
+# 谷歌地图引擎获得免费层和公共数据程序，以帮助政府和其他组织表面地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/21/google-maps-engine-gets-free-tier-native-toolbars-for-esri-qgis-and-partnership-with-safe-software/>
 

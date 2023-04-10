@@ -1,4 +1,4 @@
-# 语义食谱搜索引擎 Yummly 从联合利华和其他公司筹得 600 万美元 TechCrunch
+# 语义食谱搜索引擎 Yummly 从联合利华和其他公司筹得 600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/21/semantic-recipe-search-engine-yummly-raises-6m-from-unilever-and-others/>
 

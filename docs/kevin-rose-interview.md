@@ -1,4 +1,4 @@
-# 凯文·罗斯坦率地谈到了新的 Digg 展示(TCTV)TechCrunch
+# 凯文·罗斯坦率地谈到了新的 Digg 展示(TCTV)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/30/kevin-rose-interview/>
 

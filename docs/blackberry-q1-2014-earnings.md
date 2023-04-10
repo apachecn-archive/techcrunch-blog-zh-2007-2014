@@ -1,4 +1,4 @@
-# 黑莓 2014 年在 Q1 失手:每股收益-0.13 美元，收入 31 亿美元，手机出货量 680 万部 TechCrunch
+# 黑莓 2014 年在 Q1 失手:每股收益-0.13 美元，收入 31 亿美元，手机出货量 680 万部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/28/blackberry-q1-2014-earnings/>
 

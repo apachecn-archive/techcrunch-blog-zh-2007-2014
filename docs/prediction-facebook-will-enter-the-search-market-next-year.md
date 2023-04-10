@@ -1,4 +1,4 @@
-# 预测:脸书明年将进入搜索市场 TechCrunch
+# 预测:脸书明年将进入搜索市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/prediction-facebook-will-enter-the-search-market-next-year/>
 

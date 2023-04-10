@@ -1,4 +1,4 @@
-# 10 亿次震动后，Urbanspoon 追逐 OpenTable TechCrunch
+# 10 亿次震动后，Urbanspoon 追逐 OpenTable 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/one-billion-shakes-urbanspoon-opentable/>
 

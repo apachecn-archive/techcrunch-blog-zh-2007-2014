@@ -1,4 +1,4 @@
-# Cloudera 现在为 Apache Hadoop 认证公司；启动合作伙伴计划 TechCrunch
+# Cloudera 现在为 Apache Hadoop 认证公司；启动合作伙伴计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/cloudera-now-certifies-companies-for-apache-hadoop-launches-partner-program/>
 

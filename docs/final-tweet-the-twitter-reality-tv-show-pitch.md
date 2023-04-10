@@ -1,4 +1,4 @@
-# 最后一条推文:Twitter 真人秀 Pitch TechCrunch
+# 最后一条推文:Twitter 真人秀 Pitch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/15/final-tweet-the-twitter-reality-tv-show-pitch/>
 

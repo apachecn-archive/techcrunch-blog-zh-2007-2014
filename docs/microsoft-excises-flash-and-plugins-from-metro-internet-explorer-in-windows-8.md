@@ -1,4 +1,4 @@
-# 微软在 Windows 8 中删除 Metro Internet Explorer 的 Flash 和插件 TechCrunch
+# 微软在 Windows 8 中删除 Metro Internet Explorer 的 Flash 和插件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/microsoft-excises-flash-and-plugins-from-metro-internet-explorer-in-windows-8/>
 

@@ -1,4 +1,4 @@
-# Market America 收购比尔盖茨支持的购物网站 Shop.com TechCrunch
+# Market America 收购比尔盖茨支持的购物网站 Shop.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/15/market-america-acquires-bill-gates-backed-shopping-site-shop-com/>
 

@@ -1,4 +1,4 @@
-# 谷歌会引诱微软进入手机行业吗？TechCrunch
+# 谷歌会引诱微软进入手机行业吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/motorola-google-microsoft-cellphone-briar-patch/>
 

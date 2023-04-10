@@ -1,4 +1,4 @@
-# 任天堂股东仍在叫嚣 iPhone 上的马里奥 TechCrunch
+# 任天堂股东仍在叫嚣 iPhone 上的马里奥 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/nintendo-shareholders-still-clamoring-for-mario-on-the-iphone/>
 

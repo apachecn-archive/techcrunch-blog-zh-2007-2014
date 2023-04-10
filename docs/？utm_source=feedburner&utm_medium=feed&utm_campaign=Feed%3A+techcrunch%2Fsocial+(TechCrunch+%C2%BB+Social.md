@@ -1,4 +1,4 @@
-# Twitter 的下一个焦点:简化和统一所有界面 TechCrunch
+# Twitter 的下一个焦点:简化和统一所有界面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/twitter-unification/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+techcrunch%2Fsocial+(TechCrunch+%C2%BB+Social>)
 

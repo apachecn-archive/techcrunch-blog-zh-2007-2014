@@ -1,4 +1,4 @@
-# SessionM 报告称，凭借其游戏化工具，留存率提高了 35%，参与度提高了 250% TechCrunch
+# SessionM 报告称，凭借其游戏化工具，留存率提高了 35%，参与度提高了 250% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/15/sessionm-gamification-data/>
 

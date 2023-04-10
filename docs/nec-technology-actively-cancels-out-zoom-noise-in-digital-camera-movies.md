@@ -1,4 +1,4 @@
-# NEC 技术主动消除数码相机电影中的变焦噪声 TechCrunch
+# NEC 技术主动消除数码相机电影中的变焦噪声 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/16/nec-technology-actively-cancels-out-zoom-noise-in-digital-camera-movies/>
 

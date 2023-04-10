@@ -1,4 +1,4 @@
-# Beyond Verbal 获得 280 万美元的种子资金，用于开发解码情感的语音识别技术 TechCrunch
+# Beyond Verbal 获得 280 万美元的种子资金，用于开发解码情感的语音识别技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/08/beyond-verbal-gets-a-2-8m-seed-round-to-develop-voice-recognition-that-decodes-emotions/>
 

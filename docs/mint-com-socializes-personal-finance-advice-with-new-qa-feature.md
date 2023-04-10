@@ -1,4 +1,4 @@
-# Mint.com 社交化个人理财建议，新增问答功能 TechCrunch
+# Mint.com 社交化个人理财建议，新增问答功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/13/mint-com-socializes-personal-finance-advice-with-new-qa-feature/>
 

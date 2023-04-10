@@ -1,4 +1,4 @@
-# Vokle 通过录音和章节式回放将其视频会议平台提升了一个档次 TechCrunch
+# Vokle 通过录音和章节式回放将其视频会议平台提升了一个档次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/vokle-turns-its-video-conferencing-platform-up-a-notch-with-recording-and-chapter-style-playback/>
 

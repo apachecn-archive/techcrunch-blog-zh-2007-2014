@@ -1,4 +1,4 @@
-# Rethink Books 关闭了$ 2M A 轮融资以资助电子书探索应用 TechCrunch
+# Rethink Books 关闭了$ 2M A 轮融资以资助电子书探索应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/rethink-books-closes-2m-series-a-to-fund-ebook-discovery-apps/>
 

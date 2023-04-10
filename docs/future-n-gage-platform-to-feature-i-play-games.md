@@ -1,4 +1,4 @@
-# 以 I-play 游戏为特色的未来 N-Gage 平台——TechCrunch
+# 以 I-play 游戏为特色的未来 N-Gage 平台——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/future-n-gage-platform-to-feature-i-play-games/>
 

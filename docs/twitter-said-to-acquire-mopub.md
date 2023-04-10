@@ -1,4 +1,4 @@
-# Twitter 以 3.5 亿美元收购 MoPub，加大移动广告的赌注 TechCrunch
+# Twitter 以 3.5 亿美元收购 MoPub，加大移动广告的赌注 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/twitter-said-to-acquire-mopub/>
 

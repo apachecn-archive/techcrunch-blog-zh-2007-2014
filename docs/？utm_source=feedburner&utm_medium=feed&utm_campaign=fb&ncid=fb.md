@@ -1,4 +1,4 @@
-# Tidy 只需轻扫一下，即可将您的智能手机照片整理到相册中 TechCrunch
+# Tidy 只需轻扫一下，即可将您的智能手机照片整理到相册中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/17/tidy-organizes-your-smartphone-photos-into-albums-with-just-a-swipe/?utm_source=feedburner&utm_medium=feed&utm_campaign=fb&ncid=fb>
 

@@ -1,4 +1,4 @@
-# 联邦快递将 92 辆送货卡车转换为柴油混合动力车 TechCrunch
+# 联邦快递将 92 辆送货卡车转换为柴油混合动力车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/22/fedex-converts-92-delivery-trucks-to-diesel-hybrids/>
 

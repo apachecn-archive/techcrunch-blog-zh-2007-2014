@@ -1,4 +1,4 @@
-# 惠普发布最新的 DM1 超便携笔记本电脑 TechCrunch
+# 惠普发布最新的 DM1 超便携笔记本电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/hp-releases-the-updated-dm1-ultraportable-laptop/>
 

@@ -1,4 +1,4 @@
-# ALMA 望远镜旨在了解宇宙的组成部分 TechCrunch
+# ALMA 望远镜旨在了解宇宙的组成部分 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/alma-telescope-aims-to-understand-the-building-blocks-of-the-universe/>
 

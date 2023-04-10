@@ -1,4 +1,4 @@
-# 社交忠诚度初创公司 Topguest 与脸书整合推出白标服务 TechCrunch
+# 社交忠诚度初创公司 Topguest 与脸书整合推出白标服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/social-loyalty-startup-topguest-launching-white-label-service-with-facebook-integration/>
 

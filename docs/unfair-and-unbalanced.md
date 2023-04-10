@@ -1,4 +1,4 @@
-# 不公平和不平衡 TechCrunch
+# 不公平和不平衡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/08/unfair-and-unbalanced/>
 

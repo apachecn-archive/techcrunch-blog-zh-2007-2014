@@ -1,4 +1,4 @@
-# Reonomy 从软银获得 370 万美元，以驯服商业房地产数据的狂野西部 TechCrunch
+# Reonomy 从软银获得 370 万美元，以驯服商业房地产数据的狂野西部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/reonomy-lands-3-7m-from-softbank-to-tame-the-wild-wild-west-of-commercial-real-estate-data/>
 

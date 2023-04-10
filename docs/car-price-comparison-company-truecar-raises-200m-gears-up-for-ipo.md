@@ -1,4 +1,4 @@
-# 汽车价格比较公司 TrueCar 融资 2 亿多美元，准备上市 TechCrunch
+# 汽车价格比较公司 TrueCar 融资 2 亿多美元，准备上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/car-price-comparison-company-truecar-raises-200m-gears-up-for-ipo/>
 

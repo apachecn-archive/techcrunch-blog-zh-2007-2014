@@ -1,4 +1,4 @@
-# AOL 第四季度收入增长至 6.79 亿美元，但每股收益为 0.43 美元，低于预期 TechCrunch
+# AOL 第四季度收入增长至 6.79 亿美元，但每股收益为 0.43 美元，低于预期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/aol-q4-earnings-2/>
 

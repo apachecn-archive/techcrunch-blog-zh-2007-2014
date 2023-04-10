@@ -1,4 +1,4 @@
-# 苹果股价跌至六个月来的最低点，而且看不到见底的迹象 TechCrunch
+# 苹果股价跌至六个月来的最低点，而且看不到见底的迹象 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/apples-stock-price-is-crashing-and-the-bottom-is-not-in-sight/>
 

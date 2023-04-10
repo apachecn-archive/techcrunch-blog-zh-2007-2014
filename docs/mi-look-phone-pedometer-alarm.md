@@ -1,4 +1,4 @@
-# Mi-Look:集老年人手机、计步器和移动报警系统于一体 TechCrunch
+# Mi-Look:集老年人手机、计步器和移动报警系统于一体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/mi-look-phone-pedometer-alarm/>
 

@@ -1,4 +1,4 @@
-# RocketBoom 创始人为父亲的生命而战；与此同时，制药公司正在自杀 TechCrunch
+# RocketBoom 创始人为父亲的生命而战；与此同时，制药公司正在自杀 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/14/rocketboom-founder-fighting-for-fathers-life-meanwhile-drug-company-committing-pr-suicide/>
 

@@ -1,4 +1,4 @@
-# 谷歌终于更新了 FeedBurner，专注于实时统计数据和 Twitter TechCrunch
+# 谷歌终于更新了 FeedBurner，专注于实时统计数据和 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/25/google-feedburner-twitter/>
 

@@ -1,4 +1,4 @@
-# 鲨鱼围着谷歌搜索+: EPIC 叫嚣反垄断，Twitter 提供证据 TechCrunch
+# 鲨鱼围着谷歌搜索+: EPIC 叫嚣反垄断，Twitter 提供证据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/11/google-search-plus/>
 

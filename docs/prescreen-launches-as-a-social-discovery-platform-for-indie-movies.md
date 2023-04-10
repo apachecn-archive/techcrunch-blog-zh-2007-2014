@@ -1,4 +1,4 @@
-# Prescreen 作为独立电影的社交发现平台推出 TechCrunch
+# Prescreen 作为独立电影的社交发现平台推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/prescreen-launches-as-a-social-discovery-platform-for-indie-movies/>
 

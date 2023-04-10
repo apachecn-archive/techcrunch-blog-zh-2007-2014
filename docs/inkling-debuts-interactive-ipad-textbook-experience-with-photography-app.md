@@ -1,4 +1,4 @@
-# Inkling 首次推出交互式 iPad 教科书体验摄影应用 TechCrunch
+# Inkling 首次推出交互式 iPad 教科书体验摄影应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/01/inkling-debuts-interactive-ipad-textbook-experience-with-photography-app/>
 

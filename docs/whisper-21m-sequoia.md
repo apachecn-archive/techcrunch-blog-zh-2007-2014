@@ -1,4 +1,4 @@
-# 秘密分享应用 Whisper 从红杉获得 2100 万美元，Roelof Botha 加入其董事会 TechCrunch
+# 秘密分享应用 Whisper 从红杉获得 2100 万美元，Roelof Botha 加入其董事会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/04/whisper-21m-sequoia/>
 

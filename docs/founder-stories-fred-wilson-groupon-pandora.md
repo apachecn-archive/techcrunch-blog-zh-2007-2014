@@ -1,4 +1,4 @@
-# 弗雷德·威尔逊解释了他为什么不投资 Groupon 或 Pandora TechCrunch
+# 弗雷德·威尔逊解释了他为什么不投资 Groupon 或 Pandora 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/12/founder-stories-fred-wilson-groupon-pandora/>
 

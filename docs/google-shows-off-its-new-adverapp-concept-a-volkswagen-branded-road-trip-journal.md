@@ -1,4 +1,4 @@
-# 谷歌展示其新的“广告应用”概念，这是一个大众品牌的公路旅行杂志 TechCrunch
+# 谷歌展示其新的“广告应用”概念，这是一个大众品牌的公路旅行杂志 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/07/google-shows-off-its-new-adverapp-concept-a-volkswagen-branded-road-trip-journal/>
 

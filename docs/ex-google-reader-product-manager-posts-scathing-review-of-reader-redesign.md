@@ -1,4 +1,4 @@
-# 前谷歌阅读器产品经理发布了对阅读器重新设计的严厉评论 TechCrunch
+# 前谷歌阅读器产品经理发布了对阅读器重新设计的严厉评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/ex-google-reader-product-manager-posts-scathing-review-of-reader-redesign/>
 

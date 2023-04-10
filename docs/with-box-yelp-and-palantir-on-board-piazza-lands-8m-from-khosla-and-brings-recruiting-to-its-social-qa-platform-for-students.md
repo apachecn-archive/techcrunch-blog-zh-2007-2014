@@ -1,4 +1,4 @@
-# 随着 Box、Yelp 和 Palantir 的加入，Piazza 从 Khosla 获得了 800 万美元，将招聘引入其面向学生的社交问答平台 TechCrunch
+# 随着 Box、Yelp 和 Palantir 的加入，Piazza 从 Khosla 获得了 800 万美元，将招聘引入其面向学生的社交问答平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/with-box-yelp-and-palantir-on-board-piazza-lands-8m-from-khosla-and-brings-recruiting-to-its-social-qa-platform-for-students/>
 

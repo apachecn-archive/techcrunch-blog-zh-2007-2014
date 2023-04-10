@@ -1,4 +1,4 @@
-# Zeel 重新成为按摩界的优步，推出新的按需移动预订服务 TechCrunch
+# Zeel 重新成为按摩界的优步，推出新的按需移动预订服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/zeel-relaunches-as-the-uber-for-massage-with-new-on-demand-mobile-booking-engine/>
 

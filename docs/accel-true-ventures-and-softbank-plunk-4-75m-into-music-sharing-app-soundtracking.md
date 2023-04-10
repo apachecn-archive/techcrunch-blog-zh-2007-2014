@@ -1,4 +1,4 @@
-# Accel、True Ventures 和软银向音乐共享应用 SoundTracking 投资 475 万美元 TechCrunch
+# Accel、True Ventures 和软银向音乐共享应用 SoundTracking 投资 475 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/accel-true-ventures-and-softbank-plunk-4-75m-into-music-sharing-app-soundtracking/>
 

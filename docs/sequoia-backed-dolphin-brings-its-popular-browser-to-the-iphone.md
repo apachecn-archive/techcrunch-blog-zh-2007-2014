@@ -1,4 +1,4 @@
-# 红杉支持的 Dolphin 将其广受欢迎的浏览器带入 iPhone TechCrunch
+# 红杉支持的 Dolphin 将其广受欢迎的浏览器带入 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/sequoia-backed-dolphin-brings-its-popular-browser-to-the-iphone/>
 

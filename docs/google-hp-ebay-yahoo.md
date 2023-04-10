@@ -1,4 +1,4 @@
-# 支持死刑攻击广告背后的谷歌、惠普、易贝和雅虎基金集团 TechCrunch
+# 支持死刑攻击广告背后的谷歌、惠普、易贝和雅虎基金集团 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/28/google-hp-ebay-yahoo/>
 

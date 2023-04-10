@@ -1,4 +1,4 @@
-# 纳斯达克与脸书财富的赌博 TechCrunch
+# 纳斯达克与脸书财富的赌博 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/nasdaq-facebook-ipo/>
 

@@ -1,4 +1,4 @@
-# 索尼将以 14.7 亿美元收购爱立信在索尼-爱立信手机公司的股份 TechCrunch
+# 索尼将以 14.7 亿美元收购爱立信在索尼-爱立信手机公司的股份 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/sony-will-buy-out-ericssons-stake-in-handset-venture-for-1-47-billion/>
 

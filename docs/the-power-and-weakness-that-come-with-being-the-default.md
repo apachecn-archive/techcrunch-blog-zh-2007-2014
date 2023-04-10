@@ -1,4 +1,4 @@
-# 默认设置的优势和劣势 TechCrunch
+# 默认设置的优势和劣势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/07/the-power-and-weakness-that-come-with-being-the-default/>
 

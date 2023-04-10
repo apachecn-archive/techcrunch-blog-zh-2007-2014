@@ -1,4 +1,4 @@
-# 以下是制作谷歌地图的过程，苹果能重新计算吗？TechCrunch
+# 以下是制作谷歌地图的过程，苹果能重新计算吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/23/heres-what-goes-into-making-google-maps-will-apple-be-able-to-recalculate/>
 

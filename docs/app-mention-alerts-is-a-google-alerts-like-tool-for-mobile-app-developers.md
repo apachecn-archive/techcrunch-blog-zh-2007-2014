@@ -1,4 +1,4 @@
-# “应用提及提醒”是一个类似谷歌提醒的工具，面向移动应用开发者 TechCrunch
+# “应用提及提醒”是一个类似谷歌提醒的工具，面向移动应用开发者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/11/app-mention-alerts-is-a-google-alerts-like-tool-for-mobile-app-developers/>
 

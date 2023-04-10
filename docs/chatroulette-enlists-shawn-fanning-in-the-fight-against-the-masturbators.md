@@ -1,4 +1,4 @@
-# Chatroulette 招募肖恩·范宁加入对抗自慰者的战斗 TechCrunch
+# Chatroulette 招募肖恩·范宁加入对抗自慰者的战斗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/13/chatroulette-enlists-shawn-fanning-in-the-fight-against-the-masturbators/>
 

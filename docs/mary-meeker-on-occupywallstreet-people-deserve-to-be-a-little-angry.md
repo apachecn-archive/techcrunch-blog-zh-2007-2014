@@ -1,4 +1,4 @@
-# 玛丽·米克尔在#OccupyWallStreet 上说:“人们应该有点愤怒。”TechCrunch
+# 玛丽·米克尔在#OccupyWallStreet 上说:“人们应该有点愤怒。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/mary-meeker-on-occupywallstreet-people-deserve-to-be-a-little-angry/>
 

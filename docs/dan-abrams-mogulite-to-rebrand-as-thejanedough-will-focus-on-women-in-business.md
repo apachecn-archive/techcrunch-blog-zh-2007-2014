@@ -1,4 +1,4 @@
-# 达恩·阿布拉姆斯的莫古丽特更名为詹尼面团；将关注商界女性 TechCrunch
+# 达恩·阿布拉姆斯的莫古丽特更名为詹尼面团；将关注商界女性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/29/dan-abrams-mogulite-to-rebrand-as-thejanedough-will-focus-on-women-in-business/>
 

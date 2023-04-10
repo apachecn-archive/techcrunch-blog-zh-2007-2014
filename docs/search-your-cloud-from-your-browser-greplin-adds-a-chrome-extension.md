@@ -1,4 +1,4 @@
-# 从浏览器搜索您的云:Greplin 添加了 Chrome 扩展 TechCrunch
+# 从浏览器搜索您的云:Greplin 添加了 Chrome 扩展 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/11/search-your-cloud-from-your-browser-greplin-adds-a-chrome-extension/>
 

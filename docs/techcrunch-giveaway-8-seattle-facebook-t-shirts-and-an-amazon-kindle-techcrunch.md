@@ -2,7 +2,7 @@
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/22/techcrunch-giveaway-8-seattle-facebook-t-shirts-and-an-amazon-kindle-techcrunch/>
 
-# TechCrunch 赠品:8 件西雅图脸书 t 恤和一台亚马逊 Kindle #TechCrunch
+# TechCrunch 赠品:8 件西雅图脸书 t 恤和一台亚马逊 Kindle #
 
 今天是周五，我们不仅有 8 件西雅图太空针脸书 t 恤要送出，还有一件亚马逊 Kindle 也要送出！
 

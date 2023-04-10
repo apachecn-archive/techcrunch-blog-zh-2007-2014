@@ -1,4 +1,4 @@
-# OpenDesk.cc 就像开源狂热者的宜家 TechCrunch
+# OpenDesk.cc 就像开源狂热者的宜家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/18/opendesk-cc-is-like-ikea-for-open-source-zealots/>
 

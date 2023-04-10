@@ -1,4 +1,4 @@
-# Lexar 推出 DDR3 内存，了解这一点，发光二极管！TechCrunch
+# Lexar 推出 DDR3 内存，了解这一点，发光二极管！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/07/lexar-unveils-ddr3-memory-with-get-this-leds/>
 

@@ -1,4 +1,4 @@
-# PhotoBox 以 1.2 亿英镑的价格与 Moonpig 合并 TechCrunch
+# PhotoBox 以 1.2 亿英镑的价格与 Moonpig 合并 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/25/photobox-merges-with-moonpig-in-120-million-deal/>
 

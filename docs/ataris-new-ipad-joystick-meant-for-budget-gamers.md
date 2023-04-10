@@ -1,4 +1,4 @@
-# 雅达利的新 iPad 游戏手柄是为预算游戏玩家设计的吗？TechCrunch
+# 雅达利的新 iPad 游戏手柄是为预算游戏玩家设计的吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/ataris-new-ipad-joystick-meant-for-budget-gamers/>
 

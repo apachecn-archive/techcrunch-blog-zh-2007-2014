@@ -1,4 +1,4 @@
-# 亚马逊现在在 Kindle Fire 上提供虚拟货币亚马逊币，向所有用户免费赠送 5 美元的硬币 TechCrunch
+# 亚马逊现在在 Kindle Fire 上提供虚拟货币亚马逊币，向所有用户免费赠送 5 美元的硬币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/13/amazon-launches-amazon-coins-virtual-currency-on-kindle-fire-gives-5-in-free-coins-to-all-users/>
 

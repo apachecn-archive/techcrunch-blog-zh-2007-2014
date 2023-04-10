@@ -1,4 +1,4 @@
-# 今天是廉价任天堂 3DS 日 TechCrunch
+# 今天是廉价任天堂 3DS 日 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/today-is-cheap-nintendo-3ds-day/>
 

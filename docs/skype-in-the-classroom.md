@@ -1,4 +1,4 @@
-# 教室中的 Skype:面向教师的国际社交网络 TechCrunch
+# 教室中的 Skype:面向教师的国际社交网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/30/skype-in-the-classroom/>
 

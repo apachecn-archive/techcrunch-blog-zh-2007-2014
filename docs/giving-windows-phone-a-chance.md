@@ -1,4 +1,4 @@
-# 给 Windows Phone 一个机会 TechCrunch
+# 给 Windows Phone 一个机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/27/giving-windows-phone-a-chance/>
 

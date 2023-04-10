@@ -1,4 +1,4 @@
-# 谷歌为图片搜索增加更多选项 TechCrunch
+# 谷歌为图片搜索增加更多选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/google-adds-more-options-to-image-search/>
 

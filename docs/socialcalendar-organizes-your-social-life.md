@@ -1,4 +1,4 @@
-# SocialCalendar 组织你的社交生活 TechCrunch
+# SocialCalendar 组织你的社交生活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/17/socialcalendar-organizes-your-social-life/>
 

@@ -1,4 +1,4 @@
-# 和海盗说话就像和朋友说话，除了..你会明白的。TechCrunch
+# 和海盗说话就像和朋友说话，除了..你会明白的。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/22/words-with-pirates-is-like-words-with-friends-except-well-youll-see/>
 

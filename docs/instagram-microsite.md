@@ -1,4 +1,4 @@
-# Instagram 终于有了一个更好的网站——为了格莱美。预示着什么即将到来？TechCrunch
+# Instagram 终于有了一个更好的网站——为了格莱美。预示着什么即将到来？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/13/instagram-microsite/>
 

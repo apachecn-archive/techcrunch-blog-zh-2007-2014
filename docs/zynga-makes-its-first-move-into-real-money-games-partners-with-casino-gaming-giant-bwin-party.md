@@ -1,4 +1,4 @@
-# Zynga 首次进军“真钱”游戏，与赌场游戏巨头 Bwin 合作。派对 TechCrunch
+# Zynga 首次进军“真钱”游戏，与赌场游戏巨头 Bwin 合作。派对 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/24/zynga-makes-its-first-move-into-real-money-games-partners-with-casino-gaming-giant-bwin-party/>
 

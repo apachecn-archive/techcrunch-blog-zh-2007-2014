@@ -1,4 +1,4 @@
-# CollegeBudget 将日常交易和团购带入校园 TechCrunch
+# CollegeBudget 将日常交易和团购带入校园 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/01/collegebudget-brings-daily-deals-and-group-buying-to-campuses/>
 

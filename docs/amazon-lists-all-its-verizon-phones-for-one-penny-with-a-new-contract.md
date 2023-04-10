@@ -1,4 +1,4 @@
-# 亚马逊以一便士的价格列出了所有威瑞森手机的新合同 TechCrunch
+# 亚马逊以一便士的价格列出了所有威瑞森手机的新合同 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/amazon-lists-all-its-verizon-phones-for-one-penny-with-a-new-contract/>
 

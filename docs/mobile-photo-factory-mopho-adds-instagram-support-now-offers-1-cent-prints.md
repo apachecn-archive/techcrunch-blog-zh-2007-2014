@@ -1,4 +1,4 @@
-# 移动照片工厂 MoPho 增加了 Instagram 支持，现在提供 1 美分的照片 TechCrunch
+# 移动照片工厂 MoPho 增加了 Instagram 支持，现在提供 1 美分的照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/20/mobile-photo-factory-mopho-adds-instagram-support-now-offers-1-cent-prints/>
 

@@ -1,4 +1,4 @@
-# 即将发布的 Microsoft Exchange 版本的 Beta 测试增加了 70，000% TechCrunch
+# 即将发布的 Microsoft Exchange 版本的 Beta 测试增加了 70，000% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/13/70000-increase-in-stress-testing-for-upcoming-microsoft-exchange-release/>
 

@@ -1,4 +1,4 @@
-# 东芝发布最新儿童友好型笔记本电脑 TechCrunch
+# 东芝发布最新儿童友好型笔记本电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/toshiba-announces-updated-kid-friendly-laptop/>
 

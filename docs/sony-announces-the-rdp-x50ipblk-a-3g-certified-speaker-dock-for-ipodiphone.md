@@ -1,4 +1,4 @@
-# 索尼宣布推出 RDP-X50iPBLK，这是一款支持 iPod/iPhone 的 3G 认证扬声器基座 TechCrunch
+# 索尼宣布推出 RDP-X50iPBLK，这是一款支持 iPod/iPhone 的 3G 认证扬声器基座 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/26/sony-announces-the-rdp-x50ipblk-a-3g-certified-speaker-dock-for-ipodiphone/>
 

@@ -1,4 +1,4 @@
-# 以下是脸书时间表 TechCrunch
+# 以下是脸书时间表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/facebook-timeline-pictures/>
 

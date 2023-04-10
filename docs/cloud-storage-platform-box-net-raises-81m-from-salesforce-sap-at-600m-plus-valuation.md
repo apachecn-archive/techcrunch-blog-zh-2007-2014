@@ -1,4 +1,4 @@
-# 云存储平台 Box.net 以超过 6 亿美元的估值从 Salesforce、SAP 融资 8100 万美元 TechCrunch
+# 云存储平台 Box.net 以超过 6 亿美元的估值从 Salesforce、SAP 融资 8100 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/cloud-storage-platform-box-net-raises-81m-from-salesforce-sap-at-600m-plus-valuation/>
 

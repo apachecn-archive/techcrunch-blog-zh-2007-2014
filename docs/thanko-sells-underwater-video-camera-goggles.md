@@ -1,4 +1,4 @@
-# Thanko 出售水下摄像机护目镜 TechCrunch
+# Thanko 出售水下摄像机护目镜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/05/thanko-sells-underwater-video-camera-goggles/>
 

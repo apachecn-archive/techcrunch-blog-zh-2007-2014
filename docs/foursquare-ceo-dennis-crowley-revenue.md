@@ -1,4 +1,4 @@
-# Foursquare 首席执行官丹尼斯·克劳利(Dennis Crowley):“人们认为我们不知道如何创收。这是不对的。”TechCrunch
+# Foursquare 首席执行官丹尼斯·克劳利(Dennis Crowley):“人们认为我们不知道如何创收。这是不对的。”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/29/foursquare-ceo-dennis-crowley-revenue/>
 

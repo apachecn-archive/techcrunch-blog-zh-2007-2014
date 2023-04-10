@@ -1,4 +1,4 @@
-# SlideShare 现在允许您将 YouTube 融合到您的演示文稿中 TechCrunch
+# SlideShare 现在允许您将 YouTube 融合到您的演示文稿中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/20/slideshare-now-lets-you-fuse-youtube-into-your-presentations/>
 

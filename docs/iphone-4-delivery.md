@@ -1,4 +1,4 @@
-# 一些 iPhone 4s 提前整整两天到达 TechCrunch
+# 一些 iPhone 4s 提前整整两天到达 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/iphone-4-delivery/>
 

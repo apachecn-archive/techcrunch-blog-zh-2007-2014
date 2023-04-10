@@ -1,4 +1,4 @@
-# 京瓷的太阳能循环站:为电动自行车充电的环保站 TechCrunch
+# 京瓷的太阳能循环站:为电动自行车充电的环保站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/19/kyoceras-solar-cycle-station-eco-friendly-stand-for-charging-e-bikes/>
 

@@ -1,4 +1,4 @@
-# 社交地图初创公司 Platial 找到了通往死亡池的道路 TechCrunch
+# 社交地图初创公司 Platial 找到了通往死亡池的道路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/01/social-mapping-startup-platial-finds-its-way-to-the-deadpool/>
 

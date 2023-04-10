@@ -1,4 +1,4 @@
-# Flurry: Android 和 iOS 游戏在便携收入方面击败任天堂和索尼 TechCrunch
+# Flurry: Android 和 iOS 游戏在便携收入方面击败任天堂和索尼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/flurry-android-and-ios-games-beat-nintendo-and-sony-in-revenue/>
 

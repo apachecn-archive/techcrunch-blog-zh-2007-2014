@@ -1,4 +1,4 @@
-# Zendesk 加速了 Twitter 的整合；允许用户将推文转化为服务台票证 TechCrunch
+# Zendesk 加速了 Twitter 的整合；允许用户将推文转化为服务台票证 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/13/zendesk-ramps-up-twitter-integration-allows-users-to-turn-tweets-into-help-desk-tickets/>
 

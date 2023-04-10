@@ -1,4 +1,4 @@
-# Sprint 上个季度售出了 180 万部 iPhones，其中 40%卖给了新客户 TechCrunch
+# Sprint 上个季度售出了 180 万部 iPhones，其中 40%卖给了新客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/08/sprint-sold-1-8-million-iphones-last-quarter-40-percent-to-new-customers/>
 

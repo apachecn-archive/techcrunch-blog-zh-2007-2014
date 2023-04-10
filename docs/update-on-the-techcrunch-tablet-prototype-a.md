@@ -1,4 +1,4 @@
-# TechCrunch 平板电脑更新:原型 A TechCrunch
+# TechCrunch 平板电脑更新:原型 A 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/30/update-on-the-techcrunch-tablet-prototype-a/>
 

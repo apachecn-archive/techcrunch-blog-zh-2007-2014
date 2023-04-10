@@ -1,4 +1,4 @@
-# 美国在线收购 TechCrunch:歌曲 TechCrunch
+# 美国在线收购 TechCrunch:歌曲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/29/aol-buys-techcrunch-the-song/>
 

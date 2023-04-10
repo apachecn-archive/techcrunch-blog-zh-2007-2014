@@ -1,4 +1,4 @@
-# SimpleGeo 联合创始人乔·斯坦普离开后城市飞艇收购 TechCrunch
+# SimpleGeo 联合创始人乔·斯坦普离开后城市飞艇收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/simplegeo-co-founder-joe-stump-leaves-post-urban-airship-acquisition/>
 

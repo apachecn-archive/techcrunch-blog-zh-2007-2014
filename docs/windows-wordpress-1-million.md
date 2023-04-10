@@ -1,4 +1,4 @@
-# Windows Live Spaces 过渡到 WordPress 创建了 100 万个新博客 TechCrunch
+# Windows Live Spaces 过渡到 WordPress 创建了 100 万个新博客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/29/windows-wordpress-1-million/>
 

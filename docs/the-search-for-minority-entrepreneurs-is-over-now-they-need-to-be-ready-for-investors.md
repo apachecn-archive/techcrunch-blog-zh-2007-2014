@@ -1,4 +1,4 @@
-# 对少数族裔企业家的搜寻已经结束——现在他们需要为投资者做好准备——TechCrunch
+# 对少数族裔企业家的搜寻已经结束——现在他们需要为投资者做好准备——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/29/the-search-for-minority-entrepreneurs-is-over-now-they-need-to-be-ready-for-investors/>
 

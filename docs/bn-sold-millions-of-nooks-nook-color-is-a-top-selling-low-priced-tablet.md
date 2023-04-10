@@ -1,4 +1,4 @@
-# B&N 卖出了“数百万”台 Nook，Nook Color 是“最畅销”的低价平板电脑 TechCrunch
+# B&N 卖出了“数百万”台 Nook，Nook Color 是“最畅销”的低价平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/bn-sold-millions-of-nooks-nook-color-is-a-top-selling-low-priced-tablet/>
 

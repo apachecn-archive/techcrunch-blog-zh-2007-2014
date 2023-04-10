@@ -1,4 +1,4 @@
-# MacBook Air 风格的上网本下周在新加坡上市 TechCrunch
+# MacBook Air 风格的上网本下周在新加坡上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/macbook-air-style-netbook-available-in-singapore-next-week/>
 

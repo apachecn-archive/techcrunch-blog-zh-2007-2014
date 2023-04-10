@@ -1,4 +1,4 @@
-# 迷失在新的 Myspace 上。摆脱不了贾斯汀。发送帮助。TechCrunch
+# 迷失在新的 Myspace 上。摆脱不了贾斯汀。发送帮助。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/lost-on-new-myspace-cant-escape-justin-send-help/>
 

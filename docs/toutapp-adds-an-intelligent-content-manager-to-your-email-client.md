@@ -1,4 +1,4 @@
-# ToutApp 为您的电子邮件客户端添加智能内容管理器 TechCrunch
+# ToutApp 为您的电子邮件客户端添加智能内容管理器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/21/toutapp-adds-an-intelligent-content-manager-to-your-email-client/>
 

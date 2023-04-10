@@ -1,4 +1,4 @@
-# Samwers 的在线购物商城 Lazada 从股东 Kinnevik 获得 4000 万美元，用于在亚洲推广亚马逊模式 TechCrunch
+# Samwers 的在线购物商城 Lazada 从股东 Kinnevik 获得 4000 万美元，用于在亚洲推广亚马逊模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/12/samwers-online-shopping-mall-lazada-gets-40m-from-kinnevik-to-push-the-amazon-model-in-asia/>
 

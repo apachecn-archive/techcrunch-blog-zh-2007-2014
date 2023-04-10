@@ -1,4 +1,4 @@
-# AudioTweets 是一个 Twitter 客户端，让你通过听你的 Twitter 流赚取美元 TechCrunch
+# AudioTweets 是一个 Twitter 客户端，让你通过听你的 Twitter 流赚取美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/audiotweets-is-a-twitter-client-that-lets-you-earn-by-listening-to-your-twitter-stream/>
 

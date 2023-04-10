@@ -1,4 +1,4 @@
-# 雅虎聘请罗斯·莱文索恩负责美国业务 TechCrunch
+# 雅虎聘请罗斯·莱文索恩负责美国业务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/27/yahoo-hires-ross-levinsohn-to-run-americas-business/>
 

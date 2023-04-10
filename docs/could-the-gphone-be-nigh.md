@@ -1,4 +1,4 @@
-# 手机会在附近吗？–TechCrunch
+# 手机会在附近吗？–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/could-the-gphone-be-nigh>
 

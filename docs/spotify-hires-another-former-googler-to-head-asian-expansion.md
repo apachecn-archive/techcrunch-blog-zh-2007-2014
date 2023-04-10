@@ -1,4 +1,4 @@
-# Spotify 聘请另一名前谷歌员工负责亚洲扩张 TechCrunch
+# Spotify 聘请另一名前谷歌员工负责亚洲扩张 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/spotify-hires-another-former-googler-to-head-asian-expansion/>
 

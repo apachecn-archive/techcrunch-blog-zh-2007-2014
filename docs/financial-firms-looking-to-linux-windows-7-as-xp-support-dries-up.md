@@ -1,4 +1,4 @@
-# 随着 XP 支持枯竭，金融公司将目光投向 Linux 和 Windows 7 TechCrunch
+# 随着 XP 支持枯竭，金融公司将目光投向 Linux 和 Windows 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/23/financial-firms-looking-to-linux-windows-7-as-xp-support-dries-up/>
 

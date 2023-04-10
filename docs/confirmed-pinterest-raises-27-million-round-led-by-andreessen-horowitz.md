@@ -1,4 +1,4 @@
-# 已确认:Pinterest 融资 2700 万美元，由 Andreessen Horowitz 领投 TechCrunch
+# 已确认:Pinterest 融资 2700 万美元，由 Andreessen Horowitz 领投 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/07/confirmed-pinterest-raises-27-million-round-led-by-andreessen-horowitz/>
 

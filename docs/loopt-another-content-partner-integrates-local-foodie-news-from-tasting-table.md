@@ -1,4 +1,4 @@
-# Loopt 再增加一个内容合作伙伴；整合来自品尝台的当地美食新闻 TechCrunch
+# Loopt 再增加一个内容合作伙伴；整合来自品尝台的当地美食新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/loopt-another-content-partner-integrates-local-foodie-news-from-tasting-table/>
 

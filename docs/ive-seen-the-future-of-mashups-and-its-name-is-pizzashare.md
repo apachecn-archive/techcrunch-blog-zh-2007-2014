@@ -1,4 +1,4 @@
-# 我看到了混搭的未来，它的名字叫 pizza share TechCrunch
+# 我看到了混搭的未来，它的名字叫 pizza share 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/25/ive-seen-the-future-of-mashups-and-its-name-is-pizzashare/>
 

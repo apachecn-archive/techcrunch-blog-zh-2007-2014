@@ -1,4 +1,4 @@
-# 在纽约市的亚马逊活动现场直播 TechCrunch
+# 在纽约市的亚马逊活动现场直播 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/live-at-the-amazon-event-in-new-york-city/>
 

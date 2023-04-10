@@ -1,4 +1,4 @@
-# 雅虎在印度推出社交网络 TechCrunch
+# 雅虎在印度推出社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/19/yahoo-launches-social-network-in-india/>
 

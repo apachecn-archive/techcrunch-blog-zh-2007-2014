@@ -1,4 +1,4 @@
-# 齐格网雇佣前网飞·首席运营官管理庞大的教科书仓库 TechCrunch
+# 齐格网雇佣前网飞·首席运营官管理庞大的教科书仓库 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/chegg-netflix-coo-warehouse/>
 

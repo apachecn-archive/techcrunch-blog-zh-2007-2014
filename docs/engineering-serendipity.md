@@ -1,4 +1,4 @@
-# 工程意外收获 TechCrunch
+# 工程意外收获 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/07/engineering-serendipity/>
 

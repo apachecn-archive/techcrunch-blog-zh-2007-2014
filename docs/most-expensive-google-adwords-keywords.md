@@ -1,4 +1,4 @@
-# Google AdWords 中最贵的 20 个关键词类别是什么？TechCrunch
+# Google AdWords 中最贵的 20 个关键词类别是什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/most-expensive-google-adwords-keywords/>
 

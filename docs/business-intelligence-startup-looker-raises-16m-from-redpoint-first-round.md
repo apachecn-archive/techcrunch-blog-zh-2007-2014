@@ -1,4 +1,4 @@
-# 商业智能初创公司 Looker 从 Redpoint 首轮融资 1600 万美元 TechCrunch
+# 商业智能初创公司 Looker 从 Redpoint 首轮融资 1600 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/13/business-intelligence-startup-looker-raises-16m-from-redpoint-first-round/>
 

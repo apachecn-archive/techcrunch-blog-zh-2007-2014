@@ -1,4 +1,4 @@
-# 众筹和地球一小时联手支持环保项目 TechCrunch
+# 众筹和地球一小时联手支持环保项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/28/crowdonomics-and-earth-hour-team-up-to-support-tech-based-environmental-projects/>
 

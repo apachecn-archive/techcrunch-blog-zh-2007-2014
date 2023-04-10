@@ -1,4 +1,4 @@
-# 苹果刚刚禁止了 App Store 中的色情内容吗？TechCrunch
+# 苹果刚刚禁止了 App Store 中的色情内容吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/18/did-apple-just-ban-sexual-content-from-the-app-store/>
 

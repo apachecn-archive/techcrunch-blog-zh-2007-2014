@@ -1,4 +1,4 @@
-# Dropbox 概述了处理政府数据请求的原则 TechCrunch
+# Dropbox 概述了处理政府数据请求的原则 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/dropbox-outlines-its-principles-for-handling-government-data-requests/>
 

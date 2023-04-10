@@ -1,4 +1,4 @@
-# 佳能体验 AirPrint 乐趣，允许在三台打印机上进行 iOS 打印 TechCrunch
+# 佳能体验 AirPrint 乐趣，允许在三台打印机上进行 iOS 打印 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/canon-gets-in-on-the-airprint-fun-allows-for-ios-printing-on-a-three-printers/>
 

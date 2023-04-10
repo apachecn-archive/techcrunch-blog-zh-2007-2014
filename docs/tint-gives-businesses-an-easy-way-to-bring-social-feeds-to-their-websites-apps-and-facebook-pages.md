@@ -1,4 +1,4 @@
-# Tint 为企业提供了一种简单的方式，将社交媒体内容引入他们的网站、应用程序和脸书页面 TechCrunch
+# Tint 为企业提供了一种简单的方式，将社交媒体内容引入他们的网站、应用程序和脸书页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/tint-gives-businesses-an-easy-way-to-bring-social-feeds-to-their-websites-apps-and-facebook-pages/>
 

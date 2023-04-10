@@ -1,4 +1,4 @@
-# 如果你可以合法转售你的数字音乐会怎么样？雷迪吉可能已经找到了解决办法。TechCrunch
+# 如果你可以合法转售你的数字音乐会怎么样？雷迪吉可能已经找到了解决办法。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/what-if-you-could-legally-resell-your-digital-music-redigi-may-have-found-the-solution/>
 

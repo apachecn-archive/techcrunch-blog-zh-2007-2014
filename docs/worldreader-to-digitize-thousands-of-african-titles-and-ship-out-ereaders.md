@@ -1,4 +1,4 @@
-# Worldreader 将数以千计的非洲书籍数字化，并推出电子书阅读器 TechCrunch
+# Worldreader 将数以千计的非洲书籍数字化，并推出电子书阅读器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/08/worldreader-to-digitize-thousands-of-african-titles-and-ship-out-ereaders/>
 

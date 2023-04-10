@@ -1,4 +1,4 @@
-# 脸书的 t 恤在西雅图看起来像什么？TechCrunch
+# 脸书的 t 恤在西雅图看起来像什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/what-do-facebook-t-shirts-look-like-in-seattle/>
 

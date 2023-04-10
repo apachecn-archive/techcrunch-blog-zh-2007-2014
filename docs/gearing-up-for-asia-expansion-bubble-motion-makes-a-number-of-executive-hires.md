@@ -1,4 +1,4 @@
-# 为亚洲扩张做准备，Bubble Motion 雇佣了许多高管 TechCrunch
+# 为亚洲扩张做准备，Bubble Motion 雇佣了许多高管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/gearing-up-for-asia-expansion-bubble-motion-makes-a-number-of-executive-hires/>
 

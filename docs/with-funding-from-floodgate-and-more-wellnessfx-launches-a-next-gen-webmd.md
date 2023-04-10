@@ -1,4 +1,4 @@
-# 在 Floodgate 等公司的资助下，WellnessFX 推出了下一代 WebMD TechCrunch
+# 在 Floodgate 等公司的资助下，WellnessFX 推出了下一代 WebMD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/with-funding-from-floodgate-and-more-wellnessfx-launches-a-next-gen-webmd/>
 

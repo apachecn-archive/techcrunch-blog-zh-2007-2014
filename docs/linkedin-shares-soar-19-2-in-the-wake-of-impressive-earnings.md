@@ -1,4 +1,4 @@
-# 在令人印象深刻的收益之后，LinkedIn 股价飙升 19.2% TechCrunch
+# 在令人印象深刻的收益之后，LinkedIn 股价飙升 19.2% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/08/linkedin-shares-soar-19-2-in-the-wake-of-impressive-earnings/>
 

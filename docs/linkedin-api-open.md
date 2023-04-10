@@ -1,4 +1,4 @@
-# 一个生态系统诞生:LinkedIn 开放 API TechCrunch
+# 一个生态系统诞生:LinkedIn 开放 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/23/linkedin-api-open/>
 

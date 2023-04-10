@@ -1,4 +1,4 @@
-# 哥伦比亚广播公司互动改变它的颜色。Cnet 测试了一个在博客顶部和中间的新设计。TechCrunch
+# 哥伦比亚广播公司互动改变它的颜色。Cnet 测试了一个在博客顶部和中间的新设计。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/09/cnet-tests-a-new-design-with-blogs-top-and-center-cbs-interactive-to-change-its-colors-as-well/>
 

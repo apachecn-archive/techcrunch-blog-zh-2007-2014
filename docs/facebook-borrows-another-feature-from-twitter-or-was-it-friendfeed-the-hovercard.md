@@ -1,4 +1,4 @@
-# 脸书借用了 Twitter 的另一个功能(或者是 FriendFeed？):hover card TechCrunch
+# 脸书借用了 Twitter 的另一个功能(或者是 FriendFeed？):hover card 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/19/facebook-borrows-another-feature-from-twitter-or-was-it-friendfeed-the-hovercard/>
 

@@ -1,4 +1,4 @@
-# Heyzap 为 Flash 游戏带来 Xbox Live 风格的成就 TechCrunch
+# Heyzap 为 Flash 游戏带来 Xbox Live 风格的成就 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/01/heyzap-flash-achievement/>
 

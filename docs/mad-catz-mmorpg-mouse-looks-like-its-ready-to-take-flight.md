@@ -1,4 +1,4 @@
-# 疯狂的卡兹 MMORPG 老鼠看起来准备起飞了 TechCrunch
+# 疯狂的卡兹 MMORPG 老鼠看起来准备起飞了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/mad-catz-mmorpg-mouse-looks-like-its-ready-to-take-flight/>
 

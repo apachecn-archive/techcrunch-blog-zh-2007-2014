@@ -1,4 +1,4 @@
-# 谷歌推出开放课程生成器 TechCrunch
+# 谷歌推出开放课程生成器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/google-launches-open-course-builder/>
 

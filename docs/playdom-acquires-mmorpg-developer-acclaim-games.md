@@ -1,4 +1,4 @@
-# Playdom 收购 MMORPG 出版商 Acclaim Games TechCrunch
+# Playdom 收购 MMORPG 出版商 Acclaim Games 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/18/playdom-acquires-mmorpg-developer-acclaim-games/>
 

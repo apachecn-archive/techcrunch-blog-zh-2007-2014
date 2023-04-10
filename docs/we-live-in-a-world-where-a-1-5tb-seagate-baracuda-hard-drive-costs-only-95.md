@@ -1,4 +1,4 @@
-# 我们生活在一个 1.5TB 希捷 Baracuda 硬盘仅售 95 美元的世界 TechCrunch
+# 我们生活在一个 1.5TB 希捷 Baracuda 硬盘仅售 95 美元的世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/we-live-in-a-world-where-a-1-5tb-seagate-baracuda-hard-drive-costs-only-95/>
 

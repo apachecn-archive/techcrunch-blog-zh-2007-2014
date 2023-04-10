@@ -1,4 +1,4 @@
-# Gartner:联想取代戴尔成为第二大个人电脑制造商，惠普仍处于领先地位，而且还在增长 TechCrunch
+# Gartner:联想取代戴尔成为第二大个人电脑制造商，惠普仍处于领先地位，而且还在增长 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/gartner-lenovo-replaces-dell-as-no-2-pc-maker-hp-still-on-top-and-growing/>
 

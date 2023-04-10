@@ -1,4 +1,4 @@
-# 我们想要一个 200 美元的非常简单的网络平板电脑。帮助我们建造它。TechCrunch
+# 我们想要一个 200 美元的非常简单的网络平板电脑。帮助我们建造它。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/21/we-want-a-dead-simple-web-tablet-help-us-build-it/>
 

@@ -1,4 +1,4 @@
-# AHAlife 筹集了 600 万美元来策划和销售世界各地难以找到的产品 TechCrunch
+# AHAlife 筹集了 600 万美元来策划和销售世界各地难以找到的产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/ahalife-raises-6m-to-curate-and-sell-hard-to-find-products-from-around-the-world/>
 

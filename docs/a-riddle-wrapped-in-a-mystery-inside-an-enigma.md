@@ -1,4 +1,4 @@
-# 脸书发布超级书呆子大数据工程博文吸引铁杆程序员 TechCrunch
+# 脸书发布超级书呆子大数据工程博文吸引铁杆程序员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/08/a-riddle-wrapped-in-a-mystery-inside-an-enigma/>
 

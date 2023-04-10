@@ -1,4 +1,4 @@
-# 第三季度，美国电话电报公司的 Wi-Fi 连接增加了近两倍；网络上传输的数据翻倍 TechCrunch
+# 第三季度，美国电话电报公司的 Wi-Fi 连接增加了近两倍；网络上传输的数据翻倍 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/att-nearly-tripled-wi-fi-connections-in-q3-data-carried-on-network-doubled/>
 

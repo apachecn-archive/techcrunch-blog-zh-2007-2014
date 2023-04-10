@@ -1,4 +1,4 @@
-# 广告网络 Adknowledge 收购脸书广告管理平台 adparle TechCrunch
+# 广告网络 Adknowledge 收购脸书广告管理平台 adparle 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/adknowledge-acquires-facebook-ad-management-platform-adparlor/>
 

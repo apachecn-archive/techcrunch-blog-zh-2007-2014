@@ -1,4 +1,4 @@
-# Lady Gaga 的病毒视频浏览量超过 10 亿 TechCrunch
+# Lady Gaga 的病毒视频浏览量超过 10 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/24/lady-gaga-videos-one-billion/>
 

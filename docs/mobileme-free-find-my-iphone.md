@@ -1,4 +1,4 @@
-# 不，MobileMe 并不是完全免费的，但是现在查找我的 iPhone/iPad 是 TechCrunch
+# 不，MobileMe 并不是完全免费的，但是现在查找我的 iPhone/iPad 是 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/mobileme-free-find-my-iphone/>
 

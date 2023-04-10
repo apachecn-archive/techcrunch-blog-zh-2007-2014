@@ -1,4 +1,4 @@
-# GigaOm 无视我的建议，又筹集了 450 万美元 TechCrunch
+# GigaOm 无视我的建议，又筹集了 450 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/06/gigaom-ignores-my-advice-raises-another-45-million/>
 

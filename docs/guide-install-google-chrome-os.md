@@ -1,4 +1,4 @@
-# 想亲自试用一下谷歌 Chrome OS 吗？以下是方法。TechCrunch
+# 想亲自试用一下谷歌 Chrome OS 吗？以下是方法。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/19/guide-install-google-chrome-os/>
 

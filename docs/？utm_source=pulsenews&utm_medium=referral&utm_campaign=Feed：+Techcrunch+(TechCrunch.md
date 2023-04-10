@@ -1,4 +1,4 @@
-# Instagram 在 8 月增加了 5000 万张照片，现在总数超过 2 亿张 TechCrunch
+# Instagram 在 8 月增加了 5000 万张照片，现在总数超过 2 亿张 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/instagram-adds-50-million-photos-in-august-now-over-200-million-total/?utm_source=pulsenews&utm_medium=referral&utm_campaign=Feed:+Techcrunch+(TechCrunch>)
 

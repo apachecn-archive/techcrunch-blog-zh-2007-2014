@@ -1,4 +1,4 @@
-# Pixable 将 Twitter 加入智能社交照片和视频聚合器 TechCrunch
+# Pixable 将 Twitter 加入智能社交照片和视频聚合器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/pixable-adds-twitter-to-intelligent-social-photo-and-video-aggregator/>
 

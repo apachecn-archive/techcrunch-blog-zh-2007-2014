@@ -1,4 +1,4 @@
-# 立即投入早期用户群，预购您的索尼平板电脑 TechCrunch
+# 立即投入早期用户群，预购您的索尼平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/i-hate-the-names/>
 

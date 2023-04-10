@@ -1,4 +1,4 @@
-# 油脂:视频游戏 TechCrunch
+# 油脂:视频游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/grease-the-video-game/>
 

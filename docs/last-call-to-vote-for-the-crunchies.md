@@ -1,4 +1,4 @@
-# 为脆饼干投票的最后一个电话 TechCrunch
+# 为脆饼干投票的最后一个电话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/24/last-call-to-vote-for-the-crunchies/>
 

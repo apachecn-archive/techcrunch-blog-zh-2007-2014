@@ -1,4 +1,4 @@
-# 动力鞋带击败耐克走向未来 TechCrunch
+# 动力鞋带击败耐克走向未来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/08/30/power-laces-beats-nike-to-the-future/>
 

@@ -1,4 +1,4 @@
-# 所有新博客都在测试阶段发布——TechCrunch
+# 所有新博客都在测试阶段发布——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/26/all-new-bloglines-launches-in-beta>
 

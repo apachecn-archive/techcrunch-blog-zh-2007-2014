@@ -1,4 +1,4 @@
-# Vlingo 的 Android 超级拨号器 TechCrunch
+# Vlingo 的 Android 超级拨号器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/15/vlingos-superdialer-android/>
 

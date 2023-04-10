@@ -1,4 +1,4 @@
-# 谷歌 12 小时(还在继续)定制搜索中断 TechCrunch
+# 谷歌 12 小时(还在继续)定制搜索中断 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/16/googles-12-hour-and-counting-custom-search-outage/>
 

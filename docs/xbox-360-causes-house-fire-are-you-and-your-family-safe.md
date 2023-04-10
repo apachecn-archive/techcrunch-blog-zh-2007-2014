@@ -1,4 +1,4 @@
-# Xbox 360 引起屋火；你和你的家人安全吗？TechCrunch
+# Xbox 360 引起屋火；你和你的家人安全吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/19/xbox-360-causes-house-fire-are-you-and-your-family-safe/>
 

@@ -1,4 +1,4 @@
-# 购买一台新 Mac，使用这个简单的解决方法在您的其他 Mac 上安装 iLife TechCrunch
+# 购买一台新 Mac，使用这个简单的解决方法在您的其他 Mac 上安装 iLife 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/29/buy-a-new-mac-install-ilife-on-your-other-macs-with-this-simple-workaround/>
 

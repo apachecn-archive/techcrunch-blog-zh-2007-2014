@@ -1,4 +1,4 @@
-# DudaMobile 让您的网站一键移动 TechCrunch
+# DudaMobile 让您的网站一键移动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/dudamobile-makes-your-website-mobile-in-one-click/>
 

@@ -1,4 +1,4 @@
-# HTC One X 和 EVO 4G LTE 在美国海关受阻，Sprint 推迟 EVO 发布日期 TechCrunch
+# HTC One X 和 EVO 4G LTE 在美国海关受阻，Sprint 推迟 EVO 发布日期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/16/htc-one-x-and-evo-4g-lte-delayed-in-customs-sprint-pushes-back-evo-release-date/>
 

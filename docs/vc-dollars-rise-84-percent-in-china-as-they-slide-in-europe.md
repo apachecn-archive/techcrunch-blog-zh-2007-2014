@@ -1,4 +1,4 @@
-# 风投资金在中国增长 84 %,而在欧洲下滑 TechCrunch
+# 风投资金在中国增长 84 %,而在欧洲下滑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/30/vc-dollars-rise-84-percent-in-china-as-they-slide-in-europe/>
 

@@ -1,4 +1,4 @@
-# SnapLayout:配置文件编辑器 MySpace 应该已经制作了 TechCrunch
+# SnapLayout:配置文件编辑器 MySpace 应该已经制作了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/10/snaplayout-the-profile-editor-myspace-should-have-made/>
 

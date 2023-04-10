@@ -1,4 +1,4 @@
-# 新的 TechCrunch 欧洲 100 强指数。你的创业公司在里面吗？TechCrunch
+# 新的 TechCrunch 欧洲 100 强指数。你的创业公司在里面吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/the-new-techcrunch-europe-top-100-index-is-your-startup-in-it/>
 

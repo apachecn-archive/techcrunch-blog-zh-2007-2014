@@ -1,4 +1,4 @@
-# 已确认:Mac 版 Tweetie 2 (Twitter)即将推出！TechCrunch
+# 已确认:Mac 版 Tweetie 2 (Twitter)即将推出！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/confirmed-tweetie-2-for-mac/>
 

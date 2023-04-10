@@ -1,4 +1,4 @@
-# 康卡斯特/Level 3 纷争的真正原因是:钱 TechCrunch
+# 康卡斯特/Level 3 纷争的真正原因是:钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/30/what-the-comcastlevel-3-fracas-is-really-about-money/>
 

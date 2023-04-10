@@ -1,4 +1,4 @@
-# 如果你今天看到一张 3D 打印鸡肉的照片，就让它成为这张吧 TechCrunch
+# 如果你今天看到一张 3D 打印鸡肉的照片，就让它成为这张吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/14/if-you-look-at-one-picture-of-3d-printed-chicken-today-make-it-this-one/>
 

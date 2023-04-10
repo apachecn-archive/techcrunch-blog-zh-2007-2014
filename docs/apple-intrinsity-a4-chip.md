@@ -1,4 +1,4 @@
-# 苹果继续变成巧克力工厂。预计堵塞泄漏会减少。TechCrunch
+# 苹果继续变成巧克力工厂。预计堵塞泄漏会减少。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/27/apple-intrinsity-a4-chip/>
 

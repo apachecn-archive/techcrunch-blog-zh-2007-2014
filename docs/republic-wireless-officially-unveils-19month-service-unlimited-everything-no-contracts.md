@@ -1,4 +1,4 @@
-# Republic Wireless 正式推出每月 19 美元的服务:无限一切，无合约 TechCrunch
+# Republic Wireless 正式推出每月 19 美元的服务:无限一切，无合约 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/republic-wireless-officially-unveils-19month-service-unlimited-everything-no-contracts/>
 

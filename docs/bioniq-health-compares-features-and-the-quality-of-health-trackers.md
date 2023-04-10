@@ -1,4 +1,4 @@
-# Bioniq Health 比较健康追踪器的功能和质量 TechCrunch
+# Bioniq Health 比较健康追踪器的功能和质量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/09/bioniq-health-compares-features-and-the-quality-of-health-trackers/>
 

@@ -1,4 +1,4 @@
-# 2houses 让共同养育更容易 TechCrunch
+# 2houses 让共同养育更容易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/2houses-makes-co-parenting-easier/>
 

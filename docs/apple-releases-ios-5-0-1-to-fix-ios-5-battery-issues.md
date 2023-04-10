@@ -1,4 +1,4 @@
-# 苹果发布 iOS 5.0.1 修复 iOS 5 电池问题 TechCrunch
+# 苹果发布 iOS 5.0.1 修复 iOS 5 电池问题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/apple-releases-ios-5-0-1-to-fix-ios-5-battery-issues/>
 

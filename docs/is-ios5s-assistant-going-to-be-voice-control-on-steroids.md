@@ -1,4 +1,4 @@
-# iOS5 的助手会不会是类固醇上的语音控制？TechCrunch
+# iOS5 的助手会不会是类固醇上的语音控制？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/is-ios5s-assistant-going-to-be-voice-control-on-steroids/>
 

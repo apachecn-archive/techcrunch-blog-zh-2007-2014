@@ -1,4 +1,4 @@
-# 凯文·斯特罗姆口袋里有 700 万用户，他说 Instagram 最大的机会在移动 TechCrunch
+# 凯文·斯特罗姆口袋里有 700 万用户，他说 Instagram 最大的机会在移动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/with-7m-users-in-his-pocket-kevin-systrom-says-the-biggest-opportunities-for-instagram-are-on-mobile/>
 

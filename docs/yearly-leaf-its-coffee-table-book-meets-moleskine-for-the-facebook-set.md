@@ -1,4 +1,4 @@
-# 年度叶:“这是一个咖啡桌书满足了脸书设置的鼹鼠皮！”TechCrunch
+# 年度叶:“这是一个咖啡桌书满足了脸书设置的鼹鼠皮！”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/19/yearly-leaf-its-coffee-table-book-meets-moleskine-for-the-facebook-set/>
 

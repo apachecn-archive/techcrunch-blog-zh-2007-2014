@@ -1,4 +1,4 @@
-# DevHub 让你一步到位地发布和盈利网站 TechCrunch
+# DevHub 让你一步到位地发布和盈利网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/17/devhub-lets-you-publish-and-monetize-websites-in-one-swoop/>
 

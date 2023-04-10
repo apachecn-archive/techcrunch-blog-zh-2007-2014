@@ -1,4 +1,4 @@
-# 预计到 2016 年，移动电子书总销售额将达到 100 亿美元；现在 Kindle 商店中有近 100 万本书 TechCrunch
+# 预计到 2016 年，移动电子书总销售额将达到 100 亿美元；现在 Kindle 商店中有近 100 万本书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/01/total-mobile-ebook-sales-forecast-to-reach-10b-by-2016-now-close-to-1-million-books-in-kindle-store/>
 

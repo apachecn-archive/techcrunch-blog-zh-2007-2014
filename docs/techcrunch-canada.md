@@ -1,4 +1,4 @@
-# 绝对不会，永远不会有加拿大 TechCrunch
+# 绝对不会，永远不会有加拿大 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/08/techcrunch-canada/>
 

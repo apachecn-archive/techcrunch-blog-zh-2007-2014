@@ -1,4 +1,4 @@
-# 社交投票应用 Polar 推出面向出版商的自助式投票工具 TechCrunch
+# 社交投票应用 Polar 推出面向出版商的自助式投票工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/social-voting-app-polar-launches-self-service-poll-creating-tool-for-publishers/>
 

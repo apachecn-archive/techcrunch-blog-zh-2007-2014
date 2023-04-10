@@ -1,4 +1,4 @@
-# 动视 CEO 透露秘密:吉他英雄没有死，只是在休息 TechCrunch
+# 动视 CEO 透露秘密:吉他英雄没有死，只是在休息 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/activision-ceo-spills-the-beans-guitar-hero-isnt-dead-just-resting/>
 

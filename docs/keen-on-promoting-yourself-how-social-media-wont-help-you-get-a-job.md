@@ -1,4 +1,4 @@
-# 热衷于...推销自己:社交媒体如何不能帮你找到工作 TechCrunch
+# 热衷于...推销自己:社交媒体如何不能帮你找到工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/keen-on-promoting-yourself-how-social-media-wont-help-you-get-a-job/>
 

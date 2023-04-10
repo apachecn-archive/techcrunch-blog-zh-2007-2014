@@ -1,4 +1,4 @@
-# 哎哟:网飞价格变化的后遗症 TechCrunch
+# 哎哟:网飞价格变化的后遗症 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/ouch-the-netflix-price-change-hangover/>
 

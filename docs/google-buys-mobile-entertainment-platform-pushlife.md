@@ -1,4 +1,4 @@
-# 谷歌收购移动音乐和娱乐平台 push life TechCrunch
+# 谷歌收购移动音乐和娱乐平台 push life 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/08/google-buys-mobile-entertainment-platform-pushlife/>
 

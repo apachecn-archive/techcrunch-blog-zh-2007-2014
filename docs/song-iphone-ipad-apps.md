@@ -1,4 +1,4 @@
-# 口袋里的录音室:仅使用 iPhone 和 iPad 应用程序的声音制作歌曲 TechCrunch
+# 口袋里的录音室:仅使用 iPhone 和 iPad 应用程序的声音制作歌曲 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/21/song-iphone-ipad-apps/>
 

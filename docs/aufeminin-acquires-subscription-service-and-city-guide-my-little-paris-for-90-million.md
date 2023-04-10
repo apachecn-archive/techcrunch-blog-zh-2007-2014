@@ -1,4 +1,4 @@
-# Aufeminin 以 9000 万美元收购订阅服务和城市指南《我的小巴黎》TechCrunch
+# Aufeminin 以 9000 万美元收购订阅服务和城市指南《我的小巴黎》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/22/aufeminin-acquires-subscription-service-and-city-guide-my-little-paris-for-90-million/>
 

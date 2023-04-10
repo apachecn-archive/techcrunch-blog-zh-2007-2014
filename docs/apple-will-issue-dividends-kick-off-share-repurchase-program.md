@@ -1,4 +1,4 @@
-# 苹果将发放股息，在 2012 年第四季度启动 100 亿美元的股票回购计划 TechCrunch
+# 苹果将发放股息，在 2012 年第四季度启动 100 亿美元的股票回购计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/19/apple-will-issue-dividends-kick-off-share-repurchase-program/>
 

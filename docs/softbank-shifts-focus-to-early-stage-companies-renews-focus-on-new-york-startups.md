@@ -1,4 +1,4 @@
-# 软银将重点转移到早期公司，重新关注纽约初创公司 TechCrunch
+# 软银将重点转移到早期公司，重新关注纽约初创公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/softbank-shifts-focus-to-early-stage-companies-renews-focus-on-new-york-startups/>
 

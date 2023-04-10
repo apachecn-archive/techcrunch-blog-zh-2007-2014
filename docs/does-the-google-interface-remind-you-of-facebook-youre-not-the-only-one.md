@@ -1,4 +1,4 @@
-# Google+界面是否让你想起了脸书？你不是唯一一个 TechCrunch
+# Google+界面是否让你想起了脸书？你不是唯一一个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/does-the-google-interface-remind-you-of-facebook-youre-not-the-only-one/>
 

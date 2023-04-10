@@ -1,4 +1,4 @@
-# 脸书将图书交换功能融入市场——TechCrunch
+# 脸书将图书交换功能融入市场——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/facebook-integrates-book-swap-feature-into-marketplace>
 

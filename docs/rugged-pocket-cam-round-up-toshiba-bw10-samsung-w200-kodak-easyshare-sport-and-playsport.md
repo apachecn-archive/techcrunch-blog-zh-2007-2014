@@ -1,4 +1,4 @@
-# 加固型袖珍摄像头综述:东芝 BW10、三星 W200、柯达 Easyshare Sport 和 Playsport TechCrunch
+# 加固型袖珍摄像头综述:东芝 BW10、三星 W200、柯达 Easyshare Sport 和 Playsport 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/rugged-pocket-cam-round-up-toshiba-bw10-samsung-w200-kodak-easyshare-sport-and-playsport/>
 

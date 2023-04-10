@@ -1,4 +1,4 @@
-# 固件更新应该可以修复 17 英寸 MacBook Pro 显示屏问题 TechCrunch
+# 固件更新应该可以修复 17 英寸 MacBook Pro 显示屏问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/26/firmware-update-should-fix-17-inch-macbook-pro-display-issues/>
 

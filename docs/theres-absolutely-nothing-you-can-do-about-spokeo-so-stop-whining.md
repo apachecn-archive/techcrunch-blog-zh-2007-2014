@@ -1,4 +1,4 @@
-# 对于 Spokeo 你绝对无能为力，所以不要抱怨了 TechCrunch
+# 对于 Spokeo 你绝对无能为力，所以不要抱怨了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/12/theres-absolutely-nothing-you-can-do-about-spokeo-so-stop-whining/>
 

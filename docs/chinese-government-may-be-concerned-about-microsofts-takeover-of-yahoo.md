@@ -1,4 +1,4 @@
-# 中国政府可能担心微软收购雅虎 TechCrunch
+# 中国政府可能担心微软收购雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/18/chinese-government-may-be-concerned-about-microsofts-takeover-of-yahoo/>
 

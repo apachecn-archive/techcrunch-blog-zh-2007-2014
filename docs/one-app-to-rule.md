@@ -1,4 +1,4 @@
-# 一款应用统治一切 TechCrunch
+# 一款应用统治一切 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/one-app-to-rule/>
 

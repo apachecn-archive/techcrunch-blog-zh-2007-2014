@@ -1,4 +1,4 @@
-# Shopcade 开启社交影响力和游戏功能 TechCrunch
+# Shopcade 开启社交影响力和游戏功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/13/shopcade-switches-on-social-influence-and-gaming-features/>
 

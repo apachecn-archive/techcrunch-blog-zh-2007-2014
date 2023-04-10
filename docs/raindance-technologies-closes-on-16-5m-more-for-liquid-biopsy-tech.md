@@ -1,4 +1,4 @@
-# RainDance Technologies 以 1650 万美元收购液体活检技术 TechCrunch
+# RainDance Technologies 以 1650 万美元收购液体活检技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/03/raindance-technologies-closes-on-16-5m-more-for-liquid-biopsy-tech/>
 

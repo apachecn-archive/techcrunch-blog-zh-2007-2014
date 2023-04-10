@@ -1,4 +1,4 @@
-# 面向日本的 9 款安卓手机:软银整个秋冬系列 TechCrunch
+# 面向日本的 9 款安卓手机:软银整个秋冬系列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/android-softbank-fall/>
 

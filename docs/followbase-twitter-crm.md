@@ -1,4 +1,4 @@
-# follow base:Twitter CRM 入门套件 TechCrunch
+# follow base:Twitter CRM 入门套件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/07/followbase-twitter-crm/>
 

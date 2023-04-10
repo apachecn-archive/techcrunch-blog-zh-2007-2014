@@ -1,4 +1,4 @@
-# 霍文萨炼油厂支付 530 万美元罚款，投资 7 亿美元用于污染控制 TechCrunch
+# 霍文萨炼油厂支付 530 万美元罚款，投资 7 亿美元用于污染控制 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/hovensa-clean-air-violation-settlement/>
 

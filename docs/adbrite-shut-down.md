@@ -1,4 +1,4 @@
-# 广告交易所 adBrite 将于 2 月 1 日关闭 TechCrunch
+# 广告交易所 adBrite 将于 2 月 1 日关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/adbrite-shut-down/>
 

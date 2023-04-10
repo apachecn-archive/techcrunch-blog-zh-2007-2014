@@ -1,4 +1,4 @@
-# 谷歌如何设定目标 TechCrunch
+# 谷歌如何设定目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/09/how-google-sets-goals/>
 

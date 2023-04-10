@@ -1,4 +1,4 @@
-# Barnes and Noble 现在有免费 Wi-Fi TechCrunch
+# Barnes and Noble 现在有免费 Wi-Fi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/barnes-and-noble-now-has-free-wi-fi/>
 

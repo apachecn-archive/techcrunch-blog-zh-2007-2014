@@ -1,4 +1,4 @@
-# 脸书没有付钱给雅虎，而是建立了一座拥有 1400 项专利的堡垒 TechCrunch
+# 脸书没有付钱给雅虎，而是建立了一座拥有 1400 项专利的堡垒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/23/facebook-patent-fortress/>
 

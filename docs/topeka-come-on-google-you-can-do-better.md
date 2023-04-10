@@ -1,4 +1,4 @@
-# 托皮卡？来吧谷歌，你可以做得更好 TechCrunch
+# 托皮卡？来吧谷歌，你可以做得更好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/01/topeka-come-on-google-you-can-do-better/>
 

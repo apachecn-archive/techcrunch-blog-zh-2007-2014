@@ -1,4 +1,4 @@
-# 为什么青少年不发微博？我们询问了超过 10，000 人。TechCrunch
+# 为什么青少年不发微博？我们询问了超过 10，000 人。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/30/why-dont-teens-tweet-we-asked-over-10000-of-them/>
 

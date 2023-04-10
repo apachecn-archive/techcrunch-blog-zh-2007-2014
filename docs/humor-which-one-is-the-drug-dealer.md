@@ -1,4 +1,4 @@
-# 幽默:哪个是毒贩？TechCrunch
+# 幽默:哪个是毒贩？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/07/humor-which-one-is-the-drug-dealer/>
 

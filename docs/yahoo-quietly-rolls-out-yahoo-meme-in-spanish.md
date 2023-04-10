@@ -1,4 +1,4 @@
-# 雅虎悄然推出西班牙语版雅虎 Meme TechCrunch
+# 雅虎悄然推出西班牙语版雅虎 Meme 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/yahoo-quietly-rolls-out-yahoo-meme-in-spanish/>
 

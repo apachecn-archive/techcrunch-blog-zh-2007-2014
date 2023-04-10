@@ -1,4 +1,4 @@
-# 印度尼西亚报摊应用 Scoop 完成 240 万美元的 B 轮融资 TechCrunch
+# 印度尼西亚报摊应用 Scoop 完成 240 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/indonesian-newsstand-app-scoop-closes-2-4m-series-b/>
 

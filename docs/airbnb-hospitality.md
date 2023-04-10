@@ -1,4 +1,4 @@
-# Airbnb 测试清洁、钥匙移交、机场运输和其他接待服务 TechCrunch
+# Airbnb 测试清洁、钥匙移交、机场运输和其他接待服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/17/airbnb-hospitality/>
 

@@ -1,4 +1,4 @@
-# 负责 Galaxy Tab 产品线的三星首席技术官下台 TechCrunch
+# 负责 Galaxy Tab 产品线的三星首席技术官下台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/samsung-cto-responsible-for-the-galaxy-tab-line-steps-down/>
 

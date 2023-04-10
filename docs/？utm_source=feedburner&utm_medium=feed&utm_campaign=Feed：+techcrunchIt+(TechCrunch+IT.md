@@ -1,4 +1,4 @@
-# Bizness Apps 推出 DIY 网站构建器，希望成为面向中小企业的全方位数字营销套件 TechCrunch
+# Bizness Apps 推出 DIY 网站构建器，希望成为面向中小企业的全方位数字营销套件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/28/bizness-apps-launches-diy-website-builder-looks-to-become-a-full-service-digital-marketing-suite-for-smbs/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+techcrunchIt+(TechCrunch+IT>)
 

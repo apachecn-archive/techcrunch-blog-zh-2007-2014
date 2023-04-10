@@ -1,4 +1,4 @@
-# 沃尔玛推出面向 iPhone 和 iPad 的新应用 TechCrunch
+# 沃尔玛推出面向 iPhone 和 iPad 的新应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/walmart-goes-mobile-with-new-apps-for-iphone-ipad/>
 

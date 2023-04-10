@@ -1,4 +1,4 @@
-# 面部重建骨灰盒让你将骨灰储存在大脑中 TechCrunch
+# 面部重建骨灰盒让你将骨灰储存在大脑中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/facial-reconstruction-urns-let-you-store-your-ashes-in-your-head/>
 

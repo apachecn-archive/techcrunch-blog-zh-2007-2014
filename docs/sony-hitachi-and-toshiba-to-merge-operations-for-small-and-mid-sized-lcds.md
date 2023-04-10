@@ -1,4 +1,4 @@
-# 索尼、日立和东芝将合并中小型液晶显示器业务 TechCrunch
+# 索尼、日立和东芝将合并中小型液晶显示器业务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/sony-hitachi-and-toshiba-to-merge-operations-for-small-and-mid-sized-lcds/>
 

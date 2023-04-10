@@ -1,4 +1,4 @@
-# 亚马逊旗下的 Quidsi 首次亮相 VineMarket.com，这是一家为食物过敏患者服务的在线杂货店 TechCrunch
+# 亚马逊旗下的 Quidsi 首次亮相 VineMarket.com，这是一家为食物过敏患者服务的在线杂货店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/19/amazon-owned-quidsi-debuts-vinemarket-com-an-online-grocery-store-catering-to-food-allergy-sufferers/>
 

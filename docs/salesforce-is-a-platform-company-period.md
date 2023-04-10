@@ -1,4 +1,4 @@
-# Salesforce 是一家平台公司。句号。TechCrunch
+# Salesforce 是一家平台公司。句号。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/30/salesforce-is-a-platform-company-period/>
 

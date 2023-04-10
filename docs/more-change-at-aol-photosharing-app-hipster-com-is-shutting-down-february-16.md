@@ -1,4 +1,4 @@
-# 美国在线的更多变化:图片分享应用 Hipster.com 将于 2 月 16 日关闭 TechCrunch
+# 美国在线的更多变化:图片分享应用 Hipster.com 将于 2 月 16 日关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/05/more-change-at-aol-photosharing-app-hipster-com-is-shutting-down-february-16/>
 

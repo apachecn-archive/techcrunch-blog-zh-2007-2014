@@ -1,4 +1,4 @@
-# 欧洲初创企业爱情之夏-伦敦、柏林和其他地方 TechCrunch
+# 欧洲初创企业爱情之夏-伦敦、柏林和其他地方 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/04/the-european-startup-summer-of-love-london-berlin-and-beyond/>
 

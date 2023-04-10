@@ -1,4 +1,4 @@
-# 视频:日本大学利用鱼鳞开发更强的人造骨骼 TechCrunch
+# 视频:日本大学利用鱼鳞开发更强的人造骨骼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/video-japanese-university-uses-fish-scales-to-develop-stronger-artificial-bones/>
 

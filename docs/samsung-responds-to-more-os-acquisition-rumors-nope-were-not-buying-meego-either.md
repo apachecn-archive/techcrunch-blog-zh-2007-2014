@@ -1,4 +1,4 @@
-# 三星回应更多操作系统收购传闻:不，我们也不会收购 MeeGo TechCrunch
+# 三星回应更多操作系统收购传闻:不，我们也不会收购 MeeGo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/samsung-responds-to-more-os-acquisition-rumors-nope-were-not-buying-meego-either/>
 

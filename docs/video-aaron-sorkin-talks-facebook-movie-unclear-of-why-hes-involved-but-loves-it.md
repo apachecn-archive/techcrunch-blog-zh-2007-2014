@@ -1,4 +1,4 @@
-# 视频:阿伦·索尔金谈脸书电影。不知道他为什么会参与进来，但很喜欢。TechCrunch
+# 视频:阿伦·索尔金谈脸书电影。不知道他为什么会参与进来，但很喜欢。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/video-aaron-sorkin-talks-facebook-movie-unclear-of-why-hes-involved-but-loves-it/>
 

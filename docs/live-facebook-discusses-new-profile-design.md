@@ -1,4 +1,4 @@
-# 现场直播:脸书讨论新的外形设计 TechCrunch
+# 现场直播:脸书讨论新的外形设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/21/live-facebook-discusses-new-profile-design/>
 

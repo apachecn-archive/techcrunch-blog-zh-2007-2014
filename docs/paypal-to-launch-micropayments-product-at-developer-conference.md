@@ -1,4 +1,4 @@
-# PayPal 将在开发者大会上推出小额支付产品 TechCrunch
+# PayPal 将在开发者大会上推出小额支付产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/06/paypal-to-launch-micropayments-product-at-developer-conference/>
 

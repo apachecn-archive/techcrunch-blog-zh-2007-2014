@@ -1,4 +1,4 @@
-# 苹果 2012 年度最佳应用商店奖励创意，谷歌；Skype 和 Rovio 占据顶级应用位置 TechCrunch
+# 苹果 2012 年度最佳应用商店奖励创意，谷歌；Skype 和 Rovio 占据顶级应用位置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/13/apples-best-of-app-store-2012-rewards-creativity-google-skype-and-rovio-take-top-app-spots/>
 

@@ -1,4 +1,4 @@
-# 嘿，女士们，想看看我的虚拟现实遥控汽车吗？TechCrunch
+# 嘿，女士们，想看看我的虚拟现实遥控汽车吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/hey-ladies-would-you-like-to-look-at-my-vr-controlled-rc-car/>
 

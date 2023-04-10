@@ -1,4 +1,4 @@
-# 脸书会成为明天的谷歌，谷歌会成为明天的微软吗？TechCrunch
+# 脸书会成为明天的谷歌，谷歌会成为明天的微软吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/15/facebook-google/>
 

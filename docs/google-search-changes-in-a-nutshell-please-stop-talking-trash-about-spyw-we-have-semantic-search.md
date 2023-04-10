@@ -1,4 +1,4 @@
-# 谷歌搜索的变化一言以蔽之:请不要再说 SPYW 的废话，我们有语义搜索！TechCrunch
+# 谷歌搜索的变化一言以蔽之:请不要再说 SPYW 的废话，我们有语义搜索！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/15/google-search-changes-in-a-nutshell-please-stop-talking-trash-about-spyw-we-have-semantic-search/>
 

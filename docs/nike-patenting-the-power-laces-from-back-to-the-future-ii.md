@@ -1,4 +1,4 @@
-# 耐克为从回到未来的动力鞋带申请专利 2 TechCrunch
+# 耐克为从回到未来的动力鞋带申请专利 2 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/nike-patenting-the-power-laces-from-back-to-the-future-ii/>
 

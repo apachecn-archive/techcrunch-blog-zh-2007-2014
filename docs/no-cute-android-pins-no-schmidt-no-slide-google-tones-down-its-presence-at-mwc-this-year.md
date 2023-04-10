@@ -1,4 +1,4 @@
-# 没有可爱的安卓胸针，没有施密特，没有幻灯片:谷歌今年在 MWC 低调亮相 TechCrunch
+# 没有可爱的安卓胸针，没有施密特，没有幻灯片:谷歌今年在 MWC 低调亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/18/no-cute-android-pins-no-schmidt-no-slide-google-tones-down-its-presence-at-mwc-this-year/>
 

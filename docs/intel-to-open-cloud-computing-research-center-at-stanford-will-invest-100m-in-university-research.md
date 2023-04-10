@@ -1,4 +1,4 @@
-# 英特尔将在斯坦福开设云计算研究中心，将向大学研究投资 1 亿美元 TechCrunch
+# 英特尔将在斯坦福开设云计算研究中心，将向大学研究投资 1 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/intel-to-open-cloud-computing-research-center-at-stanford-will-invest-100m-in-university-research/>
 

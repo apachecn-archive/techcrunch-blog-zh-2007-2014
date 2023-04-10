@@ -1,4 +1,4 @@
-# iPhone 应用程序碎片化 FUD 正在逼近 TechCrunch
+# iPhone 应用程序碎片化 FUD 正在逼近 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/07/iphone-app-fragmentation-fud/>
 

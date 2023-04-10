@@ -1,4 +1,4 @@
-# 政府将讨论谁负责创建新的顶级域名 TechCrunch
+# 政府将讨论谁负责创建新的顶级域名 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/governments-set-to-discuss-whos-in-charge-of-creating-new-top-level-domains/>
 

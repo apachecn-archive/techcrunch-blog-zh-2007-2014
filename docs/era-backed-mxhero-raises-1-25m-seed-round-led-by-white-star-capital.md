@@ -1,4 +1,4 @@
-# ERA 支持的 mxHero 筹集了 125 万美元的种子资金，由 White Star Capital 领投 TechCrunch
+# ERA 支持的 mxHero 筹集了 125 万美元的种子资金，由 White Star Capital 领投 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/era-backed-mxhero-raises-1-25m-seed-round-led-by-white-star-capital/>
 

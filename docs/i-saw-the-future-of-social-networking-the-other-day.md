@@ -1,4 +1,4 @@
-# 前几天我看到了社交网络的未来 TechCrunch
+# 前几天我看到了社交网络的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/09/i-saw-the-future-of-social-networking-the-other-day/>
 

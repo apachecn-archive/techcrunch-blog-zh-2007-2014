@@ -1,4 +1,4 @@
-# 有了一个不错的网站更新，Foursquare 确实和朋友们玩得更开心了 TechCrunch
+# 有了一个不错的网站更新，Foursquare 确实和朋友们玩得更开心了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/09/foursquare-website-social/>
 

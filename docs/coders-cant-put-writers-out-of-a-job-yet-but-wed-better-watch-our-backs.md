@@ -1,4 +1,4 @@
-# 程序员还不能让作者失业，但我们最好小心点 TechCrunch
+# 程序员还不能让作者失业，但我们最好小心点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/25/coders-cant-put-writers-out-of-a-job-yet-but-wed-better-watch-our-backs/>
 

@@ -1,4 +1,4 @@
-# 这怎么会是我的错？TechCrunch
+# 这怎么会是我的错？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/30/how-the-hell-is-this-my-fault/>
 

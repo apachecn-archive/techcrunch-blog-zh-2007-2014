@@ -1,4 +1,4 @@
-# 谁需要 API？Powerinbox 将 Google+客户端添加到其电子邮件平台 TechCrunch
+# 谁需要 API？Powerinbox 将 Google+客户端添加到其电子邮件平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/who-needs-an-api-powerinbox-adds-google-client-to-its-email-platform/>
 

@@ -1,4 +1,4 @@
-# 为什么我对云的智慧有了新的想法 TechCrunch
+# 为什么我对云的智慧有了新的想法 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/10/why-im-having-second-thoughts-about-the-wisdom-of-the-cloud/>
 

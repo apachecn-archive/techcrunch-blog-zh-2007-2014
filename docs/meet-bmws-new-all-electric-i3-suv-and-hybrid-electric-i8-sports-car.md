@@ -1,4 +1,4 @@
-# 了解宝马全新全电动 i3 SUV 和混合电动 i8 跑车 TechCrunch
+# 了解宝马全新全电动 i3 SUV 和混合电动 i8 跑车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/meet-bmws-new-all-electric-i3-suv-and-hybrid-electric-i8-sports-car/>
 

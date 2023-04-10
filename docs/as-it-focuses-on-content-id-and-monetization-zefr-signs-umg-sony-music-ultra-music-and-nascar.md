@@ -1,4 +1,4 @@
-# 由于专注于内容 ID 和货币化，ZEFR 签约了 UMG、索尼音乐、Ultra Music 和 NASCAR TechCrunch
+# 由于专注于内容 ID 和货币化，ZEFR 签约了 UMG、索尼音乐、Ultra Music 和 NASCAR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/26/as-it-focuses-on-content-id-and-monetization-zefr-signs-umg-sony-music-ultra-music-and-nascar/>
 

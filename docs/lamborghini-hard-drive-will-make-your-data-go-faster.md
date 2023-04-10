@@ -1,4 +1,4 @@
-# 兰博基尼硬盘将使您的数据运行更快 TechCrunch
+# 兰博基尼硬盘将使您的数据运行更快 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/01/lamborghini-hard-drive-will-make-your-data-go-faster/>
 

@@ -1,4 +1,4 @@
-# Xbox 360 仪表盘的大更新在等着你 TechCrunch
+# Xbox 360 仪表盘的大更新在等着你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/the-big-xbox-360-dashboard-update-is-waiting-for-you/>
 

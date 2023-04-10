@@ -1,4 +1,4 @@
-# 瑞典软件公司以 770 万美元收购海盗湾 TechCrunch
+# 瑞典软件公司以 770 万美元收购海盗湾 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/30/swedish-software-firm-acquires-the-pirate-bay-for-77-million/?awesm=tcrn.ch_4sk&utm_campaign=techcrunch&utm_content=techcrunch-autopost&utm_medium=tcrn.ch-twitter&utm_source=dabr.co.uk>
 

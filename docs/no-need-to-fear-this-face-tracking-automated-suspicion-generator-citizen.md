@@ -1,4 +1,4 @@
-# 没有必要害怕这个面部跟踪自动怀疑生成器，公民 TechCrunch
+# 没有必要害怕这个面部跟踪自动怀疑生成器，公民 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/no-need-to-fear-this-face-tracking-automated-suspicion-generator-citizen/>
 

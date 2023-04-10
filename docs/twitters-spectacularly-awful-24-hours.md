@@ -1,4 +1,4 @@
-# Twitter 惊人的 24 小时 TechCrunch
+# Twitter 惊人的 24 小时 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/14/twitters-spectacularly-awful-24-hours/>
 

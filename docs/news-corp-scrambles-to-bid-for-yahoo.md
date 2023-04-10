@@ -1,4 +1,4 @@
-# 新闻集团争相竞购雅虎 TechCrunch
+# 新闻集团争相竞购雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/02/news-corp-scrambles-to-bid-for-yahoo/>
 

@@ -1,4 +1,4 @@
-# 按次计费移动广告网络 Moolah Media 推出广告单元来衡量点击之外的行为 TechCrunch
+# 按次计费移动广告网络 Moolah Media 推出广告单元来衡量点击之外的行为 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/cost-per-action-mobile-ad-network-moolah-media-launches-ad-unit-to-measure-actions-beyond-the-click/>
 

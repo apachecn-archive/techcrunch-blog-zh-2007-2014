@@ -1,4 +1,4 @@
-# Western Digital 在两个盘片上安装了 1TB，用于新的标准尺寸 Scorpio Blue HDD TechCrunch
+# Western Digital 在两个盘片上安装了 1TB，用于新的标准尺寸 Scorpio Blue HDD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/western-digital-fits-1tb-on-two-platters-for-the-new-standard-size-scorpio-blue-hdd/>
 

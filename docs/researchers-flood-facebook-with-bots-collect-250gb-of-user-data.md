@@ -1,4 +1,4 @@
-# 研究人员用机器人淹没脸书，收集 250GB 用户数据 TechCrunch
+# 研究人员用机器人淹没脸书，收集 250GB 用户数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/researchers-flood-facebook-with-bots-collect-250gb-of-user-data/>
 

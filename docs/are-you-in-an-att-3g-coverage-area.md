@@ -1,4 +1,4 @@
-# 你在美国电话电报公司 3G 覆盖区吗？TechCrunch
+# 你在美国电话电报公司 3G 覆盖区吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/07/10/are-you-in-an-att-3g-coverage-area/>
 

@@ -1,4 +1,4 @@
-# 无专利区的机遇 TechCrunch
+# 无专利区的机遇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/01/opportunities-in-the-patent-free-zone/>
 

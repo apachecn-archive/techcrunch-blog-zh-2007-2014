@@ -1,4 +1,4 @@
-# Sharethrough 为代理商和广告商推出社交视频广告分析仪表板 TechCrunch
+# Sharethrough 为代理商和广告商推出社交视频广告分析仪表板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/sharethrough-debuts-social-video-ad-analytics-dashboard-for-agencies-and-advertisers/>
 

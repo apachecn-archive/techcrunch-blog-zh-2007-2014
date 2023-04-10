@@ -1,4 +1,4 @@
-# 基于位置的照片分享应用 Trover 来到 Android TechCrunch
+# 基于位置的照片分享应用 Trover 来到 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/location-based-photo-sharing-app-trover-comes-to-android/>
 

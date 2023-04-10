@@ -1,4 +1,4 @@
-# 微软发布 IE9 平台预览版 3:画布、音频/视频标签等 TechCrunch
+# 微软发布 IE9 平台预览版 3:画布、音频/视频标签等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/microsoft-launches-ie9-platform-preview-3-canvas-audiovideo-tags-and-more/>
 

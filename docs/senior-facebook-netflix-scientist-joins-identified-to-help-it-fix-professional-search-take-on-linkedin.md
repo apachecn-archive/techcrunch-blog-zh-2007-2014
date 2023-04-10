@@ -1,4 +1,4 @@
-# 资深脸书、网飞科学家加入，帮助其修复专业搜索，挑战 LinkedIn TechCrunch
+# 资深脸书、网飞科学家加入，帮助其修复专业搜索，挑战 LinkedIn 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/01/senior-facebook-netflix-scientist-joins-identified-to-help-it-fix-professional-search-take-on-linkedin/>
 

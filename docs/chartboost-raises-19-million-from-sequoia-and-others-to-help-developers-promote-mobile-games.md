@@ -1,4 +1,4 @@
-# Chartboost 从红杉和其他公司筹集了 1900 万美元，帮助开发者推广手机游戏 TechCrunch
+# Chartboost 从红杉和其他公司筹集了 1900 万美元，帮助开发者推广手机游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/08/chartboost-raises-19-million-from-sequoia-and-others-to-help-developers-promote-mobile-games/>
 

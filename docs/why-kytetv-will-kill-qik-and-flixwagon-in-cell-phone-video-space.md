@@ -1,4 +1,4 @@
-# 为什么 Kyte.tv 会在手机视频领域干掉 Qik 和 flix wagon TechCrunch
+# 为什么 Kyte.tv 会在手机视频领域干掉 Qik 和 flix wagon 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/14/why-kytetv-will-kill-qik-and-flixwagon-in-cell-phone-video-space/>
 

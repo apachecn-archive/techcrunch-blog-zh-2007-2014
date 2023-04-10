@@ -1,4 +1,4 @@
-# Candy.com 在以 300 万美元出售域名后开店 TechCrunch
+# Candy.com 在以 300 万美元出售域名后开店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/20/candycom-sets-up-shop-after-3-million-domain-name-sale/>
 

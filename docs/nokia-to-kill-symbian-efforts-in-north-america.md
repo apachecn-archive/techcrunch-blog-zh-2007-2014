@@ -1,4 +1,4 @@
-# 诺基亚将扼杀 S40，Symbian 在北美的努力 TechCrunch
+# 诺基亚将扼杀 S40，Symbian 在北美的努力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/nokia-to-kill-symbian-efforts-in-north-america/>
 

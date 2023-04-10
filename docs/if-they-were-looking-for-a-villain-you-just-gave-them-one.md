@@ -1,4 +1,4 @@
-# 成就解锁:科幻类战争达到戈德温定律 TechCrunch
+# 成就解锁:科幻类战争达到戈德温定律 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/25/if-they-were-looking-for-a-villain-you-just-gave-them-one/>
 

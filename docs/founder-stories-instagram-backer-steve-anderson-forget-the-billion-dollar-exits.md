@@ -1,4 +1,4 @@
-# (创始人故事)Instagram 支持者史蒂夫·安德森:忘掉价值十亿美元的退出 TechCrunch
+# (创始人故事)Instagram 支持者史蒂夫·安德森:忘掉价值十亿美元的退出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/founder-stories-instagram-backer-steve-anderson-forget-the-billion-dollar-exits/>
 

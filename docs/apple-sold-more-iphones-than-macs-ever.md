@@ -1,4 +1,4 @@
-# 图表:在四年时间里，苹果售出的 iPhones 超过了所有 MAC 电脑 TechCrunch
+# 图表:在四年时间里，苹果售出的 iPhones 超过了所有 MAC 电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/apple-sold-more-iphones-than-macs-ever/>
 

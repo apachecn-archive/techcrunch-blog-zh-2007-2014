@@ -1,4 +1,4 @@
-# Nexus One 被黑支持 T-Mobile WiFi 通话 TechCrunch
+# Nexus One 被黑支持 T-Mobile WiFi 通话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/08/nexus-one-hacked-to-support-t-mobile-wifi-calling/>
 

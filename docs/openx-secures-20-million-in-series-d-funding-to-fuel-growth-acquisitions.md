@@ -1,4 +1,4 @@
-# OpenX 获得 2000 万美元的 D 轮融资以推动增长和收购 TechCrunch
+# OpenX 获得 2000 万美元的 D 轮融资以推动增长和收购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/31/openx-secures-20-million-in-series-d-funding-to-fuel-growth-acquisitions/>
 

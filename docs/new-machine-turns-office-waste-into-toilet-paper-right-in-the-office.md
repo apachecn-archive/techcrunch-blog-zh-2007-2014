@@ -1,4 +1,4 @@
-# 新机器将办公室垃圾变成卫生纸-就在办公室 TechCrunch
+# 新机器将办公室垃圾变成卫生纸-就在办公室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/01/new-machine-turns-office-waste-into-toilet-paper-right-in-the-office/>
 

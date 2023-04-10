@@ -1,4 +1,4 @@
-# Crowdtap 筹集 700 万美元帮助品牌与其有影响力的客户建立联系 TechCrunch
+# Crowdtap 筹集 700 万美元帮助品牌与其有影响力的客户建立联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/27/crowdtap-raises-7-million-to-help-brands-connect-with-their-influential-customers/>
 

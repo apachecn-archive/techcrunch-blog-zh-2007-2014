@@ -1,4 +1,4 @@
-# 这是每个人从幻灯片销售中获得的东西 TechCrunch
+# 这是每个人从幻灯片销售中获得的东西 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/08/05/heres-what-everybody-made-from-the-slide-sale/>
 

@@ -1,4 +1,4 @@
-# AdWords For Images 点画首次亮相面向出版商的图像许可市场 TechCrunch
+# AdWords For Images 点画首次亮相面向出版商的图像许可市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/stipple-debuts-image-licensing-marketplace-for-publishers/>
 

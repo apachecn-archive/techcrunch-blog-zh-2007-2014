@@ -1,4 +1,4 @@
-# HTC 最终淘汰了略小的 One Mini，我们动手了 TechCrunch
+# HTC 最终淘汰了略小的 One Mini，我们动手了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/htc-one-mini-official/>
 

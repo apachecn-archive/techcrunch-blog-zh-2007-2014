@@ -1,4 +1,4 @@
-# Ad.ly 带来名人的赞助推文 TechCrunch
+# Ad.ly 带来名人的赞助推文 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/22/ad-ly-brings-sponsored-tweets-from-celebrities/>
 

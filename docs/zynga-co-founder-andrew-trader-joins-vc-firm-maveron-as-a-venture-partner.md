@@ -1,4 +1,4 @@
-# Zynga 联合创始人 Andrew Trader 作为风险投资公司 Maveron 的风险合伙人加入 TechCrunch
+# Zynga 联合创始人 Andrew Trader 作为风险投资公司 Maveron 的风险合伙人加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/zynga-co-founder-andrew-trader-joins-vc-firm-maveron-as-a-venture-partner/>
 

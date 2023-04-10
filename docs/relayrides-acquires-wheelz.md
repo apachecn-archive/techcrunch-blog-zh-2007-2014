@@ -1,4 +1,4 @@
-# RelayRides 收购 Wheelz 以增加库存并改善其点对点汽车租赁的硬件 TechCrunch
+# RelayRides 收购 Wheelz 以增加库存并改善其点对点汽车租赁的硬件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/05/14/relayrides-acquires-wheelz/>
 

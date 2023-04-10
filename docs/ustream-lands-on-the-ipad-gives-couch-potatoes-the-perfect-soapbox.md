@@ -1,4 +1,4 @@
-# Ustream 登陆 iPad，给电视迷一个完美的肥皂盒 TechCrunch
+# Ustream 登陆 iPad，给电视迷一个完美的肥皂盒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/ustream-lands-on-the-ipad-gives-couch-potatoes-the-perfect-soapbox/>
 

@@ -1,4 +1,4 @@
-# YC 资助的 Launchpad Toys 计划打造下一代早期学习玩具 TechCrunch
+# YC 资助的 Launchpad Toys 计划打造下一代早期学习玩具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/yc-funded-launchpad-toys-looks-to-create-the-next-generation-of-early-learning-toys/>
 

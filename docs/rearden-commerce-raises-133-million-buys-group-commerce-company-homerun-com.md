@@ -1,4 +1,4 @@
-# 里尔登商务公司融资 1.33 亿美元，收购集团商务公司 HomeRun.com TechCrunch
+# 里尔登商务公司融资 1.33 亿美元，收购集团商务公司 HomeRun.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/rearden-commerce-raises-133-million-buys-group-commerce-company-homerun-com/>
 

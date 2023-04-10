@@ -1,4 +1,4 @@
-# 诺基亚将在塞班手机上提供 Windows Live TechCrunch
+# 诺基亚将在塞班手机上提供 Windows Live 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/nokia-to-offer-windows-live-on-symbian-phones/>
 

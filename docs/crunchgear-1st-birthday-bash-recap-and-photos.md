@@ -1,4 +1,4 @@
-# crunch gear 1 岁生日聚会回顾和照片——TechCrunch
+# crunch gear 1 岁生日聚会回顾和照片——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/crunchgear-1st-birthday-bash-recap-and-photos/>
 

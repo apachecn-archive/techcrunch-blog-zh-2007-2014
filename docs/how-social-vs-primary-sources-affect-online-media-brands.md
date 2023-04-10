@@ -1,4 +1,4 @@
-# 社交媒体和原始媒体如何影响在线媒体品牌 TechCrunch
+# 社交媒体和原始媒体如何影响在线媒体品牌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/28/how-social-vs-primary-sources-affect-online-media-brands/>
 

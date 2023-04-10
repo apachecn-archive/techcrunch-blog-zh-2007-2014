@@ -1,4 +1,4 @@
-# Zynga 的最新游戏《城堡》(CastleVille)结合了丰富的故事情节、幻想和中世纪世界的社交游戏 TechCrunch
+# Zynga 的最新游戏《城堡》(CastleVille)结合了丰富的故事情节、幻想和中世纪世界的社交游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/zyngas-newest-title-castleville-combines-rich-storylines-fantasy-and-social-gaming-in-a-medieval-world/>
 

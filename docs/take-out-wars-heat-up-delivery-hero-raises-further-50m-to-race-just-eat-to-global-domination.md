@@ -1,4 +1,4 @@
-# 外卖大战升温:外卖英雄再筹 5000 万美元，与 Just-Eat 争夺全球霸主地位 TechCrunch
+# 外卖大战升温:外卖英雄再筹 5000 万美元，与 Just-Eat 争夺全球霸主地位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/27/take-out-wars-heat-up-delivery-hero-raises-further-50m-to-race-just-eat-to-global-domination/>
 

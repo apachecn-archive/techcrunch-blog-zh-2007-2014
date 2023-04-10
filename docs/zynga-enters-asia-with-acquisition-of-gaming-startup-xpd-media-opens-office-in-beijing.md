@@ -1,4 +1,4 @@
-# Zynga 通过收购游戏初创公司 XPD 媒体进入亚洲；在北京开设办事处 TechCrunch
+# Zynga 通过收购游戏初创公司 XPD 媒体进入亚洲；在北京开设办事处 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/20/zynga-enters-asia-with-acquisition-of-gaming-startup-xpd-media-opens-office-in-beijing/>
 

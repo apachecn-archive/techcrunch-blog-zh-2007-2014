@@ -1,4 +1,4 @@
-# 如何在工作中快乐...为了对付那个混蛋老板 TechCrunch
+# 如何在工作中快乐...为了对付那个混蛋老板 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/10/how-to-be-happy-at-work-and-to-deal-with-that-jerk-boss/>
 

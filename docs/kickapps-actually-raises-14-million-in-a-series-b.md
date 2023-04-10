@@ -1,4 +1,4 @@
-# KickApps 在 C 轮融资中融资 1400 万美元 TechCrunch
+# KickApps 在 C 轮融资中融资 1400 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/25/kickapps-actually-raises-14-million-in-a-series-b/>
 

@@ -1,4 +1,4 @@
-# OPA:美国平板电脑市场的 iOS 和 Android 水平，到 2013 年渗透率达到 47 %, 2012 年在应用上花费 26 亿美元 TechCrunch
+# OPA:美国平板电脑市场的 iOS 和 Android 水平，到 2013 年渗透率达到 47 %, 2012 年在应用上花费 26 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/opa-ios-and-android-level-in-u-s-tablet-market-penetration-47-by-2013-2-6b-spent-on-apps-in-2012/>
 

@@ -1,4 +1,4 @@
-# Klout 筹集 150 万美元来衡量在 Twitter 上的影响力和权威 TechCrunch
+# Klout 筹集 150 万美元来衡量在 Twitter 上的影响力和权威 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/klout-raises-1-5-million-to-measure-influence-and-authority-on-twitter/>
 

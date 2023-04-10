@@ -1,4 +1,4 @@
-# Duolingo 推出语言孵化器，让其社区众包新课 TechCrunch
+# Duolingo 推出语言孵化器，让其社区众包新课 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/09/duolingo-launches-language-incubator-to-let-its-community-crowdsource-new-lessons/>
 

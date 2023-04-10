@@ -1,4 +1,4 @@
-# 众包音乐流媒体服务 Jelli 筹集 900 万美元，计划走向国际 TechCrunch
+# 众包音乐流媒体服务 Jelli 筹集 900 万美元，计划走向国际 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/02/crowdsourced-music-streaming-service-jelli-raises-9-million-plans-to-go-international/>
 

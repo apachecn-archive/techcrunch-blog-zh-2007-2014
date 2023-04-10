@@ -1,4 +1,4 @@
-# 脸书是蚂蚁；Zynga 是蚱蜢 TechCrunch
+# 脸书是蚂蚁；Zynga 是蚱蜢 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/11/facebook-is-the-ant-zynga-is-the-grasshopper/>
 

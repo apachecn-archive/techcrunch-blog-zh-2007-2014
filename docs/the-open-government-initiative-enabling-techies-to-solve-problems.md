@@ -1,4 +1,4 @@
-# 开放政府倡议:让技术人员解决政府问题 TechCrunch
+# 开放政府倡议:让技术人员解决政府问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/22/the-open-government-initiative-enabling-techies-to-solve-problems/>
 

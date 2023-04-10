@@ -1,4 +1,4 @@
-# 苹果的 iPhone 以旧换新计划已经开始试点，下面是它的运作方式 TechCrunch
+# 苹果的 iPhone 以旧换新计划已经开始试点，下面是它的运作方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/26/apples-iphone-trade-in-program-is-already-being-piloted-heres-how-it-works/>
 

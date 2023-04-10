@@ -1,4 +1,4 @@
-# 晚安，Swoopo:按出价付费拍卖网站已死 TechCrunch
+# 晚安，Swoopo:按出价付费拍卖网站已死 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/27/goodnight-swoopo-the-pay-per-bid-auction-site-is-dead/>
 

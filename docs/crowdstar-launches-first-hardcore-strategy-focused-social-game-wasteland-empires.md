@@ -1,4 +1,4 @@
-# CrowdStar 推出首款硬核战略社交游戏荒地帝国 TechCrunch
+# CrowdStar 推出首款硬核战略社交游戏荒地帝国 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/crowdstar-launches-first-hardcore-strategy-focused-social-game-wasteland-empires/>
 

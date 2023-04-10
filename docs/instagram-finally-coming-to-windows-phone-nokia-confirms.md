@@ -1,4 +1,4 @@
-# Instagram 终于要登陆 Windows Phone 了，诺基亚证实 TechCrunch
+# Instagram 终于要登陆 Windows Phone 了，诺基亚证实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/22/instagram-finally-coming-to-windows-phone-nokia-confirms/>
 

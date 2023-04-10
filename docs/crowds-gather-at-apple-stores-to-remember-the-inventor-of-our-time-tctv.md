@@ -1,4 +1,4 @@
-# 人群聚集在苹果商店纪念“我们时代的发明家”(TCTV)TechCrunch
+# 人群聚集在苹果商店纪念“我们时代的发明家”(TCTV)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/crowds-gather-at-apple-stores-to-remember-the-inventor-of-our-time-tctv/>
 

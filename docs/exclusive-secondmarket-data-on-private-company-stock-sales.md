@@ -1,4 +1,4 @@
-# 独家:关于私营公司股票销售的 SecondMarket 数据 TechCrunch
+# 独家:关于私营公司股票销售的 SecondMarket 数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/21/exclusive-secondmarket-data-on-private-company-stock-sales/>
 

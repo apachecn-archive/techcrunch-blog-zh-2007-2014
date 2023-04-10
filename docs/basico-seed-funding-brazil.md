@@ -1,4 +1,4 @@
-# Basico 获得 50 万美元为巴西推出奢侈品服装基础电子商务品牌 TechCrunch
+# Basico 获得 50 万美元为巴西推出奢侈品服装基础电子商务品牌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/06/basico-seed-funding-brazil/>
 

@@ -1,4 +1,4 @@
-# 谷歌地图现在将向您显示偏僻道路的交通状况 TechCrunch
+# 谷歌地图现在将向您显示偏僻道路的交通状况 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/25/google-maps-will-now-show-you-traffic-conditions-on-the-back-roads/>
 

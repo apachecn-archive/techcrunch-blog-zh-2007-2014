@@ -1,4 +1,4 @@
-# Origami Logic 仍在秘密运作，获得 930 万美元帮助营销人员展开并理解大数据 TechCrunch
+# Origami Logic 仍在秘密运作，获得 930 万美元帮助营销人员展开并理解大数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/14/still-in-stealth-origami-logic-gets-9-3m-for-a-platform-to-help-marketers-unfold-and-make-sense-of-big-data/>
 

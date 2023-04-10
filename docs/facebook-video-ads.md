@@ -1,4 +1,4 @@
-# 副总裁证实，可怕的自动播放视频广告可能会进入脸书 TechCrunch
+# 副总裁证实，可怕的自动播放视频广告可能会进入脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/15/facebook-video-ads/>
 

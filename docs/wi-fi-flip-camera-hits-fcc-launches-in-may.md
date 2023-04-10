@@ -1,4 +1,4 @@
-# Wi-Fi 翻转相机登陆 FCC，五月上市？TechCrunch
+# Wi-Fi 翻转相机登陆 FCC，五月上市？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/wi-fi-flip-camera-hits-fcc-launches-in-may/>
 

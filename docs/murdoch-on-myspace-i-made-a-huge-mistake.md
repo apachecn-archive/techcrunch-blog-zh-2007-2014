@@ -1,4 +1,4 @@
-# 默多克在 Myspace 上说:“我犯了一个巨大的错误。”TechCrunch
+# 默多克在 Myspace 上说:“我犯了一个巨大的错误。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/murdoch-on-myspace-i-made-a-huge-mistake/>
 

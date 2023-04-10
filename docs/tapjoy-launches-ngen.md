@@ -1,4 +1,4 @@
-# Tapjoy 表示，其新的 nGen 平台可以在正确的时间投放正确的移动广告 TechCrunch
+# Tapjoy 表示，其新的 nGen 平台可以在正确的时间投放正确的移动广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/17/tapjoy-launches-ngen/>
 

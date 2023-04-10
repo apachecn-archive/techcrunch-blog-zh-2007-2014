@@ -1,4 +1,4 @@
-# 为什么开放云在虚拟化过程中胜出而 Oracle 却落败 TechCrunch
+# 为什么开放云在虚拟化过程中胜出而 Oracle 却落败 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/30/why-the-open-cloud-wins-and-oracle-loses-when-it-gets-virtualized/>
 

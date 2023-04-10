@@ -1,4 +1,4 @@
-# 鲁珀特·默多克向没有收到报纸的华尔街日报客户提供 Twitter 支持 TechCrunch
+# 鲁珀特·默多克向没有收到报纸的华尔街日报客户提供 Twitter 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/24/thanksforthepromptreply/>
 

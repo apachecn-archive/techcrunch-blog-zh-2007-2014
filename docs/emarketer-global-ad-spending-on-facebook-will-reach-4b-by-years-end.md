@@ -1,4 +1,4 @@
-# eMarketer:脸书的全球广告支出将在年底达到 40 亿美元 TechCrunch
+# eMarketer:脸书的全球广告支出将在年底达到 40 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/emarketer-global-ad-spending-on-facebook-will-reach-4b-by-years-end/>
 

@@ -1,4 +1,4 @@
-# 一个应用“中产阶级”继续增长:拥有超过 100 万用户的独立应用在过去 18 个月增长了 121% TechCrunch
+# 一个应用“中产阶级”继续增长:拥有超过 100 万用户的独立应用在过去 18 个月增长了 121% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/08/an-app-middle-class-continues-to-grow-independently-owned-apps-with-a-million-plus-users-up-121-in-past-18-months/>
 

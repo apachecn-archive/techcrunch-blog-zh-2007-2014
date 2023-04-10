@@ -1,4 +1,4 @@
-# 充气床垫和早餐将 Pad 碰撞提升到一个全新的水平 TechCrunch
+# 充气床垫和早餐将 Pad 碰撞提升到一个全新的水平 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/11/airbed-and-breakfast-takes-pad-crashing-to-a-whole-new-level/>
 

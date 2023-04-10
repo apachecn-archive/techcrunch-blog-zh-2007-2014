@@ -1,4 +1,4 @@
-# 尤里·米尔纳、戴夫·莫兰、SV Angel、CrunchFund 和其他投资者以 420 万美元入股 TechCrunch
+# 尤里·米尔纳、戴夫·莫兰、SV Angel、CrunchFund 和其他投资者以 420 万美元入股 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/01/yuri-milner-dave-morin-sv-angel-crunchfund-and-more-hook-up-pair-with-4-2m/>
 

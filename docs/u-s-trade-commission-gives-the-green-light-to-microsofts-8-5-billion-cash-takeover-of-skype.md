@@ -1,4 +1,4 @@
-# 美国贸易委员会批准微软以 85 亿美元现金收购 Skype TechCrunch
+# 美国贸易委员会批准微软以 85 亿美元现金收购 Skype 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/17/u-s-trade-commission-gives-the-green-light-to-microsofts-8-5-billion-cash-takeover-of-skype/>
 

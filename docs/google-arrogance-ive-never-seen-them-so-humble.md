@@ -1,4 +1,4 @@
-# 谷歌傲慢？我从未见过他们如此谦逊 TechCrunch
+# 谷歌傲慢？我从未见过他们如此谦逊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/12/google-arrogance-ive-never-seen-them-so-humble/>
 

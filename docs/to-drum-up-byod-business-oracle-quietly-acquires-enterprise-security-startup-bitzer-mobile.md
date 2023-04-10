@@ -1,4 +1,4 @@
-# 为了招揽 BYOD 业务，甲骨文悄悄收购了企业安全初创公司 Bitzer Mobile TechCrunch
+# 为了招揽 BYOD 业务，甲骨文悄悄收购了企业安全初创公司 Bitzer Mobile 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/18/to-drum-up-byod-business-oracle-quietly-acquires-enterprise-security-startup-bitzer-mobile/>
 

@@ -1,4 +1,4 @@
-# 受“少数派报告”的启发，Immersive Labs 为数字显示识别筹集了 81 万美元 TechCrunch
+# 受“少数派报告”的启发，Immersive Labs 为数字显示识别筹集了 81 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/inspired-by-minority-report-immersive-labs-raises-810k-for-digital-display-recognition/>
 

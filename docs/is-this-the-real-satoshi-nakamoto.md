@@ -1,4 +1,4 @@
-# 这是真正的中本聪吗？TechCrunch
+# 这是真正的中本聪吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/06/is-this-the-real-satoshi-nakamoto/>
 

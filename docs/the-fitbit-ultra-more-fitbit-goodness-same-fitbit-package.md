@@ -1,4 +1,4 @@
-# Fitbit Ultra:更多 Fitbit 优点，同样的 Fitbit 套装 TechCrunch
+# Fitbit Ultra:更多 Fitbit 优点，同样的 Fitbit 套装 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/the-fitbit-ultra-more-fitbit-goodness-same-fitbit-package/>
 

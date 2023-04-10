@@ -1,4 +1,4 @@
-# 专利风险咨询公司 RPX 申请 IPO TechCrunch
+# 专利风险咨询公司 RPX 申请 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/patent-risk-advisory-firm-rpx-files-for-an-ipo/>
 

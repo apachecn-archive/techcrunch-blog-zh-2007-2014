@@ -1,4 +1,4 @@
-# Twitter 的世界是平的，因为全球增长已经停滞 TechCrunch
+# Twitter 的世界是平的，因为全球增长已经停滞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/12/22/the-world-is-flat-for-twitter-as-in-global-growth-has-stalled/>
 

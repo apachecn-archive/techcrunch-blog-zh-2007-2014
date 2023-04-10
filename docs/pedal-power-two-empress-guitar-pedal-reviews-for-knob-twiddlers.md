@@ -1,4 +1,4 @@
-# 踏板动力:旋钮旋转器的两个皇后吉他踏板评论 TechCrunch
+# 踏板动力:旋钮旋转器的两个皇后吉他踏板评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/pedal-power-two-empress-guitar-pedal-reviews-for-knob-twiddlers/>
 

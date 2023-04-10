@@ -1,4 +1,4 @@
-# Google Buzz 得到一个 API 将集成到 Seesmic、TweetDeck 等 TechCrunch
+# Google Buzz 得到一个 API 将集成到 Seesmic、TweetDeck 等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/19/google-buzz-gets-an-api-will-be-integrated-into-seesmic-tweetdeck-and-more/>
 

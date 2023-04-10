@@ -1,4 +1,4 @@
-# Adobe 推出媒体播放器、Adobe TV TechCrunch
+# Adobe 推出媒体播放器、Adobe TV 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/08/adobe-launches-media-player-adobe-tv/>
 

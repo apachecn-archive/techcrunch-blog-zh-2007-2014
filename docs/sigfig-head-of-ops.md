@@ -1,4 +1,4 @@
-# SigFig 聘请金融引擎高管 Steve Lifgren 组建其运营团队 TechCrunch
+# SigFig 聘请金融引擎高管 Steve Lifgren 组建其运营团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/sigfig-head-of-ops/>
 

@@ -1,4 +1,4 @@
-# 埃里克·施密特谈谷歌的收购策略 TechCrunch
+# 埃里克·施密特谈谷歌的收购策略 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/eric-schmidt-on-googles-acquisition-strategy/>
 

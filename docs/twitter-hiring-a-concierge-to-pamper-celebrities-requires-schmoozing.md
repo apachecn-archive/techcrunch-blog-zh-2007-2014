@@ -1,4 +1,4 @@
-# Twitter 雇佣门房来宠爱名人。需要交际。TechCrunch
+# Twitter 雇佣门房来宠爱名人。需要交际。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/30/twitter-hiring-a-concierge-to-pamper-celebrities-requires-schmoozing/>
 

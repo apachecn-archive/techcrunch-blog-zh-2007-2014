@@ -1,4 +1,4 @@
-# TCTV:反思史蒂夫·乔布斯和他的遗产 TechCrunch
+# TCTV:反思史蒂夫·乔布斯和他的遗产 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/tctv-reflections-on-steve-jobs-and-his-legacy/>
 

@@ -1,4 +1,4 @@
-# Yelp 现在拥有 2000 万条评论 TechCrunch
+# Yelp 现在拥有 2000 万条评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/yelp-20-million-reviews/>
 

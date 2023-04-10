@@ -1,4 +1,4 @@
-# 有了这笔资金，MineralTree 推出了针对中小企业的颠覆性银行和支付解决方案 TechCrunch
+# 有了这笔资金，MineralTree 推出了针对中小企业的颠覆性银行和支付解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/with-funding-in-tow-mineraltree-launches-a-disruptive-banking-and-payment-solution-aimed-at-smbs/>
 

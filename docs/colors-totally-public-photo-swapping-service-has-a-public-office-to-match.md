@@ -1,4 +1,4 @@
-# Color 完全公开的照片交换服务有一个公共办公室来匹配 TechCrunch
+# Color 完全公开的照片交换服务有一个公共办公室来匹配 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/25/colors-totally-public-photo-swapping-service-has-a-public-office-to-match/>
 

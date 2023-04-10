@@ -1,4 +1,4 @@
-# 移动广告网络 Millennial Media 向东南亚扩张 TechCrunch
+# 移动广告网络 Millennial Media 向东南亚扩张 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/mobile-ad-network-millennial-media-expands-to-southeast-asia/>
 

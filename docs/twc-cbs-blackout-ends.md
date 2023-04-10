@@ -1,4 +1,4 @@
-# 与时代华纳有线电视交易，CBS 寻求确保其数字未来 TechCrunch
+# 与时代华纳有线电视交易，CBS 寻求确保其数字未来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/02/twc-cbs-blackout-ends/>
 

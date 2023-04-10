@@ -1,4 +1,4 @@
-# Rhapsody 拔掉了非公共 API 的插头，有效地关闭了 yotta music TechCrunch
+# Rhapsody 拔掉了非公共 API 的插头，有效地关闭了 yotta music 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/02/rhapsody-pulls-plug-on-non-public-apis-effectively-shuts-yottamusic-down/>
 

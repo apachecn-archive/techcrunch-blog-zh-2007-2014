@@ -1,4 +1,4 @@
-# 来自 Chrome 设计师的想法是 DropMocks:分享图片的最简单方式 TechCrunch
+# 来自 Chrome 设计师的想法是 DropMocks:分享图片的最简单方式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/dropmocks-chrome-designer/>
 

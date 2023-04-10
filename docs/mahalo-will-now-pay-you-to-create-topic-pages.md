@@ -1,4 +1,4 @@
-# Mahalo 现在会付钱给你来创建主题页面 TechCrunch
+# Mahalo 现在会付钱给你来创建主题页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/02/mahalo-will-now-pay-you-to-create-topic-pages/>
 

@@ -1,4 +1,4 @@
-# Google+获得 Android 更新，以反映其 I/O 的 41 更新盛会，添加新的位置部分 TechCrunch
+# Google+获得 Android 更新，以反映其 I/O 的 41 更新盛会，添加新的位置部分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/20/google-gets-a-refresh-for-android-to-mirror-its-41-update-extravaganza-from-io-adds-new-location-section/?utm_source=feedly&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+TechCrunch>
 

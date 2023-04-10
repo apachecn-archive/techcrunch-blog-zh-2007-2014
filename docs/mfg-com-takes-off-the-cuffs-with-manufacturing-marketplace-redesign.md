@@ -1,4 +1,4 @@
-# MFG.com 脱下手铐，重新设计制造业市场 TechCrunch
+# MFG.com 脱下手铐，重新设计制造业市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/02/mfg-com-takes-off-the-cuffs-with-manufacturing-marketplace-redesign/>
 

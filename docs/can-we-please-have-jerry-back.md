@@ -1,4 +1,4 @@
-# 我们能让杰瑞回来吗？TechCrunch
+# 我们能让杰瑞回来吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/22/can-we-please-have-jerry-back/>
 

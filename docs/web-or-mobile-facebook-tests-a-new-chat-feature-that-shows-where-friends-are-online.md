@@ -1,4 +1,4 @@
-# 网络还是移动？脸书测试显示朋友在线位置的新聊天功能 TechCrunch
+# 网络还是移动？脸书测试显示朋友在线位置的新聊天功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/18/web-or-mobile-facebook-tests-a-new-chat-feature-that-shows-where-friends-are-online/>
 

@@ -1,4 +1,4 @@
-# FunMail 的图片信息应用在 Android 上发布 TechCrunch
+# FunMail 的图片信息应用在 Android 上发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/26/funmails-picture-messaging-app-launches-on-android/>
 

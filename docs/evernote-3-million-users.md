@@ -1,4 +1,4 @@
-# Evernote 用户突破 300 万 TechCrunch
+# Evernote 用户突破 300 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/04/evernote-3-million-users/>
 

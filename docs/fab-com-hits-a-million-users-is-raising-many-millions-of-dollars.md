@@ -1,4 +1,4 @@
-# Fab 点击了 100 万用户，筹集了数百万美元 TechCrunch
+# Fab 点击了 100 万用户，筹集了数百万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/fab-com-hits-a-million-users-is-raising-many-millions-of-dollars/>
 

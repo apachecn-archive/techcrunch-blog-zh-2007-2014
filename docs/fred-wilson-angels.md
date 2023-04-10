@@ -1,4 +1,4 @@
-# 更新:“自从谷歌承诺支持谷歌+(Google+)，谷歌就没有兴趣收购 Twitter 弗雷德·威尔逊 TechCrunch
+# 更新:“自从谷歌承诺支持谷歌+(Google+)，谷歌就没有兴趣收购 Twitter 弗雷德·威尔逊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/21/fred-wilson-angels/>
 

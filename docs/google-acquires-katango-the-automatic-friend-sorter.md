@@ -1,4 +1,4 @@
-# 谷歌收购自动交友分类器 Katango TechCrunch
+# 谷歌收购自动交友分类器 Katango 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/google-acquires-katango-the-automatic-friend-sorter/>
 

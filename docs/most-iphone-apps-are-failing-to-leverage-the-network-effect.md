@@ -1,4 +1,4 @@
-# 大多数 iPhone 应用未能利用网络效应 TechCrunch
+# 大多数 iPhone 应用未能利用网络效应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/07/most-iphone-apps-are-failing-to-leverage-the-network-effect/>
 

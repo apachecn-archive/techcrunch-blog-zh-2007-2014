@@ -1,4 +1,4 @@
-# 3 月 28 日，Galaxy S Blaze 4G 点亮 T-Mobile 货架 TechCrunch
+# 3 月 28 日，Galaxy S Blaze 4G 点亮 T-Mobile 货架 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/12/galaxy-s-blaze-4g-march-28/>
 

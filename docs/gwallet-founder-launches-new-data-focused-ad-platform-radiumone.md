@@ -1,4 +1,4 @@
-# gWallet 创始人推出新的以数据为中心的广告平台 RadiumOne TechCrunch
+# gWallet 创始人推出新的以数据为中心的广告平台 RadiumOne 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/18/gwallet-founder-launches-new-data-focused-ad-platform-radiumone/>
 

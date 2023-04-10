@@ -1,4 +1,4 @@
-# 佳能将平滑光圈调节环引入单反相机？TechCrunch
+# 佳能将平滑光圈调节环引入单反相机？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/canon-to-bring-smooth-aperture-adjustment-rings-to-dslrs/>
 

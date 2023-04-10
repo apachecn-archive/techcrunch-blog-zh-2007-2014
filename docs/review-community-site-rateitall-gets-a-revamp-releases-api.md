@@ -1,4 +1,4 @@
-# 审查社区网站费率全面改进，发布 API TechCrunch
+# 审查社区网站费率全面改进，发布 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/13/review-community-site-rateitall-gets-a-revamp-releases-api/>
 

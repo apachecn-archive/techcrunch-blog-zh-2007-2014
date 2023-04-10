@@ -1,4 +1,4 @@
-# 谷歌拒绝删除警察暴力视频，仍遵从 63%的政府删除请求 TechCrunch
+# 谷歌拒绝删除警察暴力视频，仍遵从 63%的政府删除请求 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/google-declines-to-remove-police-brutality-videos-still-complies-with-63-of-govt-takedown-requests/>
 

@@ -1,4 +1,4 @@
-# 维基搜索完全令人失望。TechCrunch
+# 维基搜索完全令人失望。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/06/wikia-search-is-a-complete-letdown/>
 

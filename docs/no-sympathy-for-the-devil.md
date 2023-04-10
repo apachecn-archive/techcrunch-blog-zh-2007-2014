@@ -1,4 +1,4 @@
-# 对硅谷的恐惧和厌恶 TechCrunch
+# 对硅谷的恐惧和厌恶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/18/no-sympathy-for-the-devil/>
 

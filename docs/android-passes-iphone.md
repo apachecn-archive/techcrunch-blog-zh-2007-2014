@@ -1,4 +1,4 @@
-# comScore: Android 在美国用户总数超过 iPhone TechCrunch
+# comScore: Android 在美国用户总数超过 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/06/android-passes-iphone/>
 

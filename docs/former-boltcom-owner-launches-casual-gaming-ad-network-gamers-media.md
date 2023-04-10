@@ -1,4 +1,4 @@
-# 前 Bolt.com 老板推出休闲游戏广告网络，游戏媒体 TechCrunch
+# 前 Bolt.com 老板推出休闲游戏广告网络，游戏媒体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/26/former-boltcom-owner-launches-casual-gaming-ad-network-gamers-media/>
 

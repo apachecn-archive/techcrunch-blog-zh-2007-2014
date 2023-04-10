@@ -1,4 +1,4 @@
-# 体育迷、记者和年轻运动员的父母:游戏改变者在 2 号线 TechCrunch
+# 体育迷、记者和年轻运动员的父母:游戏改变者在 2 号线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/15/attn-sports-fans-journalists-and-parents-of-young-athletes-gamechanger-is-on-line-two/>
 

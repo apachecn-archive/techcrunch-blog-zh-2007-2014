@@ -1,4 +1,4 @@
-# 一场革命开始了:OpenCandy 召开董事会，没有人握手 TechCrunch
+# 一场革命开始了:OpenCandy 召开董事会，没有人握手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/13/a-revolution-begins-opencandy-has-a-board-meeting-and-no-one-shakes-hands/>
 

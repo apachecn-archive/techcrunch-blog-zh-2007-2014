@@ -1,4 +1,4 @@
-# 与大公司竞争 TechCrunch
+# 与大公司竞争 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/30/competing-against-the-big-guys/>
 

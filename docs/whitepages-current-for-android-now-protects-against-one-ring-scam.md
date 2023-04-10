@@ -1,4 +1,4 @@
-# Android 当前的白页现在可以抵御“一环”骗局 TechCrunch
+# Android 当前的白页现在可以抵御“一环”骗局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/whitepages-current-for-android-now-protects-against-one-ring-scam/>
 

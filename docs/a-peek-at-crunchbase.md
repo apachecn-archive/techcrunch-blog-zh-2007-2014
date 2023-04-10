@@ -1,4 +1,4 @@
-# 一瞥 CrunchBase TechCrunch
+# 一瞥 CrunchBase 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/24/a-peek-at-crunchbase/>
 

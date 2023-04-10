@@ -1,4 +1,4 @@
-# LG Viewty，她是不是一个美人？TechCrunch
+# LG Viewty，她是不是一个美人？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/22/lg-viewty-aint-she-a-beauty/>
 

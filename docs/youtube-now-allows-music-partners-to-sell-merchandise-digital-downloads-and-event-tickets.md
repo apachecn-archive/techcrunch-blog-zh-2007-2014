@@ -1,4 +1,4 @@
-# YouTube 现在允许音乐合作伙伴销售商品、数字下载和活动门票 TechCrunch
+# YouTube 现在允许音乐合作伙伴销售商品、数字下载和活动门票 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/16/youtube-now-allows-music-partners-to-sell-merchandise-digital-downloads-and-event-tickets/>
 

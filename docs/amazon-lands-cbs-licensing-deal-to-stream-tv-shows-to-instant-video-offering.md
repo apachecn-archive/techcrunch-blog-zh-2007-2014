@@ -1,4 +1,4 @@
-# 亚马逊获得 CBS 授权协议，将电视节目流式传输到即时视频服务 TechCrunch
+# 亚马逊获得 CBS 授权协议，将电视节目流式传输到即时视频服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/amazon-lands-cbs-licensing-deal-to-stream-tv-shows-to-instant-video-offering/>
 

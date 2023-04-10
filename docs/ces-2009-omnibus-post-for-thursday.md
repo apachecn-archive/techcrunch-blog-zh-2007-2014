@@ -1,4 +1,4 @@
-# 周四 CES 2009 综合报道 TechCrunch
+# 周四 CES 2009 综合报道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/08/ces-2009-omnibus-post-for-thursday/>
 

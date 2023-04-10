@@ -1,4 +1,4 @@
-# 嘿布莱恩(iPhone Vs. EVO 视频背后的家伙)，派拉蒙想谈谈！TechCrunch
+# 嘿布莱恩(iPhone Vs. EVO 视频背后的家伙)，派拉蒙想谈谈！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/14/paramount-iphone-evo-videos/>
 

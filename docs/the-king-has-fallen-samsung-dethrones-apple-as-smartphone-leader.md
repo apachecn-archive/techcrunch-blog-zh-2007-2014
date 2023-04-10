@@ -1,4 +1,4 @@
-# 王者陨落:三星取代苹果成为智能手机领导者 TechCrunch
+# 王者陨落:三星取代苹果成为智能手机领导者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/28/the-king-has-fallen-samsung-dethrones-apple-as-smartphone-leader/>
 

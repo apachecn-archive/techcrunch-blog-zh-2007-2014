@@ -1,4 +1,4 @@
-# Digg 进行了重大改造——TechCrunch
+# Digg 进行了重大改造——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/digg-gets-a-major-makeover/>
 

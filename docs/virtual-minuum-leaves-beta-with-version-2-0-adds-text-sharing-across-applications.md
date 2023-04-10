@@ -1,4 +1,4 @@
-# Virtual Minuum 在 2.0 版本中退出测试，增加了跨应用程序的文本共享 TechCrunch
+# Virtual Minuum 在 2.0 版本中退出测试，增加了跨应用程序的文本共享 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/virtual-minuum-leaves-beta-with-version-2-0-adds-text-sharing-across-applications/>
 

@@ -1,4 +1,4 @@
-# Nexus S 为太空中的 NASA 光剑格斗球提供动力 TechCrunch
+# Nexus S 为太空中的 NASA 光剑格斗球提供动力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/the-nexus-s-powers-nasas-lightsaber-sparring-spheres-in-space/>
 

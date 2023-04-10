@@ -1,4 +1,4 @@
-# 视频:新原子钟精确度达到 100 万亿分之一秒 TechCrunch
+# 视频:新原子钟精确度达到 100 万亿分之一秒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/video-new-atomic-clock-reaches-a-100-quadrillionth-of-a-second-accuracy/>
 

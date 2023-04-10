@@ -1,4 +1,4 @@
-# 观看 TC 扰乱 SF 2011 直播第 2 天 TechCrunch
+# 观看 TC 扰乱 SF 2011 直播第 2 天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/watch-tc-disrupt-sf-2011-live-day-2/>
 

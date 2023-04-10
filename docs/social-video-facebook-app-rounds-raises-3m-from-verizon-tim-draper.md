@@ -1,4 +1,4 @@
-# 社交视频脸书应用 Rounds 从威瑞森筹集了 300 万美元 Tim Draper TechCrunch
+# 社交视频脸书应用 Rounds 从威瑞森筹集了 300 万美元 Tim Draper 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/social-video-facebook-app-rounds-raises-3m-from-verizon-tim-draper/>
 

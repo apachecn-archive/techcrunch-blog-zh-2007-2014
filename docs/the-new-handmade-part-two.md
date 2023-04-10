@@ -1,4 +1,4 @@
-# 新“手工制作”(第二部分)TechCrunch
+# 新“手工制作”(第二部分)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/25/the-new-handmade-part-two/>
 

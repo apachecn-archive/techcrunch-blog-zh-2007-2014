@@ -1,4 +1,4 @@
-# 假设媒体收购数字机构 Sideshow TechCrunch
+# 假设媒体收购数字机构 Sideshow 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/21/say-media-acquires-digital-agency-sideshow/>
 

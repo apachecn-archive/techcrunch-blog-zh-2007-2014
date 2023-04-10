@@ -1,4 +1,4 @@
-# BillGuard 筹集了 300 万美元来跟踪隐藏费用、信用卡账单错误 TechCrunch
+# BillGuard 筹集了 300 万美元来跟踪隐藏费用、信用卡账单错误 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/02/billguard-raises-3m-to-track-hidden-fees-billing-errors-on-credit-card-bills/>
 

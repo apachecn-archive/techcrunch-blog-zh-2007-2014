@@ -1,4 +1,4 @@
-# 罗纳德·里根图书馆获得苹果 iPod Tours TechCrunch
+# 罗纳德·里根图书馆获得苹果 iPod Tours 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/ronald-reagan-library-gets-apple-ipod-tours/>
 

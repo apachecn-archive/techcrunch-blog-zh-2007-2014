@@ -1,4 +1,4 @@
-# Impala For iPhone 使用人工智能识别您的照片，并为您整理它们 TechCrunch
+# Impala For iPhone 使用人工智能识别您的照片，并为您整理它们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/08/impala-for-iphone-identifies-your-photos-using-artificial-intelligence-organizes-them-for-you/>
 

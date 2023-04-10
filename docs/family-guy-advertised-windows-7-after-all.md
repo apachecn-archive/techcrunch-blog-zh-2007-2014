@@ -1,4 +1,4 @@
-# 《一家人》毕竟宣传了 Windows 7 TechCrunch
+# 《一家人》毕竟宣传了 Windows 7 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/23/family-guy-advertised-windows-7-after-all/>
 

@@ -1,4 +1,4 @@
-# 来自 IFA 的三星新打印机 TechCrunch
+# 来自 IFA 的三星新打印机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/samsungs-new-printers-from-ifa/>
 

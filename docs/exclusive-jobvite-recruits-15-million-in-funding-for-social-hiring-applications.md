@@ -1,4 +1,4 @@
-# 独家报道:Jobvite 为社交招聘应用募集 1500 万美元资金 TechCrunch
+# 独家报道:Jobvite 为社交招聘应用募集 1500 万美元资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/17/exclusive-jobvite-recruits-15-million-in-funding-for-social-hiring-applications/>
 

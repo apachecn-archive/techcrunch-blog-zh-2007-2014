@@ -1,4 +1,4 @@
-# 索尼报告网络遭到大规模黑客攻击:全球 93，000 个账户受到影响 TechCrunch
+# 索尼报告网络遭到大规模黑客攻击:全球 93，000 个账户受到影响 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/sony-reports-massive-hack-attempt-on-networks-93000-accounts-affected-globally/>
 

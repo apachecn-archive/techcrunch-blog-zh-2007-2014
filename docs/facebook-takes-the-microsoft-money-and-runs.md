@@ -1,4 +1,4 @@
-# 脸书拿着微软的钱跑了。TechCrunch
+# 脸书拿着微软的钱跑了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/24/facebook-takes-the-microsoft-money-and-runs/>
 

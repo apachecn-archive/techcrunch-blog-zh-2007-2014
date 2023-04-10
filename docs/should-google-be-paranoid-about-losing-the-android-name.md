@@ -1,4 +1,4 @@
-# 谷歌是否应该偏执于失去 Android 这个名字？TechCrunch
+# 谷歌是否应该偏执于失去 Android 这个名字？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/30/should-google-be-paranoid-about-losing-the-android-name/>
 

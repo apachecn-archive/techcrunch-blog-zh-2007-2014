@@ -1,4 +1,4 @@
-# 云存储平台盒子首次亮相开发者平台/Bin；$2M 基金投资企业 TechCrunch
+# 云存储平台盒子首次亮相开发者平台/Bin；$2M 基金投资企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/cloud-storage-platform-box-debuts-developer-platform-bin-2m-fund-to-invest-in-the-enterprise/>
 

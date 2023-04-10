@@ -1,4 +1,4 @@
-# Twitter 在其地理推文中增加了位置，只是不要称之为签到 TechCrunch
+# Twitter 在其地理推文中增加了位置，只是不要称之为签到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/14/twitter-places-geo-tweets/>
 

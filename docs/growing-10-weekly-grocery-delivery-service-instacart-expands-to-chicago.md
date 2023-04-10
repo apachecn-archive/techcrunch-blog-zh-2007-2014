@@ -1,4 +1,4 @@
-# 杂货配送服务 Instacart 每周增长 10%扩展至芝加哥 TechCrunch
+# 杂货配送服务 Instacart 每周增长 10%扩展至芝加哥 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/17/growing-10-weekly-grocery-delivery-service-instacart-expands-to-chicago/>
 

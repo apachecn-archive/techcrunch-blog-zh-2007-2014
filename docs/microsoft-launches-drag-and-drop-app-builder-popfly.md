@@ -1,4 +1,4 @@
-# 微软推出拖放式应用构建器 Popfly TechCrunch
+# 微软推出拖放式应用构建器 Popfly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/18/microsoft-launches-drag-and-drop-app-builder-popfly/>
 

@@ -1,4 +1,4 @@
-# PayPal 为类似脸书连接的商务身份登录技术增加了移动支持 TechCrunch
+# PayPal 为类似脸书连接的商务身份登录技术增加了移动支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/paypal-adds-mobile-support-to-facebook-connect-like-commerce-identity-login-technology/>
 

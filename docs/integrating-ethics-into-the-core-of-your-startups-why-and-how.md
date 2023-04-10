@@ -1,4 +1,4 @@
-# 将道德整合到创业的核心:为什么和如何 TechCrunch
+# 将道德整合到创业的核心:为什么和如何 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/20/integrating-ethics-into-the-core-of-your-startups-why-and-how/>
 

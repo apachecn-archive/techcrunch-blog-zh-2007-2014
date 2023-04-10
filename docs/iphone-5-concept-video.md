@@ -1,4 +1,4 @@
-# 视频:这不是 iPhone 5...但我有点希望是 TechCrunch
+# 视频:这不是 iPhone 5...但我有点希望是 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/iphone-5-concept-video/>
 

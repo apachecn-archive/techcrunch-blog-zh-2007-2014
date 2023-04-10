@@ -1,4 +1,4 @@
-# Foursquare 点击量达到 200 万次，每天有 2.5 万新用户 TechCrunch
+# Foursquare 点击量达到 200 万次，每天有 2.5 万新用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/08/foursquare-hits-2-million-check-ins-25k-new-users-daily/>
 

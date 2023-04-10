@@ -1,4 +1,4 @@
-# Lyft 与加州监管机构达成协议，取消罚款，将其拼车服务扩展到 LA TechCrunch
+# Lyft 与加州监管机构达成协议，取消罚款，将其拼车服务扩展到 LA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/30/lyft-cpuc-deal-la/>
 

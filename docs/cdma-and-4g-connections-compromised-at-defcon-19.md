@@ -1,4 +1,4 @@
-# CDMA 和 4G 连接在 DefCon 19 上受到损害？TechCrunch
+# CDMA 和 4G 连接在 DefCon 19 上受到损害？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/cdma-and-4g-connections-compromised-at-defcon-19/>
 

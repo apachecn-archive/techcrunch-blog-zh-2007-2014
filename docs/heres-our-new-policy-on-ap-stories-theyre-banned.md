@@ -1,4 +1,4 @@
-# 这是我们对美联社报道的新政策:它们被禁止了 TechCrunch
+# 这是我们对美联社报道的新政策:它们被禁止了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/16/heres-our-new-policy-on-ap-stories-theyre-banned/>
 

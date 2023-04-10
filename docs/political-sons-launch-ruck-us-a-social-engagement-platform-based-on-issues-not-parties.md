@@ -1,4 +1,4 @@
-# 政治之子推出 Ruck.us，这是一个基于问题而非党派的社交平台 TechCrunch
+# 政治之子推出 Ruck.us，这是一个基于问题而非党派的社交平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/political-sons-launch-ruck-us-a-social-engagement-platform-based-on-issues-not-parties/>
 

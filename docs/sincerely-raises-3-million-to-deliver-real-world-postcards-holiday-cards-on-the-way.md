@@ -1,4 +1,4 @@
-# 真诚地筹集 300 万美元，在途中发送真实世界的明信片、节日贺卡 TechCrunch
+# 真诚地筹集 300 万美元，在途中发送真实世界的明信片、节日贺卡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/sincerely-raises-3-million-to-deliver-real-world-postcards-holiday-cards-on-the-way/>
 

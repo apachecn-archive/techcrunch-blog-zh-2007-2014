@@ -1,4 +1,4 @@
-# 德国电信和 MetroPCS 董事会批准 T-Mobile 合并 TechCrunch
+# 德国电信和 MetroPCS 董事会批准 T-Mobile 合并 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/03/report-deutsche-telekom-and-metropcs-boards-give-go-ahead-to-t-mobile-merger/>
 

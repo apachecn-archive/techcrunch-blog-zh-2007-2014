@@ -1,4 +1,4 @@
-# 社交广告技术提供商 BLiNQ Media ACQ hires loo XII Analytics 创始人 TechCrunch
+# 社交广告技术提供商 BLiNQ Media ACQ hires loo XII Analytics 创始人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/blinq-acqhire-looxi/>
 

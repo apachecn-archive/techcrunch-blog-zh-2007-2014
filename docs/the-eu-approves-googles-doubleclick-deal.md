@@ -1,4 +1,4 @@
-# 欧盟批准谷歌的双击交易。雅虎需要尽快选择合作伙伴。TechCrunch
+# 欧盟批准谷歌的双击交易。雅虎需要尽快选择合作伙伴。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/11/the-eu-approves-googles-doubleclick-deal/>
 

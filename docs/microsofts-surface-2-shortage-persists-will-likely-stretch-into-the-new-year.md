@@ -1,4 +1,4 @@
-# 微软的 Surface 2 仍然短缺，可能会延续到新的一年 TechCrunch
+# 微软的 Surface 2 仍然短缺，可能会延续到新的一年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/30/microsofts-surface-2-shortage-persists-will-likely-stretch-into-the-new-year/>
 

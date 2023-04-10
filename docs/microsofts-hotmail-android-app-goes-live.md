@@ -1,4 +1,4 @@
-# 微软的 Hotmail Android 应用上线 TechCrunch
+# 微软的 Hotmail Android 应用上线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/microsofts-hotmail-android-app-goes-live/>
 

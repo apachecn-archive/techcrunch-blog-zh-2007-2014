@@ -1,4 +1,4 @@
-# 报道:富士通将在欧洲推出手机。接下来是美国？TechCrunch
+# 报道:富士通将在欧洲推出手机。接下来是美国？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/20/report-fujitsu-to-launch-handsets-in-europe-u-s-next/>
 

@@ -1,4 +1,4 @@
-# 惠普面向大众发布仿 3D 扫描仪 TechCrunch
+# 惠普面向大众发布仿 3D 扫描仪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/hp-releases-a-faux-3d-scanner-for-the-masses/>
 

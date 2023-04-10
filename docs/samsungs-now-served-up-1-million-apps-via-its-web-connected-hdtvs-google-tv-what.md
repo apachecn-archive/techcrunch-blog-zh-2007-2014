@@ -1,4 +1,4 @@
-# 三星现在通过其联网高清电视提供了 100 万个应用程序，谷歌电视什么？TechCrunch
+# 三星现在通过其联网高清电视提供了 100 万个应用程序，谷歌电视什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/02/samsungs-now-served-up-1-million-apps-via-its-web-connected-hdtvs-google-tv-what/>
 

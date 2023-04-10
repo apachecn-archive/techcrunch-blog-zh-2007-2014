@@ -1,4 +1,4 @@
-# Makerbot 发布新挤出机 TechCrunch
+# Makerbot 发布新挤出机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/makerbot-releases-new-extruder/>
 

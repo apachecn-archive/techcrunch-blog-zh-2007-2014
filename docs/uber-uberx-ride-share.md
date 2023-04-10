@@ -1,4 +1,4 @@
-# 允许加州拼车，UBERx 招募更多旧金山司机以减少等待时间和价格 TechCrunch
+# 允许加州拼车，UBERx 招募更多旧金山司机以减少等待时间和价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/25/uber-uberx-ride-share/>
 

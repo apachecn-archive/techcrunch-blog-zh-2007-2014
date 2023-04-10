@@ -1,4 +1,4 @@
-# 我们知道亚马逊卖出了多少 Kindles 万台 TechCrunch
+# 我们知道亚马逊卖出了多少 Kindles 万台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/01/we-know-how-many-kindles-amazon-has-sold-240000/>
 

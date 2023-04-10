@@ -1,4 +1,4 @@
-# Twitter 首次推出用户评价，呃，故事:当 140 个字符不够时 TechCrunch
+# Twitter 首次推出用户评价，呃，故事:当 140 个字符不够时 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/twitter-debuts-user-testimonials-er-stories-for-when-140-characters-are-not-enough/>
 

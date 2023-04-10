@@ -1,4 +1,4 @@
-# 点评:宝丽来 GL10 即时照片打印机 TechCrunch
+# 点评:宝丽来 GL10 即时照片打印机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/review-polaroid-gl10-instant-photo-printer/>
 

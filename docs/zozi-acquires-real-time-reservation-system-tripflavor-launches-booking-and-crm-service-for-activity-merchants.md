@@ -1,4 +1,4 @@
-# ZOZI 收购实时预订系统 TripFlavor，为活动商家推出预订和 CRM 服务 TechCrunch
+# ZOZI 收购实时预订系统 TripFlavor，为活动商家推出预订和 CRM 服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/07/zozi-acquires-real-time-reservation-system-tripflavor-launches-booking-and-crm-service-for-activity-merchants/>
 

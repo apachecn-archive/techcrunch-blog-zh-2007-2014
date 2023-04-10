@@ -1,4 +1,4 @@
-# 微软为 Outlook.com 推出 Skype 预览版 TechCrunch
+# 微软为 Outlook.com 推出 Skype 预览版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/29/microsoft-launches-preview-of-skype-for-outlook-com/>
 

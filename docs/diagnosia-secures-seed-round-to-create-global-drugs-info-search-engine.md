@@ -1,4 +1,4 @@
-# Diagnosia 获得创建全球药物信息搜索引擎的种子轮 TechCrunch
+# Diagnosia 获得创建全球药物信息搜索引擎的种子轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/diagnosia-secures-seed-round-to-create-global-drugs-info-search-engine/>
 

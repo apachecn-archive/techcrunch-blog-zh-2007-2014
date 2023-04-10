@@ -1,4 +1,4 @@
-# 如何在 SXSW 获胜:提供经验，而不是食物和酒 TechCrunch
+# 如何在 SXSW 获胜:提供经验，而不是食物和酒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/09/how-to-win-at-sxsw/>
 

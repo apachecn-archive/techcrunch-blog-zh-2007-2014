@@ -1,4 +1,4 @@
-# 收据扫描服务 Shoeboxed 推出“实验室”，这是一个实验产品的地方，从价格下跌警报开始 TechCrunch
+# 收据扫描服务 Shoeboxed 推出“实验室”，这是一个实验产品的地方，从价格下跌警报开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/20/receipt-scanning-service-shoeboxed-launches-labs-a-place-for-experimental-products-starting-with-price-drop-alerts/>
 

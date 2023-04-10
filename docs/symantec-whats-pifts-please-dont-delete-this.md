@@ -1,4 +1,4 @@
-# 赛门铁克，PIFTS 是什么？请不要删除这个！(更新)TechCrunch
+# 赛门铁克，PIFTS 是什么？请不要删除这个！(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/10/symantec-whats-pifts-please-dont-delete-this/>
 

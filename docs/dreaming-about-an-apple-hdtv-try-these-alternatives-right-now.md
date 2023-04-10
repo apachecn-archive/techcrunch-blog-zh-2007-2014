@@ -1,4 +1,4 @@
-# 梦想一台苹果高清电视？立即尝试这些替代品 TechCrunch
+# 梦想一台苹果高清电视？立即尝试这些替代品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/dreaming-about-an-apple-hdtv-try-these-alternatives-right-now/>
 

@@ -1,4 +1,4 @@
-# 贝宝推出数字商品微支付，脸书签约 TechCrunch
+# 贝宝推出数字商品微支付，脸书签约 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/paypal-unveils-micropayments-for-digital-goods-facebook-signs-up/>
 

@@ -1,4 +1,4 @@
-# Twitter 和 9 个月的反弹 TechCrunch
+# Twitter 和 9 个月的反弹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/29/twitter-nine-month-bounce/>
 

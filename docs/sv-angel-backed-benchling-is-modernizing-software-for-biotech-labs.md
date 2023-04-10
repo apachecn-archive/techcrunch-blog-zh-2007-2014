@@ -1,4 +1,4 @@
-# SV 天使支持的 Benchling 正在使生物技术实验室的软件现代化 TechCrunch
+# SV 天使支持的 Benchling 正在使生物技术实验室的软件现代化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/sv-angel-backed-benchling-is-modernizing-software-for-biotech-labs/>
 

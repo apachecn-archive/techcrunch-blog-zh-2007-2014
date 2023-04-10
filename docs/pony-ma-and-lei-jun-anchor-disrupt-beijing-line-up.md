@@ -1,4 +1,4 @@
-# 马化腾和雷军主播扰乱北京阵容 TechCrunch
+# 马化腾和雷军主播扰乱北京阵容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/pony-ma-and-lei-jun-anchor-disrupt-beijing-line-up/>
 

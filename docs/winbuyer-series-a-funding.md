@@ -1,4 +1,4 @@
-# WinBuyer 获得 690 万美元的应用程序，帮助在线零售商赚更多的钱 TechCrunch
+# WinBuyer 获得 690 万美元的应用程序，帮助在线零售商赚更多的钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/23/winbuyer-series-a-funding/>
 

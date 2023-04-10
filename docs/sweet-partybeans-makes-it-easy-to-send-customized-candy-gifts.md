@@ -1,4 +1,4 @@
-# Sweet: PartyBeans 让发送定制糖果礼物变得简单 TechCrunch
+# Sweet: PartyBeans 让发送定制糖果礼物变得简单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/11/sweet-partybeans-makes-it-easy-to-send-customized-candy-gifts/>
 

@@ -1,4 +1,4 @@
-# Adobe 聘用图像缩放技术的共同发明人 TechCrunch
+# Adobe 聘用图像缩放技术的共同发明人 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/adobe-hires-co-inventor-of-image-resizer-technology/>
 

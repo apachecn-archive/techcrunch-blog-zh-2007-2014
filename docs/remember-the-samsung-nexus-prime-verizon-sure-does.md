@@ -1,4 +1,4 @@
-# 还记得三星 Nexus Prime 吗？威瑞森当然知道 TechCrunch
+# 还记得三星 Nexus Prime 吗？威瑞森当然知道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/22/remember-the-samsung-nexus-prime-verizon-sure-does/>
 

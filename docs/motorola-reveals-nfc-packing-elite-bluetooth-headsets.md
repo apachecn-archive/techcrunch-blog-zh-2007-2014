@@ -1,4 +1,4 @@
-# 摩托罗拉展示 NFC 包装的精英蓝牙耳机 TechCrunch
+# 摩托罗拉展示 NFC 包装的精英蓝牙耳机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/motorola-reveals-nfc-packing-elite-bluetooth-headsets/>
 

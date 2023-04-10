@@ -1,4 +1,4 @@
-# 回顾:微软的触摸鼠标和浏览器触摸鼠标 TechCrunch
+# 回顾:微软的触摸鼠标和浏览器触摸鼠标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/03/review-microsofts-touch-mouse-and-explorer-touch-mouse/>
 

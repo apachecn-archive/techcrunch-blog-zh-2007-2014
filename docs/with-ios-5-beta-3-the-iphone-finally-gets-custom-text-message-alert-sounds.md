@@ -1,4 +1,4 @@
-# 随着 iOS 5 Beta 3 的推出，iPhone 终于可以定制短信提醒声音了 TechCrunch
+# 随着 iOS 5 Beta 3 的推出，iPhone 终于可以定制短信提醒声音了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/11/with-ios-5-beta-3-the-iphone-finally-gets-custom-text-message-alert-sounds/>
 

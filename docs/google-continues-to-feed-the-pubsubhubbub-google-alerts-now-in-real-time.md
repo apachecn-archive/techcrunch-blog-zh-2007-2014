@@ -1,4 +1,4 @@
-# 谷歌继续助长公众的喧嚣。谷歌现在实时提醒。TechCrunch
+# 谷歌继续助长公众的喧嚣。谷歌现在实时提醒。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/google-continues-to-feed-the-pubsubhubbub-google-alerts-now-in-real-time/>
 

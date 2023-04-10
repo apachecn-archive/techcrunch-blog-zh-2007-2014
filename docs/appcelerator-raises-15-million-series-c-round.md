@@ -1,4 +1,4 @@
-# Appcelerator 融资 1500 万美元 C 轮 TechCrunch
+# Appcelerator 融资 1500 万美元 C 轮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/appcelerator-raises-15-million-series-c-round/>
 

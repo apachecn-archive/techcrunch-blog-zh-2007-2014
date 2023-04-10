@@ -1,4 +1,4 @@
-# 脸书升级其移动隐私仪表板 TechCrunch
+# 脸书升级其移动隐私仪表板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/08/facebook-upgrades-its-mobile-privacy-dashboard/>
 

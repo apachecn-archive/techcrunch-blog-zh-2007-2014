@@ -1,4 +1,4 @@
-# 谷歌搜索终于完全社会化，共享 Twitter 链接，甚至 Quora 数据 TechCrunch
+# 谷歌搜索终于完全社会化，共享 Twitter 链接，甚至 Quora 数据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/17/google-social-search/>
 

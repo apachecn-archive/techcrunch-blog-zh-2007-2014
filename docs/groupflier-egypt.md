@@ -1,4 +1,4 @@
-# 受#Egypt 的启发，GroupFlier 推出了策划短信群 TechCrunch
+# 受#Egypt 的启发，GroupFlier 推出了策划短信群 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/groupflier-egypt/>
 

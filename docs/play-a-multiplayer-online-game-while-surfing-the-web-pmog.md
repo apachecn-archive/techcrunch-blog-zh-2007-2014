@@ -1,4 +1,4 @@
-# 在网上冲浪的同时玩多人在线游戏:PMOG TechCrunch
+# 在网上冲浪的同时玩多人在线游戏:PMOG 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/02/play-a-multiplayer-online-game-while-surfing-the-web-pmog/>
 

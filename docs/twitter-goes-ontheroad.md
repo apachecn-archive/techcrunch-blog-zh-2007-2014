@@ -1,4 +1,4 @@
-# Twitter @ on the road TechCrunch
+# Twitter @ on the road 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/13/twitter-goes-ontheroad/>
 

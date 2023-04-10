@@ -1,4 +1,4 @@
-# P50-GP08:日立的最后(？)旗舰电视可通过 iPad/iPhone 控制 TechCrunch
+# P50-GP08:日立的最后(？)旗舰电视可通过 iPad/iPhone 控制 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/p50-gp08-hitachis-last-flagship-tv-can-be-controlled-via-ipadiphone/>
 

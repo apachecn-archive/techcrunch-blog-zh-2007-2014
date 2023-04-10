@@ -1,4 +1,4 @@
-# 隐形搜索引擎 Blekko 再融资 250 万美元 TechCrunch
+# 隐形搜索引擎 Blekko 再融资 250 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/04/stealth-search-engine-blekko-raises-another-2-5-million/>
 

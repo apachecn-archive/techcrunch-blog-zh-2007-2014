@@ -1,4 +1,4 @@
-# 音乐爱好者的社交网络 Flowd 获得所有新的移动应用 TechCrunch
+# 音乐爱好者的社交网络 Flowd 获得所有新的移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/music-lovers-social-network-flowd-gets-all-new-mobile-apps/>
 

@@ -1,4 +1,4 @@
-# Synthasite 购买 ClickPass。我看不出有什么协同作用。TechCrunch
+# Synthasite 购买 ClickPass。我看不出有什么协同作用。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/18/synthasite-buys-clickpass-i-see-zero-synergies/>
 

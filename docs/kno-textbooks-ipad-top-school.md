@@ -1,4 +1,4 @@
-# Kno's Textbooks 是顶级返校 iPad 应用程序，每 8 秒下载一次 TechCrunch
+# Kno's Textbooks 是顶级返校 iPad 应用程序，每 8 秒下载一次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/30/kno-textbooks-ipad-top-school/>
 

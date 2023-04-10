@@ -1,4 +1,4 @@
-# 图表:Android 碎片化 TechCrunch
+# 图表:Android 碎片化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/charted-android-fragmentation/>
 

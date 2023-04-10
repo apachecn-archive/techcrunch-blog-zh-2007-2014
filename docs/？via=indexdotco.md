@@ -1,4 +1,4 @@
-# Handybook 以“不到 1000 万美元”的价格收购 Exec，横扫家庭服务市场 TechCrunch
+# Handybook 以“不到 1000 万美元”的价格收购 Exec，横扫家庭服务市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/handybook-sweeps-up-exec-for-under-10m-to-expand-west-coast-footprint/?via=indexdotco>
 

@@ -1,4 +1,4 @@
-# 尽管第四季度每股收益 0.11 美元，但潘多拉在 2014 年收入指引疲软的几小时后下跌 TechCrunch
+# 尽管第四季度每股收益 0.11 美元，但潘多拉在 2014 年收入指引疲软的几小时后下跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/pandora-falls-after-hours-on-weak-2014-revenue-guidance-despite-strong-q4-eps-of-0-11/>
 

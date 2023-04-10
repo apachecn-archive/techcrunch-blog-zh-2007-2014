@@ -1,4 +1,4 @@
-# 在大堂会议上爆发了惊人的坦诚对话 TechCrunch
+# 在大堂会议上爆发了惊人的坦诚对话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/07/astonishingly-candid-conversations-break-out-at-the-lobby-conference/>
 

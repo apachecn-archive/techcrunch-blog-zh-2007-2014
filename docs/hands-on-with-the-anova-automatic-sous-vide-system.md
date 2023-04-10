@@ -1,4 +1,4 @@
-# 动手操作 Anova 自动录像系统 TechCrunch
+# 动手操作 Anova 自动录像系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/hands-on-with-the-anova-automatic-sous-vide-system/>
 

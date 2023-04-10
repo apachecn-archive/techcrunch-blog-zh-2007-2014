@@ -1,4 +1,4 @@
-# Fundable 收购 LaunchRock，将众筹和用户获取结合起来 TechCrunch
+# Fundable 收购 LaunchRock，将众筹和用户获取结合起来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/fundable-acquires-launchrock/>
 

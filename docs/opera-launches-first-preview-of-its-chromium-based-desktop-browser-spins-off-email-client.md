@@ -1,4 +1,4 @@
-# Opera 发布其基于 Chromium 的桌面浏览器的首个预览版，剥离电子邮件客户端 TechCrunch
+# Opera 发布其基于 Chromium 的桌面浏览器的首个预览版，剥离电子邮件客户端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/28/opera-launches-first-preview-of-its-chromium-based-desktop-browser-spins-off-email-client/>
 

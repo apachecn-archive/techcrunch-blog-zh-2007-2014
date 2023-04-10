@@ -1,4 +1,4 @@
-# 爱可视将五款安卓平板电脑从 2.8 英寸降至 10.1 英寸 TechCrunch
+# 爱可视将五款安卓平板电脑从 2.8 英寸降至 10.1 英寸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/31/archos-drops-five-android-tablets-from-2-8-to-10-1-inches/>
 

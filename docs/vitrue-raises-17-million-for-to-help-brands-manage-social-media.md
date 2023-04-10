@@ -1,4 +1,4 @@
-# Vitrue 筹集 1700 万美元帮助品牌管理社交媒体 TechCrunch
+# Vitrue 筹集 1700 万美元帮助品牌管理社交媒体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/16/vitrue-raises-17-million-for-to-help-brands-manage-social-media/>
 

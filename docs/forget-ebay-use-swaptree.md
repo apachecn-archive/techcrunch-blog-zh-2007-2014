@@ -1,4 +1,4 @@
-# 忘记易贝吧。使用 Swaptree。TechCrunch
+# 忘记易贝吧。使用 Swaptree。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/22/forget-ebay-use-swaptree/>
 

@@ -1,4 +1,4 @@
-# IRSeeK 会对 IRC 聊天产生寒蝉效应吗？TechCrunch
+# IRSeeK 会对 IRC 聊天产生寒蝉效应吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/30/will-irseek-have-a-chilling-effect-on-irc-chat/>
 

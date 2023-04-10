@@ -1,4 +1,4 @@
-# 退后 SEC:让我们正确看待二级市场的“风险”TechCrunch
+# 退后 SEC:让我们正确看待二级市场的“风险”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/29/back-off-sec-lets-put-the-risk-of-secondary-markets-in-perspective/>
 

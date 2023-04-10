@@ -1,4 +1,4 @@
-# 放大希望将视频频道转变为社交网络。祝你好运。TechCrunch
+# 放大希望将视频频道转变为社交网络。祝你好运。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/19/magnify-wants-to-turn-video-channels-into-social-networks-good-luck/>
 

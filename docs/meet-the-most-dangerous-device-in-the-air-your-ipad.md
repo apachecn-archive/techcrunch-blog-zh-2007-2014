@@ -1,4 +1,4 @@
-# 认识空中最危险的设备:你的 iPad TechCrunch
+# 认识空中最危险的设备:你的 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/13/meet-the-most-dangerous-device-in-the-air-your-ipad/>
 

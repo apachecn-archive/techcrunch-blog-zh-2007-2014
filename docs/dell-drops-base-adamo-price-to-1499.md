@@ -1,4 +1,4 @@
-# 戴尔将 Adamo 基本价格降至 1499 美元 TechCrunch
+# 戴尔将 Adamo 基本价格降至 1499 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/22/dell-drops-base-adamo-price-to-1499/>
 

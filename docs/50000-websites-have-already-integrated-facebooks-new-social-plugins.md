@@ -1,4 +1,4 @@
-# 50，000 个网站已经集成了脸书的新社交插件 TechCrunch
+# 50，000 个网站已经集成了脸书的新社交插件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/50000-websites-have-already-integrated-facebooks-new-social-plugins/>
 

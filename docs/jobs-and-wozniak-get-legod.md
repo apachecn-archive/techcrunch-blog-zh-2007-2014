@@ -1,4 +1,4 @@
-# 乔布斯和沃兹尼亚克获得乐高 TechCrunch
+# 乔布斯和沃兹尼亚克获得乐高 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/jobs-and-wozniak-get-legod/>
 

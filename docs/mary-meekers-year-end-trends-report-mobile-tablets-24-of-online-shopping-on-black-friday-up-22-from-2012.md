@@ -1,4 +1,4 @@
-# 玛丽·米克尔年终趋势报告:黑色星期五，手机和平板电脑占网上购物的 24%，比 2012 年增长 18% TechCrunch
+# 玛丽·米克尔年终趋势报告:黑色星期五，手机和平板电脑占网上购物的 24%，比 2012 年增长 18% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/03/mary-meekers-year-end-trends-report-mobile-tablets-24-of-online-shopping-on-black-friday-up-22-from-2012/>
 

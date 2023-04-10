@@ -1,4 +1,4 @@
-# GameStop 推出 80 家儿童(和内心的儿童)假日弹出式商店 TechCrunch
+# GameStop 推出 80 家儿童(和内心的儿童)假日弹出式商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/26/gamestop-launching-80-holiday-pop-up-store-locations-for-kids-and-kids-at-heart/>
 

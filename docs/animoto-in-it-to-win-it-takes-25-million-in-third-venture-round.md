@@ -1,4 +1,4 @@
-# Animoto 在第三轮风险投资中获得 2500 万美元 TechCrunch
+# Animoto 在第三轮风险投资中获得 2500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/animoto-in-it-to-win-it-takes-25-million-in-third-venture-round/>
 

@@ -1,4 +1,4 @@
-# 查查沟渠引导搜索模型。我很讨厌这家初创公司 TechCrunch
+# 查查沟渠引导搜索模型。我很讨厌这家初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/31/chacha-ditches-guided-search-model-i-love-to-hate-this-startup/>
 

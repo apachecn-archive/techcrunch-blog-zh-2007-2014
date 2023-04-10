@@ -1,4 +1,4 @@
-# 当亚马逊收购 Zappos 时，Clothes.com 也加入了进来 TechCrunch
+# 当亚马逊收购 Zappos 时，Clothes.com 也加入了进来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/07/when-amazon-bought-zappos-clothescom-also-came-in-the-box/>
 

@@ -1,4 +1,4 @@
-# Paper.li 筹集 210 万美元用于社会新闻监管，点击量达 200 万用户 TechCrunch
+# Paper.li 筹集 210 万美元用于社会新闻监管，点击量达 200 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/11/smallrivers-paperli-funding/>
 

@@ -1,4 +1,4 @@
-# 谷歌地图惊人的可读性 TechCrunch
+# 谷歌地图惊人的可读性 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/02/the-amazing-readability-of-google-maps/>
 

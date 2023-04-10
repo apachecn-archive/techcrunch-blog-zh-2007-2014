@@ -1,4 +1,4 @@
-# Twitter 在第二个交易日下跌 7.24%，市值蒸发 23 亿美元 TechCrunch
+# Twitter 在第二个交易日下跌 7.24%，市值蒸发 23 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/08/twitter-drops-7-24-in-its-second-day-of-trading-burning-2-3b-in-market-cap/>
 

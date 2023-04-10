@@ -1,4 +1,4 @@
-# TC50:用于 iPhone 上社交标签的 Sekai 摄像头 TechCrunch
+# TC50:用于 iPhone 上社交标签的 Sekai 摄像头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/09/tc50-sekai-camera-for-social-tagging-on-the-iphone/>
 

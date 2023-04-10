@@ -1,4 +1,4 @@
-# 更新:8GB iPhone 5c 在欧洲和亚洲上市销售，苹果也调整了全球 iPad 产品线 TechCrunch
+# 更新:8GB iPhone 5c 在欧洲和亚洲上市销售，苹果也调整了全球 iPad 产品线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/8gb-iphone-5c-goes-up-for-sale-in-europe/>
 

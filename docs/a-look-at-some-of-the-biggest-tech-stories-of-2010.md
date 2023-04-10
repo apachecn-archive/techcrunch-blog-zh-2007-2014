@@ -1,4 +1,4 @@
-# 看看 2010 年一些最大的科技故事 TechCrunch
+# 看看 2010 年一些最大的科技故事 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/31/a-look-at-some-of-the-biggest-tech-stories-of-2010/>
 

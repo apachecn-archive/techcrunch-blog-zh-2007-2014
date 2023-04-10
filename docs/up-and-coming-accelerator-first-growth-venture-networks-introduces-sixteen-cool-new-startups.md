@@ -1,4 +1,4 @@
-# 后起之秀加速器 First Growth Venture Networks 推出 16 家超酷的新创业公司 TechCrunch
+# 后起之秀加速器 First Growth Venture Networks 推出 16 家超酷的新创业公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/22/up-and-coming-accelerator-first-growth-venture-networks-introduces-sixteen-cool-new-startups/>
 

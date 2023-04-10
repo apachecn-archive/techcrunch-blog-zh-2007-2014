@@ -1,4 +1,4 @@
-# Mozilla 将在 2013 年初将 SF Office 增加近一倍，增加 125 人 TechCrunch
+# Mozilla 将在 2013 年初将 SF Office 增加近一倍，增加 125 人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/mozilla-will-nearly-double-sf-office-add-125-people-in-early-2013/>
 

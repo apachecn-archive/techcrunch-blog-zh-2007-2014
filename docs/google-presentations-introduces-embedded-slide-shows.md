@@ -1,4 +1,4 @@
-# 谷歌演示介绍嵌入式幻灯片 TechCrunch
+# 谷歌演示介绍嵌入式幻灯片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/04/google-presentations-introduces-embedded-slide-shows/>
 

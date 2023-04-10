@@ -1,4 +1,4 @@
-# 脸书照片的尺寸再次增大 TechCrunch
+# 脸书照片的尺寸再次增大 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/facebook-photos-get-another-size-boost/>
 

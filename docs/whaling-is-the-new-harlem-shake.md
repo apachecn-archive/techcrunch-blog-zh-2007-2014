@@ -1,4 +1,4 @@
-# 捕鲸是新的哈莱姆摇摆舞 TechCrunch
+# 捕鲸是新的哈莱姆摇摆舞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/29/whaling-is-the-new-harlem-shake/>
 

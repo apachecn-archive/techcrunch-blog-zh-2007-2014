@@ -1,4 +1,4 @@
-# 脸书欢迎仇视犹太人的人，只要他们不分泌乳汁 TechCrunch
+# 脸书欢迎仇视犹太人的人，只要他们不分泌乳汁 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/05/10/jew-haters-welcome-at-facebook-as-long-as-they-arent-lactating/>
 

@@ -1,4 +1,4 @@
-# 惠普希望家电和汽车行业能够增长并拯救 webOS TechCrunch
+# 惠普希望家电和汽车行业能够增长并拯救 webOS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/hp-looking-to-appliances-autos-to-grow-and-save-webos/>
 

@@ -1,4 +1,4 @@
-# 当前缺少的 5 个蜂窝功能 TechCrunch
+# 当前缺少的 5 个蜂窝功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/the-5-honeycomb-features-currently-missing-in-action/>
 

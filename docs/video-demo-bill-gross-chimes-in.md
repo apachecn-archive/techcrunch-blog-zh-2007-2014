@@ -1,4 +1,4 @@
-# (视频演示)Bill Gross 加入 TechCrunch
+# (视频演示)Bill Gross 加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/video-demo-bill-gross-chimes-in/>
 

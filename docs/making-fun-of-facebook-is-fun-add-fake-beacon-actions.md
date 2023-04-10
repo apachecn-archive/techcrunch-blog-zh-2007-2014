@@ -1,4 +1,4 @@
-# 取笑脸书很有趣:添加假信标动作 TechCrunch
+# 取笑脸书很有趣:添加假信标动作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/08/making-fun-of-facebook-is-fun-add-fake-beacon-actions/>
 

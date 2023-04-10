@@ -1,4 +1,4 @@
-# Spark、Lightbank 和尤里·米尔纳加入 OnSwipe 耗资 500 万美元的“牛逼系列”TechCrunch
+# Spark、Lightbank 和尤里·米尔纳加入 OnSwipe 耗资 500 万美元的“牛逼系列”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/02/spark-lightbank-and-yuri-milner-get-in-on-onswipes-5m-series-awesome/>
 

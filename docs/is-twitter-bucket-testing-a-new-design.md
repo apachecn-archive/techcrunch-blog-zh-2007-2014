@@ -1,4 +1,4 @@
-# Twitter 测试新设计 TechCrunch
+# Twitter 测试新设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/17/is-twitter-bucket-testing-a-new-design/>
 

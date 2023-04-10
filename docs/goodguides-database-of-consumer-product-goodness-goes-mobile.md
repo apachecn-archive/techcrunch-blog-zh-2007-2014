@@ -1,4 +1,4 @@
-# GoodGuide 的消费品“Goes”数据库走向移动 TechCrunch
+# GoodGuide 的消费品“Goes”数据库走向移动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/05/goodguides-database-of-consumer-product-goodness-goes-mobile/>
 

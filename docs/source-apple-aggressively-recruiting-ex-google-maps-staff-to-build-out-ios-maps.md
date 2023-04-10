@@ -1,4 +1,4 @@
-# 来源:苹果积极招募前谷歌地图员工，打造 iOS 地图 TechCrunch
+# 来源:苹果积极招募前谷歌地图员工，打造 iOS 地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/23/source-apple-aggressively-recruiting-ex-google-maps-staff-to-build-out-ios-maps/>
 

@@ -1,4 +1,4 @@
-# 软件也在吞噬所有的工作 TechCrunch
+# 软件也在吞噬所有的工作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/21/software-is-eating-all-the-jobs-too/>
 

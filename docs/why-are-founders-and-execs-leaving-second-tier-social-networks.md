@@ -1,4 +1,4 @@
-# 为什么创始人和高管离开二线社交网络？TechCrunch
+# 为什么创始人和高管离开二线社交网络？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/12/why-are-founders-and-execs-leaving-second-tier-social-networks/>
 

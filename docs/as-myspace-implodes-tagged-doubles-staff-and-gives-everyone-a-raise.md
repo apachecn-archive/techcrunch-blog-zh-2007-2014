@@ -1,4 +1,4 @@
-# 随着 MySpace 的内爆，Tagged 的员工增加了一倍，给每个人都加了薪 TechCrunch
+# 随着 MySpace 的内爆，Tagged 的员工增加了一倍，给每个人都加了薪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/27/as-myspace-implodes-tagged-doubles-staff-and-gives-everyone-a-raise/>
 

@@ -1,4 +1,4 @@
-# IOGEAR Digital Scribe:插入一些有趣的东西 TechCrunch
+# IOGEAR Digital Scribe:插入一些有趣的东西 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/iogear-digital-scribe-insert-something-funny/>
 

@@ -1,4 +1,4 @@
-# 白宫正在寻找更多的创新伙伴 TechCrunch
+# 白宫正在寻找更多的创新伙伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/08/white-house-fellows/>
 

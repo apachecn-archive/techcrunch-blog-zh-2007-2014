@@ -1,4 +1,4 @@
-# 视频:日本获得机器人导盲犬 TechCrunch
+# 视频:日本获得机器人导盲犬 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/video-japan-gets-robotic-guide-dog/>
 

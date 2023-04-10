@@ -1,4 +1,4 @@
-# YC 支持的 Pixelapse 为您的设计项目带来 GitHub 风格的共享和版本控制 TechCrunch
+# YC 支持的 Pixelapse 为您的设计项目带来 GitHub 风格的共享和版本控制 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/yc-backed-pixelapse-brings-github-style-sharing-version-control-to-your-design-projects/>
 

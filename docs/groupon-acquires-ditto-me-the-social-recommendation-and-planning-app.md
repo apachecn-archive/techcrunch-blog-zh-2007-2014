@@ -1,4 +1,4 @@
-# Groupon 收购社交推荐应用 ditto . me TechCrunch
+# Groupon 收购社交推荐应用 ditto . me 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/16/groupon-acquires-ditto-me-the-social-recommendation-and-planning-app/>
 

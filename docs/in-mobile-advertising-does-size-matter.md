@@ -1,4 +1,4 @@
-# 在移动广告中，尺寸重要吗？TechCrunch
+# 在移动广告中，尺寸重要吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/in-mobile-advertising-does-size-matter/>
 

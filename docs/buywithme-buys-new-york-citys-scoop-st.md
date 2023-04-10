@@ -1,4 +1,4 @@
-# BuyWithMe 收购纽约市的 Scoop ST . TechCrunch
+# BuyWithMe 收购纽约市的 Scoop ST . 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/buywithme-buys-new-york-citys-scoop-st/>
 

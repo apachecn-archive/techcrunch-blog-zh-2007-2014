@@ -1,4 +1,4 @@
-# NYU 如何处理盗版:不要被抓否则...TechCrunch
+# NYU 如何处理盗版:不要被抓否则...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/how-nyu-handles-piracy-dont-get-caught-or-else/>
 

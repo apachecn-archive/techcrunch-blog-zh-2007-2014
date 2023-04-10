@@ -1,4 +1,4 @@
-# 那是 1996 年。苹果公司指导员工如何使用网景浏览器。TechCrunch
+# 那是 1996 年。苹果公司指导员工如何使用网景浏览器。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/the-year-is-1996-apple-instructs-its-employees-to-use-the-netscape-browser/>
 

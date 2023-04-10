@@ -1,4 +1,4 @@
-# Svpply 的“我们要这个！”是零售商瞄准穿着考究的顾客的一种有品位的方式 TechCrunch
+# Svpply 的“我们要这个！”是零售商瞄准穿着考究的顾客的一种有品位的方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/14/svpplys-we-want-this-is-a-tasteful-way-retailers-can-target-well-dressed-shoppers/>
 

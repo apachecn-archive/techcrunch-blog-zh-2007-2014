@@ -1,4 +1,4 @@
-# 为什么在 Google+上搜索不到 Google+？TechCrunch
+# 为什么在 Google+上搜索不到 Google+？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/17/why-cant-you-search-google-on-google/>
 

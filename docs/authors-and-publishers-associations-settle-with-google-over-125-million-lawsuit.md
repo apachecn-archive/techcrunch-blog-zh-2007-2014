@@ -1,4 +1,4 @@
-# 作者、出版商与谷歌就超过 1.25 亿美元的诉讼达成和解 TechCrunch
+# 作者、出版商与谷歌就超过 1.25 亿美元的诉讼达成和解 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/28/authors-and-publishers-associations-settle-with-google-over-125-million-lawsuit/>
 

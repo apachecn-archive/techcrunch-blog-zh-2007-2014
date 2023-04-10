@@ -1,4 +1,4 @@
-# 消除歧视:追随印度的脚步 TechCrunch
+# 消除歧视:追随印度的脚步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/21/a-fix-for-discrimination-follow-the-indian-trails/>
 

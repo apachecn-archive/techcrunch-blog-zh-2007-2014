@@ -1,4 +1,4 @@
-# 为什么新的 Google+使用了这么多空白？TechCrunch
+# 为什么新的 Google+使用了这么多空白？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/why-does-the-new-google-use-so-much-whitespace/>
 

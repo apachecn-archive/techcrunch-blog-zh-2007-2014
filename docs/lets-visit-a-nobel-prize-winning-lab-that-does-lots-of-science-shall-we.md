@@ -1,4 +1,4 @@
-# 让我们参观一个获得诺贝尔奖的做“大量科学”的实验室，好吗？TechCrunch
+# 让我们参观一个获得诺贝尔奖的做“大量科学”的实验室，好吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/27/lets-visit-a-nobel-prize-winning-lab-that-does-lots-of-science-shall-we/>
 

@@ -1,4 +1,4 @@
-# 脸书广告现在可以优化，以推动任何脸书上的行动，如应用内购买，股票，报价声明 TechCrunch
+# 脸书广告现在可以优化，以推动任何脸书上的行动，如应用内购买，股票，报价声明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/18/facebook-ads-downstream-conversions/>
 

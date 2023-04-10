@@ -1,4 +1,4 @@
-# 你知道，铁人三项:Polar RCX5 心率手表评论 TechCrunch
+# 你知道，铁人三项:Polar RCX5 心率手表评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/you-know-for-triathlons-polar-rcx5-heart-rate-watch-review/>
 

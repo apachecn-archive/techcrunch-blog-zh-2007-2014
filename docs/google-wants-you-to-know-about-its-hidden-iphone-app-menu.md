@@ -1,4 +1,4 @@
-# 谷歌想让你知道它隐藏的 iPhone 应用菜单 TechCrunch
+# 谷歌想让你知道它隐藏的 iPhone 应用菜单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/02/google-wants-you-to-know-about-its-hidden-iphone-app-menu/>
 

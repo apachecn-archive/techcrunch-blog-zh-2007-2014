@@ -1,4 +1,4 @@
-# Twilio 从 Bessemer 和 Union Square 获得 1700 万美元的 C 轮融资，用于海外扩张 TechCrunch
+# Twilio 从 Bessemer 和 Union Square 获得 1700 万美元的 C 轮融资，用于海外扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/twilio-series-c/>
 

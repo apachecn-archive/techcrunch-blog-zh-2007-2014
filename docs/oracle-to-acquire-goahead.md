@@ -1,4 +1,4 @@
-# 甲骨文将收购 GoAhead TechCrunch
+# 甲骨文将收购 GoAhead 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/oracle-to-acquire-goahead/>
 

@@ -1,4 +1,4 @@
-# 福特与 Bug Labs 合作开发车内创新开源平台 TechCrunch
+# 福特与 Bug Labs 合作开发车内创新开源平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/ford-partners-with-bug-labs-to-develop-open-source-platform-for-in-car-innovatin/>
 

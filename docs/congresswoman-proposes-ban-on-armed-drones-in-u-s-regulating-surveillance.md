@@ -1,4 +1,4 @@
-# 国会女议员提议禁止美国武装无人机，规范监控 TechCrunch
+# 国会女议员提议禁止美国武装无人机，规范监控 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/15/congresswoman-proposes-ban-on-armed-drones-in-u-s-regulating-surveillance/>
 

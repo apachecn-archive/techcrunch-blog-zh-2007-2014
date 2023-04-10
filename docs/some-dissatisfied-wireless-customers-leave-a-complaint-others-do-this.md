@@ -1,4 +1,4 @@
-# 一些不满意的无线用户会提出投诉，其他人会这样做...(更新)TechCrunch
+# 一些不满意的无线用户会提出投诉，其他人会这样做...(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/some-dissatisfied-wireless-customers-leave-a-complaint-others-do-this/>
 

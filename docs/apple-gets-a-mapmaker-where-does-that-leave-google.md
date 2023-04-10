@@ -1,4 +1,4 @@
-# 苹果得到一个地图制作工具。这给谷歌带来了什么？TechCrunch
+# 苹果得到一个地图制作工具。这给谷歌带来了什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/30/apple-gets-a-mapmaker-where-does-that-leave-google/>
 

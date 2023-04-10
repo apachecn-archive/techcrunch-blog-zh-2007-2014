@@ -1,4 +1,4 @@
-# 移动广告网络的填充率下降，Windows Phone 超过 CTRs TechCrunch
+# 移动广告网络的填充率下降，Windows Phone 超过 CTRs 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/mobile-ad-networks-fill-rates-drop-windows-phone-tops-ctrs/>
 

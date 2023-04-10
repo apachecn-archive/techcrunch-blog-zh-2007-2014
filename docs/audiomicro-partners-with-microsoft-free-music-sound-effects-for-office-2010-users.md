@@ -1,4 +1,4 @@
-# AudioMicro 与微软合作:为 Office 2010 用户提供免费音乐和音效 TechCrunch
+# AudioMicro 与微软合作:为 Office 2010 用户提供免费音乐和音效 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/29/audiomicro-partners-with-microsoft-free-music-sound-effects-for-office-2010-users/>
 

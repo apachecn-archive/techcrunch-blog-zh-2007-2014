@@ -1,4 +1,4 @@
-# Twitter 回应未来将实施双重身份认证以提高安全性 TechCrunch
+# Twitter 回应未来将实施双重身份认证以提高安全性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/08/twitter-responds-about-implementing-two-factor-authentication-for-more-security-in-the-future/>
 

@@ -1,4 +1,4 @@
-# 脸书如何在五年内超越今天的谷歌 TechCrunch
+# 脸书如何在五年内超越今天的谷歌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/02/facebook-bigger-google/>
 

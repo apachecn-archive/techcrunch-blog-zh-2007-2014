@@ -1,4 +1,4 @@
-# 创始人去世后，Diaspora 向受邀者开放了重新设计的 Alpha 版 TechCrunch
+# 创始人去世后，Diaspora 向受邀者开放了重新设计的 Alpha 版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/13/diaspora-redesign/>
 

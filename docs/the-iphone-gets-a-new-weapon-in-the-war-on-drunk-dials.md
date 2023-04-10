@@ -1,4 +1,4 @@
-# iPhone 在醉酒拨号大战中获得新武器 TechCrunch
+# iPhone 在醉酒拨号大战中获得新武器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/03/19/the-iphone-gets-a-new-weapon-in-the-war-on-drunk-dials/>
 

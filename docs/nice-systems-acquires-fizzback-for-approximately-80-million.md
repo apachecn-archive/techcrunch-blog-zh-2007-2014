@@ -1,4 +1,4 @@
-# NICE Systems 以约 8000 万美元收购 Fizzback TechCrunch
+# NICE Systems 以约 8000 万美元收购 Fizzback 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/nice-systems-acquires-fizzback-for-approximately-80-million/>
 

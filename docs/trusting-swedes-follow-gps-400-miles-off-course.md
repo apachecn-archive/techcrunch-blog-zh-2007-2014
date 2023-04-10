@@ -1,4 +1,4 @@
-# 信任瑞典人跟踪 GPS 偏离航线 400 英里 TechCrunch
+# 信任瑞典人跟踪 GPS 偏离航线 400 英里 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/trusting-swedes-follow-gps-400-miles-off-course/>
 

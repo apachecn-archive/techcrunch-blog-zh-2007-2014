@@ -1,4 +1,4 @@
-# 苹果开始在 iTunes 商店实行可变价格:一些歌曲现在每首 1.29 美元 TechCrunch
+# 苹果开始在 iTunes 商店实行可变价格:一些歌曲现在每首 1.29 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/07/apple-begins-variable-pricing-on-itunes-store-some-songs-now-129-each/>
 

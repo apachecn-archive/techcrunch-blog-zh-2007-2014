@@ -1,4 +1,4 @@
-# 没有人嘲笑 Tickle TechCrunch
+# 没有人嘲笑 Tickle 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/23/no-ones-laughing-at-tickle/>
 

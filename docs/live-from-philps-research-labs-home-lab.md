@@ -1,4 +1,4 @@
-# Philps 研究实验室现场直播:家庭实验室 TechCrunch
+# Philps 研究实验室现场直播:家庭实验室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/25/live-from-philps-research-labs-home-lab/>
 

@@ -1,4 +1,4 @@
-# crunch gear Live:9 月 5 日苹果发布 TechCrunch
+# crunch gear Live:9 月 5 日苹果发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/05/crunchgear-live-the-september-5th-apple-announcement/>
 

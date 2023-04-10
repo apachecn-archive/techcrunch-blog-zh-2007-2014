@@ -1,4 +1,4 @@
-# 游戏关闭使构建多人、跨平台游戏变得轻而易举 TechCrunch
+# 游戏关闭使构建多人、跨平台游戏变得轻而易举 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/game-closure-makes-it-a-breeze-to-build-multiplayer-cross-platform-games/>
 

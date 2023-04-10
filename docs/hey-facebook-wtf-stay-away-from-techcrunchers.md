@@ -1,4 +1,4 @@
-# 嘿脸书，搞什么鬼？远离 techcruncher TechCrunch
+# 嘿脸书，搞什么鬼？远离 techcruncher 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/06/hey-facebook-wtf-stay-away-from-techcrunchers/>
 

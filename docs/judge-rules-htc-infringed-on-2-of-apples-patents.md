@@ -1,4 +1,4 @@
-# 法官裁定:HTC 侵犯了苹果的两项专利 TechCrunch
+# 法官裁定:HTC 侵犯了苹果的两项专利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/judge-rules-htc-infringed-on-2-of-apples-patents/>
 

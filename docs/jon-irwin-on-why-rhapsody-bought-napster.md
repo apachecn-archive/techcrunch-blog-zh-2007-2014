@@ -1,4 +1,4 @@
-# 乔恩·欧文谈 Rhapsody 为何收购 Napster TechCrunch
+# 乔恩·欧文谈 Rhapsody 为何收购 Napster 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/jon-irwin-on-why-rhapsody-bought-napster/>
 

@@ -1,4 +1,4 @@
-# Innovid 和思科从你正在观看的节目中提取关键词，瞄准第二屏广告 TechCrunch
+# Innovid 和思科从你正在观看的节目中提取关键词，瞄准第二屏广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/06/innovid-cisco-keyword-targeting/>
 

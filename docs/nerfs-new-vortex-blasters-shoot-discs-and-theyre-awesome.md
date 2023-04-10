@@ -1,4 +1,4 @@
-# Nerf 的新涡流爆能枪射击光盘！他们太棒了！TechCrunch
+# Nerf 的新涡流爆能枪射击光盘！他们太棒了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/13/nerfs-new-vortex-blasters-shoot-discs-and-theyre-awesome/>
 

@@ -1,4 +1,4 @@
-# 谷歌宣布计划将光纤网络扩展到另外 34 个美国城市 TechCrunch
+# 谷歌宣布计划将光纤网络扩展到另外 34 个美国城市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/google-plans-to-expand-fiber-to-34-additional-u-s-cities/>
 

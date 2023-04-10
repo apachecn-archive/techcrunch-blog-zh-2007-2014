@@ -1,4 +1,4 @@
-# 更多的性爱视频给大家！YouTube 向出价最高者出售视频搜索结果 TechCrunch
+# 更多的性爱视频给大家！YouTube 向出价最高者出售视频搜索结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/more-sex-videos-for-everyone-youtube-sells-video-search-results-to-the-highest-bidder/>
 

@@ -1,4 +1,4 @@
-# 报告:对 2010 年移动应用商店繁荣的分析 TechCrunch
+# 报告:对 2010 年移动应用商店繁荣的分析 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/07/distimo-2010-mobile-app-store-boom/>
 

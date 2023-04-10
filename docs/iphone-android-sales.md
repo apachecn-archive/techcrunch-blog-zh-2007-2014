@@ -1,4 +1,4 @@
-# 等等，这么说 4 家运营商的 20 部手机销量超过了 1 家运营商的 1 部？令人震惊。TechCrunch
+# 等等，这么说 4 家运营商的 20 部手机销量超过了 1 家运营商的 1 部？令人震惊。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/02/iphone-android-sales/>
 

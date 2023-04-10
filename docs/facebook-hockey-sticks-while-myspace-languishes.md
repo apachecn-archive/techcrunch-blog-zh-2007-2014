@@ -1,4 +1,4 @@
-# 脸书曲棍球棒，MySpace 萎靡不振 TechCrunch
+# 脸书曲棍球棒，MySpace 萎靡不振 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/23/facebook-hockey-sticks-while-myspace-languishes/>
 

@@ -1,4 +1,4 @@
-# 关注女性的加速器“女性创新手机”宣布首批参与者 TechCrunch
+# 关注女性的加速器“女性创新手机”宣布首批参与者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/02/female-focused-accelerator-women-in-mobile-announces-its-first-participants/>
 

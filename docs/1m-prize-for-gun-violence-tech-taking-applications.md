@@ -1,4 +1,4 @@
-# 100 万美元的枪支安全技术奖正在接受申请 TechCrunch
+# 100 万美元的枪支安全技术奖正在接受申请 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/1m-prize-for-gun-violence-tech-taking-applications/>
 

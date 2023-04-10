@@ -1,4 +1,4 @@
-# MobaMingle 为移动社交网络增添了日本特色 TechCrunch
+# MobaMingle 为移动社交网络增添了日本特色 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/02/mobamingle-adds-a-japanese-flavor-to-mobile-social-networks/>
 

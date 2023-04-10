@@ -1,4 +1,4 @@
-# 谷歌任命光纤副总裁，推迟宣布将在何处推出 TechCrunch
+# 谷歌任命光纤副总裁，推迟宣布将在何处推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/15/google-fiber-roll-out/>
 

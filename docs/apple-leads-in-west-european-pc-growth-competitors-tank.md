@@ -1,4 +1,4 @@
-# 苹果引领西欧个人电脑增长，竞争对手击败 TechCrunch
+# 苹果引领西欧个人电脑增长，竞争对手击败 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/apple-leads-in-west-european-pc-growth-competitors-tank/>
 

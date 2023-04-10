@@ -1,4 +1,4 @@
-# Conduit Labs 完成 550 万美元的首轮融资——TechCrunch
+# Conduit Labs 完成 550 万美元的首轮融资——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/conduit-labs-closes-55-million-series-a-funding/>
 

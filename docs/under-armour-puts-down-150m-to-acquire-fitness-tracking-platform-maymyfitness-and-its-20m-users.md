@@ -1,4 +1,4 @@
-# 安德玛以 1.5 亿美元收购移动健身领域的老牌公司 MapMyFitness，以期跟上数字健身领域的步伐 TechCrunch
+# 安德玛以 1.5 亿美元收购移动健身领域的老牌公司 MapMyFitness，以期跟上数字健身领域的步伐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/under-armour-puts-down-150m-to-acquire-fitness-tracking-platform-maymyfitness-and-its-20m-users/>
 

@@ -1,4 +1,4 @@
-# ChaCha 转脸书社交问答；推出 API TechCrunch
+# ChaCha 转脸书社交问答；推出 API 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/02/15/chacha-turns-to-facebook-to-socialize-questions-and-answers/>
 

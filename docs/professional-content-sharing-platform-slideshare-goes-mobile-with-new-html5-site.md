@@ -1,4 +1,4 @@
-# 专业内容共享平台 SlideShare 通过新的 HTML5 网站实现移动化 TechCrunch
+# 专业内容共享平台 SlideShare 通过新的 HTML5 网站实现移动化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/professional-content-sharing-platform-slideshare-goes-mobile-with-new-html5-site/>
 

@@ -1,4 +1,4 @@
-# 从初创公司到孵化器:游戏发行商 HitFox 推出 HitFox Game Ventures TechCrunch
+# 从初创公司到孵化器:游戏发行商 HitFox 推出 HitFox Game Ventures 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/from-startup-to-incubator-games-publisher-hitfox-launches-hitfox-game-ventures/>
 

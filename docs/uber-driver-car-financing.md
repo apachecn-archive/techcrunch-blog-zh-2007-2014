@@ -1,4 +1,4 @@
-# 优步达成协议，降低司机的汽车拥有成本 TechCrunch
+# 优步达成协议，降低司机的汽车拥有成本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/24/uber-driver-car-financing/>
 

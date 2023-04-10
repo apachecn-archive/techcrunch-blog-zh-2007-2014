@@ -1,4 +1,4 @@
-# Jolicloud 致力于组织您的在线“个人云”生活 TechCrunch
+# Jolicloud 致力于组织您的在线“个人云”生活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/jolicloud-pivots-up-organise-your-personal-cloud-life-online/>
 

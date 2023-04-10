@@ -1,4 +1,4 @@
-# Glide 的下载量超过 350 万次，每天分享的视频超过 1200 万秒 TechCrunch
+# Glide 的下载量超过 350 万次，每天分享的视频超过 1200 万秒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/glide-tops-3-5m-downloads-with-over-12-million-seconds-of-video-shared-each-day/>
 

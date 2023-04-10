@@ -1,4 +1,4 @@
-# Digg 正在开发一个工具栏来追踪 StumbleUpon、TinyURL 和所有其他的 TechCrunch
+# Digg 正在开发一个工具栏来追踪 StumbleUpon、TinyURL 和所有其他的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/26/digg-is-working-on-a-toolbar-to-go-after-stumbleupon-tinyurl-and-all-the-rest/>
 

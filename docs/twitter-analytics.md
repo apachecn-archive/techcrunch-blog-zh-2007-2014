@@ -1,4 +1,4 @@
-# Twitter 打开网络分析的和服；现在有 300 万个网站在使用 Tweet 按钮 TechCrunch
+# Twitter 打开网络分析的和服；现在有 300 万个网站在使用 Tweet 按钮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/twitter-analytics/>
 

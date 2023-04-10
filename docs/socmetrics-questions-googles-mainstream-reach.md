@@ -1,4 +1,4 @@
-# SocMetrics 质疑 Google+的主流影响力 TechCrunch
+# SocMetrics 质疑 Google+的主流影响力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/socmetrics-questions-googles-mainstream-reach/>
 

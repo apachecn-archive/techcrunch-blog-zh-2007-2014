@@ -1,4 +1,4 @@
-# 即将发布:Tinychat 面向脸书的 12 路群组视频聊天应用程序 TechCrunch
+# 即将发布:Tinychat 面向脸书的 12 路群组视频聊天应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/coming-soon-tinychats-12-way-group-video-chat-app-for-facebook/>
 

@@ -1,4 +1,4 @@
-# RIM 的新 PlayBook 宣传片:所有型号售价 299 美元 TechCrunch
+# RIM 的新 PlayBook 宣传片:所有型号售价 299 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/rims-new-playbook-promo-all-models-for-299/>
 

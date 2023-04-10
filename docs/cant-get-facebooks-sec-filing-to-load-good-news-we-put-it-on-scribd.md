@@ -1,4 +1,4 @@
-# 无法加载脸书的证券交易委员会文件？好消息，我们这里有 TechCrunch
+# 无法加载脸书的证券交易委员会文件？好消息，我们这里有 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/01/cant-get-facebooks-sec-filing-to-load-good-news-we-put-it-on-scribd/>
 

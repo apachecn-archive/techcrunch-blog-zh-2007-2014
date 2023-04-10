@@ -1,4 +1,4 @@
-# TC50: Grockit，比任何模拟测试都好的多人学习游戏 TechCrunch
+# TC50: Grockit，比任何模拟测试都好的多人学习游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/10/tc50-grockit-the-multiplayer-learning-game-thats-better-than-any-practice-test/>
 

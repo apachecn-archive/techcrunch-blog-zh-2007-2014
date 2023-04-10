@@ -1,4 +1,4 @@
-# 惠普 TouchPad Go 照片泄露:这是一个死气沉沉的 7 英寸平板电脑的样子 TechCrunch
+# 惠普 TouchPad Go 照片泄露:这是一个死气沉沉的 7 英寸平板电脑的样子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/hp-touchpad-go-photos-leaked-heres-what-a-dead-7-inch-tablet-looks-like/>
 

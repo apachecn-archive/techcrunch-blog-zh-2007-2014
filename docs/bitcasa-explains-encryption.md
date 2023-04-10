@@ -1,4 +1,4 @@
-# 终于！Bitcasa 首席执行官解释加密的工作原理 TechCrunch
+# 终于！Bitcasa 首席执行官解释加密的工作原理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/18/bitcasa-explains-encryption/>
 

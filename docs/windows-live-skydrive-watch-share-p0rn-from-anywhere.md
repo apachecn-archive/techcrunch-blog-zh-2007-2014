@@ -1,4 +1,4 @@
-# Windows Live SkyDrive:随时随地观看、分享精彩内容–TechCrunch
+# Windows Live SkyDrive:随时随地观看、分享精彩内容–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/windows-live-skydrive-watch-share-p0rn-from-anywhere/>
 

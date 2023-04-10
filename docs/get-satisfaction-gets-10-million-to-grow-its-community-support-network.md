@@ -1,4 +1,4 @@
-# Get Satisfaction 获得 1000 万美元用于发展其社区支持网络 TechCrunch
+# Get Satisfaction 获得 1000 万美元用于发展其社区支持网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/get-satisfaction-gets-10-million-to-grow-its-community-support-network/>
 

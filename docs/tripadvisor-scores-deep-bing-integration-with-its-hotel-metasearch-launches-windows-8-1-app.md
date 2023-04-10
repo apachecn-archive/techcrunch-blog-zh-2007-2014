@@ -1,4 +1,4 @@
-# 猫途鹰酒店元搜索深度整合必应，推出 Windows 8.1 应用 TechCrunch
+# 猫途鹰酒店元搜索深度整合必应，推出 Windows 8.1 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/21/tripadvisor-scores-deep-bing-integration-with-its-hotel-metasearch-launches-windows-8-1-app/>
 

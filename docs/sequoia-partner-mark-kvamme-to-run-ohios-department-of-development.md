@@ -1,4 +1,4 @@
-# 红杉资本合伙人马克·克瓦梅将执掌俄亥俄州发展部 TechCrunch
+# 红杉资本合伙人马克·克瓦梅将执掌俄亥俄州发展部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/07/sequoia-partner-mark-kvamme-to-run-ohios-department-of-development/>
 

@@ -1,4 +1,4 @@
-# 不要让脸书把新的侧写强加给你。以下是如何找回旧的 TechCrunch
+# 不要让脸书把新的侧写强加给你。以下是如何找回旧的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/09/16/dont-let-facebook-force-the-new-profile-on-you-heres-how-to-get-the-old-one-back/>
 

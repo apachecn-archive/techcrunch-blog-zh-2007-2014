@@ -1,4 +1,4 @@
-# Embedly Pro 允许您的应用程序嵌入来自任何链接的内容 TechCrunch
+# Embedly Pro 允许您的应用程序嵌入来自任何链接的内容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/embedly-pro-lets-developers-embed-content-from-any-link/>
 

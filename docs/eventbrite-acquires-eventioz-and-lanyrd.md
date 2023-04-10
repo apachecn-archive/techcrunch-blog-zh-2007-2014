@@ -1,4 +1,4 @@
-# Eventbrite 进行了首次收购，收购了票务服务公司 Eventioz 和活动数据公司 Lanyrd TechCrunch
+# Eventbrite 进行了首次收购，收购了票务服务公司 Eventioz 和活动数据公司 Lanyrd 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/03/eventbrite-acquires-eventioz-and-lanyrd/>
 

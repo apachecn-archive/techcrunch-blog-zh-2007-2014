@@ -1,4 +1,4 @@
-# 社交媒体营销初创公司 Salorix 获得 350 万美元 A 轮 TechCrunch
+# 社交媒体营销初创公司 Salorix 获得 350 万美元 A 轮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/social-media-marketing-startup-salorix-lands-3-5m-series-a/>
 

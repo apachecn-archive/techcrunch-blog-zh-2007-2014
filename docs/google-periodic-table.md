@@ -1,4 +1,4 @@
-# 俏皮:谷歌的元素 API 周期表 TechCrunch
+# 俏皮:谷歌的元素 API 周期表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/google-periodic-table/>
 

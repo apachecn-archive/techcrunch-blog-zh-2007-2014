@@ -1,4 +1,4 @@
-# CNN 称所有设备的移动应用下载量达到 1000 万 TechCrunch
+# CNN 称所有设备的移动应用下载量达到 1000 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/cnn-10-million-mobile-app-downloads/>
 

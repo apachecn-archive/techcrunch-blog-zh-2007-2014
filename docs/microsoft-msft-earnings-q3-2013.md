@@ -1,4 +1,4 @@
-# 微软 2013 年第三季度业绩超出预期，每股收益 0.72 美元，收入 204.9 亿美元，首席财务官 Peter Klein 离开 TechCrunch
+# 微软 2013 年第三季度业绩超出预期，每股收益 0.72 美元，收入 204.9 亿美元，首席财务官 Peter Klein 离开 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/18/microsoft-msft-earnings-q3-2013/>
 

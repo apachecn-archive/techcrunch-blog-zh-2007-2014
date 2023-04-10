@@ -1,4 +1,4 @@
-# YouTube 现在将 2D 视频转换为 3D，取消了验证用户 15 分钟的限制 TechCrunch
+# YouTube 现在将 2D 视频转换为 3D，取消了验证用户 15 分钟的限制 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/youtube-can-now-convert-2d-videos-to-3d-removes-15-minute-limit-for-verified-users/>
 

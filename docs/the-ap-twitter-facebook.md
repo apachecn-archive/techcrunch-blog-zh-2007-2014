@@ -1,4 +1,4 @@
-# 美联社通过推特将人们送往脸书。等等。什么？TechCrunch
+# 美联社通过推特将人们送往脸书。等等。什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/20/the-ap-twitter-facebook/>
 

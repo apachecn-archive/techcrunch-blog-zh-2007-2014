@@ -1,4 +1,4 @@
-# 健康 2.0:创新者、机会主义者和妄想者 TechCrunch
+# 健康 2.0:创新者、机会主义者和妄想者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/09/health-2-0-innovators-opportunists-delusionals/>
 

@@ -1,4 +1,4 @@
-# 微软推出芒果的新游戏中心功能和 Xbox Live 游戏 TechCrunch
+# 微软推出芒果的新游戏中心功能和 Xbox Live 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/microsoft-unveils-mangos-new-games-hub-features-and-xbox-live-titles/>
 

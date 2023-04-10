@@ -1,4 +1,4 @@
-# Quip，前 FB 首席技术官 Bret Taylor 的文字处理应用程序，获得了一个类似的按钮，主题和更多 TechCrunch
+# Quip，前 FB 首席技术官 Bret Taylor 的文字处理应用程序，获得了一个类似的按钮，主题和更多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/quip-the-word-processing-app-from-ex-fb-cto-bret-taylor-gets-more-social-with-like-button-comments-and-page-themes/>
 

@@ -1,4 +1,4 @@
-# 三星在 2012 年获得了最多的移动专利，目前在全球领先 TechCrunch
+# 三星在 2012 年获得了最多的移动专利，目前在全球领先 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/samsung-received-the-most-mobile-patents-in-2012-now-leads-the-world-overall/>
 

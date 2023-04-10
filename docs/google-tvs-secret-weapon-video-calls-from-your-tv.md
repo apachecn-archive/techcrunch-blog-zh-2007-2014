@@ -1,4 +1,4 @@
-# 谷歌电视的秘密武器:电视视频通话 TechCrunch
+# 谷歌电视的秘密武器:电视视频通话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/04/google-tvs-secret-weapon-video-calls-from-your-tv/>
 

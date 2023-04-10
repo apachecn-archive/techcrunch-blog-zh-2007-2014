@@ -1,4 +1,4 @@
-# 环境监管机构报告指责苹果违规 TechCrunch
+# 环境监管机构报告指责苹果违规 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/environmental-watchdog-report-calls-apple-to-task-for-suppliers-violations/>
 

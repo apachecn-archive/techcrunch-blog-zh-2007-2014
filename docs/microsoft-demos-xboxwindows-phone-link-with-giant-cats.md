@@ -1,4 +1,4 @@
-# 微软演示 Xbox/Windows Phone 与大猫的链接 TechCrunch
+# 微软演示 Xbox/Windows Phone 与大猫的链接 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/microsoft-demos-xboxwindows-phone-link-with-giant-cats/>
 

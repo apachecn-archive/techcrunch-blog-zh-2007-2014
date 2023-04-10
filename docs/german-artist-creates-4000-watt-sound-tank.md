@@ -1,4 +1,4 @@
-# 德国艺术家创造 4000 瓦音箱 TechCrunch
+# 德国艺术家创造 4000 瓦音箱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/german-artist-creates-4000-watt-sound-tank/>
 

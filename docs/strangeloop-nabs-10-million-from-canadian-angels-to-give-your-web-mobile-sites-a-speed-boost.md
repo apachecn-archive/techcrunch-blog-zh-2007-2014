@@ -1,4 +1,4 @@
-# Strangeloop 从加拿大天使投资人那里获得 1000 万美元，让你的网络和移动网站提速 TechCrunch
+# Strangeloop 从加拿大天使投资人那里获得 1000 万美元，让你的网络和移动网站提速 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/strangeloop-nabs-10-million-from-canadian-angels-to-give-your-web-mobile-sites-a-speed-boost/>
 

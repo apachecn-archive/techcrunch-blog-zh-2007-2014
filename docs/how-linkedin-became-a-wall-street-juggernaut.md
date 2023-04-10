@@ -1,4 +1,4 @@
-# LinkedIn 如何成为华尔街巨头 TechCrunch
+# LinkedIn 如何成为华尔街巨头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/17/how-linkedin-became-a-wall-street-juggernaut/>
 

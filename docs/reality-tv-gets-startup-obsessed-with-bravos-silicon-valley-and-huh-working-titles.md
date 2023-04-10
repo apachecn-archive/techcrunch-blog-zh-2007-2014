@@ -1,4 +1,4 @@
-# 真人秀让初创公司痴迷于 Bravo 的“硅谷”和“嗯？”(工作头衔)TechCrunch
+# 真人秀让初创公司痴迷于 Bravo 的“硅谷”和“嗯？”(工作头衔)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/04/reality-tv-gets-startup-obsessed-with-bravos-silicon-valley-and-huh-working-titles/>
 

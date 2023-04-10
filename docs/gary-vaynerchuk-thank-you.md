@@ -1,4 +1,4 @@
-# 加里·维纳查克，谢谢你无视我的来电 TechCrunch
+# 加里·维纳查克，谢谢你无视我的来电 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/25/gary-vaynerchuk-thank-you/>
 

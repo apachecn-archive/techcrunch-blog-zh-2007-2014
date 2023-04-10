@@ -1,4 +1,4 @@
-# PSA:用 4 英尺厚的混凝土覆盖 iPhone 可能会影响信号强度 TechCrunch
+# PSA:用 4 英尺厚的混凝土覆盖 iPhone 可能会影响信号强度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/08/verizon-iphone-antenna/>
 

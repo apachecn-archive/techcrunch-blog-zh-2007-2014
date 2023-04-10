@@ -1,4 +1,4 @@
-# 索尼爱立信澄清 Xperia 冰淇淋三明治计划 TechCrunch
+# 索尼爱立信澄清 Xperia 冰淇淋三明治计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/sony-ericsson-clarifies-xperia-ice-cream-sandwich-plans/>
 

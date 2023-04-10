@@ -1,4 +1,4 @@
-# Greystripe 华而不实的 iOS 广告帮助移动广告网络的收入增长了 400% TechCrunch
+# Greystripe 华而不实的 iOS 广告帮助移动广告网络的收入增长了 400% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/07/greystripes-flashy-ios-ads-boost-mobile-ad-networks-revenue-by-50-percent/>
 

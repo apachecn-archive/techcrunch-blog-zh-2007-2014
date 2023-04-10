@@ -1,4 +1,4 @@
-# 意外之喜的神话 TechCrunch
+# 意外之喜的神话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/27/myth-serendipity/>
 

@@ -1,4 +1,4 @@
-# 在特斯拉汽车公司担任首席信息官，这是一家制造汽车和自有 IT 的初创公司 TechCrunch
+# 在特斯拉汽车公司担任首席信息官，这是一家制造汽车和自有 IT 的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/31/being-a-cio-at-tesla-motors-a-startup-that-builds-cars-and-its-own-it/>
 

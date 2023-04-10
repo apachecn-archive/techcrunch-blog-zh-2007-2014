@@ -1,4 +1,4 @@
-# 在现实生活中的马里奥赛车，“我会赢的！”TechCrunch
+# 在现实生活中的马里奥赛车，“我会赢的！”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/14/in-real-life-mario-kart-im-a-gonna-win/>
 

@@ -1,4 +1,4 @@
-# Evomail 基于手势的电子邮件应用程序登陆 Android TechCrunch
+# Evomail 基于手势的电子邮件应用程序登陆 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/05/evomails-gesture-based-email-app-arrives-android/>
 

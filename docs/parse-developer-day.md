@@ -1,4 +1,4 @@
-# Parse 通过分析、后台作业和 Web 奇偶校验充实了移动后端服务 TechCrunch
+# Parse 通过分析、后台作业和 Web 奇偶校验充实了移动后端服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/05/parse-developer-day/>
 

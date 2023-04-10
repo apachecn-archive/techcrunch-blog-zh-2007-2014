@@ -1,4 +1,4 @@
-# Rackspace 收购 Mailgun，这是一家 Y Combinator 初创公司，为应用程序开发人员提供创建和管理在线邮箱的 API TechCrunch
+# Rackspace 收购 Mailgun，这是一家 Y Combinator 初创公司，为应用程序开发人员提供创建和管理在线邮箱的 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/rackspace-acquires-y-combinator-startup-mailgun-an-api-that-abstracts-creating-email-inboxes-for-apps-and-web-sites/>
 

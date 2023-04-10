@@ -1,4 +1,4 @@
-# GorillaTorch:磁性柔性手电筒 TechCrunch
+# GorillaTorch:磁性柔性手电筒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/gorillatorch-the-magnetic-flexible-flashlight/>
 

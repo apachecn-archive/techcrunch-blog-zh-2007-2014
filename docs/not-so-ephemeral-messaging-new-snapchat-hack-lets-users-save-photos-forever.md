@@ -1,4 +1,4 @@
-# 不那么短暂的信息:新的 SnapChat“黑客”让用户永远保存照片 TechCrunch
+# 不那么短暂的信息:新的 SnapChat“黑客”让用户永远保存照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/22/not-so-ephemeral-messaging-new-snapchat-hack-lets-users-save-photos-forever/>
 

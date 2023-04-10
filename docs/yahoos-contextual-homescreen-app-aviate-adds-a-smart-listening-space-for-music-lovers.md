@@ -1,4 +1,4 @@
-# 雅虎的上下文主屏幕应用 Aviate 为音乐爱好者增加了一个智能“聆听空间”TechCrunch
+# 雅虎的上下文主屏幕应用 Aviate 为音乐爱好者增加了一个智能“聆听空间”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/12/yahoos-contextual-homescreen-app-aviate-adds-a-smart-listening-space-for-music-lovers/>
 

@@ -1,4 +1,4 @@
-# Carrier IQ 收回他们的 C&D，向他们骚扰的 Android 研究员道歉 TechCrunch
+# Carrier IQ 收回他们的 C&D，向他们骚扰的 Android 研究员道歉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/23/carrier-iq-retracts-their-cd-apologizes-to-the-android-researcher/>
 

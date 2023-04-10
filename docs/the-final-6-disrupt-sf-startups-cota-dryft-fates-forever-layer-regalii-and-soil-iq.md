@@ -1,4 +1,4 @@
-# 最终 6 家扰乱 SF 的初创公司:Cota、Dryft、Fates Forever、Layer、Regalii 和 Soil IQ TechCrunch
+# 最终 6 家扰乱 SF 的初创公司:Cota、Dryft、Fates Forever、Layer、Regalii 和 Soil IQ 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/10/the-final-6-disrupt-sf-startups-cota-dryft-fates-forever-layer-regalii-and-soil-iq/>
 

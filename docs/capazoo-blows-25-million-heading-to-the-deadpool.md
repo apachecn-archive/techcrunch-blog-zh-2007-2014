@@ -1,4 +1,4 @@
-# Capazoo 砸下 2500 多万美元，走向死亡池 TechCrunch
+# Capazoo 砸下 2500 多万美元，走向死亡池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/19/capazoo-blows-25-million-heading-to-the-deadpool/>
 

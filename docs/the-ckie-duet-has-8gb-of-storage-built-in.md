@@ -1,4 +1,4 @@
-# CKIE Duet 内置 8GB 存储空间 TechCrunch
+# CKIE Duet 内置 8GB 存储空间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/the-ckie-duet-has-8gb-of-storage-built-in/>
 

@@ -1,4 +1,4 @@
-# sFund 支持的 Lockerz 希望成为年轻人的社交商务目的地 TechCrunch
+# sFund 支持的 Lockerz 希望成为年轻人的社交商务目的地 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/10/sfund-backed-lockerz-wants-to-be-a-social-commerce-destination-for-young-adults/>
 

@@ -1,4 +1,4 @@
-# SnapPages 瞄准 Wixes 和 Weeblys 的世界，进行了重大的新设计 TechCrunch
+# SnapPages 瞄准 Wixes 和 Weeblys 的世界，进行了重大的新设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/09/snappages-takes-aim-at-the-wixes-and-weeblys-of-the-world-with-major-new-redesign/>
 

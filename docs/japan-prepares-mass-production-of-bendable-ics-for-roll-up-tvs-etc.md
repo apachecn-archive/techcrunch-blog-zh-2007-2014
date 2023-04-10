@@ -1,4 +1,4 @@
-# 日本准备大规模生产可弯曲集成电路，用于可折叠电视等。TechCrunch
+# 日本准备大规模生产可弯曲集成电路，用于可折叠电视等。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/07/japan-prepares-mass-production-of-bendable-ics-for-roll-up-tvs-etc/>
 

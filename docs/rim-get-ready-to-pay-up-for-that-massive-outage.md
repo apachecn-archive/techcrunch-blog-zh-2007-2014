@@ -1,4 +1,4 @@
-# RIM，准备好为大规模停机买单吧 TechCrunch
+# RIM，准备好为大规模停机买单吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/rim-get-ready-to-pay-up-for-that-massive-outage/>
 

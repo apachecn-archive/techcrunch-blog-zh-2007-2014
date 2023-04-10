@@ -1,4 +1,4 @@
-# 谢尔盖·布林:我们已经触及了社交搜索的 1% TechCrunch
+# 谢尔盖·布林:我们已经触及了社交搜索的 1% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/sergey-brin-weve-touched-1-percent-of-what-social-search-can-be/>
 

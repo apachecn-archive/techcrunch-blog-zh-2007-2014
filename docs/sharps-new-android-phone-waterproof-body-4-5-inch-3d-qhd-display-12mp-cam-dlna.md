@@ -1,4 +1,4 @@
-# 夏普新款安卓手机:防水机身，4.5 英寸 3D QHD 显示屏，1200 万像素摄像头，DLNA TechCrunch
+# 夏普新款安卓手机:防水机身，4.5 英寸 3D QHD 显示屏，1200 万像素摄像头，DLNA 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/sharps-new-android-phone-waterproof-body-4-5-inch-3d-qhd-display-12mp-cam-dlna/>
 

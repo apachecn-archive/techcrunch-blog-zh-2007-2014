@@ -1,4 +1,4 @@
-# Demonoid 死了，转世即将来临 TechCrunch
+# Demonoid 死了，转世即将来临 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/10/demonoid-is-dead-reincarnation-imminent/>
 

@@ -1,4 +1,4 @@
-# CEATEC 2011:东芝硬盘/蓝光服务器记录 6 个频道 15 天的数字电视 TechCrunch
+# CEATEC 2011:东芝硬盘/蓝光服务器记录 6 个频道 15 天的数字电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/ceatec-2011-toshibas-hddblu-ray-server-records-15-days-of-digital-tv-from-6-channels/>
 

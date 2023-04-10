@@ -1,4 +1,4 @@
-# iPod 10 年 TechCrunch
+# iPod 10 年 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/10-years-of-the-ipod/>
 

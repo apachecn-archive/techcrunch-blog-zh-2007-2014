@@ -1,4 +1,4 @@
-# 这是 iPhone 4G IV Next-Gen X 屏幕吗？TechCrunch
+# 这是 iPhone 4G IV Next-Gen X 屏幕吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/29/is-this-the-iphone-4g-iv-next-gen-x-screen/>
 

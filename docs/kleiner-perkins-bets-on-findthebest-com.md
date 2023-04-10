@@ -1,4 +1,4 @@
-# 凯鹏华盈押注 FindTheBest.com TechCrunch
+# 凯鹏华盈押注 FindTheBest.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/01/kleiner-perkins-bets-on-findthebest-com/>
 

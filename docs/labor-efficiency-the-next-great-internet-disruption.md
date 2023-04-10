@@ -1,4 +1,4 @@
-# 劳动效率:下一次互联网大颠覆 TechCrunch
+# 劳动效率:下一次互联网大颠覆 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/04/labor-efficiency-the-next-great-internet-disruption/>
 

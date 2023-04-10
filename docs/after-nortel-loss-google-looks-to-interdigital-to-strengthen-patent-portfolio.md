@@ -1,4 +1,4 @@
-# 北电失利后，谷歌指望 InterDigital 加强专利组合 TechCrunch
+# 北电失利后，谷歌指望 InterDigital 加强专利组合 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/after-nortel-loss-google-looks-to-interdigital-to-strengthen-patent-portfolio/>
 

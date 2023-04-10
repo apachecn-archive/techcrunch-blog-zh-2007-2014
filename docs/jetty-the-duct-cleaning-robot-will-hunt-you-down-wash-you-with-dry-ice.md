@@ -1,4 +1,4 @@
-# 管道清洁机器人 Jetty 会追捕你，用干冰清洗你 TechCrunch
+# 管道清洁机器人 Jetty 会追捕你，用干冰清洗你 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/jetty-the-duct-cleaning-robot-will-hunt-you-down-wash-you-with-dry-ice/>
 

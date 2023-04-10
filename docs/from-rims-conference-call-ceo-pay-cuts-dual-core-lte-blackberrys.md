@@ -1,4 +1,4 @@
-# 来自 RIM 的电话会议:CEO 降薪&双核 LTE 黑莓 TechCrunch
+# 来自 RIM 的电话会议:CEO 降薪&双核 LTE 黑莓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/from-rims-conference-call-ceo-pay-cuts-dual-core-lte-blackberrys/>
 

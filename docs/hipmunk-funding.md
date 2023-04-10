@@ -1,4 +1,4 @@
-# Hipmunk Surfacing 新一轮 600 万美元，帮助您获得优惠机票 TechCrunch
+# Hipmunk Surfacing 新一轮 600 万美元，帮助您获得优惠机票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/hipmunk-funding/>
 

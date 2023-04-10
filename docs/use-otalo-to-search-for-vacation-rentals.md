@@ -1,4 +1,4 @@
-# 使用 Otalo 搜索度假租赁 TechCrunch
+# 使用 Otalo 搜索度假租赁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/06/use-otalo-to-search-for-vacation-rentals/>
 

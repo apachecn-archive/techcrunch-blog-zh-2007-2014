@@ -1,4 +1,4 @@
-# 互联网寒冬来袭 Mahalo 裁员 10% TechCrunch
+# 互联网寒冬来袭 Mahalo 裁员 10% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/22/internet-winter-hits-mahalo-cuts-10-of-staff/>
 

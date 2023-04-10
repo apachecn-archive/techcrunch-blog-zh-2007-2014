@@ -1,4 +1,4 @@
-# 雅虎推出 BravoNation。我不喜欢。TechCrunch
+# 雅虎推出 BravoNation。我不喜欢。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/24/yahoo-launches-bravonation-im-not-loving-it/>
 

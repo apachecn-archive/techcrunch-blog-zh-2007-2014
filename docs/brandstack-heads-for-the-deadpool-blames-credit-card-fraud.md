@@ -1,4 +1,4 @@
-# Brandstack 走向死亡池，指责信用卡欺诈 TechCrunch
+# Brandstack 走向死亡池，指责信用卡欺诈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/brandstack-heads-for-the-deadpool-blames-credit-card-fraud/>
 

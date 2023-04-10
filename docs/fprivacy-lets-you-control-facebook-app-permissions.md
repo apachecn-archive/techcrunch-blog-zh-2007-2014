@@ -1,4 +1,4 @@
-# fPrivacy 让您控制脸书应用权限 TechCrunch
+# fPrivacy 让您控制脸书应用权限 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/18/fprivacy-lets-you-control-facebook-app-permissions/>
 

@@ -1,4 +1,4 @@
-# 概念墨水亚当平板电脑用户元评论 TechCrunch
+# 概念墨水亚当平板电脑用户元评论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/25/notion-ink-adam-user-meta-review/>
 

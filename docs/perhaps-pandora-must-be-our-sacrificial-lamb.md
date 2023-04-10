@@ -1,4 +1,4 @@
-# 或许潘多拉必须成为我们的牺牲品 TechCrunch
+# 或许潘多拉必须成为我们的牺牲品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/16/perhaps-pandora-must-be-our-sacrificial-lamb/>
 

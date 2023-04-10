@@ -1,4 +1,4 @@
-# 还记得上网本吗？是的，联想已经停止在网上销售了 TechCrunch
+# 还记得上网本吗？是的，联想已经停止在网上销售了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/remember-netbooks-yeah-lenovo-has-stopped-selling-them-online/>
 

@@ -1,4 +1,4 @@
-# 随时随地裁剪虚拟优惠券:RetailMeNot 推出其首款 iOS 应用 TechCrunch
+# 随时随地裁剪虚拟优惠券:RetailMeNot 推出其首款 iOS 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/06/13/clipping-virtual-coupons-on-the-go-retailmenot-launches-its-first-ios-app/>
 

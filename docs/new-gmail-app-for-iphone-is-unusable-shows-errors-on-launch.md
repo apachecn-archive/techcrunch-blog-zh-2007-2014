@@ -1,4 +1,4 @@
-# iPhone 版新 Gmail 应用不可用，启动时显示错误 TechCrunch
+# iPhone 版新 Gmail 应用不可用，启动时显示错误 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/02/new-gmail-app-for-iphone-is-unusable-shows-errors-on-launch/>
 

@@ -1,4 +1,4 @@
-# Terrahawk 的 M.U.S.T .是一座移动警卫塔，位于一辆看起来阴暗的货车 TechCrunch
+# Terrahawk 的 M.U.S.T .是一座移动警卫塔，位于一辆看起来阴暗的货车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/terrahawks-m-u-s-t-is-a-mobile-guard-tower-in-a-shady-looking-van/>
 

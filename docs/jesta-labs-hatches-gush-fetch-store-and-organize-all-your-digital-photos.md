@@ -1,4 +1,4 @@
-# Jesta Labs Hatches Gush:获取、存储和组织您所有的数码照片 TechCrunch
+# Jesta Labs Hatches Gush:获取、存储和组织您所有的数码照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/jesta-labs-hatches-gush-fetch-store-and-organize-all-your-digital-photos/>
 

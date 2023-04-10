@@ -1,4 +1,4 @@
-# 好莱坞作家罢工:数百万人在线发展的机会 TechCrunch
+# 好莱坞作家罢工:数百万人在线发展的机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/05/hollywood-writers-strike-a-chance-for-millions-online-to-bloom/>
 

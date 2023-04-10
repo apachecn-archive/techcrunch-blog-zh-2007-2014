@@ -1,4 +1,4 @@
-# 苹果透露将收购地图技术公司 C3 TechCrunch
+# 苹果透露将收购地图技术公司 C3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/29/apple-revealed-as-purchaser-of-mapping-tech-company-c3/>
 

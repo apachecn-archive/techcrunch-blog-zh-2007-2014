@@ -1,4 +1,4 @@
-# TechCrunch 经典产品 TechCrunch
+# TechCrunch 经典产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/30/techcrunch-classics/>
 

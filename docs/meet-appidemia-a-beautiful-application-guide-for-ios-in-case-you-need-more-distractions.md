@@ -1,4 +1,4 @@
-# 会见 Appidemia，一个漂亮的 iOS 应用程序指南，以防你需要更多的分心 TechCrunch
+# 会见 Appidemia，一个漂亮的 iOS 应用程序指南，以防你需要更多的分心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/06/meet-appidemia-a-beautiful-application-guide-for-ios-in-case-you-need-more-distractions/>
 

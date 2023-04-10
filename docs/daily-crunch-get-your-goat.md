@@ -1,4 +1,4 @@
-# 每日危机:抓住你的羊 TechCrunch
+# 每日危机:抓住你的羊 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/daily-crunch-get-your-goat/>
 

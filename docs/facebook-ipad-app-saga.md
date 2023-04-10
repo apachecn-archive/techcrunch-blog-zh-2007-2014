@@ -1,4 +1,4 @@
-# 脸书的 iPad 应用程序在 5 月完成了功能，但他们不会发布，所以开发者退出了 TechCrunch
+# 脸书的 iPad 应用程序在 5 月完成了功能，但他们不会发布，所以开发者退出了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/facebook-ipad-app-saga/>
 

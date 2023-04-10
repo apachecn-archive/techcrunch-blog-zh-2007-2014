@@ -1,4 +1,4 @@
-# Kindle 来到 Mac 应用商店，已经是第五大免费应用 TechCrunch
+# Kindle 来到 Mac 应用商店，已经是第五大免费应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/10/kindle-mac-app-store/>
 

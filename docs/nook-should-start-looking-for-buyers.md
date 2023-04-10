@@ -1,4 +1,4 @@
-# Nook 应该开始寻找买家了 TechCrunch
+# Nook 应该开始寻找买家了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/09/nook-should-start-looking-for-buyers/>
 

@@ -1,4 +1,4 @@
-# 新的移动应用 Zoomingo 帮助你找到附近的销售 TechCrunch
+# 新的移动应用 Zoomingo 帮助你找到附近的销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/new-mobile-app-zoomingo-helps-you-find-nearby-sales/>
 

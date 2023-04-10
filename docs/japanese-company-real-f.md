@@ -1,4 +1,4 @@
-# 3DPF:日本公司创造出超逼真的 3D 人脸复制品 TechCrunch
+# 3DPF:日本公司创造出超逼真的 3D 人脸复制品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/10/japanese-company-real-f/>
 

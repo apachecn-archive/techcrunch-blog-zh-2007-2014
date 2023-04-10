@@ -1,4 +1,4 @@
-# 三星的 Galaxy S II 将冲击 T-Mobile、美国电话电报公司和 Sprint，但不会冲击威瑞森？TechCrunch
+# 三星的 Galaxy S II 将冲击 T-Mobile、美国电话电报公司和 Sprint，但不会冲击威瑞森？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/verizon-galaxy-s-ii/>
 

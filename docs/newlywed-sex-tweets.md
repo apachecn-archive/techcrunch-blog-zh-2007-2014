@@ -1,4 +1,4 @@
-# 伴郎操纵新婚夫妇的床在做爱时发微博。不是开玩笑。TechCrunch
+# 伴郎操纵新婚夫妇的床在做爱时发微博。不是开玩笑。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/12/newlywed-sex-tweets/>
 

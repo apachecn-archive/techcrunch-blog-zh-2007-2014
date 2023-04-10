@@ -1,4 +1,4 @@
-# 看看短信之王 4 info TechCrunch
+# 看看短信之王 4 info 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/02/10/a-look-at-4info-the-king-of-sms/>
 

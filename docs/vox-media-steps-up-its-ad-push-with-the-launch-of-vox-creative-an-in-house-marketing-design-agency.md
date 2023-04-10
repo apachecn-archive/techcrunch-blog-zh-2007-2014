@@ -1,4 +1,4 @@
-# Vox Media 通过推出 Vox Creative 加大广告力度，首席执行官 Jim Bankoff 表示公司今年将实现盈利 TechCrunch
+# Vox Media 通过推出 Vox Creative 加大广告力度，首席执行官 Jim Bankoff 表示公司今年将实现盈利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/29/vox-media-steps-up-its-ad-push-with-the-launch-of-vox-creative-an-in-house-marketing-design-agency/>
 

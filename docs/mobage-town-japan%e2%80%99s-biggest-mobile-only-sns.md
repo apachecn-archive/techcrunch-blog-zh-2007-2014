@@ -1,4 +1,4 @@
-# Mobage-town:日本最大的纯移动社交网络 TechCrunch
+# Mobage-town:日本最大的纯移动社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/16/mobage-town-japan%e2%80%99s-biggest-mobile-only-sns/>
 

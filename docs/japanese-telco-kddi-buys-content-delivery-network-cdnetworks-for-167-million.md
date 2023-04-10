@@ -1,4 +1,4 @@
-# 日本电信公司 KDDI 以 1.67 亿美元收购内容交付网络 CDNetworks TechCrunch
+# 日本电信公司 KDDI 以 1.67 亿美元收购内容交付网络 CDNetworks 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/japanese-telco-kddi-buys-content-delivery-network-cdnetworks-for-167-million/>
 

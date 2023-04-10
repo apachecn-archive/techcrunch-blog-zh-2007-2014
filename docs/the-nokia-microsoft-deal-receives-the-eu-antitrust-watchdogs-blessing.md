@@ -1,4 +1,4 @@
-# 诺基亚与微软的交易获得欧盟反垄断监管机构的批准 TechCrunch
+# 诺基亚与微软的交易获得欧盟反垄断监管机构的批准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/04/the-nokia-microsoft-deal-receives-the-eu-antitrust-watchdogs-blessing/>
 

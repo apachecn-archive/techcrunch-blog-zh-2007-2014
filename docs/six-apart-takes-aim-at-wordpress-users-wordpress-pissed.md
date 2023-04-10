@@ -1,4 +1,4 @@
-# Six Apart 瞄准 Wordpress 用户；Wordpress 生气了 TechCrunch
+# Six Apart 瞄准 Wordpress 用户；Wordpress 生气了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/11/six-apart-takes-aim-at-wordpress-users-wordpress-pissed/>
 

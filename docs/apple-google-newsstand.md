@@ -1,4 +1,4 @@
-# “数字报摊”竞赛变成了:苹果和谷歌谁更愿意欺骗用户？TechCrunch
+# “数字报摊”竞赛变成了:苹果和谷歌谁更愿意欺骗用户？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/02/apple-google-newsstand/>
 

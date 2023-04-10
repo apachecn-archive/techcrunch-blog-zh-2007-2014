@@ -1,4 +1,4 @@
-# FCC 将调查手机解锁禁令 TechCrunch
+# FCC 将调查手机解锁禁令 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/28/fcc-to-investigate-cell-phone-unlocking-ban/>
 

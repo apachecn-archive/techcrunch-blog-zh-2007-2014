@@ -1,4 +1,4 @@
-# HTC 规格表泄露，Bliss 和 Runnymede 获得详细信息 TechCrunch
+# HTC 规格表泄露，Bliss 和 Runnymede 获得详细信息 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/htc-spec-sheets-leaked-bliss-and-runnymede-get-detailed/>
 

@@ -1,4 +1,4 @@
-# LG 捆绑 3D 电视机、3D 蓝光播放器和 3D 眼镜 TechCrunch
+# LG 捆绑 3D 电视机、3D 蓝光播放器和 3D 眼镜 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/lg-bundles-3d-tv-set-3d-blu-ray-player-and-3d-glasses/>
 

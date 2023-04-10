@@ -1,4 +1,4 @@
-# 创业公司如何让客服规模化成牛逼？TechCrunch
+# 创业公司如何让客服规模化成牛逼？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/13/how-do-startups-make-customer-service-scale-into-awesomeness/>
 

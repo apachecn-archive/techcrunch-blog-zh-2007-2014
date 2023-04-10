@@ -1,4 +1,4 @@
-# 在国际扩张之前，Crowdfunder 又筹集了 100 万美元 TechCrunch
+# 在国际扩张之前，Crowdfunder 又筹集了 100 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/crowdfunder-raises-another-million-ahead-of-international-expansions/>
 

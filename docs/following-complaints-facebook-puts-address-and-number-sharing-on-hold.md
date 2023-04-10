@@ -1,4 +1,4 @@
-# 投诉后，脸书暂停地址和号码共享 TechCrunch
+# 投诉后，脸书暂停地址和号码共享 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/following-complaints-facebook-puts-address-and-number-sharing-on-hold/>
 

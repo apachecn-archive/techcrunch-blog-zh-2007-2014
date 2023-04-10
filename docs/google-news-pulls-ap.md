@@ -1,4 +1,4 @@
-# 福克西策略:谷歌新闻撤下美联社内容，因为合同即将续签 TechCrunch
+# 福克西策略:谷歌新闻撤下美联社内容，因为合同即将续签 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/11/google-news-pulls-ap/>
 

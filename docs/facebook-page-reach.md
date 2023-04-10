@@ -1,4 +1,4 @@
-# 脸书解释了新闻分类的四种方式，并坚持认为平均页面到达率没有下降 TechCrunch
+# 脸书解释了新闻分类的四种方式，并坚持认为平均页面到达率没有下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/facebook-page-reach/>
 

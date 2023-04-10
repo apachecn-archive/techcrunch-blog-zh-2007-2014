@@ -1,4 +1,4 @@
-# 皮尤报告:53%的互联网用户认为社交媒体影响政治 TechCrunch
+# 皮尤报告:53%的互联网用户认为社交媒体影响政治 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/pew-report-53-of-internet-users-believe-social-media-affects-politics/>
 

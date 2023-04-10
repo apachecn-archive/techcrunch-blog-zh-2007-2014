@@ -1,4 +1,4 @@
-# 技术正在摧毁工作吗？TechCrunch
+# 技术正在摧毁工作吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/technology-destroying-jobs/>
 

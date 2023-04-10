@@ -1,4 +1,4 @@
-# LinkedIn 是给老人用的吗？“喜欢那种会给你工作的人？”霍夫曼回应 TechCrunch
+# LinkedIn 是给老人用的吗？“喜欢那种会给你工作的人？”霍夫曼回应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/is-linked-in-for-old-people-like-the-kind-of-people-who-will-give-you-a-job-hoffman-responds/>
 

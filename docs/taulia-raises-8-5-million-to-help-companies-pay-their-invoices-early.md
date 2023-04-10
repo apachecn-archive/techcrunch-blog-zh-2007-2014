@@ -1,4 +1,4 @@
-# Taulia 筹集 850 万美元帮助公司提前支付发票 TechCrunch
+# Taulia 筹集 850 万美元帮助公司提前支付发票 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/taulia-raises-8-5-million-to-help-companies-pay-their-invoices-early/>
 

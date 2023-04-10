@@ -1,4 +1,4 @@
-# 托普斯为公开 Google+帖子推出实时搜索引擎 TechCrunch
+# 托普斯为公开 Google+帖子推出实时搜索引擎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/topsy-launches-realtime-search-engine-for-public-google-posts/>
 

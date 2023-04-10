@@ -1,4 +1,4 @@
-# BookRenter 筹集 1000 万美元成为教科书租赁的网飞 TechCrunch
+# BookRenter 筹集 1000 万美元成为教科书租赁的网飞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/03/bookrenter-raises-10-million-to-be-the-netflix-for-textbook-rentals/>
 

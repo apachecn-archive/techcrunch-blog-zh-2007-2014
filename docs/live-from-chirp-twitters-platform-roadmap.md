@@ -1,4 +1,4 @@
-# Chirp 直播:Twitter 的平台路线图 TechCrunch
+# Chirp 直播:Twitter 的平台路线图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/14/live-from-chirp-twitters-platform-roadmap/>
 

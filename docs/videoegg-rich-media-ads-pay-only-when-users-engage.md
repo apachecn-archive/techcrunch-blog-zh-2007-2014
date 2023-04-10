@@ -1,4 +1,4 @@
-# VideoEgg:富媒体广告，只有当用户参与时才付费 TechCrunch
+# VideoEgg:富媒体广告，只有当用户参与时才付费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/20/videoegg-rich-media-ads-pay-only-when-users-engage/>
 

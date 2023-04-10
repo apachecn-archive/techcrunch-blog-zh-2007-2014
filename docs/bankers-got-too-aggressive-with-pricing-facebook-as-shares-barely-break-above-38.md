@@ -1,4 +1,4 @@
-# 银行家们在给脸书定价时变得过于激进，因为他们努力将股价保持在 38 美元以上 TechCrunch
+# 银行家们在给脸书定价时变得过于激进，因为他们努力将股价保持在 38 美元以上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/18/bankers-got-too-aggressive-with-pricing-facebook-as-shares-barely-break-above-38/>
 

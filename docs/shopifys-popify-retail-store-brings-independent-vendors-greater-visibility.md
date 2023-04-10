@@ -1,4 +1,4 @@
-# Shopify 的 Popify 零售店为独立供应商带来了更高的知名度 TechCrunch
+# Shopify 的 Popify 零售店为独立供应商带来了更高的知名度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/05/shopifys-popify-retail-store-brings-independent-vendors-greater-visibility/>
 

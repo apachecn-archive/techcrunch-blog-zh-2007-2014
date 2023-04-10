@@ -1,4 +1,4 @@
-# iPad 是为 StumbleUpon 这样的东西设计的，现在他们有了一个有价值的应用 TechCrunch
+# iPad 是为 StumbleUpon 这样的东西设计的，现在他们有了一个有价值的应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/11/stumbleupon-ipad/>
 

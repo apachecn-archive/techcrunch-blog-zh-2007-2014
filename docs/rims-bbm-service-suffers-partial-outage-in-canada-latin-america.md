@@ -1,4 +1,4 @@
-# RIM 的 BBM 服务在加拿大和拉丁美洲部分中断 TechCrunch
+# RIM 的 BBM 服务在加拿大和拉丁美洲部分中断 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/rims-bbm-service-suffers-partial-outage-in-canada-latin-america/>
 

@@ -1,4 +1,4 @@
-# Alan Lomax 民间收藏将于 2 月开始播放 TechCrunch
+# Alan Lomax 民间收藏将于 2 月开始播放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/02/the-alan-lomax-folk-collection-will-be-available-for-streaming-in-february/>
 

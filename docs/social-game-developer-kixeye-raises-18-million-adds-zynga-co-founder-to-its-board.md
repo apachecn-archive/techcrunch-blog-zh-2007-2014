@@ -1,4 +1,4 @@
-# 社交游戏开发商 Kixeye 融资 1800 万美元，Zynga 联合创始人 Andrew Trader 加入董事会 TechCrunch
+# 社交游戏开发商 Kixeye 融资 1800 万美元，Zynga 联合创始人 Andrew Trader 加入董事会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/social-game-developer-kixeye-raises-18-million-adds-zynga-co-founder-to-its-board/>
 

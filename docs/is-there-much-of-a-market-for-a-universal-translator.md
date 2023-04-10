@@ -1,4 +1,4 @@
-# 通用翻译器有很大的市场吗？TechCrunch
+# 通用翻译器有很大的市场吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/08/is-there-much-of-a-market-for-a-universal-translator/>
 

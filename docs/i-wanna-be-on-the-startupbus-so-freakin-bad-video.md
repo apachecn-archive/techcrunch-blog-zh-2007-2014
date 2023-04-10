@@ -1,4 +1,4 @@
-# 我想成为“创业乐观主义者”...糟糕透顶(视频)的 TechCrunch
+# 我想成为“创业乐观主义者”...糟糕透顶(视频)的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/10/i-wanna-be-on-the-startupbus-so-freakin-bad-video/>
 

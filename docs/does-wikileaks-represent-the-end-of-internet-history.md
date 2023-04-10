@@ -1,4 +1,4 @@
-# 维基解密代表互联网历史的终结吗？TechCrunch
+# 维基解密代表互联网历史的终结吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/does-wikileaks-represent-the-end-of-internet-history/>
 

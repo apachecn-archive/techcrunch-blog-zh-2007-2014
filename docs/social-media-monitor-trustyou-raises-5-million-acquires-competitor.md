@@ -1,4 +1,4 @@
-# 社交媒体监视器 TrustYou 融资 500 万美元，收购竞争对手 TechCrunch
+# 社交媒体监视器 TrustYou 融资 500 万美元，收购竞争对手 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/social-media-monitor-trustyou-raises-5-million-acquires-competitor/>
 

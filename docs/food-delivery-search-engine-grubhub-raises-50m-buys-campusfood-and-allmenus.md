@@ -1,4 +1,4 @@
-# 食品配送搜索引擎 GrubHub 融资 5000 万美元，收购 Campusfood 和 all menus TechCrunch
+# 食品配送搜索引擎 GrubHub 融资 5000 万美元，收购 Campusfood 和 all menus 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/food-delivery-search-engine-grubhub-raises-50m-buys-campusfood-and-allmenus/>
 

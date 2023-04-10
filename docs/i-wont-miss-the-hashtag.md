@@ -1,4 +1,4 @@
-# Twitter #Music 今天将从 App Store 下架，并将于 4 月 18 日完全关闭 TechCrunch
+# Twitter #Music 今天将从 App Store 下架，并将于 4 月 18 日完全关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/21/i-wont-miss-the-hashtag/>
 

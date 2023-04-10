@@ -1,4 +1,4 @@
-# Mint 首次推出新的账单跟踪和提醒功能 TechCrunch
+# Mint 首次推出新的账单跟踪和提醒功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/mint-debuts-new-bill-tracking-and-reminder-feature/>
 

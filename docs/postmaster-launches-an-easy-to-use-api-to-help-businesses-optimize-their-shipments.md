@@ -1,4 +1,4 @@
-# Postmaster 推出易于使用的 API，帮助企业优化其发货 TechCrunch
+# Postmaster 推出易于使用的 API，帮助企业优化其发货 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/20/postmaster-launches-an-easy-to-use-api-to-help-businesses-optimize-their-shipments/>
 

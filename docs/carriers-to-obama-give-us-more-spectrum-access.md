@@ -1,4 +1,4 @@
-# 运营商对奥巴马:给我们更多的频谱接入！TechCrunch
+# 运营商对奥巴马:给我们更多的频谱接入！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/carriers-to-obama-give-us-more-spectrum-access/>
 

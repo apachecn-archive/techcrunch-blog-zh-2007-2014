@@ -1,4 +1,4 @@
-# 在过去的 100 天里，超过 34 亿张照片在 Google+上被分享 TechCrunch
+# 在过去的 100 天里，超过 34 亿张照片在 Google+上被分享 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/over-3-4-billion-photos-have-been-shared-on-google-in-the-past-100-days/>
 

@@ -1,4 +1,4 @@
-# 谷歌评论微软的安卓专利策略:这是敲诈 TechCrunch
+# 谷歌评论微软的安卓专利策略:这是敲诈 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/microsoft-samsung-extortion-google/>
 

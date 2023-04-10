@@ -1,4 +1,4 @@
-# 苹果 iPhone 在中国的销售“令人难以置信”，给中国带来 79 亿美元的收入 TechCrunch
+# 苹果 iPhone 在中国的销售“令人难以置信”，给中国带来 79 亿美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/24/apples-iphone-sales-in-china-are-up-by-fivefold-from-a-year-ago/>
 

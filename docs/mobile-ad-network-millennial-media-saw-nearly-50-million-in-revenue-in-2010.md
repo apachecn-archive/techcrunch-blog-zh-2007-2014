@@ -1,4 +1,4 @@
-# 移动广告网络 Millennial Media 2010 年的收入接近 5000 万美元 TechCrunch
+# 移动广告网络 Millennial Media 2010 年的收入接近 5000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/27/mobile-ad-network-millennial-media-saw-nearly-50-million-in-revenue-in-2010/>
 

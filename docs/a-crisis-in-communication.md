@@ -1,4 +1,4 @@
-# 2433 封未读邮件对创业者来说是一个机会 TechCrunch
+# 2433 封未读邮件对创业者来说是一个机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/23/a-crisis-in-communication/>
 

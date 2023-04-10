@@ -1,4 +1,4 @@
-# Jitterbit:弥合数据鸿沟的开源项目 TechCrunch
+# Jitterbit:弥合数据鸿沟的开源项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/18/jitterbit-the-open-source-project-that-bridges-data-gaps/>
 

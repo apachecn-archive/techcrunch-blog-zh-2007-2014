@@ -1,4 +1,4 @@
-# YC_Y_U_NO 给 Twitter 链接读者自动进入 YC？TechCrunch
+# YC_Y_U_NO 给 Twitter 链接读者自动进入 YC？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/21/yc_y_u_no-give-twitter-link-readers-auto-entry-into-yc/>
 

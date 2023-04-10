@@ -1,4 +1,4 @@
-# Twitter 现在可以知道你在哪里发推了 TechCrunch
+# Twitter 现在可以知道你在哪里发推了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/20/twitter-can-now-know-where-you-tweet/>
 

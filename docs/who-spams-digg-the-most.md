@@ -1,4 +1,4 @@
-# 谁给 Digg 发的垃圾邮件最多 TechCrunch
+# 谁给 Digg 发的垃圾邮件最多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/04/who-spams-digg-the-most/>
 

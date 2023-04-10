@@ -1,4 +1,4 @@
-# 祝贺 BIMA 获奖者，现在我们能有一个很酷的技术奖吗？TechCrunch
+# 祝贺 BIMA 获奖者，现在我们能有一个很酷的技术奖吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/30/congrats-to-bima-winners-now-can-we-have-a-cool-tech-awards-please/>
 

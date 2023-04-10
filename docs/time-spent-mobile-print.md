@@ -1,4 +1,4 @@
-# 手机在花费的时间上超过了印刷品，但没有获得广告费 TechCrunch
+# 手机在花费的时间上超过了印刷品，但没有获得广告费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/time-spent-mobile-print/>
 

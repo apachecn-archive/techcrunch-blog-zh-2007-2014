@@ -1,4 +1,4 @@
-# 虎头蛇尾:YouTube 宣布更多开放 API TechCrunch
+# 虎头蛇尾:YouTube 宣布更多开放 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/12/anticlimax-youtube-announces-more-open-apis/>
 

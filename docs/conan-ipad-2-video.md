@@ -1,4 +1,4 @@
-# 柯南烤 iPad 2:不管我们说什么你都会买[视频 TechCrunch
+# 柯南烤 iPad 2:不管我们说什么你都会买[视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/03/conan-ipad-2-video/>
 

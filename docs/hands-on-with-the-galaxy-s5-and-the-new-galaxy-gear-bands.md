@@ -1,4 +1,4 @@
-# 动手操作 Galaxy S5 和新的 Galaxy Gear Bands TechCrunch
+# 动手操作 Galaxy S5 和新的 Galaxy Gear Bands 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/hands-on-with-the-galaxy-s5-and-the-new-galaxy-gear-bands/>
 

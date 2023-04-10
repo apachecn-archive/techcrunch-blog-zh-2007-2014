@@ -1,4 +1,4 @@
-# 迪士尼/皮克斯收购首个 Twitter 热门话题广告 TechCrunch
+# 迪士尼/皮克斯收购首个 Twitter 热门话题广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/twitter-trending-topics-ad/>
 

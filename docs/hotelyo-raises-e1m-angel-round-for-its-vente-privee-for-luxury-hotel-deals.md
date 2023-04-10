@@ -1,4 +1,4 @@
-# Hotelyo 为其豪华酒店交易 Vente Privée 融资€100 万天使轮 TechCrunch
+# Hotelyo 为其豪华酒店交易 Vente Privée 融资€100 万天使轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/13/hotelyo-raises-e1m-angel-round-for-its-vente-privee-for-luxury-hotel-deals/>
 

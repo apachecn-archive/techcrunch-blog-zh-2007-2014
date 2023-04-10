@@ -1,4 +1,4 @@
-# Tableau 更新了其数据可视化软件，不幸的是，这是他们今年最大的产品新闻 TechCrunch
+# Tableau 更新了其数据可视化软件，不幸的是，这是他们今年最大的产品新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/21/tableau-updates-its-data-visualization-software-and-unfortunately-its-their-biggest-product-news-of-the-year/>
 

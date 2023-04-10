@@ -1,4 +1,4 @@
-# 我是如何在 500 家创业公司中被骗的 TechCrunch
+# 我是如何在 500 家创业公司中被骗的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/14/getting-ripped-at-500-startups/>
 

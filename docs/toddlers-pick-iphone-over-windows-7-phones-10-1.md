@@ -1,4 +1,4 @@
-# 初学走路的孩子选择 iPhone 而不是 Windows 7 手机 10-1 TechCrunch
+# 初学走路的孩子选择 iPhone 而不是 Windows 7 手机 10-1 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/04/toddlers-pick-iphone-over-windows-7-phones-10-1/>
 

@@ -1,4 +1,4 @@
-# Twitter:一天交付 10 亿件商品不错，Google+。我们做 3500 亿。TechCrunch
+# Twitter:一天交付 10 亿件商品不错，Google+。我们做 3500 亿。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/15/twitter-350-billion/>
 

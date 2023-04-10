@@ -1,4 +1,4 @@
-# FCC 分析揭示 ISP 速度的赢家和输家 TechCrunch
+# FCC 分析揭示 ISP 速度的赢家和输家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/fcc-analysis-reveals-isp-speed-winners-and-losers/>
 

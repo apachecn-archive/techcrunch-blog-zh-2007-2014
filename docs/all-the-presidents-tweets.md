@@ -1,4 +1,4 @@
-# 还记得推特是个笑话吗？没有人再笑了。TechCrunch
+# 还记得推特是个笑话吗？没有人再笑了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/all-the-presidents-tweets/>
 

@@ -1,4 +1,4 @@
-# 作者会梦想电子签名售书吗？Kindlegraph 希望如此 TechCrunch
+# 作者会梦想电子签名售书吗？Kindlegraph 希望如此 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/do-authors-dream-of-electric-book-signings-kindlegraph-hopes-so/>
 

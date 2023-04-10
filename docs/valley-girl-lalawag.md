@@ -1,4 +1,4 @@
-# 杰西·德雷珀的《山谷女孩》收购洛杉矶科技博客 Lalawag TechCrunch
+# 杰西·德雷珀的《山谷女孩》收购洛杉矶科技博客 Lalawag 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/11/valley-girl-lalawag/>
 

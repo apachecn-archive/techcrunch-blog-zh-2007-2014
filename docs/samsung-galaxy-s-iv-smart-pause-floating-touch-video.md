@@ -1,4 +1,4 @@
-# Galaxy S IV 现在是有史以来泄露最严重的发布会，因为智能暂停和浮动触摸的视频功能 Surface TechCrunch
+# Galaxy S IV 现在是有史以来泄露最严重的发布会，因为智能暂停和浮动触摸的视频功能 Surface 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/samsung-galaxy-s-iv-smart-pause-floating-touch-video/>
 

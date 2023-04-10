@@ -1,4 +1,4 @@
-# First Data 悄悄收购支付初创公司 Clover 为商家推出销售点平台 TechCrunch
+# First Data 悄悄收购支付初创公司 Clover 为商家推出销售点平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/09/first-data-quietly-buys-payments-startup-clover-launches-point-of-sale-platform-for-merchants/>
 

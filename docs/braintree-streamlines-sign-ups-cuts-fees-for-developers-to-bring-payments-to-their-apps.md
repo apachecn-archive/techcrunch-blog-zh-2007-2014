@@ -1,4 +1,4 @@
-# Braintree 简化了注册流程，降低了开发者为其应用付费的费用 TechCrunch
+# Braintree 简化了注册流程，降低了开发者为其应用付费的费用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/01/braintree-streamlines-sign-ups-cuts-fees-for-developers-to-bring-payments-to-their-apps/>
 

@@ -1,4 +1,4 @@
-# Salesforce 将胡宇威营销副总裁提升至首席运营官 TechCrunch
+# Salesforce 将胡宇威营销副总裁提升至首席运营官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/salesforce-promotes-evp-of-marketing-george-hu-to-coo/>
 

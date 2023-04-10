@@ -1,4 +1,4 @@
-# Seesmic 的黑莓应用程序现在比其他所有应用程序都要甜 TechCrunch
+# Seesmic 的黑莓应用程序现在比其他所有应用程序都要甜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/26/seesmics-blackberry-app-now-sweeter-than-all-the-others/>
 

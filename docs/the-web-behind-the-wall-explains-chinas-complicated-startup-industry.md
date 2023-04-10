@@ -1,4 +1,4 @@
-# 墙后的网络解释了中国复杂的创业行业 TechCrunch
+# 墙后的网络解释了中国复杂的创业行业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/the-web-behind-the-wall-explains-chinas-complicated-startup-industry/>
 

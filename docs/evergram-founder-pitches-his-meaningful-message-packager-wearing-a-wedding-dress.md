@@ -1,4 +1,4 @@
-# Evergram 创始人推介他穿着婚纱的有意义的信息包装者 TechCrunch
+# Evergram 创始人推介他穿着婚纱的有意义的信息包装者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/evergram-founder-pitches-his-meaningful-message-packager-wearing-a-wedding-dress/>
 

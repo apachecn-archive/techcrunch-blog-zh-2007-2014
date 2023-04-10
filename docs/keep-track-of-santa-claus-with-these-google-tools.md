@@ -1,4 +1,4 @@
-# 用这些谷歌工具追踪圣诞老人 TechCrunch
+# 用这些谷歌工具追踪圣诞老人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/keep-track-of-santa-claus-with-these-google-tools/>
 

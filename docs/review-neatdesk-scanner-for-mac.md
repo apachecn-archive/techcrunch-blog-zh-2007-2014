@@ -1,4 +1,4 @@
-# 点评:面向 Mac 的 NeatDesk 扫描仪 TechCrunch
+# 点评:面向 Mac 的 NeatDesk 扫描仪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/review-neatdesk-scanner-for-mac/>
 

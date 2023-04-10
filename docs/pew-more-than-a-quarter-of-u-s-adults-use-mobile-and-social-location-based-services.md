@@ -1,4 +1,4 @@
-# 皮尤:超过四分之一的美国成年人使用移动和基于位置的社交服务 TechCrunch
+# 皮尤:超过四分之一的美国成年人使用移动和基于位置的社交服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/pew-more-than-a-quarter-of-u-s-adults-use-mobile-and-social-location-based-services/>
 

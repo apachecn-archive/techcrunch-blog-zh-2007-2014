@@ -1,4 +1,4 @@
-# 策划设计购物俱乐部 MONOQI 启动，筹集资金(邀请)TechCrunch
+# 策划设计购物俱乐部 MONOQI 启动，筹集资金(邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/26/curated-design-shopping-club-monoqi-launches-raises-funding-invites-2/>
 

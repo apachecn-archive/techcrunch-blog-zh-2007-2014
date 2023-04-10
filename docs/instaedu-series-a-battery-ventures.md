@@ -1,4 +1,4 @@
-# 在线辅导平台 InstaEDU 融资 400 万美元由 Battery Ventures 领投 TechCrunch
+# 在线辅导平台 InstaEDU 融资 400 万美元由 Battery Ventures 领投 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/14/instaedu-series-a-battery-ventures/>
 

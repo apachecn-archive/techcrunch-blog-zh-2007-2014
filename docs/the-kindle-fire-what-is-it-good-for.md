@@ -1,4 +1,4 @@
-# Kindle Fire，它有什么用？TechCrunch
+# Kindle Fire，它有什么用？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/25/the-kindle-fire-what-is-it-good-for/>
 

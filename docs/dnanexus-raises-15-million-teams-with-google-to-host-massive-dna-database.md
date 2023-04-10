@@ -1,4 +1,4 @@
-# DNAnexus 筹集 1500 万美元，与谷歌合作托管大规模 DNA 数据库 TechCrunch
+# DNAnexus 筹集 1500 万美元，与谷歌合作托管大规模 DNA 数据库 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/dnanexus-raises-15-million-teams-with-google-to-host-massive-dna-database/>
 

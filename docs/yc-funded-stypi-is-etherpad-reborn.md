@@ -1,4 +1,4 @@
-# YC 资助的 Stypi 是 Etherpad 重生 TechCrunch
+# YC 资助的 Stypi 是 Etherpad 重生 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/yc-funded-stypi-is-etherpad-reborn/>
 

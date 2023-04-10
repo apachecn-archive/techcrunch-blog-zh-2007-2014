@@ -1,4 +1,4 @@
-# FriendFeed 是今年的 Twitter，但是为什么呢？TechCrunch
+# FriendFeed 是今年的 Twitter，但是为什么呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/14/friendfeed-is-this-years-twitter-but-why/>
 

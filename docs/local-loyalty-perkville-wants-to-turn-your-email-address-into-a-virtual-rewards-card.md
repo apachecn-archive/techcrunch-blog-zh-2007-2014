@@ -1,4 +1,4 @@
-# 本地忠诚度:Perkville 想把你的电子邮件地址变成虚拟奖励卡 TechCrunch
+# 本地忠诚度:Perkville 想把你的电子邮件地址变成虚拟奖励卡 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/local-loyalty-perkville-wants-to-turn-your-email-address-into-a-virtual-rewards-card/>
 

@@ -1,4 +1,4 @@
-# 世界上的电影摄像机制造商都悄悄地停止了电影摄像机的生产 TechCrunch
+# 世界上的电影摄像机制造商都悄悄地停止了电影摄像机的生产 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/the-worlds-movie-camera-makers-have-all-quietly-stopped-production-of-film-cameras/>
 

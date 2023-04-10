@@ -1,4 +1,4 @@
-# 在谈论运营商交易九个月后，FreedomPop 展示了它的第一个 Sprint 友好热点 TechCrunch
+# 在谈论运营商交易九个月后，FreedomPop 展示了它的第一个 Sprint 友好热点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/24/nine-months-after-talking-up-the-carrier-deal-freedompop-shows-off-its-first-sprint-friendly-hotspot/>
 

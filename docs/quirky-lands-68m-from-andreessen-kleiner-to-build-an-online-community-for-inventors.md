@@ -1,4 +1,4 @@
-# Quirky 从凯鹏华盈(Kleiner)的安德森投资 6800 万美元，为发明家建立一个在线社区 TechCrunch
+# Quirky 从凯鹏华盈(Kleiner)的安德森投资 6800 万美元，为发明家建立一个在线社区 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/quirky-lands-68m-from-andreessen-kleiner-to-build-an-online-community-for-inventors/>
 

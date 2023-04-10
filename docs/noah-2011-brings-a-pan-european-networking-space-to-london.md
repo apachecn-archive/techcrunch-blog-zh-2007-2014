@@ -1,4 +1,4 @@
-# 诺亚 2011 为伦敦带来了泛欧洲网络空间 TechCrunch
+# 诺亚 2011 为伦敦带来了泛欧洲网络空间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/12/noah-2011-brings-a-pan-european-networking-space-to-london/>
 

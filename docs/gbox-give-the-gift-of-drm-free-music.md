@@ -1,4 +1,4 @@
-# gBox:赠送无 DRM 音乐——TechCrunch
+# gBox:赠送无 DRM 音乐——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/gbox-give-the-gift-of-drm-free-music/>
 

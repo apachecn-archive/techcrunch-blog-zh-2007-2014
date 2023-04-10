@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:索尼爱立信 W850i TechCrunch
+# 10 天的 CrunchGear 赠品:索尼爱立信 W850i 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/18/10-days-of-crunchgear-giveaway-sony-ericsson-w850i/>
 

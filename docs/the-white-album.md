@@ -1,4 +1,4 @@
-# 白色专辑 TechCrunch
+# 白色专辑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/04/the-white-album/>
 

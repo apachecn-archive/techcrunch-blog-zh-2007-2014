@@ -1,4 +1,4 @@
-# 尽管遭到酒吧的反对，苹果将强制 iTunes 订阅付费 TechCrunch
+# 尽管遭到酒吧的反对，苹果将强制 iTunes 订阅付费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/08/apple-subscription-itunes/>
 

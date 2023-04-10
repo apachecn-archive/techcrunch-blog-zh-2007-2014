@@ -1,4 +1,4 @@
-# 深入了解微软最新数据可视化工具 TechCrunch
+# 深入了解微软最新数据可视化工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/04/meet-pivot-microsofts-newest-data-visualization-tool/>
 

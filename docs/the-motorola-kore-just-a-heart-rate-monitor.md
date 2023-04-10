@@ -1,4 +1,4 @@
-# 摩托罗拉·科尔:仅仅是一个心率监测器？TechCrunch
+# 摩托罗拉·科尔:仅仅是一个心率监测器？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/the-motorola-kore-just-a-heart-rate-monitor/>
 

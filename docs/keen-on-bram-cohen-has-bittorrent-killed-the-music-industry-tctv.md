@@ -1,4 +1,4 @@
-# 热衷于...布拉姆·科恩:BitTorrent 扼杀了音乐产业吗？TechCrunch
+# 热衷于...布拉姆·科恩:BitTorrent 扼杀了音乐产业吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/15/keen-on-bram-cohen-has-bittorrent-killed-the-music-industry-tctv/>
 

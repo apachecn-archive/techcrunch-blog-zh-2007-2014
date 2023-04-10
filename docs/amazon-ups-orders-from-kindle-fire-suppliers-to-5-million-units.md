@@ -1,4 +1,4 @@
-# 亚马逊 Ups 来自 Kindle Fire 供应商的订单达到 500 万台 TechCrunch
+# 亚马逊 Ups 来自 Kindle Fire 供应商的订单达到 500 万台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/amazon-ups-orders-from-kindle-fire-suppliers-to-5-million-units/>
 

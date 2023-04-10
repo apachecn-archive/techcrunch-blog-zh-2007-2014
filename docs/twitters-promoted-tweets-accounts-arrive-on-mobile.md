@@ -1,4 +1,4 @@
-# Twitter 的推广推文和账户到达移动应用 TechCrunch
+# Twitter 的推广推文和账户到达移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/28/twitters-promoted-tweets-accounts-arrive-on-mobile/>
 

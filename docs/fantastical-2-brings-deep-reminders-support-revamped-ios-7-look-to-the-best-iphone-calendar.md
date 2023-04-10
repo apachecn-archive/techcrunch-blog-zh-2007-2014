@@ -1,4 +1,4 @@
-# fantastic 2 带来深度提醒支持，改进的 iOS 7 看起来是最好的 iPhone 日历 TechCrunch
+# fantastic 2 带来深度提醒支持，改进的 iOS 7 看起来是最好的 iPhone 日历 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/30/fantastical-2-brings-deep-reminders-support-revamped-ios-7-look-to-the-best-iphone-calendar/>
 

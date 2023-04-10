@@ -1,4 +1,4 @@
-# Kindle Paperwhite 是读者的梦想 TechCrunch
+# Kindle Paperwhite 是读者的梦想 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/30/paperwhite-kindle-review/>
 

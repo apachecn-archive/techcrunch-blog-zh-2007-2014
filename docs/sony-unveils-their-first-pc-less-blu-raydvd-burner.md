@@ -1,4 +1,4 @@
-# 索尼推出首款无 PC 蓝光/DVD 刻录机 TechCrunch
+# 索尼推出首款无 PC 蓝光/DVD 刻录机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/sony-unveils-their-first-pc-less-blu-raydvd-burner/>
 

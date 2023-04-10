@@ -1,4 +1,4 @@
-# 日本的自动售货机也更好——TechCrunch
+# 日本的自动售货机也更好——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/and-japans-vending-machines-are-better-too/>
 

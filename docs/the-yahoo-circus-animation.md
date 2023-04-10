@@ -1,4 +1,4 @@
-# 雅虎马戏团(动画)TechCrunch
+# 雅虎马戏团(动画)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/the-yahoo-circus-animation/>
 

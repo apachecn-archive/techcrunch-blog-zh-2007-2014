@@ -1,4 +1,4 @@
-# 云应用管理平台 New Relic 从 DAG 获得 1500 万美元，基准 TechCrunch
+# 云应用管理平台 New Relic 从 DAG 获得 1500 万美元，基准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/cloud-app-management-platform-new-relic-raises-15m-from-dag-benchmark/>
 

@@ -1,4 +1,4 @@
-# Borders 可能已经死了，但电子阅读器 Kobo 仍然活着 TechCrunch
+# Borders 可能已经死了，但电子阅读器 Kobo 仍然活着 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/borders-may-be-dead-but-e-reader-kobo-is-still-alive-and-kicking/>
 

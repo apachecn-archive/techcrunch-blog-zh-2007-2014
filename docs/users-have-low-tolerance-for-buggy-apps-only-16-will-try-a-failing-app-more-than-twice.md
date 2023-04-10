@@ -1,4 +1,4 @@
-# 用户对错误应用的容忍度很低——只有 16%的人会尝试一个失败的应用两次以上 TechCrunch
+# 用户对错误应用的容忍度很低——只有 16%的人会尝试一个失败的应用两次以上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/12/users-have-low-tolerance-for-buggy-apps-only-16-will-try-a-failing-app-more-than-twice/>
 

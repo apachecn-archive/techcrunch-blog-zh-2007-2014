@@ -1,4 +1,4 @@
-# 英特尔 Havok 收购 3D 游戏引擎提供商 trini gy TechCrunch
+# 英特尔 Havok 收购 3D 游戏引擎提供商 trini gy 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/intels-havok-acquires-3d-game-engine-provider-trinigy/>
 

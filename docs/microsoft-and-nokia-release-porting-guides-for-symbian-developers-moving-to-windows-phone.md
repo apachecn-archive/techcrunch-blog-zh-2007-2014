@@ -1,4 +1,4 @@
-# 微软和诺基亚为 Symbian 开发者发布 Windows Phone 移植指南 TechCrunch
+# 微软和诺基亚为 Symbian 开发者发布 Windows Phone 移植指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/microsoft-and-nokia-release-porting-guides-for-symbian-developers-moving-to-windows-phone/>
 

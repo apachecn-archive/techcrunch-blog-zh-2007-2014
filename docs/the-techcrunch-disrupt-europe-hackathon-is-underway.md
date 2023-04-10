@@ -1,4 +1,4 @@
-# TechCrunch Disrupt 欧洲黑客马拉松正在进行中！TechCrunch
+# TechCrunch Disrupt 欧洲黑客马拉松正在进行中！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/26/the-techcrunch-disrupt-europe-hackathon-is-underway/>
 
@@ -21,7 +21,7 @@
 #### WiFi 信息
 
 SSID:德国电信或德国电信 2.4
-密码:techcrunch
+密码:
 
 * * *
 

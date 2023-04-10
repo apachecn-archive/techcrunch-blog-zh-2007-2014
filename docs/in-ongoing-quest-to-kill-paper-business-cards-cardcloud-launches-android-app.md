@@ -1,4 +1,4 @@
-# 在不断寻求消灭纸质名片的过程中，Cardcloud 推出了安卓应用 TechCrunch
+# 在不断寻求消灭纸质名片的过程中，Cardcloud 推出了安卓应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/in-ongoing-quest-to-kill-paper-business-cards-cardcloud-launches-android-app/>
 

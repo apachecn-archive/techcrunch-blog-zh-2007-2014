@@ -1,4 +1,4 @@
-# CNET 最早将于本周谈判收购 gdgt TechCrunch
+# CNET 最早将于本周谈判收购 gdgt 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/cnet-in-talks-to-acquire-gdgt-as-early-as-this-week/>
 

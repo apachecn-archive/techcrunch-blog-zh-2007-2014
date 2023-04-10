@@ -1,4 +1,4 @@
-# 安卓 4:冰淇淋三明治是这个样子吗？TechCrunch
+# 安卓 4:冰淇淋三明治是这个样子吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/is-this-what-android-4-ice-cream-sandwich-looks-like/>
 

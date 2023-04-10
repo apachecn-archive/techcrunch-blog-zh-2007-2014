@@ -1,4 +1,4 @@
-# 苹果表示正在进行苹果电视硬件更新、原生游戏支持 TechCrunch
+# 苹果表示正在进行苹果电视硬件更新、原生游戏支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/23/apple-said-to-be-working-on-apple-tv-hardware-update-native-game-support/>
 

@@ -1,4 +1,4 @@
-# 百思买为黑色星期五准备 249 美元的华硕变压器 TechCrunch
+# 百思买为黑色星期五准备 249 美元的华硕变压器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/best-buy-preps-249-asus-transformer-for-black-friday/>
 

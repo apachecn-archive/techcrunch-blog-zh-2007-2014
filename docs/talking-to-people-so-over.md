@@ -1,4 +1,4 @@
-# 与人交谈，结束 TechCrunch
+# 与人交谈，结束 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/21/talking-to-people-so-over/>
 

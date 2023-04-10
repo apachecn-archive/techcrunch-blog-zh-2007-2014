@@ -1,4 +1,4 @@
-# 图形化简历网站 Vizualize。我发布，我们和创始人谈。TechCrunch
+# 图形化简历网站 Vizualize。我发布，我们和创始人谈。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/graphical-resume-site-vizualize-me-launches-we-talk-to-the-founder/>
 

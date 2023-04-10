@@ -1,4 +1,4 @@
-# 谷歌使 Gmail 中的 Google+通知更具互动性 TechCrunch
+# 谷歌使 Gmail 中的 Google+通知更具互动性 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/05/08/google-makes-google-notifications-in-gmail-more-interactive/>
 

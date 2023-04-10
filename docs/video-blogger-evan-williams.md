@@ -1,4 +1,4 @@
-# 视频:Pyra Labs / Blogger 的早期(由@Ev Williams 主讲)TechCrunch
+# 视频:Pyra Labs / Blogger 的早期(由@Ev Williams 主讲)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/25/video-blogger-evan-williams/>
 

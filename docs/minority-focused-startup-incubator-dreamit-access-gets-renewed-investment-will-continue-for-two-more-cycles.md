@@ -1,4 +1,4 @@
-# 专注于少数族裔的创业孵化器 DreamIt Access 获得新的投资，将继续两个周期 TechCrunch
+# 专注于少数族裔的创业孵化器 DreamIt Access 获得新的投资，将继续两个周期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/13/minority-focused-startup-incubator-dreamit-access-gets-renewed-investment-will-continue-for-two-more-cycles/>
 

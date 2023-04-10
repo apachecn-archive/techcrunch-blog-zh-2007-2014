@@ -1,4 +1,4 @@
-# Automattic 推出群组 Twitter 式平台 TechCrunch
+# Automattic 推出群组 Twitter 式平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/28/automattic-launches-group-twitter-style-platform/>
 

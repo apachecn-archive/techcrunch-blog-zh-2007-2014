@@ -1,4 +1,4 @@
-# 打盹和失败:一个巨大的失败 TechCrunch
+# 打盹和失败:一个巨大的失败 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/06/make-it-a-blockbuster-night/>
 

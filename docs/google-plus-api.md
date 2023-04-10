@@ -1,4 +1,4 @@
-# Google+ API 未关闭...除非您“值得信任”，否则它已经准备好了 TechCrunch
+# Google+ API 未关闭...除非您“值得信任”，否则它已经准备好了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/google-plus-api/>
 

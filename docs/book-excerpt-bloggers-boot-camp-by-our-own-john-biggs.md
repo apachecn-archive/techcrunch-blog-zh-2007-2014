@@ -1,4 +1,4 @@
-# 书籍节选:我们自己的约翰·比格斯博客训练营 TechCrunch
+# 书籍节选:我们自己的约翰·比格斯博客训练营 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/24/book-excerpt-bloggers-boot-camp-by-our-own-john-biggs/>
 

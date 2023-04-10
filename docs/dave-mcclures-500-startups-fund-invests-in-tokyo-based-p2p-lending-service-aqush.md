@@ -1,4 +1,4 @@
-# Dave McClure 的 500 Startups 基金投资于总部位于东京的 P2P 贷款服务 AQUSH TechCrunch
+# Dave McClure 的 500 Startups 基金投资于总部位于东京的 P2P 贷款服务 AQUSH 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/05/dave-mcclures-500-startups-fund-invests-in-tokyo-based-p2p-lending-service-aqush/>
 

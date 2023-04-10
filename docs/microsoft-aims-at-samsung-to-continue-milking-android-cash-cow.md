@@ -1,4 +1,4 @@
-# 微软瞄准三星继续榨取安卓摇钱树 TechCrunch
+# 微软瞄准三星继续榨取安卓摇钱树 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/microsoft-aims-at-samsung-to-continue-milking-android-cash-cow/>
 

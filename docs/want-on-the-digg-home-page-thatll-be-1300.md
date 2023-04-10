@@ -1,4 +1,4 @@
-# 想上 Digg 主页？一共是 1200 美元。TechCrunch
+# 想上 Digg 主页？一共是 1200 美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/want-on-the-digg-home-page-thatll-be-1300/>
 

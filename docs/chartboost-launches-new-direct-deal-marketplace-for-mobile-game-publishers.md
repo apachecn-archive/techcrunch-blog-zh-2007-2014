@@ -1,4 +1,4 @@
-# Chartboost 为手机游戏发行商推出新的直接交易市场 TechCrunch
+# Chartboost 为手机游戏发行商推出新的直接交易市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/chartboost-launches-new-direct-deal-marketplace-for-mobile-game-publishers/>
 

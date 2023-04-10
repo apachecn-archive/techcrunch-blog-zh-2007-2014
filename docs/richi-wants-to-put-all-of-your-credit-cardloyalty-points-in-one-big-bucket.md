@@ -1,4 +1,4 @@
-# Richi 希望将您所有的忠诚度积分放在一个大桶里 TechCrunch
+# Richi 希望将您所有的忠诚度积分放在一个大桶里 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/richi-wants-to-put-all-of-your-credit-cardloyalty-points-in-one-big-bucket/>
 

@@ -1,4 +1,4 @@
-# Salesforce 公布了创纪录的 5.46 亿美元季度收入；提高指导 TechCrunch
+# Salesforce 公布了创纪录的 5.46 亿美元季度收入；提高指导 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/salesforce-posts-record-quarterly-revenue-of-546m-raises-guidance/>
 

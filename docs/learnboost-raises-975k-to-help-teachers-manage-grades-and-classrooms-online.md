@@ -1,4 +1,4 @@
-# LearnBoost 筹集 97.5 万美元帮助教师在线管理成绩和教室 TechCrunch
+# LearnBoost 筹集 97.5 万美元帮助教师在线管理成绩和教室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/26/learnboost-raises-975k-to-help-teachers-manage-grades-and-classrooms-online/>
 

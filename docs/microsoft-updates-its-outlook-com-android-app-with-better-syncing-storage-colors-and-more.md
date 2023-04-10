@@ -1,4 +1,4 @@
-# 微软用更好的同步、存储、颜色等更新其 Outlook.com 安卓应用程序 TechCrunch
+# 微软用更好的同步、存储、颜色等更新其 Outlook.com 安卓应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/10/microsoft-updates-its-outlook-com-android-app-with-better-syncing-storage-colors-and-more/>
 

@@ -1,4 +1,4 @@
-# 谷歌不允许在 Google+页面上进行竞赛和促销 TechCrunch
+# 谷歌不允许在 Google+页面上进行竞赛和促销 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/google-wont-allow-contests-and-promotions-on-google-pages/>
 

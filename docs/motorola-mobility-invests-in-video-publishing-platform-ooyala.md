@@ -1,4 +1,4 @@
-# 摩托罗拉移动投资视频发布平台 ooya la TechCrunch
+# 摩托罗拉移动投资视频发布平台 ooya la 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/motorola-mobility-invests-in-video-publishing-platform-ooyala/>
 

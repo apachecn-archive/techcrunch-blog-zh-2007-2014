@@ -1,4 +1,4 @@
-# 现代投资组合理论死了吗？走吧。TechCrunch
+# 现代投资组合理论死了吗？走吧。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/11/is-modern-portfolio-theory-dead-come-on/>
 

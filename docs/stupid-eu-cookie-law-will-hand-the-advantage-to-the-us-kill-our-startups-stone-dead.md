@@ -1,4 +1,4 @@
-# 愚蠢的欧盟饼干法将优势拱手让给美国，扼杀我们的创业公司 TechCrunch
+# 愚蠢的欧盟饼干法将优势拱手让给美国，扼杀我们的创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/09/stupid-eu-cookie-law-will-hand-the-advantage-to-the-us-kill-our-startups-stone-dead/>
 

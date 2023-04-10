@@ -1,4 +1,4 @@
-# Mozilla CEO:Gecko 设备将首次在巴西销售 TechCrunch
+# Mozilla CEO:Gecko 设备将首次在巴西销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/19/mozilla-ceo-first-boot-to-gecko-devices-will-be-sold-in-brazil/>
 

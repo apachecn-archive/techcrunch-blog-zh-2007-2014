@@ -1,4 +1,4 @@
-# 投票:真人秀还是小众社交网络？TechCrunch
+# 投票:真人秀还是小众社交网络？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/16/poll-reality-tv-or-niche-specific-social-networks/>
 

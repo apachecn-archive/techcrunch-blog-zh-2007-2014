@@ -1,4 +1,4 @@
-# 前 Yammer 高管为 CoTap 筹集 550 万美元，CoTap 是一款移动通讯应用，旨在成为工作场所的 WhatsApp TechCrunch
+# 前 Yammer 高管为 CoTap 筹集 550 万美元，CoTap 是一款移动通讯应用，旨在成为工作场所的 WhatsApp 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/29/ex-yammer-execs-raise-5-5m-for-cotap-a-mobile-messaging-app-aiming-to-be-whatsapp-for-the-workplace/>
 

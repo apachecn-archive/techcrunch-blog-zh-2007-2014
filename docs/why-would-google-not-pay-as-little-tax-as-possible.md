@@ -1,4 +1,4 @@
-# 为什么谷歌不尽可能少缴税？TechCrunch
+# 为什么谷歌不尽可能少缴税？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/21/why-would-google-not-pay-as-little-tax-as-possible/>
 

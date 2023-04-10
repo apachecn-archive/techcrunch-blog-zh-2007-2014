@@ -1,4 +1,4 @@
-# 哎呦！持枪许可证持有者的谷歌地图非常不准确 TechCrunch
+# 哎呦！持枪许可证持有者的谷歌地图非常不准确 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/whoops-google-map-of-gun-permit-holders-was-woefully-inaccurate/>
 

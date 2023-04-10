@@ -1,4 +1,4 @@
-# 电台小屋更名:为什么？为什么！？TechCrunch
+# 电台小屋更名:为什么？为什么！？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/03/radio-shack-rebranding-why-why/>
 

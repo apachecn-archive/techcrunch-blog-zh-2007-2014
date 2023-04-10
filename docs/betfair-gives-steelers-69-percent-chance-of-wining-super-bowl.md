@@ -1,4 +1,4 @@
-# 必发让钢人有 69%的机会赢得超级碗 TechCrunch
+# 必发让钢人有 69%的机会赢得超级碗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/31/betfair-gives-steelers-69-percent-chance-of-wining-super-bowl/>
 

@@ -1,4 +1,4 @@
-# 投票:网飞和百视达哪个品牌更强？TechCrunch
+# 投票:网飞和百视达哪个品牌更强？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/poll-netflix-blockbuster/>
 

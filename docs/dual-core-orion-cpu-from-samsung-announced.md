@@ -1,4 +1,4 @@
-# 三星发布双核猎户座 CPU TechCrunch
+# 三星发布双核猎户座 CPU 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/dual-core-orion-cpu-from-samsung-announced/>
 

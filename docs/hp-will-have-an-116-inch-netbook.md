@@ -1,4 +1,4 @@
-# 惠普将推出 11.6 英寸上网本 TechCrunch
+# 惠普将推出 11.6 英寸上网本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/hp-will-have-an-116-inch-netbook/>
 

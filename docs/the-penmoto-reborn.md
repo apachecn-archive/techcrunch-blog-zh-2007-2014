@@ -1,4 +1,4 @@
-# 重生的 PenMoto TechCrunch
+# 重生的 PenMoto 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/the-penmoto-reborn/>
 

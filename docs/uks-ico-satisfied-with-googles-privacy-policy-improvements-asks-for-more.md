@@ -1,4 +1,4 @@
-# 英国 ICO 对谷歌隐私政策的改进“满意”,要求提供更多信息 TechCrunch
+# 英国 ICO 对谷歌隐私政策的改进“满意”,要求提供更多信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/uks-ico-satisfied-with-googles-privacy-policy-improvements-asks-for-more/>
 

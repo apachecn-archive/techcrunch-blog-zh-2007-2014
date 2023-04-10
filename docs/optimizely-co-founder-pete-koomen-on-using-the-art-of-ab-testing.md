@@ -1,4 +1,4 @@
-# Optimizely 联合创始人 Pete Koomen 介绍如何使用 A/B 测试技术 TechCrunch
+# Optimizely 联合创始人 Pete Koomen 介绍如何使用 A/B 测试技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/03/optimizely-co-founder-pete-koomen-on-using-the-art-of-ab-testing/>
 

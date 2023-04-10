@@ -1,4 +1,4 @@
-# 谷歌推出安卓市场网上商店。已经直播了！TechCrunch
+# 谷歌推出安卓市场网上商店。已经直播了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/02/android-market-webstore/>
 

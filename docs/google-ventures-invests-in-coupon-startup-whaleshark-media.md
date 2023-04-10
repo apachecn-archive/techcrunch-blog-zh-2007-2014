@@ -1,4 +1,4 @@
-# 谷歌风投投资优惠券初创公司 whale shark Media TechCrunch
+# 谷歌风投投资优惠券初创公司 whale shark Media 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/google-ventures-invests-in-coupon-startup-whaleshark-media/>
 

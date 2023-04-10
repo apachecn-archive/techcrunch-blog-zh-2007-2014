@@ -1,4 +1,4 @@
-# 阿尔卡特朗讯收购 Web API 存储库项目 webtechcrunch
+# 阿尔卡特朗讯收购 Web API 存储库项目 web
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/29/alcatel-lucent-programmableweb/>
 

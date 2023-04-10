@@ -1,4 +1,4 @@
-# 纽约现场直播，这是甜菜。电视在线视频峰会 TechCrunch
+# 纽约现场直播，这是甜菜。电视在线视频峰会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/28/live-from-new-york-its-the-beettv-online-video-summit/>
 

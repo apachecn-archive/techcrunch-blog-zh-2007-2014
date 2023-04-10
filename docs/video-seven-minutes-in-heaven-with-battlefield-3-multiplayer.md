@@ -1,4 +1,4 @@
-# 视频:战地 3 多人游戏天堂七分钟 TechCrunch
+# 视频:战地 3 多人游戏天堂七分钟 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/video-seven-minutes-in-heaven-with-battlefield-3-multiplayer/>
 

@@ -1,4 +1,4 @@
-# 独家报道:Lockerz 收购社交照片分享应用 Plixi(原 tweet Photo)TechCrunch
+# 独家报道:Lockerz 收购社交照片分享应用 Plixi(原 tweet Photo)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/exclusive-lockerz-acquires-social-photo-sharing-app-plixi-formerly-tweetphoto/>
 

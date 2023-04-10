@@ -1,4 +1,4 @@
-# 2013 年欧洲最佳年度科技创业活动清单 TechCrunch
+# 2013 年欧洲最佳年度科技创业活动清单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/a-list-of-the-best-annual-tech-startup-events-in-europe-in-2013/>
 

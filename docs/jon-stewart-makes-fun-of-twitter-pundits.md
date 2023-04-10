@@ -1,4 +1,4 @@
-# 乔恩·斯图尔特取笑推特专家 TechCrunch
+# 乔恩·斯图尔特取笑推特专家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/jon-stewart-makes-fun-of-twitter-pundits/>
 

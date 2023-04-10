@@ -1,4 +1,4 @@
-# 大宇 DPC-8099OD-I 是一款真正的便携式 DVD/iPod 播放器 TechCrunch
+# 大宇 DPC-8099OD-I 是一款真正的便携式 DVD/iPod 播放器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/daewoo-dpc-8099od-i-is-really-a-portable-dvdipod-player/>
 

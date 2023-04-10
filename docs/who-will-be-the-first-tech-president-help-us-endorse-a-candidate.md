@@ -1,4 +1,4 @@
-# 谁将成为第一任科技总裁？帮助我们支持候选人 TechCrunch
+# 谁将成为第一任科技总裁？帮助我们支持候选人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/20/who-will-be-the-first-tech-president-help-us-endorse-a-candidate/>
 

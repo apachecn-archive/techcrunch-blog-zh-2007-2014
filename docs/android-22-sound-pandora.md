@@ -1,4 +1,4 @@
-# Android 2.2 的音频流听起来很糟糕，但修复方案即将出台 TechCrunch
+# Android 2.2 的音频流听起来很糟糕，但修复方案即将出台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/09/android-22-sound-pandora/>
 

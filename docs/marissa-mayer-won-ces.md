@@ -1,4 +1,4 @@
-# 玛丽莎·梅耶尔赢得了 CES TechCrunch
+# 玛丽莎·梅耶尔赢得了 CES 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/marissa-mayer-won-ces/>
 

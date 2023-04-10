@@ -1,4 +1,4 @@
-# 据报道，苹果将 iAd 重新聚焦于新的流媒体音乐广播服务 TechCrunch
+# 据报道，苹果将 iAd 重新聚焦于新的流媒体音乐广播服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/04/apple-reportedly-refocuses-iad-on-new-streaming-music-radio-service/>
 

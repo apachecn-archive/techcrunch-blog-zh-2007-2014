@@ -1,4 +1,4 @@
-# 苹果 iOS 5 更新现可用于 iPhone、iPad 和 iPod Touch TechCrunch
+# 苹果 iOS 5 更新现可用于 iPhone、iPad 和 iPod Touch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/apples-ios-5-update-now-available-for-iphone-ipad-and-ipod-touch/>
 

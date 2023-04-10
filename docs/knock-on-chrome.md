@@ -1,4 +1,4 @@
-# 声波增加了 Chrome 浏览器扩展，让你可以跟踪你的桌面音乐收听 TechCrunch
+# 声波增加了 Chrome 浏览器扩展，让你可以跟踪你的桌面音乐收听 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/knock-on-chrome/>
 

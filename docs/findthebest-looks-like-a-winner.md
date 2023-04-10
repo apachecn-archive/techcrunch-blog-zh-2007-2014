@@ -1,4 +1,4 @@
-# FindTheBest 看起来像是赢家 TechCrunch
+# FindTheBest 看起来像是赢家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/03/findthebest-looks-like-a-winner/>
 

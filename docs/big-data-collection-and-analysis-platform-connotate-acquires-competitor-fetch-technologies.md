@@ -1,4 +1,4 @@
-# 大数据收集和分析平台 Connotate 收购竞争对手 Fetch Technologies TechCrunch
+# 大数据收集和分析平台 Connotate 收购竞争对手 Fetch Technologies 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/05/big-data-collection-and-analysis-platform-connotate-acquires-competitor-fetch-technologies/>
 

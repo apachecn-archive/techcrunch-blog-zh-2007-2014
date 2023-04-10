@@ -1,4 +1,4 @@
-# 要求 Twitter 用 Google+匕首自杀 TechCrunch
+# 要求 Twitter 用 Google+匕首自杀 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/dont-drink-and-power-use/>
 

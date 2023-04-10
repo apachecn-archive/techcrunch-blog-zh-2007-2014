@@ -1,4 +1,4 @@
-# Animoto 的现金流已经是正数，再融资一轮进入 11 TechCrunch
+# Animoto 的现金流已经是正数，再融资一轮进入 11 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/17/animoto-is-already-cash-flow-positive-but-raises-another-round-to-go-to-11/>
 

@@ -1,4 +1,4 @@
-# Brightcove 的新玩家旨在提高 HTML5 视频兼容性 TechCrunch
+# Brightcove 的新玩家旨在提高 HTML5 视频兼容性 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/brightcoves-new-players-aim-to-improve-html5-video-compatibility/>
 

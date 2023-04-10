@@ -1,4 +1,4 @@
-# 你觉得三星的 55 英寸 LED 高清电视怎么样？TechCrunch
+# 你觉得三星的 55 英寸 LED 高清电视怎么样？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/how-does-a-55-inch-led-hdtv-from-samsung-sound-to-you/>
 

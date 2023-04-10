@@ -1,4 +1,4 @@
-# Hulu 能成为比 YouTube 更大的企业吗？TechCrunch
+# Hulu 能成为比 YouTube 更大的企业吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/01/can-hulu-be-a-bigger-business-than-youtube/>
 

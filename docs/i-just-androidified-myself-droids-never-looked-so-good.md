@@ -1,4 +1,4 @@
-# 我刚把自己男性化了。Droid 从来没有这么好看过。TechCrunch
+# 我刚把自己男性化了。Droid 从来没有这么好看过。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/i-just-androidified-myself-droids-never-looked-so-good/>
 

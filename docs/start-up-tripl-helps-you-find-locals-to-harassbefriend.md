@@ -1,4 +1,4 @@
-# 初创企业 Tripl 帮助你找到当地人骚扰/结交 TechCrunch
+# 初创企业 Tripl 帮助你找到当地人骚扰/结交 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/08/start-up-tripl-helps-you-find-locals-to-harassbefriend/>
 

@@ -1,4 +1,4 @@
-# 3DS 的半秘密武器:3 定义后台目录 TechCrunch
+# 3DS 的半秘密武器:3 定义后台目录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/28/the-3ds-semi-secret-weapon-3difying-the-back-catalog/>
 

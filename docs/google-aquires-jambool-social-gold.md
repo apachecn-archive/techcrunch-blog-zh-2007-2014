@@ -1,4 +1,4 @@
-# 谷歌社交拼图的另一块:以 7000 万美元收购 Jambool TechCrunch
+# 谷歌社交拼图的另一块:以 7000 万美元收购 Jambool 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/09/google-aquires-jambool-social-gold/>
 

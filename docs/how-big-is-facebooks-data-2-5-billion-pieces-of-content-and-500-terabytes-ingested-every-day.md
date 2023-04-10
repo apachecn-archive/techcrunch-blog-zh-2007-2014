@@ -1,4 +1,4 @@
-# 脸书的数据有多大？每天接收 25 亿条内容和 500 多 TB 数据 TechCrunch
+# 脸书的数据有多大？每天接收 25 亿条内容和 500 多 TB 数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/22/how-big-is-facebooks-data-2-5-billion-pieces-of-content-and-500-terabytes-ingested-every-day/>
 

@@ -1,4 +1,4 @@
-# Sonic Notify 筹集了 425 万美元，与 Interscope 合作为移动应用提供交互性 TechCrunch
+# Sonic Notify 筹集了 425 万美元，与 Interscope 合作为移动应用提供交互性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/16/sonic-notify-4-25-million/>
 

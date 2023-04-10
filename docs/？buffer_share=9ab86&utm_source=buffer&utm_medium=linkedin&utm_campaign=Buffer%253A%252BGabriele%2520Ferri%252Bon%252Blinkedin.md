@@ -1,4 +1,4 @@
-# Twitter 正在野外测试其官方谷歌眼镜应用 TechCrunch
+# Twitter 正在野外测试其官方谷歌眼镜应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/29/twitter-is-testing-out-its-official-google-glass-app-in-the-wild/?buffer_share=9ab86&utm_source=buffer&utm_medium=linkedin&utm_campaign=Buffer%253A%252BGabriele%2520Ferri%252Bon%252Blinkedin>
 

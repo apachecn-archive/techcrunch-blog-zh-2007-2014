@@ -1,4 +1,4 @@
-# 凭借来自 Battery 和其他公司的 112 万美元，Vaunte 旨在定义奢侈品电子商务的下一个时代 TechCrunch
+# 凭借来自 Battery 和其他公司的 112 万美元，Vaunte 旨在定义奢侈品电子商务的下一个时代 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/23/vaunte-fashion-funding/>
 

@@ -1,4 +1,4 @@
-# Le Camping 第五个演示日:认识 StreamRoot、Hublo、Krack 等 TechCrunch
+# Le Camping 第五个演示日:认识 StreamRoot、Hublo、Krack 等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/le-camping-5th-demo-day-meet-streamroot-hublo-krack-and-more/>
 

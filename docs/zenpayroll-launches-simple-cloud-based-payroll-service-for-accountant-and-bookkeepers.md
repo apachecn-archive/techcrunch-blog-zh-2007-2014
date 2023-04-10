@@ -1,4 +1,4 @@
-# ZenPayroll 为会计和簿记员推出简单的基于云的薪资服务 TechCrunch
+# ZenPayroll 为会计和簿记员推出简单的基于云的薪资服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/zenpayroll-launches-simple-cloud-based-payroll-service-for-accountant-and-bookkeepers/>
 

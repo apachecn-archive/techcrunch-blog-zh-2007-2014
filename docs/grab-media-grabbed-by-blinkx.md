@@ -1,4 +1,4 @@
-# 据猜测，雅虎正在四处打探，Blinkx 收购视频内容辛迪加和广告平台 Grab Media TechCrunch
+# 据猜测，雅虎正在四处打探，Blinkx 收购视频内容辛迪加和广告平台 Grab Media 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/05/grab-media-grabbed-by-blinkx/>
 

@@ -1,4 +1,4 @@
-# SketchUp 是谷歌多年来的第一次撤资，并获得了利润 TechCrunch
+# SketchUp 是谷歌多年来的第一次撤资，并获得了利润 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/sketchup-google-first-divestment/>
 

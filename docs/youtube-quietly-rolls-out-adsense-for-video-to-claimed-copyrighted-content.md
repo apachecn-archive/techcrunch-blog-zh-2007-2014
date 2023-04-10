@@ -1,4 +1,4 @@
-# YouTube 悄然推出 AdSense 视频广告，宣称内容拥有版权 TechCrunch
+# YouTube 悄然推出 AdSense 视频广告，宣称内容拥有版权 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/08/youtube-quietly-rolls-out-adsense-for-video-to-claimed-copyrighted-content/>
 

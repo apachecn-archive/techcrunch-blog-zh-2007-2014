@@ -1,4 +1,4 @@
-# Lisp 的创始人，约翰·麦卡锡，死于 84 TechCrunch
+# Lisp 的创始人，约翰·麦卡锡，死于 84 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/creator-of-lisp-john-mccarthy-dead-at-84/>
 

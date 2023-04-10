@@ -1,4 +1,4 @@
-# Anvato 为视频指纹技术筹集了 200 万美元 TechCrunch
+# Anvato 为视频指纹技术筹集了 200 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/08/anvato-raises-2-million-for-video-fingerprinting/>
 

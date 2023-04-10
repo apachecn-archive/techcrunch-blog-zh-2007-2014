@@ -1,4 +1,4 @@
-# 坚持到底，脸书。即使你的股价暴跌 TechCrunch
+# 坚持到底，脸书。即使你的股价暴跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/user-experience-user-experience-user-experience/>
 

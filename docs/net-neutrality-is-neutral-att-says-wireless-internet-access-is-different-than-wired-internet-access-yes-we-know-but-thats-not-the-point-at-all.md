@@ -1,4 +1,4 @@
-# 网络中立是中立的:美国电话电报公司说无线互联网接入不同于有线互联网接入。是的，我们知道，但那根本不是重点。TechCrunch
+# 网络中立是中立的:美国电话电报公司说无线互联网接入不同于有线互联网接入。是的，我们知道，但那根本不是重点。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/net-neutrality-is-neutral-att-says-wireless-internet-access-is-different-than-wired-internet-access-yes-we-know-but-thats-not-the-point-at-all/>
 

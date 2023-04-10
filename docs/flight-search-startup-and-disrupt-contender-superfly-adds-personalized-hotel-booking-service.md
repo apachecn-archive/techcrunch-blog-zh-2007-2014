@@ -1,4 +1,4 @@
-# 航班搜索初创公司和竞争对手越智志帆乐队增加个性化酒店预订服务 TechCrunch
+# 航班搜索初创公司和竞争对手越智志帆乐队增加个性化酒店预订服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/flight-search-startup-and-disrupt-contender-superfly-adds-personalized-hotel-booking-service/>
 

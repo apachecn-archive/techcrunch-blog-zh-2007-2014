@@ -1,4 +1,4 @@
-# 12Seconds.tv 发布视频状态 API (500 个邀请)TechCrunch
+# 12Seconds.tv 发布视频状态 API (500 个邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/21/12secondstv-releases-video-status-api-plus-500-more-invites/>
 

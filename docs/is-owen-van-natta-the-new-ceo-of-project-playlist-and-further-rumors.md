@@ -1,4 +1,4 @@
-# 欧文·范·纳塔是播放列表项目的新 CEO 吗？以及进一步的传言。TechCrunch
+# 欧文·范·纳塔是播放列表项目的新 CEO 吗？以及进一步的传言。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/30/is-owen-van-natta-the-new-ceo-of-project-playlist-and-further-rumors/>
 

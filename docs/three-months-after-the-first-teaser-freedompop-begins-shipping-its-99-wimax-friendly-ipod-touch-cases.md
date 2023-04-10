@@ -1,4 +1,4 @@
-# 第一款产品发布三个月后，FreedomPop 开始发售售价 99 美元的 WiMAX 兼容 iPod Touch 保护套 TechCrunch
+# 第一款产品发布三个月后，FreedomPop 开始发售售价 99 美元的 WiMAX 兼容 iPod Touch 保护套 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/29/three-months-after-the-first-teaser-freedompop-begins-shipping-its-99-wimax-friendly-ipod-touch-cases/>
 

@@ -1,4 +1,4 @@
-# doubleTwist 的 iTunes 替代品(适用于 Android)增加了播客支持 TechCrunch
+# doubleTwist 的 iTunes 替代品(适用于 Android)增加了播客支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/10/doubletwist-podcasts-android/>
 

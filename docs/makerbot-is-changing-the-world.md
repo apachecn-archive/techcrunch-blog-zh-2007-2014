@@ -1,4 +1,4 @@
-# MakerBot 正在改变世界 TechCrunch
+# MakerBot 正在改变世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/makerbot-is-changing-the-world/>
 

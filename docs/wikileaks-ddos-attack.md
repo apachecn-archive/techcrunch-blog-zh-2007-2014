@@ -1,4 +1,4 @@
-# 维基解密报告称其遭到拒绝服务攻击 TechCrunch
+# 维基解密报告称其遭到拒绝服务攻击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/28/wikileaks-ddos-attack/>
 

@@ -1,4 +1,4 @@
-# 或许这些 Chromebooks 毕竟不是一个疯狂的想法 TechCrunch
+# 或许这些 Chromebooks 毕竟不是一个疯狂的想法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/03/maybe-those-chromebooks-werent-such-a-crazy-idea-after-all/>
 

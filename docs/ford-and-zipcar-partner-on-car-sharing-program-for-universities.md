@@ -1,4 +1,4 @@
-# 福特和 Zipcar 在大学汽车共享项目上合作 TechCrunch
+# 福特和 Zipcar 在大学汽车共享项目上合作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/ford-and-zipcar-partner-on-car-sharing-program-for-universities/>
 

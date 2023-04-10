@@ -1,4 +1,4 @@
-# TC50 DemoPit 公司 Joongel 净投资隐形产品 TechCrunch
+# TC50 DemoPit 公司 Joongel 净投资隐形产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/27/tc50-demopit-company-joongel-nets-investment-for-stealth-product/>
 

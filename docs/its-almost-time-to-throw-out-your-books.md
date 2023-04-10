@@ -1,4 +1,4 @@
-# 是时候扔掉你的书了 TechCrunch
+# 是时候扔掉你的书了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/07/its-almost-time-to-throw-out-your-books/>
 

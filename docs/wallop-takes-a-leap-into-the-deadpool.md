@@ -1,4 +1,4 @@
-# 沃洛普跃入死亡池 TechCrunch
+# 沃洛普跃入死亡池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/15/wallop-takes-a-leap-into-the-deadpool/>
 

@@ -1,4 +1,4 @@
-# 《垮台》制片人兼康斯坦丁电影合伙人喜欢模仿希特勒 TechCrunch
+# 《垮台》制片人兼康斯坦丁电影合伙人喜欢模仿希特勒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/21/downfall-producer-and-constantin-film-partner-loves-those-hitler-parodies/>
 

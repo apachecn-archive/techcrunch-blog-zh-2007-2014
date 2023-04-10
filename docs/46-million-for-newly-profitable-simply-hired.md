@@ -1,4 +1,4 @@
-# 460 万美元用于新盈利的简单雇佣 TechCrunch
+# 460 万美元用于新盈利的简单雇佣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/46-million-for-newly-profitable-simply-hired/>
 

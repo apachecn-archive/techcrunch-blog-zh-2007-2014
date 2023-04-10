@@ -1,4 +1,4 @@
-# Garmin FR70 健身手表希望跟踪您的身体，不在乎您是在室内还是室外训练 TechCrunch
+# Garmin FR70 健身手表希望跟踪您的身体，不在乎您是在室内还是室外训练 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/garmin-fr70-fitness-watch-wants-to-track-your-body-doesnt-care-if-you-train-inside-or-out/>
 

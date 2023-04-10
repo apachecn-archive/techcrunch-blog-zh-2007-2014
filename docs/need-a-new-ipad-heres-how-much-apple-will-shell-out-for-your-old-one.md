@@ -1,4 +1,4 @@
-# 需要新 iPad？以下是苹果公司为你的旧电脑支付的价格 TechCrunch
+# 需要新 iPad？以下是苹果公司为你的旧电脑支付的价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/14/need-a-new-ipad-heres-how-much-apple-will-shell-out-for-your-old-one/>
 

@@ -1,4 +1,4 @@
-# 电影公司将推出新的“开放市场”随处播放计划，作为拯救 DRM 的最后努力 TechCrunch
+# 电影公司将推出新的“开放市场”随处播放计划，作为拯救 DRM 的最后努力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/26/movie-labels-to-launch-new-open-market-play-anywhere-scheme-as-last-ditch-effort-to-save-drm/>
 

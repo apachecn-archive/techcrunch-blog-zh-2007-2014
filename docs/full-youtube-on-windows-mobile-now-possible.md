@@ -1,4 +1,4 @@
-# Windows Mobile 上的完整 YouTube 现在成为可能——TechCrunch
+# Windows Mobile 上的完整 YouTube 现在成为可能——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/full-youtube-on-windows-mobile-now-possible/>
 

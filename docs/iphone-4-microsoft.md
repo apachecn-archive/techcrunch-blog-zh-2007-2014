@@ -1,4 +1,4 @@
-# 预测:这个声明将会反咬微软一口 TechCrunch
+# 预测:这个声明将会反咬微软一口 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/14/iphone-4-microsoft/>
 

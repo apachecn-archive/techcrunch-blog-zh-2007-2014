@@ -1,4 +1,4 @@
-# Spotify 的 iPhone 使用量激增 TechCrunch
+# Spotify 的 iPhone 使用量激增 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/12/spotifys-iphone-usage-jumps/>
 

@@ -1,4 +1,4 @@
-# 小打印机将您定制的数字内容放在一张纸上 TechCrunch
+# 小打印机将您定制的数字内容放在一张纸上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/29/the-little-printer-puts-your-customized-digital-content-on-a-slip-of-paper/>
 

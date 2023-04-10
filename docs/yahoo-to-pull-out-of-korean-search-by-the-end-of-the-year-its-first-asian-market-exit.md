@@ -1,4 +1,4 @@
-# 雅虎将于年底退出韩国搜索市场，这是其首次退出亚洲市场 TechCrunch
+# 雅虎将于年底退出韩国搜索市场，这是其首次退出亚洲市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/19/yahoo-to-pull-out-of-korean-search-by-the-end-of-the-year-its-first-asian-market-exit/>
 

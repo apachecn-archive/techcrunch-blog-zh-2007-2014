@@ -1,4 +1,4 @@
-# 告别谷歌街景地图，迎接苹果 3D 天桥地图 TechCrunch
+# 告别谷歌街景地图，迎接苹果 3D 天桥地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/goodbye-to-google-maps-with-street-view-hello-to-apples-new-maps-with-3d-flyovers/>
 

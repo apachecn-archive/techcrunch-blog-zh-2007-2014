@@ -1,4 +1,4 @@
-# 随着诺基亚报告€损失 5 亿美元，苹果会很快带来黑仔的打击吗？TechCrunch
+# 随着诺基亚报告€损失 5 亿美元，苹果会很快带来黑仔的打击吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/as-nokia-reports-e500-million-loss-will-apple-soon-deliver-the-killer-blow/>
 

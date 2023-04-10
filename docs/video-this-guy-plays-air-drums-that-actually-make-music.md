@@ -1,4 +1,4 @@
-# 视频:这家伙演奏的空鼓实际上是在制造音乐 TechCrunch
+# 视频:这家伙演奏的空鼓实际上是在制造音乐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/video-this-guy-plays-air-drums-that-actually-make-music/>
 

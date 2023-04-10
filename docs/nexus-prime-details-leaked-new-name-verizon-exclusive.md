@@ -1,4 +1,4 @@
-# Nexus Prime 细节泄露:新名字，威瑞森独家？TechCrunch
+# Nexus Prime 细节泄露:新名字，威瑞森独家？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/06/nexus-prime-details-leaked-new-name-verizon-exclusive/>
 

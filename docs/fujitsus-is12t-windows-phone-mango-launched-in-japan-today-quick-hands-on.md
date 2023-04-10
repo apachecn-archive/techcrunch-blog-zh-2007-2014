@@ -1,4 +1,4 @@
-# 富士通的 IS12T Windows Phone Mango 今天在日本发布(快速上手)TechCrunch
+# 富士通的 IS12T Windows Phone Mango 今天在日本发布(快速上手)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/fujitsus-is12t-windows-phone-mango-launched-in-japan-today-quick-hands-on/>
 

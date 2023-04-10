@@ -1,4 +1,4 @@
-# Gartner:2013 年全球 IT 支出将达到 3.7 万亿美元，增长 4.2%；得益于更便宜的安卓平板电脑 TechCrunch
+# Gartner:2013 年全球 IT 支出将达到 3.7 万亿美元，增长 4.2%；得益于更便宜的安卓平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/03/gartner-worldwide-it-spending-to-reach-3-7t-in-2013-up-4-2-on-2012-devices-spending-growth-revised-down-helped-by-cheaper-android-tablets/>
 

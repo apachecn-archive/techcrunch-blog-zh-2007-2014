@@ -1,4 +1,4 @@
-# SEO 服务 BrightEdge 融资 1260 万美元 TechCrunch
+# SEO 服务 BrightEdge 融资 1260 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/15/brightedge-series-c/>
 

@@ -1,4 +1,4 @@
-# DeLorme 宣布推出 Earthmate PN-60w，这是一款卫星信息 GPS 设备 TechCrunch
+# DeLorme 宣布推出 Earthmate PN-60w，这是一款卫星信息 GPS 设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/02/delorme-announces-earthmate-pn-60w-a-satellite-messaging-gps-unit/>
 

@@ -1,4 +1,4 @@
-# 惠普转向必应，在智能手机上开发新的 webOS 地图应用 TechCrunch
+# 惠普转向必应，在智能手机上开发新的 webOS 地图应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/hp-turns-to-bing-for-new-webos-maps-app-on-smartphones/>
 

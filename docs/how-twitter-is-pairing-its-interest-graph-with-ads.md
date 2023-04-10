@@ -1,4 +1,4 @@
-# Twitter 如何将其兴趣图与广告配对 TechCrunch
+# Twitter 如何将其兴趣图与广告配对 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/01/how-twitter-is-pairing-its-interest-graph-with-ads/>
 

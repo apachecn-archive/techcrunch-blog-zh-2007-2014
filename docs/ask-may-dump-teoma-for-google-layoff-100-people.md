@@ -1,4 +1,4 @@
-# 问梅为谷歌甩掉 Teoma，裁员 100 人 TechCrunch
+# 问梅为谷歌甩掉 Teoma，裁员 100 人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/29/ask-may-dump-teoma-for-google-layoff-100-people/>
 

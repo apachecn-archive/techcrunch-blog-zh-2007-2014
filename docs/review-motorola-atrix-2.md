@@ -1,4 +1,4 @@
-# 点评:摩托罗拉 Atrix 2 TechCrunch
+# 点评:摩托罗拉 Atrix 2 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/review-motorola-atrix-2/>
 

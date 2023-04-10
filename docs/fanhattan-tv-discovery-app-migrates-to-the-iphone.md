@@ -1,4 +1,4 @@
-# Fanhattan 电视探索应用程序迁移到 iPhone TechCrunch
+# Fanhattan 电视探索应用程序迁移到 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/fanhattan-tv-discovery-app-migrates-to-the-iphone/>
 

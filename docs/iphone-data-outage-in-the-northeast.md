@@ -1,4 +1,4 @@
-# 东北部 iPhone 数据中断 TechCrunch
+# 东北部 iPhone 数据中断 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/iphone-data-outage-in-the-northeast/>
 

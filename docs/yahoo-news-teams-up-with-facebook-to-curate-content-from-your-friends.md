@@ -1,4 +1,4 @@
-# 雅虎新闻与脸书合作管理来自你朋友的内容 TechCrunch
+# 雅虎新闻与脸书合作管理来自你朋友的内容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/yahoo-news-teams-up-with-facebook-to-curate-content-from-your-friends/>
 

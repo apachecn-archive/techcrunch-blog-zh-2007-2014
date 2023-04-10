@@ -1,4 +1,4 @@
-# 《纽约时报》推出 iPad 应用 TechCrunch
+# 《纽约时报》推出 iPad 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/01/new-york-times-ipad/>
 

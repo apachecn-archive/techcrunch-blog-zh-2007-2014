@@ -1,4 +1,4 @@
-# 在其第一个生日前夕，雅虎悄悄关闭了印度社交网络 spot mtechcrunch
+# 在其第一个生日前夕，雅虎悄悄关闭了印度社交网络 spot m
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/31/on-the-eve-of-its-first-birthday-yahoo-quietly-shuts-down-indian-social-network-spotm/>
 

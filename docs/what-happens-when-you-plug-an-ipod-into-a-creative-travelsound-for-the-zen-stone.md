@@ -1,4 +1,4 @@
-# 当你把 iPod 插入禅石的创意 TravelSound 时会发生什么？–TechCrunch
+# 当你把 iPod 插入禅石的创意 TravelSound 时会发生什么？–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/what-happens-when-you-plug-an-ipod-into-a-creative-travelsound-for-the-zen-stone/>
 

@@ -1,4 +1,4 @@
-# 谷歌将 Chrome 应用程序引入 Android 和 iOS TechCrunch
+# 谷歌将 Chrome 应用程序引入 Android 和 iOS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/google-brings-chrome-apps-to-android-and-ios/>
 

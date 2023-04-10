@@ -1,4 +1,4 @@
-# 《金融时报》推出了自己的商业新闻搜索引擎(Newssift)。TechCrunch
+# 《金融时报》推出了自己的商业新闻搜索引擎(Newssift)。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/18/the-financial-times-launches-its-own-business-news-search-engine-newssift/>
 

@@ -1,4 +1,4 @@
-# 颚骨向上又回来了，但是比以前更好吗？TechCrunch
+# 颚骨向上又回来了，但是比以前更好吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/the-jawbone-up-is-back-but-is-it-better-than-ever/>
 

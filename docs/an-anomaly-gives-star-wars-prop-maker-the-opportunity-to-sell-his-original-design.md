@@ -1,4 +1,4 @@
-# 一个“异常现象”给了《星球大战》道具制造商出售其原创设计的机会 TechCrunch
+# 一个“异常现象”给了《星球大战》道具制造商出售其原创设计的机会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/an-anomaly-gives-star-wars-prop-maker-the-opportunity-to-sell-his-original-design/>
 

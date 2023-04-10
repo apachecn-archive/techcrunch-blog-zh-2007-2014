@@ -1,4 +1,4 @@
-# 索尼爱立信的 Vscreens 将您的移动内容转移到大屏幕上 TechCrunch
+# 索尼爱立信的 Vscreens 将您的移动内容转移到大屏幕上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/18/sony-ericssons-vscreens-moves-your-mobile-content-to-the-big-screen/>
 

@@ -1,4 +1,4 @@
-# 亚马逊只推出 7 寸平板？天才。(外加一个样机！)TechCrunch
+# 亚马逊只推出 7 寸平板？天才。(外加一个样机！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/02/amazon-kindle-tablet-photo/>
 

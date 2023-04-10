@@ -1,4 +1,4 @@
-# 独家报道:OTOY 走向移动，将您的手机变成强大的游戏平台 TechCrunch
+# 独家报道:OTOY 走向移动，将您的手机变成强大的游戏平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/22/exclusive-otoy-goes-mobile-turns-your-cell-phone-into-a-powerful-gaming-rig/>
 

@@ -1,4 +1,4 @@
-# 据报道，Windows 8.1 更新 1 推迟至 4 月 TechCrunch
+# 据报道，Windows 8.1 更新 1 推迟至 4 月 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/windows-8-1-update-1-reportedly-pushed-back-to-april/>
 

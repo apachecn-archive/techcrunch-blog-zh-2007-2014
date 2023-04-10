@@ -1,4 +1,4 @@
-# 微软首席执行官史蒂夫·鲍尔默将在 2012 年 CES 上发表主题演讲 TechCrunch
+# 微软首席执行官史蒂夫·鲍尔默将在 2012 年 CES 上发表主题演讲 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/microsoft-ceo-steve-ballmer-to-keynote-ces-2012/>
 

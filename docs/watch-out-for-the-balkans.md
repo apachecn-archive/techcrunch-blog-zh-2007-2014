@@ -1,4 +1,4 @@
-# 小心巴尔干地区 TechCrunch
+# 小心巴尔干地区 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/watch-out-for-the-balkans/>
 

@@ -1,4 +1,4 @@
-# Foursquare 的下一个游戏:选择自己的冒险？TechCrunch
+# Foursquare 的下一个游戏:选择自己的冒险？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/08/foursquare-game/>
 

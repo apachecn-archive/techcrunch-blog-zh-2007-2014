@@ -1,4 +1,4 @@
-# 四个脸书备选方案 TechCrunch
+# 四个脸书备选方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/25/onesocialweb-appleseed-elgg-insoshi/>
 

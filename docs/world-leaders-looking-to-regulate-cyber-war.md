@@ -1,4 +1,4 @@
-# 寻求监管网络战争的世界领袖 TechCrunch
+# 寻求监管网络战争的世界领袖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/04/world-leaders-looking-to-regulate-cyber-war/>
 

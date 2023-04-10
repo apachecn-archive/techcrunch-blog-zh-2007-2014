@@ -1,4 +1,4 @@
-# 反弹仍在继续:扎克的妹妹似乎也不喜欢 Instagram 的变化 TechCrunch
+# 反弹仍在继续:扎克的妹妹似乎也不喜欢 Instagram 的变化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/the-backlash-continues-zucks-sis-doesnt-seem-to-like-the-instagram-changes-either/>
 

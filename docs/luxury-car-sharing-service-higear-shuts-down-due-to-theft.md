@@ -1,4 +1,4 @@
-# 豪华汽车共享服务 HiGear 因盗窃关闭 TechCrunch
+# 豪华汽车共享服务 HiGear 因盗窃关闭 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/01/luxury-car-sharing-service-higear-shuts-down-due-to-theft/>
 

@@ -1,4 +1,4 @@
-# 谷歌与维珍美国合作，允许乘客在飞机上测试 chrome book TechCrunch
+# 谷歌与维珍美国合作，允许乘客在飞机上测试 chrome book 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/google-teams-up-with-virgin-america-to-allow-passengers-to-test-out-chromebooks-in-flight/>
 

@@ -1,4 +1,4 @@
-# 博客直播:HTC 的“重大声明”TechCrunch
+# 博客直播:HTC 的“重大声明”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/live-blog-htcs-major-announcement/>
 

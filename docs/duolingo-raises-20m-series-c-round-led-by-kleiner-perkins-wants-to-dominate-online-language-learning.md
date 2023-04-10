@@ -1,4 +1,4 @@
-# Duolingo 筹集 2000 万美元由凯鹏华盈(Kleiner Perkins)牵头的 C 轮融资，以主导在线语言学习 TechCrunch
+# Duolingo 筹集 2000 万美元由凯鹏华盈(Kleiner Perkins)牵头的 C 轮融资，以主导在线语言学习 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/duolingo-raises-20m-series-c-round-led-by-kleiner-perkins-wants-to-dominate-online-language-learning/>
 

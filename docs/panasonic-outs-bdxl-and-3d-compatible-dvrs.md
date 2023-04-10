@@ -1,4 +1,4 @@
-# 松下推出兼容 BDXL 和 3D 的 DVR TechCrunch
+# 松下推出兼容 BDXL 和 3D 的 DVR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/panasonic-outs-bdxl-and-3d-compatible-dvrs/>
 

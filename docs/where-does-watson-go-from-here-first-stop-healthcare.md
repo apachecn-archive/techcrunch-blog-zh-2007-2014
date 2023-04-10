@@ -1,4 +1,4 @@
-# 沃森将何去何从？第一站:医疗保健 TechCrunch
+# 沃森将何去何从？第一站:医疗保健 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/where-does-watson-go-from-here-first-stop-healthcare/>
 

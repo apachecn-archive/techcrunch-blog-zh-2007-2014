@@ -1,4 +1,4 @@
-# LinkedIn 取消了聪明但不明智的“介绍”功能和幻灯片产品 TechCrunch
+# LinkedIn 取消了聪明但不明智的“介绍”功能和幻灯片产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/07/linkedin-axing-clever-but-ill-advised-intro-feature-and-slidecast-product/>
 

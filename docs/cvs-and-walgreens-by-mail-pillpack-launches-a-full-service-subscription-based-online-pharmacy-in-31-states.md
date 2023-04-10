@@ -1,4 +1,4 @@
-# PillPack 通过邮件与 CVS 和 Walgreens 竞争，推出基于订阅的全方位服务在线药房 TechCrunch
+# PillPack 通过邮件与 CVS 和 Walgreens 竞争，推出基于订阅的全方位服务在线药房 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/cvs-and-walgreens-by-mail-pillpack-launches-a-full-service-subscription-based-online-pharmacy-in-31-states/>
 

@@ -1,4 +1,4 @@
-# 索尼面向游戏玩家的 3D 显示器将于 11 月登陆日本 TechCrunch
+# 索尼面向游戏玩家的 3D 显示器将于 11 月登陆日本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/sonys-3d-display-for-gamers-to-arrive-in-japan-in-november/>
 

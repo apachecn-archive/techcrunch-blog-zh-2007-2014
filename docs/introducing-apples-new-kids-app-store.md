@@ -1,4 +1,4 @@
-# 介绍苹果新的“儿童”应用商店 TechCrunch
+# 介绍苹果新的“儿童”应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/22/introducing-apples-new-kids-app-store/>
 

@@ -1,4 +1,4 @@
-# 新款苹果 Thunderbolt 显示器是 IPS 显示器和 Thunderbolt Hub TechCrunch
+# 新款苹果 Thunderbolt 显示器是 IPS 显示器和 Thunderbolt Hub 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/the-new-apple-thunderbolt-display-is-an-ips-monitor-and-thunderbolt-hub/>
 

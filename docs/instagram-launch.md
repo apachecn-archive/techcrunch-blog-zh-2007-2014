@@ -1,4 +1,4 @@
-# Instagram 发布，希望通过图片点燃交流 TechCrunch
+# Instagram 发布，希望通过图片点燃交流 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/06/instagram-launch/>
 

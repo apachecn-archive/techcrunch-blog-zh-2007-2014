@@ -1,4 +1,4 @@
-# T-Mobile CMO 公司称今年没有 iPhone 5 TechCrunch
+# T-Mobile CMO 公司称今年没有 iPhone 5 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/t-mobile-cmo-says-no-iphone-5-this-year/>
 

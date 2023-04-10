@@ -1,4 +1,4 @@
-# 苹果价值十亿美元的数据中心将于今年完工。云端的 iTunes，有人吗？TechCrunch
+# 苹果价值十亿美元的数据中心将于今年完工。云端的 iTunes，有人吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/20/apple-data-center/>
 

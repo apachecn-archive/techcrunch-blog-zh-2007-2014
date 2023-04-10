@@ -1,4 +1,4 @@
-# “来自地狱的呼叫中心:”不满的呼叫中心员工泄露了所有 TechCrunch
+# “来自地狱的呼叫中心:”不满的呼叫中心员工泄露了所有 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/20/call-center-from-hell-disgruntled-call-center-employee-spills-all/>
 

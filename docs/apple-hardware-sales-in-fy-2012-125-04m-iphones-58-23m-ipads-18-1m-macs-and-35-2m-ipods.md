@@ -1,4 +1,4 @@
-# 2012 财年苹果硬件销量:1.2504 亿部 iPhones、5823 万部 iPads、1810 万部 MAC 和 3520 万部 ipod TechCrunch
+# 2012 财年苹果硬件销量:1.2504 亿部 iPhones、5823 万部 iPads、1810 万部 MAC 和 3520 万部 ipod 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/25/apple-hardware-sales-in-fy-2012-125-04m-iphones-58-23m-ipads-18-1m-macs-and-35-2m-ipods/>
 

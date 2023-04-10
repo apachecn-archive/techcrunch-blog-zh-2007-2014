@@ -1,4 +1,4 @@
-# 索尼降价 PS3 销量翻倍 TechCrunch
+# 索尼降价 PS3 销量翻倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/15/sony-price-cut-doubles-ps3-sales/>
 

@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯传记揭示了对苹果的反思，对安卓的蔑视 TechCrunch
+# 史蒂夫·乔布斯传记揭示了对苹果的反思，对安卓的蔑视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/steve-jobs-biography-reveals-reflections-on-apple-contempt-for-android/>
 

@@ -1,4 +1,4 @@
-# 自发布以来，谷歌地球下载量突破 10 亿次 TechCrunch
+# 自发布以来，谷歌地球下载量突破 10 亿次 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/google-earth-tops-1-billion-downloads-since-launch/>
 

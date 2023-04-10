@@ -1,4 +1,4 @@
-# 智能移动服务的兴起(不是应用！)TechCrunch
+# 智能移动服务的兴起(不是应用！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/21/rise-of-smart-mobile-services/>
 

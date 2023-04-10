@@ -1,4 +1,4 @@
-# 火狐创意总监阿萨·拉斯金离开 Mozilla 创办初创公司 Massive Health TechCrunch
+# 火狐创意总监阿萨·拉斯金离开 Mozilla 创办初创公司 Massive Health 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/14/aza-raskin-mozilla-massive-health/>
 

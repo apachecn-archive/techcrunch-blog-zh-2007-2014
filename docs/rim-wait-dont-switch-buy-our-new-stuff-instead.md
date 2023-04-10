@@ -1,4 +1,4 @@
-# RIM:等等！不要切换！请购买我们的新产品！TechCrunch
+# RIM:等等！不要切换！请购买我们的新产品！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/rim-wait-dont-switch-buy-our-new-stuff-instead/>
 

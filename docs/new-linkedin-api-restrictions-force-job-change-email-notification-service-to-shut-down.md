@@ -1,4 +1,4 @@
-# 新的 LinkedIn API 限制迫使工作变动电子邮件通知服务关闭 TechCrunch
+# 新的 LinkedIn API 限制迫使工作变动电子邮件通知服务关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/12/new-linkedin-api-restrictions-force-job-change-email-notification-service-to-shut-down/>
 

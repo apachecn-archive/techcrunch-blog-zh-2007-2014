@@ -1,4 +1,4 @@
-# 我们翻译苹果关于位置数据的问答，因此您不必 TechCrunch
+# 我们翻译苹果关于位置数据的问答，因此您不必 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/27/we-translate-apples-qa-on-location-data-so-you-dont-have-to/>
 

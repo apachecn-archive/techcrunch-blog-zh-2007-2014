@@ -1,4 +1,4 @@
-# CampusBuddy 将校园评分记录交给学生 TechCrunch
+# CampusBuddy 将校园评分记录交给学生 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/17/campusbuddy-hands-over-campus-grading-records-to-students/>
 

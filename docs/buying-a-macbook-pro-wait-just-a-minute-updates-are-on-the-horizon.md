@@ -1,4 +1,4 @@
-# 买 MacBook Pro？请稍等，更新即将推出 TechCrunch
+# 买 MacBook Pro？请稍等，更新即将推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/buying-a-macbook-pro-wait-just-a-minute-updates-are-on-the-horizon/>
 

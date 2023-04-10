@@ -1,4 +1,4 @@
-# 三星 Galaxy Nexus 泄露:图片、规格和发布日期 TechCrunch
+# 三星 Galaxy Nexus 泄露:图片、规格和发布日期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/samsung-galaxy-nexus-leaked-image-specs-and-launch-date/>
 

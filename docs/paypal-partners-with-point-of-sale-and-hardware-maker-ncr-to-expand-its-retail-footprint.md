@@ -1,4 +1,4 @@
-# PayPal 与销售点和硬件制造商 NCR 合作，扩大其零售业务 TechCrunch
+# PayPal 与销售点和硬件制造商 NCR 合作，扩大其零售业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/paypal-partners-with-point-of-sale-and-hardware-maker-ncr-to-expand-its-retail-footprint/>
 

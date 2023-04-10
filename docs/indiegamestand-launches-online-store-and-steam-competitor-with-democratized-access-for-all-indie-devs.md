@@ -1,4 +1,4 @@
-# IndieGameStand 推出在线商店和 Steam 竞争对手，为所有独立开发者提供大众化访问 TechCrunch
+# IndieGameStand 推出在线商店和 Steam 竞争对手，为所有独立开发者提供大众化访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/indiegamestand-launches-online-store-and-steam-competitor-with-democratized-access-for-all-indie-devs/>
 

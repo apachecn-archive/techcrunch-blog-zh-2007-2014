@@ -1,4 +1,4 @@
-# TechStars 网络新成员 Gazelle 实验室在坦帕湾成立 TechCrunch
+# TechStars 网络新成员 Gazelle 实验室在坦帕湾成立 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/new-techstars-network-member-gazelle-lab-launches-in-tampa-bay/>
 

@@ -1,4 +1,4 @@
-# WordPress.com 推出具有自定义域名、无限存储和支持的企业账户，每个网站每年 299 美元 TechCrunch
+# WordPress.com 推出具有自定义域名、无限存储和支持的企业账户，每个网站每年 299 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/05/wordpress-com-launches-business-accounts-with-custom-domains-unlimited-storage-support-for-299-per-site-per-year/>
 

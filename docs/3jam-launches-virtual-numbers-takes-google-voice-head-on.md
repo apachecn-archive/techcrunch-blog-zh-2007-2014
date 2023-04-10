@@ -1,4 +1,4 @@
-# 3jam 推出虚拟号码，直面谷歌语音 TechCrunch
+# 3jam 推出虚拟号码，直面谷歌语音 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/3jam-launches-virtual-numbers-takes-google-voice-head-on/>
 

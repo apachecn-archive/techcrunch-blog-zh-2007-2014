@@ -1,4 +1,4 @@
-# 回到我们的常规计划:Posterous 筹集了 500 万美元 TechCrunch
+# 回到我们的常规计划:Posterous 筹集了 500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/back-to-our-regularly-scheduled-program-posterous-raises-5-million/>
 

@@ -1,4 +1,4 @@
-# 哇——在线广告公司 Adknowledge 募集了 4500 万美元 TechCrunch
+# 哇——在线广告公司 Adknowledge 募集了 4500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/11/adknowledge-funding/>
 

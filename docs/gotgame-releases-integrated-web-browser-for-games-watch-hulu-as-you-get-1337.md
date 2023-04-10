@@ -1,4 +1,4 @@
-# GotGame 发布游戏集成网页浏览器；观看 Hulu 获得 1337 TechCrunch
+# GotGame 发布游戏集成网页浏览器；观看 Hulu 获得 1337 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/20/gotgame-releases-integrated-web-browser-for-games-watch-hulu-as-you-get-1337/>
 

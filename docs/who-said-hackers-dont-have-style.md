@@ -1,4 +1,4 @@
-# 谁说黑客没有风格？TechCrunch
+# 谁说黑客没有风格？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/who-said-hackers-dont-have-style/>
 

@@ -1,4 +1,4 @@
-# Andreessen Horowitz 赢得 Foursquare 投资者徽章 TechCrunch
+# Andreessen Horowitz 赢得 Foursquare 投资者徽章 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/12/andreessen-horowitz-to-win-the-foursquare-investor-badge/>
 

@@ -1,4 +1,4 @@
-# Babelverse 致力于翻译民主化 TechCrunch
+# Babelverse 致力于翻译民主化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/21/babelverse-is-out-to-democratise-translation/>
 

@@ -1,4 +1,4 @@
-# Office Depot 现在至少完成了一些 32GB 触摸板的延期订单 TechCrunch
+# Office Depot 现在至少完成了一些 32GB 触摸板的延期订单 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/office-depot-now-fulfilling-at-least-some-32gb-touchpad-backorders/>
 

@@ -1,4 +1,4 @@
-# Sonos 为 Android 推出 Sonos 控制器 TechCrunch
+# Sonos 为 Android 推出 Sonos 控制器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/sonos-launches-sonos-controller-for-android/>
 

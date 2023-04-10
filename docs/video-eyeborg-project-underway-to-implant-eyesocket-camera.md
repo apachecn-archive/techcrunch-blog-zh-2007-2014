@@ -1,4 +1,4 @@
-# 视频:植入眼袋摄像头的“Eyeborg”项目正在进行中 TechCrunch
+# 视频:植入眼袋摄像头的“Eyeborg”项目正在进行中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/05/video-eyeborg-project-underway-to-implant-eyesocket-camera/>
 

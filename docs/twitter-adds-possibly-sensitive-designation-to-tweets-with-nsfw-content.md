@@ -1,4 +1,4 @@
-# Twitter 为含有 NSFW 内容的推文添加“可能敏感”标识 TechCrunch
+# Twitter 为含有 NSFW 内容的推文添加“可能敏感”标识 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/28/twitter-adds-possibly-sensitive-designation-to-tweets-with-nsfw-content/>
 

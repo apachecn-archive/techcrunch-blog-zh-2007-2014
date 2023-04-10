@@ -1,4 +1,4 @@
-# 硅谷迷失了，又找到了 TechCrunch
+# 硅谷迷失了，又找到了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/04/silicon-valley-lost-and-found/>
 

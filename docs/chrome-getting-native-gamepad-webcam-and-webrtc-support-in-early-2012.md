@@ -1,4 +1,4 @@
-# Chrome 将于 2012 年初获得原生游戏手柄、网络摄像头和 WebRTC 支持 TechCrunch
+# Chrome 将于 2012 年初获得原生游戏手柄、网络摄像头和 WebRTC 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/24/chrome-getting-native-gamepad-webcam-and-webrtc-support-in-early-2012/>
 

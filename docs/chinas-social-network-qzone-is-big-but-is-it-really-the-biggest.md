@@ -1,4 +1,4 @@
-# 中国的社交网络 QZone 很大，但真的是最大的吗？TechCrunch
+# 中国的社交网络 QZone 很大，但真的是最大的吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/24/chinas-social-network-qzone-is-big-but-is-it-really-the-biggest/>
 

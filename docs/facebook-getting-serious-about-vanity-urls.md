@@ -1,4 +1,4 @@
-# 脸书开始认真对待虚荣心网址 TechCrunch
+# 脸书开始认真对待虚荣心网址 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/12/facebook-getting-serious-about-vanity-urls/>
 

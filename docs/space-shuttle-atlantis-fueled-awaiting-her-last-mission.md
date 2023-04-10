@@ -1,4 +1,4 @@
-# 亚特兰蒂斯号航天飞机加满燃料，等待最后一次任务 TechCrunch
+# 亚特兰蒂斯号航天飞机加满燃料，等待最后一次任务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/14/space-shuttle-atlantis-fueled-awaiting-her-last-mission/>
 

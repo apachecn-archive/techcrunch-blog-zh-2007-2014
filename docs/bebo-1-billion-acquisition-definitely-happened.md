@@ -1,4 +1,4 @@
-# Bebo:高达 10 亿美元的收购“肯定会发生”,来源 TechCrunch
+# Bebo:高达 10 亿美元的收购“肯定会发生”,来源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/12/bebo-1-billion-acquisition-definitely-happened/>
 

@@ -1,4 +1,4 @@
-# 叫出租车便宜为什么要用 UberCab？TechCrunch
+# 叫出租车便宜为什么要用 UberCab？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/why-use-ubercab-when-calling-a-cab-is-cheaper/>
 

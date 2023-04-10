@@ -1,4 +1,4 @@
-# 凭借其 50 亿美元的股票回购计划，雅虎仍有大量现金用于收购 TechCrunch
+# 凭借其 50 亿美元的股票回购计划，雅虎仍有大量现金用于收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/with-its-5-billion-share-buyback-program-yahoo-still-has-a-big-pile-of-cash-for-acquisitions/>
 

@@ -1,4 +1,4 @@
-# 购买你自己的 Netvibes/page flakes——起价 90 美元 TechCrunch
+# 购买你自己的 Netvibes/page flakes——起价 90 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/24/how-much-to-become-a-personalized-desktop-page-provider-bidding-starts-at-90/>
 

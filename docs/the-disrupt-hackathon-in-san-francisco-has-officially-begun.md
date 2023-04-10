@@ -1,4 +1,4 @@
-# 旧金山的 Disrupt 黑客马拉松正式开始了 TechCrunch
+# 旧金山的 Disrupt 黑客马拉松正式开始了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/10/the-disrupt-hackathon-in-san-francisco-has-officially-begun/>
 

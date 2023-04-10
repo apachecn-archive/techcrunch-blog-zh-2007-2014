@@ -1,4 +1,4 @@
-# 谷歌将推出风险基金 TechCrunch
+# 谷歌将推出风险基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/30/google-to-launch-venture-fund/>
 

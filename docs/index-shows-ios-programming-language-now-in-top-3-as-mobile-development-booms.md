@@ -1,4 +1,4 @@
-# 索引显示，随着移动开发的繁荣，iOS 编程语言现在位居前三 TechCrunch
+# 索引显示，随着移动开发的繁荣，iOS 编程语言现在位居前三 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/05/index-shows-ios-programming-language-now-in-top-3-as-mobile-development-booms/>
 

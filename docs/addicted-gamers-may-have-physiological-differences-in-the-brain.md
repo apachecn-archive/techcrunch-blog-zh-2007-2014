@@ -1,4 +1,4 @@
-# 沉迷游戏者的大脑可能存在生理差异 TechCrunch
+# 沉迷游戏者的大脑可能存在生理差异 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/addicted-gamers-may-have-physiological-differences-in-the-brain/>
 

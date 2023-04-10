@@ -1,4 +1,4 @@
-# Joypad 把你的 iPhone 变成了一个遥控器；推出新的 SDK，将 iOS 游戏引入 Apple TV TechCrunch
+# Joypad 把你的 iPhone 变成了一个遥控器；推出新的 SDK，将 iOS 游戏引入 Apple TV 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/joypad-turns-your-iphone-into-a-remote-control-launches-new-sdk-to-bring-ios-gaming-to-apple-tv/>
 

@@ -1,4 +1,4 @@
-# 微软准备通过 75 家零售店挑战苹果商店 TechCrunch
+# 微软准备通过 75 家零售店挑战苹果商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/microsoft-ready-to-take-on-apple-stores-with-75-more-retail-stores/>
 

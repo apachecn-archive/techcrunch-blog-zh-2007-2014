@@ -1,4 +1,4 @@
-# Twitter 与 Billboard 合作，帮助扩大音乐对话的范围 TechCrunch
+# Twitter 与 Billboard 合作，帮助扩大音乐对话的范围 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/twitter-partners-with-billboard-to-help-expand-the-reach-of-music-conversations/>
 

@@ -1,4 +1,4 @@
-# Blippy 团队推出 Tophatter iPhone 应用程序，提供令人惊讶的有趣现场拍卖 TechCrunch
+# Blippy 团队推出 Tophatter iPhone 应用程序，提供令人惊讶的有趣现场拍卖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/10/tophatter-iphone/>
 

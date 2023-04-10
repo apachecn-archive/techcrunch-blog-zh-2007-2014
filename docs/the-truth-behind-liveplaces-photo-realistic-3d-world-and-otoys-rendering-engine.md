@@ -1,4 +1,4 @@
-# Liveplace 照片般逼真的 3D 世界和 OTOY 渲染引擎背后的真相 TechCrunch
+# Liveplace 照片般逼真的 3D 世界和 OTOY 渲染引擎背后的真相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/20/the-truth-behind-liveplaces-photo-realistic-3d-world-and-otoys-rendering-engine/>
 

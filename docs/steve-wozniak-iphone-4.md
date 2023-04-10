@@ -1,4 +1,4 @@
-# 沃兹的 iPhone 4 也遇到了接收问题 TechCrunch
+# 沃兹的 iPhone 4 也遇到了接收问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/15/steve-wozniak-iphone-4/>
 

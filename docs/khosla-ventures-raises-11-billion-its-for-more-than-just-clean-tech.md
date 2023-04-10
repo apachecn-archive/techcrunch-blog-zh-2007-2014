@@ -1,4 +1,4 @@
-# 科斯拉风险投资公司融资 11 亿美元。这不仅仅是为了清洁技术。TechCrunch
+# 科斯拉风险投资公司融资 11 亿美元。这不仅仅是为了清洁技术。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/01/khosla-ventures-raises-11-billion-its-for-more-than-just-clean-tech/>
 

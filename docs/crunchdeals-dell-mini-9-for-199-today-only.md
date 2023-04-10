@@ -1,4 +1,4 @@
-# CrunchDeals:戴尔 Mini 9 售价 199 美元，仅限今日 TechCrunch
+# CrunchDeals:戴尔 Mini 9 售价 199 美元，仅限今日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/27/crunchdeals-dell-mini-9-for-199-today-only/>
 

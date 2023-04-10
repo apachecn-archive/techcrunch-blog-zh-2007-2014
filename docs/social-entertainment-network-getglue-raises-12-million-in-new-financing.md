@@ -1,4 +1,4 @@
-# 社交娱乐网络 GetGlue 新融资 1200 万美元 TechCrunch
+# 社交娱乐网络 GetGlue 新融资 1200 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/11/social-entertainment-network-getglue-raises-12-million-in-new-financing/>
 

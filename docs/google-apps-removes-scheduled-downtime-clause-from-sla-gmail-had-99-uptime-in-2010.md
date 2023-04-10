@@ -1,4 +1,4 @@
-# Google Apps 从 SLA 中删除计划停机条款；2010 年 Gmail 有 99%的正常运行时间 TechCrunch
+# Google Apps 从 SLA 中删除计划停机条款；2010 年 Gmail 有 99%的正常运行时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/14/google-apps-removes-scheduled-downtime-clause-from-sla-gmail-had-99-uptime-in-2010/>
 

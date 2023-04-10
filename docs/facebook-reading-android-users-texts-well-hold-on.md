@@ -1,4 +1,4 @@
-# 脸书偷看安卓用户的短信？好吧，等一下 TechCrunch
+# 脸书偷看安卓用户的短信？好吧，等一下 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/facebook-reading-android-users-texts-well-hold-on/>
 

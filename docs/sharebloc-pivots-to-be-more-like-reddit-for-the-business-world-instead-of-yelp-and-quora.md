@@ -1,4 +1,4 @@
-# ShareBloc 转向更像商业世界的 Reddit，而不是 Yelp 和 Quora TechCrunch
+# ShareBloc 转向更像商业世界的 Reddit，而不是 Yelp 和 Quora 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/04/sharebloc-pivots-to-be-more-like-reddit-for-the-business-world-instead-of-yelp-and-quora/>
 

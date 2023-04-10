@@ -1,4 +1,4 @@
-# Keepod Unite 希望将电脑带给内罗毕最贫困的居民 TechCrunch
+# Keepod Unite 希望将电脑带给内罗毕最贫困的居民 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/keepod-unite-wants-to-bring-pcs-to-nairobis-poorest-residents/>
 

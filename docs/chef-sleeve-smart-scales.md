@@ -1,4 +1,4 @@
-# 厨师袖上的联网厨房秤可逐口追踪您的营养 TechCrunch
+# 厨师袖上的联网厨房秤可逐口追踪您的营养 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/02/chef-sleeve-smart-scales/>
 

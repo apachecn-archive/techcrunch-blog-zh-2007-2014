@@ -1,4 +1,4 @@
-# 2011 年 30 大安卓应用和游戏 TechCrunch
+# 2011 年 30 大安卓应用和游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/24/top-30-android-apps-2011/>
 

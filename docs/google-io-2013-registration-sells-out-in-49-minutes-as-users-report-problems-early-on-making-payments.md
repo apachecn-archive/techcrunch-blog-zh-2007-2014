@@ -1,4 +1,4 @@
-# Google I/O 2013 注册在 49 分钟内售罄，因为用户在支付早期就报告了问题 TechCrunch
+# Google I/O 2013 注册在 49 分钟内售罄，因为用户在支付早期就报告了问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/google-io-2013-registration-sells-out-in-49-minutes-as-users-report-problems-early-on-making-payments/>
 

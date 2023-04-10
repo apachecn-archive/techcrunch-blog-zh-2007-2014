@@ -1,4 +1,4 @@
-# 谷歌推出第一个超级碗广告 TechCrunch
+# 谷歌推出第一个超级碗广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/07/google-super-bowl-ad/>
 

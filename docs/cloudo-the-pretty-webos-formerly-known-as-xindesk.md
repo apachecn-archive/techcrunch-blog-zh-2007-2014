@@ -1,4 +1,4 @@
-# Cloudo:漂亮的 WebOS，原名为 Xindesk TechCrunch
+# Cloudo:漂亮的 WebOS，原名为 Xindesk 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/22/cloudo-the-pretty-webos-formerly-known-as-xindesk/>
 

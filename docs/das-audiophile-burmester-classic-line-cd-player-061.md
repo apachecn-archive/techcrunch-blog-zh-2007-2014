@@ -1,4 +1,4 @@
-# Das 音响发烧友:Burmester 经典系列 CD 播放器 061 TechCrunch
+# Das 音响发烧友:Burmester 经典系列 CD 播放器 061 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/05/das-audiophile-burmester-classic-line-cd-player-061/>
 

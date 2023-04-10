@@ -1,4 +1,4 @@
-# 谷歌为开发者推出 Hangouts API TechCrunch
+# 谷歌为开发者推出 Hangouts API 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/google-launches-hangouts-api-for-developers/>
 

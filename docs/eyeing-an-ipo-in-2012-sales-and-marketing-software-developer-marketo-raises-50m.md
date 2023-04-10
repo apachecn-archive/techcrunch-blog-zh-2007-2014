@@ -1,4 +1,4 @@
-# 着眼于 2012 年的首次公开募股，销售和营销软件开发商 Marketo 筹集了 5000 万美元 TechCrunch
+# 着眼于 2012 年的首次公开募股，销售和营销软件开发商 Marketo 筹集了 5000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/eyeing-an-ipo-in-2012-sales-and-marketing-software-developer-marketo-raises-50m/>
 

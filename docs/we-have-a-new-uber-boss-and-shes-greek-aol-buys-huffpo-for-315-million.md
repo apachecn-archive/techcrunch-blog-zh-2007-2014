@@ -1,4 +1,4 @@
-# 我们有了一个新的优步老板，她是希腊人:美国在线以 3.15 亿美元收购赫芬顿邮报 TechCrunch
+# 我们有了一个新的优步老板，她是希腊人:美国在线以 3.15 亿美元收购赫芬顿邮报 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/06/we-have-a-new-uber-boss-and-shes-greek-aol-buys-huffpo-for-315-million/>
 

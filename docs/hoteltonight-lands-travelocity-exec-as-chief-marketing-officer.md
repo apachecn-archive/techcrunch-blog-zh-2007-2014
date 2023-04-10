@@ -1,4 +1,4 @@
-# HotelTonight 将 Travelocity 高管任命为首席营销官 TechCrunch
+# HotelTonight 将 Travelocity 高管任命为首席营销官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/hoteltonight-lands-travelocity-exec-as-chief-marketing-officer/>
 

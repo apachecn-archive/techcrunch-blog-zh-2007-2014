@@ -1,4 +1,4 @@
-# Jibe 的社交工作板每月吸引超过 100 万的工作浏览量 TechCrunch
+# Jibe 的社交工作板每月吸引超过 100 万的工作浏览量 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/09/jibes-social-job-board-has-signed-up-a-quarter-of-the-fortune-50/>
 

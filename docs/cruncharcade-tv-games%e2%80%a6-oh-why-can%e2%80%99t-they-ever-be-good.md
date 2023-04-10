@@ -1,4 +1,4 @@
-# 电视游戏……哦，为什么它们总是不好？TechCrunch
+# 电视游戏……哦，为什么它们总是不好？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/cruncharcade-tv-games%e2%80%a6-oh-why-can%e2%80%99t-they-ever-be-good/>
 

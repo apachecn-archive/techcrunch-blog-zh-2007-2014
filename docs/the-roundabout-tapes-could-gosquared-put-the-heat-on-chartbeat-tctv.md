@@ -1,4 +1,4 @@
-# 迂回磁带 GoSquared 能给 Chartbeat 施加压力吗？TechCrunch
+# 迂回磁带 GoSquared 能给 Chartbeat 施加压力吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/14/the-roundabout-tapes-could-gosquared-put-the-heat-on-chartbeat-tctv/>
 

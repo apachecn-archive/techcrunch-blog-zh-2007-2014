@@ -1,4 +1,4 @@
-# 看看我漂亮实用的袖珍大炮 TechCrunch
+# 看看我漂亮实用的袖珍大炮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/just-look-at-my-beautiful-working-pocket-cannon/>
 

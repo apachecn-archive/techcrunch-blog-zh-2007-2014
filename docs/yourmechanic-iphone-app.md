@@ -1,4 +1,4 @@
-# 你的机械师启动一个 iPhone 应用程序，让你在旅途中与机械师联系 TechCrunch
+# 你的机械师启动一个 iPhone 应用程序，让你在旅途中与机械师联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/17/yourmechanic-iphone-app/>
 

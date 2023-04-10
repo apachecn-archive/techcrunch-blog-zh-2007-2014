@@ -1,4 +1,4 @@
-# 又一款智能手表加入了这场战斗，这款是“热门”的 TechCrunch
+# 又一款智能手表加入了这场战斗，这款是“热门”的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/31/yet-another-smart-watch-joins-the-fight-and-this-ones-hot/>
 

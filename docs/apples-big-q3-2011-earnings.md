@@ -1,4 +1,4 @@
-# 苹果公司以创纪录的收入、利润、iPhone 和 iPad 销量打破了第三季度的收益预期 TechCrunch
+# 苹果公司以创纪录的收入、利润、iPhone 和 iPad 销量打破了第三季度的收益预期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/apples-big-q3-2011-earnings/>
 

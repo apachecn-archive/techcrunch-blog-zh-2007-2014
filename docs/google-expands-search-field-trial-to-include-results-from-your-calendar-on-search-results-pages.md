@@ -1,4 +1,4 @@
-# Google 扩大搜索领域试验，将您日历中的结果纳入其搜索结果页面 TechCrunch
+# Google 扩大搜索领域试验，将您日历中的结果纳入其搜索结果页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/27/google-expands-search-field-trial-to-include-results-from-your-calendar-on-search-results-pages/>
 

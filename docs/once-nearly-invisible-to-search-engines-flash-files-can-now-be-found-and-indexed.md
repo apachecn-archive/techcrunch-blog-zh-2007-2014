@@ -1,4 +1,4 @@
-# 以前搜索引擎几乎看不到 Flash 文件，现在可以找到并建立索引 TechCrunch
+# 以前搜索引擎几乎看不到 Flash 文件，现在可以找到并建立索引 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/30/once-nearly-invisible-to-search-engines-flash-files-can-now-be-found-and-indexed/>
 

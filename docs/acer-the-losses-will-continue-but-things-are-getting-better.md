@@ -1,4 +1,4 @@
-# 宏碁:亏损将继续，但情况正在好转 TechCrunch
+# 宏碁:亏损将继续，但情况正在好转 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/acer-the-losses-will-continue-but-things-are-getting-better/>
 

@@ -1,4 +1,4 @@
-# 传闻:Windows Phone 7 芒果将于 9 月 1 日推出？TechCrunch
+# 传闻:Windows Phone 7 芒果将于 9 月 1 日推出？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/rumor-windows-phone-7-mango-to-launch-on-september-1st/>
 

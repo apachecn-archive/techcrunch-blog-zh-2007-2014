@@ -1,4 +1,4 @@
-# TechCrunch 决赛 7 强争夺奖杯扰乱 TechCrunch
+# TechCrunch 决赛 7 强争夺奖杯扰乱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/29/techcrunch-disrupt-finalists/>
 

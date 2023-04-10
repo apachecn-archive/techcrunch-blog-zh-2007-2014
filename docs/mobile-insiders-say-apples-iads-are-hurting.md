@@ -1,4 +1,4 @@
-# 手机业内人士表示，苹果的 iAds 正在“伤害”TechCrunch
+# 手机业内人士表示，苹果的 iAds 正在“伤害”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/mobile-insiders-say-apples-iads-are-hurting/>
 

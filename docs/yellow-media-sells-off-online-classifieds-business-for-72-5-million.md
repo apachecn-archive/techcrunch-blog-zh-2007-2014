@@ -1,4 +1,4 @@
-# 黄色媒体以 7250 万美元出售在线分类广告业务 TechCrunch
+# 黄色媒体以 7250 万美元出售在线分类广告业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/yellow-media-sells-off-online-classifieds-business-for-72-5-million/>
 

@@ -1,4 +1,4 @@
-# Psystar 现在需要的是律师，可爱的律师 TechCrunch
+# Psystar 现在需要的是律师，可爱的律师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/02/what-psystar-needs-now-is-lawyers-sweet-lawyers/>
 

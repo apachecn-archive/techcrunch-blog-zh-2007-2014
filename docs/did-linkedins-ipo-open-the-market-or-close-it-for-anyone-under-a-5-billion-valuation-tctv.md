@@ -1,4 +1,4 @@
-# LinkedIn 的 IPO 对估值低于 50 亿美元的人来说是打开了市场还是关闭了市场？TechCrunch
+# LinkedIn 的 IPO 对估值低于 50 亿美元的人来说是打开了市场还是关闭了市场？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/did-linkedins-ipo-open-the-market-or-close-it-for-anyone-under-a-5-billion-valuation-tctv/>
 

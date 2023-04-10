@@ -1,4 +1,4 @@
-# 艾伦公司选择的初创公司:Airbnb、Dropbox 和 Quora TechCrunch
+# 艾伦公司选择的初创公司:Airbnb、Dropbox 和 Quora 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/allen-co-s-chosen-startups-airbnb-dropbox-and-quora/>
 

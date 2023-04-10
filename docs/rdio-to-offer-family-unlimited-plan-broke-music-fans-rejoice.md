@@ -1,4 +1,4 @@
-# Rdio 将为家庭提供无限计划，破产音乐迷欢欣鼓舞 TechCrunch
+# Rdio 将为家庭提供无限计划，破产音乐迷欢欣鼓舞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/rdio-to-offer-family-unlimited-plan-broke-music-fans-rejoice/>
 

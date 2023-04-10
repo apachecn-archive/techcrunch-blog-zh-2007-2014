@@ -1,4 +1,4 @@
-# 致 LivingSocial 的公开信:从 Groupon 的国际错误中吸取教训 TechCrunch
+# 致 LivingSocial 的公开信:从 Groupon 的国际错误中吸取教训 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/an-open-letter-to-livingsocial-learn-from-groupons-international-mistakes/>
 

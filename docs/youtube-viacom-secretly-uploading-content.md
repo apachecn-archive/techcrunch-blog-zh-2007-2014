@@ -1,4 +1,4 @@
-# YouTube 辩护:维亚康姆“秘密上传”内容，他们试图购买我们 TechCrunch
+# YouTube 辩护:维亚康姆“秘密上传”内容，他们试图购买我们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/18/youtube-viacom-secretly-uploading-content/>
 

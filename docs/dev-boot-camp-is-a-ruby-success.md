@@ -1,4 +1,4 @@
-# 初创公司向 Dev Bootcamp 的 Ruby 毕业生献殷勤:88%的毕业生出价平均为 7.9 万美元 TechCrunch
+# 初创公司向 Dev Bootcamp 的 Ruby 毕业生献殷勤:88%的毕业生出价平均为 7.9 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/10/dev-boot-camp-is-a-ruby-success/>
 

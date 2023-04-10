@@ -1,4 +1,4 @@
-# 观看 iPad Mini 和 Nexus 7 在跌落测试中的对决 TechCrunch
+# 观看 iPad Mini 和 Nexus 7 在跌落测试中的对决 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/02/watch-the-ipad-mini-and-nexus-7-face-off-in-a-drop-test/>
 

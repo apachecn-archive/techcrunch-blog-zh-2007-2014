@@ -1,4 +1,4 @@
-# 发展度假租赁为在线房源带来白手套服务 TechCrunch
+# 发展度假租赁为在线房源带来白手套服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/evolve-vacation-rental/>
 

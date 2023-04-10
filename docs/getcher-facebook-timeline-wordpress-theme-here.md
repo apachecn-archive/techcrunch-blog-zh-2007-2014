@@ -1,4 +1,4 @@
-# Getcher 脸书时间线 Wordpress 主题点击此处 TechCrunch
+# Getcher 脸书时间线 Wordpress 主题点击此处 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/getcher-facebook-timeline-wordpress-theme-here/>
 

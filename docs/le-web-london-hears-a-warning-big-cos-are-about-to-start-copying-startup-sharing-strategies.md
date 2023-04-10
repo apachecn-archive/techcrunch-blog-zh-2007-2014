@@ -1,4 +1,4 @@
-# Le Web London 听到了一个警告——大 Cos。即将开始复制创业分享战略[TCTV]TechCrunch
+# Le Web London 听到了一个警告——大 Cos。即将开始复制创业分享战略[TCTV]
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/06/05/le-web-london-hears-a-warning-big-cos-are-about-to-start-copying-startup-sharing-strategies/>
 

@@ -1,4 +1,4 @@
-# KidZui 推出“儿童互联网体验”ZUI.com，募集 200 万美元 TechCrunch
+# KidZui 推出“儿童互联网体验”ZUI.com，募集 200 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/kidzui-launches-zui-com-an-internet-experience-for-kids-raises-2-million/>
 

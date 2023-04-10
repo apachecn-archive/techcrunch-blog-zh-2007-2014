@@ -1,4 +1,4 @@
-# 谷歌语音创始人再次将目光投向 VoIP TechCrunch
+# 谷歌语音创始人再次将目光投向 VoIP 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/07/google-voice-founder-sets-his-sights-on-voip-once-again/>
 

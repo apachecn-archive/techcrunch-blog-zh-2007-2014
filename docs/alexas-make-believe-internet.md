@@ -1,4 +1,4 @@
-# Alexa 的虚拟互联网 TechCrunch
+# Alexa 的虚拟互联网 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/25/alexas-make-believe-internet/>
 

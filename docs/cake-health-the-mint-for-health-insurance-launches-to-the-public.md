@@ -1,4 +1,4 @@
-# “健康保险造币厂”Cake Health 向公众推出 TechCrunch
+# “健康保险造币厂”Cake Health 向公众推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/cake-health-the-mint-for-health-insurance-launches-to-the-public/>
 

@@ -1,4 +1,4 @@
-# 穷困潦倒:Spotify 停止了它在欧洲的音乐下载服务，但是到底有多少人在使用它呢？[更新 TechCrunch
+# 穷困潦倒:Spotify 停止了它在欧洲的音乐下载服务，但是到底有多少人在使用它呢？[更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/04/down-and-out-spotify-stops-its-music-download-service-in-europe-but-how-many-were-using-it-anyway/>
 

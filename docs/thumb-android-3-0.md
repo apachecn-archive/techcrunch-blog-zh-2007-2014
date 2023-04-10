@@ -1,4 +1,4 @@
-# Thumb 为 Android 带来了新的观点分享应用程序，称现在平均每月参与 5 小时 TechCrunch
+# Thumb 为 Android 带来了新的观点分享应用程序，称现在平均每月参与 5 小时 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/thumb-android-3-0/>
 

@@ -1,4 +1,4 @@
-# 零佣金股票交易应用 RobinHood 启动私人测试版 TechCrunch
+# 零佣金股票交易应用 RobinHood 启动私人测试版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/trade-stocks-free-robinhood/>
 

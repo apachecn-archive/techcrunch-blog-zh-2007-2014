@@ -1,4 +1,4 @@
-# Jaiku Uncaps 邀请，迁移到谷歌基础设施 TechCrunch
+# Jaiku Uncaps 邀请，迁移到谷歌基础设施 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/28/jaiku-uncaps-invites-migrates-to-google-infrastructure/>
 

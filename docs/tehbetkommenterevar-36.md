@@ -1,4 +1,4 @@
-# 格兰。be $ T . kommenter . evar TechCrunch
+# 格兰。be $ T . kommenter . evar 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/04/tehbetkommenterevar-36/>
 

@@ -1,4 +1,4 @@
-# OfficeTime 费用跟踪软件通过 iPhone、iPad 应用程序扩展到 iOS TechCrunch
+# OfficeTime 费用跟踪软件通过 iPhone、iPad 应用程序扩展到 iOS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/officetime-expense-tracking-software-expands-to-ios-with-iphone-ipad-apps/>
 

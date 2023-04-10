@@ -1,4 +1,4 @@
-# 高通改造其骁龙产品线，推出高端 Snapdragon 800 和 600 芯片组 TechCrunch
+# 高通改造其骁龙产品线，推出高端 Snapdragon 800 和 600 芯片组 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/07/qualcomm-revamps-its-snapdragon-line-unveils-the-high-end-snapdragon-800-and-600-chipsets/>
 

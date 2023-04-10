@@ -1,4 +1,4 @@
-# 纽约图灵研究员吸引顶尖科技学生到大苹果创业公司 TechCrunch
+# 纽约图灵研究员吸引顶尖科技学生到大苹果创业公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/11/nyc-turing-fellowship-launch/>
 

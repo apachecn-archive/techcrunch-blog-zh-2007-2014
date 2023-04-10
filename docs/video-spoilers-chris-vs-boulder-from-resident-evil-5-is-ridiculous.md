@@ -1,4 +1,4 @@
-# 视频剧透:来自《生化危机 5》的克里斯 vs 博尔德太可笑了 TechCrunch
+# 视频剧透:来自《生化危机 5》的克里斯 vs 博尔德太可笑了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/30/video-spoilers-chris-vs-boulder-from-resident-evil-5-is-ridiculous/>
 

@@ -1,4 +1,4 @@
-# 拉夫特收购 HubEdu，帮助其挑战教科书行业 TechCrunch
+# 拉夫特收购 HubEdu，帮助其挑战教科书行业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/rafter-acquires-hubedu/>
 

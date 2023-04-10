@@ -1,4 +1,4 @@
-# 翻新 iPhones 登陆苹果商店——TechCrunch
+# 翻新 iPhones 登陆苹果商店——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/refurbished-iphones-hit-apple-store/>
 

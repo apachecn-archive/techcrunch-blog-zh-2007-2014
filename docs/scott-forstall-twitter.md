@@ -1,4 +1,4 @@
-# 苹果公司的 SVP·斯科特·福斯特尔刚刚注册了推特——但是为什么呢？TechCrunch
+# 苹果公司的 SVP·斯科特·福斯特尔刚刚注册了推特——但是为什么呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/13/scott-forstall-twitter/>
 

@@ -1,4 +1,4 @@
-# 推荐引擎 StumbleUpon 意外获得来自 Accel、August Capital 和其他公司的 1700 万美元 TechCrunch
+# 推荐引擎 StumbleUpon 意外获得来自 Accel、August Capital 和其他公司的 1700 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/09/stumbleupon-stumbles-onto-17m-from-accel-and-others/>
 

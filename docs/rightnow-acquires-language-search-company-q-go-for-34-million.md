@@ -1,4 +1,4 @@
-# RightNow 以 3400 万美元收购自然语言搜索公司 Q-go TechCrunch
+# RightNow 以 3400 万美元收购自然语言搜索公司 Q-go 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/rightnow-acquires-language-search-company-q-go-for-34-million/>
 

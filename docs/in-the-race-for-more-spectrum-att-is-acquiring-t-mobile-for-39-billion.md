@@ -1,4 +1,4 @@
-# 在争夺更多频谱的竞争中，美国电话电报公司以 390 亿美元收购了 T-Mobile TechCrunch
+# 在争夺更多频谱的竞争中，美国电话电报公司以 390 亿美元收购了 T-Mobile 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/20/in-the-race-for-more-spectrum-att-is-acquiring-t-mobile-for-39-billion/>
 

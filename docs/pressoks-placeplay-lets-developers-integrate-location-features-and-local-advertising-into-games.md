@@ -1,4 +1,4 @@
-# PressOK 的 PlacePlay 允许开发者将位置功能和本地广告整合到游戏中 TechCrunch
+# PressOK 的 PlacePlay 允许开发者将位置功能和本地广告整合到游戏中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/pressoks-placeplay-lets-developers-integrate-location-features-and-local-advertising-into-games/>
 

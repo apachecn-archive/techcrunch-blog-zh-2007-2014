@@ -1,4 +1,4 @@
-# Spotify 悄悄开始在其网络应用程序中推出发现标签，首先在英国和北欧 TechCrunch
+# Spotify 悄悄开始在其网络应用程序中推出发现标签，首先在英国和北欧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/28/spotify-quietly-starts-rolling-out-the-discover-tab-in-its-web-app-in-the-uk-and-nordic-markets/>
 

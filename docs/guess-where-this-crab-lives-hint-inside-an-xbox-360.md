@@ -1,4 +1,4 @@
-# 猜猜这只螃蟹住在哪里！(提示:在 Xbox 360 内部)TechCrunch
+# 猜猜这只螃蟹住在哪里！(提示:在 Xbox 360 内部)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/guess-where-this-crab-lives-hint-inside-an-xbox-360/>
 

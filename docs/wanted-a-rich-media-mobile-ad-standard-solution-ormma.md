@@ -1,4 +1,4 @@
-# 招聘:富媒体移动广告标准。解决方法:ORMMA？TechCrunch
+# 招聘:富媒体移动广告标准。解决方法:ORMMA？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/18/wanted-a-rich-media-mobile-ad-standard-solution-ormma/>
 

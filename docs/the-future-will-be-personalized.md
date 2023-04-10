@@ -1,4 +1,4 @@
-# 未来将是个性化的 TechCrunch
+# 未来将是个性化的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/16/the-future-will-be-personalized/>
 

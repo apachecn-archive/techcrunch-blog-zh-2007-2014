@@ -1,4 +1,4 @@
-# 脸书股价跌破 20 美元:比 MSFT 2008 年对雅虎的出价还低？TechCrunch
+# 脸书股价跌破 20 美元:比 MSFT 2008 年对雅虎的出价还低？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/02/facebook-drops-below-20-worth-less-than-what-msft-offered-for-yahoo-in-2008/>
 

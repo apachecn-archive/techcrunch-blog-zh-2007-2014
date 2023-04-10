@@ -1,4 +1,4 @@
-# 调查发现英国初创公司对增长和收入持乐观态度，对融资持悲观态度 TechCrunch
+# 调查发现英国初创公司对增长和收入持乐观态度，对融资持悲观态度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/survey-finds-uk-startups-upbeat-on-growth-and-revenues-downbeat-on-fundraising/>
 

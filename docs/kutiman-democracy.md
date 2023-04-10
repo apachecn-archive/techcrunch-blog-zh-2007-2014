@@ -1,4 +1,4 @@
-# 他挑战视频明星，现在库蒂曼挑战民主 TechCrunch
+# 他挑战视频明星，现在库蒂曼挑战民主 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/25/kutiman-democracy/>
 

@@ -1,4 +1,4 @@
-# 面向廉价手机的 windows Phone Tango 更新 TechCrunch
+# 面向廉价手机的 windows Phone Tango 更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/windows-phones-tango-update-bound-for-budget-handsets/>
 

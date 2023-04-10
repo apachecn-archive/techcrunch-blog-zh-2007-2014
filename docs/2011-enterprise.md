@@ -1,4 +1,4 @@
-# 2011 年:企业重置 TechCrunch
+# 2011 年:企业重置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/02/2011-enterprise/>
 

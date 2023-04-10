@@ -1,4 +1,4 @@
-# Duke Nukem Forever 预购奖金包括漂亮帽子 TechCrunch
+# Duke Nukem Forever 预购奖金包括漂亮帽子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/duke-nukem-forever-pre-order-bonuses-include-spiffy-hat/>
 

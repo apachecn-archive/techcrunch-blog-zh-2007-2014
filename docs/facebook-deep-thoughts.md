@@ -1,4 +1,4 @@
-# 自 2004 年以来，脸书“考虑”提供大规模接触式出口 TechCrunch
+# 自 2004 年以来，脸书“考虑”提供大规模接触式出口 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/28/facebook-deep-thoughts/>
 

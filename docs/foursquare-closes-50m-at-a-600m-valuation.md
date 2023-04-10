@@ -1,4 +1,4 @@
-# Foursquare 以 6 亿美元的估值收盘 5000 万美元 TechCrunch
+# Foursquare 以 6 亿美元的估值收盘 5000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/24/foursquare-closes-50m-at-a-600m-valuation/>
 

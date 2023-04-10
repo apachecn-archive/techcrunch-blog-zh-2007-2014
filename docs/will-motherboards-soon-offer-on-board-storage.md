@@ -1,4 +1,4 @@
-# 主板会很快提供板载存储吗？TechCrunch
+# 主板会很快提供板载存储吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/will-motherboards-soon-offer-on-board-storage/>
 

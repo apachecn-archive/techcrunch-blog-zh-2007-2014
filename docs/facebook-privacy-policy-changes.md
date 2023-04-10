@@ -1,4 +1,4 @@
-# 脸书充实隐私政策以符合数据保护审计，将于周一举行问答 TechCrunch
+# 脸书充实隐私政策以符合数据保护审计，将于周一举行问答 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/11/facebook-privacy-policy-changes/>
 

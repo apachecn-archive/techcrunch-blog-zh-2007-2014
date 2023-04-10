@@ -1,4 +1,4 @@
-# 库彻在 Twitter 上超越了 CNN 但你也不能不关注 TechCrunch
+# 库彻在 Twitter 上超越了 CNN 但你也不能不关注 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/16/kutcher-surges-past-cnn-on-twitter-but-you-cant-unfollow-either/?awesm=tcrn.ch_GN&utm_medium=awesm-twitter&utm_content=bookmarklet-twitter&utm_campaign=techcrunch&utm_source=direct-awesm>
 

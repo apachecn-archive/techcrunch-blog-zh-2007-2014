@@ -1,4 +1,4 @@
-# 三星发布 Galaxy Note 10.1 和投影仪智能手机 TechCrunch
+# 三星发布 Galaxy Note 10.1 和投影仪智能手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/26/samsung-announces-galaxy-note-10-1-and-projector-smartphone/>
 

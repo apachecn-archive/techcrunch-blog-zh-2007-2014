@@ -1,4 +1,4 @@
-# 收购易贝后，GSI 商务创始人与 Rue La La 和 ShopRunner 一起启动 Kynetic TechCrunch
+# 收购易贝后，GSI 商务创始人与 Rue La La 和 ShopRunner 一起启动 Kynetic 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/after-ebay-acquisition-gsi-commerce-founder-launches-kynetic-with-rue-la-la-and-shoprunner-on-board/>
 

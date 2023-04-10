@@ -1,4 +1,4 @@
-# 你在附近再也找不到朋友了:脸书推出其位置感知移动应用来添加新朋友 TechCrunch
+# 你在附近再也找不到朋友了:脸书推出其位置感知移动应用来添加新朋友 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/you-wont-find-friends-nearby-anymore-facebook-pulls-its-location-aware-mobile-app/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook>
 

@@ -1,4 +1,4 @@
-# 脸书将微格式添加到“下载你的信息”功能 TechCrunch
+# 脸书将微格式添加到“下载你的信息”功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/facebook-adds-microformats-to-download-your-info-feature/>
 

@@ -1,4 +1,4 @@
-# Adobe 失败的原因以及初创公司可以从哪里入手 TechCrunch
+# Adobe 失败的原因以及初创公司可以从哪里入手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/why-adobe-failed/>
 

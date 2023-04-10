@@ -1,4 +1,4 @@
-# 是的，脸书的开发者们，今年将会有 F8 TechCrunch
+# 是的，脸书的开发者们，今年将会有 F8 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/24/yes-facebook-developers-there-will-be-an-f8-this-year/>
 

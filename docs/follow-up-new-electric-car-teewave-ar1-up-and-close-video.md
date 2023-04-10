@@ -1,4 +1,4 @@
-# 后续:新电动汽车 TEEWave AR1 启动和关闭(视频)TechCrunch
+# 后续:新电动汽车 TEEWave AR1 启动和关闭(视频)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/15/follow-up-new-electric-car-teewave-ar1-up-and-close-video/>
 

@@ -1,4 +1,4 @@
-# 策略分析:苹果已经售出 2.5 亿部 iPhones，在过去 5 年里创造了 1500 亿美元的收入 TechCrunch
+# 策略分析:苹果已经售出 2.5 亿部 iPhones，在过去 5 年里创造了 1500 亿美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/strategy-analytics-apple-has-shipped-250m-iphones-made-150b-in-revenues-in-the-past-5-years/>
 

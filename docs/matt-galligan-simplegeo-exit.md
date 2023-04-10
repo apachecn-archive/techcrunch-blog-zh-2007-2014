@@ -1,4 +1,4 @@
-# SimpleGeo 联合创始人马特·加利根下台；将专注于帮助 TechStars 和一个非盈利的 TechCrunch
+# SimpleGeo 联合创始人马特·加利根下台；将专注于帮助 TechStars 和一个非盈利的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/matt-galligan-simplegeo-exit/>
 

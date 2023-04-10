@@ -1,4 +1,4 @@
-# 一年的垃圾邮件:Twoo 体验 TechCrunch
+# 一年的垃圾邮件:Twoo 体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/03/a-year-of-spam-twoo/>
 

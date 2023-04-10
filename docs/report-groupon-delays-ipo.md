@@ -1,4 +1,4 @@
-# 报道:Groupon 推迟 IPO TechCrunch
+# 报道:Groupon 推迟 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/report-groupon-delays-ipo/>
 

@@ -1,4 +1,4 @@
-# 追踪这款 3D 打印的 OpenRC Truggy 的进展，这是遥控汽车爱好者的梦想 TechCrunch
+# 追踪这款 3D 打印的 OpenRC Truggy 的进展，这是遥控汽车爱好者的梦想 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/06/track-the-progress-of-this-3d-printed-openrc-truggy-a-remote-control-car-enthusiasts-dream/>
 

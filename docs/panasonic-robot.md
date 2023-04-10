@@ -1,4 +1,4 @@
-# 松下创造铁人三项机器人 TechCrunch
+# 松下创造铁人三项机器人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/panasonic-robot/>
 

@@ -1,4 +1,4 @@
-# 谷歌追踪 YouTube 域名输入错误抢注者 TechCrunch
+# 谷歌追踪 YouTube 域名输入错误抢注者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/23/google-goes-after-youtube-domain-typo-squatter/>
 

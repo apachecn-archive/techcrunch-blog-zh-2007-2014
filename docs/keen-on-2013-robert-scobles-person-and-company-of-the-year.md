@@ -1,4 +1,4 @@
-# 热衷于...2013 年:罗伯特·斯科博的年度人物和公司 TechCrunch
+# 热衷于...2013 年:罗伯特·斯科博的年度人物和公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/18/keen-on-2013-robert-scobles-person-and-company-of-the-year/>
 

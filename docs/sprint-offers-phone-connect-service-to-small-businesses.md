@@ -1,4 +1,4 @@
-# Sprint 为小型企业提供电话连接服务 TechCrunch
+# Sprint 为小型企业提供电话连接服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/sprint-offers-phone-connect-service-to-small-businesses/>
 

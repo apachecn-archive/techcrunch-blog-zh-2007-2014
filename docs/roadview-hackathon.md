@@ -1,4 +1,4 @@
-# RoadView Hack 是一款用于汽车解决保险纠纷或社交娱乐的黑匣子应用程序 TechCrunch
+# RoadView Hack 是一款用于汽车解决保险纠纷或社交娱乐的黑匣子应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/roadview-hackathon/>
 

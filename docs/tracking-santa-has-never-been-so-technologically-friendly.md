@@ -1,4 +1,4 @@
-# 追踪圣诞老人从未如此科技友好 TechCrunch
+# 追踪圣诞老人从未如此科技友好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/04/tracking-santa-has-never-been-so-technologically-friendly/>
 

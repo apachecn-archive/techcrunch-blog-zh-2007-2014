@@ -1,4 +1,4 @@
-# HTC 发布 Evo 3D Bootloader 解锁工具 TechCrunch
+# HTC 发布 Evo 3D Bootloader 解锁工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/htc-releases-evo-3d-bootloader-unlock-tool/>
 

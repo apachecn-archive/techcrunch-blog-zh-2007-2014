@@ -1,4 +1,4 @@
-# AnyPerk 从 Digital Garage 和其他公司筹集了 140 万美元，帮助初创公司向员工提供津贴 TechCrunch
+# AnyPerk 从 Digital Garage 和其他公司筹集了 140 万美元，帮助初创公司向员工提供津贴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/11/anyperk-raises-1-4m-from-digital-garage-and-others-to-help-startups-offer-perks-to-employees/>
 

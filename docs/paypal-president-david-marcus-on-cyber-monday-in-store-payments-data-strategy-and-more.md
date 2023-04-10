@@ -1,4 +1,4 @@
-# PayPal 总裁 David Marcus 谈网络星期一、店内支付、数据策略等 TechCrunch
+# PayPal 总裁 David Marcus 谈网络星期一、店内支付、数据策略等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/26/paypal-president-david-marcus-on-cyber-monday-in-store-payments-data-strategy-and-more/>
 

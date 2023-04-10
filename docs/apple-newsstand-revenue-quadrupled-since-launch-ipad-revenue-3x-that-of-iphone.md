@@ -1,4 +1,4 @@
-# 苹果报摊收入自推出以来翻了两番；iPad 收入是 iPhone 的 3 倍 TechCrunch
+# 苹果报摊收入自推出以来翻了两番；iPad 收入是 iPhone 的 3 倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/apple-newsstand-revenue-quadrupled-since-launch-ipad-revenue-3x-that-of-iphone/>
 

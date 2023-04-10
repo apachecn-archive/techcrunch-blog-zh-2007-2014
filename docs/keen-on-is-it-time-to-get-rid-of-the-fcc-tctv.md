@@ -1,4 +1,4 @@
-# 热衷于...是时候摆脱联邦通信委员会了吗？TechCrunch
+# 热衷于...是时候摆脱联邦通信委员会了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/07/keen-on-is-it-time-to-get-rid-of-the-fcc-tctv/>
 

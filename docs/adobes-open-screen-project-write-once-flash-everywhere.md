@@ -1,4 +1,4 @@
-# Adobe 的开放屏幕项目:一次编写，Flash 无处不在 TechCrunch
+# Adobe 的开放屏幕项目:一次编写，Flash 无处不在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/30/adobes-open-screen-project-write-once-flash-everywhere/>
 

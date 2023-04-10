@@ -1,4 +1,4 @@
-# 三星 Chromebooks 降价:死池还是新款？更新 TechCrunch
+# 三星 Chromebooks 降价:死池还是新款？更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/lets-hope-chromebooks-arent-almost-dead/>
 

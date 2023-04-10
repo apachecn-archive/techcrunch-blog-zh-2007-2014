@@ -1,4 +1,4 @@
-# Plancast 安排新的 iPhone 应用程序、Eventbrite 集成和本地活动 TechCrunch
+# Plancast 安排新的 iPhone 应用程序、Eventbrite 集成和本地活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/03/plancast-iphone-eventbrite/>
 

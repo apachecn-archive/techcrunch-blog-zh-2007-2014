@@ -1,4 +1,4 @@
-# Ustream 的大规模融资:现在 2000 万美元，以后 5500 万美元。也许更多。TechCrunch
+# Ustream 的大规模融资:现在 2000 万美元，以后 5500 万美元。也许更多。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/01/ustream-funding-softbank/>
 

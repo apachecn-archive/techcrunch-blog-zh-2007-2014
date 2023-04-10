@@ -1,4 +1,4 @@
-# 亚马逊为大学生推出新的 iPhone 应用程序 TechCrunch
+# 亚马逊为大学生推出新的 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/amazon-launches-new-iphone-app-for-college-students/>
 

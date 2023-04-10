@@ -1,4 +1,4 @@
-# 警惕 PayPal:竞争对手 WePay 降价，推出白标支付 API TechCrunch
+# 警惕 PayPal:竞争对手 WePay 降价，推出白标支付 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/14/paypal-competitor-wepay-adds-white-label-api-drops-prices/>
 

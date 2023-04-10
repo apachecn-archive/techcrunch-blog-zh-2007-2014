@@ -1,4 +1,4 @@
-# Just-Eat 收购在线食品配送提供商 urban bite TechCrunch
+# Just-Eat 收购在线食品配送提供商 urban bite 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/05/just-eat-acquires-online-food-delivery-provider-urbanbite/>
 

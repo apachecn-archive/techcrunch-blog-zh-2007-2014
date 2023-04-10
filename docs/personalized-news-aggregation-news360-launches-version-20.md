@@ -1,4 +1,4 @@
-# 个性化新闻聚合:News360 推出 2.0 版 TechCrunch
+# 个性化新闻聚合:News360 推出 2.0 版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/personalized-news-aggregation-news360-launches-version-20/>
 

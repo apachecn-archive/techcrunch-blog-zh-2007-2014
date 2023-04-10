@@ -1,4 +1,4 @@
-# iPhone 杀手的问题是...TechCrunch
+# iPhone 杀手的问题是...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/26/the-problem-with-iphone-killers/>
 

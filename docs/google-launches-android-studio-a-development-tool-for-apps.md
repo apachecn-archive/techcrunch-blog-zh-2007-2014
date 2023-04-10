@@ -1,4 +1,4 @@
-# 谷歌推出 Android Studio 和面向开发者控制台的新功能，包括测试版和分阶段推出 TechCrunch
+# 谷歌推出 Android Studio 和面向开发者控制台的新功能，包括测试版和分阶段推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/15/google-launches-android-studio-a-development-tool-for-apps/>
 

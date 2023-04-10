@@ -1,4 +1,4 @@
-# 关于 Palm“Mini-Pre”的更多信息:代号 Pixie TechCrunch
+# 关于 Palm“Mini-Pre”的更多信息:代号 Pixie 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/30/more-info-on-the-second-palm-mini-pre-code-name-pixie/>
 

@@ -1,4 +1,4 @@
-# 脸书时代:摘自大卫·柯克帕特里克的新书 TechCrunch
+# 脸书时代:摘自大卫·柯克帕特里克的新书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/06/facebook-david-kirkpatrick/>
 

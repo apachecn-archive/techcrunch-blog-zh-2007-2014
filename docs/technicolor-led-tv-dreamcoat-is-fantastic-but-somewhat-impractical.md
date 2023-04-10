@@ -1,4 +1,4 @@
-# Technicolor LED 电视 Dreamcoat 很棒，但有些不切实际 TechCrunch
+# Technicolor LED 电视 Dreamcoat 很棒，但有些不切实际 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/technicolor-led-tv-dreamcoat-is-fantastic-but-somewhat-impractical/>
 

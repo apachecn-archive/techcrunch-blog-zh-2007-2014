@@ -1,4 +1,4 @@
-# Wantworthy 首次亮相 Fresh，这是一款移动伴侣，展示您最喜爱的商店的新品 TechCrunch
+# Wantworthy 首次亮相 Fresh，这是一款移动伴侣，展示您最喜爱的商店的新品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/23/wantworthy-debuts-fresh-a-mobile-companion-featuring-new-arrivals-from-your-favorite-stores/>
 

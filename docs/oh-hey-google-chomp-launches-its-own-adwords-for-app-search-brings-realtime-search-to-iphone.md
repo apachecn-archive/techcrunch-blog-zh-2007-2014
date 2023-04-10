@@ -1,4 +1,4 @@
-# 哦，嘿，谷歌:Chomp 推出了自己的应用搜索 AdWords 为 iPhone 带来实时搜索 TechCrunch
+# 哦，嘿，谷歌:Chomp 推出了自己的应用搜索 AdWords 为 iPhone 带来实时搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/oh-hey-google-chomp-launches-its-own-adwords-for-app-search-brings-realtime-search-to-iphone/>
 

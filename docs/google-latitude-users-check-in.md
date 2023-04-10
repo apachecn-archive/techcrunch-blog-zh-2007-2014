@@ -1,4 +1,4 @@
-# Google Latitude 拥有 300 万活跃用户，可能即将登录 TechCrunch
+# Google Latitude 拥有 300 万活跃用户，可能即将登录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/06/google-latitude-users-check-in/>
 

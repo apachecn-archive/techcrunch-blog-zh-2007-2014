@@ -1,4 +1,4 @@
-# 谷歌风投设计冲刺内部 TechCrunch
+# 谷歌风投设计冲刺内部 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/23/inside-a-google-ventures-design-sprint/>
 

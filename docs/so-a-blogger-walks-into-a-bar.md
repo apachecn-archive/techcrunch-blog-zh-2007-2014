@@ -1,4 +1,4 @@
-# 一个博客作者走进一家酒吧...TechCrunch
+# 一个博客作者走进一家酒吧...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/21/so-a-blogger-walks-into-a-bar/>
 

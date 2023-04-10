@@ -1,4 +1,4 @@
-# 惠普触摸板将回归百思买？TechCrunch
+# 惠普触摸板将回归百思买？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/more-hp-touchpads-at-best-buy/>
 

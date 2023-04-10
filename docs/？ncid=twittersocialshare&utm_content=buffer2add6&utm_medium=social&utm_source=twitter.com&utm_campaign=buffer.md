@@ -1,4 +1,4 @@
-# Instagram 是全球增长最快的社交网站，移动设备在访问方面超过了个人电脑 TechCrunch
+# Instagram 是全球增长最快的社交网站，移动设备在访问方面超过了个人电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/instagram-is-the-fastest-growing-social-site-globally-mobile-devices-rule-over-pcs-for-social-access/?ncid=twittersocialshare&utm_content=buffer2add6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>
 

@@ -1,4 +1,4 @@
-# 3G iPhone 在德国赢得数万新客户 TechCrunch
+# 3G iPhone 在德国赢得数万新客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/28/3g-iphone-to-win-tens-of-thousands-of-new-customers-in-germany/>
 

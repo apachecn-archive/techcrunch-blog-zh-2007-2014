@@ -1,4 +1,4 @@
-# Ngmoco 和 TinyCo 合作将 TinyCo 游戏引入 Mobage TechCrunch
+# Ngmoco 和 TinyCo 合作将 TinyCo 游戏引入 Mobage 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/ngmoco-and-tinyco-partner-to-bring-tinyco-games-to-mobage/>
 

@@ -1,4 +1,4 @@
-# Zynga 被指控剽窃另一家竞争对手的游戏 TechCrunch
+# Zynga 被指控剽窃另一家竞争对手的游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/30/zynga-accused-of-ripping-off-another-competitors-game/>
 

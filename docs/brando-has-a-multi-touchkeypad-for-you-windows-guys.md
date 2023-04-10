@@ -1,4 +1,4 @@
-# Brando 有一个多点触控+小键盘，适合 Windows 用户 TechCrunch
+# Brando 有一个多点触控+小键盘，适合 Windows 用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/20/brando-has-a-multi-touchkeypad-for-you-windows-guys/>
 

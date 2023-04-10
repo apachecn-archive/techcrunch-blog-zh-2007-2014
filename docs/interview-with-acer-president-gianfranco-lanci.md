@@ -1,4 +1,4 @@
-# 采访宏碁总裁蒋凡可·兰奇 TechCrunch
+# 采访宏碁总裁蒋凡可·兰奇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/21/interview-with-acer-president-gianfranco-lanci/>
 

@@ -1,4 +1,4 @@
-# 腾讯在阿里巴巴上市前推出新的移动开放平台计划 TechCrunch
+# 腾讯在阿里巴巴上市前推出新的移动开放平台计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/tencents-launches-new-mobile-open-platform-initiative-ahead-of-alibabas-ipo/>
 

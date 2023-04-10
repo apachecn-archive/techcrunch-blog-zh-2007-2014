@@ -1,4 +1,4 @@
-# Box 聘请前赛门铁克首席执行官恩里克·塞勒姆担任其 IPO 之路的特别顾问 TechCrunch
+# Box 聘请前赛门铁克首席执行官恩里克·塞勒姆担任其 IPO 之路的特别顾问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/box-picks-up-former-symantec-ceo-enrique-salem-as-special-adviser-on-its-road-to-ipo/>
 

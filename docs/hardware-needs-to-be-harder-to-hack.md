@@ -1,4 +1,4 @@
-# 硬件需要更难破解 TechCrunch
+# 硬件需要更难破解 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/hardware-needs-to-be-harder-to-hack/>
 

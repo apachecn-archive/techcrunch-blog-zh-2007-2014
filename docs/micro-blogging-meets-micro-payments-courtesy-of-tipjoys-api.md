@@ -1,4 +1,4 @@
-# 微博客遇到微支付，感谢 Tipjoy 的 API TechCrunch
+# 微博客遇到微支付，感谢 Tipjoy 的 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/08/micro-blogging-meets-micro-payments-courtesy-of-tipjoys-api/>
 

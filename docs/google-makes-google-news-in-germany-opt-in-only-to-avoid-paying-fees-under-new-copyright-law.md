@@ -1,4 +1,4 @@
-# 谷歌在德国选择加入谷歌新闻只是为了避免支付新版权法下的费用 TechCrunch
+# 谷歌在德国选择加入谷歌新闻只是为了避免支付新版权法下的费用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/21/google-makes-google-news-in-germany-opt-in-only-to-avoid-paying-fees-under-new-copyright-law/>
 

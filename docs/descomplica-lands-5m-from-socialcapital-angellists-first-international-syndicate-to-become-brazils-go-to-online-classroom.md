@@ -1,4 +1,4 @@
-# Descomplica 从社交+资本获得 500 万美元，这是 AngelList 的第一个国际辛迪加，成为巴西最受欢迎的在线课堂 TechCrunch
+# Descomplica 从社交+资本获得 500 万美元，这是 AngelList 的第一个国际辛迪加，成为巴西最受欢迎的在线课堂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/descomplica-lands-5m-from-socialcapital-angellists-first-international-syndicate-to-become-brazils-go-to-online-classroom/>
 

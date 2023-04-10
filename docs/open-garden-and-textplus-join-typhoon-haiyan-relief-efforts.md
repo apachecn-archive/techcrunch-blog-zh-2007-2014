@@ -1,4 +1,4 @@
-# Open Garden 和 textPlus 加入台风海燕救援行动 TechCrunch
+# Open Garden 和 textPlus 加入台风海燕救援行动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/open-garden-and-textplus-join-typhoon-haiyan-relief-efforts/>
 

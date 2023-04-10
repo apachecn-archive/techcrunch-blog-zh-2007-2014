@@ -1,4 +1,4 @@
-# 肖恩·范宁(Shawn Fanning)终于得到了一笔真正的收入:电子艺界以 3000 万美元收购了破裂 TechCrunch
+# 肖恩·范宁(Shawn Fanning)终于得到了一笔真正的收入:电子艺界以 3000 万美元收购了破裂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/08/shawn-fanning-finally-gets-a-real-payday-electronic-arts-buys-rupture-for-30-million/>
 

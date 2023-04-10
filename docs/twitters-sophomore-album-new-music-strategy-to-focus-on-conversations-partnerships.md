@@ -1,4 +1,4 @@
-# Twitter 的第二张专辑:关注对话和合作的新音乐策略 TechCrunch
+# Twitter 的第二张专辑:关注对话和合作的新音乐策略 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/twitters-sophomore-album-new-music-strategy-to-focus-on-conversations-partnerships/>
 

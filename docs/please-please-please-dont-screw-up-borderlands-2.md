@@ -1,4 +1,4 @@
-# 泄露的边境 2 视频显示了一个熟悉的界面，枪榴弹 TechCrunch
+# 泄露的边境 2 视频显示了一个熟悉的界面，枪榴弹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/please-please-please-dont-screw-up-borderlands-2/>
 

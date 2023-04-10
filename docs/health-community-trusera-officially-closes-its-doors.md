@@ -1,4 +1,4 @@
-# 健康社区 Trusera 正式关闭 TechCrunch
+# 健康社区 Trusera 正式关闭 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/05/20/health-community-trusera-officially-closes-its-doors/>
 

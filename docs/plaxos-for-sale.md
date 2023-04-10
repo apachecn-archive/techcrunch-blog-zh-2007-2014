@@ -1,4 +1,4 @@
-# Plaxo 待售 TechCrunch
+# Plaxo 待售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/02/plaxos-for-sale/>
 

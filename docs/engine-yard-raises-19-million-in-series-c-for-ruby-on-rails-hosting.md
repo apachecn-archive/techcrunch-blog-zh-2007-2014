@@ -1,4 +1,4 @@
-# Engine Yard 在 C 轮融资中筹集了 1900 万美元用于托管 Ruby-On-Rails TechCrunch
+# Engine Yard 在 C 轮融资中筹集了 1900 万美元用于托管 Ruby-On-Rails 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/07/engine-yard-raises-19-million-in-series-c-for-ruby-on-rails-hosting/>
 

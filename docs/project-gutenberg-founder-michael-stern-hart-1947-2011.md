@@ -1,4 +1,4 @@
-# 古腾堡计划创始人迈克尔·斯特恩·哈特，1947-2011 年 TechCrunch
+# 古腾堡计划创始人迈克尔·斯特恩·哈特，1947-2011 年 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/project-gutenberg-founder-michael-stern-hart-1947-2011/>
 

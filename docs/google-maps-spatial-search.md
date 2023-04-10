@@ -1,4 +1,4 @@
-# 谷歌将空间搜索添加到地图 API TechCrunch
+# 谷歌将空间搜索添加到地图 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/15/google-maps-spatial-search/>
 

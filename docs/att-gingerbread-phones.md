@@ -1,4 +1,4 @@
-# 2011 年发布的所有美国电话电报公司安卓手机都将获得姜饼 TechCrunch
+# 2011 年发布的所有美国电话电报公司安卓手机都将获得姜饼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/att-gingerbread-phones/>
 

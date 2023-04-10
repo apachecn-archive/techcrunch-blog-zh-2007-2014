@@ -1,4 +1,4 @@
-# 通过声波传输文件 TechCrunch
+# 通过声波传输文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/24/file-transfers-via-soundwave/>
 

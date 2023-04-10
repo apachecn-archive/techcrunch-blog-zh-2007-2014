@@ -1,4 +1,4 @@
-# 微软平息解雇风波，让前雇员保留现金 TechCrunch
+# 微软平息解雇风波，让前雇员保留现金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/23/microsoft-quells-severance-firestorm-lets-ex-employees-keep-their-cash/>
 

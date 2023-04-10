@@ -1,4 +1,4 @@
-# comScore: Android 继续吞噬智能手机市场份额，目前为 40% TechCrunch
+# comScore: Android 继续吞噬智能手机市场份额，目前为 40% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/comscore-android-40-percent/>
 

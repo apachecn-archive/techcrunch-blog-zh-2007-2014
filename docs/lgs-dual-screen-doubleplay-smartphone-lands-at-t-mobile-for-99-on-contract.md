@@ -1,4 +1,4 @@
-# LG 双屏双屏智能手机登陆 T-Mobile，合约价 99 美元 TechCrunch
+# LG 双屏双屏智能手机登陆 T-Mobile，合约价 99 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/lgs-dual-screen-doubleplay-smartphone-lands-at-t-mobile-for-99-on-contract/>
 

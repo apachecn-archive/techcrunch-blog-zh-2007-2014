@@ -1,4 +1,4 @@
-# Peek 的大项目软件更新 TechCrunch
+# Peek 的大项目软件更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/peeks-project-big-stuff-revealed-as-software-update/>
 

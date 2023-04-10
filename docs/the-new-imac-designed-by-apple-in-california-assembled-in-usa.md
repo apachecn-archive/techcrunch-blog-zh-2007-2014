@@ -1,4 +1,4 @@
-# 新款 iMac:由苹果在加州设计，在美国组装 TechCrunch
+# 新款 iMac:由苹果在加州设计，在美国组装 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/03/the-new-imac-designed-by-apple-in-california-assembled-in-usa/>
 

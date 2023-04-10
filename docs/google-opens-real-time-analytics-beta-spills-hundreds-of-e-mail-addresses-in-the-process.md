@@ -1,4 +1,4 @@
-# 谷歌扩大实时分析测试版，在此过程中泄露了数百个电子邮件地址 TechCrunch
+# 谷歌扩大实时分析测试版，在此过程中泄露了数百个电子邮件地址 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/google-opens-real-time-analytics-beta-spills-hundreds-of-e-mail-addresses-in-the-process/>
 

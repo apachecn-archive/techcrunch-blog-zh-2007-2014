@@ -1,4 +1,4 @@
-# Playfire 被欧洲游戏零售商 Green Man Gaming 收购 TechCrunch
+# Playfire 被欧洲游戏零售商 Green Man Gaming 收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/09/playfire-acquired-by-european-games-retailer-green-man-gaming/>
 

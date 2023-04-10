@@ -1,4 +1,4 @@
-# 移动广告网络 Mobclix 发布 iPad SDK TechCrunch
+# 移动广告网络 Mobclix 发布 iPad SDK 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/15/mobile-ad-network-mobclix-releases-ipad-sdk/>
 

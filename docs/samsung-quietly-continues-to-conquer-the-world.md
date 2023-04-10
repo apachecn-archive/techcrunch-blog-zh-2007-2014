@@ -1,4 +1,4 @@
-# 三星悄悄地继续征服世界 TechCrunch
+# 三星悄悄地继续征服世界 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/10/samsung-quietly-continues-to-conquer-the-world/>
 

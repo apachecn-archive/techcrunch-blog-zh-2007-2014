@@ -1,4 +1,4 @@
-# 你正在制造正确的产品吗？TechCrunch
+# 你正在制造正确的产品吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/are-you-building-the-right-product/>
 

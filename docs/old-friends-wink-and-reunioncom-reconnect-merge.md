@@ -1,4 +1,4 @@
-# 老朋友温克和 Reunion.com 重新联系，合并 TechCrunch
+# 老朋友温克和 Reunion.com 重新联系，合并 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/03/old-friends-wink-and-reunioncom-reconnect-merge/>
 

@@ -1,4 +1,4 @@
-# SnazzyNapper:开车的时候用它清除基因库！TechCrunch
+# SnazzyNapper:开车的时候用它清除基因库！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/22/snazzynapper-use-it-while-driving-clear-out-the-gene-pool/>
 

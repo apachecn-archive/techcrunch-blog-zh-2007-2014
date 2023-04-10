@@ -1,4 +1,4 @@
-# 我的证人当场抓到坏人 TechCrunch
+# 我的证人当场抓到坏人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/my-witness-catches-bad-guys-in-the-act/>
 

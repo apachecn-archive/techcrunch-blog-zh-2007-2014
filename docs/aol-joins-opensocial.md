@@ -1,4 +1,4 @@
-# AOL 加入 OpenSocial TechCrunch
+# AOL 加入 OpenSocial 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/28/aol-joins-opensocial/>
 

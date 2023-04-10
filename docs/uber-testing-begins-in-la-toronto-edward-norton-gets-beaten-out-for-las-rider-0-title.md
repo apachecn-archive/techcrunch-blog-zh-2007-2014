@@ -1,4 +1,4 @@
-# 优步测试在洛杉矶和多伦多开始；爱德华·诺顿在洛杉矶的“骑手 0”称号中落败 TechCrunch
+# 优步测试在洛杉矶和多伦多开始；爱德华·诺顿在洛杉矶的“骑手 0”称号中落败 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/12/uber-testing-begins-in-la-toronto-edward-norton-gets-beaten-out-for-las-rider-0-title/>
 

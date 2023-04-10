@@ -1,4 +1,4 @@
-# Salesforce 聘请甲骨文 SVP 公司管理 EMEA 运营 TechCrunch
+# Salesforce 聘请甲骨文 SVP 公司管理 EMEA 运营 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/salesforce-nabs-oracle-svp-to-manage-emea-operations/>
 

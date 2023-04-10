@@ -1,4 +1,4 @@
-# IT 工厂的 Bagger 对大规模欺诈深表歉意 TechCrunch
+# IT 工厂的 Bagger 对大规模欺诈深表歉意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/12/it-factorys-bagger-super-sorry-for-the-massive-fraud/>
 

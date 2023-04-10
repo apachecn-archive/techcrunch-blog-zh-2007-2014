@@ -1,4 +1,4 @@
-# 高盛挑战比特币 TechCrunch
+# 高盛挑战比特币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/21/goldman-bitcoin/>
 

@@ -1,4 +1,4 @@
-# 面向中小企业的电子商务解决方案 Genbook 通过了 1000 万次预约 TechCrunch
+# 面向中小企业的电子商务解决方案 Genbook 通过了 1000 万次预约 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/genbook-the-escheduling-solution-for-smbs-passes-10-million-appointments-scheduled/>
 

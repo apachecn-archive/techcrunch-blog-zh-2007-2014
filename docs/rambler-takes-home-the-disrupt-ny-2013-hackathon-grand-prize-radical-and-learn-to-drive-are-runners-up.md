@@ -1,4 +1,4 @@
-# 漫步者将 Disrupt NY 2013 黑客马拉松大奖带回家，学车和激进是亚军 TechCrunch
+# 漫步者将 Disrupt NY 2013 黑客马拉松大奖带回家，学车和激进是亚军 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/28/rambler-takes-home-the-disrupt-ny-2013-hackathon-grand-prize-radical-and-learn-to-drive-are-runners-up/>
 

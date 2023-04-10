@@ -1,4 +1,4 @@
-# Mashable 在第一次外部融资中筹集了 1300 万美元 TechCrunch
+# Mashable 在第一次外部融资中筹集了 1300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/06/mashable-series-a/>
 

@@ -1,4 +1,4 @@
-# 中国企业家如何帮助它赢得 TechCrunch
+# 中国企业家如何帮助它赢得 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/06/how-china%e2%80%99s-entrepreneurs-are-helping-it-win/>
 

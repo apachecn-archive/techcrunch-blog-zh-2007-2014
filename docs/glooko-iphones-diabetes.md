@@ -1,4 +1,4 @@
-# Glooko 将血糖仪连接到 iPhones，用于跟踪糖尿病 TechCrunch
+# Glooko 将血糖仪连接到 iPhones，用于跟踪糖尿病 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/glooko-iphones-diabetes/>
 

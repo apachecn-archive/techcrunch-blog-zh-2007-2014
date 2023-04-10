@@ -1,4 +1,4 @@
-# 美国电话电报公司后退两步，希望与 T-Mo 达成交易 TechCrunch
+# 美国电话电报公司后退两步，希望与 T-Mo 达成交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/24/att-takes-two-steps-back-with-hopes-to-inch-closer-to-t-mo-deal/>
 

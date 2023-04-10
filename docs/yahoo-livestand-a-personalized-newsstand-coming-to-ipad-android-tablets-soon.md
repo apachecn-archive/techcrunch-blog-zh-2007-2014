@@ -1,4 +1,4 @@
-# 雅虎 live stand:iPad、Android 平板电脑的“个性化报摊”TechCrunch
+# 雅虎 live stand:iPad、Android 平板电脑的“个性化报摊”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/yahoo-livestand-a-personalized-newsstand-coming-to-ipad-android-tablets-soon/>
 

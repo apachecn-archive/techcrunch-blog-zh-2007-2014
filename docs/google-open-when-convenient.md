@@ -1,4 +1,4 @@
-# 对谷歌来说，开放的意义在于方便的时候 TechCrunch
+# 对谷歌来说，开放的意义在于方便的时候 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/22/google-open-when-convenient/>
 

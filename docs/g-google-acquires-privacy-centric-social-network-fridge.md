@@ -1,4 +1,4 @@
-# g++:谷歌收购以隐私为中心的社交网络“冰箱”TechCrunch
+# g++:谷歌收购以隐私为中心的社交网络“冰箱”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/g-google-acquires-privacy-centric-social-network-fridge/>
 

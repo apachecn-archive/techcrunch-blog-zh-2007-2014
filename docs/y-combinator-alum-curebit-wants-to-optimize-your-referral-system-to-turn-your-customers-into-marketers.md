@@ -1,4 +1,4 @@
-# Y Combinator Alum Curebit 希望优化您的推荐系统，将您的客户变成营销人员 TechCrunch
+# Y Combinator Alum Curebit 希望优化您的推荐系统，将您的客户变成营销人员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/y-combinator-alum-curebit-wants-to-optimize-your-referral-system-to-turn-your-customers-into-marketers/>
 

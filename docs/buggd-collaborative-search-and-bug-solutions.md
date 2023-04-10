@@ -1,4 +1,4 @@
-# Bug.gd:协作搜索和 Bug 解决方案 TechCrunch
+# Bug.gd:协作搜索和 Bug 解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/28/buggd-collaborative-search-and-bug-solutions/>
 

@@ -1,4 +1,4 @@
-# KISSmetrics:一个转换漏斗工具，给你的网站一个记忆 TechCrunch
+# KISSmetrics:一个转换漏斗工具，给你的网站一个记忆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/22/kissmetrics-conversion-funnel/>
 

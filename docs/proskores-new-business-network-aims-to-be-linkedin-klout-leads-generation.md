@@ -1,4 +1,4 @@
-# PROskore 的新商业网络旨在成为 LinkedIn+Klout+Leads Generation TechCrunch
+# PROskore 的新商业网络旨在成为 LinkedIn+Klout+Leads Generation 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/proskores-new-business-network-aims-to-be-linkedin-klout-leads-generation/>
 

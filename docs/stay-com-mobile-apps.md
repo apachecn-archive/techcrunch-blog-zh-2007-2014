@@ -1,4 +1,4 @@
-# Stay.com 将其社交旅行指南引入手机，并提供完整的离线地图 TechCrunch
+# Stay.com 将其社交旅行指南引入手机，并提供完整的离线地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/11/stay-com-mobile-apps/>
 

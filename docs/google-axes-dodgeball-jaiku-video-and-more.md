@@ -1,4 +1,4 @@
-# Google Axes 躲避球、Jaiku、视频等 TechCrunch
+# Google Axes 躲避球、Jaiku、视频等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/14/google-axes-dodgeball-jaiku-video-and-more/>
 

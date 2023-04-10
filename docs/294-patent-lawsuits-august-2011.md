@@ -1,4 +1,4 @@
-# 2011 年 8 月提起专利诉讼 294 件；手机投诉每年增长 25% TechCrunch
+# 2011 年 8 月提起专利诉讼 294 件；手机投诉每年增长 25% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/10/294-patent-lawsuits-august-2011/>
 

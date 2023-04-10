@@ -1,4 +1,4 @@
-# Lion 的互联网恢复功能:过去遇见未来 TechCrunch
+# Lion 的互联网恢复功能:过去遇见未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/lions-internet-recovery-feature-the-past-meets-the-future/>
 

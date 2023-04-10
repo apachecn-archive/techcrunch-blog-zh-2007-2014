@@ -1,4 +1,4 @@
-# Basis 展示了一款可以戴在手腕上的新型心脏和健康追踪器 TechCrunch
+# Basis 展示了一款可以戴在手腕上的新型心脏和健康追踪器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/basis-reveals-an-awesome-new-affordable-heart-and-health-tracker-you-can-wear-on-your-wrist/>
 

@@ -1,4 +1,4 @@
-# GroSocial 筹集种子资金，为品牌提供一种简单实惠的方式来建立社交媒体 TechCrunch
+# GroSocial 筹集种子资金，为品牌提供一种简单实惠的方式来建立社交媒体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/grosocial-raises-seed-funding-to-give-brands-an-easy-affordable-way-to-build-a-social-media-presence/>
 

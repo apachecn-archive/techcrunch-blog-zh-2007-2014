@@ -1,4 +1,4 @@
-# 设计销售网站 Fab.com 拥有 35 万会员，筹集 800 万美元庆祝 TechCrunch
+# 设计销售网站 Fab.com 拥有 35 万会员，筹集 800 万美元庆祝 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/fab-com-hits-350000-members-raises-8-million-to-celebrate/>
 

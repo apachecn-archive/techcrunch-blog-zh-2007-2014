@@ -1,4 +1,4 @@
-# 苹果和谷歌的应用商店现在不分上下——除了对开发者最重要的指标:收入 TechCrunch
+# 苹果和谷歌的应用商店现在不分上下——除了对开发者最重要的指标:收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/17/apple-and-googles-app-stores-now-neck-and-neck-except-on-the-metric-that-matters-most-to-developers-revenue/>
 

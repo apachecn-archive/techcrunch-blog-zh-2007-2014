@@ -1,4 +1,4 @@
-# Klout:我们已经在 350 个活动中提供了 70 万额外津贴 TechCrunch
+# Klout:我们已经在 350 个活动中提供了 70 万额外津贴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/klout-200k-perks-350-campaigns/>
 

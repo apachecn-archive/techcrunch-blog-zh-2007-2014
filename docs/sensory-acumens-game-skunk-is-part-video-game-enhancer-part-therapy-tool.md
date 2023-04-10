@@ -1,4 +1,4 @@
-# Sensory Acumen 的游戏 Skunk 部分是视频游戏增强器，部分是治疗工具 TechCrunch
+# Sensory Acumen 的游戏 Skunk 部分是视频游戏增强器，部分是治疗工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/11/sensory-acumens-game-skunk-is-part-video-game-enhancer-part-therapy-tool/>
 

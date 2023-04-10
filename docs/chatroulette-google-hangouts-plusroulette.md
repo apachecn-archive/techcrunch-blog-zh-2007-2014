@@ -1,4 +1,4 @@
-# 聊天轮盘+Google Hangouts = plus roulette TechCrunch
+# 聊天轮盘+Google Hangouts = plus roulette 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/24/chatroulette-google-hangouts-plusroulette/>
 

@@ -1,4 +1,4 @@
-# ER Accelerator 宣布 10 家初创公司加入其 2013 年 1 月的课程 TechCrunch
+# ER Accelerator 宣布 10 家初创公司加入其 2013 年 1 月的课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/24/er-accelerator-announces-10-startups-joining-its-january-2013-class/>
 

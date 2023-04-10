@@ -1,4 +1,4 @@
-# 超链接是哑巴，流血的钱；如何确保您的产品不是 TechCrunch
+# 超链接是哑巴，流血的钱；如何确保您的产品不是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/19/hyperlinks-are-dumb-and-bleeding-money-how-to-ensure-yours-arent/>
 

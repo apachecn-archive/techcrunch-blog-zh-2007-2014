@@ -1,4 +1,4 @@
-# Save For Later Service Pocket 对其 API 进行了彻底改革，使其 10，000 名开发合作伙伴的工作变得更加轻松 TechCrunch
+# Save For Later Service Pocket 对其 API 进行了彻底改革，使其 10，000 名开发合作伙伴的工作变得更加轻松 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/07/save-for-later-service-pocket-overhauls-its-api-to-make-things-easier-for-its-10000-developer-partners/>
 

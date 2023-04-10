@@ -1,4 +1,4 @@
-# iPhone 4S 已经越狱 TechCrunch
+# iPhone 4S 已经越狱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/the-iphone-4s-has-been-jailbroken/>
 

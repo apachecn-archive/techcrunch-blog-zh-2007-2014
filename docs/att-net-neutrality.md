@@ -1,4 +1,4 @@
-# 美国电话电报公司为网络中立哭泣，用成堆的钱擦擦眼睛 TechCrunch
+# 美国电话电报公司为网络中立哭泣，用成堆的钱擦擦眼睛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/13/att-net-neutrality/>
 

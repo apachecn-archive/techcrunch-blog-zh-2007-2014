@@ -1,4 +1,4 @@
-# 社交。死池中的 FM TechCrunch
+# 社交。死池中的 FM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/04/socialfm-in-the-deadpool/>
 

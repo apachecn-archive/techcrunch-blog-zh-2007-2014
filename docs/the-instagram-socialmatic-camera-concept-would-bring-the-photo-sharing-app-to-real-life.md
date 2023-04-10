@@ -1,4 +1,4 @@
-# Instagram Socialmatic 相机概念将照片分享应用带入现实生活 TechCrunch
+# Instagram Socialmatic 相机概念将照片分享应用带入现实生活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/10/the-instagram-socialmatic-camera-concept-would-bring-the-photo-sharing-app-to-real-life/>
 

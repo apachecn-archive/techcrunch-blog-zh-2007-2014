@@ -1,4 +1,4 @@
-# 随着消费者转向智能设备，英国的百思买已经结束 TechCrunch
+# 随着消费者转向智能设备，英国的百思买已经结束 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/best-buy-is-over-in-the-uk-as-consumers-turn-to-smarter-devices/>
 

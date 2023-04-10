@@ -1,4 +1,4 @@
-# DMD Panorama 开放 API，支持任何应用中的全景照片 TechCrunch
+# DMD Panorama 开放 API，支持任何应用中的全景照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/10/dmd-panorama-api/>
 

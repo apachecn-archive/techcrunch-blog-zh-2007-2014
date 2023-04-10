@@ -1,4 +1,4 @@
-# ClickTurn:在半小时内制作富媒体广告 TechCrunch
+# ClickTurn:在半小时内制作富媒体广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/24/clickturn-build-rich-media-ads-in-half-an-hour/>
 

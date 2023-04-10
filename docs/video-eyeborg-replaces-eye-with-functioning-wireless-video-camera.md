@@ -1,4 +1,4 @@
-# 视频:“Eyeborg”用功能齐全的无线摄像机取代了眼睛 TechCrunch
+# 视频:“Eyeborg”用功能齐全的无线摄像机取代了眼睛 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/video-eyeborg-replaces-eye-with-functioning-wireless-video-camera/>
 

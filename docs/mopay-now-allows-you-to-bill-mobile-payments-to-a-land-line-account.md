@@ -1,4 +1,4 @@
-# Mopay 现在允许您将移动支付记入固定电话账户 TechCrunch
+# Mopay 现在允许您将移动支付记入固定电话账户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/19/mopay-now-allows-you-to-bill-mobile-payments-to-a-land-line-account/>
 

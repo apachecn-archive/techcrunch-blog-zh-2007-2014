@@ -1,4 +1,4 @@
-# NetVibes 为 Twitter、脸书和 MySpace 增加了拖拽和跟随搜索工具 TechCrunch
+# NetVibes 为 Twitter、脸书和 MySpace 增加了拖拽和跟随搜索工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/15/netvibes-adds-drag-and-follow-search-widgets-for-twitter-facebook-and-myspace/>
 

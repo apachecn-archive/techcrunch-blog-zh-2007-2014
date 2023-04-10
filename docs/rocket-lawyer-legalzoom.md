@@ -1,4 +1,4 @@
-# 火箭律师可以自由使用‘免费’吗？法院驳回竞争对手 LegalZoom 的简易判决动议，命令对虚假广告索赔进行审判 TechCrunch
+# 火箭律师可以自由使用‘免费’吗？法院驳回竞争对手 LegalZoom 的简易判决动议，命令对虚假广告索赔进行审判 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/18/rocket-lawyer-legalzoom/>
 

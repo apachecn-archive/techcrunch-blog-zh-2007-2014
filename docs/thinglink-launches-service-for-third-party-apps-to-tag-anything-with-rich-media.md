@@ -1,4 +1,4 @@
-# ThingLink 推出第三方应用服务，用富媒体标记任何东西 TechCrunch
+# ThingLink 推出第三方应用服务，用富媒体标记任何东西 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/thinglink-launches-service-for-third-party-apps-to-tag-anything-with-rich-media/>
 

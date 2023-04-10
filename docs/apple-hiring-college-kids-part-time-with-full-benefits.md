@@ -1,4 +1,4 @@
-# 苹果雇佣大学生兼职并享受全额福利 TechCrunch
+# 苹果雇佣大学生兼职并享受全额福利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/28/apple-hiring-college-kids-part-time-with-full-benefits/>
 

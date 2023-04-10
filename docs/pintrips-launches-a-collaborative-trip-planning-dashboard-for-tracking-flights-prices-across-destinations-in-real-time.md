@@ -1,4 +1,4 @@
-# Pintrips 推出了一个协作式旅行规划仪表板，用于实时跟踪目的地的航班和价格 TechCrunch
+# Pintrips 推出了一个协作式旅行规划仪表板，用于实时跟踪目的地的航班和价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/16/pintrips-launches-a-collaborative-trip-planning-dashboard-for-tracking-flights-prices-across-destinations-in-real-time/>
 

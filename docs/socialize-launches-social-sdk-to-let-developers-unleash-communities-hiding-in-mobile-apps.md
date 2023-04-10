@@ -1,4 +1,4 @@
-# Socialize 推出 Social SDK，让开发者释放隐藏在移动应用中的社区 TechCrunch
+# Socialize 推出 Social SDK，让开发者释放隐藏在移动应用中的社区 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/socialize-launches-social-sdk-to-let-developers-unleash-communities-hiding-in-mobile-apps/>
 

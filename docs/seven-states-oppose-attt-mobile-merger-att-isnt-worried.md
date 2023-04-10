@@ -1,4 +1,4 @@
-# 七个州反对美国电话电报公司/T-Mobile 合并，美国电话电报公司不担心 TechCrunch
+# 七个州反对美国电话电报公司/T-Mobile 合并，美国电话电报公司不担心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/seven-states-oppose-attt-mobile-merger-att-isnt-worried/>
 

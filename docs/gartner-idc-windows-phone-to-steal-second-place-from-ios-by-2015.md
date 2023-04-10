@@ -1,4 +1,4 @@
-# Gartner，IDC: Windows Phone 将在 2015 年从 iOS 手中抢走第二名 TechCrunch
+# Gartner，IDC: Windows Phone 将在 2015 年从 iOS 手中抢走第二名 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/gartner-idc-windows-phone-to-steal-second-place-from-ios-by-2015/>
 

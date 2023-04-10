@@ -1,4 +1,4 @@
-# 确认:康卡斯特收购 Plaxo，交易于今日完成 TechCrunch
+# 确认:康卡斯特收购 Plaxo，交易于今日完成 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/14/confirmed-comcast-bought-plaxo-deal-closed-today/>
 

@@ -1,4 +1,4 @@
-# 视频:迷你压力测量仪实时显示你的压力水平 TechCrunch
+# 视频:迷你压力测量仪实时显示你的压力水平 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/video-mini-stress-meter-displays-your-stress-level-in-real-time/>
 

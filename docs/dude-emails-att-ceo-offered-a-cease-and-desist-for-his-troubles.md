@@ -1,4 +1,4 @@
-# 一个家伙给美国电话电报公司首席执行官发邮件，为他的麻烦提供一个停止和终止 TechCrunch
+# 一个家伙给美国电话电报公司首席执行官发邮件，为他的麻烦提供一个停止和终止 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/03/dude-emails-att-ceo-offered-a-cease-and-desist-for-his-troubles/>
 

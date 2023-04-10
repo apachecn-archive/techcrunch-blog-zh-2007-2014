@@ -1,4 +1,4 @@
-# Open Feint 为 Android 手机带来即插即用的社交游戏平台 TechCrunch
+# Open Feint 为 Android 手机带来即插即用的社交游戏平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/08/open-feint-brings-plug-and-play-social-gaming-platform-to-android-phones/>
 

@@ -1,4 +1,4 @@
-# 佳能 PowerShot G9: DSLR 伪装成傻瓜相机 TechCrunch
+# 佳能 PowerShot G9: DSLR 伪装成傻瓜相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/20/canon-powershot-g9-dslr-disguised-as-point-and-shoot/>
 

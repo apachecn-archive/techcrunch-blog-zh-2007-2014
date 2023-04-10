@@ -1,4 +1,4 @@
-# Kampyle 将用户反馈与网站分析联系起来 TechCrunch
+# Kampyle 将用户反馈与网站分析联系起来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/28/kampyle-ties-user-feedback-to-website-analytics/>
 

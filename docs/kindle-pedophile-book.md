@@ -1,4 +1,4 @@
-# 第 158，221 本最畅销的 Kindle 书:恋童癖者的爱情和快乐指南 TechCrunch
+# 第 158，221 本最畅销的 Kindle 书:恋童癖者的爱情和快乐指南 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/10/kindle-pedophile-book/>
 

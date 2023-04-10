@@ -1,4 +1,4 @@
-# YouTube 用搜索栏丑化嵌入的视频 TechCrunch
+# YouTube 用搜索栏丑化嵌入的视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/03/youtube-uglifies-embedded-videos-with-a-search-bar/>
 

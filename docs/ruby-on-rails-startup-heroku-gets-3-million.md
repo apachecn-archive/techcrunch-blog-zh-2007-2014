@@ -1,4 +1,4 @@
-# Ruby on Rails 初创公司 Heroku 获得 300 万美元 TechCrunch
+# Ruby on Rails 初创公司 Heroku 获得 300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/08/ruby-on-rails-startup-heroku-gets-3-million/>
 

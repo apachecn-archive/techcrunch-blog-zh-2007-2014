@@ -1,4 +1,4 @@
-# Droid Razr 将于 2012 年上半年推出冰激凌三明治更新 TechCrunch
+# Droid Razr 将于 2012 年上半年推出冰激凌三明治更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/droid-razr-to-taste-ice-cream-sandwich-update-in-q1-2012/>
 

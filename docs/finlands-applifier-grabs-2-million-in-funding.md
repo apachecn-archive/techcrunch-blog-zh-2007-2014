@@ -1,4 +1,4 @@
-# 芬兰的 Applifier 获得 200 万美元的资助 TechCrunch
+# 芬兰的 Applifier 获得 200 万美元的资助 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/01/finlands-applifier-grabs-2-million-in-funding/>
 

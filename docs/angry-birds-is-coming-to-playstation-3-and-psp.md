@@ -1,4 +1,4 @@
-# 愤怒的小鸟即将登陆 PlayStation 3 和 PSP TechCrunch
+# 愤怒的小鸟即将登陆 PlayStation 3 和 PSP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/03/angry-birds-is-coming-to-playstation-3-and-psp/>
 

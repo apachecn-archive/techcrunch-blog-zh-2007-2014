@@ -1,4 +1,4 @@
-# Weedmaps 花费 3000 万美元在纽约合法化大麻 TechCrunch
+# Weedmaps 花费 3000 万美元在纽约合法化大麻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/weedmaps-new-york/>
 

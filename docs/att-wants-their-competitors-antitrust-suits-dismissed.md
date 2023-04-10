@@ -1,4 +1,4 @@
-# 美国电话电报公司希望驳回竞争对手的反垄断诉讼 TechCrunch
+# 美国电话电报公司希望驳回竞争对手的反垄断诉讼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/att-wants-their-competitors-antitrust-suits-dismissed/>
 

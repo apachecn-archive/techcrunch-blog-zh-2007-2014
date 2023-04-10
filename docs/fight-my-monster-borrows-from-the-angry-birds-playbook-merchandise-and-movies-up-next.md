@@ -1,4 +1,4 @@
-# 《打我的怪物》借用了《愤怒的小鸟》的剧本——接下来是商品和电影？TechCrunch
+# 《打我的怪物》借用了《愤怒的小鸟》的剧本——接下来是商品和电影？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/20/fight-my-monster-borrows-from-the-angry-birds-playbook-merchandise-and-movies-up-next/>
 

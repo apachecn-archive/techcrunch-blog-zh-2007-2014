@@ -1,4 +1,4 @@
-# 通过收购 ExactTarget，Salesforce.com 花费了近 35 亿美元进入首席营销官的套房 TechCrunch
+# 通过收购 ExactTarget，Salesforce.com 花费了近 35 亿美元进入首席营销官的套房 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/04/with-exacttarget-acquisition-salesforce-com-has-spent-close-to-3-5-billion-to-get-into-the-chief-marketing-officers-suite/>
 

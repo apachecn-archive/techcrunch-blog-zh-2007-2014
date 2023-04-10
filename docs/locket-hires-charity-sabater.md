@@ -1,4 +1,4 @@
-# 移动广告初创公司 Locket 聘用慈善机构 Sabater(前糖果粉碎制造商 King 的员工)领导销售 TechCrunch
+# 移动广告初创公司 Locket 聘用慈善机构 Sabater(前糖果粉碎制造商 King 的员工)领导销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/08/locket-hires-charity-sabater/>
 

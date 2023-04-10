@@ -1,4 +1,4 @@
-# 沃尔玛的黑色星期五灾难:网站瘫痪，商店暴力 TechCrunch
+# 沃尔玛的黑色星期五灾难:网站瘫痪，商店暴力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/25/walmart-black-friday/>
 

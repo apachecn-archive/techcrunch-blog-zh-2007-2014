@@ -1,4 +1,4 @@
-# 客座博文:芬兰——寒冷彻骨，但现在非常热 TechCrunch
+# 客座博文:芬兰——寒冷彻骨，但现在非常热 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/17/guest-post-finland-freezing-cold-but-so-hot-right-now/>
 

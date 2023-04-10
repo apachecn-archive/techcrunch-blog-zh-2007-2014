@@ -1,4 +1,4 @@
-# 微软-雅虎:什么会留下，什么会离开？TechCrunch
+# 微软-雅虎:什么会留下，什么会离开？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/02/microsoft-yahoo-what-will-stay-and-what-will-go/>
 

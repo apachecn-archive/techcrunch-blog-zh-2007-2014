@@ -1,4 +1,4 @@
-# 从 130 多名黑客中产生了终极六人:黑客马拉松获胜者登上舞台 TechCrunch
+# 从 130 多名黑客中产生了终极六人:黑客马拉松获胜者登上舞台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/from-over-130-hacks-came-the-ultimate-six-the-disrupt-hackathon-winners-take-to-the-stage/>
 

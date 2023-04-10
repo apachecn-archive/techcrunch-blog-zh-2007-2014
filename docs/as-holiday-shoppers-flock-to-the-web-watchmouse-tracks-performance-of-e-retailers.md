@@ -1,4 +1,4 @@
-# 随着假日购物者涌向网络，WatchMouse 追踪电子零售商的表现 TechCrunch
+# 随着假日购物者涌向网络，WatchMouse 追踪电子零售商的表现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/27/as-holiday-shoppers-flock-to-the-web-watchmouse-tracks-performance-of-e-retailers/>
 

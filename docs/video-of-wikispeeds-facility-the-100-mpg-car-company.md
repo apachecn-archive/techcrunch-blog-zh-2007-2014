@@ -1,4 +1,4 @@
-# Wikispeed 工厂的视频:每加仑跑 100 英里以上的汽车公司 TechCrunch
+# Wikispeed 工厂的视频:每加仑跑 100 英里以上的汽车公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/video-of-wikispeeds-facility-the-100-mpg-car-company/>
 

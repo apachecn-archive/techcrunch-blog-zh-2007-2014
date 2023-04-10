@@ -1,4 +1,4 @@
-# 优步在巴黎首次开展国际合作 TechCrunch
+# 优步在巴黎首次开展国际合作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/uber-launches-its-first-international-efforts-in-paris/>
 

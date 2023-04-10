@@ -1,4 +1,4 @@
-# oDesk:在线工作市场到 2012 年将增长到 10 亿美元 TechCrunch
+# oDesk:在线工作市场到 2012 年将增长到 10 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/odesk-online-work-market-will-grow-to-1-billion-by-2012/>
 

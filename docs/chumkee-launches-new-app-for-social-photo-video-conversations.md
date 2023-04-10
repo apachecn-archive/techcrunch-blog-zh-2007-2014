@@ -1,4 +1,4 @@
-# Chumkee 推出社交照片和视频对话新应用 TechCrunch
+# Chumkee 推出社交照片和视频对话新应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/18/chumkee-launches-new-app-for-social-photo-video-conversations/>
 

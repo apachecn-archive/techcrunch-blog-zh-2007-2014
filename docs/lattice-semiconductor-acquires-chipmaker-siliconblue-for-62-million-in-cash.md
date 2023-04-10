@@ -1,4 +1,4 @@
-# 晶格半导体以 6200 万美元现金收购芯片制造商 silicon blue TechCrunch
+# 晶格半导体以 6200 万美元现金收购芯片制造商 silicon blue 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/lattice-semiconductor-acquires-chipmaker-siliconblue-for-62-million-in-cash/>
 

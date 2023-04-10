@@ -1,4 +1,4 @@
-# 你说在 iTunes 上买不到日本音乐？TechCrunch
+# 你说在 iTunes 上买不到日本音乐？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/you-cant-buy-japanese-music-on-itunes-you-say/>
 

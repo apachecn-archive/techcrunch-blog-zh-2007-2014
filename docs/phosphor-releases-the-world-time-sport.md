@@ -1,4 +1,4 @@
-# 磷光发布世界时间运动 TechCrunch
+# 磷光发布世界时间运动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/phosphor-releases-the-world-time-sport/>
 

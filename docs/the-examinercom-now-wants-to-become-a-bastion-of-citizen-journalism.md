@@ -1,4 +1,4 @@
-# Examiner.com 现在希望成为公民新闻的堡垒 TechCrunch
+# Examiner.com 现在希望成为公民新闻的堡垒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/22/the-examinercom-now-wants-to-become-a-bastion-of-citizen-journalism/>
 

@@ -1,4 +1,4 @@
-# DIY 项目将 Gameboy 变成神奇的乐器 TechCrunch
+# DIY 项目将 Gameboy 变成神奇的乐器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/diy-project-turns-the-gameboy-into-a-magical-musical-instrument/>
 

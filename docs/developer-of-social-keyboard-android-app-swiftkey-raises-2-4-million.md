@@ -1,4 +1,4 @@
-# “社交键盘”安卓应用 SwiftKey 的开发者筹得 240 万美元 TechCrunch
+# “社交键盘”安卓应用 SwiftKey 的开发者筹得 240 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/developer-of-social-keyboard-android-app-swiftkey-raises-2-4-million/>
 

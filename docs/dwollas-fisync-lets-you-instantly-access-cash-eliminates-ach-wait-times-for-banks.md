@@ -1,4 +1,4 @@
-# Dwolla 的 FiSync 让您可以立即存取现金，消除银行的 ACH 等待时间 TechCrunch
+# Dwolla 的 FiSync 让您可以立即存取现金，消除银行的 ACH 等待时间 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/25/dwollas-fisync-lets-you-instantly-access-cash-eliminates-ach-wait-times-for-banks/>
 

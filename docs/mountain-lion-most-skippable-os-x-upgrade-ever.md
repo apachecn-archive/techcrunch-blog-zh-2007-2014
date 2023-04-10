@@ -1,4 +1,4 @@
-# 山狮:有史以来最容易跳过的 OS X 升级？TechCrunch
+# 山狮:有史以来最容易跳过的 OS X 升级？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/mountain-lion-most-skippable-os-x-upgrade-ever/>
 

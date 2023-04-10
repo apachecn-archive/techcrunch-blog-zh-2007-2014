@@ -1,4 +1,4 @@
-# 钟表天才乔治·丹尼尔斯逝世 85 TechCrunch
+# 钟表天才乔治·丹尼尔斯逝世 85 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/horological-genius-george-daniels-dead-at-85/>
 

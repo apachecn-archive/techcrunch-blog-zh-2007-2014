@@ -1,4 +1,4 @@
-# 全面披露:Twitter 上的赞助对话引发关注，推动标准 TechCrunch
+# 全面披露:Twitter 上的赞助对话引发关注，推动标准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/25/full-disclosure-sponsored-conversations-on-twitter-raise-concerns-prompt-standards/>
 

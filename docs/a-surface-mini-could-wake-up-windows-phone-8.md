@@ -1,4 +1,4 @@
-# Surface Mini 可能唤醒 Windows Phone 8 TechCrunch
+# Surface Mini 可能唤醒 Windows Phone 8 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/14/a-surface-mini-could-wake-up-windows-phone-8/>
 

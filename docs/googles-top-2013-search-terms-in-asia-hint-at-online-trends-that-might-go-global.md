@@ -1,4 +1,4 @@
-# 谷歌 2013 年亚洲热门搜索词暗示了可能走向全球的在线趋势 TechCrunch
+# 谷歌 2013 年亚洲热门搜索词暗示了可能走向全球的在线趋势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/17/googles-top-2013-search-terms-in-asia-hint-at-online-trends-that-might-go-global/>
 

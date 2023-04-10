@@ -1,4 +1,4 @@
-# 甲骨文以 15 亿美元收购基于云的客户服务公司 right now TechCrunch
+# 甲骨文以 15 亿美元收购基于云的客户服务公司 right now 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/oracle-buys-cloud-based-customer-service-company-rightnow-for-1-5-billion/>
 

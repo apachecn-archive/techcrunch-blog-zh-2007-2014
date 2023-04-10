@@ -1,4 +1,4 @@
-# Orkut 即将落入印度脸书手中 TechCrunch
+# Orkut 即将落入印度脸书手中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/07/orkut-facebook-india/>
 

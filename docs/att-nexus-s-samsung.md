@@ -1,4 +1,4 @@
-# 三星 Nexus S 美国电话电报公司版将于 7 月 24 日在百思买上市，售价 99 美元 TechCrunch
+# 三星 Nexus S 美国电话电报公司版将于 7 月 24 日在百思买上市，售价 99 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/att-nexus-s-samsung/>
 

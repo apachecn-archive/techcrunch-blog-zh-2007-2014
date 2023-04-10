@@ -1,4 +1,4 @@
-# 证实:Ebay 以 7500 万美元收购 Milo。投资者大赚一笔。TechCrunch
+# 证实:Ebay 以 7500 万美元收购 Milo。投资者大赚一笔。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/02/confirmed-ebay-acquires-milo-for-75-million-investors-make-a-killing/>
 

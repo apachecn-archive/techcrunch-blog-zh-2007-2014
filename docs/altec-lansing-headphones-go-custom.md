@@ -1,4 +1,4 @@
-# Altec Lansing 耳机开始定制 TechCrunch
+# Altec Lansing 耳机开始定制 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/altec-lansing-headphones-go-custom/>
 

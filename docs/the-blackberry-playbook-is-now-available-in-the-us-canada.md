@@ -1,4 +1,4 @@
-# 黑莓 PlayBook 现已在美国和加拿大上市 TechCrunch
+# 黑莓 PlayBook 现已在美国和加拿大上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/19/the-blackberry-playbook-is-now-available-in-the-us-canada/>
 

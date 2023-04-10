@@ -1,4 +1,4 @@
-# 现货手表已死 TechCrunch
+# 现货手表已死 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/24/spot-watches-dead/>
 

@@ -1,4 +1,4 @@
-# Metawatch 的实际操作 TechCrunch
+# Metawatch 的实际操作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/10/a-hands-on-with-the-metawatch/>
 

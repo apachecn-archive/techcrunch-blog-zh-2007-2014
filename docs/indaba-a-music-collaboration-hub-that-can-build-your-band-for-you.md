@@ -1,4 +1,4 @@
-# Indaba:一个音乐协作中心，可以为你建立自己的乐队 TechCrunch
+# Indaba:一个音乐协作中心，可以为你建立自己的乐队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/13/indaba-a-music-collaboration-hub-that-can-build-your-band-for-you/>
 

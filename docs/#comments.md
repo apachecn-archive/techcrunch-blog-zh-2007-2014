@@ -1,4 +1,4 @@
-# SayNow 获得 750 万美元的 A 轮融资——TechCrunch
+# SayNow 获得 750 万美元的 A 轮融资——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/saynow-lands-75-million-series-a/#comments>
 

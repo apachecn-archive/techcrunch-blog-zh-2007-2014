@@ -1,4 +1,4 @@
-# 脸书隐藏了你的电子邮件地址，只留下@Facebook.com 可见。现在就解开这些废话 TechCrunch
+# 脸书隐藏了你的电子邮件地址，只留下@Facebook.com 可见。现在就解开这些废话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/facebook-email-address/>
 

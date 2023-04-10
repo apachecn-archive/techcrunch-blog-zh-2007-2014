@@ -1,4 +1,4 @@
-# 即将发布的 Palm Centro 的新照片？TechCrunch
+# 即将发布的 Palm Centro 的新照片？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/25/new-photo-of-the-upcoming-palm-centro/>
 

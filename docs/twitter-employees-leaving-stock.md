@@ -1,4 +1,4 @@
-# Twitter 员工离开的真正原因是——他们可以卖掉自己的股票 TechCrunch
+# Twitter 员工离开的真正原因是——他们可以卖掉自己的股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/twitter-employees-leaving-stock/>
 

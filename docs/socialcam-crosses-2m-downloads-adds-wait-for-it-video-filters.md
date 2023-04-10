@@ -1,4 +1,4 @@
-# Socialcam 穿越 2M 下载，添加(等等...)视频滤镜！TechCrunch
+# Socialcam 穿越 2M 下载，添加(等等...)视频滤镜！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/socialcam-crosses-2m-downloads-adds-wait-for-it-video-filters/>
 

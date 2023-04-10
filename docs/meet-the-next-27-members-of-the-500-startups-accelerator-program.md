@@ -1,4 +1,4 @@
-# “愿风投永远对你有利”——认识下一个 500 家创业公司加速器课程 TechCrunch
+# “愿风投永远对你有利”——认识下一个 500 家创业公司加速器课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/09/meet-the-next-27-members-of-the-500-startups-accelerator-program/>
 

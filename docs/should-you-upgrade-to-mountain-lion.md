@@ -1,4 +1,4 @@
-# 该不该升级到山狮？TechCrunch
+# 该不该升级到山狮？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/should-you-upgrade-to-mountain-lion/>
 

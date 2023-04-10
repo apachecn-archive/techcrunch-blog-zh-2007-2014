@@ -1,4 +1,4 @@
-# 苹果的 iPad 业务现在比 MacBook 业务更大。接下来:整个 Mac 业务 TechCrunch
+# 苹果的 iPad 业务现在比 MacBook 业务更大。接下来:整个 Mac 业务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/apple-ipad-business/>
 

@@ -1,4 +1,4 @@
-# 欧洲 VC Connect Ventures 以 2200 万美元启动。秘密销售最先获得帮助:48.7 万美元 TechCrunch
+# 欧洲 VC Connect Ventures 以 2200 万美元启动。秘密销售最先获得帮助:48.7 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/01/european-vc-connect-ventures-launches-with-22m-fund-secret-sales-gets-the-first-helping-487k/?utm_source=twitterfeed&utm_medium=twitter>
 

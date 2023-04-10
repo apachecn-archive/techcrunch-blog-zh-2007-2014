@@ -1,4 +1,4 @@
-# Tumblr 在宕机 24 小时后终于开始恢复 TechCrunch
+# Tumblr 在宕机 24 小时后终于开始恢复 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/tumblr-downtime/>
 

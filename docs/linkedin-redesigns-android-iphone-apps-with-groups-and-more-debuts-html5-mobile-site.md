@@ -1,4 +1,4 @@
-# LinkedIn 用群组等重新设计 Android、iPhone 应用；首次推出 HTML5 移动网站 TechCrunch
+# LinkedIn 用群组等重新设计 Android、iPhone 应用；首次推出 HTML5 移动网站 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/linkedin-redesigns-android-iphone-apps-with-groups-and-more-debuts-html5-mobile-site/>
 

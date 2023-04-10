@@ -1,4 +1,4 @@
-# 亚马逊上的厌食症 PSP——TechCrunch
+# 亚马逊上的厌食症 PSP——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/anorexic-psps-on-amazon/>
 

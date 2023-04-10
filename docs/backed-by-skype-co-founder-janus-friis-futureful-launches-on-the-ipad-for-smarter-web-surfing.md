@@ -1,4 +1,4 @@
-# 在 Skype 联合创始人 Janus Friis 的支持下，Futureful 在 iPad 上推出更智能的网上冲浪 TechCrunch
+# 在 Skype 联合创始人 Janus Friis 的支持下，Futureful 在 iPad 上推出更智能的网上冲浪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/23/backed-by-skype-co-founder-janus-friis-futureful-launches-on-the-ipad-for-smarter-web-surfing/>
 

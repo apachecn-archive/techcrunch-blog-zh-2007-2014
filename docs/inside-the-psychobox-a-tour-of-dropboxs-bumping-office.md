@@ -1,4 +1,4 @@
-# 走进心理盒子:参观 Dropbox 颠簸的办公室 TechCrunch
+# 走进心理盒子:参观 Dropbox 颠簸的办公室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/10/inside-the-psychobox-a-tour-of-dropboxs-bumping-office/>
 

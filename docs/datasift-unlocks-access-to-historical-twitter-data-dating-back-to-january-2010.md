@@ -1,4 +1,4 @@
-# DataSift 允许访问自 2010 年 1 月以来的 Twitter 历史数据 TechCrunch
+# DataSift 允许访问自 2010 年 1 月以来的 Twitter 历史数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/datasift-unlocks-access-to-historical-twitter-data-dating-back-to-january-2010/>
 

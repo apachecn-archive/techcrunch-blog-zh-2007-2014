@@ -1,4 +1,4 @@
-# 出售 Retweet.com。购买它并冒着被 Twitter 起诉的风险。TechCrunch
+# 出售 Retweet.com。购买它并冒着被 Twitter 起诉的风险。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/retweet-com-for-sale/>
 

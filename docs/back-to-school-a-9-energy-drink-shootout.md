@@ -1,4 +1,4 @@
-# 重返校园:9 元能量饮料大战 TechCrunch
+# 重返校园:9 元能量饮料大战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/31/back-to-school-a-9-energy-drink-shootout/>
 

@@ -1,4 +1,4 @@
-# Palm Pre Girl 不再对你说话 TechCrunch
+# Palm Pre Girl 不再对你说话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/16/palm-pre-girl-stops-talking-right-at-you/>
 

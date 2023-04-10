@@ -1,4 +1,4 @@
-# 报告:2011 年移动宽带用户数量将超过 10 亿 TechCrunch
+# 报告:2011 年移动宽带用户数量将超过 10 亿 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/11/report-number-of-mobile-broadband-subscriptions-to-surpass-1-billion-in-2011/>
 

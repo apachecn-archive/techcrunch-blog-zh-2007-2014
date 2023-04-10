@@ -1,4 +1,4 @@
-# reKiosk 以数字方式再现了独立书店和唱片店的体验 TechCrunch
+# reKiosk 以数字方式再现了独立书店和唱片店的体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/24/rekiosk-digitally-recreates-the-independent-bookstore-and-record-store-experience/>
 

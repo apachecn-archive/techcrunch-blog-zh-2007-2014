@@ -1,4 +1,4 @@
-# 哟福布斯，去你的 TechCrunch
+# 哟福布斯，去你的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/27/fornicating-under-consent-of-the-king/>
 

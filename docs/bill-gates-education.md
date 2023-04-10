@@ -1,4 +1,4 @@
-# 比尔·盖茨:五年内，最好的教育将来自网络 TechCrunch
+# 比尔·盖茨:五年内，最好的教育将来自网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/06/bill-gates-education/>
 

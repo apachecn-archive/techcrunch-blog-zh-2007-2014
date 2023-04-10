@@ -1,4 +1,4 @@
-# 美国 Galaxy S IV 截图泄露，支持智能卷轴声明和一些硬件规格 TechCrunch
+# 美国 Galaxy S IV 截图泄露，支持智能卷轴声明和一些硬件规格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/06/u-s-galaxy-s-iv-screenshots-leak-backing-up-smart-scroll-claims-and-some-hardware-specs/>
 

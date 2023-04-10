@@ -1,4 +1,4 @@
-# Xbox 360 的时代华纳有线电视应用程序现已推出，可访问 300 个频道 TechCrunch
+# Xbox 360 的时代华纳有线电视应用程序现已推出，可访问 300 个频道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/the-time-warner-cable-tv-app-for-xbox-360-is-now-available-with-access-to-300-channels/>
 

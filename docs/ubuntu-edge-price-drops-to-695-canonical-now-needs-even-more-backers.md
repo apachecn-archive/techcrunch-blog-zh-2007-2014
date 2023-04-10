@@ -1,4 +1,4 @@
-# Ubuntu Edge 价格再次下降，Canonical 现在需要更多的支持者才能成功 TechCrunch
+# Ubuntu Edge 价格再次下降，Canonical 现在需要更多的支持者才能成功 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/08/ubuntu-edge-price-drops-to-695-canonical-now-needs-even-more-backers/>
 

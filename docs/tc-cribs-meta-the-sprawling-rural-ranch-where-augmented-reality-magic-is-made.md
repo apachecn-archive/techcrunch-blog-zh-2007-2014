@@ -1,4 +1,4 @@
-# TC Cribs: Meta，一个广阔的乡村牧场，增强现实魔术就是在这里制作的 TechCrunch
+# TC Cribs: Meta，一个广阔的乡村牧场，增强现实魔术就是在这里制作的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/tc-cribs-meta-the-sprawling-rural-ranch-where-augmented-reality-magic-is-made/>
 

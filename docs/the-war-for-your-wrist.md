@@ -1,4 +1,4 @@
-# 手腕之战 TechCrunch
+# 手腕之战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/08/the-war-for-your-wrist/>
 

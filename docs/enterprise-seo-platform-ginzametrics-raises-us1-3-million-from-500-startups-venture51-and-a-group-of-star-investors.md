@@ -1,4 +1,4 @@
-# 企业 SEO 平台 Ginzametrics 从 500 家初创公司、Venture51 和一群明星投资者那里筹集了 130 万美元 TechCrunch
+# 企业 SEO 平台 Ginzametrics 从 500 家初创公司、Venture51 和一群明星投资者那里筹集了 130 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/enterprise-seo-platform-ginzametrics-raises-us1-3-million-from-500-startups-venture51-and-a-group-of-star-investors/>
 

@@ -1,4 +1,4 @@
-# 截图:Google Buzz 在行动 TechCrunch
+# 截图:Google Buzz 在行动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/google-buzz-screenshots/>
 

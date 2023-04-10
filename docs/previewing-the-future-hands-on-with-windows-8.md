@@ -1,4 +1,4 @@
-# 预览未来:动手操作 Windows 8 TechCrunch
+# 预览未来:动手操作 Windows 8 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/previewing-the-future-hands-on-with-windows-8/>
 

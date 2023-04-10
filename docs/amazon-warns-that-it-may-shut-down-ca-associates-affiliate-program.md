@@ -1,4 +1,4 @@
-# 亚马逊警告称，它可能会关闭 CA Associates 联盟计划 TechCrunch
+# 亚马逊警告称，它可能会关闭 CA Associates 联盟计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/amazon-warns-that-it-may-shut-down-ca-associates-affiliate-program/>
 

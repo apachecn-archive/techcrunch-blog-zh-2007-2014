@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:最后的倒计时——TechCrunch
+# 10 天的 CrunchGear 赠品:最后的倒计时——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/24/10-days-of-crunchgear-giveaway-the-final-countdown/>
 

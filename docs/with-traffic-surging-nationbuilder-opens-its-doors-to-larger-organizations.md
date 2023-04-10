@@ -1,4 +1,4 @@
-# 随着流量激增，NationBuilder 向大型组织敞开了大门 TechCrunch
+# 随着流量激增，NationBuilder 向大型组织敞开了大门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/with-traffic-surging-nationbuilder-opens-its-doors-to-larger-organizations/>
 

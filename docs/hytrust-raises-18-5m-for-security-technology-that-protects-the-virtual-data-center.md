@@ -1,4 +1,4 @@
-# HyTrust 为保护虚拟数据中心的安全技术筹集了 1850 万美元 TechCrunch
+# HyTrust 为保护虚拟数据中心的安全技术筹集了 1850 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/hytrust-raises-18-5m-for-security-technology-that-protects-the-virtual-data-center/>
 

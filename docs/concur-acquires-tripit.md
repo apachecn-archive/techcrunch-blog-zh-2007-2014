@@ -1,4 +1,4 @@
-# TripIt 打包退出——被 Concur 以高达 1.2 亿美元的价格收购 TechCrunch
+# TripIt 打包退出——被 Concur 以高达 1.2 亿美元的价格收购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/13/concur-acquires-tripit/>
 

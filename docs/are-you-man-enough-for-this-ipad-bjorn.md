@@ -1,4 +1,4 @@
-# 对于这款 iPad Bjorn，你够男人吗？TechCrunch
+# 对于这款 iPad Bjorn，你够男人吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/are-you-man-enough-for-this-ipad-bjorn/>
 

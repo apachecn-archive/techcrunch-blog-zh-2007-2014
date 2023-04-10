@@ -1,4 +1,4 @@
-# Keek 筹集了 1800 万美元，在 30 天内增加了 600 万用户，并希望在国际上进一步扩大移动视频分享 TechCrunch
+# Keek 筹集了 1800 万美元，在 30 天内增加了 600 万用户，并希望在国际上进一步扩大移动视频分享 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/17/keek-raises-18m-adds-6m-users-in-30-days-and-looks-to-expand-mobile-video-sharing-further-internationally/>
 

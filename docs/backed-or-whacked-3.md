@@ -1,4 +1,4 @@
-# 支持还是疲惫:通过众筹阅读和写作 TechCrunch
+# 支持还是疲惫:通过众筹阅读和写作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/18/backed-or-whacked-3/>
 

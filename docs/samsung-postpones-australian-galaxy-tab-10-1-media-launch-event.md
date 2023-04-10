@@ -1,4 +1,4 @@
-# 三星推迟澳大利亚 Galaxy Tab 10.1 媒体发布会 TechCrunch
+# 三星推迟澳大利亚 Galaxy Tab 10.1 媒体发布会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/samsung-postpones-australian-galaxy-tab-10-1-media-launch-event/>
 

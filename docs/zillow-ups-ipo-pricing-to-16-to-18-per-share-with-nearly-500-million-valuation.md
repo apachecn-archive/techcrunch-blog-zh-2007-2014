@@ -1,4 +1,4 @@
-# Zillow 将 IPO 定价提高至每股 16 至 18 美元，估值近 5 亿美元 TechCrunch
+# Zillow 将 IPO 定价提高至每股 16 至 18 美元，估值近 5 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/zillow-ups-ipo-pricing-to-16-to-18-per-share-with-nearly-500-million-valuation/>
 

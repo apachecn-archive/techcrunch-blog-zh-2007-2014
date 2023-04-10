@@ -1,4 +1,4 @@
-# 视频:日本婴儿机器人 Affetto TechCrunch
+# 视频:日本婴儿机器人 Affetto 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/video-japanese-baby-robot-affetto/>
 

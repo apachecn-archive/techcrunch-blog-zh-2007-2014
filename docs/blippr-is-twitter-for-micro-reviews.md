@@ -1,4 +1,4 @@
-# Blippr 是微评论的 Twitter TechCrunch
+# Blippr 是微评论的 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/28/blippr-is-twitter-for-micro-reviews/>
 

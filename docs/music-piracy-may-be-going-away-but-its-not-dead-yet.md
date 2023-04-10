@@ -1,4 +1,4 @@
-# 音乐盗版可能正在消失，但还没有消亡 TechCrunch
+# 音乐盗版可能正在消失，但还没有消亡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/music-piracy-may-be-going-away-but-its-not-dead-yet/>
 

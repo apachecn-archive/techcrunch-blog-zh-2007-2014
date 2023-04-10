@@ -1,4 +1,4 @@
-# Mac OS X 狮子明天发布 TechCrunch
+# Mac OS X 狮子明天发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/mac-os-x-lion-launches-tomorrow/>
 

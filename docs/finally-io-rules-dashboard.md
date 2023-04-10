@@ -1,4 +1,4 @@
-# 云监控初创公司 Finally.io 现在允许客户添加规则来测试和横向扩展其基础架构 TechCrunch
+# 云监控初创公司 Finally.io 现在允许客户添加规则来测试和横向扩展其基础架构 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/04/finally-io-rules-dashboard/>
 

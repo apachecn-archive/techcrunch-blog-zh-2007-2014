@@ -1,4 +1,4 @@
-# YC 支持的 Vidyard 是面向企业的 YouTube TechCrunch
+# YC 支持的 Vidyard 是面向企业的 YouTube 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/yc-backed-vidyard-is-a-youtube-for-businesses/>
 

@@ -1,4 +1,4 @@
-# 平面媒体在全球范围内注定要失败，还是只在美国？TechCrunch
+# 平面媒体在全球范围内注定要失败，还是只在美国？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/31/is-print-media-doomed-worldwide-or-just-in-the-us/>
 

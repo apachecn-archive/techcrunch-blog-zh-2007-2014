@@ -1,4 +1,4 @@
-# 惠普对苹果:你赢了。TechCrunch
+# 惠普对苹果:你赢了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/apple-wins-without-throwing-a-punch/>
 

@@ -1,4 +1,4 @@
-# “新冰衣”让出汗的人在酷暑中保持凉爽 TechCrunch
+# “新冰衣”让出汗的人在酷暑中保持凉爽 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/16/the-new-ice-suit-keeps-sweating-men-cool-in-the-summer-heat/>
 

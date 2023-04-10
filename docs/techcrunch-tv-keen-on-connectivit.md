@@ -1,4 +1,4 @@
-# TechCrunch 电视:热衷于...与克莱·舍基和 Charlene Li 联系 TechCrunch
+# TechCrunch 电视:热衷于...与克莱·舍基和 Charlene Li 联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/07/techcrunch-tv-keen-on-connectivit/>
 

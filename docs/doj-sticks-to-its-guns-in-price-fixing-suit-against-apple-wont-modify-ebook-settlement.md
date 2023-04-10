@@ -1,4 +1,4 @@
-# DOJ 在针对苹果的价格垄断诉讼中坚持己见，不愿修改电子书和解协议 TechCrunch
+# DOJ 在针对苹果的价格垄断诉讼中坚持己见，不愿修改电子书和解协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/23/doj-sticks-to-its-guns-in-price-fixing-suit-against-apple-wont-modify-ebook-settlement/>
 

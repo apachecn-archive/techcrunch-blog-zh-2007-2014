@@ -1,4 +1,4 @@
-# Opera 更新了其桌面浏览器，增加了摄像头支持以推动本地网络体验 TechCrunch
+# Opera 更新了其桌面浏览器，增加了摄像头支持以推动本地网络体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/13/opera-updates-its-desktop-browser-adds-camera-support-to-push-the-native-web-experience/>
 

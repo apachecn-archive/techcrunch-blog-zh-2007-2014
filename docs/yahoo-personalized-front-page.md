@@ -1,4 +1,4 @@
-# 雅虎推出更加个性化和互动的首页 TechCrunch
+# 雅虎推出更加个性化和互动的首页 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/20/yahoo-personalized-front-page/>
 

@@ -1,4 +1,4 @@
-# 通用宣布推出下一款 Volt，凯迪拉克 ELR TechCrunch
+# 通用宣布推出下一款 Volt，凯迪拉克 ELR 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/cadillac-elr-volt/>
 

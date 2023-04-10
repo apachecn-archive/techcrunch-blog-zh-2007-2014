@@ -1,4 +1,4 @@
-# FBI 推出其首个移动应用程序——名为“儿童 ID”的 iPhone 应用程序 TechCrunch
+# FBI 推出其首个移动应用程序——名为“儿童 ID”的 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/fbi-launches-its-first-mobile-application-the-child-id-iphone-app/>
 

@@ -1,4 +1,4 @@
-# 未充分利用视频演示的力量来解释您实际上在做什么 TechCrunch
+# 未充分利用视频演示的力量来解释您实际上在做什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/11/the-underutilized-power-of-the-video-demo-to-explain-what-the-hell-you-actually-do/>
 

@@ -1,4 +1,4 @@
-# ZooZ 获得 150 万美元的应用内移动支付解决方案 TechCrunch
+# ZooZ 获得 150 万美元的应用内移动支付解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/zooz-lands-1-5-million-for-in-app-mobile-payments-solution/>
 

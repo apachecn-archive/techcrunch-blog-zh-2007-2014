@@ -1,4 +1,4 @@
-# 500 家初创公司支持的 72Lux 希望帮助您将网站转变为电子商务平台 TechCrunch
+# 500 家初创公司支持的 72Lux 希望帮助您将网站转变为电子商务平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/500-startups-backed-72lux-wants-to-help-turn-your-site-into-an-ecommerce-platform/>
 

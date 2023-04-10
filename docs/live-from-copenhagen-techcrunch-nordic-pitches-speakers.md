@@ -1,4 +1,4 @@
-# 来自哥本哈根的现场直播- TechCrunch Nordic，推介和演讲者 TechCrunch
+# 来自哥本哈根的现场直播- TechCrunch Nordic，推介和演讲者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/26/live-from-copenhagen-techcrunch-nordic-pitches-speakers/>
 

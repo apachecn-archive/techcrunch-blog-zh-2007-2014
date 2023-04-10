@@ -1,4 +1,4 @@
-# 怡保！:Groupon 成为自己的热门打折商品 TechCrunch
+# 怡保！:Groupon 成为自己的热门打折商品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/ipoh-groupon-becomes-its-own-hot-discounted-deal/>
 

@@ -1,4 +1,4 @@
-# Runa Capital 向教育平台投资 500 万美元，并计划扩张 TechCrunch
+# Runa Capital 向教育平台投资 500 万美元，并计划扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/03/runa-capital-puts-5-million-into-education-platform-with-expansion-plans/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20Techcrunch%20(TechCrunch>&utm_content=Google%20Reader)
 

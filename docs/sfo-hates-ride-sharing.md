@@ -1,4 +1,4 @@
-# SFO 发出停止通知，阻止拼车公司在机场运营 TechCrunch
+# SFO 发出停止通知，阻止拼车公司在机场运营 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/04/sfo-hates-ride-sharing/>
 

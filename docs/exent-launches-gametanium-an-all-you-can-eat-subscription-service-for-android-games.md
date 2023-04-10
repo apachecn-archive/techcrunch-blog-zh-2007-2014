@@ -1,4 +1,4 @@
-# Exent 推出首个 Android 游戏的免费订阅服务 TechCrunch
+# Exent 推出首个 Android 游戏的免费订阅服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/exent-launches-gametanium-an-all-you-can-eat-subscription-service-for-android-games/>
 

@@ -1,4 +1,4 @@
-# N-Gage 仍然存在，I-play 提供新游戏 TechCrunch
+# N-Gage 仍然存在，I-play 提供新游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/20/n-gage-still-exists-i-play-offering-new-games/>
 

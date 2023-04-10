@@ -1,4 +1,4 @@
-# 一家名为 Huddle 的初创公司对 Google+ Huddle 功能进行了法律思考 TechCrunch
+# 一家名为 Huddle 的初创公司对 Google+ Huddle 功能进行了法律思考 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/30/a-startup-called-huddle-legally-ponders-the-google-huddle-feature/>
 

@@ -1,4 +1,4 @@
-# 凯鹏华盈支持的 Erly 专注于分享视觉收藏，捕捉事件记忆 TechCrunch
+# 凯鹏华盈支持的 Erly 专注于分享视觉收藏，捕捉事件记忆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/kleiner-backed-erly-refocuses-shared-visual-collections-on-capturing-memories-from-events/>
 

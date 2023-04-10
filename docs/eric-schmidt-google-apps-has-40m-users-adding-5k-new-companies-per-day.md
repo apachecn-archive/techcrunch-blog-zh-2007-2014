@@ -1,4 +1,4 @@
-# 埃里克·施密特:谷歌应用套件有 4000 万用户；每天增加 5000 家公司 TechCrunch
+# 埃里克·施密特:谷歌应用套件有 4000 万用户；每天增加 5000 家公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/01/eric-schmidt-google-apps-has-40m-users-adding-5k-new-companies-per-day/>
 

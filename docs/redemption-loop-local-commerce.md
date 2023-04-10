@@ -1,4 +1,4 @@
-# 结束本地商业中的兑换循环 TechCrunch
+# 结束本地商业中的兑换循环 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/24/redemption-loop-local-commerce/>
 

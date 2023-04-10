@@ -1,4 +1,4 @@
-# 描绘脸书在全球的受欢迎程度 TechCrunch
+# 描绘脸书在全球的受欢迎程度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/28/mapping-facebooks-popularity-around-the-world/>
 

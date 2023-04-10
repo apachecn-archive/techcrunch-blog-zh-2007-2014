@@ -1,4 +1,4 @@
-# 聊天轮盘零件与私人零件，寻找新的外观 TechCrunch
+# 聊天轮盘零件与私人零件，寻找新的外观 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/04/chatroulette-parts-with-private-parts-looking-for-a-new-look/>
 

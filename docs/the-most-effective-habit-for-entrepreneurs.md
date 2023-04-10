@@ -1,4 +1,4 @@
-# 创业者最有效的习惯 TechCrunch
+# 创业者最有效的习惯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/29/the-most-effective-habit-for-entrepreneurs/>
 

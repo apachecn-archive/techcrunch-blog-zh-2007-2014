@@ -1,4 +1,4 @@
-# Waze 将众包社交流量数据引入地方广播电台 TechCrunch
+# Waze 将众包社交流量数据引入地方广播电台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/08/waze-brings-crowdsourced-social-traffic-data-to-local-broadcast-stations/>
 

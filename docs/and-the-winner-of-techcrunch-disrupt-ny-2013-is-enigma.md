@@ -1,4 +1,4 @@
-# TechCrunch Disrupt NY 2013 的获胜者是...谜！TechCrunch
+# TechCrunch Disrupt NY 2013 的获胜者是...谜！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/and-the-winner-of-techcrunch-disrupt-ny-2013-is-enigma/>
 

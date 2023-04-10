@@ -1,4 +1,4 @@
-# 理光 CX4:1000 万像素，720p，高分辨率液晶屏 TechCrunch
+# 理光 CX4:1000 万像素，720p，高分辨率液晶屏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/ricoh-cx4-10-megapixels-720p-high-res-lcd/>
 

@@ -1,4 +1,4 @@
-# Techmeme 排行榜即将推出，攻击 Technorati 的最后据点 TechCrunch
+# Techmeme 排行榜即将推出，攻击 Technorati 的最后据点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/30/techmeme-leaderboard-to-launch-attacking-technoratis-last-stronghold/>
 

@@ -1,4 +1,4 @@
-# 支付初创公司 Card.io 挑战竞争对手 Jumio，增加网络支持 TechCrunch
+# 支付初创公司 Card.io 挑战竞争对手 Jumio，增加网络支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/22/taking-on-rival-jumio-payments-startup-card-io-adds-web-support/>
 

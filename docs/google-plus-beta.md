@@ -1,4 +1,4 @@
-# Google+推出 9 项新功能测试版，包括搜索、移动聊天和开放注册 TechCrunch
+# Google+推出 9 项新功能测试版，包括搜索、移动聊天和开放注册 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/google-plus-beta/>
 

@@ -1,4 +1,4 @@
-# 社交游戏和开发者职业机会平台 Gild 融资 240 万美元 TechCrunch
+# 社交游戏和开发者职业机会平台 Gild 融资 240 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/social-gaming-and-developer-career-opportunity-platform-gild-raises-2-4-million/>
 

@@ -1,4 +1,4 @@
-# 有了谷歌电视，我可能再也不会离开沙发了 TechCrunch
+# 有了谷歌电视，我可能再也不会离开沙发了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/21/google-tv-logitech-revue/>
 

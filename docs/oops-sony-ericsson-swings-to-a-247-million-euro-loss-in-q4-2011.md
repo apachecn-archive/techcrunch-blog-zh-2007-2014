@@ -1,4 +1,4 @@
-# 哎呀-索尼爱立信 2011 年第 4 季度净亏损 2.07 亿欧元 TechCrunch
+# 哎呀-索尼爱立信 2011 年第 4 季度净亏损 2.07 亿欧元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/19/oops-sony-ericsson-swings-to-a-247-million-euro-loss-in-q4-2011/>
 

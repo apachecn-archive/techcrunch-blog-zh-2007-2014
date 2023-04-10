@@ -1,4 +1,4 @@
-# 你有 fmail TechCrunch
+# 你有 fmail 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/13/youve-got-fmail/>
 

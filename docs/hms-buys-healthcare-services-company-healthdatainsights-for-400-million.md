@@ -1,4 +1,4 @@
-# HMS 以 4 亿美元收购医疗服务公司 health data insights TechCrunch
+# HMS 以 4 亿美元收购医疗服务公司 health data insights 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/hms-buys-healthcare-services-company-healthdatainsights-for-400-million/>
 

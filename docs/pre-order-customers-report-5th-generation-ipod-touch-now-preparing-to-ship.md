@@ -1,4 +1,4 @@
-# 预购客户报告第五代 iPod Touch 现已准备发货 TechCrunch
+# 预购客户报告第五代 iPod Touch 现已准备发货 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/05/pre-order-customers-report-5th-generation-ipod-touch-now-preparing-to-ship/>
 

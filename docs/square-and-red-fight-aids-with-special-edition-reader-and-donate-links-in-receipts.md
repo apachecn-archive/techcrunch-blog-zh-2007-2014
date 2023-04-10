@@ -1,4 +1,4 @@
-# Square 和(RED)与特别版 Reader 一起抗击艾滋病并捐赠收据中的链接 TechCrunch
+# Square 和(RED)与特别版 Reader 一起抗击艾滋病并捐赠收据中的链接 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/square-and-red-fight-aids-with-special-edition-reader-and-donate-links-in-receipts/>
 

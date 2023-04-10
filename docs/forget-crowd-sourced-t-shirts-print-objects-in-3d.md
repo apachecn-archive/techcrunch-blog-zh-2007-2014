@@ -1,4 +1,4 @@
-# 忘记众包 t 恤:3D 打印物品 TechCrunch
+# 忘记众包 t 恤:3D 打印物品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/21/forget-crowd-sourced-t-shirts-print-objects-in-3d/>
 

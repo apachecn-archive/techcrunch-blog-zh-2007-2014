@@ -1,4 +1,4 @@
-# 三星版 iMessage ChatON 登陆安卓市场 TechCrunch
+# 三星版 iMessage ChatON 登陆安卓市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/chaton-samsungs-version-of-imessage-arrives-in-android-market/>
 

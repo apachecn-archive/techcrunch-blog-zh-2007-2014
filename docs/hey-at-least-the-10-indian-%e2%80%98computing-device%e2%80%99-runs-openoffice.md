@@ -1,4 +1,4 @@
-# 嘿，至少 10 美元的印度“计算设备”运行 open office TechCrunch
+# 嘿，至少 10 美元的印度“计算设备”运行 open office 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/06/hey-at-least-the-10-indian-%e2%80%98computing-device%e2%80%99-runs-openoffice/>
 

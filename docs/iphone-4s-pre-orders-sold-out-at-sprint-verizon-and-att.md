@@ -1,4 +1,4 @@
-# iPhone 4S 预购在 Sprint、威瑞森和美国电话电报公司售罄 TechCrunch
+# iPhone 4S 预购在 Sprint、威瑞森和美国电话电报公司售罄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/iphone-4s-pre-orders-sold-out-at-sprint-verizon-and-att/>
 

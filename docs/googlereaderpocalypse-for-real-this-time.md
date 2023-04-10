@@ -1,4 +1,4 @@
-# GoogleReaderpocalypse。这次是真的。TechCrunch
+# GoogleReaderpocalypse。这次是真的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/googlereaderpocalypse-for-real-this-time/>
 

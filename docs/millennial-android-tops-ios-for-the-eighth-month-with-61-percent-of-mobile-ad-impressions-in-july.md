@@ -1,4 +1,4 @@
-# 千禧一代:7 月份，Android 以 61%的移动广告浏览量连续第八个月位居 iOS 榜首 TechCrunch
+# 千禧一代:7 月份，Android 以 61%的移动广告浏览量连续第八个月位居 iOS 榜首 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/millennial-android-tops-ios-for-the-eighth-month-with-61-percent-of-mobile-ad-impressions-in-july/>
 

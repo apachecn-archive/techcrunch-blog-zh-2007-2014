@@ -1,4 +1,4 @@
-# 4G LTE 和 WiMAX 芯片制造商 GCT 半导体寻求高达 1 亿美元的 IPO TechCrunch
+# 4G LTE 和 WiMAX 芯片制造商 GCT 半导体寻求高达 1 亿美元的 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/4g-lte-and-wimax-chip-maker-gct-semiconductor-seeks-up-to-100-million-in-ipo/>
 

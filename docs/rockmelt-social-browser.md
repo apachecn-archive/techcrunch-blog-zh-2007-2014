@@ -1,4 +1,4 @@
-# 在岩石融化和困境之间:对社交浏览器的探索 TechCrunch
+# 在岩石融化和困境之间:对社交浏览器的探索 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/11/rockmelt-social-browser/>
 

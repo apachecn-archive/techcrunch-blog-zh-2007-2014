@@ -1,4 +1,4 @@
-# Shelby.tv 凭借一款用于移动视频探索的 iPhone 应用程序从灰烬中重生 TechCrunch
+# Shelby.tv 凭借一款用于移动视频探索的 iPhone 应用程序从灰烬中重生 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/like-the-legend-of-the-phoenix-all-ends-with-video-discovery/>
 

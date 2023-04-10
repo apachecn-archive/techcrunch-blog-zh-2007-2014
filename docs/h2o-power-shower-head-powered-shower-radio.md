@@ -1,4 +1,4 @@
-# H2O 电力公司:淋浴头供电的淋浴收音机 TechCrunch
+# H2O 电力公司:淋浴头供电的淋浴收音机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/h2o-power-shower-head-powered-shower-radio/>
 

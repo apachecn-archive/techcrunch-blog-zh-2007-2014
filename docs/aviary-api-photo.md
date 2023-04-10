@@ -1,4 +1,4 @@
-# 通过新的 API，Aviary 希望成为照片效果(视频)的 Twilio TechCrunch
+# 通过新的 API，Aviary 希望成为照片效果(视频)的 Twilio 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/04/aviary-api-photo/>
 

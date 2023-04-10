@@ -1,4 +1,4 @@
-# 谷歌地图，现在有更多高分辨率卫星和 45 幅航空图像 TechCrunch
+# 谷歌地图，现在有更多高分辨率卫星和 45 幅航空图像 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/28/google-maps-now-with-more-high-res-satellite-and-45-aerial-imagery/>
 

@@ -1,4 +1,4 @@
-# 脸书优惠是一种病毒式的打击:朋友间的分享推动了 3/4 的流行优惠券兑换 TechCrunch
+# 脸书优惠是一种病毒式的打击:朋友间的分享推动了 3/4 的流行优惠券兑换 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/16/facebook-offers-sharing-stats/>
 

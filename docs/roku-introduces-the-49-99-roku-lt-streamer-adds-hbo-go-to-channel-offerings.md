@@ -1,4 +1,4 @@
-# Roku 推出 49.99 美元的 Roku LT Streamer，将 HBO GO 添加到频道产品中 TechCrunch
+# Roku 推出 49.99 美元的 Roku LT Streamer，将 HBO GO 添加到频道产品中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/roku-introduces-the-49-99-roku-lt-streamer-adds-hbo-go-to-channel-offerings/>
 

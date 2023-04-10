@@ -1,4 +1,4 @@
-# 推荐平台 Zferral 收购 SaaS 应用商店 cloudo matic TechCrunch
+# 推荐平台 Zferral 收购 SaaS 应用商店 cloudo matic 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/28/referral-platform-zferral-acquires-saas-app-store-cloudomatic/>
 

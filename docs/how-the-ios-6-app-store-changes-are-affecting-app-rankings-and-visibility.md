@@ -1,4 +1,4 @@
-# iOS 6 应用商店的变化如何影响应用排名和可见性 TechCrunch
+# iOS 6 应用商店的变化如何影响应用排名和可见性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/how-the-ios-6-app-store-changes-are-affecting-app-rankings-and-visibility/>
 

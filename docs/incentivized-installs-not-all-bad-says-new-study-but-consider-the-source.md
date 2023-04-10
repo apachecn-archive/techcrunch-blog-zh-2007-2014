@@ -1,4 +1,4 @@
-# 新研究称，激励性安装并不都是坏事...但是考虑一下来源 TechCrunch
+# 新研究称，激励性安装并不都是坏事...但是考虑一下来源 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/incentivized-installs-not-all-bad-says-new-study-but-consider-the-source/>
 

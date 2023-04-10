@@ -1,4 +1,4 @@
-# 调查:54%的美国人希望航空公司禁止飞行中打电话 TechCrunch
+# 调查:54%的美国人希望航空公司禁止飞行中打电话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/22/survey-54-of-americans-want-airlines-to-ban-in-flight-calls/>
 

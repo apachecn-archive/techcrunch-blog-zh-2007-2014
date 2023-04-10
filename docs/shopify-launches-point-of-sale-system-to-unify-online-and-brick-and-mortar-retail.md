@@ -1,4 +1,4 @@
-# Shopify 推出销售点系统，统一在线零售和实体零售 TechCrunch
+# Shopify 推出销售点系统，统一在线零售和实体零售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/28/shopify-launches-point-of-sale-system-to-unify-online-and-brick-and-mortar-retail/>
 

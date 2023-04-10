@@ -1,4 +1,4 @@
-# 您能以 1500 美元克隆唐格勒吗？TechCrunch
+# 您能以 1500 美元克隆唐格勒吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/11/can-you-clone-tangler-for-1500/>
 

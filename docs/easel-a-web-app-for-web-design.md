@@ -1,4 +1,4 @@
-# 认识一下 Easel，一个 YC 支持的让网页设计更简单的网络应用程序 TechCrunch
+# 认识一下 Easel，一个 YC 支持的让网页设计更简单的网络应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/07/easel-a-web-app-for-web-design/>
 

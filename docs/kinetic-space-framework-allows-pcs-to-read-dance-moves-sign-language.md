@@ -1,4 +1,4 @@
-# 动态空间框架允许电脑阅读舞蹈动作、手语 TechCrunch
+# 动态空间框架允许电脑阅读舞蹈动作、手语 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/kinetic-space-framework-allows-pcs-to-read-dance-moves-sign-language/>
 

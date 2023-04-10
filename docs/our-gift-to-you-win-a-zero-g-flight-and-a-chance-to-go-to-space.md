@@ -1,4 +1,4 @@
-# 我们给你的礼物:赢得零重力飞行和去太空的机会 TechCrunch
+# 我们给你的礼物:赢得零重力飞行和去太空的机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/22/our-gift-to-you-win-a-zero-g-flight-and-a-chance-to-go-to-space/>
 

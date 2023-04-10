@@ -1,4 +1,4 @@
-# 2012 年最重要的小工具 TechCrunch
+# 2012 年最重要的小工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/29/2012-predictions/>
 

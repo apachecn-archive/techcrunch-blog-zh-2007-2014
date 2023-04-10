@@ -1,4 +1,4 @@
-# 迪士尼收购 LucasArts 仅 154 天后就将其关闭 TechCrunch
+# 迪士尼收购 LucasArts 仅 154 天后就将其关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/disney-shuts-down-lucasarts-just-154-days-after-acquiring-it/>
 

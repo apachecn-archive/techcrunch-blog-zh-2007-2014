@@ -1,4 +1,4 @@
-# RIM 的困境仍在继续，据报道，IBM 正在考虑其企业部门 TechCrunch
+# RIM 的困境仍在继续，据报道，IBM 正在考虑其企业部门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/09/ibm-sniffing-at-rims-enterprise-unit/>
 

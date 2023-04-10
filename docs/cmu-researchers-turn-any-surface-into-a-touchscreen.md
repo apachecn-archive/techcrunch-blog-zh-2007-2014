@@ -1,4 +1,4 @@
-# CMU 研究人员将任何表面变成触摸屏 TechCrunch
+# CMU 研究人员将任何表面变成触摸屏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/cmu-researchers-turn-any-surface-into-a-touchscreen/>
 

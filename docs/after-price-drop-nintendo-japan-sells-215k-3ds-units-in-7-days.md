@@ -1,4 +1,4 @@
-# 价格下跌后:任天堂日本在 7 天内售出 21.5 万台 3DS TechCrunch
+# 价格下跌后:任天堂日本在 7 天内售出 21.5 万台 3DS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/after-price-drop-nintendo-japan-sells-215k-3ds-units-in-7-days/>
 

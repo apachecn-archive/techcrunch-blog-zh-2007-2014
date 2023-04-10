@@ -1,4 +1,4 @@
-# 谦卑的 Adobe 超越浏览器 TechCrunch
+# 谦卑的 Adobe 超越浏览器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/schadenfreadobe/>
 

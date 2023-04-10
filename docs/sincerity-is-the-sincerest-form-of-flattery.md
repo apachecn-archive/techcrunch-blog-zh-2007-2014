@@ -1,4 +1,4 @@
-# 是脸书，你还能指望什么？TechCrunch
+# 是脸书，你还能指望什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/sincerity-is-the-sincerest-form-of-flattery/>
 

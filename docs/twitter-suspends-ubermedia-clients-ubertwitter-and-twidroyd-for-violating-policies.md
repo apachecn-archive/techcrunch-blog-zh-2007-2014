@@ -1,4 +1,4 @@
-# Twitter 因侵犯隐私和盈利、商标侵权暂停 UberMedia 客户端 TechCrunch
+# Twitter 因侵犯隐私和盈利、商标侵权暂停 UberMedia 客户端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/18/twitter-suspends-ubermedia-clients-ubertwitter-and-twidroyd-for-violating-policies/>
 

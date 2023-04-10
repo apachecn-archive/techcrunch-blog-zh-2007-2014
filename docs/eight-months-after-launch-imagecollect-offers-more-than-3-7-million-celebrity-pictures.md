@@ -1,4 +1,4 @@
-# 推出八个月后，ImageCollect 提供了超过 370 万张名人照片 TechCrunch
+# 推出八个月后，ImageCollect 提供了超过 370 万张名人照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/eight-months-after-launch-imagecollect-offers-more-than-3-7-million-celebrity-pictures/>
 

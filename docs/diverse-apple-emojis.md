@@ -1,4 +1,4 @@
-# 苹果承诺让 iOS 表情符号更具种族多样性 TechCrunch
+# 苹果承诺让 iOS 表情符号更具种族多样性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/diverse-apple-emojis/>
 

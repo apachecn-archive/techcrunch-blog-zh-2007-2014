@@ -1,4 +1,4 @@
-# Zillow 帖子创下 Q2 收入 4690 万美元的记录，但每股收益降至 0.30 美元亏损，流量同比增长 66% TechCrunch
+# Zillow 帖子创下 Q2 收入 4690 万美元的记录，但每股收益降至 0.30 美元亏损，流量同比增长 66% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/06/zillow-posts-record-q2-revenue-of-46-9m-but-eps-drops-to-0-30-loss/>
 

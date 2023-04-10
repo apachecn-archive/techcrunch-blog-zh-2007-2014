@@ -1,4 +1,4 @@
-# 巴茨有“什么是雅虎？”回答时间缩短到 15 秒。它既膨胀又模糊 TechCrunch
+# 巴茨有“什么是雅虎？”回答时间缩短到 15 秒。它既膨胀又模糊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/16/what-is-yahoo-part-8/>
 

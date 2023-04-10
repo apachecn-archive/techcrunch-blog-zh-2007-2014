@@ -1,4 +1,4 @@
-# Foursquare 现在正式拥有 1000 万用户 TechCrunch
+# Foursquare 现在正式拥有 1000 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/20/foursquare-now-officially-at-10-million-users/>
 

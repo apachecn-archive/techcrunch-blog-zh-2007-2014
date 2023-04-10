@@ -1,4 +1,4 @@
-# 为您的日记——2014 年欧洲最佳创业活动 TechCrunch
+# 为您的日记——2014 年欧洲最佳创业活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/05/for-your-diary-the-best-european-events-for-startups-in-2014/>
 

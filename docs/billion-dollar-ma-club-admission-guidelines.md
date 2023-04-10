@@ -1,4 +1,4 @@
-# 十亿美元 M&A 俱乐部准入指南 TechCrunch
+# 十亿美元 M&A 俱乐部准入指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/25/billion-dollar-ma-club-admission-guidelines/>
 

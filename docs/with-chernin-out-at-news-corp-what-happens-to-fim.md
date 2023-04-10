@@ -1,4 +1,4 @@
-# 新闻集团的切宁不在了，FIM 会怎么样？TechCrunch
+# 新闻集团的切宁不在了，FIM 会怎么样？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/23/with-chernin-out-at-news-corp-what-happens-to-fim/>
 

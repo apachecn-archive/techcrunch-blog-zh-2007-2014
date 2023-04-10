@@ -1,4 +1,4 @@
-# 脸书员工就否认大屠杀发表看法 TechCrunch
+# 脸书员工就否认大屠杀发表看法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/15/facebook-employees-speak-their-mind-on-holocaust-denial/>
 

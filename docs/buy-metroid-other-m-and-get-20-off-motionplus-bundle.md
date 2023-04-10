@@ -1,4 +1,4 @@
-# 购买 Metroid: Other M 并享受 MotionPlus 捆绑包 20 美元优惠 TechCrunch
+# 购买 Metroid: Other M 并享受 MotionPlus 捆绑包 20 美元优惠 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/31/buy-metroid-other-m-and-get-20-off-motionplus-bundle/>
 

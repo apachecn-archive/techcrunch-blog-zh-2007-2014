@@ -1,4 +1,4 @@
-# 谷歌钱包现在可以让你一键点击该应用 TechCrunch
+# 谷歌钱包现在可以让你一键点击该应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/google-wallet-now-lets-you-singletap-that-app/>
 

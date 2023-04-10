@@ -1,4 +1,4 @@
-# 介绍 TechCrunch 法国周刊简讯 TechCrunch
+# 介绍 TechCrunch 法国周刊简讯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/introducing-the-techcrunch-france-weekly-newsletter/>
 

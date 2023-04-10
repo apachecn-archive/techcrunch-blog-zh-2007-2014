@@ -1,4 +1,4 @@
-# 看起来我们在 GigaOm 的朋友刚刚又筹集了 250 万美元 TechCrunch
+# 看起来我们在 GigaOm 的朋友刚刚又筹集了 250 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/22/looks-like-our-friends-over-at-gigaom-just-raised-another-2-5-million/>
 

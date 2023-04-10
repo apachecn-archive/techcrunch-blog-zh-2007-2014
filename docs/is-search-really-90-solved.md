@@ -1,4 +1,4 @@
-# 搜索真的 90%解决了吗？TechCrunch
+# 搜索真的 90%解决了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/07/is-search-really-90-solved/>
 

@@ -1,4 +1,4 @@
-# Docker 为其开源平台筹集了 1500 万美元，帮助开发者在云中构建应用程序 TechCrunch
+# Docker 为其开源平台筹集了 1500 万美元，帮助开发者在云中构建应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/docker-raises-15m-for-popular-open-source-platform-designed-for-developers-to-build-apps-in-the-cloud/>
 

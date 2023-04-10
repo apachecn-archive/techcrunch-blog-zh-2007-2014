@@ -1,4 +1,4 @@
-# 谷歌澄清其 H.264 立场，将网络视频未来的钥匙交还给 Flash TechCrunch
+# 谷歌澄清其 H.264 立场，将网络视频未来的钥匙交还给 Flash 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/14/google-h264-flash/>
 

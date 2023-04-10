@@ -1,4 +1,4 @@
-# 这是第一部 GTA:V 预告片，非常壮观 TechCrunch
+# 这是第一部 GTA:V 预告片，非常壮观 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/heres-the-first-gta-v-trailer-and-its-spectacular/>
 

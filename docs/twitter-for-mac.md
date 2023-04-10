@@ -1,4 +1,4 @@
-# Mac 版 Twitter 就像大型多人即时通讯——它会改变 Twitter 本身吗？TechCrunch
+# Mac 版 Twitter 就像大型多人即时通讯——它会改变 Twitter 本身吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/06/twitter-for-mac/>
 

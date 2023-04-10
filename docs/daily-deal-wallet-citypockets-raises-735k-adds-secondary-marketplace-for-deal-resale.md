@@ -1,4 +1,4 @@
-# 每日交易钱包 CityPockets 筹集了 7.35 亿美元；增加交易转售的二级市场 TechCrunch
+# 每日交易钱包 CityPockets 筹集了 7.35 亿美元；增加交易转售的二级市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/20/daily-deal-wallet-citypockets-raises-735k-adds-secondary-marketplace-for-deal-resale/>
 

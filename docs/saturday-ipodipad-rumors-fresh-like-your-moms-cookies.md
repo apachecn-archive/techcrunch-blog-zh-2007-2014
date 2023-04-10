@@ -1,4 +1,4 @@
-# 周六的 iPod/iPad 谣言，新鲜得像你妈妈的饼干 TechCrunch
+# 周六的 iPod/iPad 谣言，新鲜得像你妈妈的饼干 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/15/saturday-ipodipad-rumors-fresh-like-your-moms-cookies/>
 

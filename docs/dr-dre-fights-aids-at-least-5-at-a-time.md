@@ -1,4 +1,4 @@
-# 德瑞医生抗击艾滋病。每次至少 5 美元。TechCrunch
+# 德瑞医生抗击艾滋病。每次至少 5 美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/08/dr-dre-fights-aids-at-least-5-at-a-time/>
 

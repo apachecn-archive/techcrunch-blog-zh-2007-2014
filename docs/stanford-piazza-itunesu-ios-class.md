@@ -1,4 +1,4 @@
-# 斯坦福大学与苹果公司 Piazza 合作，将社交功能引入其 iTunes U iOS 开发课程 TechCrunch
+# 斯坦福大学与苹果公司 Piazza 合作，将社交功能引入其 iTunes U iOS 开发课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/stanford-piazza-itunesu-ios-class/>
 

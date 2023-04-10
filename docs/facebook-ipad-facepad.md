@@ -1,4 +1,4 @@
-# 比如“iPad 版推特”？看看它在脸书的同行，face pad TechCrunch
+# 比如“iPad 版推特”？看看它在脸书的同行，face pad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/02/facebook-ipad-facepad/>
 

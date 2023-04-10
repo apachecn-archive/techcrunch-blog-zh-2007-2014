@@ -1,4 +1,4 @@
-# 现在，随着 50 家主要零售商的加入，Coupons.com 的新 iOS 应用程序增加了支持 Passbook 的优惠券 TechCrunch
+# 现在，随着 50 家主要零售商的加入，Coupons.com 的新 iOS 应用程序增加了支持 Passbook 的优惠券 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/05/now-with-50-major-retailers-on-board-coupons-coms-new-ios-app-adds-passbook-enabled-coupons/>
 

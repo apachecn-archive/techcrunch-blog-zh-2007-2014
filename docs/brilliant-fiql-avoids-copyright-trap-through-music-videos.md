@@ -1,4 +1,4 @@
-# 精彩:FIQL 通过音乐视频避开版权陷阱 TechCrunch
+# 精彩:FIQL 通过音乐视频避开版权陷阱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/20/brilliant-fiql-avoids-copyright-trap-through-music-videos/>
 

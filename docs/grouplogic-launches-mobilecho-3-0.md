@@ -1,4 +1,4 @@
-# GroupLogic 推出 mobile co 3.0 TechCrunch
+# GroupLogic 推出 mobile co 3.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/grouplogic-launches-mobilecho-3-0/>
 

@@ -1,4 +1,4 @@
-# Twitter 和收入困境 TechCrunch
+# Twitter 和收入困境 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/09/twitter-and-the-revenue-dilemma/>
 

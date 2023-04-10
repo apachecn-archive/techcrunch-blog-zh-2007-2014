@@ -1,4 +1,4 @@
-# 优步聘请欧洲人 Kees Koolen 担任首席运营官，帮助其扩大全球规模 TechCrunch
+# 优步聘请欧洲人 Kees Koolen 担任首席运营官，帮助其扩大全球规模 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/uber-hires-a-european-coo-to-help-it-scale-globally/>
 

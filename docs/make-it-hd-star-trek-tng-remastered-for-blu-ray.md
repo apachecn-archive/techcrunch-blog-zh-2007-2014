@@ -1,4 +1,4 @@
-# 让它高清:星际迷航 TNG 重制蓝光版 TechCrunch
+# 让它高清:星际迷航 TNG 重制蓝光版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/make-it-hd-star-trek-tng-remastered-for-blu-ray/>
 

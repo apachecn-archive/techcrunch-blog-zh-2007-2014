@@ -1,4 +1,4 @@
-# 重新设计的 Wii 将在圣诞节前推出，失去 Gamecube 向后兼容性 TechCrunch
+# 重新设计的 Wii 将在圣诞节前推出，失去 Gamecube 向后兼容性 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/redesigned-wii-to-launch-before-christmas-looses-gamecube-backwards-compatibility/>
 

@@ -1,4 +1,4 @@
-# GetJar Gold 赠送价值 100 万美元的免费应用 TechCrunch
+# GetJar Gold 赠送价值 100 万美元的免费应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/getjar-gold-gives-away-1-million-in-free-apps/>
 

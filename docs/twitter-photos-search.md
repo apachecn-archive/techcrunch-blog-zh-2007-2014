@@ -1,4 +1,4 @@
-# Twitter 与 Photobucket 在照片上合作，Firefox 在搜索上合作 TechCrunch
+# Twitter 与 Photobucket 在照片上合作，Firefox 在搜索上合作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/01/twitter-photos-search/>
 

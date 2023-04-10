@@ -1,4 +1,4 @@
-# 宾得今夏推出高级 DSLR TechCrunch
+# 宾得今夏推出高级 DSLR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/08/pentax-launching-advanced-dslr-this-summer/>
 

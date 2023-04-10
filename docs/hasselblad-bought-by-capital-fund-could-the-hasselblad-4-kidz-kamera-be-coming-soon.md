@@ -1,4 +1,4 @@
-# 资本基金买的哈苏，哈苏 4 Kidz Kamera 会很快推出吗？TechCrunch
+# 资本基金买的哈苏，哈苏 4 Kidz Kamera 会很快推出吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/05/hasselblad-bought-by-capital-fund-could-the-hasselblad-4-kidz-kamera-be-coming-soon/>
 

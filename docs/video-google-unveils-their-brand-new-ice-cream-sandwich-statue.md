@@ -1,4 +1,4 @@
-# 视频:谷歌推出他们全新的冰淇淋三明治雕像 TechCrunch
+# 视频:谷歌推出他们全新的冰淇淋三明治雕像 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/video-google-unveils-their-brand-new-ice-cream-sandwich-statue/>
 

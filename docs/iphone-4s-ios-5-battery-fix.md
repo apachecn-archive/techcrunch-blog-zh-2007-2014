@@ -1,4 +1,4 @@
-# 苹果承诺 iOS 5 将在几周内更新，以减少电池寿命 TechCrunch
+# 苹果承诺 iOS 5 将在几周内更新，以减少电池寿命 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/iphone-4s-ios-5-battery-fix/>
 

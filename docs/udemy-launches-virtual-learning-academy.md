@@ -1,4 +1,4 @@
-# Udemy 推出虚拟学习学院 TechCrunch
+# Udemy 推出虚拟学习学院 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/11/udemy-launches-virtual-learning-academy/>
 

@@ -1,4 +1,4 @@
-# 东芝发布首款超极本 portgéZ830 TechCrunch
+# 东芝发布首款超极本 portgéZ830 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/toshiba-announces-their-first-ultrabook-the-portege-z830/>
 

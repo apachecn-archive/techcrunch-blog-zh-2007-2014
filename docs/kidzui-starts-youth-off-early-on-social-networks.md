@@ -1,4 +1,4 @@
-# KidZui 在社交网络上让年轻人早早起步 TechCrunch
+# KidZui 在社交网络上让年轻人早早起步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/13/kidzui-starts-youth-off-early-on-social-networks/>
 

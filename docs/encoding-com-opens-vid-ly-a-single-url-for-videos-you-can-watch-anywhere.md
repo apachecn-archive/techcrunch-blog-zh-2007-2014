@@ -1,4 +1,4 @@
-# Encoding.com 打开视频网站 vid . ly——你可以在任何地方观看视频的单一网址 TechCrunch
+# Encoding.com 打开视频网站 vid . ly——你可以在任何地方观看视频的单一网址 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/25/encoding-com-opens-vid-ly-a-single-url-for-videos-you-can-watch-anywhere/>
 

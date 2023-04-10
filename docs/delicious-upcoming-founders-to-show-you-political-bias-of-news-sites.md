@@ -1,4 +1,4 @@
-# 美味，即将到来的创始人向你展示新闻网站的政治偏见 TechCrunch
+# 美味，即将到来的创始人向你展示新闻网站的政治偏见 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/10/delicious-upcoming-founders-to-show-you-political-bias-of-news-sites/>
 

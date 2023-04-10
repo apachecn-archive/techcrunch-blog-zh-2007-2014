@@ -1,4 +1,4 @@
-# 伦敦风险投资公司 Love-In: Index、Balderton、Eden、Passion Capital 等本周举行联合办公 TechCrunch
+# 伦敦风险投资公司 Love-In: Index、Balderton、Eden、Passion Capital 等本周举行联合办公 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/22/london-vc-love-in-index-balderton-eden-passion-capital-others-holding-joint-office-hours-this-week/>
 

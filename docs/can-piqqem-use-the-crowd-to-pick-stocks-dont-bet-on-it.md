@@ -1,4 +1,4 @@
-# Piqqem 可以利用人群选股吗？不要打赌。TechCrunch
+# Piqqem 可以利用人群选股吗？不要打赌。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/07/can-piqqem-use-the-crowd-to-pick-stocks-dont-bet-on-it/>
 

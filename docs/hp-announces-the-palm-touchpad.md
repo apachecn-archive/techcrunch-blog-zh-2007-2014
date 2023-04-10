@@ -1,4 +1,4 @@
-# 惠普发布 TouchPad TechCrunch
+# 惠普发布 TouchPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/hp-announces-the-palm-touchpad/>
 

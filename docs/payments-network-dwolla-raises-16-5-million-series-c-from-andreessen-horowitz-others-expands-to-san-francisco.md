@@ -1,4 +1,4 @@
-# 支付网络 Dwolla 从 Andreessen Horowitz & Others 获得 1650 万美元的 C 轮融资，扩展到旧金山 TechCrunch
+# 支付网络 Dwolla 从 Andreessen Horowitz & Others 获得 1650 万美元的 C 轮融资，扩展到旧金山 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/payments-network-dwolla-raises-16-5-million-series-c-from-andreessen-horowitz-others-expands-to-san-francisco/>
 

@@ -1,4 +1,4 @@
-# NEC 展示另外三款 3D 桌面电脑 TechCrunch
+# NEC 展示另外三款 3D 桌面电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/13/ne-shows-another-three-3d-desktop-pcs/>
 

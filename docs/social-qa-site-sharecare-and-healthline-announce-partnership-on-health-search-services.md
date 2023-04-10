@@ -1,4 +1,4 @@
-# 社交问答网站 Sharecare 和 Healthline 宣布在健康搜索服务上合作 TechCrunch
+# 社交问答网站 Sharecare 和 Healthline 宣布在健康搜索服务上合作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/social-qa-site-sharecare-and-healthline-announce-partnership-on-health-search-services/>
 

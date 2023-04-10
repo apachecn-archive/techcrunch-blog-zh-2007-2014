@@ -1,4 +1,4 @@
-# 编辑独立性 TechCrunch
+# 编辑独立性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/editorial-independence/>
 

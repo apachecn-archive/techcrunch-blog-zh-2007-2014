@@ -1,4 +1,4 @@
-# 随着洛杉矶科技行业的升温，Accelerator Amplify 募集了 800 万美元 TechCrunch
+# 随着洛杉矶科技行业的升温，Accelerator Amplify 募集了 800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/as-the-la-tech-scene-heats-up-accelerator-amplify-raises-8-million/>
 

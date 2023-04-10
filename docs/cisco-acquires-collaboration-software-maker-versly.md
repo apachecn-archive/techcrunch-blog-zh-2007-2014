@@ -1,4 +1,4 @@
-# 思科收购协作软件制造商 Versly TechCrunch
+# 思科收购协作软件制造商 Versly 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/cisco-acquires-collaboration-software-maker-versly/>
 

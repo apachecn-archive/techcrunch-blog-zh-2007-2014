@@ -1,4 +1,4 @@
-# 真的，雅虎。怎么花了这么长时间？TechCrunch
+# 真的，雅虎。怎么花了这么长时间？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/08/really-yahoo-what-is-taking-so-long/>
 

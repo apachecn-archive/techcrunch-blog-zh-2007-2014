@@ -1,4 +1,4 @@
-# 微软的大胆举措:如果他们不能赢得平板电脑竞赛，他们不会承认它的存在 TechCrunch
+# 微软的大胆举措:如果他们不能赢得平板电脑竞赛，他们不会承认它的存在 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/microsoft-tablets-are-pcs/>
 

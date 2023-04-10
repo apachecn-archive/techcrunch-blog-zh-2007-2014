@@ -1,4 +1,4 @@
-# Smartling 与 CloudFlare 合作，为用户打包安全性和语言翻译 TechCrunch
+# Smartling 与 CloudFlare 合作，为用户打包安全性和语言翻译 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/smartling-partners-with-cloudflare-to-package-security-and-language-translation-for-users/>
 

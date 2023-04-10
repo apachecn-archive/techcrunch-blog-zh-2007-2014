@@ -1,4 +1,4 @@
-# 现在 Chrome 扩展也上线了！TechCrunch
+# 现在 Chrome 扩展也上线了！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/08/chrome-extensions-live/>
 

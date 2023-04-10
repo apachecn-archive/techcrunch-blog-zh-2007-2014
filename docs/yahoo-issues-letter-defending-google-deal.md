@@ -1,4 +1,4 @@
-# 雅虎发布公开信为谷歌交易辩护:微软没有免费牛奶 TechCrunch
+# 雅虎发布公开信为谷歌交易辩护:微软没有免费牛奶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/25/yahoo-issues-letter-defending-google-deal/>
 

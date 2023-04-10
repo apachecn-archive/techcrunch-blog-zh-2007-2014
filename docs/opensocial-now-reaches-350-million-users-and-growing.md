@@ -1,4 +1,4 @@
-# OpenSocial 现在拥有 3.5 亿用户，并且还在增长 TechCrunch
+# OpenSocial 现在拥有 3.5 亿用户，并且还在增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/20/opensocial-now-reaches-350-million-users-and-growing/>
 

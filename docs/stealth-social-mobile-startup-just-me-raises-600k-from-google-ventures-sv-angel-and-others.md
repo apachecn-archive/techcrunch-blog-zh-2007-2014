@@ -1,4 +1,4 @@
-# 隐形社交移动初创公司 just.me 从谷歌风投、SV Angel 和其他公司获得 60 万美元 TechCrunch
+# 隐形社交移动初创公司 just.me 从谷歌风投、SV Angel 和其他公司获得 60 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/stealth-social-mobile-startup-just-me-raises-600k-from-google-ventures-sv-angel-and-others/>
 

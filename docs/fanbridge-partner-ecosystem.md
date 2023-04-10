@@ -1,4 +1,4 @@
-# FanBridge 的新脸书品牌页面 Omni-App 结合了来自 12 家合作伙伴的功能 TechCrunch
+# FanBridge 的新脸书品牌页面 Omni-App 结合了来自 12 家合作伙伴的功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/fanbridge-partner-ecosystem/>
 

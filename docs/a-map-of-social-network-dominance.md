@@ -1,4 +1,4 @@
-# 社交(网络)优势地图 TechCrunch
+# 社交(网络)优势地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/07/a-map-of-social-network-dominance/>
 

@@ -1,4 +1,4 @@
-# 谷歌推出音乐博客提醒人们谷歌音乐测试版仍然存在 TechCrunch
+# 谷歌推出音乐博客提醒人们谷歌音乐测试版仍然存在 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/google-music-magnifier/>
 

@@ -1,4 +1,4 @@
-# 随着与流媒体服务的竞争加剧，亚马逊和哥伦比亚广播公司扩大内容许可协议 TechCrunch
+# 随着与流媒体服务的竞争加剧，亚马逊和哥伦比亚广播公司扩大内容许可协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/as-competition-with-streaming-services-heats-up-amazon-and-cbs-expand-content-licensing-deal/>
 

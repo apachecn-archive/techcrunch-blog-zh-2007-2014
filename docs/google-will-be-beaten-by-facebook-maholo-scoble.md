@@ -1,4 +1,4 @@
-# 谷歌将被脸书打败，Mahalo:Scoble-TechCrunch
+# 谷歌将被脸书打败，Mahalo:Scoble-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/26/google-will-be-beaten-by-facebook-maholo-scoble>
 

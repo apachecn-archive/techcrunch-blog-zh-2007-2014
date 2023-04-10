@@ -1,4 +1,4 @@
-# 谷歌重新推出“强力搜索”在线课程 TechCrunch
+# 谷歌重新推出“强力搜索”在线课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/google-brings-back-its-power-searching-online-lessons/>
 

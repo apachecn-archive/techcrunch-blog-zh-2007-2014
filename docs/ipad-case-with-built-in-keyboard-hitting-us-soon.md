@@ -1,4 +1,4 @@
-# 内置键盘的 iPad 保护套即将面市 TechCrunch
+# 内置键盘的 iPad 保护套即将面市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/ipad-case-with-built-in-keyboard-hitting-us-soon/>
 

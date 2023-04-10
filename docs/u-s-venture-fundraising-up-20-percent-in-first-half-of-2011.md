@@ -1,4 +1,4 @@
-# 2011 年上半年美国风险融资增长 20% TechCrunch
+# 2011 年上半年美国风险融资增长 20% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/11/u-s-venture-fundraising-up-20-percent-in-first-half-of-2011/>
 

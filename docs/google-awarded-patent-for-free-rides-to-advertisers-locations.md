@@ -1,4 +1,4 @@
-# 谷歌授予免费搭乘广告商位置的专利 TechCrunch
+# 谷歌授予免费搭乘广告商位置的专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/google-awarded-patent-for-free-rides-to-advertisers-locations/>
 

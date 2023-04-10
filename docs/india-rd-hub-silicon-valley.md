@@ -1,4 +1,4 @@
-# 印度正在转变成一个全球 R&D 中心，但它能挑战硅谷吗？TechCrunch
+# 印度正在转变成一个全球 R&D 中心，但它能挑战硅谷吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/14/india-rd-hub-silicon-valley/>
 

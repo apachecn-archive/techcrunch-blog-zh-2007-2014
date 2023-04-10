@@ -1,4 +1,4 @@
-# Technorati 首席执行官:Techmeme 是“一个伟大的小网站。”TechCrunch
+# Technorati 首席执行官:Techmeme 是“一个伟大的小网站。”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/05/technorati-ceo-techmeme-is-a-great-little-site/>
 

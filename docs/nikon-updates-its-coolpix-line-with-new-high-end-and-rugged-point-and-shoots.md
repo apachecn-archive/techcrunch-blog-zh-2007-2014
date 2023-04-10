@@ -1,4 +1,4 @@
-# 尼康更新其 Coolpix 系列，推出新的高端坚固型相机并拍摄 TechCrunch
+# 尼康更新其 Coolpix 系列，推出新的高端坚固型相机并拍摄 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/nikon-updates-its-coolpix-line-with-new-high-end-and-rugged-point-and-shoots/>
 

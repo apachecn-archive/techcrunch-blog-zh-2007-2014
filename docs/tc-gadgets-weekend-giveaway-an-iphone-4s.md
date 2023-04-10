@@ -1,4 +1,4 @@
-# TC Gadgets 周末赠品:一部 iPhone 4S TechCrunch
+# TC Gadgets 周末赠品:一部 iPhone 4S 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/12/tc-gadgets-weekend-giveaway-an-iphone-4s/>
 

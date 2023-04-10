@@ -1,4 +1,4 @@
-# 亚马逊、苹果 2011 年顾客满意度飙升；网飞暴跌 TechCrunch
+# 亚马逊、苹果 2011 年顾客满意度飙升；网飞暴跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/27/amazon-apple-soar-in-customer-satisfaction-in-2011-netflix-plummets/>
 

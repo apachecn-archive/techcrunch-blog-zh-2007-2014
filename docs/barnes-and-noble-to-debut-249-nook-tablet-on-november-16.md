@@ -1,4 +1,4 @@
-# Barnes and Noble 将于 11 月 16 日推出 249 美元的 Nook 平板电脑？TechCrunch
+# Barnes and Noble 将于 11 月 16 日推出 249 美元的 Nook 平板电脑？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/barnes-and-noble-to-debut-249-nook-tablet-on-november-16/>
 

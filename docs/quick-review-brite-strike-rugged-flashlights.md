@@ -1,4 +1,4 @@
-# 点评:Brite-Strike 坚固手电筒 TechCrunch
+# 点评:Brite-Strike 坚固手电筒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/quick-review-brite-strike-rugged-flashlights/>
 

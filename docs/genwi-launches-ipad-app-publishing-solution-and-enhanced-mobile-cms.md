@@ -1,4 +1,4 @@
-# GENWI 推出 iPad 应用发布解决方案和增强型移动 CMS TechCrunch
+# GENWI 推出 iPad 应用发布解决方案和增强型移动 CMS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/genwi-launches-ipad-app-publishing-solution-and-enhanced-mobile-cms/>
 

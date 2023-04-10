@@ -1,4 +1,4 @@
-# 监管工具 Storify 与 MSNBC 的突发新闻合作获取新闻内容 TechCrunch
+# 监管工具 Storify 与 MSNBC 的突发新闻合作获取新闻内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/08/curation-tool-storify-partners-with-msnbcs-breaking-news-for-sourced-news-content/>
 

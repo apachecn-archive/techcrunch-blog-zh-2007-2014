@@ -1,4 +1,4 @@
-# Casper 筹集 160 万美元，提供一种制造和销售床垫的新方法 TechCrunch
+# Casper 筹集 160 万美元，提供一种制造和销售床垫的新方法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/casper-seed-funding/>
 

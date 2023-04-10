@@ -1,4 +1,4 @@
-# 谷歌应用引擎“意外”屏蔽了 PayPal TechCrunch
+# 谷歌应用引擎“意外”屏蔽了 PayPal 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/10/google-app-engine-accidentally-blocks-paypal/>
 

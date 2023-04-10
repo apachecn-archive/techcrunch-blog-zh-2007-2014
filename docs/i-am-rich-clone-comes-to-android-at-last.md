@@ -1,4 +1,4 @@
-# 《我有钱了》克隆版终于登陆安卓了！TechCrunch
+# 《我有钱了》克隆版终于登陆安卓了！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/23/i-am-rich-clone-comes-to-android-at-last/>
 

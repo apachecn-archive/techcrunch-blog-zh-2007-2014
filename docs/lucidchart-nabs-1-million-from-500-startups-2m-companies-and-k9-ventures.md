@@ -1,4 +1,4 @@
-# LucidChart 从 500 家初创公司、2M 公司和 K9 Ventures 获得 100 万美元 TechCrunch
+# LucidChart 从 500 家初创公司、2M 公司和 K9 Ventures 获得 100 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/26/lucidchart-nabs-1-million-from-500-startups-2m-companies-and-k9-ventures/>
 

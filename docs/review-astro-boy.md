@@ -1,4 +1,4 @@
-# 回顾:铁臂阿童木 TechCrunch
+# 回顾:铁臂阿童木 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/26/review-astro-boy/>
 

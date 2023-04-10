@@ -1,4 +1,4 @@
-# 东芝的 FlashAir SDHC 卡包无线局域网 TechCrunch
+# 东芝的 FlashAir SDHC 卡包无线局域网 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/toshibas-flashair-sdhc-cards-pack-wireless-lan/>
 

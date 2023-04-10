@@ -1,4 +1,4 @@
-# 除了 four square rehabilitation，其他地方都有人签到 TechCrunch
+# 除了 four square rehabilitation，其他地方都有人签到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/16/foursquare-cheating/>
 

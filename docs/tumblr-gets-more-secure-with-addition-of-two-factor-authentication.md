@@ -1,4 +1,4 @@
-# Tumblr 增加了双重认证功能，更加安全 TechCrunch
+# Tumblr 增加了双重认证功能，更加安全 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/24/tumblr-gets-more-secure-with-addition-of-two-factor-authentication/>
 

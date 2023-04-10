@@ -1,4 +1,4 @@
-# 威瑞森的第一个 iPhone 广告:它开始了 TechCrunch
+# 威瑞森的第一个 iPhone 广告:它开始了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/verizon-iphone-commercial/>
 

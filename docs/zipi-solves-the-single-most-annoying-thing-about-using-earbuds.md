@@ -1,4 +1,4 @@
-# Zipi 解决了使用耳塞最烦人的问题 TechCrunch
+# Zipi 解决了使用耳塞最烦人的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/zipi-solves-the-single-most-annoying-thing-about-using-earbuds/>
 

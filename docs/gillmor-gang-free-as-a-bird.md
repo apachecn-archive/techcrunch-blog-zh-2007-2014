@@ -1,4 +1,4 @@
-# 吉尔摩·冈:自由自在 TechCrunch
+# 吉尔摩·冈:自由自在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/26/gillmor-gang-free-as-a-bird/>
 

@@ -1,4 +1,4 @@
-# 推特的世界 TechCrunch
+# 推特的世界 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/12/a-world-of-tweets/>
 

@@ -1,4 +1,4 @@
-# 谷歌旋风六分钟回顾搜索历史 TechCrunch
+# 谷歌旋风六分钟回顾搜索历史 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/googles-whirlwind-six-minute-recap-of-the-history-of-search/>
 

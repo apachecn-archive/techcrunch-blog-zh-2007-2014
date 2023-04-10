@@ -1,4 +1,4 @@
-# 10 个月大的 Harry's Lands 以 1.225 亿美元收购了一家有 93 年历史的工厂，与剃须重量级企业 Gillette 和 Schick 展开较量 TechCrunch
+# 10 个月大的 Harry's Lands 以 1.225 亿美元收购了一家有 93 年历史的工厂，与剃须重量级企业 Gillette 和 Schick 展开较量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/10-month-old-harrys-lands-122-5m-buys-93-year-old-factory-to-go-toe-to-toe-with-gillette-and-schick/>
 

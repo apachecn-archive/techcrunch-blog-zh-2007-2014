@@ -1,4 +1,4 @@
-# 惠普击败华尔街，第三季度收入增长 2%至 312 亿美元，下调 2011 财年预期 TechCrunch
+# 惠普击败华尔街，第三季度收入增长 2%至 312 亿美元，下调 2011 财年预期 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/hp-beats-the-street-q3-revenue-up-2-percent-to-31-2b-cuts-fy11-outlook/>
 

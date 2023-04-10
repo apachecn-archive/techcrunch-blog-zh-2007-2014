@@ -1,4 +1,4 @@
-# 谷歌与 Twitter 和 SayNow 合作，将手机推送到埃及 TechCrunch
+# 谷歌与 Twitter 和 SayNow 合作，将手机推送到埃及 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/twitter-by-phone-egypt/>
 

@@ -1,4 +1,4 @@
-# iPhone SDK 和限制:一些细节不是很好。TechCrunch
+# iPhone SDK 和限制:一些细节不是很好。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/07/iphone-sdk-some-of-the-details-arent-great/>
 

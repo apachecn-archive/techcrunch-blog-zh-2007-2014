@@ -1,4 +1,4 @@
-# 前苹果工程师推出下一代可穿戴健身追踪产品 Moov TechCrunch
+# 前苹果工程师推出下一代可穿戴健身追踪产品 Moov 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/27/ex-apple-engineer-launches-moov-the-next-generation-of-wearable-fitness-tracking/>
 

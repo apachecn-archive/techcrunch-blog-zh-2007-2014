@@ -1,4 +1,4 @@
-# 视频:仅用智能外壳和 5 秒钟解锁任何 IP ad2 TechCrunch
+# 视频:仅用智能外壳和 5 秒钟解锁任何 IP ad2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/video-unlock-any-ipad-2-with-just-a-smart-cover-and-5-seconds/>
 

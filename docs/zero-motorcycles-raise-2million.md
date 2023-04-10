@@ -1,4 +1,4 @@
-# 所有电动自行车制造商 Zero Motorcycles 再融资 240 万美元 TechCrunch
+# 所有电动自行车制造商 Zero Motorcycles 再融资 240 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/28/zero-motorcycles-raise-2million/>
 

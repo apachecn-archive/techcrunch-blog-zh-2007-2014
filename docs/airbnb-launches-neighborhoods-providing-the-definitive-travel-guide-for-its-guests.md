@@ -1,4 +1,4 @@
-# Airbnb 推出社区，为当地社区提供权威旅游指南 TechCrunch
+# Airbnb 推出社区，为当地社区提供权威旅游指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/airbnb-launches-neighborhoods-providing-the-definitive-travel-guide-for-its-guests/>
 

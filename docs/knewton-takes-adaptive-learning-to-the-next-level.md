@@ -1,4 +1,4 @@
-# Knewton 将适应性学习提升到新的水平 TechCrunch
+# Knewton 将适应性学习提升到新的水平 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/23/knewton-takes-adaptive-learning-to-the-next-level/>
 

@@ -1,4 +1,4 @@
-# Zendesk 将帮助台软件引入 iPad TechCrunch
+# Zendesk 将帮助台软件引入 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/zendesk-brings-help-desk-software-to-the-ipad/>
 

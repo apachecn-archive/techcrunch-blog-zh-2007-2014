@@ -1,4 +1,4 @@
-# 想从 Founders Fund 最新的 6.25 亿美元基金中分一杯羹吗？从尝试改变世界开始 TechCrunch
+# 想从 Founders Fund 最新的 6.25 亿美元基金中分一杯羹吗？从尝试改变世界开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/want-a-piece-of-founders-funds-latest-625m-fund-start-by-trying-to-change-the-world/>
 

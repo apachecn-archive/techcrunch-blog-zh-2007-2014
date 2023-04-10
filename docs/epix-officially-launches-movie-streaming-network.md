@@ -1,4 +1,4 @@
-# Epix 正式推出电影流媒体网络 TechCrunch
+# Epix 正式推出电影流媒体网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/29/epix-officially-launches-movie-streaming-network/>
 

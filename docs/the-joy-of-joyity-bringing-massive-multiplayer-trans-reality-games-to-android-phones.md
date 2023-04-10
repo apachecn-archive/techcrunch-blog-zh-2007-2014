@@ -1,4 +1,4 @@
-# 欢乐的喜悦:将“大型多人跨现实”游戏引入安卓手机 TechCrunch
+# 欢乐的喜悦:将“大型多人跨现实”游戏引入安卓手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/27/the-joy-of-joyity-bringing-massive-multiplayer-trans-reality-games-to-android-phones/>
 

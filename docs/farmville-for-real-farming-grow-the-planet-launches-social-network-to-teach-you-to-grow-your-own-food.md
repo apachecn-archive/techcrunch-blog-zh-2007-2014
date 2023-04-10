@@ -1,4 +1,4 @@
-# farmville For Real Farming:Grow The Planet 推出社交网络，教你种植自己的食物 TechCrunch
+# farmville For Real Farming:Grow The Planet 推出社交网络，教你种植自己的食物 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/farmville-for-real-farming-grow-the-planet-launches-social-network-to-teach-you-to-grow-your-own-food/>
 

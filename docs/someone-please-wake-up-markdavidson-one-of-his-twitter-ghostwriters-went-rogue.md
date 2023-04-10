@@ -1,4 +1,4 @@
-# 有人请醒醒吧@ mark Davidson——他的一个 Twitter 代笔人叛变了 TechCrunch
+# 有人请醒醒吧@ mark Davidson——他的一个 Twitter 代笔人叛变了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/someone-please-wake-up-markdavidson-one-of-his-twitter-ghostwriters-went-rogue/>
 

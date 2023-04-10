@@ -1,4 +1,4 @@
-# 什么是游戏:体育和视频游戏 TechCrunch
+# 什么是游戏:体育和视频游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/19/sports-and-video-games/>
 

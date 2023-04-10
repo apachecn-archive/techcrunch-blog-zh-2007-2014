@@ -1,4 +1,4 @@
-# 宋飞的时代结束了，但克里斯平·波特让微软继续经营 TechCrunch
+# 宋飞的时代结束了，但克里斯平·波特让微软继续经营 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/17/its-over-for-seinfeld-but-crispin-porter-keeps-microsoft-business/>
 

@@ -1,4 +1,4 @@
-# 想象一下 K12 的 2011 年启动班旨在用技术振兴教育 TechCrunch
+# 想象一下 K12 的 2011 年启动班旨在用技术振兴教育 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/imagine-k12s-2011-startup-class-aims-to-invigorate-education-with-technology/>
 

@@ -1,4 +1,4 @@
-# Social Passport 将 NFC 与社交媒体结合，为移动交易带来新的转机 TechCrunch
+# Social Passport 将 NFC 与社交媒体结合，为移动交易带来新的转机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/social-passport-more-friends-more-rewards/>
 

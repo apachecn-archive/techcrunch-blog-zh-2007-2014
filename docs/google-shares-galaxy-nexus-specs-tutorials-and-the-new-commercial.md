@@ -1,4 +1,4 @@
-# 谷歌分享 Galaxy Nexus 规格、教程和新的商业 TechCrunch
+# 谷歌分享 Galaxy Nexus 规格、教程和新的商业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/google-shares-galaxy-nexus-specs-tutorials-and-the-new-commercial/>
 

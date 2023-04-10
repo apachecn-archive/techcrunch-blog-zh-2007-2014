@@ -1,4 +1,4 @@
-# Didja.com 一瞥:VeryFunnyAds 克隆 TechCrunch
+# Didja.com 一瞥:VeryFunnyAds 克隆 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/17/a-peek-at-didjacom-veryfunyads-clone/>
 

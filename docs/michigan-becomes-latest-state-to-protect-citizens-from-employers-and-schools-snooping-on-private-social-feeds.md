@@ -1,4 +1,4 @@
-# 密歇根州成为最新一个保护公民免受雇主和学校窥探私人社交信息的州 TechCrunch
+# 密歇根州成为最新一个保护公民免受雇主和学校窥探私人社交信息的州 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/29/michigan-becomes-latest-state-to-protect-citizens-from-employers-and-schools-snooping-on-private-social-feeds/>
 

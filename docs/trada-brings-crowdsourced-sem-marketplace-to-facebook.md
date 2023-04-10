@@ -1,4 +1,4 @@
-# Trada 将众包广告市场引入脸书 TechCrunch
+# Trada 将众包广告市场引入脸书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/trada-brings-crowdsourced-sem-marketplace-to-facebook/>
 

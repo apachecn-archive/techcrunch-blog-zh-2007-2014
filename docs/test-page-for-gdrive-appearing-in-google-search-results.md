@@ -1,4 +1,4 @@
-# GDrive 的测试页面出现在 Google 搜索结果中 TechCrunch
+# GDrive 的测试页面出现在 Google 搜索结果中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/test-page-for-gdrive-appearing-in-google-search-results/>
 

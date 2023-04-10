@@ -1,8 +1,8 @@
-# TechCrunch 赠品:iPad 2 # TechCrunch TechCrunch
+# TechCrunch 赠品:iPad 2 # TechCrunch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/techcrunch-giveaway-ipad-2-techcrunch/>
 
-# TechCrunch 赠品:iPad 2 #TechCrunch
+# TechCrunch 赠品:iPad 2 #
 
 我们现在都知道了。史蒂夫·乔布斯已经辞去苹果公司首席执行官的职务。从这条新闻中流露出来的情感是我们以前从未真正见过的，这很可能是我们在这个领域中看到的最大的故事之一。尽管这可能是一个时代的[终结，史蒂夫·乔布斯](https://web.archive.org/web/20230203162432/https://techcrunch.com/2011/08/24/steve-jobs-the-end-of-an-era/)[仍将与苹果](https://web.archive.org/web/20230203162432/https://techcrunch.com/2011/08/25/the-podfather/)在一起，继续影响数百万人的生活。
 

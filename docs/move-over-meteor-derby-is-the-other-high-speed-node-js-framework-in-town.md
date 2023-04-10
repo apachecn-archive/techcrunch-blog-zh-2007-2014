@@ -1,4 +1,4 @@
-# 超越 Meteor: Derby 是另一个高速 Node.js 框架 TechCrunch
+# 超越 Meteor: Derby 是另一个高速 Node.js 框架 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/27/move-over-meteor-derby-is-the-other-high-speed-node-js-framework-in-town/>
 

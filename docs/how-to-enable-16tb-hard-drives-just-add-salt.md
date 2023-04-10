@@ -1,4 +1,4 @@
-# 如何启用 18TB 硬盘？只需加盐 TechCrunch
+# 如何启用 18TB 硬盘？只需加盐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/how-to-enable-16tb-hard-drives-just-add-salt/>
 

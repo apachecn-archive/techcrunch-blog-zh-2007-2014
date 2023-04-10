@@ -1,4 +1,4 @@
-# 苹果为保护账户信息的安全元素申请移动支付方法专利 TechCrunch
+# 苹果为保护账户信息的安全元素申请移动支付方法专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/apple-patents-mobile-payments-method-with-secure-element-for-protecting-account-info/>
 

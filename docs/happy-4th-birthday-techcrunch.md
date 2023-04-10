@@ -1,4 +1,4 @@
-# TechCrunch 四岁生日快乐 TechCrunch
+# TechCrunch 四岁生日快乐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/11/happy-4th-birthday-techcrunch/>
 

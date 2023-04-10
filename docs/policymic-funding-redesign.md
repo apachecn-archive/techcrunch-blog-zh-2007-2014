@@ -1,4 +1,4 @@
-# PolicyMic 融资 300 万美元，押注千禧一代希望获得实质性新闻和评论 TechCrunch
+# PolicyMic 融资 300 万美元，押注千禧一代希望获得实质性新闻和评论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/15/policymic-funding-redesign/>
 

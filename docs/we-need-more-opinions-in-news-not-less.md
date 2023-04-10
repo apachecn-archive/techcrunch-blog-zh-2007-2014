@@ -1,4 +1,4 @@
-# 我们需要更多新闻观点，而不是更少 TechCrunch
+# 我们需要更多新闻观点，而不是更少 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/08/we-need-more-opinions-in-news-not-less/>
 

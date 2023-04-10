@@ -1,4 +1,4 @@
-# 谷歌眼镜本月将推出人脸识别应用，但它不会得到谷歌的支持 TechCrunch
+# 谷歌眼镜本月将推出人脸识别应用，但它不会得到谷歌的支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/18/google-glass-facial-recognition-app-unauthorized/>
 

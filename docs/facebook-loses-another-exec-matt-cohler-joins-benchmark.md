@@ -1,4 +1,4 @@
-# 脸书又失去一名高管——马特·科勒加入 Benchmark TechCrunch
+# 脸书又失去一名高管——马特·科勒加入 Benchmark 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/19/facebook-loses-another-exec-matt-cohler-joins-benchmark/>
 

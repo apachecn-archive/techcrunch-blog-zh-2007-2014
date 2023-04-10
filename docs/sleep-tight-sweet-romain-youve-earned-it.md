@@ -1,4 +1,4 @@
-# 睡个好觉，亲爱的罗曼。你应得的。TechCrunch
+# 睡个好觉，亲爱的罗曼。你应得的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/21/sleep-tight-sweet-romain-youve-earned-it/>
 

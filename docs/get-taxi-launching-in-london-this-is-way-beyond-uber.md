@@ -1,4 +1,4 @@
-# 让出租车在伦敦上市。这远远超出了优步。TechCrunch
+# 让出租车在伦敦上市。这远远超出了优步。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/get-taxi-launching-in-london-this-is-way-beyond-uber/>
 

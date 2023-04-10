@@ -1,4 +1,4 @@
-# 民意调查发现物理媒体正在消亡，HD DVD 像蓝光一样受欢迎 TechCrunch
+# 民意调查发现物理媒体正在消亡，HD DVD 像蓝光一样受欢迎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/22/poll-finds-that-physical-media-is-dying-hd-dvd-as-popular-as-blu-ray/>
 

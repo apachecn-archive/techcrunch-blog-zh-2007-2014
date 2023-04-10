@@ -1,4 +1,4 @@
-# NuCaptcha 的技术使用视频破译人类和机器人之间的信息 TechCrunch
+# NuCaptcha 的技术使用视频破译人类和机器人之间的信息 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/06/30/nucaptchas-technology-uses-video-to-decipher-between-humans-and-robots/>
 

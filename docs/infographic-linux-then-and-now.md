@@ -1,4 +1,4 @@
-# 信息图:Linux 的过去和现在 TechCrunch
+# 信息图:Linux 的过去和现在 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/infographic-linux-then-and-now/>
 

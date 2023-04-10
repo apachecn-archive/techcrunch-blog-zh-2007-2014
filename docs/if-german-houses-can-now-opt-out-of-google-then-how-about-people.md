@@ -1,4 +1,4 @@
-# 如果德国家庭现在可以选择退出谷歌，那么人们呢？TechCrunch
+# 如果德国家庭现在可以选择退出谷歌，那么人们呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/if-german-houses-can-now-opt-out-of-google-then-how-about-people/>
 

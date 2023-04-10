@@ -1,4 +1,4 @@
-# 乱舞:手机约会应用比在线网站捕捉更多调情时间 TechCrunch
+# 乱舞:手机约会应用比在线网站捕捉更多调情时间 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/flurry-mobile-dating-apps-capture-more-flirting-time-than-online-sites/>
 

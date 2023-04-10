@@ -1,4 +1,4 @@
-# 欧克莱尔图书馆借阅 ipad TechCrunch
+# 欧克莱尔图书馆借阅 ipad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/eau-claire-library-lending-ipads/>
 

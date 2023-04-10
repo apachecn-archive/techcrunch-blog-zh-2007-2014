@@ -1,4 +1,4 @@
-# UberMedia 继续疯狂购物；收购社交新闻平台 Mixx TechCrunch
+# UberMedia 继续疯狂购物；收购社交新闻平台 Mixx 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/24/ubermedia-continues-shopping-spree-buys-social-news-platform-mixx/>
 

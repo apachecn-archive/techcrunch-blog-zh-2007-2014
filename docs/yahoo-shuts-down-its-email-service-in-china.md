@@ -1,4 +1,4 @@
-# 雅虎关闭在中国的电子邮件服务 TechCrunch
+# 雅虎关闭在中国的电子邮件服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/18/yahoo-shuts-down-its-email-service-in-china/>
 

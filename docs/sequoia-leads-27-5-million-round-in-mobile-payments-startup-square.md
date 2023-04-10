@@ -1,4 +1,4 @@
-# Square 从红杉和科斯拉获得 2750 万美元，有望在 Q1 支付中获得 4000 万美元 TechCrunch
+# Square 从红杉和科斯拉获得 2750 万美元，有望在 Q1 支付中获得 4000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/10/sequoia-leads-27-5-million-round-in-mobile-payments-startup-square/>
 

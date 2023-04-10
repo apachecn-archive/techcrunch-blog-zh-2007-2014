@@ -1,4 +1,4 @@
-# Komli Media 收购移动广告平台 ZestADZ TechCrunch
+# Komli Media 收购移动广告平台 ZestADZ 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/komli-media-acquires-mobile-advertising-platform-zestadz/>
 

@@ -1,4 +1,4 @@
-# 云延迟问题？专用网络连接将有助于 TechCrunch
+# 云延迟问题？专用网络连接将有助于 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/02/overcoming-obstacles-in-cloud-latency/>
 

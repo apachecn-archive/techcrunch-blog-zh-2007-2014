@@ -1,4 +1,4 @@
-# 更新后的 V Cast 带来了体育直播、250 多个频道和一个新名字:威瑞森视频 TechCrunch
+# 更新后的 V Cast 带来了体育直播、250 多个频道和一个新名字:威瑞森视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/updated-v-cast-brings-live-sports-250-channels-and-a-new-name-verizon-video/>
 

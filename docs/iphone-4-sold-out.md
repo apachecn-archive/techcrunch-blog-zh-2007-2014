@@ -1,4 +1,4 @@
-# 即使预购失败，iPhone 4 也在一天之内售罄 TechCrunch
+# 即使预购失败，iPhone 4 也在一天之内售罄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/15/iphone-4-sold-out/>
 

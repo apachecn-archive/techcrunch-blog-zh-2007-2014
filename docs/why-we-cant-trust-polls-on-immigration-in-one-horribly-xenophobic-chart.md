@@ -1,4 +1,4 @@
-# 为什么我们不能相信关于移民的民意调查，在一张可怕的排外图表中 TechCrunch
+# 为什么我们不能相信关于移民的民意调查，在一张可怕的排外图表中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/why-we-cant-trust-polls-on-immigration-in-one-horribly-xenophobic-chart/>
 

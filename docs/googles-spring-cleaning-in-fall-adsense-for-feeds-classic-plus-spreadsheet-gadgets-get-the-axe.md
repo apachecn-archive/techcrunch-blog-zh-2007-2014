@@ -1,4 +1,4 @@
-# 谷歌秋季“春季”大扫除:订阅源、Classic Plus 和电子表格小工具的 AdSense 被砍掉 TechCrunch
+# 谷歌秋季“春季”大扫除:订阅源、Classic Plus 和电子表格小工具的 AdSense 被砍掉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/28/googles-spring-cleaning-in-fall-adsense-for-feeds-classic-plus-spreadsheet-gadgets-get-the-axe/>
 

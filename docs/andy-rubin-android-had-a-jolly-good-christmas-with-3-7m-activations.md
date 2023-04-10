@@ -1,4 +1,4 @@
-# 安迪·鲁宾:Android 度过了一个快乐的圣诞节，激活了 370 万次 TechCrunch
+# 安迪·鲁宾:Android 度过了一个快乐的圣诞节，激活了 370 万次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/28/andy-rubin-android-had-a-jolly-good-christmas-with-3-7m-activations/>
 

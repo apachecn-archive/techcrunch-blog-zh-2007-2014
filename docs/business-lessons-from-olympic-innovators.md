@@ -1,4 +1,4 @@
-# 奥运会创新者的商业经验 TechCrunch
+# 奥运会创新者的商业经验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/10/business-lessons-from-olympic-innovators/>
 

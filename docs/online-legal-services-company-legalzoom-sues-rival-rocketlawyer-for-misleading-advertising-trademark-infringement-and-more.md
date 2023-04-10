@@ -1,4 +1,4 @@
-# 在线法律服务公司 LegalZoom 起诉竞争对手 RocketLawyer 误导广告、商标侵权等——TechCrunch
+# 在线法律服务公司 LegalZoom 起诉竞争对手 RocketLawyer 误导广告、商标侵权等——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/20/online-legal-services-company-legalzoom-sues-rival-rocketlawyer-for-misleading-advertising-trademark-infringement-and-more/>
 

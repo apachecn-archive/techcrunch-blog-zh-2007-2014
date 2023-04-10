@@ -1,4 +1,4 @@
-# 堆栈溢出达到 1000 万 Uniques，大胆进入问答网站从未涉足的领域 TechCrunch
+# 堆栈溢出达到 1000 万 Uniques，大胆进入问答网站从未涉足的领域 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/25/stack-overflow-hits-10m-uniques-boldly-goes-where-no-qa-site-has-gone-before/>
 

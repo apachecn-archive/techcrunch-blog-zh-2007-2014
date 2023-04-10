@@ -1,4 +1,4 @@
-# 惠普向欧洲客户提供触摸板退款计划 TechCrunch
+# 惠普向欧洲客户提供触摸板退款计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/hp-offers-touchpad-refund-program-to-european-customers/>
 

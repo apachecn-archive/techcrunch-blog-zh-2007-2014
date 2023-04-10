@@ -1,4 +1,4 @@
-# 前 Salesforce CTO Craig Weissman 以 EIR 的身份加入 Benchmark 将关注大数据机遇 TechCrunch
+# 前 Salesforce CTO Craig Weissman 以 EIR 的身份加入 Benchmark 将关注大数据机遇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/12/former-salesforce-cto-craig-weissman-joins-benchmark-as-eir-will-focus-on-big-data-opportunities/>
 

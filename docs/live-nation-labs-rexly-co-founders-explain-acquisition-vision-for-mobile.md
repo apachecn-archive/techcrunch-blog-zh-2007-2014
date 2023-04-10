@@ -1,4 +1,4 @@
-# Live Nation Labs、Rexly 联合创始人解释移动技术的收购和愿景 TechCrunch
+# Live Nation Labs、Rexly 联合创始人解释移动技术的收购和愿景 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/16/live-nation-labs-rexly-co-founders-explain-acquisition-vision-for-mobile/>
 

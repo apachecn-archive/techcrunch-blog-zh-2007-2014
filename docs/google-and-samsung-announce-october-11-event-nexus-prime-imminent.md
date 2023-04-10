@@ -1,4 +1,4 @@
-# 谷歌和三星宣布 10 月 11 日事件:Nexus Prime 即将推出 TechCrunch
+# 谷歌和三星宣布 10 月 11 日事件:Nexus Prime 即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/google-and-samsung-announce-october-11-event-nexus-prime-imminent/>
 

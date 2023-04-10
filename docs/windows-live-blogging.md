@@ -1,4 +1,4 @@
-# Windows Live 外包博客，将 3000 万用户迁移到 WordPress.com TechCrunch
+# Windows Live 外包博客，将 3000 万用户迁移到 WordPress.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/27/windows-live-blogging/>
 

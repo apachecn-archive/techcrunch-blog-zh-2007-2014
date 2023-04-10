@@ -1,4 +1,4 @@
-# 按下 Play's The Thing: Publisher 使用苹果的 iBooks Author 工具构建 iPad 版莎士比亚 TechCrunch
+# 按下 Play's The Thing: Publisher 使用苹果的 iBooks Author 工具构建 iPad 版莎士比亚 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/pressing-plays-the-thing-publisher-uses-apples-ibooks-author-tool-to-build-ipad-editions-of-shakespeare/>
 

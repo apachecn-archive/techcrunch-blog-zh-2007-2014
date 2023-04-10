@@ -1,4 +1,4 @@
-# 谷歌和脸书争夺计算机科学毕业生。薪水飙升。TechCrunch
+# 谷歌和脸书争夺计算机科学毕业生。薪水飙升。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/01/30/stanford-computer-science-grads-getting-95k-offers-from-google/>
 

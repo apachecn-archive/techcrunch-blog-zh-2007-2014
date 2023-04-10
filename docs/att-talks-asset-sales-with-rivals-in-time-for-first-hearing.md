@@ -1,4 +1,4 @@
-# 美国电话电报公司在首次听证会前与竞争对手讨论资产出售 TechCrunch
+# 美国电话电报公司在首次听证会前与竞争对手讨论资产出售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/att-talks-asset-sales-with-rivals-in-time-for-first-hearing/>
 

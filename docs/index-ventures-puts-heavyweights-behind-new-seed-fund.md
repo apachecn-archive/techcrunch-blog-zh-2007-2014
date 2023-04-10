@@ -1,4 +1,4 @@
-# Index Ventures 支持新种子基金 TechCrunch
+# Index Ventures 支持新种子基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/25/index-ventures-puts-heavyweights-behind-new-seed-fund/>
 

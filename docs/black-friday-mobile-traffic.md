@@ -1,4 +1,4 @@
-# 感恩节+黑色星期五移动流量比 2010 年增长 60% TechCrunch
+# 感恩节+黑色星期五移动流量比 2010 年增长 60% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/26/black-friday-mobile-traffic/>
 

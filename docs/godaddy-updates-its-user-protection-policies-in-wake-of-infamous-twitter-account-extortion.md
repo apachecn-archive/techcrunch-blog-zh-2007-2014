@@ -1,4 +1,4 @@
-# GoDaddy 在臭名昭著的 Twitter 账户敲诈事件后更新了用户保护政策 TechCrunch
+# GoDaddy 在臭名昭著的 Twitter 账户敲诈事件后更新了用户保护政策 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/01/godaddy-updates-its-user-protection-policies-in-wake-of-infamous-twitter-account-extortion/>
 

@@ -1,4 +1,4 @@
-# iPhone 应用的另一个黑仔数据点:F.A.S.T .在六周内收入 100 万美元 TechCrunch
+# iPhone 应用的另一个黑仔数据点:F.A.S.T .在六周内收入 100 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/another-killer-data-point-for-iphone-apps-fast-pulls-in-1-million-in-six-weeks/>
 

@@ -1,4 +1,4 @@
-# 谷歌最酷的 20%项目:灵动银河 TechCrunch
+# 谷歌最酷的 20%项目:灵动银河 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/07/google-liquid-galaxy/>
 

@@ -1,4 +1,4 @@
-# 第一印象和动手操作:任天堂 3DS TechCrunch
+# 第一印象和动手操作:任天堂 3DS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/15/first-impressions-and-hands-on-nintendo-3ds/>
 

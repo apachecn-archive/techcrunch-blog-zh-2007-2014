@@ -1,4 +1,4 @@
-# 海洋母亲为我们的游戏机、电视等提供能量。TechCrunch
+# 海洋母亲为我们的游戏机、电视等提供能量。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/12/19/mother-ocean-to-juice-our-xboxes-tvs-etc/>
 

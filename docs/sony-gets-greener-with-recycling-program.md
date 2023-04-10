@@ -1,4 +1,4 @@
-# 索尼通过回收计划走向绿色 TechCrunch
+# 索尼通过回收计划走向绿色 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/18/sony-gets-greener-with-recycling-program/>
 

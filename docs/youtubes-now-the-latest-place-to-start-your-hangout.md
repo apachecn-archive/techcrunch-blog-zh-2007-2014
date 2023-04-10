@@ -1,4 +1,4 @@
-# YouTube 现在是你开始闲逛的最新地方 TechCrunch
+# YouTube 现在是你开始闲逛的最新地方 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/18/youtubes-now-the-latest-place-to-start-your-hangout/>
 

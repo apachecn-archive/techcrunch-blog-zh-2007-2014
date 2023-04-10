@@ -1,4 +1,4 @@
-# 潘多拉向所有用户推出了它漂亮的 HTML5 播放器(不再有 40 小时的上限！)TechCrunch
+# 潘多拉向所有用户推出了它漂亮的 HTML5 播放器(不再有 40 小时的上限！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/pandora-rolls-out-its-slick-html5-player-to-all-users-and-no-more-40-hour-cap/>
 

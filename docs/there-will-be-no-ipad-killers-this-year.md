@@ -1,4 +1,4 @@
-# 今年不会有 iPad 杀手 TechCrunch
+# 今年不会有 iPad 杀手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/27/there-will-be-no-ipad-killers-this-year/>
 

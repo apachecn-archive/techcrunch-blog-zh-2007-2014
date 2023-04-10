@@ -1,4 +1,4 @@
-# CloudFlare 的 Mirage 2.0 通过使用虚拟化映像和最大限度地减少请求来加快移动站点的速度 TechCrunch
+# CloudFlare 的 Mirage 2.0 通过使用虚拟化映像和最大限度地减少请求来加快移动站点的速度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/13/cloudflares-mirage-2-0-speeds-up-mobile-sites-by-using-virtualized-images-and-minimizing-requests/>
 

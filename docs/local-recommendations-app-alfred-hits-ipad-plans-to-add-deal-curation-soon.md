@@ -1,4 +1,4 @@
-# 本地推荐应用 Alfred 推出 iPad，计划不久后添加交易监管 TechCrunch
+# 本地推荐应用 Alfred 推出 iPad，计划不久后添加交易监管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/local-recommendations-app-alfred-hits-ipad-plans-to-add-deal-curation-soon/>
 

@@ -1,4 +1,4 @@
-# 前谷歌员工和前 Facebooker 员工开始了仅限受邀者的工作空间 sun fire office TechCrunch
+# 前谷歌员工和前 Facebooker 员工开始了仅限受邀者的工作空间 sun fire office 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/28/sunfire-offices/>
 

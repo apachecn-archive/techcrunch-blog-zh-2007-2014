@@ -1,4 +1,4 @@
-# HTML5 游戏性能:iOS 比 Android 快 3 倍；iPad 2 顶级设备 TechCrunch
+# HTML5 游戏性能:iOS 比 Android 快 3 倍；iPad 2 顶级设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/05/html5-game-performance-survey/>
 

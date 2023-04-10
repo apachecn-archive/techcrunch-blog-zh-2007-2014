@@ -1,4 +1,4 @@
-# 富士康的未来:万马奔腾 TechCrunch
+# 富士康的未来:万马奔腾 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/24/the-future-of-foxconn-ten-thousand-horses-galloping/>
 

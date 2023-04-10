@@ -1,4 +1,4 @@
-# 租赁历史:网飞协议导致隐私政策的变化，但谁受益？TechCrunch
+# 租赁历史:网飞协议导致隐私政策的变化，但谁受益？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/rental-history-netflix-settlement-leads-to-changes-in-privacy-policy-but-who-benefits/>
 

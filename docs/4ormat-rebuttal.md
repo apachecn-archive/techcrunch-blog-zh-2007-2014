@@ -1,4 +1,4 @@
-# 为了短期利益而牺牲网络标准？TechCrunch
+# 为了短期利益而牺牲网络标准？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/16/4ormat-rebuttal/>
 

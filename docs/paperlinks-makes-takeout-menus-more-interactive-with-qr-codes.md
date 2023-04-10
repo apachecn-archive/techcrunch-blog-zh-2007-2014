@@ -1,4 +1,4 @@
-# Paperlinks 让外卖菜单与二维码更加互动 TechCrunch
+# Paperlinks 让外卖菜单与二维码更加互动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/paperlinks-makes-takeout-menus-more-interactive-with-qr-codes/>
 

@@ -1,4 +1,4 @@
-# Nextdoor 谈论增长，现在美国六分之一的社区都在使用 TechCrunch
+# Nextdoor 谈论增长，现在美国六分之一的社区都在使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/nextdoor-talks-growth-now-being-used-in-one-in-six-neighborhoods-in-the-us/>
 

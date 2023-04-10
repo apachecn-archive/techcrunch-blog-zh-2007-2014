@@ -1,4 +1,4 @@
-# “我很富有”应用程序出现在 Windows Phone 7 上，售价仅为 499 美元 TechCrunch
+# “我很富有”应用程序出现在 Windows Phone 7 上，售价仅为 499 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/22/i-am-rich-windows-phone/>
 

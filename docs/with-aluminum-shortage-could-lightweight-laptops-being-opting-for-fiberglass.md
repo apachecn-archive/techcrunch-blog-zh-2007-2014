@@ -1,4 +1,4 @@
-# 随着铝供应的减少，轻型笔记本电脑会选择玻璃纤维吗？TechCrunch
+# 随着铝供应的减少，轻型笔记本电脑会选择玻璃纤维吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/with-aluminum-shortage-could-lightweight-laptops-being-opting-for-fiberglass/>
 

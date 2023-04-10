@@ -1,4 +1,4 @@
-# 是的，在 Healthcare.gov 发布日只有 6 名用户注册，但不要惊慌 TechCrunch
+# 是的，在 Healthcare.gov 发布日只有 6 名用户注册，但不要惊慌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/01/yes-only-6-users-signed-up-on-healthcare-gov-launch-day-but-dont-panic/>
 

@@ -1,4 +1,4 @@
-# 电视广告将 Droid Bionic 定于 9 月 8 日发布 TechCrunch
+# 电视广告将 Droid Bionic 定于 9 月 8 日发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/tv-ad-pegs-the-droid-bionic-for-september-8-release/>
 

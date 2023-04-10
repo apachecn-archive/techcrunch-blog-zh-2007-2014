@@ -1,4 +1,4 @@
-# ConsultingMD 从 Venrock 获得 1000 万美元，以在网上提供快速推荐和第二意见 TechCrunch
+# ConsultingMD 从 Venrock 获得 1000 万美元，以在网上提供快速推荐和第二意见 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/21/consultingmd-lands-10m-from-venrock-to-bring-speedy-referrals-and-second-opinions-online/>
 

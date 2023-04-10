@@ -1,4 +1,4 @@
-# 电动打字机:王者打字机 TechCrunch
+# 电动打字机:王者打字机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/27/the-selectric-typewriter-of-kings/>
 

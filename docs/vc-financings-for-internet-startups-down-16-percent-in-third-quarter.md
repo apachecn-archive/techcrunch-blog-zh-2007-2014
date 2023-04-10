@@ -1,4 +1,4 @@
-# 第三季度互联网创业公司的风险投资下降 16% TechCrunch
+# 第三季度互联网创业公司的风险投资下降 16% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/18/vc-financings-for-internet-startups-down-16-percent-in-third-quarter/>
 

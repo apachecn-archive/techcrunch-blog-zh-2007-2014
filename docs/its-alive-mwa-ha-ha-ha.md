@@ -1,4 +1,4 @@
-# 脸书成立早期用户俱乐部，重燃移动实验热潮 TechCrunch
+# 脸书成立早期用户俱乐部，重燃移动实验热潮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/17/its-alive-mwa-ha-ha-ha/>
 

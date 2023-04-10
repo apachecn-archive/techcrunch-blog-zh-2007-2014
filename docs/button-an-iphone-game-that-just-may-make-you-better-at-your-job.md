@@ -1,4 +1,4 @@
-# Button:一款可能会让你更擅长工作的 iPhone 游戏 TechCrunch
+# Button:一款可能会让你更擅长工作的 iPhone 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/08/31/button-an-iphone-game-that-just-may-make-you-better-at-your-job/>
 

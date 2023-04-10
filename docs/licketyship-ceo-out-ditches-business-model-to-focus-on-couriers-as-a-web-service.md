@@ -1,4 +1,4 @@
-# lick etylation:创始人 CEO 出局，放弃商业模式，专注于快递服务 TechCrunch
+# lick etylation:创始人 CEO 出局，放弃商业模式，专注于快递服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/06/11/licketyship-ceo-out-ditches-business-model-to-focus-on-couriers-as-a-web-service/>
 

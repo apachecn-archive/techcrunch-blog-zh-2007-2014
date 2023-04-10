@@ -1,4 +1,4 @@
-# 刚刚被民粹主义收购的 Mokono 收购德国博客网络 Adnation TechCrunch
+# 刚刚被民粹主义收购的 Mokono 收购德国博客网络 Adnation 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/mokono-just-acquired-by-populis-buys-german-blog-network-adnation/>
 

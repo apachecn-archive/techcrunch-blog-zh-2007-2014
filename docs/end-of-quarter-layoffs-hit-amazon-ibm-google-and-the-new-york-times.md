@@ -1,4 +1,4 @@
-# 季末裁员打击了亚马逊、IBM、谷歌和纽约时报 TechCrunch
+# 季末裁员打击了亚马逊、IBM、谷歌和纽约时报 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/26/end-of-quarter-layoffs-hit-amazon-ibm-google-and-the-new-york-times/>
 

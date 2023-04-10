@@ -1,4 +1,4 @@
-# CNET 创始人 Shelby Bonnie 公布了他的新公司:political base TechCrunch
+# CNET 创始人 Shelby Bonnie 公布了他的新公司:political base 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/09/cnet-founder-shelby-bonnie-unveils-his-new-startup-politicalbase/>
 

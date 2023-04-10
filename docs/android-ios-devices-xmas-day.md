@@ -1,4 +1,4 @@
-# 圣诞节当天有 680 万台 Android 和 iOS 设备被激活，2.42 亿个应用被下载 TechCrunch
+# 圣诞节当天有 680 万台 Android 和 iOS 设备被激活，2.42 亿个应用被下载 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/27/android-ios-devices-xmas-day/>
 

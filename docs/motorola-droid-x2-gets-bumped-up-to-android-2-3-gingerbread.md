@@ -1,4 +1,4 @@
-# 摩托罗拉 Droid X2 升级到 Android 2.3 姜饼 TechCrunch
+# 摩托罗拉 Droid X2 升级到 Android 2.3 姜饼 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/motorola-droid-x2-gets-bumped-up-to-android-2-3-gingerbread/>
 

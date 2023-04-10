@@ -1,4 +1,4 @@
-# 本地推荐应用 Alfred 现在提供群体推荐 TechCrunch
+# 本地推荐应用 Alfred 现在提供群体推荐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/local-recommendations-app-alfred-now-does-group-recommendations/>
 

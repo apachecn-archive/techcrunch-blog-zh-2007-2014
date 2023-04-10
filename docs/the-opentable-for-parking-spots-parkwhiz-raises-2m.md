@@ -1,4 +1,4 @@
-# 停车点的 OpenTable，ParkWhiz 提高了$ 2M TechCrunch
+# 停车点的 OpenTable，ParkWhiz 提高了$ 2M 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/19/the-opentable-for-parking-spots-parkwhiz-raises-2m/>
 

@@ -1,4 +1,4 @@
-# 脸书、谷歌和 Plaxo 加入数据便携性工作组 TechCrunch
+# 脸书、谷歌和 Plaxo 加入数据便携性工作组 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/08/this-day-will-be-remembered-facebook-google-and-plaxo-join-the-dataportability-workgroup/>
 

@@ -1,4 +1,4 @@
-# 法国推出多语言旅游网站。它向下并保持向下。TechCrunch
+# 法国推出多语言旅游网站。它向下并保持向下。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/14/france-launches-multi-lingual-tourist-website-it-goes-down-and-stays-down/>
 

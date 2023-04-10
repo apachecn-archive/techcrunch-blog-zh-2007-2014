@@ -1,4 +1,4 @@
-# Zurb 的卷轴可以让你获得关于 PowerPoint 演示的即时反馈 TechCrunch
+# Zurb 的卷轴可以让你获得关于 PowerPoint 演示的即时反馈 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/zurbs-reel-lets-you-get-instant-feedback-on-powerpoint-presentations/>
 

@@ -1,4 +1,4 @@
-# 在风投的支持下，Ebates 收购了 FatWallet.com 和 AnyCoupons.com，创办了新公司 TechCrunch
+# 在风投的支持下，Ebates 收购了 FatWallet.com 和 AnyCoupons.com，创办了新公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/backed-by-vcs-ebates-buys-fatwallet-com-and-anycoupons-com-starts-new-company/>
 

@@ -1,4 +1,4 @@
-# 潘多拉季度业绩:收入 8080 万美元，活跃用户 5200 万，收听时长 30.9 亿小时 TechCrunch
+# 潘多拉季度业绩:收入 8080 万美元，活跃用户 5200 万，收听时长 30.9 亿小时 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/23/pandoras-quarterly-results-80-8m-in-revenue-52m-active-users-3-09b-listening-hours-per-month/>
 

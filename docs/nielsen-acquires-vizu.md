@@ -1,4 +1,4 @@
-# 尼尔森收购 Vizu 测量在线广告效果 TechCrunch
+# 尼尔森收购 Vizu 测量在线广告效果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/nielsen-acquires-vizu/>
 

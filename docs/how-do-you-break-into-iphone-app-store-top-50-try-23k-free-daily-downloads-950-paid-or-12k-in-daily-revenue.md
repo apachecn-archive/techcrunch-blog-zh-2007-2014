@@ -1,4 +1,4 @@
-# 如何闯入 iPhone App Store Top 50？尝试 23K 免费每日下载，950 付费，或 12K 美元每日收入 TechCrunch
+# 如何闯入 iPhone App Store Top 50？尝试 23K 免费每日下载，950 付费，或 12K 美元每日收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/how-do-you-break-into-iphone-app-store-top-50-try-23k-free-daily-downloads-950-paid-or-12k-in-daily-revenue/>
 

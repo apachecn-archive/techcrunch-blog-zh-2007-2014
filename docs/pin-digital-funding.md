@@ -1,4 +1,4 @@
-# Pin-Digital，PinSex 和 PinGay 背后的 NSFW 创业公司，融资 80 万美元 TechCrunch
+# Pin-Digital，PinSex 和 PinGay 背后的 NSFW 创业公司，融资 80 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/26/pin-digital-funding/>
 

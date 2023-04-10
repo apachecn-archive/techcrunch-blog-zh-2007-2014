@@ -1,4 +1,4 @@
-# Rdio 宣布推出无广告点播音乐流 TechCrunch
+# Rdio 宣布推出无广告点播音乐流 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/rdio-announces-ad-free-on-demand-music-streaming-service/>
 

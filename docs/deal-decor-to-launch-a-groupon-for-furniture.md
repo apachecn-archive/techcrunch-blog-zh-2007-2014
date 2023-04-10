@@ -1,4 +1,4 @@
-# Deal Decor 推出家具团购 TechCrunch
+# Deal Decor 推出家具团购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/deal-decor-to-launch-a-groupon-for-furniture/>
 

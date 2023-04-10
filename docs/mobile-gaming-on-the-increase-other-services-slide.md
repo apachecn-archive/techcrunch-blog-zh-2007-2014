@@ -1,4 +1,4 @@
-# 移动游戏增长:其他服务下滑——TechCrunch
+# 移动游戏增长:其他服务下滑——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/mobile-gaming-on-the-increase-other-services-slide/>
 

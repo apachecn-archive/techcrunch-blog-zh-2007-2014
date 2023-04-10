@@ -1,4 +1,4 @@
-# Best Buy 和 Geek Squad 想出如何通过游戏系统设置进一步压榨客户 TechCrunch
+# Best Buy 和 Geek Squad 想出如何通过游戏系统设置进一步压榨客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/20/best-buy-and-geek-squad-figure-out-how-to-squeeze-customers-even-more-with-game-system-setup/>
 

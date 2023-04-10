@@ -1,4 +1,4 @@
-# Quora Gamifies:学分和“问与答”建议面向所有人 TechCrunch
+# Quora Gamifies:学分和“问与答”建议面向所有人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/quora-gamifies-credits-and-ask-to-answer-suggestions-live-for-everyone/>
 

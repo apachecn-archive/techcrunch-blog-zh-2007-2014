@@ -1,4 +1,4 @@
-# 苹果电视终于加入了 Hulu Plus——为什么花了这么长时间，为什么现在有意义 TechCrunch
+# 苹果电视终于加入了 Hulu Plus——为什么花了这么长时间，为什么现在有意义 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/31/apple-tv-hulu-plus/>
 

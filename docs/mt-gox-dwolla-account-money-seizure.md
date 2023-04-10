@@ -1,4 +1,4 @@
-# 联邦政府查封 Mt. Gox 的 Dwolla 账户，指控其违反资金转移法规 TechCrunch
+# 联邦政府查封 Mt. Gox 的 Dwolla 账户，指控其违反资金转移法规 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/16/mt-gox-dwolla-account-money-seizure/>
 

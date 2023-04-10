@@ -1,4 +1,4 @@
-# BBM 安卓应用截图泄露 TechCrunch
+# BBM 安卓应用截图泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/bbm-for-android/>
 

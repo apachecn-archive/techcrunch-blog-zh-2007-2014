@@ -1,4 +1,4 @@
-# 摩托罗拉组建 350 人的安卓团队。诺基亚也四处嗅着。TechCrunch
+# 摩托罗拉组建 350 人的安卓团队。诺基亚也四处嗅着。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/28/motorola-building-up-350-person-android-team-nokia-also-sniffing-around/>
 

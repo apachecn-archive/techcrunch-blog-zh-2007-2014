@@ -1,4 +1,4 @@
-# TCTV:漫游黑客马拉松大厅 TechCrunch
+# TCTV:漫游黑客马拉松大厅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/10/tctv-roaming-the-hackathon-hall/>
 

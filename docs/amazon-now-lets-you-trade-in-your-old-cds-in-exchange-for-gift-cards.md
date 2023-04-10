@@ -1,4 +1,4 @@
-# 亚马逊现在允许你用旧 CD 换礼品卡 TechCrunch
+# 亚马逊现在允许你用旧 CD 换礼品卡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/amazon-now-lets-you-trade-in-your-old-cds-in-exchange-for-gift-cards/>
 

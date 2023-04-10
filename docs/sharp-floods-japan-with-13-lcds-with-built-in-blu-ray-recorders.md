@@ -1,4 +1,4 @@
-# 夏普向日本推出 13 款内置蓝光刻录机的液晶显示器 TechCrunch
+# 夏普向日本推出 13 款内置蓝光刻录机的液晶显示器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/07/sharp-floods-japan-with-13-lcds-with-built-in-blu-ray-recorders/>
 

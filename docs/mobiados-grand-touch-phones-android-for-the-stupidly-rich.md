@@ -1,4 +1,4 @@
-# Mobiado 的 Grand Touch 手机:愚蠢的富人的 Android TechCrunch
+# Mobiado 的 Grand Touch 手机:愚蠢的富人的 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/mobiados-grand-touch-phones-android-for-the-stupidly-rich/>
 

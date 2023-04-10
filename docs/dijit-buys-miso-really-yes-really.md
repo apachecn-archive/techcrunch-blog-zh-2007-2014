@@ -1,4 +1,4 @@
-# 社交电视初创公司 Dijit 收购 Miso 重新定义第二屏幕 TechCrunch
+# 社交电视初创公司 Dijit 收购 Miso 重新定义第二屏幕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/01/dijit-buys-miso-really-yes-really/>
 

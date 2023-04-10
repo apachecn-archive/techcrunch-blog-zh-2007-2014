@@ -1,4 +1,4 @@
-# Meta:必应广告歌盖伊为唱必应广告歌的学生写歌 TechCrunch
+# Meta:必应广告歌盖伊为唱必应广告歌的学生写歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/31/meta-bing-jingle-guy-writes-song-for-students-who-sang-bing-jingle/>
 

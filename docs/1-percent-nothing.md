@@ -1,4 +1,4 @@
-# 1%的无中生有促使初创公司捐赠股权 TechCrunch
+# 1%的无中生有促使初创公司捐赠股权 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/1-percent-nothing/>
 

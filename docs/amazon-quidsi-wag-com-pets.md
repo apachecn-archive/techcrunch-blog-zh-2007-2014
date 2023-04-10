@@ -1,4 +1,4 @@
-# 从尿布到宠物，亚马逊的 Quidsi 介绍 Wag.com TechCrunch
+# 从尿布到宠物，亚马逊的 Quidsi 介绍 Wag.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/amazon-quidsi-wag-com-pets/>
 

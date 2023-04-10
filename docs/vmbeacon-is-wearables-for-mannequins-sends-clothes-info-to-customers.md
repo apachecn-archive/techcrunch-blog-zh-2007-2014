@@ -1,4 +1,4 @@
-# VMBeacon 是人体模型的可穿戴设备，向客户发送服装信息 TechCrunch
+# VMBeacon 是人体模型的可穿戴设备，向客户发送服装信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/vmbeacon-is-wearables-for-mannequins-sends-clothes-info-to-customers/>
 

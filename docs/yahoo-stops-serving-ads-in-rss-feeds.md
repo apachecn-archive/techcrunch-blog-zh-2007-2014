@@ -1,4 +1,4 @@
-# 雅虎！停止在 RSS 源中投放广告 TechCrunch
+# 雅虎！停止在 RSS 源中投放广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/02/yahoo-stops-serving-ads-in-rss-feeds/>
 

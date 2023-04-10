@@ -1,4 +1,4 @@
-# 网上发现未经编辑的维基解密电报？可能，令人沮丧的是 TechCrunch
+# 网上发现未经编辑的维基解密电报？可能，令人沮丧的是 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/28/unredacted-wikileaks-cables-found-online-probably-depressingly/>
 

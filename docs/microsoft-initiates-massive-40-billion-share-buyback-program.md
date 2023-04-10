@@ -1,4 +1,4 @@
-# 微软启动 400 亿美元大规模股票回购计划 TechCrunch
+# 微软启动 400 亿美元大规模股票回购计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/17/microsoft-initiates-massive-40-billion-share-buyback-program/>
 

@@ -1,4 +1,4 @@
-# 联合传媒将内容营销部门出售给林传媒，将程序化广告业务更名为 Sovrn TechCrunch
+# 联合传媒将内容营销部门出售给林传媒，将程序化广告业务更名为 Sovrn 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/federated-media-sells-to-lin-media/>
 

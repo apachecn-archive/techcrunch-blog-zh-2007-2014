@@ -1,4 +1,4 @@
-# 有教养的买？Providence Equity Partners 将以 16.4 亿美元现金收购 Blackboard TechCrunch
+# 有教养的买？Providence Equity Partners 将以 16.4 亿美元现金收购 Blackboard 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/educated-buy-providence-equity-partners-to-acquire-blackboard-for-1-64-billion-in-cash/>
 

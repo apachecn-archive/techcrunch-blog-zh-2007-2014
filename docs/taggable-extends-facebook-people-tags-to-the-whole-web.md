@@ -1,4 +1,4 @@
-# Taggable 将脸书人物标签扩展到整个网络 TechCrunch
+# Taggable 将脸书人物标签扩展到整个网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/20/taggable-extends-facebook-people-tags-to-the-whole-web/>
 

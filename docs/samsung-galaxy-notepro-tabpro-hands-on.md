@@ -1,4 +1,4 @@
-# 亲身体验三星新款 Galaxy NotePRO 和 TabPRO Android 平板电脑 TechCrunch
+# 亲身体验三星新款 Galaxy NotePRO 和 TabPRO Android 平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/10/samsung-galaxy-notepro-tabpro-hands-on/>
 

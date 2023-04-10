@@ -1,4 +1,4 @@
-# GitHub 让联合创始人休假，开始调查对朱莉·安·霍瓦特的歧视 TechCrunch
+# GitHub 让联合创始人休假，开始调查对朱莉·安·霍瓦特的歧视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/16/github-julie-ann-horvath-response/>
 

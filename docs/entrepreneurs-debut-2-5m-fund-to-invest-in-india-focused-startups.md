@@ -1,4 +1,4 @@
-# 企业家首次推出价值 250 万美元的加速器，投资于专注于印度的初创公司 TechCrunch
+# 企业家首次推出价值 250 万美元的加速器，投资于专注于印度的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/entrepreneurs-debut-2-5m-fund-to-invest-in-india-focused-startups/>
 

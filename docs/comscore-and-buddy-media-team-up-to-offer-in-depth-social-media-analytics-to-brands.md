@@ -1,4 +1,4 @@
-# comScore 和 Buddy Media 联手为品牌提供深入的社交媒体分析 TechCrunch
+# comScore 和 Buddy Media 联手为品牌提供深入的社交媒体分析 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/comscore-and-buddy-media-team-up-to-offer-in-depth-social-media-analytics-to-brands/>
 

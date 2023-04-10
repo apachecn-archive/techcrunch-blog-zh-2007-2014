@@ -1,4 +1,4 @@
-# Adgregate Markets 的商店粉丝将社交零售店面带到脸书 TechCrunch
+# Adgregate Markets 的商店粉丝将社交零售店面带到脸书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/20/adgregate-markets-shopfans-brings-social-retail-storefronts-to-facebook/>
 

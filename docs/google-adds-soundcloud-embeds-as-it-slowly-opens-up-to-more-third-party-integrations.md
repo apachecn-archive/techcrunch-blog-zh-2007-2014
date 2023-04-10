@@ -1,4 +1,4 @@
-# Google+增加了 SoundCloud 嵌入，因为它慢慢向更多第三方集成开放 TechCrunch
+# Google+增加了 SoundCloud 嵌入，因为它慢慢向更多第三方集成开放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/12/google-adds-soundcloud-embeds-as-it-slowly-opens-up-to-more-third-party-integrations/>
 

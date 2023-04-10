@@ -1,4 +1,4 @@
-# 踢它的老学校:脸书建兴在美国和印度推出 TechCrunch
+# 踢它的老学校:脸书建兴在美国和印度推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/10/breaking-facebook-lite-launches-in-the-u-s/>
 

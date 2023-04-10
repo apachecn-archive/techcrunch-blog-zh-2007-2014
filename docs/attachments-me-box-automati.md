@@ -1,4 +1,4 @@
-# Attachments.me 实现自动化，将 Box 添加到其云存储合作伙伴 TechCrunch
+# Attachments.me 实现自动化，将 Box 添加到其云存储合作伙伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/attachments-me-box-automati/>
 

@@ -1,4 +1,4 @@
-# Last.fm 只是把用户收听数据交给了 RIAA 吗？TechCrunch
+# Last.fm 只是把用户收听数据交给了 RIAA 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/20/did-lastfm-just-hand-over-user-listening-data-to-the-riaa/>
 

@@ -1,4 +1,4 @@
-# Flash:中国未禁止魔兽世界 TechCrunch
+# Flash:中国未禁止魔兽世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/16/flash-world-of-warcraft-not-banned-in-china/>
 

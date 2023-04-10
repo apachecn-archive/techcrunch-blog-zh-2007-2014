@@ -1,4 +1,4 @@
-# Evernote 磨练其平台野心，与 Docomo 和本田合作开发新加速器 TechCrunch
+# Evernote 磨练其平台野心，与 Docomo 和本田合作开发新加速器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/16/evernote-teams-up-with-docomo-and-honda-for-a-new-accelerator/>
 

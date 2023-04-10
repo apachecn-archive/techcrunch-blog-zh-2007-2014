@@ -1,4 +1,4 @@
-# 更多信息和第一印象:佳能全新 C300 Pro 影院摄像机 TechCrunch
+# 更多信息和第一印象:佳能全新 C300 Pro 影院摄像机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/more-info-and-first-impressions-canons-new-c300-pro-cinema-camera/>
 

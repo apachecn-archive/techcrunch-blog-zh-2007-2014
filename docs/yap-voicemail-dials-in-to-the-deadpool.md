@@ -1,4 +1,4 @@
-# Yap 语音邮件拨入死亡池 TechCrunch
+# Yap 语音邮件拨入死亡池 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/yap-voicemail-dials-in-to-the-deadpool/>
 

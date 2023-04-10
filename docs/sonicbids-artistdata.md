@@ -1,4 +1,4 @@
-# Sonicbids 收购 ArtistData，帮助音乐人在网络上获得更多曝光率 TechCrunch
+# Sonicbids 收购 ArtistData，帮助音乐人在网络上获得更多曝光率 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/14/sonicbids-artistdata/>
 

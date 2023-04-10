@@ -1,4 +1,4 @@
-# LG 可能会再次尝试可穿戴活动追踪公式 TechCrunch
+# LG 可能会再次尝试可穿戴活动追踪公式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/31/lg-lifeband-touch-leak/>
 

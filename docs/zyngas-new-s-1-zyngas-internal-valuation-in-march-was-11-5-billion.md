@@ -1,4 +1,4 @@
-# Zynga 的新 S-1:2011 年 3 月 Zynga 的内部估值为 115 亿美元 TechCrunch
+# Zynga 的新 S-1:2011 年 3 月 Zynga 的内部估值为 115 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/zyngas-new-s-1-zyngas-internal-valuation-in-march-was-11-5-billion/>
 

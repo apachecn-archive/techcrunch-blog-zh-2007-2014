@@ -1,4 +1,4 @@
-# 孩之宝以 1 . 12 亿美元收购手机游戏制造商 Backflip Studios 70%的股份 TechCrunch
+# 孩之宝以 1 . 12 亿美元收购手机游戏制造商 Backflip Studios 70%的股份 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/hasbro-backflip/>
 

@@ -1,4 +1,4 @@
-# 在野外发现新的雅虎标志 TechCrunch
+# 在野外发现新的雅虎标志 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/12/new-yahoo-logo-spotted-in-the-wild/>
 

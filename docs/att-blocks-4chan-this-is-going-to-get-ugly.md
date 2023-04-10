@@ -1,4 +1,4 @@
-# 据报道，美国电话电报公司封锁了 4chan。这会变得很难看。TechCrunch
+# 据报道，美国电话电报公司封锁了 4chan。这会变得很难看。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/26/att-blocks-4chan-this-is-going-to-get-ugly/>
 

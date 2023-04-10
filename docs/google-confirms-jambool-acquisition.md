@@ -1,4 +1,4 @@
-# 谷歌收购 Jambool 证实 TechCrunch
+# 谷歌收购 Jambool 证实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/13/google-confirms-jambool-acquisition/>
 

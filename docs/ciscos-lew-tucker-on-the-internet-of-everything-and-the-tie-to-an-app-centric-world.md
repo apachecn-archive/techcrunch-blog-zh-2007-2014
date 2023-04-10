@@ -1,4 +1,4 @@
-# 思科的 Lew Tucker 谈万物互联以及与以应用为中心的世界的联系 TechCrunch
+# 思科的 Lew Tucker 谈万物互联以及与以应用为中心的世界的联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/ciscos-lew-tucker-on-the-internet-of-everything-and-the-tie-to-an-app-centric-world/>
 

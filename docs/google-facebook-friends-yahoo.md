@@ -1,4 +1,4 @@
-# 让你的脸书朋友偷偷进入 Google+的唯一后门是雅虎 TechCrunch
+# 让你的脸书朋友偷偷进入 Google+的唯一后门是雅虎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/google-facebook-friends-yahoo/>
 

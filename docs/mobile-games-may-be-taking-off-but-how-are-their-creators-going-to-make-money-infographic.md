@@ -1,4 +1,4 @@
-# 手机游戏可能正在起飞，但它们的创作者打算如何赚钱？[信息图 TechCrunch
+# 手机游戏可能正在起飞，但它们的创作者打算如何赚钱？[信息图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/mobile-games-may-be-taking-off-but-how-are-their-creators-going-to-make-money-infographic/>
 

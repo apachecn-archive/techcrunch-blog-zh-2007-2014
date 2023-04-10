@@ -1,4 +1,4 @@
-# 麦克斯·拉夫琴、基思·拉博伊斯和大卫·萨克斯在优步洗车，Cherry TechCrunch
+# 麦克斯·拉夫琴、基思·拉博伊斯和大卫·萨克斯在优步洗车，Cherry 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/max-levchin-keith-rabois-and-davis-sacks-back-the-uber-for-carwashes-cherry/>
 

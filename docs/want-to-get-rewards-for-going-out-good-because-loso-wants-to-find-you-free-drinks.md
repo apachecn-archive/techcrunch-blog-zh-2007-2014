@@ -1,4 +1,4 @@
-# 想获得外出奖励？很好，因为 LoSo 想给你找免费饮料 TechCrunch
+# 想获得外出奖励？很好，因为 LoSo 想给你找免费饮料 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/21/want-to-get-rewards-for-going-out-good-because-loso-wants-to-find-you-free-drinks/>
 

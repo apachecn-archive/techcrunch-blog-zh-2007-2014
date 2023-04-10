@@ -1,4 +1,4 @@
-# Twitter 解决了跟贴探戈问题，让您的所有跟贴都能直接发送消息 TechCrunch
+# Twitter 解决了跟贴探戈问题，让您的所有跟贴都能直接发送消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/15/twitter-direct-messages-all-followers/>
 

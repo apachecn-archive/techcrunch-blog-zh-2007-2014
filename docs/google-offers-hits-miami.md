@@ -1,4 +1,4 @@
-# 谷歌提供热门迈阿密 TechCrunch
+# 谷歌提供热门迈阿密 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/google-offers-hits-miami/>
 

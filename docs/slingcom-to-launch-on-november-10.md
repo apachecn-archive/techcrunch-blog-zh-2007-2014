@@ -1,4 +1,4 @@
-# Sling.com 将于 11 月 10 日发布 TechCrunch
+# Sling.com 将于 11 月 10 日发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/26/slingcom-to-launch-on-november-10/>
 

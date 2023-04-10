@@ -1,4 +1,4 @@
-# 自动化投资服务公司 Wealthfront 现在管理着超过 5 . 38 亿美元的资产，比去年增长了 450% TechCrunch
+# 自动化投资服务公司 Wealthfront 现在管理着超过 5 . 38 亿美元的资产，比去年增长了 450% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/automated-investment-services-company-wealthfront-now-manages-over-538m-in-assets-up-450-percent-over-past-year/>
 

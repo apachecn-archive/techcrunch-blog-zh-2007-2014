@@ -1,4 +1,4 @@
-# 你应该相信谁？Redfin 为 100 万名房地产经纪人发布了一份调查报告 TechCrunch
+# 你应该相信谁？Redfin 为 100 万名房地产经纪人发布了一份调查报告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/who-should-you-trust-redfin-launches-a-scouting-report-for-1-million-real-estate-agents/>
 

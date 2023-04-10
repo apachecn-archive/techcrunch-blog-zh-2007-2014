@@ -1,4 +1,4 @@
-# VMware 为三星 Galaxy 设备推出企业解决方案 TechCrunch
+# VMware 为三星 Galaxy 设备推出企业解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/vmware-unveils-enterprise-solutions-for-samsungs-galaxy-devices/>
 

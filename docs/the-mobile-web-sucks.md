@@ -1,4 +1,4 @@
-# 移动网络糟透了 TechCrunch
+# 移动网络糟透了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/17/the-mobile-web-sucks/>
 

@@ -1,4 +1,4 @@
-# 谷歌用于 Gmail、日历和文档的新 HTML5 Chrome 应用让用户可以离线访问 TechCrunch
+# 谷歌用于 Gmail、日历和文档的新 HTML5 Chrome 应用让用户可以离线访问 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/googles-new-html5-chrome-apps-for-gmail-calendar-and-docs-give-users-offline-access/>
 

@@ -1,4 +1,4 @@
-# 脸书:3.5 亿人使用短信；每天发送超过 40 亿条消息 TechCrunch
+# 脸书:3.5 亿人使用短信；每天发送超过 40 亿条消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/15/facebook-350m-people-using-messaging-more-than-4b-messages-sent-daily/>
 

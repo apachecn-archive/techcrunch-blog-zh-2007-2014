@@ -1,4 +1,4 @@
-# Airbnb 的 Brian Chesky 和红杉资本的 Alfred Lin 谈文化和核心价值观对企业的重要性 TechCrunch
+# Airbnb 的 Brian Chesky 和红杉资本的 Alfred Lin 谈文化和核心价值观对企业的重要性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/07/airbnbs-brian-chesky-and-sequoias-alfred-lin-on-the-importance-of-culture-and-core-values-to-a-business/>
 

@@ -1,4 +1,4 @@
-# WordPress.com 母公司 Automattic 今年收入有望达到 4500 万美元 TechCrunch
+# WordPress.com 母公司 Automattic 今年收入有望达到 4500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/25/wordpress-automattic-45-million-revenu/>
 

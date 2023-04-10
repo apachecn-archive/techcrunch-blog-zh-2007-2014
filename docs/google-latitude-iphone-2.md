@@ -1,4 +1,4 @@
-# 谷歌 Latitude 终于登陆 iPhone，吸引了 900 万活跃用户 TechCrunch
+# 谷歌 Latitude 终于登陆 iPhone，吸引了 900 万活跃用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/13/google-latitude-iphone-2/>
 

@@ -1,4 +1,4 @@
-# 我们即将发现腾讯到底有多强大 TechCrunch
+# 我们即将发现腾讯到底有多强大 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/07/were-about-to-find-out-just-how-powerful-tencent-is/>
 

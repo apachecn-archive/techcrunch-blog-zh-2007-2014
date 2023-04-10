@@ -1,4 +1,4 @@
-# Ipevo 现已发售 Kaleido R7 无线相框 TechCrunch
+# Ipevo 现已发售 Kaleido R7 无线相框 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/ipevo-now-shipping-kaleidoscope-r7-wireless-picture-frame/>
 

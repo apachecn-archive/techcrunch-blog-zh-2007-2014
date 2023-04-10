@@ -1,4 +1,4 @@
-# 苹果、Hyperion 离子炮以及为什么未来的 iPhones 可能会有蓝宝石屏幕 TechCrunch
+# 苹果、Hyperion 离子炮以及为什么未来的 iPhones 可能会有蓝宝石屏幕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/11/apple-fires-its-ion-cannons/>
 

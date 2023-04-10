@@ -1,4 +1,4 @@
-# ThredUP 关闭了儿童服装交换服务，转而支持在线托运 TechCrunch
+# ThredUP 关闭了儿童服装交换服务，转而支持在线托运 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/thredup-shuts-down-kids-clothes-swapping-service-in-favor-of-online-consignment/>
 

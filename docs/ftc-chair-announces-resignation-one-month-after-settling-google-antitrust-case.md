@@ -1,4 +1,4 @@
-# FTC 主席在解决谷歌反垄断案一个月后宣布辞职 TechCrunch
+# FTC 主席在解决谷歌反垄断案一个月后宣布辞职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/31/ftc-chair-announces-resignation-one-month-after-settling-google-antitrust-case/>
 

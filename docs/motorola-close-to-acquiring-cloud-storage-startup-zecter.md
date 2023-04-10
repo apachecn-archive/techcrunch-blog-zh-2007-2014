@@ -1,4 +1,4 @@
-# 摩托罗拉接近收购云存储初创公司 Zecter TechCrunch
+# 摩托罗拉接近收购云存储初创公司 Zecter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/21/motorola-close-to-acquiring-cloud-storage-startup-zecter/>
 

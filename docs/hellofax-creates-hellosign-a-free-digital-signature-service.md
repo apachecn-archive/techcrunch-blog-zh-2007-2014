@@ -1,4 +1,4 @@
-# HelloFax 创建 HelloSign -免费数字签名服务 TechCrunch
+# HelloFax 创建 HelloSign -免费数字签名服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/01/hellofax-creates-hellosign-a-free-digital-signature-service/>
 

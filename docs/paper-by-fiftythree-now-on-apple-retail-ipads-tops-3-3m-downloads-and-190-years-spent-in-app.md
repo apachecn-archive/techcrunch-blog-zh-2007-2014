@@ -1,4 +1,4 @@
-# 53 年前的论文现在出现在苹果零售 iPads 上，下载量超过 330 万次，在应用内花费了 190 年时间 TechCrunch
+# 53 年前的论文现在出现在苹果零售 iPads 上，下载量超过 330 万次，在应用内花费了 190 年时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/paper-by-fiftythree-now-on-apple-retail-ipads-tops-3-3m-downloads-and-190-years-spent-in-app/>
 

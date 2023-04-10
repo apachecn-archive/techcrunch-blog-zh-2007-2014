@@ -1,4 +1,4 @@
-# 真的吗？TechCrunch
+# 真的吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/02/facebook-wedding/>
 

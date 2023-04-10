@@ -1,4 +1,4 @@
-# Diller 在法庭上赢得分手战 TechCrunch
+# Diller 在法庭上赢得分手战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/31/diller-wins-break-up-battle-in-court/>
 

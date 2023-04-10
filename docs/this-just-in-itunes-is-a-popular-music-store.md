@@ -1,4 +1,4 @@
-# 最新消息:iTunes 是一个流行音乐商店 TechCrunch
+# 最新消息:iTunes 是一个流行音乐商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/19/this-just-in-itunes-is-a-popular-music-store/>
 

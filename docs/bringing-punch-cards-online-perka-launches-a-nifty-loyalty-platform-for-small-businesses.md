@@ -1,4 +1,4 @@
-# 将打孔卡带到网上，Perka 为小型企业推出了一个漂亮的忠诚度平台 TechCrunch
+# 将打孔卡带到网上，Perka 为小型企业推出了一个漂亮的忠诚度平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/05/bringing-punch-cards-online-perka-launches-a-nifty-loyalty-platform-for-small-businesses/>
 

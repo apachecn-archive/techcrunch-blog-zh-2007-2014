@@ -1,4 +1,4 @@
-# Jaja:巧妙变形的压敏 iPad 手写笔 TechCrunch
+# Jaja:巧妙变形的压敏 iPad 手写笔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/jaja-a-pressure-sensitive-ipad-stylus-with-a-clever-twist/>
 

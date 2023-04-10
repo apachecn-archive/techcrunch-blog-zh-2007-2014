@@ -1,4 +1,4 @@
-# Grubwithus 斥资 500 万美元，由 GRP，Michel Daher 将其社交餐饮推向全球 TechCrunch
+# Grubwithus 斥资 500 万美元，由 GRP，Michel Daher 将其社交餐饮推向全球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/grubwithus-munches-on-5m/>
 

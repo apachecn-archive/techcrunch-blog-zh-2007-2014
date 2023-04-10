@@ -1,4 +1,4 @@
-# 你不应该聊天轮盘赌或俄罗斯轮盘赌:最好的应用商店规则 TechCrunch
+# 你不应该聊天轮盘赌或俄罗斯轮盘赌:最好的应用商店规则 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/09/app-store-rules/>
 

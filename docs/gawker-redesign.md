@@ -1,4 +1,4 @@
-# Gawker 的吞咽时刻:大规模重新设计正在赶走人们 TechCrunch
+# Gawker 的吞咽时刻:大规模重新设计正在赶走人们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/gawker-redesign/>
 

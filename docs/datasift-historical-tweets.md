@@ -1,4 +1,4 @@
-# DataSift 提供对历史推文的访问 TechCrunch
+# DataSift 提供对历史推文的访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/datasift-historical-tweets/>
 

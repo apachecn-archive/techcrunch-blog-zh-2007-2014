@@ -1,4 +1,4 @@
-# mSpot 为谷歌电视带来电影和音乐流媒体服务 TechCrunch
+# mSpot 为谷歌电视带来电影和音乐流媒体服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/mspot-brings-movie-and-music-streaming-service-to-google-tvs/>
 

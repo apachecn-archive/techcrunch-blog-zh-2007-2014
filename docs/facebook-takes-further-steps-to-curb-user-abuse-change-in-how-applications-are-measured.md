@@ -1,4 +1,4 @@
-# 脸书采取进一步措施遏制用户滥用；衡量应用的方式发生了变化——TechCrunch
+# 脸书采取进一步措施遏制用户滥用；衡量应用的方式发生了变化——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/facebook-takes-further-steps-to-curb-user-abuse-change-in-how-applications-are-measured/>
 

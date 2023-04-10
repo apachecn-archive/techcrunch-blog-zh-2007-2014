@@ -1,4 +1,4 @@
-# Twitter 接近收购 AdGrok TechCrunch
+# Twitter 接近收购 AdGrok 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/30/twitter-close-to-acquiring-adgrok/>
 

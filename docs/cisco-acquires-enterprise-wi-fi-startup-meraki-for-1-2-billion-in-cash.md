@@ -1,4 +1,4 @@
-# 思科以 12 亿美元现金收购企业 Wi-Fi 初创公司 Meraki TechCrunch
+# 思科以 12 亿美元现金收购企业 Wi-Fi 初创公司 Meraki 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/18/cisco-acquires-enterprise-wi-fi-startup-meraki-for-1-2-billion-in-cash/>
 

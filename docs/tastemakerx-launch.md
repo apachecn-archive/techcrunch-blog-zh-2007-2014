@@ -1,4 +1,4 @@
-# TastemakerX 向所有人开放音乐股票市场 TechCrunch
+# TastemakerX 向所有人开放音乐股票市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/14/tastemakerx-launch/>
 

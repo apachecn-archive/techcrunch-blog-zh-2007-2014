@@ -1,4 +1,4 @@
-# 威瑞森新的 LTE 推广计划也将惠及 iPhone 用户 TechCrunch
+# 威瑞森新的 LTE 推广计划也将惠及 iPhone 用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/verizons-new-lte-promotion-meant-to-benefit-iphone-users-too/>
 

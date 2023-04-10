@@ -1,4 +1,4 @@
-# Windows Phone 应用可以在 Windows 8 上运行吗？TechCrunch
+# Windows Phone 应用可以在 Windows 8 上运行吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/windows-phone-apps-windows-8/>
 

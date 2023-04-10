@@ -1,4 +1,4 @@
-# 三星 Galaxy S III 评测:这是你一直在等待的手机 TechCrunch
+# 三星 Galaxy S III 评测:这是你一直在等待的手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/samsung-galaxy-s-iii-review/>
 

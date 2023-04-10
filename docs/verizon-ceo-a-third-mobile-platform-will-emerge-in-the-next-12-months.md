@@ -1,4 +1,4 @@
-# 威瑞森首席执行官:第三个移动平台将在未来 12 个月出现 TechCrunch
+# 威瑞森首席执行官:第三个移动平台将在未来 12 个月出现 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/verizon-ceo-a-third-mobile-platform-will-emerge-in-the-next-12-months/>
 

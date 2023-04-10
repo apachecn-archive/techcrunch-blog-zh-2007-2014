@@ -1,4 +1,4 @@
-# 到目前为止，Reddit 说服了大约 6000 名用户订阅 TechCrunch
+# 到目前为止，Reddit 说服了大约 6000 名用户订阅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/13/reddit-gold-update/>
 

@@ -1,4 +1,4 @@
-# 谷歌试图以 2 亿美元收购 Color。颜色说不。TechCrunch
+# 谷歌试图以 2 亿美元收购 Color。颜色说不。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/google-tried-to-buy-color-for-200-million-color-said-no/>
 

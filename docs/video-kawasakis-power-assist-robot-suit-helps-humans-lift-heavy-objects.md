@@ -1,4 +1,4 @@
-# 视频:川崎的助力机器人套装帮助人类举起重物 TechCrunch
+# 视频:川崎的助力机器人套装帮助人类举起重物 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/video-kawasakis-power-assist-robot-suit-helps-humans-lift-heavy-objects/>
 

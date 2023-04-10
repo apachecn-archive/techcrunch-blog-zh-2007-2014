@@ -1,4 +1,4 @@
-# 被脸书拒之门外？您的朋友很快就能帮助您重返 TechCrunch
+# 被脸书拒之门外？您的朋友很快就能帮助您重返 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/locked-out-of-facebook-your-friends-will-soon-be-able-to-unlock-your-account/>
 

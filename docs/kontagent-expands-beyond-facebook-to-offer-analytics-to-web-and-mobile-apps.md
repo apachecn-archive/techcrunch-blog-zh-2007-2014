@@ -1,4 +1,4 @@
-# Kontagent 扩展到脸书以外，为网络和移动应用提供分析技术 TechCrunch
+# Kontagent 扩展到脸书以外，为网络和移动应用提供分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/12/kontagent-expands-beyond-facebook-to-offer-analytics-to-web-and-mobile-apps/>
 

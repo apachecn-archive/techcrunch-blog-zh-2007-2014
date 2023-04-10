@@ -1,4 +1,4 @@
-# 索尼在新任首席执行官的领导下进行重组，迎接后 PC 时代 TechCrunch
+# 索尼在新任首席执行官的领导下进行重组，迎接后 PC 时代 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/27/sony-shakes-things-up-under-new-ceo-reorganizes-for-the-post-pc-era/>
 

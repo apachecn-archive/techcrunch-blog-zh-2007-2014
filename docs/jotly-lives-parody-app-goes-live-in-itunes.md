@@ -1,4 +1,4 @@
-# 快乐地生活！模仿应用在 iTunes 中上线 TechCrunch
+# 快乐地生活！模仿应用在 iTunes 中上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/jotly-lives-parody-app-goes-live-in-itunes/>
 

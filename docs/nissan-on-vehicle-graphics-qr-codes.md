@@ -1,4 +1,4 @@
-# 日产在车窗贴纸上贴二维码 TechCrunch
+# 日产在车窗贴纸上贴二维码 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/nissan-on-vehicle-graphics-qr-codes/>
 

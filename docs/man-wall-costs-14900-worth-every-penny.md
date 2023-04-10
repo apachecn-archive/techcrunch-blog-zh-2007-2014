@@ -1,4 +1,4 @@
-# Man Wall 价值 1.5 万美元-物有所值 TechCrunch
+# Man Wall 价值 1.5 万美元-物有所值 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/07/01/man-wall-costs-14900-worth-every-penny/>
 

@@ -1,4 +1,4 @@
-# 西雅图苹果店被抢 TechCrunch
+# 西雅图苹果店被抢 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/23/apple-store-in-seattle-gets-robbed/>
 

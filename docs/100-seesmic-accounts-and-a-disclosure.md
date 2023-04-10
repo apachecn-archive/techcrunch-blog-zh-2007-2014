@@ -1,4 +1,4 @@
-# 100 个 Seesmic 账户和一份披露 TechCrunch
+# 100 个 Seesmic 账户和一份披露 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/20/100-seesmic-accounts-and-a-disclosure/>
 

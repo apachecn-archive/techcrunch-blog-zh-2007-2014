@@ -1,4 +1,4 @@
-# iPad 如何改变在线阅读 TechCrunch
+# iPad 如何改变在线阅读 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/ipad-shifts-reading/>
 

@@ -1,4 +1,4 @@
-# 一张图片展示的威瑞森 iPhone 炒作 TechCrunch
+# 一张图片展示的威瑞森 iPhone 炒作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/10/verizon-iphone-hype/>
 

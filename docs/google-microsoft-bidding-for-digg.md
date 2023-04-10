@@ -1,4 +1,4 @@
-# 谷歌、微软表示准备竞购 Digg TechCrunch
+# 谷歌、微软表示准备竞购 Digg 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/07/google-microsoft-bidding-for-digg/>
 

@@ -1,4 +1,4 @@
-# Braintree 将商户支付扩展到移动应用 TechCrunch
+# Braintree 将商户支付扩展到移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/braintree-extends-merchant-payments-to-mobile-apps/>
 

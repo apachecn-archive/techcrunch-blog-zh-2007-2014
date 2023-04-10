@@ -1,4 +1,4 @@
-# NSA 可能想要移动数据，包括来自愤怒的小鸟和地图的信息 TechCrunch
+# NSA 可能想要移动数据，包括来自愤怒的小鸟和地图的信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/27/nsa-may-want-mobile-data-including-info-from-angry-birds-and-maps/>
 

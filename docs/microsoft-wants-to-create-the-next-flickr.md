@@ -1,4 +1,4 @@
-# 微软想创造下一个 Flickr TechCrunch
+# 微软想创造下一个 Flickr 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/10/microsoft-wants-to-create-the-next-flickr/>
 

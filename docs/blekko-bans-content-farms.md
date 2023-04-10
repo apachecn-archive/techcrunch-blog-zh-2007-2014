@@ -1,4 +1,4 @@
-# Blekko 在其搜索结果中禁止像 Demand Media 的 eHow 这样的内容农场 TechCrunch
+# Blekko 在其搜索结果中禁止像 Demand Media 的 eHow 这样的内容农场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/blekko-bans-content-farms/>
 

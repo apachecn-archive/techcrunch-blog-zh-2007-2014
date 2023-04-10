@@ -1,4 +1,4 @@
-# 间谍拥有自己的 MySpace TechCrunch
+# 间谍拥有自己的 MySpace 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/spooks-get-their-own-myspace/>
 

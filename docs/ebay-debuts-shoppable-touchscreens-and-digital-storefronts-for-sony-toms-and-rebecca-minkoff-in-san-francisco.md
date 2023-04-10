@@ -1,4 +1,4 @@
-# 易贝在三藩市为索尼、Toms 和 Rebecca Minkoff 推出可购物触摸屏和数字店面 TechCrunch
+# 易贝在三藩市为索尼、Toms 和 Rebecca Minkoff 推出可购物触摸屏和数字店面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/20/ebay-debuts-shoppable-touchscreens-and-digital-storefronts-for-sony-toms-and-rebecca-minkoff-in-san-francisco/>
 

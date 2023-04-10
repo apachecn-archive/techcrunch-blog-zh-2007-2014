@@ -1,4 +1,4 @@
-# 地图趋势显示移动和应用增长超过浏览器 TechCrunch
+# 地图趋势显示移动和应用增长超过浏览器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/map-trends-show-mobile-and-app-growth-outpacing-browsers/>
 

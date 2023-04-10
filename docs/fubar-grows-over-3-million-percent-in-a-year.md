@@ -1,4 +1,4 @@
-# Fubar 一年增长超过 300 万 TechCrunch
+# Fubar 一年增长超过 300 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/07/fubar-grows-over-3-million-percent-in-a-year/>
 

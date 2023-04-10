@@ -1,4 +1,4 @@
-# 万圣节的 Twitter 技巧和款待 TechCrunch
+# 万圣节的 Twitter 技巧和款待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/30/twitter-tricks-and-treats-for-halloween/>
 

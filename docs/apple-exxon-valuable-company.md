@@ -1,4 +1,4 @@
-# 苹果超越埃克森成为世界上最有价值的上市公司 TechCrunch
+# 苹果超越埃克森成为世界上最有价值的上市公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/apple-exxon-valuable-company/>
 

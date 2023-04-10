@@ -1,4 +1,4 @@
-# 社交游戏网络 PapayaMobile 拥有 2500 万用户 TechCrunch
+# 社交游戏网络 PapayaMobile 拥有 2500 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/social-gaming-network-papayamobile-hits-25m-users/>
 

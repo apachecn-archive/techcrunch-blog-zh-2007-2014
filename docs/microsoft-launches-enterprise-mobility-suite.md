@@ -1,4 +1,4 @@
-# 微软推出企业移动套件 TechCrunch
+# 微软推出企业移动套件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/microsoft-launches-enterprise-mobility-suite/>
 

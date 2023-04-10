@@ -1,4 +1,4 @@
-# Ebay 在市场上的强劲增长超出预期，Q2 收入增长 23%，达到 34 亿美元 TechCrunch
+# Ebay 在市场上的强劲增长超出预期，Q2 收入增长 23%，达到 34 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/18/ebay-beats-forecasts-on-strong-marketplace-growth-q2-revenue-up-23-percent-to-3-4b/>
 

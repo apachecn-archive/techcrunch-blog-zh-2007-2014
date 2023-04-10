@@ -1,4 +1,4 @@
-# 移动医疗:远程病人监护正在兴起，智能手机引领潮流 TechCrunch
+# 移动医疗:远程病人监护正在兴起，智能手机引领潮流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/08/mhealth-remote-patient-monitoring-is-on-the-rise-with-smartphones-leading-the-way/>
 

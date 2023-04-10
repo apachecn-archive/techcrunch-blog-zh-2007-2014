@@ -1,4 +1,4 @@
-# 刷洗牙刷 TechCrunch
+# 刷洗牙刷 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/08/31/brush-and-rinse-toothbrush/>
 

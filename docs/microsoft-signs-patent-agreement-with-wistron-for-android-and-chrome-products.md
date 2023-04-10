@@ -1,4 +1,4 @@
-# 微软与纬创签订 Android 和 Chrome 产品专利协议 TechCrunch
+# 微软与纬创签订 Android 和 Chrome 产品专利协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/05/microsoft-signs-patent-agreement-with-wistron-for-android-and-chrome-products/>
 

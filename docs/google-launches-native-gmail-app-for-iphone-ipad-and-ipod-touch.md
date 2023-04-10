@@ -1,4 +1,4 @@
-# 谷歌推出适用于 iPhone、iPad 和 iPod Touch 的原生 Gmail 应用程序，立即面临抵制 TechCrunch
+# 谷歌推出适用于 iPhone、iPad 和 iPod Touch 的原生 Gmail 应用程序，立即面临抵制 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/google-launches-native-gmail-app-for-iphone-ipad-and-ipod-touch/>
 

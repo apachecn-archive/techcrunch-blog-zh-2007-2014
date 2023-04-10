@@ -1,4 +1,4 @@
-# Mac OSX 豹:值得等待 TechCrunch
+# Mac OSX 豹:值得等待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/26/mac-osx-leopard-worth-the-wait/>
 

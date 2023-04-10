@@ -1,4 +1,4 @@
-# Apigee 披露了一笔 2050 万美元的股票交易，用于收购预测分析公司 insight sone TechCrunch
+# Apigee 披露了一笔 2050 万美元的股票交易，用于收购预测分析公司 insight sone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/08/apigee-discloses-20-5m-stock-transaction-to-pay-for-predictive-analytics-company-insightsone/>
 

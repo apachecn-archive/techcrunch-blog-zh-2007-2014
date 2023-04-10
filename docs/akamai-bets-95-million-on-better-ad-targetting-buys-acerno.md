@@ -1,4 +1,4 @@
-# Akamai 下注 9500 万美元，以更好地定位广告；收购 acerno TechCrunch
+# Akamai 下注 9500 万美元，以更好地定位广告；收购 acerno 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/21/akamai-bets-95-million-on-better-ad-targetting-buys-acerno/>
 

@@ -1,4 +1,4 @@
-# AngelPad 的第三个演示日:15 家创业公司起飞 TechCrunch
+# AngelPad 的第三个演示日:15 家创业公司起飞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/angelpads-third-demo-day-fifteen-startups-take-flight/>
 

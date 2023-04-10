@@ -1,4 +1,4 @@
-# 三星要求苹果交出 iPhone 4S 源代码 TechCrunch
+# 三星要求苹果交出 iPhone 4S 源代码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/samsung-asks-apple-to-hand-over-iphone-4s-source-code/>
 

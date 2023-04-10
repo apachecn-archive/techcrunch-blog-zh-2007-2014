@@ -1,4 +1,4 @@
-# MacBook Air 杀手？首批搭载超高价格标签的电脑超极本 TechCrunch
+# MacBook Air 杀手？首批搭载超高价格标签的电脑超极本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/27/macbook-air-killers-first-batch-of-pc-ultrabooks-to-carry-an-ultra-pricetag/>
 

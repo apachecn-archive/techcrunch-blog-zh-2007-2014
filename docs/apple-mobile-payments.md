@@ -1,4 +1,4 @@
-# 苹果的下一个重大战略机遇可能是移动支付 TechCrunch
+# 苹果的下一个重大战略机遇可能是移动支付 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/01/apple-mobile-payments/>
 

@@ -1,4 +1,4 @@
-# Pinterest 为公司、网站验证、小工具和访问新功能推出新的商业术语 TechCrunch
+# Pinterest 为公司、网站验证、小工具和访问新功能推出新的商业术语 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/14/pinterest-launches-new-business-terms-for-companies-website-verification-widgets-and-access-to-new-features/>
 

@@ -1,4 +1,4 @@
-# TCTV:手握 Kindle Fire TechCrunch
+# TCTV:手握 Kindle Fire 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/tctv-hands-on-with-the-kindle-fire/>
 

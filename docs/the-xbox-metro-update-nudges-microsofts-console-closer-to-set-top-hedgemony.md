@@ -1,4 +1,4 @@
-# Xbox Metro 更新将微软的游戏机推向机顶盒霸权 TechCrunch
+# Xbox Metro 更新将微软的游戏机推向机顶盒霸权 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/04/the-xbox-metro-update-nudges-microsofts-console-closer-to-set-top-hedgemony/>
 

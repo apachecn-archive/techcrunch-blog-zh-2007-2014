@@ -1,4 +1,4 @@
-# 华尔街的混乱:四万亿美元付诸东流 TechCrunch
+# 华尔街的混乱:四万亿美元付诸东流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/16/the-mess-on-wall-street-four-trillion-dollars-down-the-drain/>
 

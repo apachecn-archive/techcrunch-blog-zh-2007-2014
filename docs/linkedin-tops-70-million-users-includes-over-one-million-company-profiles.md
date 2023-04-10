@@ -1,4 +1,4 @@
-# LinkedIn 突破 7000 万用户；包括超过 100 万份公司简介 TechCrunch
+# LinkedIn 突破 7000 万用户；包括超过 100 万份公司简介 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/20/linkedin-tops-70-million-users-includes-over-one-million-company-profiles/>
 

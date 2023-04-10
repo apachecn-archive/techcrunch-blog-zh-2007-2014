@@ -1,4 +1,4 @@
-# Better Place 董事会悄悄撤换首席执行官沙伊·阿加西，任命埃文·索恩利执掌 TechCrunch
+# Better Place 董事会悄悄撤换首席执行官沙伊·阿加西，任命埃文·索恩利执掌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/17/better-place-board-quietly-removes-ceo-shai-agassi-places-evan-thornley-at-helm/>
 

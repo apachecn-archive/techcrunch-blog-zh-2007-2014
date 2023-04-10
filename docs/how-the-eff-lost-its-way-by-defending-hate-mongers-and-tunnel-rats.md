@@ -1,4 +1,4 @@
-# EFF 是如何因维护仇恨贩子和隧道鼠而迷失方向的 TechCrunch
+# EFF 是如何因维护仇恨贩子和隧道鼠而迷失方向的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/16/how-the-eff-lost-its-way-by-defending-hate-mongers-and-tunnel-rats/>
 

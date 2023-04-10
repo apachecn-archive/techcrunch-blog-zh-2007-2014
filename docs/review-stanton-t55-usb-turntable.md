@@ -1,4 +1,4 @@
-# 点评:Stanton T.55 USB 转盘 TechCrunch
+# 点评:Stanton T.55 USB 转盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/28/review-stanton-t55-usb-turntable/>
 

@@ -1,4 +1,4 @@
-# 脸书增长在全球呈爆炸式增长，在美国趋于平稳 TechCrunch
+# 脸书增长在全球呈爆炸式增长，在美国趋于平稳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/23/facebook-growth-explodes-globally-levels-off-in-the-us/>
 

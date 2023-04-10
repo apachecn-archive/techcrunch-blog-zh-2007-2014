@@ -1,4 +1,4 @@
-# 卡片:为什么亚马逊*必须*现在就生产安卓设备 TechCrunch
+# 卡片:为什么亚马逊*必须*现在就生产安卓设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/23/amazon-android-device/>
 

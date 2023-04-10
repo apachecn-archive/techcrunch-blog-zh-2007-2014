@@ -1,4 +1,4 @@
-# 点评:是的，完美的俯卧撑 TechCrunch
+# 点评:是的，完美的俯卧撑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/review-yes-the-perfect-pushup/>
 

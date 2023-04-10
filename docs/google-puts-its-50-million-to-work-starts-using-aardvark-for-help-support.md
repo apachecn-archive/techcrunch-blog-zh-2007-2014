@@ -1,4 +1,4 @@
-# 谷歌投入 5000 万美元，开始使用 Aardvark 寻求帮助支持 TechCrunch
+# 谷歌投入 5000 万美元，开始使用 Aardvark 寻求帮助支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/16/google-puts-its-50-million-to-work-starts-using-aardvark-for-help-support/>
 

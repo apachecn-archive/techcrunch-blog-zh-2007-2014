@@ -1,4 +1,4 @@
-# 死池观察:在筹集了 1000 万美元后，社交电视初创公司 BeeTV 步履蹒跚 TechCrunch
+# 死池观察:在筹集了 1000 万美元后，社交电视初创公司 BeeTV 步履蹒跚 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/deadpool-watch-after-raising-10m-social-tv-startup-beetv-falters/>
 

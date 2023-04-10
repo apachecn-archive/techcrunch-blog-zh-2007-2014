@@ -1,4 +1,4 @@
-# Seesmic 宣布 600 万美元 A 轮融资 TechCrunch
+# Seesmic 宣布 600 万美元 A 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/14/seesmic-announces-6-million-series-a-round/>
 

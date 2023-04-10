@@ -1,4 +1,4 @@
-# SoundCloud 推出超酷的现场录音功能和 iPhone 应用程序 TechCrunch
+# SoundCloud 推出超酷的现场录音功能和 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/soundcloud-launches-super-cool-ability-to-record-on-site-and-iphone-app/>
 

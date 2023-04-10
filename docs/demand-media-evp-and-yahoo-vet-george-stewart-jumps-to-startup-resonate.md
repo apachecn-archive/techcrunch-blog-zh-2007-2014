@@ -1,4 +1,4 @@
-# Demand Media 执行副总裁和雅虎资深员工乔治·斯图尔特跳槽到初创公司共鸣 TechCrunch
+# Demand Media 执行副总裁和雅虎资深员工乔治·斯图尔特跳槽到初创公司共鸣 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/01/demand-media-evp-and-yahoo-vet-george-stewart-jumps-to-startup-resonate/>
 

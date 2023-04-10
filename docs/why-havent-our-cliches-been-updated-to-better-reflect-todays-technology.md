@@ -1,4 +1,4 @@
-# 为什么我们的陈词滥调没有更新，以更好地反映当今的技术？TechCrunch
+# 为什么我们的陈词滥调没有更新，以更好地反映当今的技术？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/27/why-havent-our-cliches-been-updated-to-better-reflect-todays-technology/>
 

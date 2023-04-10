@@ -1,4 +1,4 @@
-# 后 pivot，SoundCloud 拥有 300 万注册用户 TechCrunch
+# 后 pivot，SoundCloud 拥有 300 万注册用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/post-pivot-soundcloud-reaches-three-million-registered-users/>
 

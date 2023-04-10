@@ -1,4 +1,4 @@
-# GiveForward 筹集了 50 万美元作为医疗费用的 Kickstarter TechCrunch
+# GiveForward 筹集了 50 万美元作为医疗费用的 Kickstarter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/giveforward-raises-500k-to-be-the-kickstarter-for-medical-expenses/>
 

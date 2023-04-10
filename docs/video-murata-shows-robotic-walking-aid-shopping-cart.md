@@ -1,4 +1,4 @@
-# 视频:村田展示机器人助行器/购物车 TechCrunch
+# 视频:村田展示机器人助行器/购物车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/video-murata-shows-robotic-walking-aid-shopping-cart/>
 

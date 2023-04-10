@@ -1,4 +1,4 @@
-# 点评:Yubz MAGNUM 蓝牙音箱 TechCrunch
+# 点评:Yubz MAGNUM 蓝牙音箱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/14/reveiw-yubz-magnum-bluetooth-speaker/>
 

@@ -1,4 +1,4 @@
-# 爱德华兹参议员:网络中立和开放频谱分配的捍卫者 TechCrunch
+# 爱德华兹参议员:网络中立和开放频谱分配的捍卫者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/19/senator-edwards-defender-of-net-neutrality-and-open-spectrum-allocations/>
 

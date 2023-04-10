@@ -1,4 +1,4 @@
-# Zynga 的 FishVille 因广告违规与鱼共眠 TechCrunch
+# Zynga 的 FishVille 因广告违规与鱼共眠 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/08/zyngas-fishville-swims-with-the-fishes-for-ad-violations/>
 

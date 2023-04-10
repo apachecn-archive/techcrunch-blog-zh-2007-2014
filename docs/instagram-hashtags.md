@@ -1,4 +1,4 @@
-# Instagram 轻点标签捆绑图片；品牌迅速加入 TechCrunch
+# Instagram 轻点标签捆绑图片；品牌迅速加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/27/instagram-hashtags/>
 

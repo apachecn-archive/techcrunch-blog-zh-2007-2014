@@ -1,4 +1,4 @@
-# 走向国际一个月后，社交商务平台 Fancy 筹得 5300 万美元 TechCrunch
+# 走向国际一个月后，社交商务平台 Fancy 筹得 5300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/a-month-after-going-international-social-commerce-platform-fancy-raises-53-million/>
 

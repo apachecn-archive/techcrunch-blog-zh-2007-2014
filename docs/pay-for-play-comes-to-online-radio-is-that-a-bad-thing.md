@@ -1,4 +1,4 @@
-# 付费播放来到在线电台。这是件坏事吗？TechCrunch
+# 付费播放来到在线电台。这是件坏事吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/08/pay-for-play-comes-to-online-radio-is-that-a-bad-thing/>
 

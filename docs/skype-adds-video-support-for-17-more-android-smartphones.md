@@ -1,4 +1,4 @@
-# Skype 为另外 17 款 Android 智能手机增加了视频通话支持 TechCrunch
+# Skype 为另外 17 款 Android 智能手机增加了视频通话支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/skype-adds-video-support-for-17-more-android-smartphones/>
 

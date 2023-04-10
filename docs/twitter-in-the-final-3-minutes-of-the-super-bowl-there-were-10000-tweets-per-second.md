@@ -1,4 +1,4 @@
-# Twitter:在超级碗的最后 3 分钟，每秒有 10，000 条推文 TechCrunch
+# Twitter:在超级碗的最后 3 分钟，每秒有 10，000 条推文 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/05/twitter-in-the-final-3-minutes-of-the-super-bowl-there-were-10000-tweets-per-second/>
 

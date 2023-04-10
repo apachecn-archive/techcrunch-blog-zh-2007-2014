@@ -1,4 +1,4 @@
-# Twitter 首席执行官迪克·科斯特罗害怕什么？外国人。(嗯，为他们缩放。)TechCrunch
+# Twitter 首席执行官迪克·科斯特罗害怕什么？外国人。(嗯，为他们缩放。)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/twitter-ceo-is-scared/>
 

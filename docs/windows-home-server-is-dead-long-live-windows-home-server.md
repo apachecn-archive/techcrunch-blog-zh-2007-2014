@@ -1,4 +1,4 @@
-# Windows Home Server 已死，Windows Home Server 万岁？TechCrunch
+# Windows Home Server 已死，Windows Home Server 万岁？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/windows-home-server-is-dead-long-live-windows-home-server/>
 

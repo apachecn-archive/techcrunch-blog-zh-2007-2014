@@ -1,4 +1,4 @@
-# 等等，手机配件市场值多少钱？TechCrunch
+# 等等，手机配件市场值多少钱？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/26/wait-the-cell-phone-accessory-market-is-worth-how-much/>
 

@@ -1,4 +1,4 @@
-# PHP 创始人拉斯马斯·勒德尔夫离开雅虎 TechCrunch
+# PHP 创始人拉斯马斯·勒德尔夫离开雅虎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/10/php-founder-rasmus-lerdorf-leaves-yahoo/>
 

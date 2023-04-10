@@ -1,4 +1,4 @@
-# Qualtrics 从 Accel 和 Sequoia 融资 7000 万美元:“你没听说过的最大的软件公司”？TechCrunch
+# Qualtrics 从 Accel 和 Sequoia 融资 7000 万美元:“你没听说过的最大的软件公司”？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/qualtrics-raises-70m-accel-sequoia/>
 

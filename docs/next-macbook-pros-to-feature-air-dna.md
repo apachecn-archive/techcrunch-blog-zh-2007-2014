@@ -1,4 +1,4 @@
-# 下一代 MacBook Pros 将采用 Air DNA？TechCrunch
+# 下一代 MacBook Pros 将采用 Air DNA？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/next-macbook-pros-to-feature-air-dna/>
 

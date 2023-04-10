@@ -1,4 +1,4 @@
-# 如何批量导出所有脸书朋友的私人电子邮件地址 TechCrunch
+# 如何批量导出所有脸书朋友的私人电子邮件地址 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/12/how-to-mass-export-all-of-your-facebook-friends-private-email-addresses/>
 

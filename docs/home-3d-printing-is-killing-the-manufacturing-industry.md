@@ -1,4 +1,4 @@
-# 家用 3D 打印正在扼杀制造业 TechCrunch
+# 家用 3D 打印正在扼杀制造业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/02/home-3d-printing-is-killing-the-manufacturing-industry/>
 

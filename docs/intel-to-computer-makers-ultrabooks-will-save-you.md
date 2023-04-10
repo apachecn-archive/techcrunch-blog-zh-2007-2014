@@ -1,4 +1,4 @@
-# 英特尔致电脑制造商:超极本将拯救你 TechCrunch
+# 英特尔致电脑制造商:超极本将拯救你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/19/intel-to-computer-makers-ultrabooks-will-save-you/>
 

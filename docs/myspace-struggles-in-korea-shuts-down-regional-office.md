@@ -1,4 +1,4 @@
-# MySpace 在韩国苦苦挣扎，关闭了地区办公室 TechCrunch
+# MySpace 在韩国苦苦挣扎，关闭了地区办公室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/05/myspace-struggles-in-korea-shuts-down-regional-office/>
 

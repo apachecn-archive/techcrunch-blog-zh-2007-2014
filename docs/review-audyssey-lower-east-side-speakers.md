@@ -1,4 +1,4 @@
-# 点评:奥黛西下东区演讲者 TechCrunch
+# 点评:奥黛西下东区演讲者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/review-audyssey-lower-east-side-speakers/>
 

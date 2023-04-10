@@ -1,4 +1,4 @@
-# 想登上苹果有史以来付费应用排行榜的榜首吗？销售大量应用——或者这样做 TechCrunch
+# 想登上苹果有史以来付费应用排行榜的榜首吗？销售大量应用——或者这样做 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/all-time-top-paid-iphone-apps-maybe/>
 

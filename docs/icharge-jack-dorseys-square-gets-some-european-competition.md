@@ -1,4 +1,4 @@
-# iCharge——杰克·多西受到一些欧洲热 TechCrunch
+# iCharge——杰克·多西受到一些欧洲热 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/11/icharge-jack-dorseys-square-gets-some-european-competition/>
 

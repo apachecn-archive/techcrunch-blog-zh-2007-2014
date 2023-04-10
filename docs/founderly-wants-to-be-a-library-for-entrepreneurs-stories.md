@@ -1,4 +1,4 @@
-# FounderLY 希望成为企业家故事的图书馆 TechCrunch
+# FounderLY 希望成为企业家故事的图书馆 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/05/founderly-wants-to-be-a-library-for-entrepreneurs-stories/>
 

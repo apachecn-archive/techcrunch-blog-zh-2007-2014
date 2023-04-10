@@ -1,4 +1,4 @@
-# 名人和品牌广告初创公司 Ad.ly 推出社交分析平台 TechCrunch
+# 名人和品牌广告初创公司 Ad.ly 推出社交分析平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/celebrity-and-brand-advertising-startup-ad-ly-launches-social-analytics-platform/>
 

@@ -1,4 +1,4 @@
-# 新的社交发现应用 Ntro 发布，获得 170 万美元的资金支持 TechCrunch
+# 新的社交发现应用 Ntro 发布，获得 170 万美元的资金支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/01/new-social-discovery-app-ntro-launches-backed-by-1-7-million-in-funding/>
 

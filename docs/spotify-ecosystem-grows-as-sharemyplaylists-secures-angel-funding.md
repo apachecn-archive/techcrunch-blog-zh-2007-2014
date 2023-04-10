@@ -1,4 +1,4 @@
-# Spotify 生态系统随着 ShareMyPlaylists 获得天使投资而发展 TechCrunch
+# Spotify 生态系统随着 ShareMyPlaylists 获得天使投资而发展 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/spotify-ecosystem-grows-as-sharemyplaylists-secures-angel-funding/>
 

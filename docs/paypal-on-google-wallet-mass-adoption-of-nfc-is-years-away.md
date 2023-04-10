@@ -1,4 +1,4 @@
-# PayPal 对谷歌钱包的障碍:大规模采用 NFC 是几年后的事 TechCrunch
+# PayPal 对谷歌钱包的障碍:大规模采用 NFC 是几年后的事 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/02/paypal-on-google-wallet-mass-adoption-of-nfc-is-years-away/>
 

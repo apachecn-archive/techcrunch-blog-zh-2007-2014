@@ -1,4 +1,4 @@
-# 卡罗尔·巴茨对迈克尔·阿灵顿说:“滚开！”TechCrunch
+# 卡罗尔·巴茨对迈克尔·阿灵顿说:“滚开！”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/05/24/carol-bartz-talkes-with-michael-arrington-at-techcrunch-disrupt/>
 

@@ -1,4 +1,4 @@
-# 媒体行业最大的恐惧是:我们怎么知道明年苹果不会拿走 50%的份额？TechCrunch
+# 媒体行业最大的恐惧是:我们怎么知道明年苹果不会拿走 50%的份额？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/16/media-industry-fear-apple/>
 

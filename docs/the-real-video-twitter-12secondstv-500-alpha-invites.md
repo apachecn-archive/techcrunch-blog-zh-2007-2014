@@ -1,4 +1,4 @@
-# 真实视频 Twitter: 12seconds.tv (500 Alpha 邀请)TechCrunch
+# 真实视频 Twitter: 12seconds.tv (500 Alpha 邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/24/the-real-video-twitter-12secondstv-500-alpha-invites/>
 

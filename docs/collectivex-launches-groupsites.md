@@ -1,4 +1,4 @@
-# CollectiveX 推出群组网站——TechCrunch
+# CollectiveX 推出群组网站——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/collectivex-launches-groupsites/>
 

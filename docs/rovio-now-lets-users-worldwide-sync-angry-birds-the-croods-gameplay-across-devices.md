@@ -1,4 +1,4 @@
-# Rovio 现在允许全球用户跨设备同步愤怒的小鸟，Croods 游戏 TechCrunch
+# Rovio 现在允许全球用户跨设备同步愤怒的小鸟，Croods 游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/19/rovio-now-lets-users-worldwide-sync-angry-birds-the-croods-gameplay-across-devices/>
 

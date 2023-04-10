@@ -1,4 +1,4 @@
-# 京瓷加入安卓手机俱乐部 TechCrunch
+# 京瓷加入安卓手机俱乐部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/21/kyocera-working-on-android-handsets/>
 

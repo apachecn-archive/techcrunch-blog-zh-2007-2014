@@ -1,4 +1,4 @@
-# Mozilla 将登录按钮引入浏览器级别 TechCrunch
+# Mozilla 将登录按钮引入浏览器级别 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/firefox-sign-in/>
 

@@ -1,4 +1,4 @@
-# Zynga 证实将在 1 月底关闭日本业务，因为整合仍在继续影响社交游戏公司 TechCrunch
+# Zynga 证实将在 1 月底关闭日本业务，因为整合仍在继续影响社交游戏公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/21/zynga-to-close-its-japan-operation-at-the-end-of-january-as-company-continues-to-conserve-and-consolidate/>
 

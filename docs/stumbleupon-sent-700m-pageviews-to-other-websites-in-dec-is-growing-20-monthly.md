@@ -1,4 +1,4 @@
-# StumbleUpon 在 12 月向其他网站发送了 7 亿次页面浏览量，每月增长 20% TechCrunch
+# StumbleUpon 在 12 月向其他网站发送了 7 亿次页面浏览量，每月增长 20% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/stumbleupon-sent-700m-pageviews-to-other-websites-in-dec-is-growing-20-monthly/>
 

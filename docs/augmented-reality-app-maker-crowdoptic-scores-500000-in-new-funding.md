@@ -1,4 +1,4 @@
-# 增强现实应用制造商 CrowdOptic 获得 50 万美元新资金 TechCrunch
+# 增强现实应用制造商 CrowdOptic 获得 50 万美元新资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/augmented-reality-app-maker-crowdoptic-scores-500000-in-new-funding/>
 

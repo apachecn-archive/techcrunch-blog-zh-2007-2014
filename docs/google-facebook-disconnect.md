@@ -1,4 +1,4 @@
-# 不可避免！Google Chrome 扩展导出您的脸书联系人 TechCrunch
+# 不可避免！Google Chrome 扩展导出您的脸书联系人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/25/google-facebook-disconnect/>
 

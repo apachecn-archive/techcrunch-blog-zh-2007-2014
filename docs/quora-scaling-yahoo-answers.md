@@ -1,4 +1,4 @@
-# Quora 回答这个问题:你将如何避免成为雅虎问答？TechCrunch
+# Quora 回答这个问题:你将如何避免成为雅虎问答？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/07/quora-scaling-yahoo-answers/>
 

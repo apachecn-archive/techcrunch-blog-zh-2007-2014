@@ -1,4 +1,4 @@
-# Google Ventures 领投 LawPivot 60 万美元，law pivot 是一个提供创业法律建议的 Quora TechCrunch
+# Google Ventures 领投 LawPivot 60 万美元，law pivot 是一个提供创业法律建议的 Quora 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/google-ventures-leads-600k-investment-in-lawpivot-a-quora-for-startup-legal-advice/>
 

@@ -1,4 +1,4 @@
-# 我与美好生活的擦肩而过:戴着价值 7.7 万美元的手表 TechCrunch
+# 我与美好生活的擦肩而过:戴着价值 7.7 万美元的手表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/03/my-brush-with-the-good-life-wearing-a-77000-watch/>
 

@@ -1,4 +1,4 @@
-# Forrester 预测，到 2015 年，三分之一的美国在线消费者将拥有平板电脑 TechCrunch
+# Forrester 预测，到 2015 年，三分之一的美国在线消费者将拥有平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/04/forrester-forecasts-one-third-of-u-s-online-consumers-will-own-a-tablet-by-2015/>
 

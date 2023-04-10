@@ -1,4 +1,4 @@
-# 旧金山与硅谷:你应该在哪里创业？TechCrunch
+# 旧金山与硅谷:你应该在哪里创业？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/san-francisco-vs-silicon-valley-where-should-you-build-your-business/>
 

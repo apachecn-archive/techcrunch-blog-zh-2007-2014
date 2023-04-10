@@ -1,4 +1,4 @@
-# 尼尔森收购营销分析公司 TechCrunch
+# 尼尔森收购营销分析公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/nielsen-acquires-marketing-analytics-inc/>
 

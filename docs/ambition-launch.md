@@ -1,4 +1,4 @@
-# Y Combinator 支持的雄心提供了一种梦幻足球式的方法来激励销售团队 TechCrunch
+# Y Combinator 支持的雄心提供了一种梦幻足球式的方法来激励销售团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/21/ambition-launch/>
 

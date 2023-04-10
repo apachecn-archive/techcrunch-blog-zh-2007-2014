@@ -1,4 +1,4 @@
-# Powerset 寻找新 CEO TechCrunch
+# Powerset 寻找新 CEO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/02/powerset-looking-for-a-new-ceo/>
 

@@ -1,4 +1,4 @@
-# 基于 Appia 的应用商店现在每天有 100 万次下载 TechCrunch
+# 基于 Appia 的应用商店现在每天有 100 万次下载 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/appia-powered-app-stores-now-seeing-1-million-downloads-per-day/>
 

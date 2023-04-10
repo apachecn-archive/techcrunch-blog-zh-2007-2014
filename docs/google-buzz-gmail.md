@@ -1,4 +1,4 @@
-# 不，Buzz 没有被从 Gmail 中删除。不过，它可能会有一个单独的网络应用。TechCrunch
+# 不，Buzz 没有被从 Gmail 中删除。不过，它可能会有一个单独的网络应用。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/12/google-buzz-gmail/>
 

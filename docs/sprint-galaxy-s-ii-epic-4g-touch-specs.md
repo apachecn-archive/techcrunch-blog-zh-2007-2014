@@ -1,4 +1,4 @@
-# Sprint Galaxy S II 照片和规格在发布前几小时泄露 TechCrunch
+# Sprint Galaxy S II 照片和规格在发布前几小时泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/sprint-galaxy-s-ii-epic-4g-touch-specs/>
 

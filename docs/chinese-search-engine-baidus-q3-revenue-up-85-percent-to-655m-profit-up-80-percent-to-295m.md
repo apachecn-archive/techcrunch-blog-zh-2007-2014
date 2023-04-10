@@ -1,4 +1,4 @@
-# 中国搜索引擎百度第三季度收入增长 85 %,达到 6 . 55 亿美元；利润增长 80%，达到 2.95 亿美元 TechCrunch
+# 中国搜索引擎百度第三季度收入增长 85 %,达到 6 . 55 亿美元；利润增长 80%，达到 2.95 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/chinese-search-engine-baidus-q3-revenue-up-85-percent-to-655m-profit-up-80-percent-to-295m/>
 

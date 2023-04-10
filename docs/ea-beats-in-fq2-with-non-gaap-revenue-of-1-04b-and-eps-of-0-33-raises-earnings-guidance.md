@@ -1,4 +1,4 @@
-# 艺电第二季度非 GAAP 收入 10.4 亿美元，每股收益 0.33 美元，提高收益预期 TechCrunch
+# 艺电第二季度非 GAAP 收入 10.4 亿美元，每股收益 0.33 美元，提高收益预期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/ea-beats-in-fq2-with-non-gaap-revenue-of-1-04b-and-eps-of-0-33-raises-earnings-guidance/>
 

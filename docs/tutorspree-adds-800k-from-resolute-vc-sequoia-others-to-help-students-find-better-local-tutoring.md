@@ -1,4 +1,4 @@
-# Tutorspree 从 Resolute 增加了 80 万美元。VC 和其他人帮助学生找到更好的本地辅导 TechCrunch
+# Tutorspree 从 Resolute 增加了 80 万美元。VC 和其他人帮助学生找到更好的本地辅导 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/18/tutorspree-adds-800k-from-resolute-vc-sequoia-others-to-help-students-find-better-local-tutoring/>
 

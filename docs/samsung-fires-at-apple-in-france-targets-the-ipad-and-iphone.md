@@ -1,4 +1,4 @@
-# 三星在法国向苹果开火，目标是 iPad 和 iPhone TechCrunch
+# 三星在法国向苹果开火，目标是 iPad 和 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/samsung-fires-at-apple-in-france-targets-the-ipad-and-iphone/>
 

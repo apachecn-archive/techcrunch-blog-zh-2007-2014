@@ -1,4 +1,4 @@
-# Internet Explorer 8 现已上市 TechCrunch
+# Internet Explorer 8 现已上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/19/internet-explorer-8-available-today/>
 

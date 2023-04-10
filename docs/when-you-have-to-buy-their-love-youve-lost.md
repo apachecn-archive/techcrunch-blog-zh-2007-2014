@@ -1,4 +1,4 @@
-# 当你不得不购买他们的爱时，你就失去了 TechCrunch
+# 当你不得不购买他们的爱时，你就失去了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/07/when-you-have-to-buy-their-love-youve-lost/>
 

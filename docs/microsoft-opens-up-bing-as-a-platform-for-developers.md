@@ -1,4 +1,4 @@
-# 微软开放 Bing 作为开发者平台 TechCrunch
+# 微软开放 Bing 作为开发者平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/26/microsoft-opens-up-bing-as-a-platform-for-developers/>
 

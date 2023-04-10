@@ -1,4 +1,4 @@
-# TechCrunch 赠品:现场乐队演出的 BoxWorks 门票# TechCrunch TechCrunch
+# TechCrunch 赠品:现场乐队演出的 BoxWorks 门票# TechCrunch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/techcrunch-giveaway-tickets-to-boxworks-featuring-third-eye-blind-techcrunch/>
 

@@ -1,4 +1,4 @@
-# FunChat 将文本、聊天、恶作剧、虚拟商品和社交游戏集于一个免费应用 TechCrunch
+# FunChat 将文本、聊天、恶作剧、虚拟商品和社交游戏集于一个免费应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/16/funchat-combines-text-chat-pranks-virtual-goods-and-social-gaming-all-in-one-free-app/>
 

@@ -1,4 +1,4 @@
-# StumbleUpon 将其意外发现带到了 iPhone 和 Android TechCrunch
+# StumbleUpon 将其意外发现带到了 iPhone 和 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/stumbleupon-iphone-android/>
 

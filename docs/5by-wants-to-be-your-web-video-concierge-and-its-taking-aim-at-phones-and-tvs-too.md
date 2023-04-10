@@ -1,4 +1,4 @@
-# 5by 想成为你的网络视频管理员，它也瞄准了手机和电视 TechCrunch
+# 5by 想成为你的网络视频管理员，它也瞄准了手机和电视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/5by-wants-to-be-your-web-video-concierge-and-its-taking-aim-at-phones-and-tvs-too/>
 

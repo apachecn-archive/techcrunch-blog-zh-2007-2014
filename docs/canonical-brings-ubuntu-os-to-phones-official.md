@@ -1,4 +1,4 @@
-# 在调侃了其触摸友好的未来之后，Canonical 正式发布了 Ubuntu 手机操作系统 TechCrunch
+# 在调侃了其触摸友好的未来之后，Canonical 正式发布了 Ubuntu 手机操作系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/02/canonical-brings-ubuntu-os-to-phones-official/>
 

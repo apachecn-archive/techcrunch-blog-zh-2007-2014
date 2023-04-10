@@ -1,4 +1,4 @@
-# 开发者正在为被禁的 Android 应用建立应用商店 TechCrunch
+# 开发者正在为被禁的 Android 应用建立应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/developer-is-building-an-app-store-for-banned-android-apps/>
 

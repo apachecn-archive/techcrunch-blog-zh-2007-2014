@@ -1,4 +1,4 @@
-# Bitsmedia 创始人出售 Frenzapp 应用 TechCrunch
+# Bitsmedia 创始人出售 Frenzapp 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/bitsmedia-founder-puts-frenzapp-apps-up-for-sale/>
 

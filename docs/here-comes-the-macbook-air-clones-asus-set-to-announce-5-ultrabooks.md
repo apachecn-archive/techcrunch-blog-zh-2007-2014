@@ -1,4 +1,4 @@
-# MacBook Air 的克隆产品来了！华硕将发布 5+超极本 TechCrunch
+# MacBook Air 的克隆产品来了！华硕将发布 5+超极本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/here-comes-the-macbook-air-clones-asus-set-to-announce-5-ultrabooks/>
 

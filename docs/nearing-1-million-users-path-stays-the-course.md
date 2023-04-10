@@ -1,4 +1,4 @@
-# Path 拥有近 100 万用户 TechCrunch
+# Path 拥有近 100 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/nearing-1-million-users-path-stays-the-course/>
 

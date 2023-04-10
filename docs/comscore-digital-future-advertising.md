@@ -1,4 +1,4 @@
-# 美国电话电报公司，谷歌最大的在线广告商之一——comScore TechCrunch
+# 美国电话电报公司，谷歌最大的在线广告商之一——comScore 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/09/comscore-digital-future-advertising/>
 

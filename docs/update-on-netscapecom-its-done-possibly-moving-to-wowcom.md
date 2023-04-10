@@ -1,4 +1,4 @@
-# Netscape.com 最新消息:已经完成，可能会搬到 WOW.com。美国在线即将大裁员。TechCrunch
+# Netscape.com 最新消息:已经完成，可能会搬到 WOW.com。美国在线即将大裁员。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/08/31/update-on-netscapecom-its-done-possibly-moving-to-wowcom/>
 

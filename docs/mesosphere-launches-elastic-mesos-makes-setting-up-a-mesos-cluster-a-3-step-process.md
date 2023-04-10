@@ -1,4 +1,4 @@
-# Mesosphere 推出弹性 Mesos，使设置 Mesos 集群的过程分为三步 TechCrunch
+# Mesosphere 推出弹性 Mesos，使设置 Mesos 集群的过程分为三步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/mesosphere-launches-elastic-mesos-makes-setting-up-a-mesos-cluster-a-3-step-process/>
 

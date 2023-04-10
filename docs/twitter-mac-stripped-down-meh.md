@@ -1,4 +1,4 @@
-# 面向 Mac 的 Twitter:剥离和 Meh TechCrunch
+# 面向 Mac 的 Twitter:剥离和 Meh 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/06/twitter-mac-stripped-down-meh/>
 

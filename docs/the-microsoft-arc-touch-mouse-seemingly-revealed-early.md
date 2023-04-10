@@ -1,4 +1,4 @@
-# 微软 Arc 触摸鼠标似乎很早就显露出来了 TechCrunch
+# 微软 Arc 触摸鼠标似乎很早就显露出来了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/the-microsoft-arc-touch-mouse-seemingly-revealed-early/>
 

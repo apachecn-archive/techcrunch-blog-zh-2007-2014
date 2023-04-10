@@ -1,4 +1,4 @@
-# Google Books 增加了手扫描 TechCrunch
+# Google Books 增加了手扫描 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/06/google-books-adds-hand-scans/>
 

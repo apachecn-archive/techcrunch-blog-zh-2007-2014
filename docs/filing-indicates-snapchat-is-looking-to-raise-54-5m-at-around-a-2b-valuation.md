@@ -1,4 +1,4 @@
-# 申请文件显示，Snapchat 正寻求以约 100 亿美元的 2B 估值融资 5450 万美元 TechCrunch
+# 申请文件显示，Snapchat 正寻求以约 100 亿美元的 2B 估值融资 5450 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/05/filing-indicates-snapchat-is-looking-to-raise-54-5m-at-around-a-2b-valuation/>
 

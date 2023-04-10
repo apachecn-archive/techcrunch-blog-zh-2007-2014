@@ -1,4 +1,4 @@
-# 用于 Android 的类似 iPhone 的媒体播放器 TechCrunch
+# 用于 Android 的类似 iPhone 的媒体播放器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/06/tunewiki-makes-android-media-player-that-acts-like-iphone/>
 

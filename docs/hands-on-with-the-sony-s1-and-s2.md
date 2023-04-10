@@ -1,4 +1,4 @@
-# 动手操作索尼 S1 和 S2 TechCrunch
+# 动手操作索尼 S1 和 S2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/hands-on-with-the-sony-s1-and-s2/>
 

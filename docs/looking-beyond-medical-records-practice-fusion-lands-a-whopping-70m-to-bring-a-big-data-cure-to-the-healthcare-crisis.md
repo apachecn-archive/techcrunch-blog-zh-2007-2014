@@ -1,4 +1,4 @@
-# 实践融合获得了 7000 万美元的巨额资金，为医疗危机带来了大数据疗法 TechCrunch
+# 实践融合获得了 7000 万美元的巨额资金，为医疗危机带来了大数据疗法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/looking-beyond-medical-records-practice-fusion-lands-a-whopping-70m-to-bring-a-big-data-cure-to-the-healthcare-crisis/>
 

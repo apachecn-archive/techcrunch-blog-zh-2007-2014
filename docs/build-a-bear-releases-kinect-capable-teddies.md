@@ -1,4 +1,4 @@
-# 打造熊发布支持 Kinect 的泰迪熊 TechCrunch
+# 打造熊发布支持 Kinect 的泰迪熊 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/build-a-bear-releases-kinect-capable-teddies/>
 

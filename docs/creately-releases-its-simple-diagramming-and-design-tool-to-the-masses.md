@@ -1,4 +1,4 @@
-# Creately 向大众发布其简单的图表和设计工具 TechCrunch
+# Creately 向大众发布其简单的图表和设计工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/03/creately-releases-its-simple-diagramming-and-design-tool-to-the-masses/>
 

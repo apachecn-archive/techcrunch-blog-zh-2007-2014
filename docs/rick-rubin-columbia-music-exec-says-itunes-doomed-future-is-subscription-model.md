@@ -1,4 +1,4 @@
-# 哥伦比亚音乐高管里克·鲁宾说 iTunes 注定失败:未来是订阅模式 TechCrunch
+# 哥伦比亚音乐高管里克·鲁宾说 iTunes 注定失败:未来是订阅模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/03/rick-rubin-columbia-music-exec-says-itunes-doomed-future-is-subscription-model/>
 

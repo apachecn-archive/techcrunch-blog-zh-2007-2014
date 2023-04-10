@@ -1,4 +1,4 @@
-# 移动广告正在形成全搜索 TechCrunch
+# 移动广告正在形成全搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/06/mobile-advertising-is-shaping-up-to-be-all-search/>
 

@@ -1,4 +1,4 @@
-# Edmodo 现在拥有 1800 万用户，首次收购 Root-1，成为教育应用市场 TechCrunch
+# Edmodo 现在拥有 1800 万用户，首次收购 Root-1，成为教育应用市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/06/now-18m-users-strong-edmodo-makes-its-first-acquisition-in-root-1-to-become-the-app-market-for-education/>
 

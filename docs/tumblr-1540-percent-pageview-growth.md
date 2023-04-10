@@ -1,4 +1,4 @@
-# 为什么对 Tumblr 这么感兴趣？尝试 1540%的页面浏览量增长 TechCrunch
+# 为什么对 Tumblr 这么感兴趣？尝试 1540%的页面浏览量增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/12/tumblr-1540-percent-pageview-growth/>
 

@@ -1,4 +1,4 @@
-# Seeqpod 开始购买域名，收购谈判接近尾声 TechCrunch
+# Seeqpod 开始购买域名，收购谈判接近尾声 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/09/seeqpod-starts-shopping-domain-name-acquisition-talks-nearing-close/>
 

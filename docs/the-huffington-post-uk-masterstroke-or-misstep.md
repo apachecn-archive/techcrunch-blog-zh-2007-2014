@@ -1,4 +1,4 @@
-# 《赫芬顿邮报》英国版:妙招还是失误？TechCrunch
+# 《赫芬顿邮报》英国版:妙招还是失误？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/the-huffington-post-uk-masterstroke-or-misstep/>
 

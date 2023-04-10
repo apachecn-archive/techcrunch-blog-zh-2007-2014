@@ -1,4 +1,4 @@
-# AnyLeaf 聚合并提供个性化的杂货店交易 TechCrunch
+# AnyLeaf 聚合并提供个性化的杂货店交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/28/anyleaf-aggregates-and-delivers-personalized-grocery-store-deals/>
 

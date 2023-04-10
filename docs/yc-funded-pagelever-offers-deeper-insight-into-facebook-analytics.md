@@ -1,4 +1,4 @@
-# YC 资助的 PageLever 提供了对脸书分析的深入见解 TechCrunch
+# YC 资助的 PageLever 提供了对脸书分析的深入见解 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/yc-funded-pagelever-offers-deeper-insight-into-facebook-analytics/>
 

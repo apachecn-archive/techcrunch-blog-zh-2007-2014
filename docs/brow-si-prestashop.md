@@ -1,4 +1,4 @@
-# 移动网络插件 Brow.si 筹集 100 万美元，与 PrestaShop 合作帮助移动商务坚持 TechCrunch
+# 移动网络插件 Brow.si 筹集 100 万美元，与 PrestaShop 合作帮助移动商务坚持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/27/brow-si-prestashop/>
 

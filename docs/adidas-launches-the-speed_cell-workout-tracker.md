@@ -1,4 +1,4 @@
-# 阿迪达斯推出 SPEED_CELL 运动跟踪器 TechCrunch
+# 阿迪达斯推出 SPEED_CELL 运动跟踪器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/adidas-launches-the-speed_cell-workout-tracker/>
 

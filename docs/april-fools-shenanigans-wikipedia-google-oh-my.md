@@ -1,4 +1,4 @@
-# 愚人节恶作剧:2010 年最终名单 TechCrunch
+# 愚人节恶作剧:2010 年最终名单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/31/april-fools-shenanigans-wikipedia-google-oh-my/>
 

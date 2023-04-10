@@ -1,4 +1,4 @@
-# Elevate 收购 iOS 出版软件制造商 Zipadi TechCrunch
+# Elevate 收购 iOS 出版软件制造商 Zipadi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/elevate-snaps-up-ios-publishing-software-maker-zipadi/>
 

@@ -1,4 +1,4 @@
-# 到 2015 年，移动应用下载量将达到 980 亿 TechCrunch
+# 到 2015 年，移动应用下载量将达到 980 亿 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/mobile-app-downloads-to-reach-98-billion-by-2015/>
 

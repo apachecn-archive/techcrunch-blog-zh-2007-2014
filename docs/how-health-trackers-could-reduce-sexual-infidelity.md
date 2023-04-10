@@ -1,4 +1,4 @@
-# 健康追踪器如何减少性出轨 TechCrunch
+# 健康追踪器如何减少性出轨 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/05/how-health-trackers-could-reduce-sexual-infidelity/>
 

@@ -1,4 +1,4 @@
-# TC50: Cocodot 是更时尚、更漂亮、更社会化的 Evite TechCrunch
+# TC50: Cocodot 是更时尚、更漂亮、更社会化的 Evite 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/tc50-cocodot-is-the-stylish-prettier-more-social-evite/>
 

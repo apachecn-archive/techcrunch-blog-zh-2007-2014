@@ -1,4 +1,4 @@
-# 报告:越来越多的游戏玩家在虚拟商品上使用真金白银；女性更有可能使用脸书信用 TechCrunch
+# 报告:越来越多的游戏玩家在虚拟商品上使用真金白银；女性更有可能使用脸书信用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/report-more-gamers-are-using-real-money-on-virtual-goods-women-more-likely-to-use-facebook-credits/>
 

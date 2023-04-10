@@ -1,4 +1,4 @@
-# Stripe 走向全球，其 API 现在接受 130 种货币的支付 TechCrunch
+# Stripe 走向全球，其 API 现在接受 130 种货币的支付 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/stripe-payments-api-130-currencies/>
 

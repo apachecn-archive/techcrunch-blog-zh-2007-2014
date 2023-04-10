@@ -1,4 +1,4 @@
-# 英国视频游戏盗版去年造成 14.5 亿英镑损失和 1000 个工作岗位 TechCrunch
+# 英国视频游戏盗版去年造成 14.5 亿英镑损失和 1000 个工作岗位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/uk-video-game-piracy-caused-1-45b-in-losses-1000-jobs-last-year/>
 

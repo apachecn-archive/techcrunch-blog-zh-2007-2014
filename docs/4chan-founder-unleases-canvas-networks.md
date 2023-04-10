@@ -1,4 +1,4 @@
-# 4chan 创始人在世界上展开画布 TechCrunch
+# 4chan 创始人在世界上展开画布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/4chan-founder-unleases-canvas-networks/>
 

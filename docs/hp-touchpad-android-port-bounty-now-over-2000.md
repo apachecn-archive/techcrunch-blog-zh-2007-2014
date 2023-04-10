@@ -1,4 +1,4 @@
-# 惠普 TouchPad Android Port Bounty 现已超过 2000 美元 TechCrunch
+# 惠普 TouchPad Android Port Bounty 现已超过 2000 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/hp-touchpad-android-port-bounty-now-over-2000/>
 

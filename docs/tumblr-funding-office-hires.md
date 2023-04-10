@@ -1,4 +1,4 @@
-# Tumblr 的新内容:资金、招聘、办公室、董事会成员以及对时尚的关注 TechCrunch
+# Tumblr 的新内容:资金、招聘、办公室、董事会成员以及对时尚的关注 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/19/tumblr-funding-office-hires/>
 

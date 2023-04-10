@@ -1,4 +1,4 @@
-# Zynga 收购东京初创公司 Unoh TechCrunch
+# Zynga 收购东京初创公司 Unoh 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/04/zynga-buys-tokyo-based-startup-unoh/>
 

@@ -1,4 +1,4 @@
-# YouTube 的 IPL Cricket 播放量接近 5000 万次，打破了内部预期 TechCrunch
+# YouTube 的 IPL Cricket 播放量接近 5000 万次，打破了内部预期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/23/youtubes-ipl-cricket-streams-near-50-million-views-blow-away-internal-expectations/>
 

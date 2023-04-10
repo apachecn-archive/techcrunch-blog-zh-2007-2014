@@ -1,4 +1,4 @@
-# 泄露:这些是诺基亚的新 Windows 手机吗？TechCrunch
+# 泄露:这些是诺基亚的新 Windows 手机吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/leaked-are-these-nokias-new-windows-phones/>
 

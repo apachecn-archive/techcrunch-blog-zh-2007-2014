@@ -1,4 +1,4 @@
-# 体育团购？拥挤座位将每日交易模式引入体育门票 TechCrunch
+# 体育团购？拥挤座位将每日交易模式引入体育门票 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/10/a-groupon-for-sports-crowd-seats-brings-the-daily-deal-model-to-sports-tickets/>
 

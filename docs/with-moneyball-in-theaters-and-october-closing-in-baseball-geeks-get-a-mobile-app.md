@@ -1,4 +1,4 @@
-# 随着 Moneyball 在影院上映和 10 月份的临近，棒球爱好者们有了一个移动应用 TechCrunch
+# 随着 Moneyball 在影院上映和 10 月份的临近，棒球爱好者们有了一个移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/with-moneyball-in-theaters-and-october-closing-in-baseball-geeks-get-a-mobile-app/>
 

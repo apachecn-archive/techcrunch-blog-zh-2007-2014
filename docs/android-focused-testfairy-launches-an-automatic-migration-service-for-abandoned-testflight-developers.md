@@ -1,4 +1,4 @@
-# 专注于 Android 的 TestFairy 为废弃的 TestFlight 开发者推出自动迁移服务 TechCrunch
+# 专注于 Android 的 TestFairy 为废弃的 TestFlight 开发者推出自动迁移服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/android-focused-testfairy-launches-an-automatic-migration-service-for-abandoned-testflight-developers/>
 

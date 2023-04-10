@@ -1,4 +1,4 @@
-# Simplee 接手 Cake Health，首次增加账单支付功能 TechCrunch
+# Simplee 接手 Cake Health，首次增加账单支付功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/the-mint-for-health-insurance-simplee-now-allows-you-to-pay-your-medical-bills-online/>
 

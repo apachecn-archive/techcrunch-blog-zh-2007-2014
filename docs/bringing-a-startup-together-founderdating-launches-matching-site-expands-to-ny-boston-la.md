@@ -1,4 +1,4 @@
-# 将创业公司聚集在一起:FounderDating 推出匹配网站，扩展到纽约、波士顿、洛杉矶 TechCrunch
+# 将创业公司聚集在一起:FounderDating 推出匹配网站，扩展到纽约、波士顿、洛杉矶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/26/bringing-a-startup-together-founderdating-launches-matching-site-expands-to-ny-boston-la/>
 

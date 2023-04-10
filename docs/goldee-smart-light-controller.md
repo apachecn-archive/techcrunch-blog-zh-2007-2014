@@ -1,4 +1,4 @@
-# Goldee 从软件转向众筹一款色调兼容的智能灯开关 TechCrunch
+# Goldee 从软件转向众筹一款色调兼容的智能灯开关 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/26/goldee-smart-light-controller/>
 

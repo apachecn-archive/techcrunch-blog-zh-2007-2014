@@ -1,4 +1,4 @@
-# 2011 年第三季度，M&A 技术交易价值增长 22%，达到 564 亿美元 TechCrunch
+# 2011 年第三季度，M&A 技术交易价值增长 22%，达到 564 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/value-of-tech-ma-deals-up-22-percent-in-q3-2011-to-56-4-billion/>
 

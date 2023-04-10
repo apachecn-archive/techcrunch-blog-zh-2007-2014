@@ -1,4 +1,4 @@
-# 上网本+鼠标=适用于上网本的 Newton Mogo 鼠标 TechCrunch
+# 上网本+鼠标=适用于上网本的 Newton Mogo 鼠标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/06/netbook-mouse-newton-mogo-mouse-for-netbooks/>
 

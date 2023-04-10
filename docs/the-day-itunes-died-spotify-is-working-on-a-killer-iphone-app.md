@@ -1,4 +1,4 @@
-# iTunes 死的那天？Spotify 正在开发一款杀手级 iPhone 应用 TechCrunch
+# iTunes 死的那天？Spotify 正在开发一款杀手级 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/23/the-day-itunes-died-spotify-is-working-on-a-killer-iphone-app/>
 

@@ -1,4 +1,4 @@
-# 你最想去的创业公司是你自己的 TechCrunch
+# 你最想去的创业公司是你自己的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/the-startup-you-want-to-work-at-the-most-is-your-own/>
 

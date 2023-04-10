@@ -1,4 +1,4 @@
-# Google Creative Lab 推出编码器，将 Raspberry Pi 转变为基本的网络开发平台 TechCrunch
+# Google Creative Lab 推出编码器，将 Raspberry Pi 转变为基本的网络开发平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/12/google-creative-labs-launches-coder-to-turn-raspberry-pi-into-a-basic-web-development-platform/>
 

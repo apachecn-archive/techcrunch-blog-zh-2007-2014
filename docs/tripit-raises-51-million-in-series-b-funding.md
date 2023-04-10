@@ -1,4 +1,4 @@
-# TripIt 获得 510 万美元的 B 轮融资 TechCrunch
+# TripIt 获得 510 万美元的 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/17/tripit-raises-51-million-in-series-b-funding/>
 

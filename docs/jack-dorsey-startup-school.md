@@ -1,4 +1,4 @@
-# 杰克·多西给我们读了一些诗歌，还给我们放了一首爵士乐 TechCrunch
+# 杰克·多西给我们读了一些诗歌，还给我们放了一首爵士乐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/19/jack-dorsey-startup-school/>
 

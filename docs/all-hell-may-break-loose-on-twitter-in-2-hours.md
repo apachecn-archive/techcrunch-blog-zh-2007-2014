@@ -1,4 +1,4 @@
-# 推特提升了推特启示录的地位。今天一切都会失控。TechCrunch
+# 推特提升了推特启示录的地位。今天一切都会失控。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/12/all-hell-may-break-loose-on-twitter-in-2-hours/>
 

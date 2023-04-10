@@ -1,4 +1,4 @@
-# 着眼于增长，Just Eat 收购 Meal2Go 向其外卖合作伙伴提供 EPOS 技术 TechCrunch
+# 着眼于增长，Just Eat 收购 Meal2Go 向其外卖合作伙伴提供 EPOS 技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/just-eat-gobbles-meal2go/>
 

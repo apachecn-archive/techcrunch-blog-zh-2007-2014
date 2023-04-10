@@ -1,4 +1,4 @@
-# 伊万·威廉姆斯、罗恩·康韦、卡特里纳真假风险投资公司投资网页排版初创公司小批量 TechCrunch
+# 伊万·威廉姆斯、罗恩·康韦、卡特里纳真假风险投资公司投资网页排版初创公司小批量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/evan-williams-ron-conway-and-caterina-fake-invest-in-web-typography-startup-small-batch/>
 

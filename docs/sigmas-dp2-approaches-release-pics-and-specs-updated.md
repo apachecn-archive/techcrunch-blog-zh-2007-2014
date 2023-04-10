@@ -1,4 +1,4 @@
-# 适马 DP2 接近释放；图片和规格更新 TechCrunch
+# 适马 DP2 接近释放；图片和规格更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/03/sigmas-dp2-approaches-release-pics-and-specs-updated/>
 

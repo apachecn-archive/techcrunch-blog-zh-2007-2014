@@ -1,4 +1,4 @@
-# 来自日本福冈的 2011 年 Myojo-Waraku 节:来自 8 家亚洲创业公司的演示 TechCrunch
+# 来自日本福冈的 2011 年 Myojo-Waraku 节:来自 8 家亚洲创业公司的演示 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/19/from-the-myojo-waraku-2011-festival-in-fukuoka-japan-demos-from-8-asian-startups/>
 

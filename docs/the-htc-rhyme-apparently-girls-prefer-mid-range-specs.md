@@ -1,4 +1,4 @@
-# 宏达押韵:显然女孩更喜欢中档规格 TechCrunch
+# 宏达押韵:显然女孩更喜欢中档规格 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/the-htc-rhyme-apparently-girls-prefer-mid-range-specs/>
 

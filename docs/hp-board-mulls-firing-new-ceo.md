@@ -1,4 +1,4 @@
-# 惠普董事会考虑解雇新 CEO TechCrunch
+# 惠普董事会考虑解雇新 CEO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/hp-board-mulls-firing-new-ceo/>
 

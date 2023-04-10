@@ -1,4 +1,4 @@
-# Read It Later 筹集了 250 万美元，希望成为内容的 Dropbox TechCrunch
+# Read It Later 筹集了 250 万美元，希望成为内容的 Dropbox 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/read-it-later-raises-2-5-million-wants-to-become-the-dropbox-of-content/>
 

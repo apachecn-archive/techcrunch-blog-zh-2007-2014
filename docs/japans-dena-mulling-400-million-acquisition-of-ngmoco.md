@@ -1,4 +1,4 @@
-# 日本 DeNA 考虑以 4 亿多美元收购 ng moco TechCrunch
+# 日本 DeNA 考虑以 4 亿多美元收购 ng moco 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/07/japans-dena-mulling-400-million-acquisition-of-ngmoco/>
 

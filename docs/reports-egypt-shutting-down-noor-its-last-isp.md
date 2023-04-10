@@ -1,4 +1,4 @@
-# 埃及关闭其最后一家 ISP Noor TechCrunch
+# 埃及关闭其最后一家 ISP Noor 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/reports-egypt-shutting-down-noor-its-last-isp/>
 

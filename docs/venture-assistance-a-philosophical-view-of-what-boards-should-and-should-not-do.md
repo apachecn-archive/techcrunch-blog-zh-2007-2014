@@ -1,4 +1,4 @@
-# “创业援助”:关于董事会应该做什么和不应该做什么的哲学观点 TechCrunch
+# “创业援助”:关于董事会应该做什么和不应该做什么的哲学观点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/26/venture-assistance-a-philosophical-view-of-what-boards-should-and-should-not-do/>
 

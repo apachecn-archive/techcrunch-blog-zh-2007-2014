@@ -1,4 +1,4 @@
-# RIM 将于 9 月最终修复 PlayBook 平板电脑、BBM 和原生电子邮件 TechCrunch
+# RIM 将于 9 月最终修复 PlayBook 平板电脑、BBM 和原生电子邮件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/rim-to-finally-fix-the-playbook-tablet-bbm-and-native-email-coming-in-september/>
 

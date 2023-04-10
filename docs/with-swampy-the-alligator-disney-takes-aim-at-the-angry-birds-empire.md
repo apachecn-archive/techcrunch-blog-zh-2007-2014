@@ -1,4 +1,4 @@
-# 凭借《鳄鱼沼泽》,迪士尼瞄准了愤怒的小鸟帝国 TechCrunch
+# 凭借《鳄鱼沼泽》,迪士尼瞄准了愤怒的小鸟帝国 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/with-swampy-the-alligator-disney-takes-aim-at-the-angry-birds-empire/>
 

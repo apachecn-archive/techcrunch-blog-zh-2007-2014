@@ -1,4 +1,4 @@
-# PC 市场超出预期，第三季度下滑 7.6% TechCrunch
+# PC 市场超出预期，第三季度下滑 7.6% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/09/pc-market-beats-expectations-slips-7-6-in-q3/>
 

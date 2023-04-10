@@ -1,4 +1,4 @@
-# MySpace 音乐首席执行官亨特继续说道:脸书的欧文·范·纳塔最佳竞争者 TechCrunch
+# MySpace 音乐首席执行官亨特继续说道:脸书的欧文·范·纳塔最佳竞争者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/12/myspace-music-ceo-hunt-continues-facebooks-owen-van-natta-top-contender/>
 

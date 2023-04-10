@@ -1,4 +1,4 @@
-# 在线存储服务 Backblaze 现在比无限更无限 TechCrunch
+# 在线存储服务 Backblaze 现在比无限更无限 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/online-storage-service-backblaze-now-more-unlimited-than-unlimited/>
 

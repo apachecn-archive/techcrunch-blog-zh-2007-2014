@@ -1,4 +1,4 @@
-# 尽管今年收入 8 . 89 亿美元，Spotify 没有 IPO，但 Ek 不会拒绝更多资金 TechCrunch
+# 尽管今年收入 8 . 89 亿美元，Spotify 没有 IPO，但 Ek 不会拒绝更多资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/13/despite-889m-in-revenue-this-year-theres-no-ipo-in-spotifys-cards-though-ek-wouldnt-say-no-to-more-funding/>
 

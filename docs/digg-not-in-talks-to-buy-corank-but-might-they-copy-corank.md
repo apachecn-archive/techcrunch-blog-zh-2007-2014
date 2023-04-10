@@ -1,4 +1,4 @@
-# Digg/coRank 收购传闻不实，但 Digg 白标业务可能即将到来 TechCrunch
+# Digg/coRank 收购传闻不实，但 Digg 白标业务可能即将到来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/08/digg-not-in-talks-to-buy-corank-but-might-they-copy-corank/>
 

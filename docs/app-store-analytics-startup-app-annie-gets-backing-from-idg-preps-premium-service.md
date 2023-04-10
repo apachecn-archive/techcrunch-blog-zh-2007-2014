@@ -1,4 +1,4 @@
-# App Store 分析初创公司 App Annie 获得 IDG 的支持，准备提供优质服务 TechCrunch
+# App Store 分析初创公司 App Annie 获得 IDG 的支持，准备提供优质服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/app-store-analytics-startup-app-annie-gets-backing-from-idg-preps-premium-service/>
 

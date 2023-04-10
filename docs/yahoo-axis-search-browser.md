@@ -1,4 +1,4 @@
-# 雅虎推出 Axis，这是他们新的(令人印象深刻的)桌面和移动搜索体验 TechCrunch
+# 雅虎推出 Axis，这是他们新的(令人印象深刻的)桌面和移动搜索体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/23/yahoo-axis-search-browser/>
 

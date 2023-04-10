@@ -1,4 +1,4 @@
-# 立即推介:英特尔向年轻创业者奖励 10 万美元，奖励他们出色的商业创意 TechCrunch
+# 立即推介:英特尔向年轻创业者奖励 10 万美元，奖励他们出色的商业创意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/12/pitch-now-intel-awarding-young-entrepreneurs-with-100k-for-whizbang-business-ideas/>
 

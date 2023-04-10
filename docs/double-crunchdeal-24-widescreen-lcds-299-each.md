@@ -1,4 +1,4 @@
-# 双倍 CrunchDeal: 24 英寸宽屏液晶显示器，每台 299 美元 TechCrunch
+# 双倍 CrunchDeal: 24 英寸宽屏液晶显示器，每台 299 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/18/double-crunchdeal-24-widescreen-lcds-299-each/>
 

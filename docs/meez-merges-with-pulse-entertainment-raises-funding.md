@@ -1,4 +1,4 @@
-# Meez 与 Pulse Entertainment 合并，筹集资金 TechCrunch
+# Meez 与 Pulse Entertainment 合并，筹集资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/14/meez-merges-with-pulse-entertainment-raises-funding/>
 

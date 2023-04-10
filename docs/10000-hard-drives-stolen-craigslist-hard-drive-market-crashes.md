@@ -1,4 +1,4 @@
-# 10，000 个硬盘被盗，Craigslist 硬盘市场崩溃 TechCrunch
+# 10，000 个硬盘被盗，Craigslist 硬盘市场崩溃 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/01/10000-hard-drives-stolen-craigslist-hard-drive-market-crashes/>
 

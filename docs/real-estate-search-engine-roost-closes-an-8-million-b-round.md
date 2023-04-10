@@ -1,4 +1,4 @@
-# 房地产搜索引擎 Roost 完成一轮 800 万美元的融资 TechCrunch
+# 房地产搜索引擎 Roost 完成一轮 800 万美元的融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/09/real-estate-search-engine-roost-closes-an-8-million-b-round/>
 

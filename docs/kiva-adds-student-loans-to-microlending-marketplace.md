@@ -1,4 +1,4 @@
-# Kiva 将学生贷款加入小额贷款市场 TechCrunch
+# Kiva 将学生贷款加入小额贷款市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/20/kiva-adds-student-loans-to-microlending-marketplace/>
 

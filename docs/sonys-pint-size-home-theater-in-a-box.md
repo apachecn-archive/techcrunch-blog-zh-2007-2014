@@ -1,4 +1,4 @@
-# 索尼的盒装小型家庭影院 TechCrunch
+# 索尼的盒装小型家庭影院 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/sonys-pint-size-home-theater-in-a-box/>
 

@@ -1,4 +1,4 @@
-# 黑莓互联网中断袭击欧洲、中东和非洲 TechCrunch
+# 黑莓互联网中断袭击欧洲、中东和非洲 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/blackberry-internet-outage-hits-europe-middle-east-africa/>
 

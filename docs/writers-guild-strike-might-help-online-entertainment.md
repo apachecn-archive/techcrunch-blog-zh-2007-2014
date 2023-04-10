@@ -1,4 +1,4 @@
-# 作家协会罢工可能有助于在线娱乐？TechCrunch
+# 作家协会罢工可能有助于在线娱乐？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/02/writers-guild-strike-might-help-online-entertainment/>
 

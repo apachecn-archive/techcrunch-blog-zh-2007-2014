@@ -1,4 +1,4 @@
-# AtVenu 获得 110 万美元，帮助乐队、艺术家和唱片公司在展会上销售他们的商品 TechCrunch
+# AtVenu 获得 110 万美元，帮助乐队、艺术家和唱片公司在展会上销售他们的商品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/atvenu-seed-funding/>
 

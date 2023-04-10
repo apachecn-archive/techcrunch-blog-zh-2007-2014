@@ -1,4 +1,4 @@
-# 接近盈利，YouTube 点击 5 亿次推广视频观看 TechCrunch
+# 接近盈利，YouTube 点击 5 亿次推广视频观看 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/28/nearing-profitability-youtube-hits-500-million-promoted-video-views/>
 

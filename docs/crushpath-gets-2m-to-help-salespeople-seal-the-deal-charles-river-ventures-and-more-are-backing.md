@@ -1,4 +1,4 @@
-# Crushpath 获得 2M 的美元帮助销售人员达成交易:Charles River Ventures 和更多公司支持 TechCrunch
+# Crushpath 获得 2M 的美元帮助销售人员达成交易:Charles River Ventures 和更多公司支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/19/crushpath-gets-2m-to-help-salespeople-seal-the-deal-charles-river-ventures-and-more-are-backing/>
 

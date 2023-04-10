@@ -1,4 +1,4 @@
-# CashStar 获得 1200 万美元，让您的客户发送移动、社交和电子贺卡 TechCrunch
+# CashStar 获得 1200 万美元，让您的客户发送移动、社交和电子贺卡 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/cashstar-lands-12-million-to-let-your-customers-send-mobile-social-and-egift-cards/>
 

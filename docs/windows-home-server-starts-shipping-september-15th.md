@@ -1,4 +1,4 @@
-# Windows Home Server 于 9 月 15 日开始发售？TechCrunch
+# Windows Home Server 于 9 月 15 日开始发售？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/22/windows-home-server-starts-shipping-september-15th/>
 

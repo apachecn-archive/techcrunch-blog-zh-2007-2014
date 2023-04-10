@@ -1,4 +1,4 @@
-# Doo.net 让￼$6.8M 彻底改造办公室文书工作——哦对了 TechCrunch
+# Doo.net 让￼$6.8M 彻底改造办公室文书工作——哦对了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/02/doo-net-gets-%ef%bf%bc6-8m-to-reinvent-office-paperwork-oh-yes/>
 

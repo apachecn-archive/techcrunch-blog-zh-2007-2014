@@ -1,4 +1,4 @@
-# 大品牌希望在 Instagram 上投放广告，但脸书目前专注于增长 TechCrunch
+# 大品牌希望在 Instagram 上投放广告，但脸书目前专注于增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/big-brands-want-ads-on-instagram-but-facebook-is-waiting-until-growth-slows/>
 

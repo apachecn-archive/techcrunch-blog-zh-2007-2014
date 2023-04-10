@@ -1,4 +1,4 @@
-# 日本乐天:你从未听说过的最大电子商务网站会成为亚马逊全球的威胁吗？TechCrunch
+# 日本乐天:你从未听说过的最大电子商务网站会成为亚马逊全球的威胁吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/05/japans-rakuten-can-the-biggest-e-commerce-site-you-never-heard-of-become-a-threat-for-amazon-globally-2/>
 

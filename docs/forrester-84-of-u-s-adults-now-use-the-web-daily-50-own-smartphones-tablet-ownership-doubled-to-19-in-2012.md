@@ -1,4 +1,4 @@
-# Forrester: 84%的美国成年人现在每天使用网络，50%的人拥有智能手机，平板电脑的拥有率在 2012 年翻了一番，达到 19% TechCrunch
+# Forrester: 84%的美国成年人现在每天使用网络，50%的人拥有智能手机，平板电脑的拥有率在 2012 年翻了一番，达到 19% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/19/forrester-84-of-u-s-adults-now-use-the-web-daily-50-own-smartphones-tablet-ownership-doubled-to-19-in-2012/>
 

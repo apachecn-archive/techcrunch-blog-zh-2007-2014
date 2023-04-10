@@ -1,4 +1,4 @@
-# 机器人吸尘器:Roomba，Smarbo，现在是智能手机控制的机器人 TechCrunch
+# 机器人吸尘器:Roomba，Smarbo，现在是智能手机控制的机器人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/robot-vacuums-roomba-smarbo-and-now-the-smartphone-controlled-roboking/>
 

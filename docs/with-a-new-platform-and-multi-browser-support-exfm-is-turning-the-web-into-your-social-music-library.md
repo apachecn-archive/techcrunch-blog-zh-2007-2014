@@ -1,4 +1,4 @@
-# 凭借新平台和多浏览器支持，exfm 将网络变成您的社交音乐库 TechCrunch
+# 凭借新平台和多浏览器支持，exfm 将网络变成您的社交音乐库 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/with-a-new-platform-and-multi-browser-support-exfm-is-turning-the-web-into-your-social-music-library/>
 

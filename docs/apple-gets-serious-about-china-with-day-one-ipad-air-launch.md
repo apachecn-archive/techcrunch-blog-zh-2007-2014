@@ -1,4 +1,4 @@
-# 苹果首次在中国发布 iPad Air TechCrunch
+# 苹果首次在中国发布 iPad Air 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/22/apple-gets-serious-about-china-with-day-one-ipad-air-launch/>
 

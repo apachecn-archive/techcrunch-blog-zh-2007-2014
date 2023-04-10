@@ -1,4 +1,4 @@
-# 百思买启动 PlayBook 销售，降价 200 美元 TechCrunch
+# 百思买启动 PlayBook 销售，降价 200 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/best-buy-kicks-off-playbook-sale-cuts-prices-by-200/>
 

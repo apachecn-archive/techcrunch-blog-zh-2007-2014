@@ -1,4 +1,4 @@
-# Pogoplug 推出面向移动设备流媒体的新硬件 TechCrunch
+# Pogoplug 推出面向移动设备流媒体的新硬件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/pogoplug-debuts-new-hardware-for-streaming-to-mobile-devices/>
 

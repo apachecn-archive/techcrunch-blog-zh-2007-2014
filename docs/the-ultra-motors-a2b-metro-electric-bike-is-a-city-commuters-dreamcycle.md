@@ -1,4 +1,4 @@
-# Hero Eco A2B 地铁电动自行车是城市通勤者的梦想 TechCrunch
+# Hero Eco A2B 地铁电动自行车是城市通勤者的梦想 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/25/the-ultra-motors-a2b-metro-electric-bike-is-a-city-commuters-dreamcycle/>
 

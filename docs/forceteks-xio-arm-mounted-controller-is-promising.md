@@ -1,4 +1,4 @@
-# Forcetek 的 Xio 臂装控制器是...有前途？TechCrunch
+# Forcetek 的 Xio 臂装控制器是...有前途？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/17/forceteks-xio-arm-mounted-controller-is-promising/>
 

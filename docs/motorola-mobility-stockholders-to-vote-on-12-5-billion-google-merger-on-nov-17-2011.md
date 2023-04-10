@@ -1,4 +1,4 @@
-# 摩托罗拉移动股东将于 2011 年 11 月 17 日就价值 125 亿美元的谷歌合并案投票 TechCrunch
+# 摩托罗拉移动股东将于 2011 年 11 月 17 日就价值 125 亿美元的谷歌合并案投票 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/motorola-mobility-stockholders-to-vote-on-12-5-billion-google-merger-on-nov-17-2011/>
 

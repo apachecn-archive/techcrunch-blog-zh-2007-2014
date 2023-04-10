@@ -1,4 +1,4 @@
-# 放手比较:尼康 D7000 和 P7000 与佳能 60D 和 G12 TechCrunch
+# 放手比较:尼康 D7000 和 P7000 与佳能 60D 和 G12 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/15/hands-off-comparison-nikon-d7000-and-p7000-vs-canon-60d-and-g12/>
 

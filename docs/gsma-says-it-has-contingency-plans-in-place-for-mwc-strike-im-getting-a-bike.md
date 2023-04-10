@@ -1,4 +1,4 @@
-# GSMA 说，已经为 MWC 罢工制定了“应急计划”。我要买辆自行车 TechCrunch
+# GSMA 说，已经为 MWC 罢工制定了“应急计划”。我要买辆自行车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/17/gsma-says-it-has-contingency-plans-in-place-for-mwc-strike-im-getting-a-bike/>
 

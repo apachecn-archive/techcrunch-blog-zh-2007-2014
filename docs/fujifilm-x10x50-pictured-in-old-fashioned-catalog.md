@@ -1,4 +1,4 @@
-# 富士 X10/X50 以老式目录风格泄露 TechCrunch
+# 富士 X10/X50 以老式目录风格泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/fujifilm-x10x50-pictured-in-old-fashioned-catalog/>
 

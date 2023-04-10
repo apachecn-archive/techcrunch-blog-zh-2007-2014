@@ -1,4 +1,4 @@
-# MapBox 获得 Foundry Group 1000 万美元的 A 轮投资，打造交互式移动地图的未来 TechCrunch
+# MapBox 获得 Foundry Group 1000 万美元的 A 轮投资，打造交互式移动地图的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/16/mapbox-closes-10m-series-a-from-foundry-group-to-build-the-future-of-interactive-mobile-maps/>
 

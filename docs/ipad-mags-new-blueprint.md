@@ -1,4 +1,4 @@
-# iPad 杂志需要新蓝图 TechCrunch
+# iPad 杂志需要新蓝图 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/30/ipad-mags-new-blueprint/>
 

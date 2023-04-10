@@ -1,4 +1,4 @@
-# iOS 6.0.1 在发布 24 小时后已经占据了 7.5%的 iOS 流量 TechCrunch
+# iOS 6.0.1 在发布 24 小时后已经占据了 7.5%的 iOS 流量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/02/ios-6-0-1-already-accounts-for-7-5-of-ios-traffic-24-hours-after-release/>
 

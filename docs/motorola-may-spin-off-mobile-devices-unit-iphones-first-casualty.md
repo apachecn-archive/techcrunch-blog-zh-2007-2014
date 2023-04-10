@@ -1,4 +1,4 @@
-# 摩托罗拉可能分拆移动设备部门:iPhone 的第一个受害者？TechCrunch
+# 摩托罗拉可能分拆移动设备部门:iPhone 的第一个受害者？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/31/motorola-may-spin-off-mobile-devices-unit-iphones-first-casualty/>
 

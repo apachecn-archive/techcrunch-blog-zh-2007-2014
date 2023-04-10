@@ -1,4 +1,4 @@
-# 惠普发布两款新台式电脑:Omni 一体机和 HPE H9 Phoenix TechCrunch
+# 惠普发布两款新台式电脑:Omni 一体机和 HPE H9 Phoenix 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/hp-unveils-two-new-desktop-pcs-the-omni-all-in-one-and-the-hpe-h9-phoenix/>
 

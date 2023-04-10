@@ -1,4 +1,4 @@
-# GENWI 为平板电脑和智能手机的云发布平台筹集了 400 万美元 TechCrunch
+# GENWI 为平板电脑和智能手机的云发布平台筹集了 400 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/11/genwi-raises-4m-for-cloud-publishing-platform-for-tablets-smartphones/>
 

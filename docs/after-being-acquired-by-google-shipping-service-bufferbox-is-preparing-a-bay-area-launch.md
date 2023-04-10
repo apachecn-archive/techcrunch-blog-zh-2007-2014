@@ -1,4 +1,4 @@
-# 被谷歌收购后，运输服务 Bufferbox 正准备在旧金山湾区推出 TechCrunch
+# 被谷歌收购后，运输服务 Bufferbox 正准备在旧金山湾区推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/after-being-acquired-by-google-shipping-service-bufferbox-is-preparing-a-bay-area-launch/>
 

@@ -1,4 +1,4 @@
-# ThoughtSpot 从 Lightspeed 融资 1070 万美元，为企业提供智能搜索和数据可视化技术 TechCrunch
+# ThoughtSpot 从 Lightspeed 融资 1070 万美元，为企业提供智能搜索和数据可视化技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/thoughtspot-raises-10-7m-from-lightspeed-to-offer-intelligent-search-and-data-visualization-to-the-enterprise/>
 

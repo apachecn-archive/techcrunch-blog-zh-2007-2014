@@ -1,4 +1,4 @@
-# 谷歌音乐:Ticketmaster 和脸书在想什么？TechCrunch
+# 谷歌音乐:Ticketmaster 和脸书在想什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/29/google-music-what-were-ticketmaster-and-facebook-thinking/>
 

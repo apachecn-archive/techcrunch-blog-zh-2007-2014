@@ -1,4 +1,4 @@
-# Meebo 现在在网络上拥有 2.5 亿用户 TechCrunch
+# Meebo 现在在网络上拥有 2.5 亿用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/meebo-reaches-250-million-people/>
 

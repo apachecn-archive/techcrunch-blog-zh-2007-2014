@@ -1,4 +1,4 @@
-# 周六早上:我在看 tube cast——TechCrunch
+# 周六早上:我在看 tube cast——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/25/saturday-morning-im-watching-tubecast/>
 

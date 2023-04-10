@@ -1,4 +1,4 @@
-# 谷歌电子书:电子阅读走向云端 TechCrunch
+# 谷歌电子书:电子阅读走向云端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/06/google-ebooks-e-reading-takes-to-the-cloud/>
 

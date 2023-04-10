@@ -1,4 +1,4 @@
-# 加里摩根塔勒解释了 Siri 将如何吃掉谷歌的午餐 TechCrunch
+# 加里摩根塔勒解释了 Siri 将如何吃掉谷歌的午餐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/gary-morgenthaler-siri-will-eat-google/>
 

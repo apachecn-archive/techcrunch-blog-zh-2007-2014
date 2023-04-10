@@ -1,4 +1,4 @@
-# 英国人来了！TechCrunch
+# 英国人来了！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/11/the-british-are-coming/>
 

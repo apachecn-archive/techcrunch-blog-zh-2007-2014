@@ -1,4 +1,4 @@
-# 日本电子商务公司乐天以 3.15 亿美元现金收购电子阅读平台 Kobo TechCrunch
+# 日本电子商务公司乐天以 3.15 亿美元现金收购电子阅读平台 Kobo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/rakuten-acquires-e-reading-platform-kobo-for-315-million-in-cash/>
 

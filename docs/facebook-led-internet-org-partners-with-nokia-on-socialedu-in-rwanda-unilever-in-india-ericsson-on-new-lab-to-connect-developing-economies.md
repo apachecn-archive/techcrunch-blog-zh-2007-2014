@@ -1,4 +1,4 @@
-# 由脸书领导的 Internet.org 与诺基亚在卢旺达的 SocialEDU、联合利华在印度、爱立信在连接发展中经济体的新实验室上合作 TechCrunch
+# 由脸书领导的 Internet.org 与诺基亚在卢旺达的 SocialEDU、联合利华在印度、爱立信在连接发展中经济体的新实验室上合作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/facebook-led-internet-org-partners-with-nokia-on-socialedu-in-rwanda-unilever-in-india-ericsson-on-new-lab-to-connect-developing-economies/>
 

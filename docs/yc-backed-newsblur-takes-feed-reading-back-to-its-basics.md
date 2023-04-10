@@ -1,4 +1,4 @@
-# YC 支持的 NewsBlur 让 Feed 阅读回归基础 TechCrunch
+# YC 支持的 NewsBlur 让 Feed 阅读回归基础 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/30/yc-backed-newsblur-takes-feed-reading-back-to-its-basics/>
 

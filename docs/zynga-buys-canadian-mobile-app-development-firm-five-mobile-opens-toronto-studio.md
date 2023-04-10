@@ -1,4 +1,4 @@
-# Zynga 收购加拿大移动应用开发公司 Five Mobile 打开多伦多工作室 TechCrunch
+# Zynga 收购加拿大移动应用开发公司 Five Mobile 打开多伦多工作室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/zynga-buys-canadian-mobile-app-development-firm-five-mobile-opens-toronto-studio/>
 

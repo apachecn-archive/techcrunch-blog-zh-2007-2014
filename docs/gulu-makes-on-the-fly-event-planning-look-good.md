@@ -1,4 +1,4 @@
-# Gulu 让实时活动策划看起来很棒 TechCrunch
+# Gulu 让实时活动策划看起来很棒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/gulu-makes-on-the-fly-event-planning-look-good/>
 

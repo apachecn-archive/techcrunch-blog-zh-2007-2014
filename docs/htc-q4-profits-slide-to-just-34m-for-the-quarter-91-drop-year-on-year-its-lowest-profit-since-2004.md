@@ -1,4 +1,4 @@
-# HTC 第四季度:利润下滑至 3400 万美元，同比下降 91%，为 2004 年以来的最低利润 TechCrunch
+# HTC 第四季度:利润下滑至 3400 万美元，同比下降 91%，为 2004 年以来的最低利润 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/07/htc-q4-profits-slide-to-just-34m-for-the-quarter-91-drop-year-on-year-its-lowest-profit-since-2004/>
 

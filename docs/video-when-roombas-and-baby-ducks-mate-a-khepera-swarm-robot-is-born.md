@@ -1,4 +1,4 @@
-# 视频:当 Roombas 和小鸭子交配时，一个 Khepera 群体机器人诞生了 TechCrunch
+# 视频:当 Roombas 和小鸭子交配时，一个 Khepera 群体机器人诞生了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/video-when-roombas-and-baby-ducks-mate-a-khepera-swarm-robot-is-born/>
 

@@ -1,4 +1,4 @@
-# Ad Optimizer AdMeld 融资 800 万美元，开始英国运营 TechCrunch
+# Ad Optimizer AdMeld 融资 800 万美元，开始英国运营 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/ad-optimizer-admeld-raises-8-million-opens-uk-operations/>
 

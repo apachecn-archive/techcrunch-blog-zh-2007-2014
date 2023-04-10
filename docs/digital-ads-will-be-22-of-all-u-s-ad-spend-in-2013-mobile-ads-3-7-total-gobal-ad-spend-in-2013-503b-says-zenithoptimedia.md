@@ -1,4 +1,4 @@
-# 2013 年，数字广告将占美国全部广告支出的 22%，移动广告占 3.7%；2013 年全球广告支出总额 5030 亿美元 TechCrunch
+# 2013 年，数字广告将占美国全部广告支出的 22%，移动广告占 3.7%；2013 年全球广告支出总额 5030 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/30/digital-ads-will-be-22-of-all-u-s-ad-spend-in-2013-mobile-ads-3-7-total-gobal-ad-spend-in-2013-503b-says-zenithoptimedia/>
 

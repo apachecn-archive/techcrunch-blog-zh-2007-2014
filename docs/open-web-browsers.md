@@ -1,4 +1,4 @@
-# “开放”的网络浏览器现在是网络的主流——WebKit 继续崛起 TechCrunch
+# “开放”的网络浏览器现在是网络的主流——WebKit 继续崛起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/open-web-browsers/>
 

@@ -1,4 +1,4 @@
-# 为什么脸书需要趋势链接 TechCrunch
+# 为什么脸书需要趋势链接 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/30/facebook-trends/>
 

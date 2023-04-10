@@ -1,4 +1,4 @@
-# 雅虎支持的 Hortonworks 首次推出 Apache Hadoop 数据平台 TechCrunch
+# 雅虎支持的 Hortonworks 首次推出 Apache Hadoop 数据平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/yahoo-backed-hortonworks-debuts-apache-hadoop-data-platform/>
 

@@ -1,4 +1,4 @@
-# 点评:Korg Monotron TechCrunch
+# 点评:Korg Monotron 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/23/review-korg-monotron/>
 

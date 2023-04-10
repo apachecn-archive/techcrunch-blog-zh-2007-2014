@@ -1,4 +1,4 @@
-# 你不应该(也不能)在 Twitter 上使用的 370 个密码 TechCrunch
+# 你不应该(也不能)在 Twitter 上使用的 370 个密码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/27/twitter-banned-passwords/>
 

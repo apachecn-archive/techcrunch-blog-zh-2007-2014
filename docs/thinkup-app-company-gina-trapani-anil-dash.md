@@ -1,4 +1,4 @@
-# ThinkUp 应用程序以盈利为目的，致力于分散社交网络 TechCrunch
+# ThinkUp 应用程序以盈利为目的，致力于分散社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/26/thinkup-app-company-gina-trapani-anil-dash/>
 

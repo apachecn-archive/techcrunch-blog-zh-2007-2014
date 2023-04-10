@@ -1,4 +1,4 @@
-# 亚马逊为 Kindle 杂志和报纸出版商引入 70%的收入分成 TechCrunch
+# 亚马逊为 Kindle 杂志和报纸出版商引入 70%的收入分成 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/08/amazon-allows-kindle-magazine-and-newspaper-publishers-to-take-70-percent-of-revenue/>
 

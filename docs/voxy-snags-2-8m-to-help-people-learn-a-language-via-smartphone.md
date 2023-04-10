@@ -1,4 +1,4 @@
-# Voxy 筹集 280 万美元帮助人们通过智能手机学习语言 TechCrunch
+# Voxy 筹集 280 万美元帮助人们通过智能手机学习语言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/10/voxy-snags-2-8m-to-help-people-learn-a-language-via-smartphone/>
 

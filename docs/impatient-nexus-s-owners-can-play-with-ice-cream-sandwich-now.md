@@ -1,4 +1,4 @@
-# 不耐烦的 Nexus S 用户现在可以玩冰淇淋三明治了 TechCrunch
+# 不耐烦的 Nexus S 用户现在可以玩冰淇淋三明治了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/impatient-nexus-s-owners-can-play-with-ice-cream-sandwich-now/>
 

@@ -1,4 +1,4 @@
-# 中国的山寨 iPads 没有愚弄任何人...或者他们有吗？TechCrunch
+# 中国的山寨 iPads 没有愚弄任何人...或者他们有吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/26/chinas-knockoff-ipads-have-no-one-fooled-or-do-they/>
 

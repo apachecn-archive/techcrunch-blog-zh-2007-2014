@@ -1,4 +1,4 @@
-# Automattic 收购 iOS WordPress 客户端海报以改进其移动应用 TechCrunch
+# Automattic 收购 iOS WordPress 客户端海报以改进其移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/17/automattic-acquires-ios-wordpress-client-poster-to-improve-its-own-mobile-apps/>
 

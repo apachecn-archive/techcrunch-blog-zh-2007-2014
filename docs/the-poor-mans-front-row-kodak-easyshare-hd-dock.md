@@ -1,4 +1,4 @@
-# 穷人的前排:柯达 Easyshare HD Dock TechCrunch
+# 穷人的前排:柯达 Easyshare HD Dock 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/the-poor-mans-front-row-kodak-easyshare-hd-dock/>
 

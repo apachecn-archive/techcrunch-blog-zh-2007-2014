@@ -1,4 +1,4 @@
-# Y 组合子如何缩放 Y 组合子？TechCrunch
+# Y 组合子如何缩放 Y 组合子？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/02/yc-y-combinator-scaling/>
 

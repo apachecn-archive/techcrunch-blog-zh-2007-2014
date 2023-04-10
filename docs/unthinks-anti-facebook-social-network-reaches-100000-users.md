@@ -1,4 +1,4 @@
-# Unthink 的“反脸书”社交网络拥有 10 万用户 TechCrunch
+# Unthink 的“反脸书”社交网络拥有 10 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/unthinks-anti-facebook-social-network-reaches-100000-users/>
 

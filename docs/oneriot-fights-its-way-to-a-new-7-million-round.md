@@ -1,4 +1,4 @@
-# OneRiot 奋力争取新一轮 700 万美元融资 TechCrunch
+# OneRiot 奋力争取新一轮 700 万美元融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/27/oneriot-fights-its-way-to-a-new-7-million-round/>
 

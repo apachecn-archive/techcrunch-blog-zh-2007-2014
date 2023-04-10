@@ -1,4 +1,4 @@
-# 脸书现在的网站中有雅虎，其浏览量已经超过了 TechCrunch
+# 脸书现在的网站中有雅虎，其浏览量已经超过了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/01/facebook-yahoo-bigger-pageviews-comscore/>
 

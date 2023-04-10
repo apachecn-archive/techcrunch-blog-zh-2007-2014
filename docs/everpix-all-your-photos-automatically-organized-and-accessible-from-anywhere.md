@@ -1,4 +1,4 @@
-# Everpix:自动整理您的所有照片，并可从任何地方访问 TechCrunch
+# Everpix:自动整理您的所有照片，并可从任何地方访问 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/everpix-all-your-photos-automatically-organized-and-accessible-from-anywhere/>
 

@@ -1,4 +1,4 @@
-# TC50:情感界面监控并解读网络用户的面部表情 TechCrunch
+# TC50:情感界面监控并解读网络用户的面部表情 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/tc50-affective-interfaces-monitors-and-deciphers-facial-expressions-of-web-users/>
 

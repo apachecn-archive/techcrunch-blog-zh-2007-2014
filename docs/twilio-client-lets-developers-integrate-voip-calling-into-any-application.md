@@ -1,4 +1,4 @@
-# Twilio Client 允许开发人员将 VoIP 呼叫集成到任何应用程序中 TechCrunch
+# Twilio Client 允许开发人员将 VoIP 呼叫集成到任何应用程序中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/twilio-client-lets-developers-integrate-voip-calling-into-any-application/>
 

@@ -1,4 +1,4 @@
-# 2007 年的数字:今年提问鼠标的声音稍微大了一点 TechCrunch
+# 2007 年的数字:今年提问鼠标的声音稍微大了一点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/24/2007-in-numbers-the-ask-mouse-squeaked-a-little-louder-this-year/>
 

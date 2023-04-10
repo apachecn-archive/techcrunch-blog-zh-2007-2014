@@ -1,4 +1,4 @@
-# Meebo 完成大规模融资 TechCrunch
+# Meebo 完成大规模融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/30/meebo-closes-big-funding-round/>
 

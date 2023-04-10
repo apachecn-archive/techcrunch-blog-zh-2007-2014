@@ -1,4 +1,4 @@
-# Visa 发布 iPhone 应用程序，部署基于位置的优惠技术 TechCrunch
+# Visa 发布 iPhone 应用程序，部署基于位置的优惠技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/14/visa-iphone-app/>
 

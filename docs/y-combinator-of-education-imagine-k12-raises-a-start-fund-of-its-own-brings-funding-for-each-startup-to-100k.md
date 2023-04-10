@@ -1,4 +1,4 @@
-# Y Combinator of Education，Imagine K12，筹集了自己的“启动基金”,为每个初创公司提供 10 万美元的资金 TechCrunch
+# Y Combinator of Education，Imagine K12，筹集了自己的“启动基金”,为每个初创公司提供 10 万美元的资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/y-combinator-of-education-imagine-k12-raises-a-start-fund-of-its-own-brings-funding-for-each-startup-to-100k/>
 

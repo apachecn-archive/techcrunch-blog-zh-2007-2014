@@ -1,4 +1,4 @@
-# 云会计初创公司 FreshBooks 发布了一款 iPhone 应用，因此用户可以随时随地开具发票 TechCrunch
+# 云会计初创公司 FreshBooks 发布了一款 iPhone 应用，因此用户可以随时随地开具发票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/freshbooks-iphone/>
 

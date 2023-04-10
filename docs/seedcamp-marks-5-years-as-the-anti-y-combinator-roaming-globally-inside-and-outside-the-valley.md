@@ -1,4 +1,4 @@
-# Seedcamp 标志着 5 年成为“反 Y 组合者”——漫游全球硅谷内外 TechCrunch
+# Seedcamp 标志着 5 年成为“反 Y 组合者”——漫游全球硅谷内外 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/21/seedcamp-marks-5-years-as-the-anti-y-combinator-roaming-globally-inside-and-outside-the-valley/>
 

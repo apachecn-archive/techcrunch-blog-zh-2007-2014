@@ -1,4 +1,4 @@
-# 面向专业人士的搜索引擎 Identified 向公众开放其 5000 万份排名 TechCrunch
+# 面向专业人士的搜索引擎 Identified 向公众开放其 5000 万份排名 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/identified-the-search-engine-for-professionals-opens-public-access-to-its-50-million-rankings/>
 

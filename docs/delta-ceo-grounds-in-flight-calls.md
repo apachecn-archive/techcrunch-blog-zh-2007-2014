@@ -1,4 +1,4 @@
-# 达美航空首席执行官将飞行中的通话置于地面 TechCrunch
+# 达美航空首席执行官将飞行中的通话置于地面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/18/delta-ceo-grounds-in-flight-calls/>
 

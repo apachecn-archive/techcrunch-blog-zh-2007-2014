@@ -1,4 +1,4 @@
-# 网飞的痛苦是百视达的收获 TechCrunch
+# 网飞的痛苦是百视达的收获 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/netflixs-pain-is-blockbusters-gain/>
 

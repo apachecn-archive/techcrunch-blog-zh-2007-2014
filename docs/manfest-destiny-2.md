@@ -1,4 +1,4 @@
-# 你见过的关于科技行业女性的最悲伤的粉色信息图 TechCrunch
+# 你见过的关于科技行业女性的最悲伤的粉色信息图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/manfest-destiny-2/>
 

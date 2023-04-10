@@ -1,4 +1,4 @@
-# 说“RSS 已死”是死，说“RSS 未亡”不是——今天。TechCrunch
+# 说“RSS 已死”是死，说“RSS 未亡”不是——今天。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/13/rss-is-not-not-not-not-not-dead/>
 

@@ -1,4 +1,4 @@
-# 在对冲基金黑客的大厅里 TechCrunch
+# 在对冲基金黑客的大厅里 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/29/in-the-halls-of-the-hedge-fund-hackers/>
 

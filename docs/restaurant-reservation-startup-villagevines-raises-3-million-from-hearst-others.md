@@ -1,4 +1,4 @@
-# 餐厅预订初创公司 VillageVines 融资 300 万美元 TechCrunch
+# 餐厅预订初创公司 VillageVines 融资 300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/10/restaurant-reservation-startup-villagevines-raises-3-million-from-hearst-others/>
 

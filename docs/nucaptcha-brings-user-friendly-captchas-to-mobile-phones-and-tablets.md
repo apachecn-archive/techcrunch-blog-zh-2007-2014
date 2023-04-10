@@ -1,4 +1,4 @@
-# NuCaptcha 为手机和平板电脑带来用户友好的验证码 TechCrunch
+# NuCaptcha 为手机和平板电脑带来用户友好的验证码 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/nucaptcha-brings-user-friendly-captchas-to-mobile-phones-and-tablets/>
 

@@ -1,4 +1,4 @@
-# iPhone 开发人员:精简/免费移动应用程序真的有回报 TechCrunch
+# iPhone 开发人员:精简/免费移动应用程序真的有回报 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/07/30/iphone-devs-litefree-mobile-apps-really-pay-off/>
 

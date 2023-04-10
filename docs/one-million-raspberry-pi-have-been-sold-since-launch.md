@@ -1,4 +1,4 @@
-# 自推出以来，已售出 100 万块 Raspberry Pi 板 TechCrunch
+# 自推出以来，已售出 100 万块 Raspberry Pi 板 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/12/one-million-raspberry-pi-have-been-sold-since-launch/>
 

@@ -1,4 +1,4 @@
-# Splunk 的竞争对手 Loggly 为以云为中心的日志管理方法筹集了 1050 万美元 TechCrunch
+# Splunk 的竞争对手 Loggly 为以云为中心的日志管理方法筹集了 1050 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/03/loggly-a-splunk-competitor-raises-10-5m-for-cloud-centric-approach-to-log-management/>
 

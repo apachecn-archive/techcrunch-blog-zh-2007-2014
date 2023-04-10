@@ -1,4 +1,4 @@
-# FCC 授权使用京瓷的 3.9G iBurst 移动宽带无线接入系统 TechCrunch
+# FCC 授权使用京瓷的 3.9G iBurst 移动宽带无线接入系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/17/fcc-authorizes-use-of-kyoceras-39g-iburst-mobile-broadband-wireless-access-system/>
 

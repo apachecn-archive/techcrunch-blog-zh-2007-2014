@@ -1,4 +1,4 @@
-# 谣言:苹果准备在 9 月份打折 iPhone 4 TechCrunch
+# 谣言:苹果准备在 9 月份打折 iPhone 4 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/23/rumor-apple-preparing-discount-iphone-4-for-september/>
 

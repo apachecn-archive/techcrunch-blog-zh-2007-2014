@@ -1,4 +1,4 @@
-# 联邦调查局是愚蠢的，邪恶的，还是无能的？TechCrunch
+# 联邦调查局是愚蠢的，邪恶的，还是无能的？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/25/is-the-fbi-dumb-evil-or-just-incompetent/>
 

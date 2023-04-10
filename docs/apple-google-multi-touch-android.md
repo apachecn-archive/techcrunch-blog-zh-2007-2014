@@ -1,4 +1,4 @@
-# 谷歌是不是在苹果脸上打了几拳？TechCrunch
+# 谷歌是不是在苹果脸上打了几拳？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/apple-google-multi-touch-android/>
 

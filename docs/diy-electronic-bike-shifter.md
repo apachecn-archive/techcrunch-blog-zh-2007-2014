@@ -1,4 +1,4 @@
-# DIY 电子自行车换档器 TechCrunch
+# DIY 电子自行车换档器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/12/diy-electronic-bike-shifter/>
 

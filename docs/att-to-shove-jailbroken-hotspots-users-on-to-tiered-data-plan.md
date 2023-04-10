@@ -1,4 +1,4 @@
-# 美国电话电报公司将越狱热点用户推向分层数据计划 TechCrunch
+# 美国电话电报公司将越狱热点用户推向分层数据计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/att-to-shove-jailbroken-hotspots-users-on-to-tiered-data-plan/>
 

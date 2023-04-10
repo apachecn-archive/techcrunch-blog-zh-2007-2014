@@ -1,4 +1,4 @@
-# 盲测选择哪个搜索引擎？TechCrunch
+# 盲测选择哪个搜索引擎？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/08/which-search-engine-do-you-choose-in-the-blind-test/>
 

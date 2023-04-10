@@ -1,4 +1,4 @@
-# 世界一切正常:电子书应用重回 iPad TechCrunch
+# 世界一切正常:电子书应用重回 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/26/all-is-right-with-the-world-ebook-apps-back-on-the-ipad/>
 

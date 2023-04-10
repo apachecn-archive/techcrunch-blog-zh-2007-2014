@@ -1,4 +1,4 @@
-# Salesforce 以 3100 万美元现金收购网络会议平台 DimDim TechCrunch
+# Salesforce 以 3100 万美元现金收购网络会议平台 DimDim 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/06/salesforce-buys-web-conferencing-platform-dimdim-for-31-million-in-cash/>
 

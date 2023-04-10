@@ -1,4 +1,4 @@
-# BioPro 采用 DIY 方法生产生物燃料 TechCrunch
+# BioPro 采用 DIY 方法生产生物燃料 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/21/biopro-makes-biofuels-diy/>
 

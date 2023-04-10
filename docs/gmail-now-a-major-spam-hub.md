@@ -1,4 +1,4 @@
-# Gmail 现在是主要的垃圾邮件中心 TechCrunch
+# Gmail 现在是主要的垃圾邮件中心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/17/gmail-now-a-major-spam-hub/>
 

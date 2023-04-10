@@ -1,4 +1,4 @@
-# 劳氏投资 42，000 部 iPhones 以改善您的购物体验 TechCrunch
+# 劳氏投资 42，000 部 iPhones 以改善您的购物体验 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/lowes-invests-in-42000-iphones-to-improve-your-shopping-experience/>
 

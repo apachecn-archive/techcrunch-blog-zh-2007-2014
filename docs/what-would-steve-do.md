@@ -1,4 +1,4 @@
-# 如果没有“史蒂夫会怎么做”，苹果会怎么做？TechCrunch
+# 如果没有“史蒂夫会怎么做”，苹果会怎么做？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/28/what-would-steve-do/>
 

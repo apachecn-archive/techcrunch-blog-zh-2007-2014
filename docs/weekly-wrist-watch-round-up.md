@@ -1,4 +1,4 @@
-# 每周腕表综述 TechCrunch
+# 每周腕表综述 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/24/weekly-wrist-watch-round-up/>
 

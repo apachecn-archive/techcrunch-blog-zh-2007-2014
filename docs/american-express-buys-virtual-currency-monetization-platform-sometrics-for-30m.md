@@ -1,4 +1,4 @@
-# 美国运通以 3000 万美元收购虚拟货币货币化平台 Sometrics TechCrunch
+# 美国运通以 3000 万美元收购虚拟货币货币化平台 Sometrics 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/american-express-buys-virtual-currency-monetization-platform-sometrics-for-30m/>
 

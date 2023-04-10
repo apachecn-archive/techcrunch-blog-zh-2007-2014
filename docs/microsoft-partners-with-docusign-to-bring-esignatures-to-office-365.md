@@ -1,4 +1,4 @@
-# 微软与 DocuSign 合作，将电子签名引入 Office 365 TechCrunch
+# 微软与 DocuSign 合作，将电子签名引入 Office 365 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/17/microsoft-partners-with-docusign-to-bring-esignatures-to-office-365/>
 

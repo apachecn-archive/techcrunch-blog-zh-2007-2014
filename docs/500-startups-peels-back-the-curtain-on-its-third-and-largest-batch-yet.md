@@ -1,4 +1,4 @@
-# 500 家创业公司揭开第三批也是最大一批的帷幕 TechCrunch
+# 500 家创业公司揭开第三批也是最大一批的帷幕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/500-startups-peels-back-the-curtain-on-its-third-and-largest-batch-yet/>
 

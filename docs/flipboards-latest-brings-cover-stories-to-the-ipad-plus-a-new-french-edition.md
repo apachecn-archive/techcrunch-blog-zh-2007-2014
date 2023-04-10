@@ -1,4 +1,4 @@
-# Flipboard 的最新版本为 iPad 带来了封面故事，以及新的法语版 TechCrunch
+# Flipboard 的最新版本为 iPad 带来了封面故事，以及新的法语版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/29/flipboards-latest-brings-cover-stories-to-the-ipad-plus-a-new-french-edition/>
 

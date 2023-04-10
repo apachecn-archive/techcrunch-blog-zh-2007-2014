@@ -1,4 +1,4 @@
-# Digg 首次推出其首个 Firefox 3 扩展 TechCrunch
+# Digg 首次推出其首个 Firefox 3 扩展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/06/digg-debuts-its-first-firefox-3-extension/>
 

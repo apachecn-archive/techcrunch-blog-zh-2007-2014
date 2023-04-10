@@ -1,4 +1,4 @@
-# 节日期间，在你的 iPhone 上 Etsy TechCrunch
+# 节日期间，在你的 iPhone 上 Etsy 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/holidays-etsy-iphone/>
 

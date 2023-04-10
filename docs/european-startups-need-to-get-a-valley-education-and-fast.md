@@ -1,4 +1,4 @@
-# 欧洲初创公司需要接受硅谷教育，并尽快 TechCrunch
+# 欧洲初创公司需要接受硅谷教育，并尽快 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/24/european-startups-need-to-get-a-valley-education-and-fast/>
 

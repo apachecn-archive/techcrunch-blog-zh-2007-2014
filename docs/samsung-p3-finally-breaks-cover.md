@@ -1,4 +1,4 @@
-# 三星 P3 终于亮相 TechCrunch
+# 三星 P3 终于亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/samsung-p3-finally-breaks-cover/>
 

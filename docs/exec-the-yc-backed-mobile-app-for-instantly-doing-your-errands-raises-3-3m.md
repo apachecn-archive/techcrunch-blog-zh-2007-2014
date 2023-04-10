@@ -1,4 +1,4 @@
-# YC 支持的即时办事移动应用 Exec 融资 330 万美元 TechCrunch
+# YC 支持的即时办事移动应用 Exec 融资 330 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/25/exec-the-yc-backed-mobile-app-for-instantly-doing-your-errands-raises-3-3m/>
 

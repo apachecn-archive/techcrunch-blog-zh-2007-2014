@@ -1,4 +1,4 @@
-# ToutApp 推出 iOS 应用程序，让您在移动中跟踪电子邮件查看和点击(以及更多)TechCrunch
+# ToutApp 推出 iOS 应用程序，让您在移动中跟踪电子邮件查看和点击(以及更多)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/toutapp-launches-ios-app-to-let-you-track-email-views-and-clicks-and-more-on-the-go/>
 

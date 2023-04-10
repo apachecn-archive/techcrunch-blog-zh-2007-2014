@@ -1,4 +1,4 @@
-# Ask.fm 声称它已经超过了问答巨头 form spring——这是怎么回事？TechCrunch
+# Ask.fm 声称它已经超过了问答巨头 form spring——这是怎么回事？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/ask-fm-claims-its-overtaken-qa-giant-formspring-whats-going-on-here/>
 

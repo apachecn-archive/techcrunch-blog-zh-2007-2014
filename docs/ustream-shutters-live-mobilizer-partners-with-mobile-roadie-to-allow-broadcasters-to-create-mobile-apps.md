@@ -1,4 +1,4 @@
-# Ustream Shutters Live Mobilizer 与 Mobile Roadie 合作，允许广播公司创建移动应用 TechCrunch
+# Ustream Shutters Live Mobilizer 与 Mobile Roadie 合作，允许广播公司创建移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/ustream-shutters-live-mobilizer-partners-with-mobile-roadie-to-allow-broadcasters-to-create-mobile-apps/>
 

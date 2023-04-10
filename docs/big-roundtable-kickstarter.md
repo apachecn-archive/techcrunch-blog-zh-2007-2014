@@ -1,4 +1,4 @@
-# 大型圆桌会议重新思考长篇新闻的编辑模式，实现其 Kickstarter 目标 TechCrunch
+# 大型圆桌会议重新思考长篇新闻的编辑模式，实现其 Kickstarter 目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/31/big-roundtable-kickstarter/>
 

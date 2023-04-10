@@ -1,4 +1,4 @@
-# 飞利浦推出面向色调连接照明系统的开放式 API 和 iOS SDK TechCrunch
+# 飞利浦推出面向色调连接照明系统的开放式 API 和 iOS SDK 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/10/philips-hue-lighting-sdk-ios/>
 

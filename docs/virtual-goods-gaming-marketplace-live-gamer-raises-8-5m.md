@@ -1,4 +1,4 @@
-# 虚拟商品游戏市场 Live Gamer 筹集了 850 万美元 TechCrunch
+# 虚拟商品游戏市场 Live Gamer 筹集了 850 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/virtual-goods-gaming-marketplace-live-gamer-raises-8-5m/>
 

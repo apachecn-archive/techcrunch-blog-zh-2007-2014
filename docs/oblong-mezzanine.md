@@ -1,4 +1,4 @@
-# Oblong 构建了计算的未来。我见过。用过了。太美了。TechCrunch
+# Oblong 构建了计算的未来。我见过。用过了。太美了。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/23/oblong-mezzanine/>
 

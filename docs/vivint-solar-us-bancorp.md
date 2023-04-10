@@ -1,4 +1,4 @@
-# Vivint Solar 宣布以 7500 万美元与 U.S. Bancorp 合作，扩展到三个新市场 TechCrunch
+# Vivint Solar 宣布以 7500 万美元与 U.S. Bancorp 合作，扩展到三个新市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/vivint-solar-us-bancorp/>
 

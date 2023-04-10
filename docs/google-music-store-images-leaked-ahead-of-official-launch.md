@@ -1,4 +1,4 @@
-# 谷歌音乐商店图片在正式发布前泄露 TechCrunch
+# 谷歌音乐商店图片在正式发布前泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/google-music-store-images-leaked-ahead-of-official-launch/>
 

@@ -1,4 +1,4 @@
-# 西班牙电信投资半导体解决方案公司 Quantenna TechCrunch
+# 西班牙电信投资半导体解决方案公司 Quantenna 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/telefonica-invests-in-semiconductor-solutions-company-quantenna/>
 

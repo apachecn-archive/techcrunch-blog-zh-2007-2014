@@ -1,4 +1,4 @@
-# 将 OpenID 带给大众:click pass TechCrunch
+# 将 OpenID 带给大众:click pass 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/11/clickpass-could-change-the-way-you-surf-the-web/>
 

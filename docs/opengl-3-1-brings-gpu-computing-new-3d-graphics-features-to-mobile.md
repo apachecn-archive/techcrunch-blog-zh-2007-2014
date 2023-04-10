@@ -1,4 +1,4 @@
-# OpenGL ES 3.1 为移动设备带来了 GPU 计算和新的 3D 图形功能 TechCrunch
+# OpenGL ES 3.1 为移动设备带来了 GPU 计算和新的 3D 图形功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/17/opengl-3-1-brings-gpu-computing-new-3d-graphics-features-to-mobile/>
 

@@ -1,4 +1,4 @@
-# 让你与律师即时交流的初创公司 Lawdingo 加入了 Y Combinator TechCrunch
+# 让你与律师即时交流的初创公司 Lawdingo 加入了 Y Combinator 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/15/lawdingo-y-combinator/>
 

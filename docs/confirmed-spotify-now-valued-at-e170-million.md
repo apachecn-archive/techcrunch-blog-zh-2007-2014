@@ -1,4 +1,4 @@
-# 已确认:Spotify 目前估值 1.7 亿 TechCrunch
+# 已确认:Spotify 目前估值 1.7 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/07/confirmed-spotify-now-valued-at-e170-million/>
 

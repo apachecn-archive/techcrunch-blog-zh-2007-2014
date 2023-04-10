@@ -1,4 +1,4 @@
-# 已经到来 TechCrunch
+# 已经到来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/i-am-a-passenger-and-i-arrive-and-arrived/>
 

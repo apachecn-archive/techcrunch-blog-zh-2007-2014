@@ -1,4 +1,4 @@
-# 三星让步，不会阻止 iPhone 4S 在韩国的销售 TechCrunch
+# 三星让步，不会阻止 iPhone 4S 在韩国的销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/samsung-backs-down-wont-block-iphone-4s-sales-in-south-korea/>
 

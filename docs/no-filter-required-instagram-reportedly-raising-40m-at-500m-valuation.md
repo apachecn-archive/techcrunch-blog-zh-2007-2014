@@ -1,4 +1,4 @@
-# 不需要过滤器:Instagram 据报道以 5 亿美元的估值筹集了 4000 万美元 TechCrunch
+# 不需要过滤器:Instagram 据报道以 5 亿美元的估值筹集了 4000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/no-filter-required-instagram-reportedly-raising-40m-at-500m-valuation/>
 

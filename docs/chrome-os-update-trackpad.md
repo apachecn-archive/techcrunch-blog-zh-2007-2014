@@ -1,4 +1,4 @@
-# Chrome 操作系统获得重大更新——两个词:触控板修复 TechCrunch
+# Chrome 操作系统获得重大更新——两个词:触控板修复 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/03/chrome-os-update-trackpad/>
 

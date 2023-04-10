@@ -1,4 +1,4 @@
-# Foursquare 现在每周增加近 10 万用户 TechCrunch
+# Foursquare 现在每周增加近 10 万用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/foursquare-growth/>
 

@@ -1,4 +1,4 @@
-# 哦天啊！触摸屏 MIMO 子显示屏即将推出 TechCrunch
+# 哦天啊！触摸屏 MIMO 子显示屏即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/10/oh-boy-a-touchscreen-mimo-sub-display-is-on-the-way/>
 

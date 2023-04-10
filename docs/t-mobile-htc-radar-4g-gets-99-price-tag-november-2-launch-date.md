@@ -1,4 +1,4 @@
-# T-Mobile HTC Radar 4G 标价 99 美元，11 月 2 日发布日期 TechCrunch
+# T-Mobile HTC Radar 4G 标价 99 美元，11 月 2 日发布日期 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/t-mobile-htc-radar-4g-gets-99-price-tag-november-2-launch-date/>
 

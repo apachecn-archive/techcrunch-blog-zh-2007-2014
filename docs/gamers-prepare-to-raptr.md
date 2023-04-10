@@ -1,4 +1,4 @@
-# 游戏玩家们，准备捕捉 TechCrunch
+# 游戏玩家们，准备捕捉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/21/gamers-prepare-to-raptr/>
 

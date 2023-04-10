@@ -1,4 +1,4 @@
-# 中国走私者拍摄一条横跨河流的滑索来非法运输 ipad TechCrunch
+# 中国走私者拍摄一条横跨河流的滑索来非法运输 ipad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/08/chinese-smugglers-shoot-a-zip-line-across-a-river-to-illegally-ship-ipads/>
 

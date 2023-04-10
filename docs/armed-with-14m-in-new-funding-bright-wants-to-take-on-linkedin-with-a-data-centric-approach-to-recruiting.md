@@ -1,4 +1,4 @@
-# Bright 筹集 1400 万美元，通过以数据为中心的招聘方式与 LinkedIn 展开较量 TechCrunch
+# Bright 筹集 1400 万美元，通过以数据为中心的招聘方式与 LinkedIn 展开较量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/armed-with-14m-in-new-funding-bright-wants-to-take-on-linkedin-with-a-data-centric-approach-to-recruiting/>
 

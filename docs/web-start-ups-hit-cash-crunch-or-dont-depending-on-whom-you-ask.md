@@ -1,4 +1,4 @@
-# 网络“初创企业”遭遇现金危机。或者不要，取决于你问谁 TechCrunch
+# 网络“初创企业”遭遇现金危机。或者不要，取决于你问谁 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/web-start-ups-hit-cash-crunch-or-dont-depending-on-whom-you-ask/>
 

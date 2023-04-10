@@ -1,4 +1,4 @@
-# Google 将电影购买、电视节目和杂志添加到 Google Play TechCrunch
+# Google 将电影购买、电视节目和杂志添加到 Google Play 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/google-play-tv-shows-magazines/>
 

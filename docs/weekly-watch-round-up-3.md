@@ -1,4 +1,4 @@
-# 每周观察总结 TechCrunch
+# 每周观察总结 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/19/weekly-watch-round-up-3/>
 

@@ -1,4 +1,4 @@
-# 美国电话电报公司虎视眈眈菜网潜在收购？TechCrunch
+# 美国电话电报公司虎视眈眈菜网潜在收购？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/18/att-eyeing-up-dish-network-for-potential-acquisition/>
 

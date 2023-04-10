@@ -1,4 +1,4 @@
-# 免费应用程序如何比付费应用程序更赚钱 TechCrunch
+# 免费应用程序如何比付费应用程序更赚钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/26/how-free-apps-can-make-more-money-than-paid-apps/>
 

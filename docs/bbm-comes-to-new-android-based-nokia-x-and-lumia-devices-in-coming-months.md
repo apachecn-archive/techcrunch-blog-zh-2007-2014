@@ -1,4 +1,4 @@
-# BBM 将在未来几个月推出基于 Android 的诺基亚 X 和 Lumia 新设备 TechCrunch
+# BBM 将在未来几个月推出基于 Android 的诺基亚 X 和 Lumia 新设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/bbm-comes-to-new-android-based-nokia-x-and-lumia-devices-in-coming-months/>
 

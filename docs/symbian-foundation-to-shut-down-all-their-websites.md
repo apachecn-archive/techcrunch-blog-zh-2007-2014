@@ -1,4 +1,4 @@
-# 塞班基金会关闭所有网站 TechCrunch
+# 塞班基金会关闭所有网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/27/symbian-foundation-to-shut-down-all-their-websites/>
 

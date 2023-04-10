@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯的斯坦福毕业典礼演讲昨天被观看了 800 万次 TechCrunch
+# 史蒂夫·乔布斯的斯坦福毕业典礼演讲昨天被观看了 800 万次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/07/jobs-stanford-address-watched-8-million-times-yesterday/>
 

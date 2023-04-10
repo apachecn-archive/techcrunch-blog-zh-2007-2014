@@ -1,4 +1,4 @@
-# 从里到外亲自体验微软 Surface TechCrunch
+# 从里到外亲自体验微软 Surface 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/hands-on-with-the-microsoft-surface-inside-and-out/>
 

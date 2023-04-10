@@ -1,4 +1,4 @@
-# Pinterest 已经以 4000 万美元的估值锁定了 1000 万美元 TechCrunch
+# Pinterest 已经以 4000 万美元的估值锁定了 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/15/sources-pinterest-has-already-pinned-down-10m-at-a-40m-valuation/>
 

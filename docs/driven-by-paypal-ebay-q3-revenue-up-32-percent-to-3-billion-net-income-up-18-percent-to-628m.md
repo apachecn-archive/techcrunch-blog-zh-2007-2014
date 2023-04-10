@@ -1,4 +1,4 @@
-# 在 PayPal 的推动下，易贝第三季度收入增长 32%，达到 30 亿美元；净收入增长 18%，达到 6.28 亿美元 TechCrunch
+# 在 PayPal 的推动下，易贝第三季度收入增长 32%，达到 30 亿美元；净收入增长 18%，达到 6.28 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/driven-by-paypal-ebay-q3-revenue-up-32-percent-to-3-billion-net-income-up-18-percent-to-628m/>
 

@@ -1,4 +1,4 @@
-# 来吧，微软:Siri 让你看起来很糟糕 TechCrunch
+# 来吧，微软:Siri 让你看起来很糟糕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/come-on-microsoft-siri-is-making-you-look-terrible/>
 

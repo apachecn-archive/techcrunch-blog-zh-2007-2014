@@ -1,4 +1,4 @@
-# 为什么欧盟和英国没有 Kindle Touch 或 Fire？TechCrunch
+# 为什么欧盟和英国没有 Kindle Touch 或 Fire？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/why-no-kindle-touch-or-fire-for-eu-uk/>
 

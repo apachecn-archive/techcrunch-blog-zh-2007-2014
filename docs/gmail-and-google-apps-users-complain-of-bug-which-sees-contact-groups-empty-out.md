@@ -1,4 +1,4 @@
-# Gmail 和 Google Apps 用户抱怨联系人组被清空的问题 TechCrunch
+# Gmail 和 Google Apps 用户抱怨联系人组被清空的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/gmail-and-google-apps-users-complain-of-bug-which-sees-contact-groups-empty-out/>
 

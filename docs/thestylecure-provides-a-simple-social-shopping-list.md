@@ -1,4 +1,4 @@
-# StyleCure 提供了一个简单的社交购物清单 TechCrunch
+# StyleCure 提供了一个简单的社交购物清单 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/thestylecure-provides-a-simple-social-shopping-list/>
 

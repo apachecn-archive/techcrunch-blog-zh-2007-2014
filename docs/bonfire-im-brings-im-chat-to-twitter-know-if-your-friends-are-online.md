@@ -1,4 +1,4 @@
-# Bonfire.im 将即时聊天功能引入 Twitter，了解您的朋友是否在线 TechCrunch
+# Bonfire.im 将即时聊天功能引入 Twitter，了解您的朋友是否在线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/bonfire-im-brings-im-chat-to-twitter-know-if-your-friends-are-online/>
 

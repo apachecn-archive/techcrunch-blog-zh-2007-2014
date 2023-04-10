@@ -1,4 +1,4 @@
-# 调查显示:10%的网飞用户观看过《纸牌屋》，平均观看 6 集 TechCrunch
+# 调查显示:10%的网飞用户观看过《纸牌屋》，平均观看 6 集 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/19/netflix-house-of-cards-survey/>
 

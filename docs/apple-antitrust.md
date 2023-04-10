@@ -1,4 +1,4 @@
-# 苹果的封闭方式如何使其陷入反垄断的麻烦——TechCrunch
+# 苹果的封闭方式如何使其陷入反垄断的麻烦——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/20/apple-antitrust/>
 

@@ -1,4 +1,4 @@
-# 微缩摄影越来越大。iStockphoto 预计收入 2 亿美元 TechCrunch
+# 微缩摄影越来越大。iStockphoto 预计收入 2 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/microstock-photography-is-getting-big-istockphoto-projects-200-million-in-revenues/>
 

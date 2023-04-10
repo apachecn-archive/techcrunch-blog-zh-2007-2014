@@ -1,4 +1,4 @@
-# 愤怒的小鸟毛绒玩具即将在这个假期上市 TechCrunch
+# 愤怒的小鸟毛绒玩具即将在这个假期上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/15/rumor-angry-bird-plush-toys-coming-this-holiday/>
 

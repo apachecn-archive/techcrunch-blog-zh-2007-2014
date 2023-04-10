@@ -1,4 +1,4 @@
-# “直播外壳”让您无需电脑即可通过 Ustream 直播视频 TechCrunch
+# “直播外壳”让您无需电脑即可通过 Ustream 直播视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/the-live-shell-lets-you-broadcast-live-video-via-ustream-without-a-pc/>
 

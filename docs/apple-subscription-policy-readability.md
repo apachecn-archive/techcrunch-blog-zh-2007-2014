@@ -1,4 +1,4 @@
-# 可读性与苹果再次尝试——订阅政策已经改变了吗？TechCrunch
+# 可读性与苹果再次尝试——订阅政策已经改变了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/23/apple-subscription-policy-readability/>
 

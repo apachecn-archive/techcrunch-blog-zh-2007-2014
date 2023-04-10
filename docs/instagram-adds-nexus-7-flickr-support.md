@@ -1,4 +1,4 @@
-# Instagram 增加了 Nexus 7，Flickr 支持 TechCrunch
+# Instagram 增加了 Nexus 7，Flickr 支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/instagram-adds-nexus-7-flickr-support/>
 

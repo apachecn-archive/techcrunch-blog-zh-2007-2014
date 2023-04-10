@@ -1,4 +1,4 @@
-# Zynga 继续国际扩张；收购德国游戏引擎开发商 Dextrose AG TechCrunch
+# Zynga 继续国际扩张；收购德国游戏引擎开发商 Dextrose AG 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/24/zynga-continues-international-expansion-buys-german-game-engine-developer-dextrose-ag/>
 

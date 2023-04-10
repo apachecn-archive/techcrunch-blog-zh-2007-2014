@@ -1,4 +1,4 @@
-# 火星 500 模拟即将结束，即将“登陆”红色星球 TechCrunch
+# 火星 500 模拟即将结束，即将“登陆”红色星球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/mars-500-simulation-wrapping-up-will-soon-land-on-the-red-planet/>
 

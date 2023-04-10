@@ -1,4 +1,4 @@
-# 英特尔渴望与谷歌的冰激凌三明治合作 TechCrunch
+# 英特尔渴望与谷歌的冰激凌三明治合作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/intel-itching-to-work-with-googles-ice-cream-sandwich/>
 

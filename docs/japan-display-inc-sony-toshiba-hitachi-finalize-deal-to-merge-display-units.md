@@ -1,4 +1,4 @@
-# 日本显示器公司:索尼、东芝、日立敲定显示器部门合并交易 TechCrunch
+# 日本显示器公司:索尼、东芝、日立敲定显示器部门合并交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/japan-display-inc-sony-toshiba-hitachi-finalize-deal-to-merge-display-units/>
 

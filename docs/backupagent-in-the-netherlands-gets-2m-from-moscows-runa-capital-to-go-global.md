@@ -1,4 +1,4 @@
-# 荷兰的备份代理从莫斯科的 Runa Capital 获得$2M，以走向全球 TechCrunch
+# 荷兰的备份代理从莫斯科的 Runa Capital 获得$2M，以走向全球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/19/backupagent-in-the-netherlands-gets-2m-from-moscows-runa-capital-to-go-global/>
 

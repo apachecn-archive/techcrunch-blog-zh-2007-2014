@@ -1,4 +1,4 @@
-# Adobe 开始发布 Flash Player 10.1 移动版-让真正的测试开始吧 TechCrunch
+# Adobe 开始发布 Flash Player 10.1 移动版-让真正的测试开始吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/flash-player-mobile/>
 

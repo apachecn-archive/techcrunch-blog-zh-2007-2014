@@ -1,4 +1,4 @@
-# 美联储:索尼退出，基本上埋葬了整个技术 TechCrunch
+# 美联储:索尼退出，基本上埋葬了整个技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/31/fed-sony-calls-it-quits-basically-burying-the-technology-as-a-whole/>
 

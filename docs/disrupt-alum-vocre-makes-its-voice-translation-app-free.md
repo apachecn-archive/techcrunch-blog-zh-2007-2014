@@ -1,4 +1,4 @@
-# Disrupt Alum Vocre 免费提供语音翻译应用 TechCrunch
+# Disrupt Alum Vocre 免费提供语音翻译应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/01/disrupt-alum-vocre-makes-its-voice-translation-app-free/>
 

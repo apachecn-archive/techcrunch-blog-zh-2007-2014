@@ -1,4 +1,4 @@
-# Foonz，死池在呼叫 TechCrunch
+# Foonz，死池在呼叫 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/26/foonz-the-deadpool-is-calling/>
 

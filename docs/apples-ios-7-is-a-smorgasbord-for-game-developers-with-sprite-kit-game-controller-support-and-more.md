@@ -1,4 +1,4 @@
-# 苹果的 iOS 7 是游戏开发者的大杂烩，有雪碧套件、游戏控制器支持等等 TechCrunch
+# 苹果的 iOS 7 是游戏开发者的大杂烩，有雪碧套件、游戏控制器支持等等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/12/apples-ios-7-is-a-smorgasbord-for-game-developers-with-sprite-kit-game-controller-support-and-more/>
 

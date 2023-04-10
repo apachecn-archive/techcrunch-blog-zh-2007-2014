@@ -1,4 +1,4 @@
-# 网飞增加了三部来自梦工厂动画的原创儿童节目，包括《怪物史莱克》和《马达加斯加》的衍生产品 TechCrunch
+# 网飞增加了三部来自梦工厂动画的原创儿童节目，包括《怪物史莱克》和《马达加斯加》的衍生产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/netflix-adds-three-more-original-kids-shows-from-dreamworks-animation-including-shrek-madagascar-spin-offs/>
 

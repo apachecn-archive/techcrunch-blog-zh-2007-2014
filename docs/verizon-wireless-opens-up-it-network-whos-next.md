@@ -1,4 +1,4 @@
-# 威瑞森无线开放其网络。下一个是谁？TechCrunch
+# 威瑞森无线开放其网络。下一个是谁？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/27/verizon-wireless-opens-up-it-network-whos-next/>
 

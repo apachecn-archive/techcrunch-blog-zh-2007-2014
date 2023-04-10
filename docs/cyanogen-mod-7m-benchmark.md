@@ -1,4 +1,4 @@
-# Cyanogen Mod 筹集 700 万美元为 Android 固件寻找一条直接面向消费者的路线 TechCrunch
+# Cyanogen Mod 筹集 700 万美元为 Android 固件寻找一条直接面向消费者的路线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/cyanogen-mod-7m-benchmark/>
 

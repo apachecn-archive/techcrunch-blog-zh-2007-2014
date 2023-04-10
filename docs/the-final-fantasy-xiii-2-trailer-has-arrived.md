@@ -1,4 +1,4 @@
-# 最终幻想 XIII-2 预告片已经发布 TechCrunch
+# 最终幻想 XIII-2 预告片已经发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/the-final-fantasy-xiii-2-trailer-has-arrived/>
 

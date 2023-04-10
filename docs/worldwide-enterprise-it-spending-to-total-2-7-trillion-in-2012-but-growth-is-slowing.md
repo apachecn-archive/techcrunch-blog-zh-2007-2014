@@ -1,4 +1,4 @@
-# 2012 年全球企业 IT 支出总额将达到 2.7 万亿美元，但增速正在放缓 TechCrunch
+# 2012 年全球企业 IT 支出总额将达到 2.7 万亿美元，但增速正在放缓 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/worldwide-enterprise-it-spending-to-total-2-7-trillion-in-2012-but-growth-is-slowing/>
 

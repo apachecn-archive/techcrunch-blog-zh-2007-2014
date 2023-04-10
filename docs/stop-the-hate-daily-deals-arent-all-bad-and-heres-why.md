@@ -1,4 +1,4 @@
-# 停止仇恨:日常交易并不都是坏的，这就是为什么 TechCrunch
+# 停止仇恨:日常交易并不都是坏的，这就是为什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/25/stop-the-hate-daily-deals-arent-all-bad-and-heres-why/>
 

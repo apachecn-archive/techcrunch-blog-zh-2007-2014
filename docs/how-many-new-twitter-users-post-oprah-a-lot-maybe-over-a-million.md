@@ -1,4 +1,4 @@
-# 有多少新的推特用户离开了奥普拉？很多。也许超过一百万。TechCrunch
+# 有多少新的推特用户离开了奥普拉？很多。也许超过一百万。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/20/how-many-new-twitter-users-post-oprah-a-lot-maybe-over-a-million/>
 

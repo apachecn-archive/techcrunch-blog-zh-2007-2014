@@ -1,4 +1,4 @@
-# 谷歌聘用微软产品资深人士 Sanaz Ahari TechCrunch
+# 谷歌聘用微软产品资深人士 Sanaz Ahari 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/google-hires-microsoft-product-veteran-sanaz-ahari/>
 

@@ -1,4 +1,4 @@
-# 苹果的 iPhone 安全措施促使执法部门的解锁请求排队 TechCrunch
+# 苹果的 iPhone 安全措施促使执法部门的解锁请求排队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/10/apples-iphone-security-measures-prompt-queue-of-unlock-requests-from-law-enforcement/>
 

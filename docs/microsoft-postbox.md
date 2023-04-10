@@ -1,4 +1,4 @@
-# 微软是否正在策划一个名为 Postbox 的 Yelp 竞争对手？TechCrunch
+# 微软是否正在策划一个名为 Postbox 的 Yelp 竞争对手？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/23/microsoft-postbox/>
 

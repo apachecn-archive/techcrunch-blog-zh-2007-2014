@@ -1,4 +1,4 @@
-# HTC 的加大尺寸 One Max 是一款 6 英寸的平板电脑，据说将于 9 月份发布 TechCrunch
+# HTC 的加大尺寸 One Max 是一款 6 英寸的平板电脑，据说将于 9 月份发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/15/htcs-plus-sized-one-max-is-a-6-inch-phablet-said-to-launch-in-september/>
 

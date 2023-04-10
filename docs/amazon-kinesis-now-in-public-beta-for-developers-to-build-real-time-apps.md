@@ -1,4 +1,4 @@
-# 亚马逊 Kinesis 现已进入公测阶段，供开发者构建实时应用 TechCrunch
+# 亚马逊 Kinesis 现已进入公测阶段，供开发者构建实时应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/17/amazon-kinesis-now-in-public-beta-for-developers-to-build-real-time-apps/>
 

@@ -1,4 +1,4 @@
-# Sprint 削减季度亏损，押注 iPhone 用户增加 TechCrunch
+# Sprint 削减季度亏损，押注 iPhone 用户增加 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/sprint-stems-quarterly-losses-betting-on-iphone-for-subscriber-uptick/>
 

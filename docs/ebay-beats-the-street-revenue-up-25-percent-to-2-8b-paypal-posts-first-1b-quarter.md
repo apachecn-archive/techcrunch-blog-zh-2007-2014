@@ -1,4 +1,4 @@
-# 易贝击败了街道；收入增长 25%，达到 28 亿美元；PayPal 公布第一季度 1B 美元 TechCrunch
+# 易贝击败了街道；收入增长 25%，达到 28 亿美元；PayPal 公布第一季度 1B 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/ebay-beats-the-street-revenue-up-25-percent-to-2-8b-paypal-posts-first-1b-quarter/>
 

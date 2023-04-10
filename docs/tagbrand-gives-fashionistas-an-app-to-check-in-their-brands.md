@@ -1,4 +1,4 @@
-# Tagbrand 为时尚人士提供了一款查看品牌的应用程序 TechCrunch
+# Tagbrand 为时尚人士提供了一款查看品牌的应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/21/tagbrand-gives-fashionistas-an-app-to-check-in-their-brands/>
 

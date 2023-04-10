@@ -1,4 +1,4 @@
-# YouTube 广为流传 TechCrunch
+# YouTube 广为流传 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/24/youtube-goes-wide/>
 

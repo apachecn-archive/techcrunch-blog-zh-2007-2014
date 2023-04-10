@@ -1,4 +1,4 @@
-# 虚拟视图应用筹集 50 万美元，将增强现实活动引入房地产领域 TechCrunch
+# 虚拟视图应用筹集 50 万美元，将增强现实活动引入房地产领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/23/virtual-view-app/>
 

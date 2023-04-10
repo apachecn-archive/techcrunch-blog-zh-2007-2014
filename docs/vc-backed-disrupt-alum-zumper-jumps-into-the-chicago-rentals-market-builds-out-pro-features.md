@@ -1,4 +1,4 @@
-# 风投支持的 Disrupt Alum Zumper 进军芝加哥租赁市场，打造专业功能 TechCrunch
+# 风投支持的 Disrupt Alum Zumper 进军芝加哥租赁市场，打造专业功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/28/vc-backed-disrupt-alum-zumper-jumps-into-the-chicago-rentals-market-builds-out-pro-features/>
 

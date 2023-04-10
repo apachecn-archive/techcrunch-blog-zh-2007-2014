@@ -1,4 +1,4 @@
-# 《今日美国》称流量大增——TechCrunch
+# 《今日美国》称流量大增——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/usatoday-says-traffic-way-up/>
 

@@ -1,4 +1,4 @@
-# 酷炫概念预警:可穿戴式 iRing Ring(呃？)控制 iPod、iPhone TechCrunch
+# 酷炫概念预警:可穿戴式 iRing Ring(呃？)控制 iPod、iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/04/cool-concept-alert-wearable-iring-ring-uh-controls-ipod-iphone/>
 

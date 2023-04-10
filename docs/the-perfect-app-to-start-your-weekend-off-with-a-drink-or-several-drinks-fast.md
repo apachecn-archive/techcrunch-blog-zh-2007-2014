@@ -1,4 +1,4 @@
-# 用一杯或几杯酒开始你的周末的完美应用。很快。TechCrunch
+# 用一杯或几杯酒开始你的周末的完美应用。很快。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/18/the-perfect-app-to-start-your-weekend-off-with-a-drink-or-several-drinks-fast/>
 

@@ -1,4 +1,4 @@
-# 移动直播对决:Qik vs Kyte vs flix wagon TechCrunch
+# 移动直播对决:Qik vs Kyte vs flix wagon 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/17/mobile-livecasting-faces-off-qik-vs-kyte-vs-flixwagon/>
 

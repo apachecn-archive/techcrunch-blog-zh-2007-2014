@@ -1,4 +1,4 @@
-# JustUnfollow 是一款 Twitter & Instagram 好友管理应用，你可能会用到它 TechCrunch
+# JustUnfollow 是一款 Twitter & Instagram 好友管理应用，你可能会用到它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/09/justunfollow-is-a-twitter-instagram-friend-management-app-you-might-actually-use/>
 

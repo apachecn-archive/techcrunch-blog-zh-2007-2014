@@ -1,4 +1,4 @@
-# 新的亚马逊 Appstore 激励计划鼓励开发者为亚马逊开发应用，将为消费者提供应用“返现”TechCrunch
+# 新的亚马逊 Appstore 激励计划鼓励开发者为亚马逊开发应用，将为消费者提供应用“返现”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/08/new-amazon-appstore-incentive-program-encourages-developers-to-build-for-amazon-will-give-consumers-cash-back-on-apps/>
 

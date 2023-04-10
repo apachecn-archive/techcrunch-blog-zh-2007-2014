@@ -1,4 +1,4 @@
-# Lyst 出柜开启高级时尚 TechCrunch
+# Lyst 出柜开启高级时尚 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/16/lyst-comes-out-of-the-closet-to-open-up-high-fashion/>
 

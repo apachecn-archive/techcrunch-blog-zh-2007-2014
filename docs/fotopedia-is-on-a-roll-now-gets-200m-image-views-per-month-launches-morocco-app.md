@@ -1,4 +1,4 @@
-# Fotopedia 正在蓬勃发展:现在每月有 2 亿的图片浏览量，推出摩洛哥应用 TechCrunch
+# Fotopedia 正在蓬勃发展:现在每月有 2 亿的图片浏览量，推出摩洛哥应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/16/fotopedia-is-on-a-roll-now-gets-200m-image-views-per-month-launches-morocco-app/>
 

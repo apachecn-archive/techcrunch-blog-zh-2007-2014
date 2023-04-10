@@ -1,4 +1,4 @@
-# RIM 提供设备驱动的未来展望 TechCrunch
+# RIM 提供设备驱动的未来展望 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/rim-offers-up-a-device-driven-look-at-tomorrow/>
 

@@ -1,4 +1,4 @@
-# Pinterest 在移动领域大展拳脚:推出首个原生 iPad 应用，首次亮相 Android TechCrunch
+# Pinterest 在移动领域大展拳脚:推出首个原生 iPad 应用，首次亮相 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/14/pinterest-goes-big-on-mobile-rolls-out-first-ever-native-ipad-app-makes-its-android-debut/?utm_source=ausdroid.net>
 

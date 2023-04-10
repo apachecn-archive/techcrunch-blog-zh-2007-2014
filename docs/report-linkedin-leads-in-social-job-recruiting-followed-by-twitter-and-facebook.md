@@ -1,4 +1,4 @@
-# 报告:LinkedIn 在社交招聘领域领先，其次是 Twitter 和脸书 TechCrunch
+# 报告:LinkedIn 在社交招聘领域领先，其次是 Twitter 和脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/13/report-linkedin-leads-in-social-job-recruiting-followed-by-twitter-and-facebook/>
 

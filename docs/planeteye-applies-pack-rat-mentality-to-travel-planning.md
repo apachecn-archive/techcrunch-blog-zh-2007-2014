@@ -1,4 +1,4 @@
-# PlanetEye 将“打包鼠”思维应用于旅行规划 TechCrunch
+# PlanetEye 将“打包鼠”思维应用于旅行规划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/20/planeteye-applies-pack-rat-mentality-to-travel-planning/>
 

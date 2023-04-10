@@ -1,4 +1,4 @@
-# Sprint 推出首款 100 美元 4G 安卓手机:三星征服 4G TechCrunch
+# Sprint 推出首款 100 美元 4G 安卓手机:三星征服 4G 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/sprint-formally-unveils-the-100-samsung-conquer-4g/>
 

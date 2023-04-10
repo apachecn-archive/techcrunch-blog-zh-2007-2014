@@ -1,4 +1,4 @@
-# Throwback 是一个应用程序，它会窃取您的照片，并将其发送给未来的您 TechCrunch
+# Throwback 是一个应用程序，它会窃取您的照片，并将其发送给未来的您 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/20/throwback-is-an-app-that-steals-your-photos-and-sends-them-to-future-you/>
 

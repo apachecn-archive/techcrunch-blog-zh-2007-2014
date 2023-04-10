@@ -1,4 +1,4 @@
-# Piazzza 为同学们提供了一个交流知识的在线论坛 TechCrunch
+# Piazzza 为同学们提供了一个交流知识的在线论坛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/05/piazzza-college-questions-answers/>
 

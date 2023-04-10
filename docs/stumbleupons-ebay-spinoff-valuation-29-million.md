@@ -1,4 +1,4 @@
-# StumbleUpon 的 Ebay 分拆估值:2900 万美元 TechCrunch
+# StumbleUpon 的 Ebay 分拆估值:2900 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/30/stumbleupons-ebay-spinoff-valuation-29-million/>
 

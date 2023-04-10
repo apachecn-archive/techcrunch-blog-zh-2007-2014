@@ -1,4 +1,4 @@
-# 特斯拉 IPO 股票上涨、下跌和反弹。市场估价为 17 亿美元。TechCrunch
+# 特斯拉 IPO 股票上涨、下跌和反弹。市场估价为 17 亿美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/29/tesla-ipo-1-7-billion/>
 

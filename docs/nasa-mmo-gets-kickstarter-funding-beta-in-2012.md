@@ -1,4 +1,4 @@
-# 美国宇航局 MMO 获得 Kickstarter 资助，2012 年测试 TechCrunch
+# 美国宇航局 MMO 获得 Kickstarter 资助，2012 年测试 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/nasa-mmo-gets-kickstarter-funding-beta-in-2012/>
 

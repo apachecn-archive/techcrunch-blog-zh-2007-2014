@@ -1,4 +1,4 @@
-# Dropbox 选择投资者团体，估值超过 50 亿美元 TechCrunch
+# Dropbox 选择投资者团体，估值超过 50 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/13/dropbox-chooses-investor-group-valuation-set-at-5-billion/>
 

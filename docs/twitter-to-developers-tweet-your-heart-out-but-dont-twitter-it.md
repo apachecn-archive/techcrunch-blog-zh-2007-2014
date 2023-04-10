@@ -1,4 +1,4 @@
-# Twitter 致开发者:尽情“推特”吧，但不要“推特”它 TechCrunch
+# Twitter 致开发者:尽情“推特”吧，但不要“推特”它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/01/twitter-to-developers-tweet-your-heart-out-but-dont-twitter-it/>
 

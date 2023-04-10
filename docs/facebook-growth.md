@@ -1,4 +1,4 @@
-# 自首次公开募股以来，脸书增长了 12 个大数字 TechCrunch
+# 自首次公开募股以来，脸书增长了 12 个大数字 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/17/facebook-growth/>
 

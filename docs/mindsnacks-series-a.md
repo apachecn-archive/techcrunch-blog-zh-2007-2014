@@ -1,4 +1,4 @@
-# MindSnacks 从红杉获得 650 万美元，将有趣的教育游戏带到您的移动设备上 TechCrunch
+# MindSnacks 从红杉获得 650 万美元，将有趣的教育游戏带到您的移动设备上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/02/mindsnacks-series-a/>
 

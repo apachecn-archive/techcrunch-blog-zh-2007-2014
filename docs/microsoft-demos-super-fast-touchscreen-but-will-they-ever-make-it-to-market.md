@@ -1,4 +1,4 @@
-# 微软展望超高速触摸屏的未来 TechCrunch
+# 微软展望超高速触摸屏的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/09/microsoft-demos-super-fast-touchscreen-but-will-they-ever-make-it-to-market/>
 

@@ -1,4 +1,4 @@
-# 明亮的 3D 驱动:爱普生推出全球首个 HTPS 薄膜晶体管 3D 面板 TechCrunch
+# 明亮的 3D 驱动:爱普生推出全球首个 HTPS 薄膜晶体管 3D 面板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/bright-3d-drive-epson-introduces-worlds-first-htps-tft-3d-panel/>
 

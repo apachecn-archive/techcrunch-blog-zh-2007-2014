@@ -1,4 +1,4 @@
-# 我们就是我们的分数:有抱负的自我 TechCrunch
+# 我们就是我们的分数:有抱负的自我 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/14/we-are-our-scores-the-aspirational-self/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_source=sendgrid.com&utm_medium=email&utm_campaign=website>
 

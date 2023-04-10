@@ -1,4 +1,4 @@
-# 撕裂美好时光..你好伟大的时代！里氏震级首次亮相另一个即时经典 TechCrunch
+# 撕裂美好时光..你好伟大的时代！里氏震级首次亮相另一个即时经典 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/10/rip-good-times-hello-great-times-the-richter-scales-debut-another-instant-classic/>
 

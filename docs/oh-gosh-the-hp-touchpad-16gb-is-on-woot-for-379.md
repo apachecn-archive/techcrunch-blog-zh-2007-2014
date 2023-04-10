@@ -1,4 +1,4 @@
-# 天哪:惠普 16GB 触摸板在 Woot 上售价 379 美元 TechCrunch
+# 天哪:惠普 16GB 触摸板在 Woot 上售价 379 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/oh-gosh-the-hp-touchpad-16gb-is-on-woot-for-379/>
 

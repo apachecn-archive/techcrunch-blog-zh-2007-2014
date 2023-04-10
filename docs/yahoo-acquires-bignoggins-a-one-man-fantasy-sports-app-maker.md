@@ -1,4 +1,4 @@
-# 雅虎收购 Bignoggins，一家单人梦幻运动应用制造商 TechCrunch
+# 雅虎收购 Bignoggins，一家单人梦幻运动应用制造商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/01/yahoo-acquires-bignoggins-a-one-man-fantasy-sports-app-maker/>
 

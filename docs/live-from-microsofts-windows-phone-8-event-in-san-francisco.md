@@ -1,4 +1,4 @@
-# 旧金山微软 Windows Phone 8 活动现场直播 TechCrunch
+# 旧金山微软 Windows Phone 8 活动现场直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/29/live-from-microsofts-windows-phone-8-event-in-san-francisco/>
 

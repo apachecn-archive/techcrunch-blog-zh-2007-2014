@@ -1,4 +1,4 @@
-# ZestCash 首次推出新的大数据承保模型来确定消费者信贷风险 TechCrunch
+# ZestCash 首次推出新的大数据承保模型来确定消费者信贷风险 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/zestcash-debuts-new-big-data-underwriting-models-to-determine-consumer-credit-risk/>
 

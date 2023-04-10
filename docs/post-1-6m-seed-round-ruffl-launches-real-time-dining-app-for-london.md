@@ -1,4 +1,4 @@
-# 在 160 万美元的种子期后，Ruffl 为伦敦推出实时餐饮应用 TechCrunch
+# 在 160 万美元的种子期后，Ruffl 为伦敦推出实时餐饮应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/post-1-6m-seed-round-ruffl-launches-real-time-dining-app-for-london/>
 

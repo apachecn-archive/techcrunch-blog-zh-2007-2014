@@ -1,4 +1,4 @@
-# 认识新的企业客户，他很像旧的企业客户 TechCrunch
+# 认识新的企业客户，他很像旧的企业客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/13/new-enterprise-customer/>
 

@@ -1,4 +1,4 @@
-# (创始人乔希·科佩尔曼和克里斯·迪克森的办公时间)必做之事:创建市场 TechCrunch
+# (创始人乔希·科佩尔曼和克里斯·迪克森的办公时间)必做之事:创建市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/18/founder-office-hours-have-to-have/>
 

@@ -1,4 +1,4 @@
-# Zoomdata 筹集了 410 万美元，用于连接、传输和可视化展示公司数据 TechCrunch
+# Zoomdata 筹集了 410 万美元，用于连接、传输和可视化展示公司数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/zoomdata-raises-4-1m-for-connecting-streaming-and-visually-showing-a-companys-data/>
 

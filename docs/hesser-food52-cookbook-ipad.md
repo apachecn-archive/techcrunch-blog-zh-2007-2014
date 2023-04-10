@@ -1,4 +1,4 @@
-# Amanda Hesser 的 Food52 在 iPad 上发布了一本假日食谱 TechCrunch
+# Amanda Hesser 的 Food52 在 iPad 上发布了一本假日食谱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/hesser-food52-cookbook-ipad/>
 

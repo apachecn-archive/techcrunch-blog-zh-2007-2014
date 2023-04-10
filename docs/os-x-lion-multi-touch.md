@@ -1,4 +1,4 @@
-# 有了 OS X 狮子，不再是点击，而是轻击 TechCrunch
+# 有了 OS X 狮子，不再是点击，而是轻击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/25/os-x-lion-multi-touch/>
 

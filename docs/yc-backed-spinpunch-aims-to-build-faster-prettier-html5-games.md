@@ -1,4 +1,4 @@
-# YC 支持的 SpinPunch 旨在开发更快更漂亮的 HTML5 游戏 TechCrunch
+# YC 支持的 SpinPunch 旨在开发更快更漂亮的 HTML5 游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/17/yc-backed-spinpunch-aims-to-build-faster-prettier-html5-games/>
 

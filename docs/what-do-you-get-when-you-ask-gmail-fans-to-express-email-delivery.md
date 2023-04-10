@@ -1,4 +1,4 @@
-# 当您要求 Gmail 粉丝快递邮件时，您会得到什么？TechCrunch
+# 当您要求 Gmail 粉丝快递邮件时，您会得到什么？
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/what-do-you-get-when-you-ask-gmail-fans-to-express-email-delivery/>
 

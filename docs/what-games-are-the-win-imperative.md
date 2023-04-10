@@ -1,4 +1,4 @@
-# 什么是游戏:必胜法则 TechCrunch
+# 什么是游戏:必胜法则 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/04/what-games-are-the-win-imperative/>
 

@@ -1,4 +1,4 @@
-# 新的创业加速器 Advise.me 增加种子资金，为团队增加 5 名成员 TechCrunch
+# 新的创业加速器 Advise.me 增加种子资金，为团队增加 5 名成员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/new-startup-accelerator-advise-me-increases-seed-funding-possibilities-adds-5-more-to-its-team/>
 

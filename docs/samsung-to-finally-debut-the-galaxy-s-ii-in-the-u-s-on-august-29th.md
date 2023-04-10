@@ -1,4 +1,4 @@
-# 三星将于 8 月 29 日在美国发布 Galaxy S II TechCrunch
+# 三星将于 8 月 29 日在美国发布 Galaxy S II 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/samsung-to-finally-debut-the-galaxy-s-ii-in-the-u-s-on-august-29th/>
 

@@ -1,4 +1,4 @@
-# Bit.ly 开始警告恶意链接 TechCrunch
+# Bit.ly 开始警告恶意链接 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/07/16/bitly-starts-starts-warning-of-malicious-sites/>
 

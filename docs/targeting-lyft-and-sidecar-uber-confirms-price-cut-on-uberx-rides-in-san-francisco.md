@@ -1,4 +1,4 @@
-# 优步确认 UberX 在旧金山降价，目标是竞争对手 Lyft 和 SideCar TechCrunch
+# 优步确认 UberX 在旧金山降价，目标是竞争对手 Lyft 和 SideCar 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/12/targeting-lyft-and-sidecar-uber-confirms-price-cut-on-uberx-rides-in-san-francisco/>
 

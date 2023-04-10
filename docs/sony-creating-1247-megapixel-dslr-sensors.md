@@ -1,4 +1,4 @@
-# 索尼制造 1247 万像素 DSLR 传感器——TechCrunch
+# 索尼制造 1247 万像素 DSLR 传感器——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/sony-creating-1247-megapixel-dslr-sensors/>
 

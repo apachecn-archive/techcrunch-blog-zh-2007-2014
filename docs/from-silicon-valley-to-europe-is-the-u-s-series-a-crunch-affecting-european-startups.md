@@ -1,4 +1,4 @@
-# 从硅谷到欧洲:美国系列赛是影响欧洲创业公司的危机吗？TechCrunch
+# 从硅谷到欧洲:美国系列赛是影响欧洲创业公司的危机吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/22/from-silicon-valley-to-europe-is-the-u-s-series-a-crunch-affecting-european-startups/>
 

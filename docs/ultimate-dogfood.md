@@ -1,4 +1,4 @@
-# 扎克伯格:“我真的一整天都在用脸书。”TechCrunch
+# 扎克伯格:“我真的一整天都在用脸书。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/02/ultimate-dogfood/>
 

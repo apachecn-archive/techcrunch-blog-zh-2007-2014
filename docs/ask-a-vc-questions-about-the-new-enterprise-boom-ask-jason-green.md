@@ -1,4 +1,4 @@
-# 问一个 VC:关于新企业热潮的问题？询问杰森·格林 TechCrunch
+# 问一个 VC:关于新企业热潮的问题？询问杰森·格林 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/06/ask-a-vc-questions-about-the-new-enterprise-boom-ask-jason-green/>
 

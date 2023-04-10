@@ -1,4 +1,4 @@
-# Twitter:技术上有些问题 TechCrunch
+# Twitter:技术上有些问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/20/twitter-something-is-technically-wrong/>
 

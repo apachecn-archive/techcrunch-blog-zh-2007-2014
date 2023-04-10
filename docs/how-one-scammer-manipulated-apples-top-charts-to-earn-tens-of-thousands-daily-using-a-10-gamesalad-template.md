@@ -1,4 +1,4 @@
-# 一个骗子如何利用一个 10 美元的 GameSalad 模板操纵苹果的排行榜，每天赚取数万美元 TechCrunch
+# 一个骗子如何利用一个 10 美元的 GameSalad 模板操纵苹果的排行榜，每天赚取数万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/how-one-scammer-manipulated-apples-top-charts-to-earn-tens-of-thousands-daily-using-a-10-gamesalad-template/>
 

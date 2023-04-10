@@ -1,4 +1,4 @@
-# Snapchat 拥有一项专利，可以帮助它成为事实上的相机应用 TechCrunch
+# Snapchat 拥有一项专利，可以帮助它成为事实上的相机应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/21/snapchat-has-a-patent-that-could-help-it-become-the-defacto-camera-app/>
 

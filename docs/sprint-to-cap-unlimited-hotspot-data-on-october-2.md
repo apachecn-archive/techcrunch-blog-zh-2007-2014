@@ -1,4 +1,4 @@
-# 10 月 2 日冲刺无限热点数据封顶？TechCrunch
+# 10 月 2 日冲刺无限热点数据封顶？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/sprint-to-cap-unlimited-hotspot-data-on-october-2/>
 

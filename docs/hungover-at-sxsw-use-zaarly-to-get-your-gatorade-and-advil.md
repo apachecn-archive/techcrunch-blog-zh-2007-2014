@@ -1,4 +1,4 @@
-# 宿醉在 SXSW？使用 Zaarly 获取佳得乐和 Advil TechCrunch
+# 宿醉在 SXSW？使用 Zaarly 获取佳得乐和 Advil 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/13/hungover-at-sxsw-use-zaarly-to-get-your-gatorade-and-advil/>
 

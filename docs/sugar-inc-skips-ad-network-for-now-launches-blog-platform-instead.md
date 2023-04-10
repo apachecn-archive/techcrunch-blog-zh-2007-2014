@@ -1,4 +1,4 @@
-# Sugar Inc 跳过广告网络，转而推出博客平台 TechCrunch
+# Sugar Inc 跳过广告网络，转而推出博客平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/19/sugar-inc-skips-ad-network-for-now-launches-blog-platform-instead/>
 

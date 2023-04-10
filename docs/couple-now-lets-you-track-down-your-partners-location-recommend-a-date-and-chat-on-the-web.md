@@ -1,4 +1,4 @@
-# 情侣应用程序现在允许你在手机和桌面上跟踪你的伴侣 TechCrunch
+# 情侣应用程序现在允许你在手机和桌面上跟踪你的伴侣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/18/couple-now-lets-you-track-down-your-partners-location-recommend-a-date-and-chat-on-the-web/>
 

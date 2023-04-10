@@ -1,4 +1,4 @@
-# 我的年鉴推出众包重新设计 TechCrunch
+# 我的年鉴推出众包重新设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/28/myyearbook-redesign/>
 

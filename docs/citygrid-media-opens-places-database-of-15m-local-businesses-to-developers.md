@@ -1,4 +1,4 @@
-# CityGrid Media 向开发者开放 1500 万本地企业的位置数据库 TechCrunch
+# CityGrid Media 向开发者开放 1500 万本地企业的位置数据库 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/citygrid-media-opens-places-database-of-15m-local-businesses-to-developers/>
 

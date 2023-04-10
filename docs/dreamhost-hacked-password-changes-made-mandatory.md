@@ -1,4 +1,4 @@
-# DreamHost 被黑，密码更改成为强制要求 TechCrunch
+# DreamHost 被黑，密码更改成为强制要求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/dreamhost-hacked-password-changes-made-mandatory/>
 

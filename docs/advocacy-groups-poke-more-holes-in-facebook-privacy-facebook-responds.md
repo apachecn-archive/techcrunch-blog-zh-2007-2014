@@ -1,4 +1,4 @@
-# 倡导团体在脸书隐私上捅更多的洞，脸书回应 TechCrunch
+# 倡导团体在脸书隐私上捅更多的洞，脸书回应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/advocacy-groups-poke-more-holes-in-facebook-privacy-facebook-responds/>
 

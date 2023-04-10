@@ -1,4 +1,4 @@
-# 马克·安德森蓬勃发展的博客帝国:投资谈话要点备忘录 TechCrunch
+# 马克·安德森蓬勃发展的博客帝国:投资谈话要点备忘录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/06/marc-andreessens-burgeoning-blogging-empire-invests-in-talking-points-memo/>
 

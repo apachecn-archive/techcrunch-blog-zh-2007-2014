@@ -1,4 +1,4 @@
-# 触觉背心帮助患者恢复平衡 TechCrunch
+# 触觉背心帮助患者恢复平衡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/tactile-vest-helps-patients-recover-balance/>
 

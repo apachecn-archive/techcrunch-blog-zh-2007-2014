@@ -1,4 +1,4 @@
-# 随着增长的加速，Gogobot 为社交旅行筹集了 1500 万美元 TechCrunch
+# 随着增长的加速，Gogobot 为社交旅行筹集了 1500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/gogobot-raises-15-million/>
 

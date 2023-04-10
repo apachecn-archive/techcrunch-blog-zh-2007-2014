@@ -1,4 +1,4 @@
-# 国家安全局可以读取一些加密的 Tor 流量 TechCrunch
+# 国家安全局可以读取一些加密的 Tor 流量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/07/the-nsa-can-read-some-encrypted-tor-traffic/>
 

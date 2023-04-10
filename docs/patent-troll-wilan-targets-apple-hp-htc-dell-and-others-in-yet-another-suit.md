@@ -1,4 +1,4 @@
-# 专利巨魔 WiLAN 在另一场诉讼中瞄准苹果、惠普、HTC、戴尔和其他公司 TechCrunch
+# 专利巨魔 WiLAN 在另一场诉讼中瞄准苹果、惠普、HTC、戴尔和其他公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/02/patent-troll-wilan-targets-apple-hp-htc-dell-and-others-in-yet-another-suit/>
 

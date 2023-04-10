@@ -1,4 +1,4 @@
-# 索德伯格在电视电影长宽比上爆发 TechCrunch
+# 索德伯格在电视电影长宽比上爆发 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/20/soderbergh-goes-off-on-tv-movie-aspect-ratios/>
 

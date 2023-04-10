@@ -1,4 +1,4 @@
-# SeatGeek 重新设计其票务市场，推出赞助商平台 TechCrunch
+# SeatGeek 重新设计其票务市场，推出赞助商平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/seatgeek-redesigns-its-ticket-marketplace-launches-sponsor-platform/>
 

@@ -1,4 +1,4 @@
-# 随着 IPO 的临近，Jive 增加了四名新的董事会成员 TechCrunch
+# 随着 IPO 的临近，Jive 增加了四名新的董事会成员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/30/jive-adds-four-new-board-members-as-the-ipo-gets-closer/>
 

@@ -1,4 +1,4 @@
-# 有了谷歌，就会有嫌隙 TechCrunch
+# 有了谷歌，就会有嫌隙 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/06/ive-abandoned-my-boy/>
 

@@ -1,4 +1,4 @@
-# Gallien Krueger MB 800 即将上市 TechCrunch
+# Gallien Krueger MB 800 即将上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/gallien-krueger-mb-800-ships-soon/>
 

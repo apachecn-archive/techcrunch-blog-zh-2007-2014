@@ -1,4 +1,4 @@
-# 孤独的美国运输安全管理局推特账户对抗整个互联网 TechCrunch
+# 孤独的美国运输安全管理局推特账户对抗整个互联网 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/19/rapiscan-yes-really/>
 

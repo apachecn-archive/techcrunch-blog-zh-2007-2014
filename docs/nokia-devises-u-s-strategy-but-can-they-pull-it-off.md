@@ -1,4 +1,4 @@
-# 诺基亚设计了美国的战略，但是他们能成功吗？TechCrunch
+# 诺基亚设计了美国的战略，但是他们能成功吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/nokia-devises-u-s-strategy-but-can-they-pull-it-off/>
 

@@ -1,4 +1,4 @@
-# Mailgun 为开发人员提供了创建和管理在线邮箱的 API TechCrunch
+# Mailgun 为开发人员提供了创建和管理在线邮箱的 API 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/28/mailgun-gives-developers-an-api-for-creating-and-managing-online-mailboxes/>
 

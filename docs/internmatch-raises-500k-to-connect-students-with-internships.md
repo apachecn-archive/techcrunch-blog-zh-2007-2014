@@ -1,4 +1,4 @@
-# InternMatch 筹集了 50 万美元，将学生与实习联系起来 TechCrunch
+# InternMatch 筹集了 50 万美元，将学生与实习联系起来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/internmatch-raises-500k-to-connect-students-with-internships/>
 

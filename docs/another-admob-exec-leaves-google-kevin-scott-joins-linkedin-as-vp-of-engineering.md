@@ -1,4 +1,4 @@
-# 另一位 AdMob 高管离开谷歌；凯文·斯科特加入 LinkedIn，担任工程副总裁 TechCrunch
+# 另一位 AdMob 高管离开谷歌；凯文·斯科特加入 LinkedIn，担任工程副总裁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/another-admob-exec-leaves-google-kevin-scott-joins-linkedin-as-vp-of-engineering/>
 

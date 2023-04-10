@@ -1,4 +1,4 @@
-# 未来学家:N-盖奇还活着！但是它能生存吗？TechCrunch
+# 未来学家:N-盖奇还活着！但是它能生存吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/the-futurist-the-n-gage-lives-but-can-it-survive/>
 

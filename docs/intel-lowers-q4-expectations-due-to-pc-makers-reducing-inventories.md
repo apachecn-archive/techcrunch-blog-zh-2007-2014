@@ -1,4 +1,4 @@
-# 由于电脑制造商减少库存，英特尔将第四季度销售预期下调了$ 1B TechCrunch
+# 由于电脑制造商减少库存，英特尔将第四季度销售预期下调了$ 1B 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/intel-lowers-q4-expectations-due-to-pc-makers-reducing-inventories/>
 

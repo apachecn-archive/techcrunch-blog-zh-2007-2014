@@ -1,4 +1,4 @@
-# LimeJuice 的移动社交网络:很简单，所以人们可能会使用它 TechCrunch
+# LimeJuice 的移动社交网络:很简单，所以人们可能会使用它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/06/limejuices-mobile-social-network-its-easy-and-so-people-may-use-it/>
 

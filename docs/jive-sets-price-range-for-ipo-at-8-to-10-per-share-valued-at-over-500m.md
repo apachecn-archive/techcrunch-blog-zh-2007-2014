@@ -1,4 +1,4 @@
-# Jive 将 IPO 价格区间定在每股 8 至 10 美元，估值超过 5 亿美元 TechCrunch
+# Jive 将 IPO 价格区间定在每股 8 至 10 美元，估值超过 5 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/jive-sets-price-range-for-ipo-at-8-to-10-per-share-valued-at-over-500m/>
 

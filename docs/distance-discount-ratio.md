@@ -1,4 +1,4 @@
-# 发现距离折现率 TechCrunch
+# 发现距离折现率 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/distance-discount-ratio/>
 

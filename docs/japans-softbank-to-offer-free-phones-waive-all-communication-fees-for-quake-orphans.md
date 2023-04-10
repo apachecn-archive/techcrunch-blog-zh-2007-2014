@@ -1,4 +1,4 @@
-# 日本软银将提供免费手机，免除地震孤儿的所有通信费用 TechCrunch
+# 日本软银将提供免费手机，免除地震孤儿的所有通信费用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/30/japans-softbank-to-offer-free-phones-waive-all-communication-fees-for-quake-orphans/>
 

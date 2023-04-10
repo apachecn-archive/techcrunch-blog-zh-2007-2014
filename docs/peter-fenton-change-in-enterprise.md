@@ -1,4 +1,4 @@
-# Twitter，Yelp 董事会成员彼得·芬顿谈企业如何向消费者网络学习 TechCrunch
+# Twitter，Yelp 董事会成员彼得·芬顿谈企业如何向消费者网络学习 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/10/peter-fenton-change-in-enterprise/>
 

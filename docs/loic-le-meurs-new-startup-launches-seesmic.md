@@ -1,4 +1,4 @@
-# Loic Le Meur 的新创业公司发布:Seesmic TechCrunch
+# Loic Le Meur 的新创业公司发布:Seesmic 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/08/loic-le-meurs-new-startup-launches-seesmic/>
 

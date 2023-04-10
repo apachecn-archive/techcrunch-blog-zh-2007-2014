@@ -1,4 +1,4 @@
-# AdMob 的最终移动指标报告:Android 正在崛起，但苹果仍在全球占据主导地位 TechCrunch
+# AdMob 的最终移动指标报告:Android 正在崛起，但苹果仍在全球占据主导地位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/admob-android-apple/>
 

@@ -1,4 +1,4 @@
-# 忍者明星衣钩给克拉特致命一击 TechCrunch
+# 忍者明星衣钩给克拉特致命一击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/31/ninja-star-coat-hook-strikes-a-death-blow-to-clutter/>
 

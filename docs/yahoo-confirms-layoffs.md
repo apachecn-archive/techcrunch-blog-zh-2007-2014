@@ -1,4 +1,4 @@
-# 雅虎裁员 4 %;向 500 多名员工发放解雇通知书 TechCrunch
+# 雅虎裁员 4 %;向 500 多名员工发放解雇通知书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/14/yahoo-confirms-layoffs/>
 

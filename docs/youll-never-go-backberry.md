@@ -1,4 +1,4 @@
-# NSFW:我选择不选 iPhone...或者安卓。我选了别的。TechCrunch
+# NSFW:我选择不选 iPhone...或者安卓。我选了别的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/08/youll-never-go-backberry/>
 

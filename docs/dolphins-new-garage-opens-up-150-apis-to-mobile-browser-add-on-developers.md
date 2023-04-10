@@ -1,4 +1,4 @@
-# Dolphin 的新“车库”向移动浏览器插件开发者开放了 150 个 API TechCrunch
+# Dolphin 的新“车库”向移动浏览器插件开发者开放了 150 个 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/28/dolphins-new-garage-opens-up-150-apis-to-mobile-browser-add-on-developers/>
 

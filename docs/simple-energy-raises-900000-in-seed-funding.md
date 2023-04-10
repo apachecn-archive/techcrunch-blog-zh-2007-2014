@@ -1,4 +1,4 @@
-# 简单能源筹集了 90 万美元的种子资金 TechCrunch
+# 简单能源筹集了 90 万美元的种子资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/simple-energy-raises-900000-in-seed-funding/>
 

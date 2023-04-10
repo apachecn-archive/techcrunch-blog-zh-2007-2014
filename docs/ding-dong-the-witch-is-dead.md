@@ -1,4 +1,4 @@
-# 2011 年 10 月 12 日:短信开始消亡的那一天 TechCrunch
+# 2011 年 10 月 12 日:短信开始消亡的那一天 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/ding-dong-the-witch-is-dead/>
 

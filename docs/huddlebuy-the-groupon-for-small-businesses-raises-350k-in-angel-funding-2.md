@@ -1,4 +1,4 @@
-# Huddlebuy,“面向小型企业的 Groupon ”,获得天使投资 35 万美元 TechCrunch
+# Huddlebuy,“面向小型企业的 Groupon ”,获得天使投资 35 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/11/huddlebuy-the-groupon-for-small-businesses-raises-350k-in-angel-funding-2/>
 

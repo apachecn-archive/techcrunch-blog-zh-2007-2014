@@ -1,4 +1,4 @@
-# 完成交易:欧盟批准微软以 85 亿美元收购 Skype TechCrunch
+# 完成交易:欧盟批准微软以 85 亿美元收购 Skype 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/07/done-deal-eu-approves-microsofts-8-5-billion-acquisition-of-skype/>
 

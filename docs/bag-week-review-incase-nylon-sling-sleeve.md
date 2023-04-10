@@ -1,4 +1,4 @@
-# 箱包周回顾:内置尼龙吊装套 TechCrunch
+# 箱包周回顾:内置尼龙吊装套 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/bag-week-review-incase-nylon-sling-sleeve/>
 

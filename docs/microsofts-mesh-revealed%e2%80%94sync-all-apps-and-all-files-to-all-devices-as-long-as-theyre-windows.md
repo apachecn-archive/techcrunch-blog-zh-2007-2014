@@ -1,4 +1,4 @@
-# 微软的 Mesh 揭示了——将所有应用和所有文件同步到所有设备(只要它们是 Windows)TechCrunch
+# 微软的 Mesh 揭示了——将所有应用和所有文件同步到所有设备(只要它们是 Windows)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/22/microsofts-mesh-revealed%e2%80%94sync-all-apps-and-all-files-to-all-devices-as-long-as-theyre-windows/>
 

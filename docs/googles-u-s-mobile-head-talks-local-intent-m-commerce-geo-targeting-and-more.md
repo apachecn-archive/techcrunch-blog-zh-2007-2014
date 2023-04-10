@@ -1,4 +1,4 @@
-# 谷歌美国移动负责人谈论本地意图、移动商务、地理定位等 TechCrunch
+# 谷歌美国移动负责人谈论本地意图、移动商务、地理定位等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/14/googles-u-s-mobile-head-talks-local-intent-m-commerce-geo-targeting-and-more/>
 

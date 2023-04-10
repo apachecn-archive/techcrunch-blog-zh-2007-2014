@@ -1,4 +1,4 @@
-# 需要工作？标记照片每小时收费 1.20 美元 TechCrunch
+# 需要工作？标记照片每小时收费 1.20 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/02/need-a-job-make-120hour-tagging-photos/>
 

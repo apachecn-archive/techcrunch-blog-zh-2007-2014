@@ -1,4 +1,4 @@
-# 法院裁定雅虎必须为墨西哥黄页违约支付 27 亿美元 TechCrunch
+# 法院裁定雅虎必须为墨西哥黄页违约支付 27 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/30/yahoo-worldwide-industries-ideas-interactivas/>
 

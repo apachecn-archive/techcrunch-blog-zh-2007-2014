@@ -1,4 +1,4 @@
-# 联想宣布行业第一，Wha？！TechCrunch
+# 联想宣布行业第一，Wha？！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/17/lenovo-announces-industry-first-wha/>
 

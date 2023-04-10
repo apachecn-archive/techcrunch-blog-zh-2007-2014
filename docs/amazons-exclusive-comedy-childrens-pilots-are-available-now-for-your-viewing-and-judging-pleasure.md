@@ -1,4 +1,4 @@
-# 亚马逊独家喜剧《儿童飞行员》现已推出，供您观赏和评判 TechCrunch
+# 亚马逊独家喜剧《儿童飞行员》现已推出，供您观赏和评判 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/19/amazons-exclusive-comedy-childrens-pilots-are-available-now-for-your-viewing-and-judging-pleasure/>
 

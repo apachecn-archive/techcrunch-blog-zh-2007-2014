@@ -1,4 +1,4 @@
-# Twitter 的威廉姆斯与脸书的关系:我们经常与他们交谈——目前为止，还没有 TechCrunch
+# Twitter 的威廉姆斯与脸书的关系:我们经常与他们交谈——目前为止，还没有 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/17/ev-williams-twitter-facebook/>
 

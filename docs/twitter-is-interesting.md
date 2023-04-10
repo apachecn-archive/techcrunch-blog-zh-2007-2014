@@ -1,4 +1,4 @@
-# ...在 Twitter 上 TechCrunch
+# ...在 Twitter 上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/twitter-is-interesting/>
 

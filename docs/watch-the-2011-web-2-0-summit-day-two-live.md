@@ -1,4 +1,4 @@
-# 观看 2011 Web 2.0 峰会第二天现场直播 TechCrunch
+# 观看 2011 Web 2.0 峰会第二天现场直播 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/watch-the-2011-web-2-0-summit-day-two-live/>
 

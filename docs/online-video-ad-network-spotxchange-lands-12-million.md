@@ -1,4 +1,4 @@
-# 在线视频广告网络 SpotXchange 获得 1200 万美元 TechCrunch
+# 在线视频广告网络 SpotXchange 获得 1200 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/15/online-video-ad-network-spotxchange-lands-12-million/>
 

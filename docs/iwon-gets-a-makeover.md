@@ -1,4 +1,4 @@
-# iWon 焕然一新 TechCrunch
+# iWon 焕然一新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/30/iwon-gets-a-makeover/>
 

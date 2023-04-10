@@ -1,4 +1,4 @@
-# Spira4u:泡沫制成的汽车跑得快，跑得远，还能漂浮 TechCrunch
+# Spira4u:泡沫制成的汽车跑得快，跑得远，还能漂浮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/15/spira4u-car-made-of-foam-goes-fast-far-and-floats/>
 

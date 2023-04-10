@@ -1,4 +1,4 @@
-# 2011 年在线视频:联网电视、社交推荐和标准之战 TechCrunch
+# 2011 年在线视频:联网电视、社交推荐和标准之战 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/18/online-video-2011/>
 

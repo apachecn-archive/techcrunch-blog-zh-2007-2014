@@ -1,4 +1,4 @@
-# 黑莓 Curve 9360 可能有移动热点，但是其他的呢？TechCrunch
+# 黑莓 Curve 9360 可能有移动热点，但是其他的呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/blackberry-curve-9360-may-have-mobile-hotspot-but-what-about-the-rest/>
 

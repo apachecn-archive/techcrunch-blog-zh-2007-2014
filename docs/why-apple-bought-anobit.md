@@ -1,4 +1,4 @@
-# 苹果为何收购 Anobit TechCrunch
+# 苹果为何收购 Anobit 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/11/why-apple-bought-anobit/>
 

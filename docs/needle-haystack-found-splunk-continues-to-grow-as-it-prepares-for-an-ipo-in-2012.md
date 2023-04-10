@@ -1,4 +1,4 @@
-# 针。干草堆。发现:Splunk 在为 2012 年的首次公开募股做准备时继续增长 TechCrunch
+# 针。干草堆。发现:Splunk 在为 2012 年的首次公开募股做准备时继续增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/15/needle-haystack-found-splunk-continues-to-grow-as-it-prepares-for-an-ipo-in-2012/>
 

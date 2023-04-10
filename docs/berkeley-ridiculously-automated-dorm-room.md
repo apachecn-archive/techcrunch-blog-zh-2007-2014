@@ -1,4 +1,4 @@
-# 黑掉你的房子:看看这个伯克利大学新生的“荒谬的自动化”宿舍 TechCrunch
+# 黑掉你的房子:看看这个伯克利大学新生的“荒谬的自动化”宿舍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/30/berkeley-ridiculously-automated-dorm-room/>
 

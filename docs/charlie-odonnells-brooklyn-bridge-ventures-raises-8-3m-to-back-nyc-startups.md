@@ -1,4 +1,4 @@
-# 查理·安东内尔的 Brooklyn Bridge Ventures 筹集 830 万美元支持纽约的初创公司 TechCrunch
+# 查理·安东内尔的 Brooklyn Bridge Ventures 筹集 830 万美元支持纽约的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/charlie-odonnells-brooklyn-bridge-ventures-raises-8-3m-to-back-nyc-startups/>
 

@@ -1,4 +1,4 @@
-# Kinvey 为企业开发人员推出专用后端即服务平台 TechCrunch
+# Kinvey 为企业开发人员推出专用后端即服务平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/kinvey-launches-dedicated-backend-as-a-service-platform-for-enterprise-developers/>
 

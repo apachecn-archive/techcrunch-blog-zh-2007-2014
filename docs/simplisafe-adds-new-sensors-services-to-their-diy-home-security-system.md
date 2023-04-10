@@ -1,4 +1,4 @@
-# Simplisafe 为他们的 DIY 家庭安全系统增加了新的传感器和服务 TechCrunch
+# Simplisafe 为他们的 DIY 家庭安全系统增加了新的传感器和服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/13/simplisafe-adds-new-sensors-services-to-their-diy-home-security-system/>
 

@@ -1,4 +1,4 @@
-# Camera+记录一个应用程序翻倍:100 万次下载，100 万次收入 TechCrunch
+# Camera+记录一个应用程序翻倍:100 万次下载，100 万次收入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/07/camera-plus-milestone/>
 

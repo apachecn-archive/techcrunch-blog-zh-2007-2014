@@ -1,4 +1,4 @@
-# 三星 MV800 评测:献给我们所有人的自恋者 TechCrunch
+# 三星 MV800 评测:献给我们所有人的自恋者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/samsung-mv800-review-for-the-narcissist-in-all-of-us/>
 

@@ -1,4 +1,4 @@
-# 互联网是人权吗？TechCrunch
+# 互联网是人权吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/05/is-the-internet-a-human-right/>
 

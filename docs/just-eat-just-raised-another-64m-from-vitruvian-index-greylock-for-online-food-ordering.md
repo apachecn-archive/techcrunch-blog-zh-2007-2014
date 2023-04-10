@@ -1,4 +1,4 @@
-# Just-Eat 刚刚从 Vitruvian，Index，Greylock 又筹集了 6400 万美元用于在线食品订购 TechCrunch
+# Just-Eat 刚刚从 Vitruvian，Index，Greylock 又筹集了 6400 万美元用于在线食品订购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/30/just-eat-just-raised-another-64m-from-vitruvian-index-greylock-for-online-food-ordering/>
 

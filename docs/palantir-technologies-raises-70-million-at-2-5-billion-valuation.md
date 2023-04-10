@@ -1,4 +1,4 @@
-# Palantir Technologies 以 25 亿美元的估值融资 7000 万美元 TechCrunch
+# Palantir Technologies 以 25 亿美元的估值融资 7000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/06/palantir-technologies-raises-70-million-at-2-5-billion-valuation/>
 

@@ -1,4 +1,4 @@
-# Exec 更新其 iPhone 应用程序，用于订购按需助手、添加收据、多项工作、新的声音和动画 TechCrunch
+# Exec 更新其 iPhone 应用程序，用于订购按需助手、添加收据、多项工作、新的声音和动画 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/19/exec-iphone-update/>
 

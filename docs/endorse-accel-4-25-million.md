@@ -1,4 +1,4 @@
-# Accel 和 SV Angel Back 赞助 425 万美元，拉近购物者和品牌之间的距离 TechCrunch
+# Accel 和 SV Angel Back 赞助 425 万美元，拉近购物者和品牌之间的距离 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/endorse-accel-4-25-million/>
 

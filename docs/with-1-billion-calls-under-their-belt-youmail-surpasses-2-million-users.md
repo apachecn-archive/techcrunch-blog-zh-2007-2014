@@ -1,4 +1,4 @@
-# YouMail 拥有 10 亿次通话，用户超过 200 万 TechCrunch
+# YouMail 拥有 10 亿次通话，用户超过 200 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/with-1-billion-calls-under-their-belt-youmail-surpasses-2-million-users/>
 

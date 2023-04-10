@@ -1,4 +1,4 @@
-# Sphero Sports 新车身，离正式发布越来越近 TechCrunch
+# Sphero Sports 新车身，离正式发布越来越近 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/sphero-sports-new-body-rolls-closer-to-official-release/>
 

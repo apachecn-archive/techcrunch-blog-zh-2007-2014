@@ -1,4 +1,4 @@
-# 三星和苹果都是韩国专利审判的输家 TechCrunch
+# 三星和苹果都是韩国专利审判的输家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/24/samsung-apple-both-come-away-losers-in-south-korean-patent-trial/>
 

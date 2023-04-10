@@ -1,4 +1,4 @@
-# 腾讯收购京东 15%的股份，以加强与阿里巴巴的竞争地位 TechCrunch
+# 腾讯收购京东 15%的股份，以加强与阿里巴巴的竞争地位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/09/tencent-takes-15-stake-in-jd-to-strengthen-position-against-alibaba/>
 

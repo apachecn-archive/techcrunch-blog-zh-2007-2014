@@ -1,4 +1,4 @@
-# 吉尔摩帮:背景成人 TechCrunch
+# 吉尔摩帮:背景成人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/31/gillmor-gang-contextual-adults/>
 

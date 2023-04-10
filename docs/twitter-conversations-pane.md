@@ -1,4 +1,4 @@
-# 新的 Twitter 现在在侧窗格中显示完整的对话 TechCrunch
+# 新的 Twitter 现在在侧窗格中显示完整的对话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/20/twitter-conversations-pane/>
 

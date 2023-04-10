@@ -1,4 +1,4 @@
-# LeKiosk 为其在线商店又预订了 710 万美元，因为它正努力成为“杂志的 Spotify”TechCrunch
+# LeKiosk 为其在线商店又预订了 710 万美元，因为它正努力成为“杂志的 Spotify”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/lekiosk-books-another-7-1m-for-its-online-store-as-it-strives-to-become-the-spotify-of-magazines/>
 

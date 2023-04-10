@@ -1,4 +1,4 @@
-# 感恩节快乐，吉尔摩帮回来了 TechCrunch
+# 感恩节快乐，吉尔摩帮回来了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/22/happy-thanksgiving-and-the-gillmor-gang-is-back/>
 

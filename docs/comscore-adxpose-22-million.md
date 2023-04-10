@@ -1,4 +1,4 @@
-# ComScore 以 2200 万美元收购 adx pose TechCrunch
+# ComScore 以 2200 万美元收购 adx pose 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/comscore-adxpose-22-million/>
 

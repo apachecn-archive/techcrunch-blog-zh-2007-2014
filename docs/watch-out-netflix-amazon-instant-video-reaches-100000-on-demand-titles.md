@@ -1,4 +1,4 @@
-# 关注网飞，亚马逊即时视频点播量达到 100，000 个 TechCrunch
+# 关注网飞，亚马逊即时视频点播量达到 100，000 个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/18/watch-out-netflix-amazon-instant-video-reaches-100000-on-demand-titles/>
 

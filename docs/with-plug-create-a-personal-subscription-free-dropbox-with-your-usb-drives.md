@@ -1,4 +1,4 @@
-# 使用 Plug，用您的 USB 驱动器创建一个个人的、免订阅的 Dropbox TechCrunch
+# 使用 Plug，用您的 USB 驱动器创建一个个人的、免订阅的 Dropbox 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/with-plug-create-a-personal-subscription-free-dropbox-with-your-usb-drives/>
 

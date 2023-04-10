@@ -1,4 +1,4 @@
-# 公民新闻平台 AllVoices 在全球 30 个城市设立新闻服务台 TechCrunch
+# 公民新闻平台 AllVoices 在全球 30 个城市设立新闻服务台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/09/citizen-journalism-platform-allvoices-sets-up-news-desks-in-30-cities-around-the-world/>
 

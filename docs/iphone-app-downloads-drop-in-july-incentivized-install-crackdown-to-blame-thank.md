@@ -1,4 +1,4 @@
-# 7 月 iPhone 应用下载量下降，应归咎于激励性安装打击(谢谢？)TechCrunch
+# 7 月 iPhone 应用下载量下降，应归咎于激励性安装打击(谢谢？)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/31/iphone-app-downloads-drop-in-july-incentivized-install-crackdown-to-blame-thank/>
 

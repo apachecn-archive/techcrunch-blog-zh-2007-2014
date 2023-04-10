@@ -1,4 +1,4 @@
-# Velveeta 的力量:Shopkick 宣布 300 万次产品扫描 TechCrunch
+# Velveeta 的力量:Shopkick 宣布 300 万次产品扫描 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/08/the-power-of-velveeta-shopkick-announces-3-million-product-scans/>
 

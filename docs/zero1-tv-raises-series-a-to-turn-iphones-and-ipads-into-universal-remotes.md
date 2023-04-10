@@ -1,4 +1,4 @@
-# Zero1.tv 推出 A 系列产品，将 iPhones 和 iPads 变成通用遥控器 TechCrunch
+# Zero1.tv 推出 A 系列产品，将 iPhones 和 iPads 变成通用遥控器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/zero1-tv-raises-series-a-to-turn-iphones-and-ipads-into-universal-remotes/>
 

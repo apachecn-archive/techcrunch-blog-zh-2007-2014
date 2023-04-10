@@ -1,4 +1,4 @@
-# NZXT Sentry LXE 让风扇控制器变得性感 TechCrunch
+# NZXT Sentry LXE 让风扇控制器变得性感 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/nzxt-sentry-lxe/>
 

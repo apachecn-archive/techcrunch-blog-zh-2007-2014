@@ -1,4 +1,4 @@
-# Mike Maples 成为风险投资家，推出 flood gate TechCrunch
+# Mike Maples 成为风险投资家，推出 flood gate 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/24/mike-maples-floodgate/>
 

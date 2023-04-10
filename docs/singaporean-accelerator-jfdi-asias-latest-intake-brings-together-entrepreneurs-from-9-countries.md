@@ -1,4 +1,4 @@
-# 新加坡加速器 JFDI。亚洲最新成员汇聚了来自 9 个国家的企业家 TechCrunch
+# 新加坡加速器 JFDI。亚洲最新成员汇聚了来自 9 个国家的企业家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/28/singaporean-accelerator-jfdi-asias-latest-intake-brings-together-entrepreneurs-from-9-countries/>
 

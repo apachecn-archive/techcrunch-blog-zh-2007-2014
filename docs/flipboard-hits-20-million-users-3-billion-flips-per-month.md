@@ -1,4 +1,4 @@
-# Flipboard 拥有 2000 万用户，每月 30 亿次点击 TechCrunch
+# Flipboard 拥有 2000 万用户，每月 30 亿次点击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/flipboard-hits-20-million-users-3-billion-flips-per-month/>
 

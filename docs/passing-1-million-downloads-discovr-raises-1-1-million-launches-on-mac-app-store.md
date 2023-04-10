@@ -1,4 +1,4 @@
-# 通过 100 万次下载，Discovr 融资 110 万美元；在 Mac App Store 上发布 TechCrunch
+# 通过 100 万次下载，Discovr 融资 110 万美元；在 Mac App Store 上发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/passing-1-million-downloads-discovr-raises-1-1-million-launches-on-mac-app-store/>
 

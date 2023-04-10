@@ -1,4 +1,4 @@
-# Pinkdingo 筹集 140 万美元，通过取消结账页面让慈善变得更容易 TechCrunch
+# Pinkdingo 筹集 140 万美元，通过取消结账页面让慈善变得更容易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/pinkdingo-raises-1-4-million-to-make-charity-easier-by-killing-the-checkout-page/>
 

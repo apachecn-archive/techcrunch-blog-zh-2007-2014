@@ -1,4 +1,4 @@
-# MHL 财团:2011 年全球出货 5000 万台 MHL 设备 TechCrunch
+# MHL 财团:2011 年全球出货 5000 万台 MHL 设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/21/mhl-consortium-50-million-mhl-equiped-devices-shipped-globally-in-2011/>
 

@@ -1,4 +1,4 @@
-# 华丽的照片，现在在你的口袋里:500 像素到达 iPhone TechCrunch
+# 华丽的照片，现在在你的口袋里:500 像素到达 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/28/gorgeous-photos-in-your-pocket-500px-arrives-on-iphone/>
 

@@ -1,4 +1,4 @@
-# 有线电视提供商考虑转向单点订阅 TechCrunch
+# 有线电视提供商考虑转向单点订阅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/cable-providers-mull-switch-to-a-la-carte-subscriptions/>
 

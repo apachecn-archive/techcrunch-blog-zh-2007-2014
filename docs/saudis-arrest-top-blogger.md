@@ -1,4 +1,4 @@
-# 沙特逮捕顶级博客作者 TechCrunch
+# 沙特逮捕顶级博客作者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/01/01/saudis-arrest-top-blogger/>
 

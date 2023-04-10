@@ -1,4 +1,4 @@
-# 谷歌将其数十种消费产品转化为企业应用 TechCrunch
+# 谷歌将其数十种消费产品转化为企业应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/18/google-turns-dozens-of-its-consumer-products-into-enterprise-apps/>
 

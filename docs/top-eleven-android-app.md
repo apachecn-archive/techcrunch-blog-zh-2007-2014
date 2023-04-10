@@ -1,4 +1,4 @@
-# Nordeus 的 Top 为其 1，000，000 名每日活跃玩家提供了一款 Android 应用程序- iOS，即将推出！TechCrunch
+# Nordeus 的 Top 为其 1，000，000 名每日活跃玩家提供了一款 Android 应用程序- iOS，即将推出！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/top-eleven-android-app/>
 

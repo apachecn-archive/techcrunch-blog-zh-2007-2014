@@ -1,4 +1,4 @@
-# Dogpatch Labs SF 从 38 号码头搬到帕洛阿尔托，在都柏林开设新加速器 TechCrunch
+# Dogpatch Labs SF 从 38 号码头搬到帕洛阿尔托，在都柏林开设新加速器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/dogpatch-labs-sf-moves-from-pier-38-to-palo-alto-opens-new-accelerator-in-dublin/>
 

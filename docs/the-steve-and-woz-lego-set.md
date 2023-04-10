@@ -1,4 +1,4 @@
-# 史蒂夫和沃兹乐高套装 TechCrunch
+# 史蒂夫和沃兹乐高套装 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/the-steve-and-woz-lego-set/>
 

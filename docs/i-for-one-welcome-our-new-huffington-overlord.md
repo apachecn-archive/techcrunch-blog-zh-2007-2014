@@ -1,4 +1,4 @@
-# 就我而言，欢迎我们新的赫芬顿霸主 TechCrunch
+# 就我而言，欢迎我们新的赫芬顿霸主 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/06/i-for-one-welcome-our-new-huffington-overlord/>
 

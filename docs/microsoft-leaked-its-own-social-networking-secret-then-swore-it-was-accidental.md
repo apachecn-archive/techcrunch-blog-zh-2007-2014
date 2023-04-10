@@ -1,4 +1,4 @@
-# 微软泄露了自己的社交网络秘密，然后发誓这是意外 TechCrunch
+# 微软泄露了自己的社交网络秘密，然后发誓这是意外 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/microsoft-leaked-its-own-social-networking-secret-then-swore-it-was-accidental/>
 

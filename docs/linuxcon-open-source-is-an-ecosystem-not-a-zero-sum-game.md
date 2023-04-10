@@ -1,4 +1,4 @@
-# LinuxCon:开源是一个生态系统，而不是零和游戏 TechCrunch
+# LinuxCon:开源是一个生态系统，而不是零和游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/21/linuxcon-open-source-is-an-ecosystem-not-a-zero-sum-game/>
 

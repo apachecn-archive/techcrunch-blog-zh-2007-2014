@@ -1,4 +1,4 @@
-# Panorama Education 希望通过调查和分析帮助修复学校，从扎克伯格的初创公司:Education、Google Ventures 等获得 400 万美元 TechCrunch
+# Panorama Education 希望通过调查和分析帮助修复学校，从扎克伯格的初创公司:Education、Google Ventures 等获得 400 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/21/panorama-education-wants-to-help-fix-schools-with-surveys-and-analytics-gets-4m-from-zuckerbergs-startupeducation-google-ventures-and-more/>
 

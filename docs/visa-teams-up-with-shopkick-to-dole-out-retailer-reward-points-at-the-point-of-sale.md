@@ -1,4 +1,4 @@
-# Visa 与 Shopkick 合作，在销售点发放零售商奖励积分 TechCrunch
+# Visa 与 Shopkick 合作，在销售点发放零售商奖励积分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/visa-teams-up-with-shopkick-to-dole-out-retailer-reward-points-at-the-point-of-sale/>
 

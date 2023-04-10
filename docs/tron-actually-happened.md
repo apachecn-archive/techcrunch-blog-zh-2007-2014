@@ -1,4 +1,4 @@
-# 创真的发生了 TechCrunch
+# 创真的发生了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/08/tron-actually-happened/>
 

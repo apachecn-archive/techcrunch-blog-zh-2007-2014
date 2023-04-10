@@ -1,4 +1,4 @@
-# Foursquare 现在有 300 万人 TechCrunch
+# Foursquare 现在有 300 万人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/29/foursquare-now-3-million-strong/>
 

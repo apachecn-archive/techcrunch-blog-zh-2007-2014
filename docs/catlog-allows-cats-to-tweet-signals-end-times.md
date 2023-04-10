@@ -1,4 +1,4 @@
-# 猫@日志允许猫发推特，表示结束时间 TechCrunch
+# 猫@日志允许猫发推特，表示结束时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/01/catlog-allows-cats-to-tweet-signals-end-times/>
 

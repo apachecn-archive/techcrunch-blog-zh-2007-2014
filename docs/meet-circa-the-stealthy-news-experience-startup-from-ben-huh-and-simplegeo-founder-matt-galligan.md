@@ -1,4 +1,4 @@
-# 见见 Circa，由 Ben Huh 和 SimpleGeo 创始人 Matt Galligan 创办的秘密“新闻体验”创业公司 TechCrunch
+# 见见 Circa，由 Ben Huh 和 SimpleGeo 创始人 Matt Galligan 创办的秘密“新闻体验”创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/21/meet-circa-the-stealthy-news-experience-startup-from-ben-huh-and-simplegeo-founder-matt-galligan/>
 

@@ -1,4 +1,4 @@
-# 给拥有一切的极客:镀金雅达利 2600 TechCrunch
+# 给拥有一切的极客:镀金雅达利 2600 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/for-the-geek-who-has-everything-a-gold-plated-atari-2600/>
 

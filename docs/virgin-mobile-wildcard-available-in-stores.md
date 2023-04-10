@@ -1,4 +1,4 @@
-# 商店中提供维珍移动通配符 TechCrunch
+# 商店中提供维珍移动通配符 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/15/virgin-mobile-wildcard-available-in-stores/>
 

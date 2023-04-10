@@ -1,4 +1,4 @@
-# 导管实验室罢工与环球音乐集团达成协议，将 Lady Gaga 和蕾哈娜引入社交游戏 TechCrunch
+# 导管实验室罢工与环球音乐集团达成协议，将 Lady Gaga 和蕾哈娜引入社交游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/06/universal-music-group-strikes-deal-with-conduit-labs-to-bring-lady-gaga-and-rihanna-to-social-games/>
 

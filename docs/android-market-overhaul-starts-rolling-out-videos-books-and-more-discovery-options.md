@@ -1,4 +1,4 @@
-# Android Market 进行了彻底改革:视频、书籍和更多发现选项 TechCrunch
+# Android Market 进行了彻底改革:视频、书籍和更多发现选项 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/android-market-overhaul-starts-rolling-out-videos-books-and-more-discovery-options/>
 

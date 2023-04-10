@@ -1,4 +1,4 @@
-# Shasta Ventures 关闭新的 2.65 亿美元 III 基金 TechCrunch
+# Shasta Ventures 关闭新的 2.65 亿美元 III 基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/shasta-ventures-closes-new-265-million-iii-fund/>
 

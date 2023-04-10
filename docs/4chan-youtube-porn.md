@@ -1,4 +1,4 @@
-# 4chan 呈现:YouTube 色情日(NSFW)TechCrunch
+# 4chan 呈现:YouTube 色情日(NSFW)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/4chan-youtube-porn/>
 

@@ -1,4 +1,4 @@
-# 嵌入式序列号帮助摄影师找到他被盗的相机 TechCrunch
+# 嵌入式序列号帮助摄影师找到他被盗的相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/embedded-serial-number-helps-photographer-find-his-stolen-camera/>
 

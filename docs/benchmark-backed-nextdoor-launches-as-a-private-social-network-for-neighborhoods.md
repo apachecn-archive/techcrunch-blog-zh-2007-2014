@@ -1,4 +1,4 @@
-# 基准支持的 Nextdoor 作为面向社区的私人社交网络发布 TechCrunch
+# 基准支持的 Nextdoor 作为面向社区的私人社交网络发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/benchmark-backed-nextdoor-launches-as-a-private-social-network-for-neighborhoods/>
 

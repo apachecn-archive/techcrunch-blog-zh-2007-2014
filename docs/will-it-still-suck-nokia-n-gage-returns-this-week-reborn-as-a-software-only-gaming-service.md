@@ -1,4 +1,4 @@
-# 还会烂吗？诺基亚 N-Gage 本周回归:重生为纯软件游戏服务 TechCrunch
+# 还会烂吗？诺基亚 N-Gage 本周回归:重生为纯软件游戏服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/will-it-still-suck-nokia-n-gage-returns-this-week-reborn-as-a-software-only-gaming-service/>
 

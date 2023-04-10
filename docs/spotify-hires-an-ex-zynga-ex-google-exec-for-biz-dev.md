@@ -1,4 +1,4 @@
-# Spotify 聘请了一位前 Zynga、前谷歌高管负责商业开发 TechCrunch
+# Spotify 聘请了一位前 Zynga、前谷歌高管负责商业开发 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/spotify-hires-an-ex-zynga-ex-google-exec-for-biz-dev/>
 

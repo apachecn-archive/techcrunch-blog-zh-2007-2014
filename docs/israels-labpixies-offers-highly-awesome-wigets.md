@@ -1,4 +1,4 @@
-# 以色列的 LabPixies 提供非常棒的小工具 TechCrunch
+# 以色列的 LabPixies 提供非常棒的小工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/15/israels-labpixies-offers-highly-awesome-wigets/>
 

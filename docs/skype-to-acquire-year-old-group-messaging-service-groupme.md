@@ -1,4 +1,4 @@
-# Skype 将收购成立一年的群组消息服务 Group me TechCrunch
+# Skype 将收购成立一年的群组消息服务 Group me 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/21/skype-to-acquire-year-old-group-messaging-service-groupme/>
 

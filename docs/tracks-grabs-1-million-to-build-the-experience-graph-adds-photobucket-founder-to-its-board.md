@@ -1,4 +1,4 @@
-# Tracks 抢 100 万美元打造“体验图”；将 Photobucket 创始人加入董事会 TechCrunch
+# Tracks 抢 100 万美元打造“体验图”；将 Photobucket 创始人加入董事会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/21/tracks-grabs-1-million-to-build-the-experience-graph-adds-photobucket-founder-to-its-board/>
 

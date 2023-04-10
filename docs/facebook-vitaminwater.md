@@ -1,4 +1,4 @@
-# 脸书刚刚有了自己的维他命水口味:“连接”。说真的。TechCrunch
+# 脸书刚刚有了自己的维他命水口味:“连接”。说真的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/07/facebook-vitaminwater/>
 

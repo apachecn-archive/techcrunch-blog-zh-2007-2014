@@ -1,4 +1,4 @@
-# 《愤怒的小鸟》的服装在万圣节前及时到达 TechCrunch
+# 《愤怒的小鸟》的服装在万圣节前及时到达 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/angry-birds-costumes-arrive-just-in-time-for-halloween/>
 

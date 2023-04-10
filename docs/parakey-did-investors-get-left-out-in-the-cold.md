@@ -1,4 +1,4 @@
-# 帕拉基:投资者被冷落了吗？TechCrunch
+# 帕拉基:投资者被冷落了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/25/parakey-did-investors-get-left-out-in-the-cold/>
 

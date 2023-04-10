@@ -1,4 +1,4 @@
-# Yardsellr，脸书的易贝，发展到 500 万强，更名；推出时尚市场 TechCrunch
+# Yardsellr，脸书的易贝，发展到 500 万强，更名；推出时尚市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/yardsellr-the-ebay-for-facebook-grows-to-5-million-strong-rebrands-launches-marketplace-for-fashion/>
 

@@ -1,4 +1,4 @@
-# 美国电话电报公司三星 Focus S 的实际操作 TechCrunch
+# 美国电话电报公司三星 Focus S 的实际操作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/samsung-focus-s-hands-on/>
 

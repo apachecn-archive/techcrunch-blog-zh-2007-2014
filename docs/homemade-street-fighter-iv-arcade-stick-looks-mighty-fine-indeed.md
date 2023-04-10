@@ -1,4 +1,4 @@
-# 自制街霸 4 街机棒看起来真的很棒 TechCrunch
+# 自制街霸 4 街机棒看起来真的很棒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/homemade-street-fighter-iv-arcade-stick-looks-mighty-fine-indeed/>
 

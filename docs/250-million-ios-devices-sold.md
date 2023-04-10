@@ -1,4 +1,4 @@
-# 蒂姆·库克:售出 2.5 亿台 iOS 设备，巨大的零售流量，无处不在的创纪录数字 TechCrunch
+# 蒂姆·库克:售出 2.5 亿台 iOS 设备，巨大的零售流量，无处不在的创纪录数字 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/250-million-ios-devices-sold/>
 

@@ -1,4 +1,4 @@
-# Twitter 解释了什么是“EarlyBird ”:这完全是为了分发广告交易 TechCrunch
+# Twitter 解释了什么是“EarlyBird ”:这完全是为了分发广告交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/06/twitter-explains-what-earlybird-is-its-all-about-distributing-advertiser-deals/>
 

@@ -1,4 +1,4 @@
-# Georgian Partners 关闭 1 亿美元的新基金，用于扩张阶段的企业创业投资 TechCrunch
+# Georgian Partners 关闭 1 亿美元的新基金，用于扩张阶段的企业创业投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/georgian-partners-closes-100m-new-fund-for-expansion-stage-enterprise-startup-investments/>
 

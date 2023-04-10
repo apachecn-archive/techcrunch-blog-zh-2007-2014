@@ -1,4 +1,4 @@
-# 上市前申报，脸书私下交易估值 840 亿美元——TechCrunch
+# 上市前申报，脸书私下交易估值 840 亿美元——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/30/facebook-84-billion-valuation/>
 

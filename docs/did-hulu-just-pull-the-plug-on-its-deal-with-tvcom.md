@@ -1,4 +1,4 @@
-# Hulu 刚刚终止了与 TV.com 的交易吗？TechCrunch
+# Hulu 刚刚终止了与 TV.com 的交易吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/17/did-hulu-just-pull-the-plug-on-its-deal-with-tvcom/>
 

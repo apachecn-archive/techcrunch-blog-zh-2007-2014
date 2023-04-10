@@ -1,4 +1,4 @@
-# 乘着科学透明度的新浪潮，Academia.Edu 让研究人员分享他们的原始数据 TechCrunch
+# 乘着科学透明度的新浪潮，Academia.Edu 让研究人员分享他们的原始数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/06/academia-edu-raw-data/>
 

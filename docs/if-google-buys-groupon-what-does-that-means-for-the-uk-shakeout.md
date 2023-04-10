@@ -1,4 +1,4 @@
-# 如果谷歌收购 Groupon，这对英国意味着什么？抖落。TechCrunch
+# 如果谷歌收购 Groupon，这对英国意味着什么？抖落。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/30/if-google-buys-groupon-what-does-that-means-for-the-uk-shakeout/>
 

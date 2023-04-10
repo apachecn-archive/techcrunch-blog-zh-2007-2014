@@ -1,4 +1,4 @@
-# 脸书如何拯救 Elevation Partners TechCrunch
+# 脸书如何拯救 Elevation Partners 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/29/how-facebook-may-save-elevation-partners/>
 

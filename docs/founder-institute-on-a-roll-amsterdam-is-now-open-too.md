@@ -1,4 +1,4 @@
-# 方正研究所正在运行-阿姆斯特丹现在也开放了 TechCrunch
+# 方正研究所正在运行-阿姆斯特丹现在也开放了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/24/founder-institute-on-a-roll-amsterdam-is-now-open-too/>
 

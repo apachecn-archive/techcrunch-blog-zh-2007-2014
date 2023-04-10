@@ -1,4 +1,4 @@
-# Redpoint 和 Accel 支持巴西在线订阅电子商务网站 shoes 4you TechCrunch
+# Redpoint 和 Accel 支持巴西在线订阅电子商务网站 shoes 4you 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/redpoint-and-accel-back-brazils-online-subscription-e-commerce-site-shoes4you/>
 

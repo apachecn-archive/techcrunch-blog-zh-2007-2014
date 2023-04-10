@@ -1,4 +1,4 @@
-# Egnyte 现在帮助企业同步超过 50 亿个文件 TechCrunch
+# Egnyte 现在帮助企业同步超过 50 亿个文件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/21/egnyte-now-helping-businesses-sync-over-5-billion-files/>
 

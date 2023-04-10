@@ -1,4 +1,4 @@
-# 雅虎体育获得 iOS 7 重新设计，真棒 Gif 创建工具，用于分享“四大”体育时刻 TechCrunch
+# 雅虎体育获得 iOS 7 重新设计，真棒 Gif 创建工具，用于分享“四大”体育时刻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/03/yahoo-sports-gets-ios-7-redesign-awesome-gif-creation-tool-for-sharing-big-4-sports-moments/>
 

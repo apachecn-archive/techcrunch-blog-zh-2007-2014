@@ -1,4 +1,4 @@
-# 长推文很长:Bug 让你超过 140 TechCrunch
+# 长推文很长:Bug 让你超过 140 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/14/long-tweet-is-long-t-co-bug-lets-you-go-way-over-140/>
 

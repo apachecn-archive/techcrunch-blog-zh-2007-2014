@@ -1,4 +1,4 @@
-# 电子书收入首次超过精装书 TechCrunch
+# 电子书收入首次超过精装书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/15/ebook-revenues-beat-hardcovers-for-the-first-time/>
 

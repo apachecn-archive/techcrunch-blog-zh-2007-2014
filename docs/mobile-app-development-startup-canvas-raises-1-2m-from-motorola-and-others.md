@@ -1,4 +1,4 @@
-# 移动应用开发初创公司 Canvas 从摩托罗拉和其他人那里筹集了 120 万美元 TechCrunch
+# 移动应用开发初创公司 Canvas 从摩托罗拉和其他人那里筹集了 120 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/mobile-app-development-startup-canvas-raises-1-2m-from-motorola-and-others/>
 

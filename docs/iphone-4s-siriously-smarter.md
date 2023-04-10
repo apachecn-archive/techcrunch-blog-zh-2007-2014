@@ -1,4 +1,4 @@
-# iPhone 4S 非常聪明 TechCrunch
+# iPhone 4S 非常聪明 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/iphone-4s-siriously-smarter/>
 

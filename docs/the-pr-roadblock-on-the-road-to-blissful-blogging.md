@@ -1,4 +1,4 @@
-# 通往幸福博客的公关路障 TechCrunch
+# 通往幸福博客的公关路障 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/13/the-pr-roadblock-on-the-road-to-blissful-blogging/>
 

@@ -1,4 +1,4 @@
-# 英特尔收购半导体公司支点微系统 TechCrunch
+# 英特尔收购半导体公司支点微系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/intel-buys-semiconductor-company-fulcrum-microsystems/>
 

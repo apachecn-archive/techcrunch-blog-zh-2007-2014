@@ -1,4 +1,4 @@
-# ZEFR 如何将内容 ID 带给内容创作者、媒体公司...现在是品牌 TechCrunch
+# ZEFR 如何将内容 ID 带给内容创作者、媒体公司...现在是品牌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/14/zefr-new-hollywood/>
 

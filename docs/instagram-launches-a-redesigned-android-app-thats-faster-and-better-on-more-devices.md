@@ -1,4 +1,4 @@
-# Instagram 推出重新设计的 Android 应用，在更多设备上运行更快更好 TechCrunch
+# Instagram 推出重新设计的 Android 应用，在更多设备上运行更快更好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/instagram-launches-a-redesigned-android-app-thats-faster-and-better-on-more-devices/>
 

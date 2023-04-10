@@ -1,4 +1,4 @@
-# 问风投:乔治扎克里版 TechCrunch
+# 问风投:乔治扎克里版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/ask-a-vc-the-george-zachary-edition/>
 

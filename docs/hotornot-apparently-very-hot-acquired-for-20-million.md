@@ -1,4 +1,4 @@
-# hotor 显然不是很热门:以 2000 万美元收购 TechCrunch
+# hotor 显然不是很热门:以 2000 万美元收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/11/hotornot-apparently-very-hot-acquired-for-20-million/>
 

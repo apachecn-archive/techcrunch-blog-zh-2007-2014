@@ -1,4 +1,4 @@
-# iOS 市场份额从第三季度的 26%上升到 2011 年 10 月/11 月的 43% TechCrunch
+# iOS 市场份额从第三季度的 26%上升到 2011 年 10 月/11 月的 43% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/ios-marketshare-up-from-26-in-q3-to-43-in-octnov-2011/>
 

@@ -1,4 +1,4 @@
-# 与 Spotify 合作开发浏览器:速度很快，但 Discovery 失败了 TechCrunch
+# 与 Spotify 合作开发浏览器:速度很快，但 Discovery 失败了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/spotify-browser-review/>
 

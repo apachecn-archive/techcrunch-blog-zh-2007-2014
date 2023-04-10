@@ -1,4 +1,4 @@
-# Skyfire 的 VideoQ 可以让你保存 Flash 视频，以后在 iPhone 上观看 TechCrunch
+# Skyfire 的 VideoQ 可以让你保存 Flash 视频，以后在 iPhone 上观看 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/skyfires-videoq-for-ios-lets-you-save-flash-videos-to-watch-later/>
 

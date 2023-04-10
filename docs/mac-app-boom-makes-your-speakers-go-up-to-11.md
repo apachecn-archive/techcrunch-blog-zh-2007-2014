@@ -1,4 +1,4 @@
-# Boom 让您的 Mac 扬声器升至 11 TechCrunch
+# Boom 让您的 Mac 扬声器升至 11 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/13/mac-app-boom-makes-your-speakers-go-up-to-11/>
 

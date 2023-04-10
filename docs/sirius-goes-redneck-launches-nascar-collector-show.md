@@ -1,4 +1,4 @@
-# Sirius 去乡下，推出“纳斯卡收藏家”节目——TechCrunch
+# Sirius 去乡下，推出“纳斯卡收藏家”节目——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/sirius-goes-redneck-launches-nascar-collector-show/>
 

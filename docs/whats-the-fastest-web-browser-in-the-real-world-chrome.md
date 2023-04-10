@@ -1,4 +1,4 @@
-# “现实世界”中最快的网络浏览器是什么？Chrome。TechCrunch
+# “现实世界”中最快的网络浏览器是什么？Chrome。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/whats-the-fastest-web-browser-in-the-real-world-chrome/>
 

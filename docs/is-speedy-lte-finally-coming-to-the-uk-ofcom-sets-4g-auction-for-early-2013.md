@@ -1,4 +1,4 @@
-# Speedy LTE 终于要来英国了吗？Ofcom 将于 2013 年初举行 4G 拍卖 TechCrunch
+# Speedy LTE 终于要来英国了吗？Ofcom 将于 2013 年初举行 4G 拍卖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/is-speedy-lte-finally-coming-to-the-uk-ofcom-sets-4g-auction-for-early-2013/>
 

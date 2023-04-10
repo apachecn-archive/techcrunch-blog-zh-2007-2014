@@ -1,4 +1,4 @@
-# iPad vs . Kindle:亚马逊应该如何应对？TechCrunch
+# iPad vs . Kindle:亚马逊应该如何应对？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/27/the-ipad-vs-the-kindle-how-should-amazon-respond/>
 

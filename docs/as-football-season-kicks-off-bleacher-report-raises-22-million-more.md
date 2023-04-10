@@ -1,4 +1,4 @@
-# 随着足球赛季的开始，Bleacher Report 又筹集了 2200 万美元 TechCrunch
+# 随着足球赛季的开始，Bleacher Report 又筹集了 2200 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/as-football-season-kicks-off-bleacher-report-raises-22-million-more/>
 

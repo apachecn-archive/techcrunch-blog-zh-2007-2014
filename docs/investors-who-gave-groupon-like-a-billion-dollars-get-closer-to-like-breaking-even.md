@@ -1,4 +1,4 @@
-# 给 Groupon 投资了 10 亿美元的投资者已经接近盈亏平衡了 TechCrunch
+# 给 Groupon 投资了 10 亿美元的投资者已经接近盈亏平衡了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/23/investors-who-gave-groupon-like-a-billion-dollars-get-closer-to-like-breaking-even/>
 

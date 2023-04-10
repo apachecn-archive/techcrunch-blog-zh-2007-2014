@@ -1,4 +1,4 @@
-# 谷歌的玛丽莎·梅耶尔将离开搜索团队，接管位置和本地 TechCrunch
+# 谷歌的玛丽莎·梅耶尔将离开搜索团队，接管位置和本地 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/marissa-mayer-google/>
 

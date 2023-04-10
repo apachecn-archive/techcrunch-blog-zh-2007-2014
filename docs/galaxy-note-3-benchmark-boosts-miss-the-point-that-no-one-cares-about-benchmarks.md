@@ -1,4 +1,4 @@
-# Galaxy Note 3 基准测试错过了没人关心基准测试的问题 TechCrunch
+# Galaxy Note 3 基准测试错过了没人关心基准测试的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/01/galaxy-note-3-benchmark-boosts-miss-the-point-that-no-one-cares-about-benchmarks/>
 

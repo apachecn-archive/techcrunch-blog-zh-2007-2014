@@ -1,4 +1,4 @@
-# 两次繁荣，两次萧条:比特币如何步纳斯达克的后尘 TechCrunch
+# 两次繁荣，两次萧条:比特币如何步纳斯达克的后尘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/11/two-booms-two-busts-how-bitcoin-is-following-in-the-nasdaqs-footsteps/>
 

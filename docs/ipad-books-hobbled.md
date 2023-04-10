@@ -1,4 +1,4 @@
-# iPad 图书应用步履蹒跚:只有现有账户持有人可以使用应用，谷歌图书启动 TechCrunch
+# iPad 图书应用步履蹒跚:只有现有账户持有人可以使用应用，谷歌图书启动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/25/ipad-books-hobbled/>
 

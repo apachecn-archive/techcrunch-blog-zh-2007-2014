@@ -1,4 +1,4 @@
-# 微软将向搜索引擎用户提供现金返还，以对抗谷歌 TechCrunch
+# 微软将向搜索引擎用户提供现金返还，以对抗谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/20/microsoft-to-offer-cash-back-to-search-engine-users/>
 

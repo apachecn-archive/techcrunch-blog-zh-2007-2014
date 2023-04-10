@@ -1,4 +1,4 @@
-# 微软与仁宝电子签署第十项 Android 专利协议 TechCrunch
+# 微软与仁宝电子签署第十项 Android 专利协议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/microsoft-inks-android-patent-deal-with-compal-electronics/>
 

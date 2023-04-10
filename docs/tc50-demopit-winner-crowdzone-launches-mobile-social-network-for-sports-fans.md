@@ -1,4 +1,4 @@
-# TC50 Demopit 冠军 CrowdZone 为体育迷推出移动社交网络 TechCrunch
+# TC50 Demopit 冠军 CrowdZone 为体育迷推出移动社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/25/tc50-demopit-winner-crowdzone-launches-mobile-social-network-for-sports-fans/>
 

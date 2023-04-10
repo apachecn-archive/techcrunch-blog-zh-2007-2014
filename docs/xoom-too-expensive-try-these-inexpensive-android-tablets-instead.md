@@ -1,4 +1,4 @@
-# Xoom 太贵？试试这 5 款便宜的安卓平板电脑吧 TechCrunch
+# Xoom 太贵？试试这 5 款便宜的安卓平板电脑吧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/07/xoom-too-expensive-try-these-inexpensive-android-tablets-instead/>
 

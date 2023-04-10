@@ -1,4 +1,4 @@
-# 独家报道:KIT digital 以 7720 万美元收购 KickApps、Kewego 和 Kyte TechCrunch
+# 独家报道:KIT digital 以 7720 万美元收购 KickApps、Kewego 和 Kyte 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/31/exclusive-kit-digital-acquires-kickapps-kewego-and-kyte-for-77-2-million/>
 

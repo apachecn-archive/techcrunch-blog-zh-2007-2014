@@ -1,4 +1,4 @@
-# 皮尤:17%的美国手机用户现在主要使用手机上网 TechCrunch
+# 皮尤:17%的美国手机用户现在主要使用手机上网 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/06/26/pew-17-of-u-s-cell-phone-users-now-mostly-use-their-phones-to-go-online/>
 

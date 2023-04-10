@@ -1,4 +1,4 @@
-# 向 Palm Touchpad 问好 TechCrunch
+# 向 Palm Touchpad 问好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/say-hello-to-the-palm-touchpad/>
 

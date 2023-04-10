@@ -1,4 +1,4 @@
-# 发布 Atlas 应用程序，让管理日历变得更轻松 TechCrunch
+# 发布 Atlas 应用程序，让管理日历变得更轻松 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/07/atlas-unsuck-calendaring/>
 

@@ -1,4 +1,4 @@
-# 比特币监管悖论 TechCrunch
+# 比特币监管悖论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/the-bitcoin-regulation-paradox/>
 

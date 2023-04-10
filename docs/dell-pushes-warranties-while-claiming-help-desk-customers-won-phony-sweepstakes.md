@@ -1,4 +1,4 @@
-# 戴尔推动保修，同时声称帮助台客户赢得了虚假抽奖 TechCrunch
+# 戴尔推动保修，同时声称帮助台客户赢得了虚假抽奖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/15/dell-pushes-warranties-while-claiming-help-desk-customers-won-phony-sweepstakes/>
 

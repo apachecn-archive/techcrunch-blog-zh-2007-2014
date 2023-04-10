@@ -1,4 +1,4 @@
-# 假史蒂夫·乔布斯是一个博客憎恨者 TechCrunch
+# 假史蒂夫·乔布斯是一个博客憎恨者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/03/fake-steve-jobs-was-a-blog-hater/>
 

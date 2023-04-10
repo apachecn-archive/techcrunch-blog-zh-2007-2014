@@ -1,4 +1,4 @@
-# 加入我们对苹果 iPhone 发布的现场讨论 TechCrunch
+# 加入我们对苹果 iPhone 发布的现场讨论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/10/join-us-for-a-live-discussion-of-the-apple-iphones-announcement/>
 

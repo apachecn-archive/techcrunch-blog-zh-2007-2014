@@ -1,4 +1,4 @@
-# 谷歌扩大搜索领域试验，纳入来自 Gmail 联系人的数据 TechCrunch
+# 谷歌扩大搜索领域试验，纳入来自 Gmail 联系人的数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/28/google-expands-search-field-trial-to-include-data-from-your-gmail-contacts/>
 

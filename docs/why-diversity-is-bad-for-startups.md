@@ -1,4 +1,4 @@
-# 为什么多元化不利于初创公司 TechCrunch
+# 为什么多元化不利于初创公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/why-diversity-is-bad-for-startups/>
 

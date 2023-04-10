@@ -1,4 +1,4 @@
-# 谷歌翻译工具包:自动化翻译遭遇众包 TechCrunch
+# 谷歌翻译工具包:自动化翻译遭遇众包 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/10/google-translator-kit-automated-translation-meets-crowdsourcing/>
 

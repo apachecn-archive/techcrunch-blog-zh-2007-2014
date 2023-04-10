@@ -1,4 +1,4 @@
-# 烘焙义卖 2.0: PledgeCents 推出众筹平台，帮助资金不足的学校筹集资金 TechCrunch
+# 烘焙义卖 2.0: PledgeCents 推出众筹平台，帮助资金不足的学校筹集资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/12/bake-sale-2-0-pledgecents-launches-a-crowdfunding-platform-to-help-underfunded-k-12-schools-raise-money/>
 

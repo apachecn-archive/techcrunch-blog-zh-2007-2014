@@ -1,4 +1,4 @@
-# 微软收购企业群组聊天公司 Parlano-TechCrunch
+# 微软收购企业群组聊天公司 Parlano-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/microsoft-acquires-enterprise-group-chat-company-parlano/>
 

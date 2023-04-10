@@ -1,4 +1,4 @@
-# 图片标签平台 ThingLink 再斩获 200 万美元 TechCrunch
+# 图片标签平台 ThingLink 再斩获 200 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/28/image-tagging-platform-thinglink-grabs-another-2-million/>
 

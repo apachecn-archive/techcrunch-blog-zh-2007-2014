@@ -1,4 +1,4 @@
-# 无锁版 iPhone 4Ss 现已上市，但价格昂贵 TechCrunch
+# 无锁版 iPhone 4Ss 现已上市，但价格昂贵 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/unlocked-iphone-4ss-are-available-now-but-theyll-cost-you/?utm_source=feedburner>
 

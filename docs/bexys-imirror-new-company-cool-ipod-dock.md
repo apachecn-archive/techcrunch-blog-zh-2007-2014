@@ -1,4 +1,4 @@
-# Bexy 的镜像:新公司，酷酷的 iPod Dock——TechCrunch
+# Bexy 的镜像:新公司，酷酷的 iPod Dock——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/bexys-imirror-new-company-cool-ipod-dock/>
 

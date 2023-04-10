@@ -1,4 +1,4 @@
-# TC50: CrowdFlower Crowdsources 将平凡的劳动外包给云 TechCrunch
+# TC50: CrowdFlower Crowdsources 将平凡的劳动外包给云 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/tc50-crowdflower-crowdsources-mundane-labor-to-the-cloud/>
 

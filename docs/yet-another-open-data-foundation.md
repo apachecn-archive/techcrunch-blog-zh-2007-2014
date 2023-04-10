@@ -1,4 +1,4 @@
-# 又一个开放数据基金会？TechCrunch
+# 又一个开放数据基金会？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/22/yet-another-open-data-foundation/>
 

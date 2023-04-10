@@ -1,4 +1,4 @@
-# 易贝将二维码添加到条形码扫描应用程序 red laser TechCrunch
+# 易贝将二维码添加到条形码扫描应用程序 red laser 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/14/ebay-adds-qr-codes-to-barcode-scanning-app-redlaser/>
 

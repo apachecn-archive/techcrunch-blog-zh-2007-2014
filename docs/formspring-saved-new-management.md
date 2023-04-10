@@ -1,4 +1,4 @@
-# 问答先锋 Formspring 表示，它已经从死池中“拯救”出来，现在由新的管理人员管理 TechCrunch
+# 问答先锋 Formspring 表示，它已经从死池中“拯救”出来，现在由新的管理人员管理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/13/formspring-saved-new-management/>
 

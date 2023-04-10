@@ -1,4 +1,4 @@
-# 如果不在图形搜索中，脸书会把你的查询交给必应 TechCrunch
+# 如果不在图形搜索中，脸书会把你的查询交给必应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/if-its-not-in-graph-search-facebook-hands-your-query-off-to-bing/>
 

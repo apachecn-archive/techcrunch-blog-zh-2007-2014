@@ -1,4 +1,4 @@
-# Movable Ink 推出电子邮件营销平台 agile Email TechCrunch
+# Movable Ink 推出电子邮件营销平台 agile Email 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/10/movable-ink-launches-agileemail/>
 

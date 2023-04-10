@@ -1,4 +1,4 @@
-# 游戏后期，VMware 是反对 OpenStack 还是拥抱它？TechCrunch
+# 游戏后期，VMware 是反对 OpenStack 还是拥抱它？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/19/late-to-the-game-is-vmware-turning-against-openstack-or-embracing-it/>
 

@@ -1,4 +1,4 @@
-# 世界上第一个奢华的 iPhone 应用程序:999.99 美元的纯粹幸福 TechCrunch
+# 世界上第一个奢华的 iPhone 应用程序:999.99 美元的纯粹幸福 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/06/the-worlds-first-luxury-iphone-app-99999-of-pure-bliss/>
 

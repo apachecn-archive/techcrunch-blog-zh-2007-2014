@@ -1,4 +1,4 @@
-# 书签:Bliss Control，更新社交网络个人资料设置的一站式服务 TechCrunch
+# 书签:Bliss Control，更新社交网络个人资料设置的一站式服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/19/bookmark-it-bliss-control-a-one-stop-shop-for-updating-your-social-network-profile-settings/>
 

@@ -1,4 +1,4 @@
-# 亚马逊收购欧洲网飞 love film TechCrunch
+# 亚马逊收购欧洲网飞 love film 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/amazon-acquires-lovefilm-the-netflix-of-europe/>
 

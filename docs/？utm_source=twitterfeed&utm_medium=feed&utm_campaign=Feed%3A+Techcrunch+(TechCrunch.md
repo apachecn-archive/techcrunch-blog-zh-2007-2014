@@ -1,4 +1,4 @@
-# 脸书下周会发布什么？不是斯巴达计划。TechCrunch
+# 脸书下周会发布什么？不是斯巴达计划。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/facebook-ipad-spartan/?utm_source=twitterfeed&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+(TechCrunch>)
 

@@ -1,4 +1,4 @@
-# 可转换股票，可转换债券的更好选择？TechCrunch
+# 可转换股票，可转换债券的更好选择？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/31/thefunded-founder-institute-and-wilson-sonsini-debut-startup-friendly-seed-financing-vehicle-convertible-equity/>
 

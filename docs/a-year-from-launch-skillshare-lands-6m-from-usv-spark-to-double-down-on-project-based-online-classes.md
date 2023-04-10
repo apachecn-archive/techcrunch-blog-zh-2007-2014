@@ -1,4 +1,4 @@
-# 推出一年后，Skillshare 从 USV 获得了 600 万美元，Spark 加倍投资其基于项目的在线课程 TechCrunch
+# 推出一年后，Skillshare 从 USV 获得了 600 万美元，Spark 加倍投资其基于项目的在线课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/28/a-year-from-launch-skillshare-lands-6m-from-usv-spark-to-double-down-on-project-based-online-classes/>
 

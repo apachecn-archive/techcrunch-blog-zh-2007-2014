@@ -1,4 +1,4 @@
-# 苹果在面向企业和教育的 iOS 管理工具方面做出重大改进 TechCrunch
+# 苹果在面向企业和教育的 iOS 管理工具方面做出重大改进 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/26/apple-launches-big-improvements-for-ios-management-tools-for-enterprise-and-education/>
 

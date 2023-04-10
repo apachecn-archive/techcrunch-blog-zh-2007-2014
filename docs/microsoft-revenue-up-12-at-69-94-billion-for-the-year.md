@@ -1,4 +1,4 @@
-# 微软第四季度收入达到 173.7 亿美元，全年收入 699.4 亿美元 TechCrunch
+# 微软第四季度收入达到 173.7 亿美元，全年收入 699.4 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/microsoft-revenue-up-12-at-69-94-billion-for-the-year/>
 

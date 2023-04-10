@@ -1,4 +1,4 @@
-# Zynga 与腾讯合作推出本地化的中文版 city ville TechCrunch
+# Zynga 与腾讯合作推出本地化的中文版 city ville 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/zynga-partners-with-tencent-to-launch-localized-chinese-version-of-cityville/>
 

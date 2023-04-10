@@ -1,4 +1,4 @@
-# 来自雅虎的免费短信！TechCrunch
+# 来自雅虎的免费短信！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/free-text-messaging-from-yahoo/>
 

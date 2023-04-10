@@ -1,4 +1,4 @@
-# CrunchDeals: 2GB 东芝 Gigabeat 售价 60 美元，已发货 TechCrunch
+# CrunchDeals: 2GB 东芝 Gigabeat 售价 60 美元，已发货 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/14/crunchdeals-2gb-toshiba-gigabeat-for-60-shipped/>
 

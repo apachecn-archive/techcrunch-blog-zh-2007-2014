@@ -1,4 +1,4 @@
-# Lion Install Numbers 没什么可炫耀的 TechCrunch
+# Lion Install Numbers 没什么可炫耀的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/lion-install-numbers-nothing-to-roar-about/>
 

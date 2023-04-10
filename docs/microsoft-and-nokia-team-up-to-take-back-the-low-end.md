@@ -1,4 +1,4 @@
-# 微软和诺基亚联手夺回低端 TechCrunch
+# 微软和诺基亚联手夺回低端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/microsoft-and-nokia-team-up-to-take-back-the-low-end/>
 

@@ -1,4 +1,4 @@
-# 对年轻人来说，智能手机不再是奢侈品 TechCrunch
+# 对年轻人来说，智能手机不再是奢侈品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/20/for-the-young-smartphones-no-longer-a-luxury-item/>
 

@@ -1,4 +1,4 @@
-# 以色列企业家:知道你在玩什么游戏 TechCrunch
+# 以色列企业家:知道你在玩什么游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/04/israeli-entrepreneurs-know-what-game-you-are-playing/>
 

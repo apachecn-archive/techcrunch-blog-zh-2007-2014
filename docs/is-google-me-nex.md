@@ -1,4 +1,4 @@
-# 没有比失败更成功的了:谷歌最大的产品失败了 TechCrunch
+# 没有比失败更成功的了:谷歌最大的产品失败了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/is-google-me-nex/>
 

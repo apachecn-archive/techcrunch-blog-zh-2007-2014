@@ -1,4 +1,4 @@
-# 想筹集一百万美元吗？以下是您需要的内容 TechCrunch
+# 想筹集一百万美元吗？以下是您需要的内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/22/want-to-raise-a-million-bucks-heres-what-youll-need/>
 

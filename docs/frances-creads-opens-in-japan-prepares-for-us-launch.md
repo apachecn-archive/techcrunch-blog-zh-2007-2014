@@ -1,4 +1,4 @@
-# 法国 Creads 在日本开业，准备在美国上市 TechCrunch
+# 法国 Creads 在日本开业，准备在美国上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/04/frances-creads-opens-in-japan-prepares-for-us-launch/>
 

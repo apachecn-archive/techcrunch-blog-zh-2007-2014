@@ -1,4 +1,4 @@
-# 我的幻想四方生活 TechCrunch
+# 我的幻想四方生活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/10/my-fantasy-foursquare-life/>
 

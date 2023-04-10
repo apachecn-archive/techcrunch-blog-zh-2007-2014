@@ -1,4 +1,4 @@
-# HaloScan 与 JS-Kit 合作发布评级小工具 TechCrunch
+# HaloScan 与 JS-Kit 合作发布评级小工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/03/haloscan-partners-with-js-kit-to-distribute-ratings-widget/>
 

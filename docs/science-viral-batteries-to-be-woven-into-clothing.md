@@ -1,4 +1,4 @@
-# 科学！病毒电池将被织入衣物 TechCrunch
+# 科学！病毒电池将被织入衣物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/science-viral-batteries-to-be-woven-into-clothing/>
 

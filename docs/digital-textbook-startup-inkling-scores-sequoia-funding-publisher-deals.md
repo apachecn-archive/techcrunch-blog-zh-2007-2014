@@ -1,4 +1,4 @@
-# 数字教科书初创公司 Inkling 得分红杉基金，出版商交易 TechCrunch
+# 数字教科书初创公司 Inkling 得分红杉基金，出版商交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/digital-textbook-startup-inkling-scores-sequoia-funding-publisher-deals/>
 

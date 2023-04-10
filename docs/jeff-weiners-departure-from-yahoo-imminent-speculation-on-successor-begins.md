@@ -1,4 +1,4 @@
-# 杰夫·韦纳即将离开雅虎，关于继任者的猜测开始 TechCrunch
+# 杰夫·韦纳即将离开雅虎，关于继任者的猜测开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/11/jeff-weiners-departure-from-yahoo-imminent-speculation-on-successor-begins/>
 

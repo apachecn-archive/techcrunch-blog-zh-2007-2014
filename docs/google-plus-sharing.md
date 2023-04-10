@@ -1,4 +1,4 @@
-# 如果 Google Buzz 是一个分享流量的黑洞，Google+就是大爆炸 TechCrunch
+# 如果 Google Buzz 是一个分享流量的黑洞，Google+就是大爆炸 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/google-plus-sharing/>
 

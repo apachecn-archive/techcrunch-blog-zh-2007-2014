@@ -1,4 +1,4 @@
-# 当谷歌和亚马逊打起来的时候，苹果拒绝打倒 TechCrunch
+# 当谷歌和亚马逊打起来的时候，苹果拒绝打倒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/28/fight-up-not-down/>
 

@@ -1,4 +1,4 @@
-# ExactTarget 又筹集了 7500 万美元，风险投资总额达到 1.45 亿美元 TechCrunch
+# ExactTarget 又筹集了 7500 万美元，风险投资总额达到 1.45 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/03/exacttarget-raises-75-million-more-up-to-145-million-in-venture-capital/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29>
 

@@ -1,4 +1,4 @@
-# 优秀的移动应用是现实生活的遥控器 TechCrunch
+# 优秀的移动应用是现实生活的遥控器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/21/great-mobile-apps-are-remote-controls-for-real-life/>
 

@@ -1,4 +1,4 @@
-# 惠普通过开源让 webOS 继续存活 TechCrunch
+# 惠普通过开源让 webOS 继续存活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/09/hp-to-keep-webos-alive-by-making-it-open-source/>
 

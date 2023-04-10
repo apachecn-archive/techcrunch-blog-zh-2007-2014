@@ -1,4 +1,4 @@
-# Airbnb 重新设计并引入了愿望清单，让管理和发现新目的地变得轻而易举 TechCrunch
+# Airbnb 重新设计并引入了愿望清单，让管理和发现新目的地变得轻而易举 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/27/airbnb-wish-lists-redesign/>
 

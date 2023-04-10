@@ -1,4 +1,4 @@
-# 新版 gOS 将在 CES 上发布，配有 Google Gears TechCrunch
+# 新版 gOS 将在 CES 上发布，配有 Google Gears 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/04/new-version-of-gos-to-be-launched-at-ces-complete-with-google-gears/>
 

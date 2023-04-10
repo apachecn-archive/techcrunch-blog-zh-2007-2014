@@ -1,4 +1,4 @@
-# AppLoop 将博客转变为原生 iPhone 应用 TechCrunch
+# AppLoop 将博客转变为原生 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/20/apploop-transforms-blogs-into-native-iphone-applications/>
 

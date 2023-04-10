@@ -1,4 +1,4 @@
-# 在一次罕见的失误后，苹果预测 iPhone、iPad 销量将创纪录，并暗示季度销售额将达到 400 亿美元 TechCrunch
+# 在一次罕见的失误后，苹果预测 iPhone、iPad 销量将创纪录，并暗示季度销售额将达到 400 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/apples-insanely-great-q1-2012/>
 

@@ -1,4 +1,4 @@
-# 美国国家安全局赢得了一场不可逆转的战斗，但也可能输掉这场战争 TechCrunch
+# 美国国家安全局赢得了一场不可逆转的战斗，但也可能输掉这场战争 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/25/the-nsa-won-yesterdays-battle-but-it-could-lose-the-war/>
 

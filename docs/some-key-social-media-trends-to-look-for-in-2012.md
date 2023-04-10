@@ -1,4 +1,4 @@
-# 2012 年值得关注的一些关键社交媒体趋势 TechCrunch
+# 2012 年值得关注的一些关键社交媒体趋势 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/15/some-key-social-media-trends-to-look-for-in-2012/>
 

@@ -1,4 +1,4 @@
-# Mt.Gox 发布关于涉嫌比特币盗窃、申请破产的新声明 TechCrunch
+# Mt.Gox 发布关于涉嫌比特币盗窃、申请破产的新声明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/03/mt-gox-posts-new-statement-on-alleged-theft-bankruptcy-filing/>
 

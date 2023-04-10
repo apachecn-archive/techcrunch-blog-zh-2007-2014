@@ -1,4 +1,4 @@
-# 谷歌 2012 年在 Q2 击败谷歌:收入增长 35%至 121 亿美元，净收入 27.9 亿美元 TechCrunch
+# 谷歌 2012 年在 Q2 击败谷歌:收入增长 35%至 121 亿美元，净收入 27.9 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/google-beats-in-q2-2012-revenue-up-35-percent-to-12-21b-2-79b-in-net-income/>
 

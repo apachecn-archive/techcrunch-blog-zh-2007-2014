@@ -1,4 +1,4 @@
-# Salesforce.com 将提供 DaaS 服务，新的定价模式，竞争 TechCrunch
+# Salesforce.com 将提供 DaaS 服务，新的定价模式，竞争 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/16/saleforcecom-to-offer-daas-service-new-pricing-model-competition/>
 

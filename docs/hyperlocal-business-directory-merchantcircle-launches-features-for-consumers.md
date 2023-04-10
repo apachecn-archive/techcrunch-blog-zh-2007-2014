@@ -1,4 +1,4 @@
-# 超级本地企业名录 MerchantCircle 推出面向消费者的功能 TechCrunch
+# 超级本地企业名录 MerchantCircle 推出面向消费者的功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/09/hyperlocal-business-directory-merchantcircle-launches-features-for-consumers/>
 

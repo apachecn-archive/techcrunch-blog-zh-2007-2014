@@ -1,4 +1,4 @@
-# 奥巴马准备好成为双向总统了吗？TechCrunch
+# 奥巴马准备好成为双向总统了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/11/15/is-obama-ready-to-be-a-two-way-president/>
 

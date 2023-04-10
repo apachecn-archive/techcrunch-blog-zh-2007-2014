@@ -1,4 +1,4 @@
-# 微软:Windows Phone Mango 已经完成，制造商只需发布它 TechCrunch
+# 微软:Windows Phone Mango 已经完成，制造商只需发布它 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/microsoft-windows-phone-mango-is-done-manufacturers-just-need-to-release-it/>
 

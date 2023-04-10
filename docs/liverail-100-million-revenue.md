@@ -1,4 +1,4 @@
-# 视频广告技术初创公司 LiveRail 的目标是 2014 年末上市，得益于 1 亿美元的营收运行率 TechCrunch
+# 视频广告技术初创公司 LiveRail 的目标是 2014 年末上市，得益于 1 亿美元的营收运行率 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/03/liverail-100-million-revenue/>
 

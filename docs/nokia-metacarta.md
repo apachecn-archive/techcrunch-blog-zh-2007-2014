@@ -1,4 +1,4 @@
-# 诺基亚收购地理搜索技术公司 metacartechcrunch
+# 诺基亚收购地理搜索技术公司 metacar
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/09/nokia-metacarta/>
 

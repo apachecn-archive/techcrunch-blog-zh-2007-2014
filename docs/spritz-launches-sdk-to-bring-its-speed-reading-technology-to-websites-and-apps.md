@@ -1,4 +1,4 @@
-# Spritz 推出 SDK，将其速读技术引入网站和应用程序 TechCrunch
+# Spritz 推出 SDK，将其速读技术引入网站和应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/spritz-launches-sdk-to-bring-its-speed-reading-technology-to-websites-and-apps/>
 

@@ -1,4 +1,4 @@
-# 苹果新 iPhones 将在中国支持 LTE，这让中国移动的交易更加引人关注 TechCrunch
+# 苹果新 iPhones 将在中国支持 LTE，这让中国移动的交易更加引人关注 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/10/apples-new-iphones-will-support-lte-in-china-putting-a-china-mobile-deal-into-sharper-focus/>
 

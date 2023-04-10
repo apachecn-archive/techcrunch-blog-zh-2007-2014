@@ -1,4 +1,4 @@
-# 有了大数据又如何？没有数据驱动的流程和产品，就没有用 TechCrunch
+# 有了大数据又如何？没有数据驱动的流程和产品，就没有用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/15/so-ive-got-big-data-now-what/>
 

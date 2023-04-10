@@ -1,4 +1,4 @@
-# 当是谷歌/安卓对亚马逊/安卓的时候会发生什么？TechCrunch
+# 当是谷歌/安卓对亚马逊/安卓的时候会发生什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/17/google-versus-amazon-android/>
 

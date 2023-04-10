@@ -1,4 +1,4 @@
-# 为你生活中的木制机器人风扇准备的袜子 TechCrunch
+# 为你生活中的木制机器人风扇准备的袜子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/17/a-stocking-stuffer-for-the-wooden-robot-fan-in-your-life/>
 

@@ -1,4 +1,4 @@
-# 不幸的是，超级磁铁人不是超级英雄 TechCrunch
+# 不幸的是，超级磁铁人不是超级英雄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/06/super-magnet-man-is-unfortunately-not-a-superhero/>
 

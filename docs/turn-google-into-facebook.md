@@ -1,4 +1,4 @@
-# 将 Google+变成脸书 TechCrunch
+# 将 Google+变成脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/30/turn-google-into-facebook/>
 

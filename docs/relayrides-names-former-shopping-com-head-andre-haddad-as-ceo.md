@@ -1,4 +1,4 @@
-# RelayRides 任命前 Shopping.com 掌门人安德烈·哈达德为首席执行官 TechCrunch
+# RelayRides 任命前 Shopping.com 掌门人安德烈·哈达德为首席执行官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/relayrides-names-former-shopping-com-head-andre-haddad-as-ceo/>
 

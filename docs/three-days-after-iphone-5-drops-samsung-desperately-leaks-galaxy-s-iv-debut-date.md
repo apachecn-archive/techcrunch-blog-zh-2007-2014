@@ -1,4 +1,4 @@
-# iPhone 5 掉落三天后，三星拼命泄露 Galaxy S IV 首发日期 TechCrunch
+# iPhone 5 掉落三天后，三星拼命泄露 Galaxy S IV 首发日期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/17/three-days-after-iphone-5-drops-samsung-desperately-leaks-galaxy-s-iv-debut-date/>
 

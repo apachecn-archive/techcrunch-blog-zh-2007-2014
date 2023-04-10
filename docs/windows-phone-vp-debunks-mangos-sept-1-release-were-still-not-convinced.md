@@ -1,4 +1,4 @@
-# Windows Phone 副总裁揭穿了芒果 9 月 1 日的发布，我们仍然不相信 TechCrunch
+# Windows Phone 副总裁揭穿了芒果 9 月 1 日的发布，我们仍然不相信 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/windows-phone-vp-debunks-mangos-sept-1-release-were-still-not-convinced/>
 

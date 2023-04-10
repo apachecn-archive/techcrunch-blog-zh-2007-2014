@@ -1,4 +1,4 @@
-# uberVU 宣布帮助获得“社交奥斯卡”奖 TechCrunch
+# uberVU 宣布帮助获得“社交奥斯卡”奖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/25/ubervu-social-oscars/>
 

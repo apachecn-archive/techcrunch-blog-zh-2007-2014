@@ -1,4 +1,4 @@
-# 为什么杂志应用如此糟糕 TechCrunch
+# 为什么杂志应用如此糟糕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/the-dakly-died-of-suckage/>
 

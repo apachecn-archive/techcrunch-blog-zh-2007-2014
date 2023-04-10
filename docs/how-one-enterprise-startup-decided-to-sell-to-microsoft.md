@@ -1,4 +1,4 @@
-# 一家云企业初创公司如何决定出售给微软 TechCrunch
+# 一家云企业初创公司如何决定出售给微软 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/29/how-one-enterprise-startup-decided-to-sell-to-microsoft/>
 

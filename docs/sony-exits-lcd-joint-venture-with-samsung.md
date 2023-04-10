@@ -1,4 +1,4 @@
-# 索尼退出与三星的 LCD 合资企业 TechCrunch
+# 索尼退出与三星的 LCD 合资企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/26/sony-exits-lcd-joint-venture-with-samsung/>
 

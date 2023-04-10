@@ -1,4 +1,4 @@
-# Groupon 如何失去中国 TechCrunch
+# Groupon 如何失去中国 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/how-groupon-is-losing-china/>
 

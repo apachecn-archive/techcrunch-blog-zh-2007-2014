@@ -1,4 +1,4 @@
-# 东芝在假期及时发布 3 款新 Camileo 摄像机 TechCrunch
+# 东芝在假期及时发布 3 款新 Camileo 摄像机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/toshiba-releases-3-new-camileo-camcorders-in-time-for-the-holidays/>
 

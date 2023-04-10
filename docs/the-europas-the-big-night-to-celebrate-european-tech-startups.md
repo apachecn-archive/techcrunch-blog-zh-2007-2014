@@ -1,4 +1,4 @@
-# Europas 庆祝欧洲科技创业公司的盛大夜晚 TechCrunch
+# Europas 庆祝欧洲科技创业公司的盛大夜晚 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/the-europas-the-big-night-to-celebrate-european-tech-startups/>
 

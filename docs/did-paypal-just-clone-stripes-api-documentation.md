@@ -1,4 +1,4 @@
-# PayPal 是不是只是克隆了 Stripe 的 API 文档？TechCrunch
+# PayPal 是不是只是克隆了 Stripe 的 API 文档？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/08/did-paypal-just-clone-stripes-api-documentation/>
 

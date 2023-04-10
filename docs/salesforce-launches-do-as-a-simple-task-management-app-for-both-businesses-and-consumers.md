@@ -1,4 +1,4 @@
-# Salesforce 的 Do 是一款面向企业和消费者的简单任务管理应用 TechCrunch
+# Salesforce 的 Do 是一款面向企业和消费者的简单任务管理应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/salesforce-launches-do-as-a-simple-task-management-app-for-both-businesses-and-consumers/>
 

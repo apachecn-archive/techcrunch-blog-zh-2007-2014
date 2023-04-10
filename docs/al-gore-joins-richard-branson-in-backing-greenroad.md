@@ -1,4 +1,4 @@
-# 阿尔·戈尔和理查德·布兰森一起支持绿道 TechCrunch
+# 阿尔·戈尔和理查德·布兰森一起支持绿道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/al-gore-joins-richard-branson-in-backing-greenroad/>
 

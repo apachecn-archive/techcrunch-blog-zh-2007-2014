@@ -1,4 +1,4 @@
-# 为什么苹果会让威瑞森发布 iPhone TechCrunch
+# 为什么苹果会让威瑞森发布 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/07/verizon-iphone-launch/>
 

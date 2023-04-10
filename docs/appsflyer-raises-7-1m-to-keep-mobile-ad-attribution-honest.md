@@ -1,4 +1,4 @@
-# AppsFlyer 筹集 710 万美元以保持移动广告归属的真实性 TechCrunch
+# AppsFlyer 筹集 710 万美元以保持移动广告归属的真实性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/appsflyer-raises-7-1m-to-keep-mobile-ad-attribution-honest/>
 

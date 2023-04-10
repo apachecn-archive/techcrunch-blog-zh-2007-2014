@@ -1,4 +1,4 @@
-# 二手服装市场 Twice 正斥资 100 万美元收购 YC、TechStars 或 500 家初创公司支持的公司 TechCrunch
+# 二手服装市场 Twice 正斥资 100 万美元收购 YC、TechStars 或 500 家初创公司支持的公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/08/secondhand-clothing-marketplace-twice-is-putting-up-1m-to-acquire-yc-techstars-or-500-startups-backed-companies/>
 

@@ -1,4 +1,4 @@
-# TechStars 网络新成员 MuckerLab 在洛杉矶成立 TechCrunch
+# TechStars 网络新成员 MuckerLab 在洛杉矶成立 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/20/new-techstars-network-member-muckerlab-launches-in-l-a/>
 

@@ -1,4 +1,4 @@
-# 社交游戏网络收购脸书市场份额 TechCrunch
+# 社交游戏网络收购脸书市场份额 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/16/social-gaming-network-buys-facebook-market-share/>
 

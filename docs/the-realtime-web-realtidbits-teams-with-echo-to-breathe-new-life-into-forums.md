@@ -1,4 +1,4 @@
-# Realtime Web: RealTidbits 与 Echo 合作，为论坛注入新的活力 TechCrunch
+# Realtime Web: RealTidbits 与 Echo 合作，为论坛注入新的活力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/27/the-realtime-web-realtidbits-teams-with-echo-to-breathe-new-life-into-forums/>
 

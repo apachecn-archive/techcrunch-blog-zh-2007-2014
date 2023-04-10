@@ -1,4 +1,4 @@
-# Lenddo 筹集 800 万美元，利用在线声誉在新兴市场发放贷款 TechCrunch
+# Lenddo 筹集 800 万美元，利用在线声誉在新兴市场发放贷款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/lenddo-8m-series-a/>
 

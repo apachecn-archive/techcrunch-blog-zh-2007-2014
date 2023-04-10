@@ -1,4 +1,4 @@
-# Tango 拥有 1700 万注册用户，增长速度是 Skype 成立第一年的两倍 TechCrunch
+# Tango 拥有 1700 万注册用户，增长速度是 Skype 成立第一年的两倍 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/tango-17-million-skype/>
 

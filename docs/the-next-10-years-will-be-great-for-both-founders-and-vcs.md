@@ -1,4 +1,4 @@
-# 未来 10 年对创始人和风投来说都很棒 TechCrunch
+# 未来 10 年对创始人和风投来说都很棒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/08/the-next-10-years-will-be-great-for-both-founders-and-vcs/>
 

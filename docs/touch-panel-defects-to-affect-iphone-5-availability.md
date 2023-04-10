@@ -1,4 +1,4 @@
-# 触摸屏缺陷影响 iPhone 5 上市？TechCrunch
+# 触摸屏缺陷影响 iPhone 5 上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/touch-panel-defects-to-affect-iphone-5-availability/>
 

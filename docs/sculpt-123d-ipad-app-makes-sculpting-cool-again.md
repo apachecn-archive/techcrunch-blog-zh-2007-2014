@@ -1,4 +1,4 @@
-# Sculpt 123D iPad 应用程序让雕刻再次变得酷起来 TechCrunch
+# Sculpt 123D iPad 应用程序让雕刻再次变得酷起来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/sculpt-123d-ipad-app-makes-sculpting-cool-again/>
 

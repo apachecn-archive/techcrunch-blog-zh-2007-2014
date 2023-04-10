@@ -1,4 +1,4 @@
-# ZEFR 雇佣了前 Dailymotion 高管进行国际扩张，还雇佣了一些 BetterWorks 工程师 TechCrunch
+# ZEFR 雇佣了前 Dailymotion 高管进行国际扩张，还雇佣了一些 BetterWorks 工程师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/zefr-international-betterworks-folks/>
 

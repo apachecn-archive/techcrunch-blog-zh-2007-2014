@@ -1,4 +1,4 @@
-# 《OS X 雄狮》售出 600 万份，超过《雪豹》TechCrunch
+# 《OS X 雄狮》售出 600 万份，超过《雪豹》
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/six-million-copies-of-os-x-lion-sold-outpaces-snow-leopard/>
 

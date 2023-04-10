@@ -1,4 +1,4 @@
-# 未来就在眼前:DoubleTwist 为 Android 带来音乐、照片和视频无线同步技术 TechCrunch
+# 未来就在眼前:DoubleTwist 为 Android 带来音乐、照片和视频无线同步技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/30/the-future-is-here-doubletwist-brings-wireless-sync-to-android-for-music-photos-video/>
 

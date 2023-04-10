@@ -1,4 +1,4 @@
-# 可怕的任天堂 3DS Slidepad 是真的，将于今年 12 月运往日本 TechCrunch
+# 可怕的任天堂 3DS Slidepad 是真的，将于今年 12 月运往日本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/the-ghastly-nintendo-3ds-slidepad-is-real-ships-to-japan-this-december/>
 

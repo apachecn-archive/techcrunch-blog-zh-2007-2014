@@ -1,4 +1,4 @@
-# LinkedIn Q2 的收益超过华尔街:销售额 2.282 亿美元；每股收益 0.03 美元 TechCrunch
+# LinkedIn Q2 的收益超过华尔街:销售额 2.282 亿美元；每股收益 0.03 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/02/linkedin-q2-earnings-beat-the-street-228-2m-in-sales-eps-of-0-03/>
 

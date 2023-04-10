@@ -1,4 +1,4 @@
-# 惠普官方宣布:李艾科出局，梅格·惠特曼被任命为总裁兼首席执行官 TechCrunch
+# 惠普官方宣布:李艾科出局，梅格·惠特曼被任命为总裁兼首席执行官 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/its-official-at-hp-apotheker-is-out-meg-whitmen-named-president-and-ceo/>
 

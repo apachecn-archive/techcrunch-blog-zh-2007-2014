@@ -1,4 +1,4 @@
-# GLMPS 推出了一款很酷的新照片分享应用，带有视频扭曲功能 TechCrunch
+# GLMPS 推出了一款很酷的新照片分享应用，带有视频扭曲功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/glmps-launches-a-cool-new-photo-sharing-app-with-a-video-twist/>
 

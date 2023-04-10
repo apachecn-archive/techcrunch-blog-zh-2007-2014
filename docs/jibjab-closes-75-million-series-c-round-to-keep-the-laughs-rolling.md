@@ -1,4 +1,4 @@
-# JibJab 完成 750 万美元的 C 轮融资，继续笑点不断 TechCrunch
+# JibJab 完成 750 万美元的 C 轮融资，继续笑点不断 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/07/jibjab-closes-75-million-series-c-round-to-keep-the-laughs-rolling/>
 

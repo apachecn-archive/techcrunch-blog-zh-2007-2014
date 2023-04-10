@@ -1,4 +1,4 @@
-# 记录你无聊生活的每一刻 TechCrunch
+# 记录你无聊生活的每一刻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/record-every-moment-of-your-boring-life/>
 

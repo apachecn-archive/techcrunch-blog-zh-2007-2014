@@ -1,4 +1,4 @@
-# 为什么 AOL 可能放弃 Bebo 而不是出售它 TechCrunch
+# 为什么 AOL 可能放弃 Bebo 而不是出售它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/10/aol-bebo-tax-abaondon/>
 

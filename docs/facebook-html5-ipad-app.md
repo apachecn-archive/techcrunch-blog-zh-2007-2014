@@ -1,4 +1,4 @@
-# 脸书考虑 HTML5，不会谈论 iPad 应用 TechCrunch
+# 脸书考虑 HTML5，不会谈论 iPad 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/27/facebook-html5-ipad-app/>
 

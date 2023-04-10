@@ -1,4 +1,4 @@
-# 电子邮件过载修复:三句话电子邮件 TechCrunch
+# 电子邮件过载修复:三句话电子邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/18/3-sentence-emails/>
 

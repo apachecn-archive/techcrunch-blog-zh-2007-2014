@@ -1,4 +1,4 @@
-# Airbnb 向 Springstar 申请国际扩张 TechCrunch
+# Airbnb 向 Springstar 申请国际扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/17/airbnb-checks-in-with-springstar-for-international-expansion/>
 

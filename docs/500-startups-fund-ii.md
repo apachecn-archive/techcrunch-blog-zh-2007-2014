@@ -1,4 +1,4 @@
-# 500 家初创公司确认获得 4400 万美元的第二笔基金，计划在未来一年投资 200 家初创公司 TechCrunch
+# 500 家初创公司确认获得 4400 万美元的第二笔基金，计划在未来一年投资 200 家初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/500-startups-fund-ii/>
 

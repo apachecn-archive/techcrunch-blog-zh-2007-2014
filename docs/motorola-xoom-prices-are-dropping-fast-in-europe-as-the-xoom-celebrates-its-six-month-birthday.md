@@ -1,4 +1,4 @@
-# 摩托罗拉 Xoom 在欧洲的价格迅速下降，因为 Xoom 庆祝其六个月生日 TechCrunch
+# 摩托罗拉 Xoom 在欧洲的价格迅速下降，因为 Xoom 庆祝其六个月生日 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/motorola-xoom-prices-are-dropping-fast-in-europe-as-the-xoom-celebrates-its-six-month-birthday/>
 

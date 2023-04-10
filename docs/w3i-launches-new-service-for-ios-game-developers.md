@@ -1,4 +1,4 @@
-# W3i 为 iOS 游戏开发者推出新服务 TechCrunch
+# W3i 为 iOS 游戏开发者推出新服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/w3i-launches-new-service-for-ios-game-developers/>
 

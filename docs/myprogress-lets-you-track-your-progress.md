@@ -1,4 +1,4 @@
-# MyProgress 让你追踪自己的进度——TechCrunch
+# MyProgress 让你追踪自己的进度——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/18/myprogress-lets-you-track-your-progress/>
 

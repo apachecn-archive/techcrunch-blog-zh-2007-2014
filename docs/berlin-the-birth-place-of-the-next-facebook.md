@@ -1,4 +1,4 @@
-# 柏林:下一个脸书的诞生地？TechCrunch
+# 柏林:下一个脸书的诞生地？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/berlin-the-birth-place-of-the-next-facebook/>
 

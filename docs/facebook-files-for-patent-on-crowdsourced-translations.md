@@ -1,4 +1,4 @@
-# 脸书想拥有众包翻译的想法 TechCrunch
+# 脸书想拥有众包翻译的想法 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/08/26/facebook-files-for-patent-on-crowdsourced-translations/>
 

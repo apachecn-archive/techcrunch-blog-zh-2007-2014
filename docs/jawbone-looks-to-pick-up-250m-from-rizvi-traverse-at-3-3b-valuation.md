@@ -1,4 +1,4 @@
-# Jawbone 以 33 亿美元的估值从 Rizvi Traverse 获得 2.5 亿美元 TechCrunch
+# Jawbone 以 33 亿美元的估值从 Rizvi Traverse 获得 2.5 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/jawbone-looks-to-pick-up-250m-from-rizvi-traverse-at-3-3b-valuation/>
 

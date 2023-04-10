@@ -1,4 +1,4 @@
-# 移动设备的下一个主要集成层:操作系统级家庭自动化 TechCrunch
+# 移动设备的下一个主要集成层:操作系统级家庭自动化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/21/mobiles-next-major-integrated-layer-os-level-home-automation/>
 

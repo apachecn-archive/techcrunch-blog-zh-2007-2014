@@ -1,4 +1,4 @@
-# 几个月来，脸书一直在改进他们的杀巨魔评论系统；终于准备好了吗？TechCrunch
+# 几个月来，脸书一直在改进他们的杀巨魔评论系统；终于准备好了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/facebook-comments-2/>
 

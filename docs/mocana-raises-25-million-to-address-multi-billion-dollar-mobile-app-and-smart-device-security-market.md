@@ -1,4 +1,4 @@
-# Mocana 筹集了 2500 万美元来应对移动应用和智能设备安全市场 TechCrunch
+# Mocana 筹集了 2500 万美元来应对移动应用和智能设备安全市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/22/mocana-raises-25-million-to-address-multi-billion-dollar-mobile-app-and-smart-device-security-market/>
 

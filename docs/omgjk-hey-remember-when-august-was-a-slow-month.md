@@ -1,4 +1,4 @@
-# OMG/JK:嘿，还记得八月是一个缓慢的月份吗？TechCrunch
+# OMG/JK:嘿，还记得八月是一个缓慢的月份吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/28/omgjk-hey-remember-when-august-was-a-slow-month/>
 

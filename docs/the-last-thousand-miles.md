@@ -1,4 +1,4 @@
-# 最后一千英里 TechCrunch
+# 最后一千英里 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/22/the-last-thousand-miles/>
 

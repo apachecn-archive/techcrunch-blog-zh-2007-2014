@@ -1,4 +1,4 @@
-# 问答平台 Answers.com 筹集更多资金，以超过 2 亿美元收购客户体验分析公司 ForeSee TechCrunch
+# 问答平台 Answers.com 筹集更多资金，以超过 2 亿美元收购客户体验分析公司 ForeSee 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/22/qa-platform-answers-com-raises-more-cash-buys-customer-experience-analytics-company-foresee-for-over-200m/>
 

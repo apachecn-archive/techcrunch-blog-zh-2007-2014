@@ -1,4 +1,4 @@
-# Hipmunk 让跨平台旅游搜索变得更容易 TechCrunch
+# Hipmunk 让跨平台旅游搜索变得更容易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/hipmunk-makes-cross-platform-travel-search-easier/>
 

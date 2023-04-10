@@ -1,4 +1,4 @@
-# 蓝牙 MP3 手表，当你无法忍受不能随身携带播放音乐的东西时使用 TechCrunch
+# 蓝牙 MP3 手表，当你无法忍受不能随身携带播放音乐的东西时使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/29/bluetooth-mp3-watch-for-when-you-just-cant-stand-to-not-have-something-that-plays-music-strapped-to-you/>
 

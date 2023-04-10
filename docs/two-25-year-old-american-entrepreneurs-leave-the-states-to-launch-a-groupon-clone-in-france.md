@@ -1,4 +1,4 @@
-# 两名 25 岁的美国企业家离开美国，创办了 Groupon 克隆公司...在法国？TechCrunch
+# 两名 25 岁的美国企业家离开美国，创办了 Groupon 克隆公司...在法国？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/two-25-year-old-american-entrepreneurs-leave-the-states-to-launch-a-groupon-clone-in-france/>
 

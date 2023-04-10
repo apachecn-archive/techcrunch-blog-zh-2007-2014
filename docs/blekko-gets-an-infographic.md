@@ -1,4 +1,4 @@
-# Blekko 得到一张信息图 TechCrunch
+# Blekko 得到一张信息图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/26/blekko-gets-an-infographic/>
 

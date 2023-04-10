@@ -1,4 +1,4 @@
-# Gogo 开发了一款应用，可以让旅行者在飞行途中发短信和打电话 TechCrunch
+# Gogo 开发了一款应用，可以让旅行者在飞行途中发短信和打电话 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/11/gogo-teases-an-app-that-could-let-travelers-text-and-make-calls-during-flights/>
 

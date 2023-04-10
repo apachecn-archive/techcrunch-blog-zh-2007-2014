@@ -1,4 +1,4 @@
-# 谷歌给 Chrome 网上商店刷了一层新漆 TechCrunch
+# 谷歌给 Chrome 网上商店刷了一层新漆 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/google-gives-chrome-web-store-a-welcome-new-lick-of-paint/>
 

@@ -1,4 +1,4 @@
-# 脸书的“肮脏的喜欢”最初可能会误导图形搜索，但脸书也有其他好的信号 TechCrunch
+# 脸书的“肮脏的喜欢”最初可能会误导图形搜索，但脸书也有其他好的信号 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/facebooks-dirty-likes-may-mislead-graph-search-initially-but-facebook-has-other-good-signals-too/>
 

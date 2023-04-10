@@ -1,4 +1,4 @@
-# (创始人的故事)Turntable.fm 的首要任务:“钉钉产品&修复任何不工作的东西”TechCrunch
+# (创始人的故事)Turntable.fm 的首要任务:“钉钉产品&修复任何不工作的东西”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/founder-stories-turntable-fms-top-priority-nail-product-fix-anything-that-is-not-working/>
 

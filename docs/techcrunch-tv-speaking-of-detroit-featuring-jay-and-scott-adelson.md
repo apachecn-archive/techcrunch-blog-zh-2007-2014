@@ -1,4 +1,4 @@
-# TechCrunch 电视台:说到...底特律，由 Scott 和 Jay Adelson 主演 TechCrunch
+# TechCrunch 电视台:说到...底特律，由 Scott 和 Jay Adelson 主演 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/09/techcrunch-tv-speaking-of-detroit-featuring-jay-and-scott-adelson/>
 

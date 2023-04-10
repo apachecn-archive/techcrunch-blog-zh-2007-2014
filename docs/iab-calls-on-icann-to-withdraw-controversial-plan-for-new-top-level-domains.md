@@ -1,4 +1,4 @@
-# IAB 呼吁 ICANN 撤回有争议的新顶级域名计划 TechCrunch
+# IAB 呼吁 ICANN 撤回有争议的新顶级域名计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/15/iab-calls-on-icann-to-withdraw-controversial-plan-for-new-top-level-domains/>
 

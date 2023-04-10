@@ -1,4 +1,4 @@
-# PayPal 即将推出的 iPhone 应用程序将变得更加慈善和支票友好 TechCrunch
+# PayPal 即将推出的 iPhone 应用程序将变得更加慈善和支票友好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/14/paypals-upcoming-iphone-app-to-get-more-charitable-and-check-friendly/>
 

@@ -1,4 +1,4 @@
-# 与两位扰乱 BJ 黑客马拉松的获胜者近距离接触 TechCrunch
+# 与两位扰乱 BJ 黑客马拉松的获胜者近距离接触 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/30/up-close-with-two-disrupt-bj-hackathon-winners/>
 

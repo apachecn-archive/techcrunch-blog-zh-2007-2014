@@ -1,4 +1,4 @@
-# 学生作品集网站 Seelio 筹集了不到 100 万美元，将其平台直接提供给教育工作者 TechCrunch
+# 学生作品集网站 Seelio 筹集了不到 100 万美元，将其平台直接提供给教育工作者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/22/student-portfolio-site-seelio-raises-just-under-1-million-takes-its-platform-directly-to-educators/>
 

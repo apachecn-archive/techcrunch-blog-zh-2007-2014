@@ -1,4 +1,4 @@
-# 公寓搜索引擎 PadMapper 被 Craigslist 叫停，删除房源 TechCrunch
+# 公寓搜索引擎 PadMapper 被 Craigslist 叫停，删除房源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/22/padmapper-craigslist-cease-and-desist/>
 

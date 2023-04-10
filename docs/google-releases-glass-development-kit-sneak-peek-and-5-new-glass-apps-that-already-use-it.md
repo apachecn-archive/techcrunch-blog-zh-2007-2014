@@ -1,4 +1,4 @@
-# 谷歌发布眼镜开发套件“先睹为快”和 5 个已经使用它的新眼镜应用程序 TechCrunch
+# 谷歌发布眼镜开发套件“先睹为快”和 5 个已经使用它的新眼镜应用程序 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/19/google-releases-glass-development-kit-sneak-peek-and-5-new-glass-apps-that-already-use-it/>
 

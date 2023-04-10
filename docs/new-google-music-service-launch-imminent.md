@@ -1,4 +1,4 @@
-# 新的谷歌音乐服务即将推出 TechCrunch
+# 新的谷歌音乐服务即将推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/10/21/new-google-music-service-launch-imminent/>
 

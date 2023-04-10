@@ -1,4 +1,4 @@
-# Imagekind 被 CafePress 以 1500-2000 万美元收购 TechCrunch
+# Imagekind 被 CafePress 以 1500-2000 万美元收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/08/imagekind-acquired-by-cafepress-for-15-20-million/>
 

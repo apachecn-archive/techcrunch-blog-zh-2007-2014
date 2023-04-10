@@ -1,4 +1,4 @@
-# HTC Vigor 更名为 Incredible HD，准备 10 月发布？TechCrunch
+# HTC Vigor 更名为 Incredible HD，准备 10 月发布？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/htc-vigor-renamed-incredible-hd-poised-for-october-release/>
 

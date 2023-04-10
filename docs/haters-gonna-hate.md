@@ -1,4 +1,4 @@
-# 讨厌 iTunes 10 图标？你认为你能做得更好吗？TechCrunch
+# 讨厌 iTunes 10 图标？你认为你能做得更好吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/03/haters-gonna-hate/>
 

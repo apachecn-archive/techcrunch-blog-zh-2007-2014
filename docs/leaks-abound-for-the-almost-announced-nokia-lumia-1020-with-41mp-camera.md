@@ -1,4 +1,4 @@
-# 几乎即将发布的配备 41MP 摄像头的诺基亚 Lumia 1020 漏洞百出 TechCrunch
+# 几乎即将发布的配备 41MP 摄像头的诺基亚 Lumia 1020 漏洞百出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/leaks-abound-for-the-almost-announced-nokia-lumia-1020-with-41mp-camera/>
 

@@ -1,4 +1,4 @@
-# 全新惠普显示器外观精美实用 TechCrunch
+# 全新惠普显示器外观精美实用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/26/new-hp-monitors-look-well-practical/>
 

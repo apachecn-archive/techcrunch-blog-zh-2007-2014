@@ -1,4 +1,4 @@
-# OnLive 与 GameSpot 合作，将游戏演示嵌入评论 TechCrunch
+# OnLive 与 GameSpot 合作，将游戏演示嵌入评论 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/onlive-teams-up-with-gamespot-to-embed-game-demos-in-reviews/>
 

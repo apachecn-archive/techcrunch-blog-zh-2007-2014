@@ -1,4 +1,4 @@
-# 亚马逊发布公共数据集以简化研究 TechCrunch
+# 亚马逊发布公共数据集以简化研究 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/04/amazon-launches-public-data-sets-to-ease-research/>
 

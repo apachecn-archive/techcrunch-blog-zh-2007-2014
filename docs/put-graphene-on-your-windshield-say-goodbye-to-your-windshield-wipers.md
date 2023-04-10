@@ -1,4 +1,4 @@
-# 把石墨烯放在你的挡风玻璃上，跟你的雨刷说再见 TechCrunch
+# 把石墨烯放在你的挡风玻璃上，跟你的雨刷说再见 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/02/put-graphene-on-your-windshield-say-goodbye-to-your-windshield-wipers/>
 

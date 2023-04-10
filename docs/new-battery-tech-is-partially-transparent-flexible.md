@@ -1,4 +1,4 @@
-# 新电池技术部分透明、灵活 TechCrunch
+# 新电池技术部分透明、灵活 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/new-battery-tech-is-partially-transparent-flexible/>
 

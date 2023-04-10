@@ -1,4 +1,4 @@
-# Songkick:现场音乐爱好者会喜欢这个 TechCrunch
+# Songkick:现场音乐爱好者会喜欢这个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/22/songkick-live-music-lovers-will-love-this/>
 

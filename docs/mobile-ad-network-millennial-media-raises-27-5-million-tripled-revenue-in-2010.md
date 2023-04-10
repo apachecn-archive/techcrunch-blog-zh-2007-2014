@@ -1,4 +1,4 @@
-# 移动广告网络 Millennial Media 融资 2750 万美元；2010 年收入增长两倍 TechCrunch
+# 移动广告网络 Millennial Media 融资 2750 万美元；2010 年收入增长两倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/05/mobile-ad-network-millennial-media-raises-27-5-million-tripled-revenue-in-2010/>
 

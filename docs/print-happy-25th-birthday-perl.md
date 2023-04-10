@@ -1,4 +1,4 @@
-# 打印“25 岁生日快乐，Perl”；TechCrunch
+# 打印“25 岁生日快乐，Perl”；
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/print-happy-25th-birthday-perl/>
 

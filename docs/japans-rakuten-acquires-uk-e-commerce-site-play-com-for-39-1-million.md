@@ -1,4 +1,4 @@
-# 日本乐天以 3920 万美元收购英国电子商务网站 Play.com TechCrunch
+# 日本乐天以 3920 万美元收购英国电子商务网站 Play.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/japans-rakuten-acquires-uk-e-commerce-site-play-com-for-39-1-million/>
 

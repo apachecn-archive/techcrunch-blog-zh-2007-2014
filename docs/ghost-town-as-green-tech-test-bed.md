@@ -1,4 +1,4 @@
-# 鬼城将被建成绿色技术试验台 TechCrunch
+# 鬼城将被建成绿色技术试验台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/ghost-town-as-green-tech-test-bed/>
 

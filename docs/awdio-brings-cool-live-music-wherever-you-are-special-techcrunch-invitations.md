@@ -1,4 +1,4 @@
-# 无论你身在何处，Awdio 都能带来酷炫的现场音乐。TechCrunch 特别邀请 TechCrunch
+# 无论你身在何处，Awdio 都能带来酷炫的现场音乐。TechCrunch 特别邀请 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/10/awdio-brings-cool-live-music-wherever-you-are-special-techcrunch-invitations/>
 

@@ -1,4 +1,4 @@
-# Snapguide 又获得 300 万美元，重新设计其 iPhone 应用程序 TechCrunch
+# Snapguide 又获得 300 万美元，重新设计其 iPhone 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/tapping-into-the-maker-movement-snapguide-picks-up-another-3m-updates-its-how-to-iphone-app-with-improved-search-and-more/>
 

@@ -1,4 +1,4 @@
-# 企业移动性:设备、安全性、设计和分发 TechCrunch
+# 企业移动性:设备、安全性、设计和分发 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/26/enterprise-mobility-devices-security-design-and-distribution/>
 

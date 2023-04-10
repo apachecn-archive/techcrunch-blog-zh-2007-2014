@@ -1,4 +1,4 @@
-# Salesforce.com 达到第一季度收益预期，收入 8.42 亿美元 TechCrunch
+# Salesforce.com 达到第一季度收益预期，收入 8.42 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/23/salesforce-com-meets-first-quarter-earnings-expectations-revenues-up-29/>
 

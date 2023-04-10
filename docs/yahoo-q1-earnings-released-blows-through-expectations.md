@@ -1,4 +1,4 @@
-# 雅虎 Q1 公布收益，收入和收益超出预期 TechCrunch
+# 雅虎 Q1 公布收益，收入和收益超出预期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/22/yahoo-q1-earnings-released-blows-through-expectations/>
 

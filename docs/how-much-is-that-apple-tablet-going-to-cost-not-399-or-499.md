@@ -1,4 +1,4 @@
-# 苹果平板电脑的价格是多少？不是 399 美元或者 499 美元。TechCrunch
+# 苹果平板电脑的价格是多少？不是 399 美元或者 499 美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/how-much-is-that-apple-tablet-going-to-cost-not-399-or-499/>
 

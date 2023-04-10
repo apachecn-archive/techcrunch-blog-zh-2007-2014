@@ -1,4 +1,4 @@
-# Seculert 筹集了 1000 万美元用于反僵尸网络治疗 TechCrunch
+# Seculert 筹集了 1000 万美元用于反僵尸网络治疗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/seculert-raises-10m-for-anti-botnet-cure/>
 

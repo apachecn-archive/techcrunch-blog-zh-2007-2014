@@ -1,4 +1,4 @@
-# IBM 收购犯罪预防和数据情报软件开发商 I2 TechCrunch
+# IBM 收购犯罪预防和数据情报软件开发商 I2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/ibm-buys-crime-prevention-and-data-intelligence-software-developer-i2/>
 

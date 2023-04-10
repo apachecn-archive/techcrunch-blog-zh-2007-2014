@@ -1,4 +1,4 @@
-# Siri，你为什么这么无趣？TechCrunch
+# Siri，你为什么这么无趣？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/02/siri-why-are-you-so-underwhelming/>
 

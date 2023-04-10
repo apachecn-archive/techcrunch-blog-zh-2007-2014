@@ -1,4 +1,4 @@
-# Storify 通过新的协作和导出功能为品牌(和其他品牌)增加了更多工具 TechCrunch
+# Storify 通过新的协作和导出功能为品牌(和其他品牌)增加了更多工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/01/storify-collaboration/>
 

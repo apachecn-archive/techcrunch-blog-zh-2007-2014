@@ -1,4 +1,4 @@
-# Zyb，移动社交网络——TechCrunch
+# Zyb，移动社交网络——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/zyb-the-mobile-social-network/>
 

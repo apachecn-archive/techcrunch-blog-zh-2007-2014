@@ -1,4 +1,4 @@
-# Giftd:便携式虚拟礼品店 TechCrunch
+# Giftd:便携式虚拟礼品店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/18/giftd-the-portable-virtual-gift-store/>
 

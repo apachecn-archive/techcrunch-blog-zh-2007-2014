@@ -1,4 +1,4 @@
-# HipLogic 筹集 700 万美元将智能手机智能引入大众市场手机 TechCrunch
+# HipLogic 筹集 700 万美元将智能手机智能引入大众市场手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/02/hiplogic-raises-7-million-to-bring-smartphone-intelligence-to-mass-market-phones/>
 

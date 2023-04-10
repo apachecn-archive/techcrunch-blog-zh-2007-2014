@@ -1,4 +1,4 @@
-# 通过 3D 打印您自己的打印机墨盒，将它贴在军工油墨复合体上 TechCrunch
+# 通过 3D 打印您自己的打印机墨盒，将它贴在军工油墨复合体上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/stick-it-to-the-military-industrial-ink-complex-by-3d-printing-your-own-printer-cartridges/>
 

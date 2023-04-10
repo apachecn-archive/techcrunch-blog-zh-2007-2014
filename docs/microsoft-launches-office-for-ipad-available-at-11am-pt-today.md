@@ -1,4 +1,4 @@
-# 微软发布 iPad 版 Office，太平洋时间今天上午 11 点 TechCrunch
+# 微软发布 iPad 版 Office，太平洋时间今天上午 11 点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/microsoft-launches-office-for-ipad-available-at-11am-pt-today/>
 

@@ -1,4 +1,4 @@
-# 《纽约时报》仍在数字订阅领域举步维艰 TechCrunch
+# 《纽约时报》仍在数字订阅领域举步维艰 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/new-york-times-treading-water-digital-subcriptions/>
 

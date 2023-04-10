@@ -1,4 +1,4 @@
-# urbanspoon:2011 年流量增长 80%，移动增长速度超过网络 TechCrunch
+# urbanspoon:2011 年流量增长 80%，移动增长速度超过网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/07/urbanspoon-traffic-up-80-in-2011-mobile-growth-faster-than-web/>
 

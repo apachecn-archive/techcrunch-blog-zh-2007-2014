@@ -1,4 +1,4 @@
-# 看这个:前诺基亚高管收购 Meta Watch 的互联手表业务 TechCrunch
+# 看这个:前诺基亚高管收购 Meta Watch 的互联手表业务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/watch-this-former-nokia-exec-acquires-meta-watchs-connected-watch-business/>
 

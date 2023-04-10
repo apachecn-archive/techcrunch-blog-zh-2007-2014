@@ -1,4 +1,4 @@
-# Chartbeat 的新功能:提升参与度，降低 link bait TechCrunch
+# Chartbeat 的新功能:提升参与度，降低 link bait 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/07/chartbeat-vs-linkbait/>
 

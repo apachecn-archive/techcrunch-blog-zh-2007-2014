@@ -1,4 +1,4 @@
-# 三星基于 Windows 8 的新平板电脑最早可能于下周亮相 TechCrunch
+# 三星基于 Windows 8 的新平板电脑最早可能于下周亮相 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/samsungs-new-windows-8-powered-tablet-may-debut-as-early-as-next-week/>
 

@@ -1,4 +1,4 @@
-# LinuxCon 的红帽 CEO:我不知道接下来会发生什么 TechCrunch
+# LinuxCon 的红帽 CEO:我不知道接下来会发生什么 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/red-hat-ceo-at-linuxcon-i-have-no-idea-whats-next/>
 

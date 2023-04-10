@@ -1,4 +1,4 @@
-# Zillow 将其 RentJuice 收购付诸实施，为租赁专业人士推出免费市场 TechCrunch
+# Zillow 将其 RentJuice 收购付诸实施，为租赁专业人士推出免费市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/zillow-puts-its-rentjuice-acquisition-to-work-launches-a-free-marketplace-for-rental-professionals/>
 

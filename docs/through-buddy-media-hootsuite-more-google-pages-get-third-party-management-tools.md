@@ -1,4 +1,4 @@
-# 通过 Buddy Media、HootSuite & More、Google+ Pages 获得第三方管理工具 TechCrunch
+# 通过 Buddy Media、HootSuite & More、Google+ Pages 获得第三方管理工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/through-buddy-media-hootsuite-more-google-pages-get-third-party-management-tools/>
 

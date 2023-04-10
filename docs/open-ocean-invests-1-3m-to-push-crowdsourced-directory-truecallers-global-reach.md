@@ -1,4 +1,4 @@
-# Open Ocean 投资 130 万美元推动众包目录 Truecaller 的全球覆盖 TechCrunch
+# Open Ocean 投资 130 万美元推动众包目录 Truecaller 的全球覆盖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/18/open-ocean-invests-1-3m-to-push-crowdsourced-directory-truecallers-global-reach/>
 

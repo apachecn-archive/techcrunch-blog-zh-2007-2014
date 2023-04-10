@@ -1,4 +1,4 @@
-# iOS Vs. Android 上的马蒂亚斯·杜阿尔特长相:“为什么西西里人比其他绅士更帅？”TechCrunch
+# iOS Vs. Android 上的马蒂亚斯·杜阿尔特长相:“为什么西西里人比其他绅士更帅？”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/29/beauty-is-in-the-i-of-the-beholder/>
 

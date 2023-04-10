@@ -1,4 +1,4 @@
-# AOL 为 WOW.com 找到了一个明显的用途:一个魔兽世界社交网络 TechCrunch
+# AOL 为 WOW.com 找到了一个明显的用途:一个魔兽世界社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/02/aol-finds-an-obvious-use-for-wowcom-world-of-warcraft-social-network/>
 

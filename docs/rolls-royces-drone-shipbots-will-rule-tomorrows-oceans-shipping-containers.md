@@ -1,4 +1,4 @@
-# 罗尔斯·罗伊斯的无人驾驶船将统治明天的海洋，海运集装箱 TechCrunch
+# 罗尔斯·罗伊斯的无人驾驶船将统治明天的海洋，海运集装箱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/rolls-royces-drone-shipbots-will-rule-tomorrows-oceans-shipping-containers/>
 

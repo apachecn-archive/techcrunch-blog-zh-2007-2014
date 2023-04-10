@@ -1,4 +1,4 @@
-# 把它们送人吧。从百思买购买三星高清电视，获得三星安卓平板电脑 TechCrunch
+# 把它们送人吧。从百思买购买三星高清电视，获得三星安卓平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/this-isnt-going-to-end-well/>
 

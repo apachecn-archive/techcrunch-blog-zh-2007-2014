@@ -1,4 +1,4 @@
-# 英国政府计划东伦敦科技集群，启动签证，审查知识产权法，2 亿英镑的融资。什么？TechCrunch
+# 英国政府计划东伦敦科技集群，启动签证，审查知识产权法，2 亿英镑的融资。什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/04/uk-government-plans-east-london-tech-cluster-startup-visa-review-of-ip-law-200-million-in-finance-what/>
 

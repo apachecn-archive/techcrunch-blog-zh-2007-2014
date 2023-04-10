@@ -1,4 +1,4 @@
-# 云服务提供商 Six Degrees Group 以 9400 万美元的资金在英国成立 TechCrunch
+# 云服务提供商 Six Degrees Group 以 9400 万美元的资金在英国成立 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/cloud-services-provider-six-degrees-group-launches-in-uk-with-94-million-in-funding/>
 

@@ -1,4 +1,4 @@
-# 九月疯狂 TechCrunch
+# 九月疯狂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/29/september-madness/>
 

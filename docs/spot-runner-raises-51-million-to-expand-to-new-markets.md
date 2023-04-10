@@ -1,4 +1,4 @@
-# Spot Runner 筹集 5100 万美元拓展新市场 TechCrunch
+# Spot Runner 筹集 5100 万美元拓展新市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/06/spot-runner-raises-51-million-to-expand-to-new-markets/>
 

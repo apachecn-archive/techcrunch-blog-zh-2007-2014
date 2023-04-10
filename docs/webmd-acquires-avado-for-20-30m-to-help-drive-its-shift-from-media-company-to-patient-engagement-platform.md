@@ -1,4 +1,4 @@
-# WebMD 以 2000 万至 3000 万美元收购 Avado，帮助推动其从媒体公司向患者参与平台发展 TechCrunch
+# WebMD 以 2000 万至 3000 万美元收购 Avado，帮助推动其从媒体公司向患者参与平台发展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/webmd-acquires-avado-for-20-30m-to-help-drive-its-shift-from-media-company-to-patient-engagement-platform/>
 

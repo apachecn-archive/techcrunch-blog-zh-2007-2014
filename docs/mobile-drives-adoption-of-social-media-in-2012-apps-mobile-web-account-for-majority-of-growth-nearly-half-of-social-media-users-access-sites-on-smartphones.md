@@ -1,4 +1,4 @@
-# 移动设备推动 2012 年社交媒体的采用:应用和移动网络占增长的大部分；近一半的社交媒体用户通过智能手机访问网站 TechCrunch
+# 移动设备推动 2012 年社交媒体的采用:应用和移动网络占增长的大部分；近一半的社交媒体用户通过智能手机访问网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/03/mobile-drives-adoption-of-social-media-in-2012-apps-mobile-web-account-for-majority-of-growth-nearly-half-of-social-media-users-access-sites-on-smartphones/>
 

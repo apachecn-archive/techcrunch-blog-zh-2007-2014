@@ -1,4 +1,4 @@
-# 苹果 Vs 摩托罗拉移动:美国法官驳回苹果专利许可诉讼 TechCrunch
+# 苹果 Vs 摩托罗拉移动:美国法官驳回苹果专利许可诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/06/apple-vs-motorola-mobility-u-s-judge-dismisses-apple-patent-licensing-lawsuit/>
 

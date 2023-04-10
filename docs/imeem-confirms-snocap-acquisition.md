@@ -1,4 +1,4 @@
-# Imeem 确认收购 SnO cap TechCrunch
+# Imeem 确认收购 SnO cap 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/07/imeem-confirms-snocap-acquisition/>
 

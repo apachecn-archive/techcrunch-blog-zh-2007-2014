@@ -1,4 +1,4 @@
-# Elephanti 筹集了 450 万美元，帮助购物者在附近的商店找到产品 TechCrunch
+# Elephanti 筹集了 450 万美元，帮助购物者在附近的商店找到产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/26/elephanti-seed-funding/>
 

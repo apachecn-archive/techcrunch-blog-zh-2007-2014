@@ -1,4 +1,4 @@
-# 蒂姆·库克:是的，iPad 正在蚕食 Mac 的销量...但它可能会吃掉更多的电脑 TechCrunch
+# 蒂姆·库克:是的，iPad 正在蚕食 Mac 的销量...但它可能会吃掉更多的电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/tim-cook-yeah-the-ipad-is-eating-mac-sales-but-its-probably-eating-way-more-pcs/>
 

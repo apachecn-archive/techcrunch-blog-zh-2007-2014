@@ -1,4 +1,4 @@
-# 据报道，索尼寻求出售其个人电脑部门 TechCrunch
+# 据报道，索尼寻求出售其个人电脑部门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/sony-reportedly-seeking-to-sell-its-pc-division/>
 

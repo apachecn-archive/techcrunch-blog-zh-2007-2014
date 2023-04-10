@@ -1,4 +1,4 @@
-# 英特尔的 McAfee 以 3 . 89 亿美元现金收购了芬兰网络防火墙专家 Stonesoft TechCrunch
+# 英特尔的 McAfee 以 3 . 89 亿美元现金收购了芬兰网络防火墙专家 Stonesoft 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/06/intels-mcafee-buys-cloud-based-networked-firewall-specialist-stonesoft-for-389m-in-cash/>
 

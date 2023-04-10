@@ -1,4 +1,4 @@
-# 一个绝妙的骗局之后，Hotelicopter 加入了酒店聚合大战 TechCrunch
+# 一个绝妙的骗局之后，Hotelicopter 加入了酒店聚合大战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/08/one-brilliant-hoax-later-hotelicopter-joins-the-hotel-aggregation-fray/>
 

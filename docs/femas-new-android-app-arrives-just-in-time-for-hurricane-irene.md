@@ -1,4 +1,4 @@
-# 联邦应急管理局的新 Android 应用程序及时抵达飓风艾琳 TechCrunch
+# 联邦应急管理局的新 Android 应用程序及时抵达飓风艾琳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/femas-new-android-app-arrives-just-in-time-for-hurricane-irene/>
 

@@ -1,4 +1,4 @@
-# 你有备用的履带车吗？TechCrunch
+# 你有备用的履带车吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/13/do-you-have-a-spare-crawligator/>
 

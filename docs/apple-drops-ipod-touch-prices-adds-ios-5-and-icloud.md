@@ -1,4 +1,4 @@
-# 苹果降低 iPod Touch 价格，增加 iOS 5 和 I cloud TechCrunch
+# 苹果降低 iPod Touch 价格，增加 iOS 5 和 I cloud 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/apple-drops-ipod-touch-prices-adds-ios-5-and-icloud/>
 

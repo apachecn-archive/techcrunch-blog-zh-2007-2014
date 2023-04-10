@@ -1,4 +1,4 @@
-# 吉尔摩帮:假唱 TechCrunch
+# 吉尔摩帮:假唱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/15/gillmor-gang-lip-sync/>
 

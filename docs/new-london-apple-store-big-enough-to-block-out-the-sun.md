@@ -1,4 +1,4 @@
-# 新伦敦苹果商店大到足以...遮挡阳光？TechCrunch
+# 新伦敦苹果商店大到足以...遮挡阳光？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/new-london-apple-store-big-enough-to-block-out-the-sun/>
 

@@ -1,4 +1,4 @@
-# 玩具机器人的梦想够大吗？TechCrunch
+# 玩具机器人的梦想够大吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/17/is-toybots-dreaming-big-enough/>
 

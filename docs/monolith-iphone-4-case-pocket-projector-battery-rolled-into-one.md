@@ -1,4 +1,4 @@
-# 整体:iPhone 4 外壳+袖珍投影仪+电池合二为一 TechCrunch
+# 整体:iPhone 4 外壳+袖珍投影仪+电池合二为一 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/monolith-iphone-4-case-pocket-projector-battery-rolled-into-one/>
 

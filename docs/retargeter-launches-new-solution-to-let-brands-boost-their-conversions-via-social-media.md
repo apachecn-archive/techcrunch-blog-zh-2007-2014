@@ -1,4 +1,4 @@
-# ReTargeter 推出新解决方案，让品牌通过社交媒体提高转化率 TechCrunch
+# ReTargeter 推出新解决方案，让品牌通过社交媒体提高转化率 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/retargeter-launches-new-solution-to-let-brands-boost-their-conversions-via-social-media/>
 

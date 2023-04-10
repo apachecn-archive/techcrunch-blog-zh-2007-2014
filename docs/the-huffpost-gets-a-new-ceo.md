@@ -1,4 +1,4 @@
-# 《赫芬顿邮报》新任首席执行官 TechCrunch
+# 《赫芬顿邮报》新任首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/02/the-huffpost-gets-a-new-ceo/>
 

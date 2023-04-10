@@ -1,4 +1,4 @@
-# MicroVentures 筹集 30 万美元资金，在二级市场投资脸书 TechCrunch
+# MicroVentures 筹集 30 万美元资金，在二级市场投资脸书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/microventures-raises-300000-fund-to-invest-in-facebook-on-secondary-markets/>
 

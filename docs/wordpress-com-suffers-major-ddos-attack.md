@@ -1,4 +1,4 @@
-# Wordpress.com 遭受史上最大规模 DDoS 攻击 TechCrunch
+# Wordpress.com 遭受史上最大规模 DDoS 攻击 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/03/wordpress-com-suffers-major-ddos-attack/>
 

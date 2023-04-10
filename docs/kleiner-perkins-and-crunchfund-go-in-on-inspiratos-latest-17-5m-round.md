@@ -1,4 +1,4 @@
-# 凯鹏华盈(Kleiner Perkins)和 Crunchfund 参与了 Inspirato 最新一轮 1750 万美元的融资 TechCrunch
+# 凯鹏华盈(Kleiner Perkins)和 Crunchfund 参与了 Inspirato 最新一轮 1750 万美元的融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/kleiner-perkins-and-crunchfund-go-in-on-inspiratos-latest-17-5m-round/>
 

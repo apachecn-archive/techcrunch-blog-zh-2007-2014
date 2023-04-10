@@ -1,4 +1,4 @@
-# 另一个比特币钱包服务 Instawallet 遭受攻击，关闭直至另行通知 TechCrunch
+# 另一个比特币钱包服务 Instawallet 遭受攻击，关闭直至另行通知 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/bitcoin-instawallet/>
 

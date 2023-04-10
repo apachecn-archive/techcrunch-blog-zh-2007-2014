@@ -1,4 +1,4 @@
-# YC 资助的 Etacts 确保您永远不会与联系人失去联系 TechCrunch
+# YC 资助的 Etacts 确保您永远不会与联系人失去联系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/etacts-manage-contacts-email/>
 

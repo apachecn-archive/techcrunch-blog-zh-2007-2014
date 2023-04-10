@@ -1,4 +1,4 @@
-# 诺基亚试图用新的 Dubstep 手机铃声耍酷 TechCrunch
+# 诺基亚试图用新的 Dubstep 手机铃声耍酷 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/nokia-tries-to-play-it-cool-with-new-dubstep-ringtone/>
 

@@ -1,4 +1,4 @@
-# 视频采访:商业对话 Twitter 商业模式 TechCrunch
+# 视频采访:商业对话 Twitter 商业模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/27/video-interview-biz-talks-twitter-business-models/>
 

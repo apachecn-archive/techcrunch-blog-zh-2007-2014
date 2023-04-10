@@ -1,4 +1,4 @@
-# Voxer 的一键通信使推出了重新设计、速度更快的 3.0 版 TechCrunch
+# Voxer 的一键通信使推出了重新设计、速度更快的 3.0 版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/voxers-push-to-talk-messenger-debuts-a-redesigned-speedier-version-3-0/>
 

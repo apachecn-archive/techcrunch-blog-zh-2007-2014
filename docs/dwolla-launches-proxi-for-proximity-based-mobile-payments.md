@@ -1,4 +1,4 @@
-# Dwolla 推出基于近距离的移动支付“Proxi”TechCrunch
+# Dwolla 推出基于近距离的移动支付“Proxi”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/dwolla-launches-proxi-for-proximity-based-mobile-payments/>
 

@@ -1,4 +1,4 @@
-# Jaxtr 首席执行官外出 TechCrunch
+# Jaxtr 首席执行官外出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/31/jaxtr-ceo-is-out/>
 

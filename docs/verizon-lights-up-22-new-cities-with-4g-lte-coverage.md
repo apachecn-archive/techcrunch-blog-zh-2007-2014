@@ -1,4 +1,4 @@
-# 威瑞森用 4G LTE 覆盖点亮 22 座新城市 TechCrunch
+# 威瑞森用 4G LTE 覆盖点亮 22 座新城市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/verizon-lights-up-22-new-cities-with-4g-lte-coverage/>
 

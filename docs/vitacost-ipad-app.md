@@ -1,4 +1,4 @@
-# 健康和保健零售商 Vitacost 转向平板电脑，推动意外销售 TechCrunch
+# 健康和保健零售商 Vitacost 转向平板电脑，推动意外销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/08/vitacost-ipad-app/>
 

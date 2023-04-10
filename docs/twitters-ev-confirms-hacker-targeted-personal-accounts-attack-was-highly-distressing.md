@@ -1,4 +1,4 @@
-# Twitter 的@Ev 证实黑客锁定了个人账户；攻击是“非常痛苦的”TechCrunch
+# Twitter 的@Ev 证实黑客锁定了个人账户；攻击是“非常痛苦的”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/07/14/twitters-ev-confirms-hacker-targeted-personal-accounts-attack-was-highly-distressing/>
 

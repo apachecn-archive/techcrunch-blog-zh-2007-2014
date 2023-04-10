@@ -1,4 +1,4 @@
-# 购买一台 W 系列笔记本电脑或 Rose Sony 阅读器，帮助提高乳腺癌意识 TechCrunch
+# 购买一台 W 系列笔记本电脑或 Rose Sony 阅读器，帮助提高乳腺癌意识 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/02/buy-a-w-series-laptop-or-rose-sony-reader-and-help-support-breast-cancer-awareness/>
 

@@ -1,4 +1,4 @@
-# Schmap 的深度分析平台可让您对您的 Twitter 关注者进行深度数据挖掘 TechCrunch
+# Schmap 的深度分析平台可让您对您的 Twitter 关注者进行深度数据挖掘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/schmaps-in-depth-analytics-platform-lets-you-take-a-deep-data-dive-on-your-twitter-followers/>
 

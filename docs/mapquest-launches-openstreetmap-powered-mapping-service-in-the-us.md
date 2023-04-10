@@ -1,4 +1,4 @@
-# MapQuest 在美国推出 OpenStreetMap 地图服务 TechCrunch
+# MapQuest 在美国推出 OpenStreetMap 地图服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/16/mapquest-launches-openstreetmap-powered-mapping-service-in-the-us/>
 

@@ -1,4 +1,4 @@
-# Snapjoy 准备全面发布，在其照片产品中添加出色的“复制”功能 TechCrunch
+# Snapjoy 准备全面发布，在其照片产品中添加出色的“复制”功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/snapjoy-prepares-for-full-launch-adds-brilliant-copy-feature-to-its-photo-offering/>
 

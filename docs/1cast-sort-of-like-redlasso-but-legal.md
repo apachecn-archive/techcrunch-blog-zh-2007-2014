@@ -1,4 +1,4 @@
-# 1Cast:有点像 Redlasso，但是合法 TechCrunch
+# 1Cast:有点像 Redlasso，但是合法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/18/1cast-sort-of-like-redlasso-but-legal/>
 

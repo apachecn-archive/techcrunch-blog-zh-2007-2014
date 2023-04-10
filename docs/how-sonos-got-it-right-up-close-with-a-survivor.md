@@ -1,4 +1,4 @@
-# Sonos 如何做对:近距离接触幸存者 TechCrunch
+# Sonos 如何做对:近距离接触幸存者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/19/how-sonos-got-it-right-up-close-with-a-survivor/>
 

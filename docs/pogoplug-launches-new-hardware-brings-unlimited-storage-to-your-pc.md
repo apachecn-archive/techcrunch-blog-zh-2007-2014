@@ -1,4 +1,4 @@
-# Pogoplug 推出新硬件，为您的电脑带来无限存储空间 TechCrunch
+# Pogoplug 推出新硬件，为您的电脑带来无限存储空间 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/14/pogoplug-launches-new-hardware-brings-unlimited-storage-to-your-pc/>
 

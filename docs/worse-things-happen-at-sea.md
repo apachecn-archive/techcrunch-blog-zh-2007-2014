@@ -1,4 +1,4 @@
-# NSFW:离布兰妮远点！(我说的布兰妮是指史蒂夫、马克和金宝)TechCrunch
+# NSFW:离布兰妮远点！(我说的布兰妮是指史蒂夫、马克和金宝)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/16/worse-things-happen-at-sea/>
 

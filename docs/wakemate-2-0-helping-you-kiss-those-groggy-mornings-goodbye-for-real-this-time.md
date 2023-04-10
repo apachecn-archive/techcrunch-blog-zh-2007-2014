@@ -1,4 +1,4 @@
-# WakeMate 2.0:帮助你告别那些昏昏沉沉的早晨。这次是真的。TechCrunch
+# WakeMate 2.0:帮助你告别那些昏昏沉沉的早晨。这次是真的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/wakemate-2-0-helping-you-kiss-those-groggy-mornings-goodbye-for-real-this-time/>
 

@@ -1,4 +1,4 @@
-# Soloshot 是一个机器人摄影师，为你的视频自拍 TechCrunch
+# Soloshot 是一个机器人摄影师，为你的视频自拍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/17/the-soloshot-is-a-robotic-cameraman-for-your-video-selfies/>
 

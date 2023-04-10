@@ -1,4 +1,4 @@
-# TraveDoc 是一款面向旅行者的医疗保健应用，将扩展到中东和南亚 TechCrunch
+# TraveDoc 是一款面向旅行者的医疗保健应用，将扩展到中东和南亚 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/06/travedoc-an-uber-for-health-to-expand-to-the-middle-east-and-south-asia/>
 

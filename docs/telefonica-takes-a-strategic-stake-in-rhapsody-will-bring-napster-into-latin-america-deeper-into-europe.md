@@ -1,4 +1,4 @@
-# Telefonica 战略入股 Rhapsody，将 Napster 带入拉丁美洲，更深入欧洲 TechCrunch
+# Telefonica 战略入股 Rhapsody，将 Napster 带入拉丁美洲，更深入欧洲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/16/telefonica-takes-a-strategic-stake-in-rhapsody-will-bring-napster-into-latin-america-deeper-into-europe/>
 

@@ -1,4 +1,4 @@
-# Hampton Creek Foods 展示其无蛋炒鸡蛋 TechCrunch
+# Hampton Creek Foods 展示其无蛋炒鸡蛋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/15/hampton-creek-foods-shows-off-its-egg-less-scrambled-eggs/>
 

@@ -1,4 +1,4 @@
-# YouTube 与美国广播公司新闻合作，首次直播美国总统辩论 TechCrunch
+# YouTube 与美国广播公司新闻合作，首次直播美国总统辩论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/01/youtube-partners-with-abc-news-to-offer-its-first-ever-live-stream-of-the-u-s-presidential-debates/>
 

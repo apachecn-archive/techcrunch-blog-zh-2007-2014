@@ -1,4 +1,4 @@
-# Snapchat 每天看到的照片比脸书还多 TechCrunch
+# Snapchat 每天看到的照片比脸书还多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/snapchat-reportedly-sees-more-daily-photos-than-facebook/?utm_source=nextdraft&utm_medium=website>
 

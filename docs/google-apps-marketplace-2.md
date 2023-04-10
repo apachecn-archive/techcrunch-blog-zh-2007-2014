@@ -1,4 +1,4 @@
-# 盯上亚马逊和 Salesforce，谷歌更新其企业应用市场 TechCrunch
+# 盯上亚马逊和 Salesforce，谷歌更新其企业应用市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/google-apps-marketplace-2/>
 

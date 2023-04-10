@@ -1,4 +1,4 @@
-# Astroclip 是一款用于天体摄影的 iPhone 4 夹子 TechCrunch
+# Astroclip 是一款用于天体摄影的 iPhone 4 夹子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/the-astroclip-is-a-iphone-4-clip-for-astrophotography/>
 

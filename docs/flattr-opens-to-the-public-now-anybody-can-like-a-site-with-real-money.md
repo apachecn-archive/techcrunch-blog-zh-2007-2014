@@ -1,4 +1,4 @@
-# Flattr 向公众开放，现在任何人都可以用真金白银“喜欢”一个网站 TechCrunch
+# Flattr 向公众开放，现在任何人都可以用真金白银“喜欢”一个网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/12/flattr-opens-to-the-public-now-anybody-can-like-a-site-with-real-money/>
 

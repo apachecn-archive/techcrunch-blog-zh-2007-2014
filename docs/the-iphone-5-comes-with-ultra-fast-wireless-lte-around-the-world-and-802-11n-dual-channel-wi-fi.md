@@ -1,4 +1,4 @@
-# iPhone 5 配有超高速无线网络:全球 LTE 和 802.11n 双通道 Wi-Fi TechCrunch
+# iPhone 5 配有超高速无线网络:全球 LTE 和 802.11n 双通道 Wi-Fi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/12/the-iphone-5-comes-with-ultra-fast-wireless-lte-around-the-world-and-802-11n-dual-channel-wi-fi/>
 

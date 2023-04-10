@@ -1,4 +1,4 @@
-# 当你能达到 15，000 英镑时，为什么要达到 1 小时的快乐时间呢？TechCrunch
+# 当你能达到 15，000 英镑时，为什么要达到 1 小时的快乐时间呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/01/village-voice-happy-hour-app/>
 

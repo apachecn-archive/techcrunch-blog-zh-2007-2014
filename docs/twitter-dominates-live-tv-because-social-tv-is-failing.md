@@ -1,4 +1,4 @@
-# Twitter 主宰直播电视，因为社交电视正在失败 TechCrunch
+# Twitter 主宰直播电视，因为社交电视正在失败 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/07/twitter-dominates-live-tv-because-social-tv-is-failing/>
 

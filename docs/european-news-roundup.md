@@ -1,4 +1,4 @@
-# 欧洲新闻综述 TechCrunch
+# 欧洲新闻综述 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/28/european-news-roundup/>
 

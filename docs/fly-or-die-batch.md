@@ -1,4 +1,4 @@
-# 飞还是死:Batch 能在照片应用中找到自己的路吗？TechCrunch
+# 飞还是死:Batch 能在照片应用中找到自己的路吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/fly-or-die-batch/>
 

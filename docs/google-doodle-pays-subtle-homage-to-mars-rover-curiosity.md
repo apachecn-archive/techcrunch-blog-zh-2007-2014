@@ -1,4 +1,4 @@
-# 谷歌涂鸦向火星探测器好奇号表达了微妙的敬意 TechCrunch
+# 谷歌涂鸦向火星探测器好奇号表达了微妙的敬意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/06/google-doodle-pays-subtle-homage-to-mars-rover-curiosity/>
 

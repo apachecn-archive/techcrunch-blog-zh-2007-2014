@@ -1,4 +1,4 @@
-# 社会自行车筹集 110 万美元扩大自行车共享项目 TechCrunch
+# 社会自行车筹集 110 万美元扩大自行车共享项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/social-bicycles-raises-1-1-million-to-expand-bike-sharing-project/>
 

@@ -1,4 +1,4 @@
-# Allmyapps 获得 100 万欧元 iTunes-for-apps TechCrunch
+# Allmyapps 获得 100 万欧元 iTunes-for-apps 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/02/allmyapps-grabs-1-million-euros-for-itunes-for-apps/>
 

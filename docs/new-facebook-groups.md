@@ -1,4 +1,4 @@
-# 快速浏览新脸书集团 TechCrunch
+# 快速浏览新脸书集团 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/06/new-facebook-groups/>
 

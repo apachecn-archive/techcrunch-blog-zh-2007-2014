@@ -1,4 +1,4 @@
-# 企鹅驱动的可启动 USB 驱动器看起来像真的企鹅 TechCrunch
+# 企鹅驱动的可启动 USB 驱动器看起来像真的企鹅 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/28/penguin-powered-bootable-usb-drive-looks-like-actual-penguin/>
 

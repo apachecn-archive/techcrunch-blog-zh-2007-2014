@@ -1,4 +1,4 @@
-# Android 在移动广告市场份额上赶上了 Palm。IPhone 还是吹走了。TechCrunch
+# Android 在移动广告市场份额上赶上了 Palm。IPhone 还是吹走了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/23/android-catches-up-to-palm-in-mobile-ad-market-share-iphone-still-blows-it-away/>
 

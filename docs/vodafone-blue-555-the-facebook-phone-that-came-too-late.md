@@ -1,4 +1,4 @@
-# 沃达丰 Blue 555:来得太迟的脸书手机 TechCrunch
+# 沃达丰 Blue 555:来得太迟的脸书手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/27/vodafone-blue-555-the-facebook-phone-that-came-too-late/>
 

@@ -1,4 +1,4 @@
-# Minuum 向 Indiegogo 寻求资金支持，为智能手机和其他产品开发新的移动软件键盘 TechCrunch
+# Minuum 向 Indiegogo 寻求资金支持，为智能手机和其他产品开发新的移动软件键盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/18/minuum-turns-to-indiegogo-to-fund-a-new-mobile-software-keyboard-for-smartphones-and-beyond/>
 

@@ -1,4 +1,4 @@
-# 谷歌在大学生最受欢迎雇主排行榜上超过脸书 TechCrunch
+# 谷歌在大学生最受欢迎雇主排行榜上超过脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/12/google-employees-facebook/>
 

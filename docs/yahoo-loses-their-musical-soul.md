@@ -1,4 +1,4 @@
-# 雅虎失去了音乐灵魂 TechCrunch
+# 雅虎失去了音乐灵魂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/02/yahoo-loses-their-musical-soul/>
 

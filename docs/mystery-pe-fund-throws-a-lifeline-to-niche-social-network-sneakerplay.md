@@ -1,4 +1,4 @@
-# 神秘私募股权基金向利基社交网络 Sneakerplay 抛出救命稻草 TechCrunch
+# 神秘私募股权基金向利基社交网络 Sneakerplay 抛出救命稻草 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/26/mystery-pe-fund-throws-a-lifeline-to-niche-social-network-sneakerplay/>
 

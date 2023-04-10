@@ -1,4 +1,4 @@
-# 察沃媒体因发送“低质量流量”向雅虎支付 480 万美元，总裁退出 TechCrunch
+# 察沃媒体因发送“低质量流量”向雅虎支付 480 万美元，总裁退出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/06/tsavo-media-to-pay-yahoo-4-8m-for-sending-low-quality-traffic-president-quits/>
 

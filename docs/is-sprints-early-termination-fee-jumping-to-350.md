@@ -1,4 +1,4 @@
-# Sprint 的提前终止费是跳到 350 美元了吗？(更新:已确认)TechCrunch
+# Sprint 的提前终止费是跳到 350 美元了吗？(更新:已确认)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/is-sprints-early-termination-fee-jumping-to-350/>
 

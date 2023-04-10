@@ -1,4 +1,4 @@
-# 佳能在 EOS 上全力投入 C300 数字影院系统，新 DSLR TechCrunch
+# 佳能在 EOS 上全力投入 C300 数字影院系统，新 DSLR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/canon-goes-all-in-on-eos-with-c300-digital-cinema-system-new-dslr/>
 

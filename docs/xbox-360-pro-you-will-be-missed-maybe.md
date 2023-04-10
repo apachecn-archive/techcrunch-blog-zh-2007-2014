@@ -1,4 +1,4 @@
-# Xbox 360 Pro，你会被想念(可能)TechCrunch
+# Xbox 360 Pro，你会被想念(可能)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/05/xbox-360-pro-you-will-be-missed-maybe/>
 

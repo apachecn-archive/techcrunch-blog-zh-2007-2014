@@ -1,4 +1,4 @@
-# 任何。DO 用 100 万美元的资金推出了一款社交待办事项应用 TechCrunch
+# 任何。DO 用 100 万美元的资金推出了一款社交待办事项应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/any-do-launches-a-social-to-do-list-app-with-1-million-in-funding/>
 

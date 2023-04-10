@@ -1,4 +1,4 @@
-# Conde Nast 的 iOS 5 用户增长:趋势还是暂时现象？TechCrunch
+# Conde Nast 的 iOS 5 用户增长:趋势还是暂时现象？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/conde-nasts-ios-5-subscriber-bump-trend-or-blip/>
 

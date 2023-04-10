@@ -1,4 +1,4 @@
-# KickSat:将小型 DIY 卫星送入太空 TechCrunch
+# KickSat:将小型 DIY 卫星送入太空 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/09/kicksat-send-tiny-diy-satellites-into-space/>
 

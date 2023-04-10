@@ -1,4 +1,4 @@
-# 美国电话电报公司将于本周末正式启动 LTE 网络 TechCrunch
+# 美国电话电报公司将于本周末正式启动 LTE 网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/15/att-to-officially-light-up-lte-network-this-weekend/>
 

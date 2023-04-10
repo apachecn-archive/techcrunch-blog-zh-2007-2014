@@ -1,4 +1,4 @@
-# 索尼 PRS-T1 Reader 被黑客入侵运行 Kindle Android 应用程序等 TechCrunch
+# 索尼 PRS-T1 Reader 被黑客入侵运行 Kindle Android 应用程序等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/sony-reader-hacked-to-run-the-kindle-android-app-and-more/>
 

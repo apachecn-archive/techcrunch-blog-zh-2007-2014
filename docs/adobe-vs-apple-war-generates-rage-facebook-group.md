@@ -1,4 +1,4 @@
-# Adobe 与苹果的战争引发愤怒，脸书集团 TechCrunch
+# Adobe 与苹果的战争引发愤怒，脸书集团 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/10/adobe-vs-apple-war-generates-rage-facebook-group/>
 

@@ -1,4 +1,4 @@
-# LinkedIn 聘用 Shannon Stubo，负责首次公开募股 TechCrunch
+# LinkedIn 聘用 Shannon Stubo，负责首次公开募股 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/23/linkedin-hires-shannon-stubo-key-exec-for-ipo-run/>
 

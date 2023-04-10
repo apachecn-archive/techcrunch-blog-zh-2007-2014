@@ -1,4 +1,4 @@
-# Moglue 让任何人都能为平板电脑制作儿童读物 TechCrunch
+# Moglue 让任何人都能为平板电脑制作儿童读物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/moglue-lets-anyone-make-a-childrens-book-for-tablets/>
 

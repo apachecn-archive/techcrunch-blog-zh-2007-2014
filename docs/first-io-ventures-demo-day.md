@@ -1,4 +1,4 @@
-# 有史以来第一个 i/o 风险投资演示日:应用程序、市场和脸书天啊！TechCrunch
+# 有史以来第一个 i/o 风险投资演示日:应用程序、市场和脸书天啊！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/first-io-ventures-demo-day/>
 

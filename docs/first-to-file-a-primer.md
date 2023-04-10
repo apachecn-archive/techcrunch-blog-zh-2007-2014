@@ -1,4 +1,4 @@
-# 最先申请的专利法即将出台，但这意味着什么呢？TechCrunch
+# 最先申请的专利法即将出台，但这意味着什么呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/16/first-to-file-a-primer/>
 

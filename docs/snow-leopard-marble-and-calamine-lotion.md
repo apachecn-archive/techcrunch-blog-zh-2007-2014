@@ -1,4 +1,4 @@
-# 雪豹、大理石和炉甘石乳液 TechCrunch
+# 雪豹、大理石和炉甘石乳液 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/04/snow-leopard-marble-and-calamine-lotion/>
 

@@ -1,4 +1,4 @@
-# 在放弃拍卖后，移动市场 EggDrop 的下载量达到 50 万次 TechCrunch
+# 在放弃拍卖后，移动市场 EggDrop 的下载量达到 50 万次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/20/after-ditching-auctions-mobile-marketplace-eggdrop-hits-half-a-million-downloads/>
 

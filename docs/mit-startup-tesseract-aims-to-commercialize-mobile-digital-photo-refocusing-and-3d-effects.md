@@ -1,4 +1,4 @@
-# 麻省理工学院初创公司 Tesseract 旨在将移动数码照片重聚焦和 3D 效果商业化 TechCrunch
+# 麻省理工学院初创公司 Tesseract 旨在将移动数码照片重聚焦和 3D 效果商业化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/mit-startup-tesseract-aims-to-commercialize-mobile-digital-photo-refocusing-and-3d-effects/>
 

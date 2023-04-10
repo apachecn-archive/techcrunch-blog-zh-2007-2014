@@ -1,4 +1,4 @@
-# 斯托佩尔曼:Yelp 75%的流量来自谷歌 TechCrunch
+# 斯托佩尔曼:Yelp 75%的流量来自谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/stoppelman-75-of-yelps-traffic-comes-from-google/>
 

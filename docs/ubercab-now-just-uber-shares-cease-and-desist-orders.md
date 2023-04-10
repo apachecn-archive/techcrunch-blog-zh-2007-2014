@@ -1,4 +1,4 @@
-# Ubercab，现在只剩下优步，分享停止令 TechCrunch
+# Ubercab，现在只剩下优步，分享停止令 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/25/ubercab-now-just-uber-shares-cease-and-desist-orders/>
 

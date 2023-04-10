@@ -1,4 +1,4 @@
-# OMG/JK:是的，你当然在我的‘朋友圈’里。发誓。TechCrunch
+# OMG/JK:是的，你当然在我的‘朋友圈’里。发誓。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/10/omgjk-yes-of-course-youre-in-my-friends-circle-swear/>
 

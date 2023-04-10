@@ -1,4 +1,4 @@
-# 新的“Android 培训”计划帮助开发者开发更好的应用 TechCrunch
+# 新的“Android 培训”计划帮助开发者开发更好的应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/16/android-training/>
 

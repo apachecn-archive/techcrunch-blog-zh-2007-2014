@@ -1,4 +1,4 @@
-# 加州的首席技术官用他自己的观点回应了我们的挑战:给加州你最好的 IT 想法 TechCrunch
+# 加州的首席技术官用他自己的观点回应了我们的挑战:给加州你最好的 IT 想法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/06/california-cto-challenge/>
 

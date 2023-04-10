@@ -1,4 +1,4 @@
-# Scroogled:为什么这么消极，微软？TechCrunch
+# Scroogled:为什么这么消极，微软？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/10/scroogled-why-so-negative-microsoft/>
 

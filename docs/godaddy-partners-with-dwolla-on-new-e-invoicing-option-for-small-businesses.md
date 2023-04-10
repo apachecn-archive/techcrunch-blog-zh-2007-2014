@@ -1,4 +1,4 @@
-# GoDaddy 与 Dwolla 合作，为小型企业提供新的电子发票选项 TechCrunch
+# GoDaddy 与 Dwolla 合作，为小型企业提供新的电子发票选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/godaddy-partners-with-dwolla-on-new-e-invoicing-option-for-small-businesses/>
 

@@ -1,4 +1,4 @@
-# Twitter 没有卖给脸书的三个原因 TechCrunch
+# Twitter 没有卖给脸书的三个原因 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/04/the-three-reasons-twitter-didnt-sell-to-facebook/>
 

@@ -1,4 +1,4 @@
-# AdCamo 提供背景广告:Hmmmm TechCrunch
+# AdCamo 提供背景广告:Hmmmm 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/07/adcamo-offers-background-advertising-hmmmm/>
 

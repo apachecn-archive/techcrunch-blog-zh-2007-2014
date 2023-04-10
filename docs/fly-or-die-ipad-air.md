@@ -1,4 +1,4 @@
-# 飞还是死:iPad Air TechCrunch
+# 飞还是死:iPad Air 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/10/fly-or-die-ipad-air/>
 

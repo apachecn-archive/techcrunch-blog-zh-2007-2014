@@ -1,4 +1,4 @@
-# 雅虎收购 400 万用户的“待办事项”应用 Astrid，目前处于等待状态 90 天 TechCrunch
+# 雅虎收购 400 万用户的“待办事项”应用 Astrid，目前处于等待状态 90 天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/yahoo-acquires-to-do-app-astrid/>
 

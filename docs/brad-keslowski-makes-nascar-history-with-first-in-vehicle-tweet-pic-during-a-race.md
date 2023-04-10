@@ -1,4 +1,4 @@
-# Brad Keslowski 在比赛中首次在车内发布推文和图片，创造了 NASCAR 历史 TechCrunch
+# Brad Keslowski 在比赛中首次在车内发布推文和图片，创造了 NASCAR 历史 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/brad-keslowski-makes-nascar-history-with-first-in-vehicle-tweet-pic-during-a-race/>
 

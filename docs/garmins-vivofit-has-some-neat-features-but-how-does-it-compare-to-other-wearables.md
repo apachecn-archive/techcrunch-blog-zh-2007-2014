@@ -1,4 +1,4 @@
-# Garmin 的 Vivofit 有一些简洁的功能，但它与其他可穿戴设备相比如何？TechCrunch
+# Garmin 的 Vivofit 有一些简洁的功能，但它与其他可穿戴设备相比如何？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/garmins-vivofit-has-some-neat-features-but-how-does-it-compare-to-other-wearables/>
 

@@ -1,4 +1,4 @@
-# 脸书正在新西兰测试新的新闻推送和摩天大楼展示广告单元吗？不，广告软件再次来袭 TechCrunch
+# 脸书正在新西兰测试新的新闻推送和摩天大楼展示广告单元吗？不，广告软件再次来袭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/30/is-facebook-testing-out-new-newsfeed-and-skyscraper-display-ad-units-in-new-zealand/>
 

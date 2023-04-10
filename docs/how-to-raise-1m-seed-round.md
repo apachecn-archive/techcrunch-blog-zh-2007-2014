@@ -1,4 +1,4 @@
-# 如何筹集 100 万美元的种子资金 TechCrunch
+# 如何筹集 100 万美元的种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/13/how-to-raise-1m-seed-round/>
 

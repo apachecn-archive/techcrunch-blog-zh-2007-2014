@@ -1,4 +1,4 @@
-# 根据价格，三星 Gear Fit 可能会主导可穿戴设备市场 TechCrunch
+# 根据价格，三星 Gear Fit 可能会主导可穿戴设备市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/24/depending-on-price-the-samsung-gear-fit-could-dominate-the-wearables-market/>
 

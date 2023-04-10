@@ -1,4 +1,4 @@
-# 烫手山芋围绕现在真正发生的事情组织信息流 TechCrunch
+# 烫手山芋围绕现在真正发生的事情组织信息流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/20/hot-potato-launch/>
 

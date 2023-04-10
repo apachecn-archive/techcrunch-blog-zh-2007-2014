@@ -1,4 +1,4 @@
-# 大英百科全书让印刷版成为历史 TechCrunch
+# 大英百科全书让印刷版成为历史 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/13/encyclopedia-britannica-ends-print-edition-for-good/>
 

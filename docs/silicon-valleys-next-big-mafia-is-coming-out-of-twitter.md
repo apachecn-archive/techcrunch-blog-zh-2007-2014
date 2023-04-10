@@ -1,4 +1,4 @@
-# “推特黑手党”准备成为硅谷下一个伟大的网络 TechCrunch
+# “推特黑手党”准备成为硅谷下一个伟大的网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/18/silicon-valleys-next-big-mafia-is-coming-out-of-twitter/>
 

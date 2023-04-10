@@ -1,4 +1,4 @@
-# 谷歌宣布面向公众推出在线数据解释课程 TechCrunch
+# 谷歌宣布面向公众推出在线数据解释课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/26/google-announces-an-online-data-interpretation-class-for-the-general-public/>
 

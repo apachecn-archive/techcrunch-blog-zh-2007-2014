@@ -1,4 +1,4 @@
-# Kovert 是一个全球定位系统，可以让你把手机放在口袋里，以挫败潜在的抢劫者 TechCrunch
+# Kovert 是一个全球定位系统，可以让你把手机放在口袋里，以挫败潜在的抢劫者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/08/kovert-is-a-gps-that-lets-you-keep-your-phone-in-your-pocket-to-foil-would-be-muggers/>
 

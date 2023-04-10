@@ -1,4 +1,4 @@
-# 过滤器之外:品牌开始涌入 insta gram TechCrunch
+# 过滤器之外:品牌开始涌入 insta gram 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/13/instagram-brands/>
 

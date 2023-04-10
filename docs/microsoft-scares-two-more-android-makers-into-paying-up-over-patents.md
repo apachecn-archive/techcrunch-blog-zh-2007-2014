@@ -1,4 +1,4 @@
-# 微软威胁两家安卓制造商支付专利费用 TechCrunch
+# 微软威胁两家安卓制造商支付专利费用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/microsoft-scares-two-more-android-makers-into-paying-up-over-patents/>
 

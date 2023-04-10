@@ -1,4 +1,4 @@
-# Rdio 需要更多用户，希望网络和桌面免费将有助于 TechCrunch
+# Rdio 需要更多用户，希望网络和桌面免费将有助于 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/in-an-effort-to-grow-its-user-base-rdios-streaming-music-service-goes-free/>
 

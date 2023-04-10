@@ -1,4 +1,4 @@
-# 托普斯搜索发布:转发是网络的新货币 TechCrunch
+# 托普斯搜索发布:转发是网络的新货币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/26/topsy-search-launches-retweets-are-the-new-currency-of-the-web/>
 

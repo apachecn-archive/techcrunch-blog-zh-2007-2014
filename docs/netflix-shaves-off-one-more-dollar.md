@@ -1,4 +1,4 @@
-# 网飞又节省了一美元 TechCrunch
+# 网飞又节省了一美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/netflix-shaves-off-one-more-dollar/>
 

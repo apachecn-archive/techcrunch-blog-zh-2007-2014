@@ -1,4 +1,4 @@
-# Showyou 的新 iPad 应用程序就像苹果电视的遥控器 TechCrunch
+# Showyou 的新 iPad 应用程序就像苹果电视的遥控器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/showyou-ipad-app-apple-tv/>
 

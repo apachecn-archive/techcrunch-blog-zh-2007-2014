@@ -1,4 +1,4 @@
-# 在 1000 万美元的资金支持下，Lemon.com 让你可以在云端存储、组织你的收据 TechCrunch
+# 在 1000 万美元的资金支持下，Lemon.com 让你可以在云端存储、组织你的收据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/backed-by-10m-in-funding-lemon-com-lets-you-store-organize-your-receipts-in-the-cloud/>
 

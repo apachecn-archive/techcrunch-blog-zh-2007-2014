@@ -1,4 +1,4 @@
-# 高通超越骁龙品牌，抛弃令人困惑的芯片组名称 TechCrunch
+# 高通超越骁龙品牌，抛弃令人困惑的芯片组名称 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/qualcomm-snapdragon-chipsets/>
 

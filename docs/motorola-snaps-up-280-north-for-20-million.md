@@ -1,4 +1,4 @@
-# 摩托罗拉以 2000 万美元收购 280 North TechCrunch
+# 摩托罗拉以 2000 万美元收购 280 North 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/motorola-snaps-up-280-north-for-20-million/>
 

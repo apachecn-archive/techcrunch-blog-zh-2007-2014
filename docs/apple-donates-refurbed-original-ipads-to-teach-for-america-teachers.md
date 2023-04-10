@@ -1,4 +1,4 @@
-# 苹果捐赠回收的原装 iPads 给美国教师 TechCrunch
+# 苹果捐赠回收的原装 iPads 给美国教师 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/apple-donates-refurbed-original-ipads-to-teach-for-america-teachers/>
 

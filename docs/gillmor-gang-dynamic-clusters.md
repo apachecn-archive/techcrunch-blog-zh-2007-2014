@@ -1,4 +1,4 @@
-# 吉尔摩帮:动态集群 TechCrunch
+# 吉尔摩帮:动态集群 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/02/gillmor-gang-dynamic-clusters/>
 

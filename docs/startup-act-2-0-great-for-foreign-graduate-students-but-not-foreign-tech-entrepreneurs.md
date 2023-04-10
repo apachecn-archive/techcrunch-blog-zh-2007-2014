@@ -1,4 +1,4 @@
-# Startup Act 2.0:非常适合外国研究生，但不适合外国科技企业家 TechCrunch
+# Startup Act 2.0:非常适合外国研究生，但不适合外国科技企业家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/10/startup-act-2-0-great-for-foreign-graduate-students-but-not-foreign-tech-entrepreneurs/>
 

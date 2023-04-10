@@ -1,4 +1,4 @@
-# 信息图对比美国和英国的脸书——博柏利击败星巴克 TechCrunch
+# 信息图对比美国和英国的脸书——博柏利击败星巴克 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/01/infographic-compares-facebook-in-us-and-uk-burberry-beats-starbucks/>
 

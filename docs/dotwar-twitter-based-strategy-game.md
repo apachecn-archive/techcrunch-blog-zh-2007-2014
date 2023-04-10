@@ -1,4 +1,4 @@
-# 网络战争:基于 Twitter 的策略游戏 TechCrunch
+# 网络战争:基于 Twitter 的策略游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/dotwar-twitter-based-strategy-game/>
 

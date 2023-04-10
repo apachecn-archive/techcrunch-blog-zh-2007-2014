@@ -1,4 +1,4 @@
-# 锐步希望你为你的生活做好准备——TechCrunch
+# 锐步希望你为你的生活做好准备——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/reebok-wants-you-to-get-ready-for-the-fit-ride-of-your-life-draft/>
 

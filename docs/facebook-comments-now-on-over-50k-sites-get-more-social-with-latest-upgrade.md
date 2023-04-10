@@ -1,4 +1,4 @@
-# 脸书评论，现在超过 50，000 个网站，通过最新升级变得更加社会化 TechCrunch
+# 脸书评论，现在超过 50，000 个网站，通过最新升级变得更加社会化 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/12/facebook-comments-now-on-over-50k-sites-get-more-social-with-latest-upgrade/>
 

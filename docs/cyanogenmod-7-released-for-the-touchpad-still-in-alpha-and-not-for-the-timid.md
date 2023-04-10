@@ -1,4 +1,4 @@
-# 为触摸板发布的 CyanogenMod 7，仍处于 Alpha 版本，不适合胆小的 TechCrunch
+# 为触摸板发布的 CyanogenMod 7，仍处于 Alpha 版本，不适合胆小的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/cyanogenmod-7-released-for-the-touchpad-still-in-alpha-and-not-for-the-timid/>
 

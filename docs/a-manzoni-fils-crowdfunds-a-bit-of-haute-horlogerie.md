@@ -1,4 +1,4 @@
-# A.Manzoni & Fils 众筹了一些高级钟表 TechCrunch
+# A.Manzoni & Fils 众筹了一些高级钟表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/24/a-manzoni-fils-crowdfunds-a-bit-of-haute-horlogerie/>
 

@@ -1,4 +1,4 @@
-# Earvin 'Magic' Johnson 加入底特律风险投资公司投资科技创业公司 TechCrunch
+# Earvin 'Magic' Johnson 加入底特律风险投资公司投资科技创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/earvin-magic-johnson-joins-detroit-vc-firm-to-invest-in-tech-startups/>
 

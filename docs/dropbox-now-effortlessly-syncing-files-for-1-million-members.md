@@ -1,4 +1,4 @@
-# Dropbox:现在可以毫不费力地为 100 万用户同步文件 TechCrunch
+# Dropbox:现在可以毫不费力地为 100 万用户同步文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/24/dropbox-now-effortlessly-syncing-files-for-1-million-members/>
 

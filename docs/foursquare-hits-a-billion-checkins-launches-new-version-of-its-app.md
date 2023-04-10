@@ -1,4 +1,4 @@
-# Foursquare 点击量达到 10 亿次，推出新版应用 TechCrunch
+# Foursquare 点击量达到 10 亿次，推出新版应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/foursquare-hits-a-billion-checkins-launches-new-version-of-its-app/>
 

@@ -1,4 +1,4 @@
-# LivingSocial 为 TicketMonster 交易发行 1.43 亿美元股票 TechCrunch
+# LivingSocial 为 TicketMonster 交易发行 1.43 亿美元股票 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/livingsocial-143-million-acquisitions/>
 

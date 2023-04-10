@@ -1,4 +1,4 @@
-# Gumroad 从凯鹏华盈(Kleiner Perkins)获得 700 万美元 A 轮投资，用于独立电子支付平台 TechCrunch
+# Gumroad 从凯鹏华盈(Kleiner Perkins)获得 700 万美元 A 轮投资，用于独立电子支付平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/07/gumroad-7-million-series-a-kleiner-perkins/>
 

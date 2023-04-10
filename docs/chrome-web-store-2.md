@@ -1,4 +1,4 @@
-# Chrome 网上商店定于 10 月推出，谷歌仅收取 5%的收入 TechCrunch
+# Chrome 网上商店定于 10 月推出，谷歌仅收取 5%的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/chrome-web-store-2/>
 

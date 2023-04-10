@@ -1,4 +1,4 @@
-# iFixIt 拆散了摩托罗拉 Droid 3 TechCrunch
+# iFixIt 拆散了摩托罗拉 Droid 3 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/verizon-droid-3-tear-down-pictures/>
 

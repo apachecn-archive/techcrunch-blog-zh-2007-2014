@@ -1,4 +1,4 @@
-# 谷歌自己的 YouTube 频道证实冰激凌三明治将于 10 月 11 日首次亮相 TechCrunch
+# 谷歌自己的 YouTube 频道证实冰激凌三明治将于 10 月 11 日首次亮相 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/googles-own-youtube-channel-confirms-ice-cream-sandwichs-oct-11th-debut/>
 

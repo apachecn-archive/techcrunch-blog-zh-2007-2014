@@ -1,4 +1,4 @@
-# Craigslist 审查:成人部分关闭 TechCrunch
+# Craigslist 审查:成人部分关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/03/craigslist-censored-adult-section-comes-down/>
 

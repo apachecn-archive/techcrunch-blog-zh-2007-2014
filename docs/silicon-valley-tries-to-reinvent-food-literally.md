@@ -1,4 +1,4 @@
-# 硅谷和食物的重新发明 TechCrunch
+# 硅谷和食物的重新发明 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/03/silicon-valley-tries-to-reinvent-food-literally/>
 

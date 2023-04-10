@@ -1,4 +1,4 @@
-# 英特尔组建“联邦”业务部门向美国政府出售超级计算服务 TechCrunch
+# 英特尔组建“联邦”业务部门向美国政府出售超级计算服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/intel-forms-federal-business-unit-to-sell-supercomputing-services-to-the-u-s-government/>
 

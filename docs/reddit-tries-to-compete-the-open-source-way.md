@@ -1,4 +1,4 @@
-# 更新:Reddit 试图以开源方式竞争 TechCrunch
+# 更新:Reddit 试图以开源方式竞争 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/18/reddit-tries-to-compete-the-open-source-way/>
 

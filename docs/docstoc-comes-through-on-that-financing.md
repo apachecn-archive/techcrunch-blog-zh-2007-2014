@@ -1,4 +1,4 @@
-# Docstoc 完成了融资 TechCrunch
+# Docstoc 完成了融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/14/docstoc-comes-through-on-that-financing/>
 

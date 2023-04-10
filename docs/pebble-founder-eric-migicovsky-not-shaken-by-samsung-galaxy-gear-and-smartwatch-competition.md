@@ -1,4 +1,4 @@
-# Pebble 创始人 Eric Migicovsky 没有被三星 Galaxy Gear 和智能手表的竞争所动摇 TechCrunch
+# Pebble 创始人 Eric Migicovsky 没有被三星 Galaxy Gear 和智能手表的竞争所动摇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/11/pebble-founder-eric-migicovsky-not-shaken-by-samsung-galaxy-gear-and-smartwatch-competition/>
 

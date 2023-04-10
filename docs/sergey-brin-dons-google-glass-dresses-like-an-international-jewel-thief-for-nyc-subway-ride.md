@@ -1,4 +1,4 @@
-# 谢尔盖·布林戴上谷歌眼镜，穿得像个国际珠宝大盗在纽约地铁上玩 TechCrunch
+# 谢尔盖·布林戴上谷歌眼镜，穿得像个国际珠宝大盗在纽约地铁上玩 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/21/sergey-brin-dons-google-glass-dresses-like-an-international-jewel-thief-for-nyc-subway-ride/>
 

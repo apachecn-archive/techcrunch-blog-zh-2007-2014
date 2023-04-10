@@ -1,4 +1,4 @@
-# Giphy Gif 搜索引擎推出私人艺术家档案，帮助组织 Gif 社区并从中获利 TechCrunch
+# Giphy Gif 搜索引擎推出私人艺术家档案，帮助组织 Gif 社区并从中获利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/22/giphy-gif-search-engine-rolls-out-private-artist-profiles-to-help-organize-monetize-the-gif-community/>
 

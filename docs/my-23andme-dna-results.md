@@ -1,4 +1,4 @@
-# 我的 23andMe DNA 结果 TechCrunch
+# 我的 23andMe DNA 结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/02/my-23andme-dna-results/>
 

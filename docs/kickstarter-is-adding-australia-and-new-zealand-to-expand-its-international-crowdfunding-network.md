@@ -1,4 +1,4 @@
-# Kickstarter 正在增加澳大利亚和新西兰，以扩大其国际众筹网络 TechCrunch
+# Kickstarter 正在增加澳大利亚和新西兰，以扩大其国际众筹网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/10/kickstarter-is-adding-australia-and-new-zealand-to-expand-its-international-crowdfunding-network/>
 

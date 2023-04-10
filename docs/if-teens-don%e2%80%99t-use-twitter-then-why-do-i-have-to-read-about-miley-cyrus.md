@@ -1,4 +1,4 @@
-# 如果青少年不使用推特，那我为什么要读麦莉·赛勒斯的故事？TechCrunch
+# 如果青少年不使用推特，那我为什么要读麦莉·赛勒斯的故事？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/08/if-teens-don%e2%80%99t-use-twitter-then-why-do-i-have-to-read-about-miley-cyrus/>
 

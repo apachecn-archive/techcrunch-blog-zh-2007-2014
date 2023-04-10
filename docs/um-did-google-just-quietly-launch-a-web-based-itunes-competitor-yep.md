@@ -1,4 +1,4 @@
-# 嗯，谷歌刚刚悄悄地推出了一个基于网络的 iTunes 的竞争对手吗？没错。TechCrunch
+# 嗯，谷歌刚刚悄悄地推出了一个基于网络的 iTunes 的竞争对手吗？没错。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/20/um-did-google-just-quietly-launch-a-web-based-itunes-competitor-yep/>
 

@@ -1,4 +1,4 @@
-# 埃里克·施密特与吉姆·克莱默谈论谷歌、苹果、能源、奥巴马 TechCrunch
+# 埃里克·施密特与吉姆·克莱默谈论谷歌、苹果、能源、奥巴马 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/21/eric-schmidt-talks-google-apple-energy-obama-with-jim-cramer/>
 

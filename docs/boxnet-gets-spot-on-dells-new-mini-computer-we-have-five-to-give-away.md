@@ -1,4 +1,4 @@
-# Box.net 在戴尔的新迷你笔记本电脑上获得亮点；我们有五个要送出 TechCrunch
+# Box.net 在戴尔的新迷你笔记本电脑上获得亮点；我们有五个要送出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/04/boxnet-gets-spot-on-dells-new-mini-computer-we-have-five-to-give-away/>
 

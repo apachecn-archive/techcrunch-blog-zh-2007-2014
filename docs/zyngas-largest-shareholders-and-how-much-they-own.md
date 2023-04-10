@@ -1,4 +1,4 @@
-# Zynga 的最大股东及其持股数量 TechCrunch
+# Zynga 的最大股东及其持股数量 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/zyngas-largest-shareholders-and-how-much-they-own/>
 

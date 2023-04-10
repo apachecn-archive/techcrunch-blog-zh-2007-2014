@@ -1,4 +1,4 @@
-# 谷歌为图片添加+1 按钮 TechCrunch
+# 谷歌为图片添加+1 按钮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/google-adds-1-button-to-images/>
 

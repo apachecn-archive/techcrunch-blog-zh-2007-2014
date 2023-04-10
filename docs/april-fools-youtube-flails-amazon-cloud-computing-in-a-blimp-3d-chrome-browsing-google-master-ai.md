@@ -1,4 +1,4 @@
-# 愚人节:YouTube 连枷，飞艇中的亚马逊云计算，3D Chrome 浏览器，谷歌人工智能大师 TechCrunch
+# 愚人节:YouTube 连枷，飞艇中的亚马逊云计算，3D Chrome 浏览器，谷歌人工智能大师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/01/april-fools-youtube-flails-amazon-cloud-computing-in-a-blimp-3d-chrome-browsing-google-master-ai/>
 

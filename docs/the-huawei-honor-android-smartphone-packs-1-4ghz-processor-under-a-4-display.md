@@ -1,4 +1,4 @@
-# 华为 Honor Android 智能手机在 4 英寸显示屏下装有 1.4GHz 处理器 TechCrunch
+# 华为 Honor Android 智能手机在 4 英寸显示屏下装有 1.4GHz 处理器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/the-huawei-honor-android-smartphone-packs-1-4ghz-processor-under-a-4-display/>
 

@@ -1,4 +1,4 @@
-# Seedcamp Week 2011 -与决赛选手、获胜者和一位好心人见面 TechCrunch
+# Seedcamp Week 2011 -与决赛选手、获胜者和一位好心人见面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/seedcamp-week-2011-meet-the-finalists-the-winners-and-one-good-samaritan/>
 

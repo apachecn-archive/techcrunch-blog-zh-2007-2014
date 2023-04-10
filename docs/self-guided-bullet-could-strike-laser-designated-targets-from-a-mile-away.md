@@ -1,4 +1,4 @@
-# 自导子弹可以在一英里外打击激光指定的目标 TechCrunch
+# 自导子弹可以在一英里外打击激光指定的目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/self-guided-bullet-could-strike-laser-designated-targets-from-a-mile-away/>
 

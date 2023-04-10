@@ -1,4 +1,4 @@
-# 社交娱乐应用 GetGlue 简化了 iPhone 应用的签到和推文流程 TechCrunch
+# 社交娱乐应用 GetGlue 简化了 iPhone 应用的签到和推文流程 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/social-entertainment-app-getglue-streamlines-iphone-app-around-check-ins-and-tweets/>
 

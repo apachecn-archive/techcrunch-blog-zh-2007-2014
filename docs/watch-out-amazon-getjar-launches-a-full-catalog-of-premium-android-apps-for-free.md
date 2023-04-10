@@ -1,4 +1,4 @@
-# 小心亚马逊:GetJar 发布了一个免费的高级 Android 应用程序的完整目录 TechCrunch
+# 小心亚马逊:GetJar 发布了一个免费的高级 Android 应用程序的完整目录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/08/watch-out-amazon-getjar-launches-a-full-catalog-of-premium-android-apps-for-free/>
 

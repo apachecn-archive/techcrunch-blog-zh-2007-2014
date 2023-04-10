@@ -1,4 +1,4 @@
-# SPOT outdoors GPS 设备将您所在位置的文本信息发送给朋友、家人 TechCrunch
+# SPOT outdoors GPS 设备将您所在位置的文本信息发送给朋友、家人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/30/spot-outdoors-gps-device-sends-txt-messages-of-your-location-to-friends-family/>
 

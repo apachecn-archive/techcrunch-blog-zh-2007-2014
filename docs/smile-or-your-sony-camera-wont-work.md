@@ -1,4 +1,4 @@
-# 微笑，否则你的索尼相机将无法工作 TechCrunch
+# 微笑，否则你的索尼相机将无法工作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/smile-or-your-sony-camera-wont-work/>
 

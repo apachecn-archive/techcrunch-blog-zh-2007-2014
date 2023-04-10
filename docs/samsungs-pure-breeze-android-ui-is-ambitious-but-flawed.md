@@ -1,4 +1,4 @@
-# 三星新的 Android 用户界面雄心勃勃，但存在缺陷 TechCrunch
+# 三星新的 Android 用户界面雄心勃勃，但存在缺陷 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/samsungs-pure-breeze-android-ui-is-ambitious-but-flawed/>
 

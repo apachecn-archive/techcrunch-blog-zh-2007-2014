@@ -1,4 +1,4 @@
-# 震颤传媒又从风投摇钱树中获得 4000 万美元 TechCrunch
+# 震颤传媒又从风投摇钱树中获得 4000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/tremor-media-shakes-another-40-million-out-of-the-vc-money-tree/>
 

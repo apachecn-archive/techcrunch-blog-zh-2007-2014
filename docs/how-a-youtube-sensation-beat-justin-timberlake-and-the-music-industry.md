@@ -1,4 +1,4 @@
-# YouTube 红人如何击败贾斯汀·汀布莱克和音乐产业 TechCrunch
+# YouTube 红人如何击败贾斯汀·汀布莱克和音乐产业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/18/how-a-youtube-sensation-beat-justin-timberlake-and-the-music-industry/>
 

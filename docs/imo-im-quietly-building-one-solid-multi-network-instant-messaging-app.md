@@ -1,4 +1,4 @@
-# imo.im 悄然打造一款稳固的多网络即时通讯应用 TechCrunch
+# imo.im 悄然打造一款稳固的多网络即时通讯应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/25/imo-im-quietly-building-one-solid-multi-network-instant-messaging-app/>
 

@@ -1,4 +1,4 @@
-# 罗技和谐链接将你的 iPad、iPhone 或 Android 设备变成一个 I remote TechCrunch
+# 罗技和谐链接将你的 iPad、iPhone 或 Android 设备变成一个 I remote 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/the-logitech-harmony-link-turns-your-ipad-iphone-or-android-device-into-an-iremote/>
 

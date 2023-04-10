@@ -1,4 +1,4 @@
-# Viddy 以 3.7 亿美元的估值融资 3000 万美元 TechCrunch
+# Viddy 以 3.7 亿美元的估值融资 3000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/viddy-is-raising-30m-at-a-370m-valuation/>
 

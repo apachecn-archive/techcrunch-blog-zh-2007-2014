@@ -1,4 +1,4 @@
-# 在线食品订购服务无缝购买当地餐厅菜单目录菜单页面 TechCrunch
+# 在线食品订购服务无缝购买当地餐厅菜单目录菜单页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/online-food-ordering-service-seamless-buys-local-restaurant-menu-directory-menupages/>
 

@@ -1,4 +1,4 @@
-# Yahoo Buzz: Yahoo 公布了前两周的统计数据 TechCrunch
+# Yahoo Buzz: Yahoo 公布了前两周的统计数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/16/yahoo-buzz-yahoo-reveals-stats-from-the-first-two-weeks/>
 

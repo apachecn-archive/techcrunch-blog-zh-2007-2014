@@ -1,4 +1,4 @@
-# 美国音乐销量下降，6 个月内流媒体音乐销量上升 24%，至 510 亿首；Harlem Shake 一路登顶 TechCrunch
+# 美国音乐销量下降，6 个月内流媒体音乐销量上升 24%，至 510 亿首；Harlem Shake 一路登顶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/19/u-s-music-sales-down-as-streaming-up-24-to-51b-tracks-in-6-months-harlem-shake-bumps-its-way-to-the-top/>
 

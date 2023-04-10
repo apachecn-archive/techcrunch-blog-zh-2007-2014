@@ -1,4 +1,4 @@
-# 热衷于...互联网需要更多的全球监管吗？TechCrunch
+# 热衷于...互联网需要更多的全球监管吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/keen-on-does-the-internet-need-more-global-regulation-tctv/>
 

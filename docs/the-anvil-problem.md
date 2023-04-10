@@ -1,4 +1,4 @@
-# 铁砧问题 TechCrunch
+# 铁砧问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/the-anvil-problem/>
 

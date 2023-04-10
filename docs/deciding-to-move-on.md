@@ -1,4 +1,4 @@
-# “决定”继续前进 TechCrunch
+# “决定”继续前进 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/deciding-to-move-on/>
 

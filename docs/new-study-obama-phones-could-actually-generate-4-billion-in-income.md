@@ -1,4 +1,4 @@
-# 新研究:“奥巴马手机”实际上可以产生 40 亿美元的收入 TechCrunch
+# 新研究:“奥巴马手机”实际上可以产生 40 亿美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/new-study-obama-phones-could-actually-generate-4-billion-in-income/>
 

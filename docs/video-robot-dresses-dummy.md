@@ -1,4 +1,4 @@
-# 视频:机器人装扮假人 TechCrunch
+# 视频:机器人装扮假人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/video-robot-dresses-dummy/>
 

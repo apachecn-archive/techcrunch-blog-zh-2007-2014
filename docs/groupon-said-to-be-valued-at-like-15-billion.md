@@ -1,4 +1,4 @@
-# 据说 Groupon 的估值约为 150 亿美元 TechCrunch
+# 据说 Groupon 的估值约为 150 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/13/groupon-said-to-be-valued-at-like-15-billion/>
 

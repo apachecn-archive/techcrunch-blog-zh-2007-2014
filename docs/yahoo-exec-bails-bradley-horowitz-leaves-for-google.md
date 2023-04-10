@@ -1,4 +1,4 @@
-# 雅虎高管 Bails:布拉德利·霍洛维茨离职去谷歌 TechCrunch
+# 雅虎高管 Bails:布拉德利·霍洛维茨离职去谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/12/yahoo-exec-bails-bradley-horowitz-leaves-for-google/>
 

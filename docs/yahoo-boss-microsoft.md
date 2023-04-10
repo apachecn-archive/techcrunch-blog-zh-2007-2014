@@ -1,4 +1,4 @@
-# 雅虎老板以某种形式从微软交易中幸存；细节仍然模糊 TechCrunch
+# 雅虎老板以某种形式从微软交易中幸存；细节仍然模糊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/07/yahoo-boss-microsoft/>
 

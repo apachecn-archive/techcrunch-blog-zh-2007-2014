@@ -1,4 +1,4 @@
-# WhaleShark Media 收购英国顶级优惠券网站 voucher codes TechCrunch
+# WhaleShark Media 收购英国顶级优惠券网站 voucher codes 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/whaleshark-media-buys-uks-top-coupon-site-vouchercodes/>
 

@@ -1,4 +1,4 @@
-# 诺基亚的 Ovi 商店每天提供超过 700 万次下载 TechCrunch
+# 诺基亚的 Ovi 商店每天提供超过 700 万次下载 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/nokias-ovi-store-serving-over-7-million-downloads-a-day/>
 

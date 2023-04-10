@@ -1,4 +1,4 @@
-# SinglePlatform 筹集 330 万美元帮助当地企业创建在线商店 TechCrunch
+# SinglePlatform 筹集 330 万美元帮助当地企业创建在线商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/singleplatform-raises-3-3m-to-help-local-businesses-create-online-storefronts/>
 

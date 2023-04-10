@@ -1,4 +1,4 @@
-# 视频:行动中的自行车酒架 TechCrunch
+# 视频:行动中的自行车酒架 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/video-the-bicycle-wine-rack-in-action/>
 

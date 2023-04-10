@@ -1,4 +1,4 @@
-# 什么现金短缺？科斯拉风险投资公司关闭另一只 10 亿美元基金 TechCrunch
+# 什么现金短缺？科斯拉风险投资公司关闭另一只 10 亿美元基金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/khosla-ventures-1-billion-fund/>
 

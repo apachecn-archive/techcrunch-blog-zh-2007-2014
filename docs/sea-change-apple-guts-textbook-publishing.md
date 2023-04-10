@@ -1,4 +1,4 @@
-# 巨变:苹果内脏教科书出版 TechCrunch
+# 巨变:苹果内脏教科书出版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/19/sea-change-apple-guts-textbook-publishing/>
 

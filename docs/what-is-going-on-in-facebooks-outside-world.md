@@ -1,4 +1,4 @@
-# 脸书的“外部世界”到底发生了什么？TechCrunch
+# 脸书的“外部世界”到底发生了什么？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/08/26/what-is-going-on-in-facebooks-outside-world/>
 

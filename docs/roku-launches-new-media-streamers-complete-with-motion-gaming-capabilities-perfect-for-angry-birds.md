@@ -1,4 +1,4 @@
-# Roku 推出新的媒体流，配有运动游戏功能，非常适合愤怒的小鸟 TechCrunch
+# Roku 推出新的媒体流，配有运动游戏功能，非常适合愤怒的小鸟 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/roku-launches-new-media-streamers-complete-with-motion-gaming-capabilities-perfect-for-angry-birds/>
 

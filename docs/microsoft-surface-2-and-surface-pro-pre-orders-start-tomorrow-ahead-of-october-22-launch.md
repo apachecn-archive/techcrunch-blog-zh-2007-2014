@@ -1,4 +1,4 @@
-# 微软 Surface 2 和 Surface Pro 2 预购将于 10 月 22 日发布前的明天开始 TechCrunch
+# 微软 Surface 2 和 Surface Pro 2 预购将于 10 月 22 日发布前的明天开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/23/microsoft-surface-2-and-surface-pro-pre-orders-start-tomorrow-ahead-of-october-22-launch/>
 

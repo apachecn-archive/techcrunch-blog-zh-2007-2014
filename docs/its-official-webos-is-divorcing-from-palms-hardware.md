@@ -1,4 +1,4 @@
-# 官方消息:WebOS 正在脱离 Palm 的硬件 TechCrunch
+# 官方消息:WebOS 正在脱离 Palm 的硬件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/its-official-webos-is-divorcing-from-palms-hardware/>
 

@@ -1,4 +1,4 @@
-# Pegasus Touch Laser SLA 是一款性感的打印机，可以实现您的高分辨率梦想 TechCrunch
+# Pegasus Touch Laser SLA 是一款性感的打印机，可以实现您的高分辨率梦想 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/the-pegasus-touch-laser-sla-is-a-sexy-printer-that-can-build-your-hi-res-dreams/>
 

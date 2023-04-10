@@ -1,4 +1,4 @@
-# 坚持到底:Nike+GPS vs . RunKeeper TechCrunch
+# 坚持到底:Nike+GPS vs . RunKeeper 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/09/going-the-distance-nike-gps-vs-runkeeper/>
 

@@ -1,4 +1,4 @@
-# 什么云？Nimble 获得 2500 万美元的存储和备份盒 TechCrunch
+# 什么云？Nimble 获得 2500 万美元的存储和备份盒 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/what-cloud-nimble-grabs-25-million-for-storage-and-backup-boxes/>
 

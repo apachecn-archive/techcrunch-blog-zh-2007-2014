@@ -1,4 +1,4 @@
-# 在第一轮宿舍基金的支持下，Pagevamp 将脸书网页变成了网站 TechCrunch
+# 在第一轮宿舍基金的支持下，Pagevamp 将脸书网页变成了网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/19/pagevamp-dorm-room-fund/>
 

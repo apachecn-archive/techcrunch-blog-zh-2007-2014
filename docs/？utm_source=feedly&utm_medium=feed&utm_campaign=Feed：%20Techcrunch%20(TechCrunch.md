@@ -1,4 +1,4 @@
-# 生活追踪应用 Expereal 是你对抗认知偏见的个人武器 TechCrunch
+# 生活追踪应用 Expereal 是你对抗认知偏见的个人武器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/16/life-tracking-app-expereal-is-your-personal-weapon-against-cognitive-biases/?utm_source=feedly&utm_medium=feed&utm_campaign=Feed:%20Techcrunch%20(TechCrunch>)
 

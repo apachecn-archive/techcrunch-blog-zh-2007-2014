@@ -1,4 +1,4 @@
-# Forrester 发现，尽管平板电脑入侵了工作场所，但员工也更喜欢键盘 TechCrunch
+# Forrester 发现，尽管平板电脑入侵了工作场所，但员工也更喜欢键盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/16/forrester-finds-that-despite-the-tablet-invasion-of-the-workplace-workers-would-prefer-a-keyboard-too/>
 

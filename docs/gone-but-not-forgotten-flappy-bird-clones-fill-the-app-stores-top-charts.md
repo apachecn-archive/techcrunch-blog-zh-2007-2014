@@ -1,4 +1,4 @@
-# 消失但未被遗忘:Flappy Bird 克隆版占据 App Store 排行榜 TechCrunch
+# 消失但未被遗忘:Flappy Bird 克隆版占据 App Store 排行榜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/10/gone-but-not-forgotten-flappy-bird-clones-fill-the-app-stores-top-charts/>
 

@@ -1,4 +1,4 @@
-# 微软研究 20 年 TechCrunch
+# 微软研究 20 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/20-years-of-microsoft-research/>
 

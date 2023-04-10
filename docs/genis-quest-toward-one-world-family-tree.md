@@ -1,4 +1,4 @@
-# Geni 对一个世界家谱的探索 TechCrunch
+# Geni 对一个世界家谱的探索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/genis-quest-toward-one-world-family-tree/>
 

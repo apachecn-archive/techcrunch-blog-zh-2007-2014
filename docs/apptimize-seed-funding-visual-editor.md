@@ -1,4 +1,4 @@
-# 移动 A/B 测试初创公司 Apptimize 筹集了 210 万美元，为非开发人员推出了一款工具 TechCrunch
+# 移动 A/B 测试初创公司 Apptimize 筹集了 210 万美元，为非开发人员推出了一款工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/apptimize-seed-funding-visual-editor/>
 

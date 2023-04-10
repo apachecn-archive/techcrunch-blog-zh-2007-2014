@@ -1,4 +1,4 @@
-# Ooyala 现在为 ESPN 超过 10 亿的视频流提供动力 TechCrunch
+# Ooyala 现在为 ESPN 超过 10 亿的视频流提供动力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/ooyala-now-powering-espns-billion-plus-video-streams/>
 

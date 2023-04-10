@@ -1,4 +1,4 @@
-# Color 专门面向哈佛学生推出基于脸书的新应用 TechCrunch
+# Color 专门面向哈佛学生推出基于脸书的新应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/color-targets-new-facebook-powered-app-exclusively-to-harvard-students-says-harvard-student/>
 

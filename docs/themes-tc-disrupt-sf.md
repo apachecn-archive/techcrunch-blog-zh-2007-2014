@@ -1,4 +1,4 @@
-# 移动图片大战、莫斯科维茨宣言和其他来自 TC 的重大主题颠覆了 SF TechCrunch
+# 移动图片大战、莫斯科维茨宣言和其他来自 TC 的重大主题颠覆了 SF 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/17/themes-tc-disrupt-sf/>
 

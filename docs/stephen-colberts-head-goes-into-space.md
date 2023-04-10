@@ -1,4 +1,4 @@
-# 史蒂芬·科拜尔的头进入太空 TechCrunch
+# 史蒂芬·科拜尔的头进入太空 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/stephen-colberts-head-goes-into-space/>
 

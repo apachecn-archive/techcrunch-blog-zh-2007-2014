@@ -1,4 +1,4 @@
-# 苹果申请“iTunes Live”商标 TechCrunch
+# 苹果申请“iTunes Live”商标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/09/apple-files-for-itunes-live-trademark/>
 

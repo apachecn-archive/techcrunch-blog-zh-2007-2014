@@ -1,4 +1,4 @@
-# Twitter 每天有 2.5 亿条推文，iOS 5 集成使注册人数增加了 3 倍 TechCrunch
+# Twitter 每天有 2.5 亿条推文，iOS 5 集成使注册人数增加了 3 倍 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/twitter-is-at-250-million-tweets-per-day/>
 

@@ -1,4 +1,4 @@
-# 特斯拉的 Q2 收益:稳定如她 TechCrunch
+# 特斯拉的 Q2 收益:稳定如她 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/teslas-q2-earnings-steady-as-she-goes/>
 

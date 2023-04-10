@@ -1,4 +1,4 @@
-# T-Mobile 宣布黑莓 Curve 8520 将于 8 月 5 日上市，售价 130 美元 TechCrunch
+# T-Mobile 宣布黑莓 Curve 8520 将于 8 月 5 日上市，售价 130 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/27/t-mobile-announces-the-blackberry-curve-8520-available-august-5-for-130/>
 

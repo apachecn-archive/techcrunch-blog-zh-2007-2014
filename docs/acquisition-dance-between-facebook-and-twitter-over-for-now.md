@@ -1,4 +1,4 @@
-# 脸书和 Twitter 之间的收购之舞暂时结束了吗？TechCrunch
+# 脸书和 Twitter 之间的收购之舞暂时结束了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/24/acquisition-dance-between-facebook-and-twitter-over-for-now/>
 

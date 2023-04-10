@@ -1,4 +1,4 @@
-# 维基解密能支持不走外交路线的朱利安·阿桑奇吗？TechCrunch
+# 维基解密能支持不走外交路线的朱利安·阿桑奇吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/06/can-wikileaks-afford-to-back-the-undiplomatic-julian-assange/>
 

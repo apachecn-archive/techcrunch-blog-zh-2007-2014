@@ -1,4 +1,4 @@
-# Y Combinator 任命 2005 年以来的第一批新合伙人:Paul Buchheit 和 Harj Taggar TechCrunch
+# Y Combinator 任命 2005 年以来的第一批新合伙人:Paul Buchheit 和 Harj Taggar 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/12/y-combinator-names-first-new-partners-since-2005-paul-buchheit-and-harj-taggar/>
 

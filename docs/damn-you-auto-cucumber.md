@@ -1,4 +1,4 @@
-# 有史以来最流行的“该死的自动更正”的文字是...TechCrunch
+# 有史以来最流行的“该死的自动更正”的文字是...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/damn-you-auto-cucumber/>
 

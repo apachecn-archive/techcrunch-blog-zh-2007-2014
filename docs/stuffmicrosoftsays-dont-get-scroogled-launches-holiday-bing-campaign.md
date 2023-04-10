@@ -1,4 +1,4 @@
-# # stuff 微软说:“不要被搜索”，推出假日必应活动 TechCrunch
+# # stuff 微软说:“不要被搜索”，推出假日必应活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/28/stuffmicrosoftsays-dont-get-scroogled-launches-holiday-bing-campaign/>
 

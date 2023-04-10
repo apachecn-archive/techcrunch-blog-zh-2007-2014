@@ -1,4 +1,4 @@
-# Zynga 计划最早于明天申请首次公开募股，将募集 1.5 美元至 1.5 美元 2B，估值为 15 美元至 200 亿美元 TechCrunch
+# Zynga 计划最早于明天申请首次公开募股，将募集 1.5 美元至 1.5 美元 2B，估值为 15 美元至 200 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/cnbc-zynga-planning-to-file-for-ipo-as-soon-as-tomorrow-will-raise-1-5-to-2-billion/>
 

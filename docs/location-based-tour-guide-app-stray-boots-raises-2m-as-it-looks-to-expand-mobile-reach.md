@@ -1,4 +1,4 @@
-# 基于位置的导游应用程序 Stray Boots 筹集了 1000 万美元 2M，它希望扩大移动范围 TechCrunch
+# 基于位置的导游应用程序 Stray Boots 筹集了 1000 万美元 2M，它希望扩大移动范围 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/27/location-based-tour-guide-app-stray-boots-raises-2m-as-it-looks-to-expand-mobile-reach/>
 

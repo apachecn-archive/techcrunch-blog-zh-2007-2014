@@ -1,4 +1,4 @@
-# Gartner 发现，与脸书相比，企业网站仍然是美国市场营销人员更优先考虑的数字营销项目——仅次于 TechCrunch
+# Gartner 发现，与脸书相比，企业网站仍然是美国市场营销人员更优先考虑的数字营销项目——仅次于 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/gartner-digital-marketing-survey-2012/>
 

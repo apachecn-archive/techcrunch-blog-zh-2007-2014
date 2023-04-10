@@ -1,4 +1,4 @@
-# Ask.com 为 Android 设备带来移动问答平台 TechCrunch
+# Ask.com 为 Android 设备带来移动问答平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/ask-com-brings-mobile-qa-platform-to-android-devices/>
 

@@ -1,4 +1,4 @@
-# 雅虎让选举新闻只差一个关键词 TechCrunch
+# 雅虎让选举新闻只差一个关键词 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/03/yahoo-makes-election-news-only-a-keyword-away/>
 

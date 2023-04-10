@@ -1,4 +1,4 @@
-# 脸书的 Oculus Buy 将推动新的社交未来 TechCrunch
+# 脸书的 Oculus Buy 将推动新的社交未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/facebooks-oculus-vr-acquisition-forces-rethinking-the-future-of-social/>
 

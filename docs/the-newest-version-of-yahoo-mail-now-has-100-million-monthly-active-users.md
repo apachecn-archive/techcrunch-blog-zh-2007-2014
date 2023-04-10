@@ -1,4 +1,4 @@
-# 雅虎邮箱的最新版本现在每月有 1 亿活跃用户 TechCrunch
+# 雅虎邮箱的最新版本现在每月有 1 亿活跃用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/the-newest-version-of-yahoo-mail-now-has-100-million-monthly-active-users/>
 

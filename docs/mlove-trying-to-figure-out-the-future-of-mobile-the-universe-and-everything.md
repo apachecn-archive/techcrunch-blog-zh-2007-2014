@@ -1,4 +1,4 @@
-# 我爱——试图弄清楚手机、宇宙和...一切 TechCrunch
+# 我爱——试图弄清楚手机、宇宙和...一切 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/mlove-trying-to-figure-out-the-future-of-mobile-the-universe-and-everything/>
 

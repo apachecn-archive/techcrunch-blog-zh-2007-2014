@@ -1,4 +1,4 @@
-# 有线电视盒和它们的费雪遥控器都是垃圾。要求更好。TechCrunch
+# 有线电视盒和它们的费雪遥控器都是垃圾。要求更好。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/08/cable-boxes-and-their-fisher-price-remotes-are-junk-demand-better/>
 

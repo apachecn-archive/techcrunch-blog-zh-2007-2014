@@ -1,4 +1,4 @@
-# 戴尔将在其 Android 产品线中增加一个 10 英寸条纹 TechCrunch
+# 戴尔将在其 Android 产品线中增加一个 10 英寸条纹 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/dell-will-add-a-10-inch-streak-to-its-android-line-up/>
 

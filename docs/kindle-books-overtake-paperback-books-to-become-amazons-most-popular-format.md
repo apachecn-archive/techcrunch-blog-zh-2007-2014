@@ -1,4 +1,4 @@
-# Kindle 书籍取代平装本书籍成为亚马逊最受欢迎的格式 TechCrunch
+# Kindle 书籍取代平装本书籍成为亚马逊最受欢迎的格式 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/27/kindle-books-overtake-paperback-books-to-become-amazons-most-popular-format/>
 

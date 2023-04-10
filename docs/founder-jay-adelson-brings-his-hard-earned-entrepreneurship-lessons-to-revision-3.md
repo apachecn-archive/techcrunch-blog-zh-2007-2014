@@ -1,4 +1,4 @@
-# 创始人 Jay Adelson 将他辛苦获得的创业经验带到了修订版 3 TechCrunch
+# 创始人 Jay Adelson 将他辛苦获得的创业经验带到了修订版 3 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/09/founder-jay-adelson-brings-his-hard-earned-entrepreneurship-lessons-to-revision-3/>
 

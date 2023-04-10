@@ -1,4 +1,4 @@
-# OpenClip 为 iPhone 带来了真正的复制和粘贴功能，但它不是解决方案 TechCrunch
+# OpenClip 为 iPhone 带来了真正的复制和粘贴功能，但它不是解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/20/openclip-framework-brings-cross-application-copypaste-to-iphone/>
 

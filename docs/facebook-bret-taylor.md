@@ -1,4 +1,4 @@
-# 脸书首席技术官 Bret Taylor 谈 HTML5，移动是未来，是的，FriendFeed TechCrunch
+# 脸书首席技术官 Bret Taylor 谈 HTML5，移动是未来，是的，FriendFeed 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/facebook-bret-taylor/>
 

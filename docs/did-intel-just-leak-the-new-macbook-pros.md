@@ -1,4 +1,4 @@
-# 英特尔刚刚泄露了新款 MacBook Pros 吗？TechCrunch
+# 英特尔刚刚泄露了新款 MacBook Pros 吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/16/did-intel-just-leak-the-new-macbook-pros/>
 

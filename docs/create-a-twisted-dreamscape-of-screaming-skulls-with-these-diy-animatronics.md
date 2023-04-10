@@ -1,4 +1,4 @@
-# 用这些 DIY 电子动画制作扭曲的尖叫头骨幻景 TechCrunch
+# 用这些 DIY 电子动画制作扭曲的尖叫头骨幻景 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/create-a-twisted-dreamscape-of-screaming-skulls-with-these-diy-animatronics/>
 

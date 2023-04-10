@@ -1,4 +1,4 @@
-# 求职网站 Dice 收购招聘初创公司 getTalent TechCrunch
+# 求职网站 Dice 收购招聘初创公司 getTalent 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/05/dice-acquires-gettalent/>
 

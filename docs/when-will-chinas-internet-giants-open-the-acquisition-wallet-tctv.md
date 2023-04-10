@@ -1,4 +1,4 @@
-# 中国互联网巨头何时打开收购钱包？TechCrunch
+# 中国互联网巨头何时打开收购钱包？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/13/when-will-chinas-internet-giants-open-the-acquisition-wallet-tctv/>
 

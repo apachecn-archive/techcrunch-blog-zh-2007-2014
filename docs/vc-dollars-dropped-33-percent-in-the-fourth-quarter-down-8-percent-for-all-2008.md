@@ -1,4 +1,4 @@
-# 风投资金在第四季度下降了 33%，2008 年全年下降了 8% TechCrunch
+# 风投资金在第四季度下降了 33%，2008 年全年下降了 8% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/23/vc-dollars-dropped-33-percent-in-the-fourth-quarter-down-8-percent-for-all-2008/>
 

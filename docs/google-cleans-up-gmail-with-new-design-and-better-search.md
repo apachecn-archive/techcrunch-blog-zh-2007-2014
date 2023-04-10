@@ -1,4 +1,4 @@
-# 谷歌用新设计和更好的搜索清理 Gmail TechCrunch
+# 谷歌用新设计和更好的搜索清理 Gmail 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/google-cleans-up-gmail-with-new-design-and-better-search/>
 

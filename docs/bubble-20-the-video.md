@@ -1,4 +1,4 @@
-# 泡泡 2.0:视频 TechCrunch
+# 泡泡 2.0:视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/04/bubble-20-the-video/>
 

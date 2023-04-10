@@ -1,4 +1,4 @@
-# Formspring 的营销时刻伴随着今天的第一个推广问题 TechCrunch
+# Formspring 的营销时刻伴随着今天的第一个推广问题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/formspring-promoted-question/>
 

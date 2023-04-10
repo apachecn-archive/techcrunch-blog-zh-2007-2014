@@ -1,4 +1,4 @@
-# 黑客因 iPad 数据泄露面临刑事指控 TechCrunch
+# 黑客因 iPad 数据泄露面临刑事指控 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/hackers-face-criminal-charges-in-ipad-data-breech/>
 

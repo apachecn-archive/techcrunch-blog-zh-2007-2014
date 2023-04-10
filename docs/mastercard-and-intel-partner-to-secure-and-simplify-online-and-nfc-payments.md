@@ -1,4 +1,4 @@
-# 万事达卡和英特尔携手保护和简化在线支付和 NFC 支付 TechCrunch
+# 万事达卡和英特尔携手保护和简化在线支付和 NFC 支付 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/13/mastercard-and-intel-partner-to-secure-and-simplify-online-and-nfc-payments/>
 

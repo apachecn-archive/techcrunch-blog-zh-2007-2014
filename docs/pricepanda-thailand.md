@@ -1,4 +1,4 @@
-# Rocket Internet 的 PricePanda 在泰国发布 TechCrunch
+# Rocket Internet 的 PricePanda 在泰国发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/pricepanda-thailand/>
 

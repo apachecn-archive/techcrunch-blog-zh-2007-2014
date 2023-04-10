@@ -1,4 +1,4 @@
-# 中国联通收到超过 10 万台 iPhone 5 的订单 TechCrunch
+# 中国联通收到超过 10 万台 iPhone 5 的订单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/03/china-unicom-receives-orders-for-more-than-100000-iphone-5-units/>
 

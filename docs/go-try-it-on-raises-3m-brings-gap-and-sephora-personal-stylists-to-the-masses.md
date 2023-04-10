@@ -1,4 +1,4 @@
-# go Try On 筹集了 300 万美元，将 Gap 和丝芙兰的私人造型师推向大众 TechCrunch
+# go Try On 筹集了 300 万美元，将 Gap 和丝芙兰的私人造型师推向大众 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/go-try-it-on-raises-3m-brings-gap-and-sephora-personal-stylists-to-the-masses/>
 

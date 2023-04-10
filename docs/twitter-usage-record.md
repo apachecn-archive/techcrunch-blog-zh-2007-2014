@@ -1,4 +1,4 @@
-# 昨天是 Twitter 有史以来使用率最高的一天。今天会更大。TechCrunch
+# 昨天是 Twitter 有史以来使用率最高的一天。今天会更大。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/12/twitter-usage-record/>
 

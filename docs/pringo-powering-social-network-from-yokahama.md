@@ -1,4 +1,4 @@
-# 来自横滨的 Pringo 为社交网络提供动力 TechCrunch
+# 来自横滨的 Pringo 为社交网络提供动力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/31/pringo-powering-social-network-from-yokahama/>
 

@@ -1,4 +1,4 @@
-# 惠普将出售 Red Hat Linux Boxen TechCrunch
+# 惠普将出售 Red Hat Linux Boxen 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/30/hp-to-sell-red-hat-linux-boxen/>
 

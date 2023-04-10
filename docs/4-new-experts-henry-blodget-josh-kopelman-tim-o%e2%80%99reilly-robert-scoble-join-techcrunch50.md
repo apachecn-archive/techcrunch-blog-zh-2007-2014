@@ -1,4 +1,4 @@
-# 四位新专家——亨利·布洛杰特、乔希·科佩尔曼、蒂姆·奥雷利、罗伯特·斯考伯加入 TechCrunch 50 TechCrunch
+# 四位新专家——亨利·布洛杰特、乔希·科佩尔曼、蒂姆·奥雷利、罗伯特·斯考伯加入 TechCrunch 50 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/15/4-new-experts-henry-blodget-josh-kopelman-tim-o%e2%80%99reilly-robert-scoble-join-techcrunch50/>
 

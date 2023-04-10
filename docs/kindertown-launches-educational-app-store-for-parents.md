@@ -1,4 +1,4 @@
-# KinderTown 推出面向家长的教育应用商店 TechCrunch
+# KinderTown 推出面向家长的教育应用商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/kindertown-launches-educational-app-store-for-parents/>
 

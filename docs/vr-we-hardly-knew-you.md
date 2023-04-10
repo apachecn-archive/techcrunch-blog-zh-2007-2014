@@ -1,4 +1,4 @@
-# 什么是游戏:虚拟现实，我们几乎不认识你 TechCrunch
+# 什么是游戏:虚拟现实，我们几乎不认识你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/30/vr-we-hardly-knew-you/>
 

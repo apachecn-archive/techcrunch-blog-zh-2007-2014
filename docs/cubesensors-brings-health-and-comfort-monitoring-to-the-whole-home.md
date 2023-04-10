@@ -1,4 +1,4 @@
-# 立方体传感器为整个家庭带来健康和舒适监控 TechCrunch
+# 立方体传感器为整个家庭带来健康和舒适监控 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/cubesensors-brings-health-and-comfort-monitoring-to-the-whole-home/>
 

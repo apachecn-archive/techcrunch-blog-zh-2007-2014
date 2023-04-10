@@ -1,4 +1,4 @@
-# 防间谍信息市场升温 TechCrunch
+# 防间谍信息市场升温 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/12/market-for-spy-proof-messaging-heats-up/>
 

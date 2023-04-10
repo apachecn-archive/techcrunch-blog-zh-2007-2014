@@ -1,4 +1,4 @@
-# 你有没有因为讨厌一个小玩意而毁掉它？TechCrunch
+# 你有没有因为讨厌一个小玩意而毁掉它？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/30/ever-hate-a-gadget-so-much-that-you-destroy-it/>
 

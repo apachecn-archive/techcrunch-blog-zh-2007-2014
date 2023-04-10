@@ -1,4 +1,4 @@
-# 谷歌强大的游说团体如何在加州使无人驾驶汽车合法化 TechCrunch
+# 谷歌强大的游说团体如何在加州使无人驾驶汽车合法化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/24/how-googles-powerful-lobby-legalized-driverless-cars-in-california/>
 

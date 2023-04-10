@@ -1,4 +1,4 @@
-# 合并后的微软-雅虎会是什么样子？TechCrunch
+# 合并后的微软-雅虎会是什么样子？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/01/what-would-a-combined-microsoft-yahoo-look-like/>
 

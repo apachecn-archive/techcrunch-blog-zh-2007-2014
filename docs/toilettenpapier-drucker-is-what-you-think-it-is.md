@@ -1,4 +1,4 @@
-# “Toilettenpapier Drucker”就是你认为的 TechCrunch
+# “Toilettenpapier Drucker”就是你认为的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/toilettenpapier-drucker-is-what-you-think-it-is/>
 

@@ -1,4 +1,4 @@
-# 谷歌招聘专利律师和专家 TechCrunch
+# 谷歌招聘专利律师和专家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/google-staffing-up-on-patent-lawyers-and-experts/>
 

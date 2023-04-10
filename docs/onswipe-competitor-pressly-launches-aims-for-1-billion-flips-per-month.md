@@ -1,4 +1,4 @@
-# OnSwipe 竞争对手 Pressly 推出，目标是每月 10 亿次翻转 TechCrunch
+# OnSwipe 竞争对手 Pressly 推出，目标是每月 10 亿次翻转 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/onswipe-competitor-pressly-launches-aims-for-1-billion-flips-per-month/>
 

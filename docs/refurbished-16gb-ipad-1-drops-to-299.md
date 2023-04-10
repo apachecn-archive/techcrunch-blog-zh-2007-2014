@@ -1,4 +1,4 @@
-# 翻新的 16GB iPad 1 降至 299 美元 TechCrunch
+# 翻新的 16GB iPad 1 降至 299 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/refurbished-16gb-ipad-1-drops-to-299/>
 

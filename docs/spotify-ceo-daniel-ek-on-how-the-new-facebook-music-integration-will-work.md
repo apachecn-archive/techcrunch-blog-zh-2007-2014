@@ -1,4 +1,4 @@
-# Spotify 首席执行官 Daniel Ek 谈新的脸书音乐整合将如何运作 TechCrunch
+# Spotify 首席执行官 Daniel Ek 谈新的脸书音乐整合将如何运作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/spotify-ceo-daniel-ek-on-how-the-new-facebook-music-integration-will-work/>
 

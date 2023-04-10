@@ -1,4 +1,4 @@
-# 为 Blekko 做好准备:11 月 1 日公开发布 TechCrunch
+# 为 Blekko 做好准备:11 月 1 日公开发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/get-ready-for-blekko-public-launch-on-november-1/>
 

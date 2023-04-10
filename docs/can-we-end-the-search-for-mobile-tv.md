@@ -1,4 +1,4 @@
-# 让我们结束对移动电视的搜索 TechCrunch
+# 让我们结束对移动电视的搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/22/can-we-end-the-search-for-mobile-tv/>
 

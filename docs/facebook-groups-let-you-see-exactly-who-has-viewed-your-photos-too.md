@@ -1,4 +1,4 @@
-# 脸书群组也能让您准确地看到谁查看了您的照片 TechCrunch
+# 脸书群组也能让您准确地看到谁查看了您的照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/11/facebook-groups-let-you-see-exactly-who-has-viewed-your-photos-too/>
 

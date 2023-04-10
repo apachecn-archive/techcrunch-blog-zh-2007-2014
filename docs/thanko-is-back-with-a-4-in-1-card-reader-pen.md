@@ -1,4 +1,4 @@
-# Thanko 带着 4 合 1 读卡器笔回来了 TechCrunch
+# Thanko 带着 4 合 1 读卡器笔回来了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/thanko-is-back-with-a-4-in-1-card-reader-pen/>
 

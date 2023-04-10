@@ -1,4 +1,4 @@
-# 网飞股东华勃:2012 年收益将陷入赤字 TechCrunch
+# 网飞股东华勃:2012 年收益将陷入赤字 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/netflix-shareholder-whopper-earnings-will-take-a-hit-next-quarter-and-dip-into-the-red-in-q1/>
 

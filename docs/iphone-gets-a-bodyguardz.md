@@ -1,4 +1,4 @@
-# iPhone 的 body guardz–TechCrunch
+# iPhone 的 body guardz–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/iphone-gets-a-bodyguardz/>
 

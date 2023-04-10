@@ -1,4 +1,4 @@
-# 根据数据:雪佛兰 Volt vs 日产 Leaf TechCrunch
+# 根据数据:雪佛兰 Volt vs 日产 Leaf 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/27/by-the-numbers-chevy-volt-vs-nissan-leaf/>
 

@@ -1,4 +1,4 @@
-# iPhone 上的 Photoshop 应用程序下载量突破 600 万 TechCrunch
+# iPhone 上的 Photoshop 应用程序下载量突破 600 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/02/14/photoshop-iphone-6-million/>
 

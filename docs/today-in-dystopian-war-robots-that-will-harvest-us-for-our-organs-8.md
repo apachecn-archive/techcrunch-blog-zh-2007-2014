@@ -1,4 +1,4 @@
-# 今天，在反乌托邦战争中，机器人将收获我们的器官 TechCrunch
+# 今天，在反乌托邦战争中，机器人将收获我们的器官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/06/today-in-dystopian-war-robots-that-will-harvest-us-for-our-organs-8/>
 

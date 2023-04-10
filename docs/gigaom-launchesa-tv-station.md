@@ -1,4 +1,4 @@
-# GigaOM 发布...一家电视台 TechCrunch
+# GigaOM 发布...一家电视台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/09/gigaom-launchesa-tv-station/>
 

@@ -1,4 +1,4 @@
-# 52 皮卡，或者，我哪里出错了 TechCrunch
+# 52 皮卡，或者，我哪里出错了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/05/52-pick-up-or-where-i-went-wrong/>
 

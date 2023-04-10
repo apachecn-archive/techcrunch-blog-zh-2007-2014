@@ -1,4 +1,4 @@
-# 微软 Build 2014 开发者大会现已开放注册 TechCrunch
+# 微软 Build 2014 开发者大会现已开放注册 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/registration-for-microsofts-build-2014-developer-event-is-now-open/>
 

@@ -1,4 +1,4 @@
-# 最后，谷歌电视以清晰、简洁的方式解释了 TechCrunch
+# 最后，谷歌电视以清晰、简洁的方式解释了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/15/google-tv-video/>
 

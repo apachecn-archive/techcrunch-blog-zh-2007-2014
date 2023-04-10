@@ -1,4 +1,4 @@
-# 谷歌电视 2.0 回顾:界面精彩，但仍缺乏实质内容 TechCrunch
+# 谷歌电视 2.0 回顾:界面精彩，但仍缺乏实质内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/google-tv-v2-review-its-getting-closer/>
 

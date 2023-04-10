@@ -1,4 +1,4 @@
-# Nimble Storage 将股价定在每股 21 美元后，预计将在纽约证券交易所筹集 1.68 亿美元 TechCrunch
+# Nimble Storage 将股价定在每股 21 美元后，预计将在纽约证券交易所筹集 1.68 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/12/nimble-storage-ipo-expected-to-raise-184m-in-nyse-debut-with-price-range-of-18-to-20-per-share/>
 

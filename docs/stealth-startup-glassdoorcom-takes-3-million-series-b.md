@@ -1,4 +1,4 @@
-# 秘密创业公司 Glassdoor.com 获得 300 万美元 B 轮融资 TechCrunch
+# 秘密创业公司 Glassdoor.com 获得 300 万美元 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/27/stealth-startup-glassdoorcom-takes-3-million-series-b/>
 

@@ -1,4 +1,4 @@
-# 什么东西以 I 开头，和 Smack 押韵？TechCrunch
+# 什么东西以 I 开头，和 Smack 押韵？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/what-starts-with-i-and-ryhmes-with-smack/>
 

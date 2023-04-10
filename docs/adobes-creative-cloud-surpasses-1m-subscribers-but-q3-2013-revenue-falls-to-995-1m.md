@@ -1,4 +1,4 @@
-# Adobe 的 Creative Cloud 用户超过 100 万，但 2013 年第三季度收入降至 9.951 亿美元 TechCrunch
+# Adobe 的 Creative Cloud 用户超过 100 万，但 2013 年第三季度收入降至 9.951 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/17/adobes-creative-cloud-surpasses-1m-subscribers-but-q3-2013-revenue-falls-to-995-1m/>
 

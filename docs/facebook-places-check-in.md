@@ -1,4 +1,4 @@
-# 现场报道:脸书的签到功能和新的“地点”标签 TechCrunch
+# 现场报道:脸书的签到功能和新的“地点”标签 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/09/facebook-places-check-in/>
 

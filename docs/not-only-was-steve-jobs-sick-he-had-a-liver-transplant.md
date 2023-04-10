@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯不仅生病了，还接受了肝脏移植。TechCrunch
+# 史蒂夫·乔布斯不仅生病了，还接受了肝脏移植。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/19/not-only-was-steve-jobs-sick-he-had-a-liver-transplant/>
 

@@ -1,4 +1,4 @@
-# 平板电脑继续成为支付平台，Android 和 iPad 在 10 个月内增长 5% TechCrunch
+# 平板电脑继续成为支付平台，Android 和 iPad 在 10 个月内增长 5% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/06/adyen-m-commerce-index/>
 

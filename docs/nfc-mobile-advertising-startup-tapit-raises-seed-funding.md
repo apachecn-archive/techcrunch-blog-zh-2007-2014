@@ -1,4 +1,4 @@
-# NFC 移动广告初创公司 Tapit 筹集种子资金 TechCrunch
+# NFC 移动广告初创公司 Tapit 筹集种子资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/nfc-mobile-advertising-startup-tapit-raises-seed-funding/>
 

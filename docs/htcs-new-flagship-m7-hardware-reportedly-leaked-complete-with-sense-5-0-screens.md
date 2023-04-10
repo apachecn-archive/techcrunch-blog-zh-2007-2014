@@ -1,4 +1,4 @@
-# 据报道，HTC 新旗舰 M7 硬件泄露，配有 Sense 5.0 屏幕 TechCrunch
+# 据报道，HTC 新旗舰 M7 硬件泄露，配有 Sense 5.0 屏幕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/21/htcs-new-flagship-m7-hardware-reportedly-leaked-complete-with-sense-5-0-screens/>
 

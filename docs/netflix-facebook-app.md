@@ -1,4 +1,4 @@
-# “观看”脸书新闻报道能拯救网飞吗？TechCrunch
+# “观看”脸书新闻报道能拯救网飞吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/29/netflix-facebook-app/>
 

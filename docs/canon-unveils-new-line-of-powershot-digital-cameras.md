@@ -1,4 +1,4 @@
-# 佳能推出新系列 PowerShot 数码相机 TechCrunch
+# 佳能推出新系列 PowerShot 数码相机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/canon-unveils-new-line-of-powershot-digital-cameras/>
 

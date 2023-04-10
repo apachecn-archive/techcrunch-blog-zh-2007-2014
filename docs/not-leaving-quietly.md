@@ -1,4 +1,4 @@
-# 是的，我当然会辞职，除非迈克·阿灵顿选择他的继任者 TechCrunch
+# 是的，我当然会辞职，除非迈克·阿灵顿选择他的继任者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/08/not-leaving-quietly/>
 

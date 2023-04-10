@@ -1,4 +1,4 @@
-# Pulse 将成为 LinkedIn 的一站式内容商店，使用 LinkedIn 个人资料登录管理内容 TechCrunch
+# Pulse 将成为 LinkedIn 的一站式内容商店，使用 LinkedIn 个人资料登录管理内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/pulse-will-become-a-one-stop-content-shop-for-linkedin-using-linkedin-profile-logins-to-serve-content-curated-for-your-profession/>
 

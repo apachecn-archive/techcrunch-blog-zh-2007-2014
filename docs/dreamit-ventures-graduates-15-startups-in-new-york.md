@@ -1,4 +1,4 @@
-# DreamIt Ventures 毕业于纽约 15 家初创公司 TechCrunch
+# DreamIt Ventures 毕业于纽约 15 家初创公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/dreamit-ventures-graduates-15-startups-in-new-york/>
 

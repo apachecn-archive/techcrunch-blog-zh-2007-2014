@@ -1,4 +1,4 @@
-# 甲骨文收购网络内容管理公司 fat wire Software TechCrunch
+# 甲骨文收购网络内容管理公司 fat wire Software 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/21/oracle-buys-web-content-management-company-fatwire-software/>
 

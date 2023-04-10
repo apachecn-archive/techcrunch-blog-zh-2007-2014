@@ -1,4 +1,4 @@
-# Jive 以 3000 万美元收购微软 Office 协作插件 OffiSync TechCrunch
+# Jive 以 3000 万美元收购微软 Office 协作插件 OffiSync 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/23/jive-buys-microsoft-office-collaboration-plugin-offisync-for-up-to-30-million/>
 

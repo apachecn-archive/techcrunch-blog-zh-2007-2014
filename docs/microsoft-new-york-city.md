@@ -1,4 +1,4 @@
-# 微软将纽约市置于云端 TechCrunch
+# 微软将纽约市置于云端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/microsoft-new-york-city/>
 

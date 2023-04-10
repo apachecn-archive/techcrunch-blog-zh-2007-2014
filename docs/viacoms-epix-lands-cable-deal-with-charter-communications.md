@@ -1,4 +1,4 @@
-# 维亚康姆在 EPIX 与 Charter Communications 达成有线电视交易 TechCrunch
+# 维亚康姆在 EPIX 与 Charter Communications 达成有线电视交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/04/viacoms-epix-lands-cable-deal-with-charter-communications/>
 

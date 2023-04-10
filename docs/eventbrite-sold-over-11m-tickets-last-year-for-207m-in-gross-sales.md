@@ -1,4 +1,4 @@
-# Eventbrite 去年售出超过 1100 万张门票，总销售额达 2.07 亿美元 TechCrunch
+# Eventbrite 去年售出超过 1100 万张门票，总销售额达 2.07 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/eventbrite-sold-over-11m-tickets-last-year-for-207m-in-gross-sales/>
 

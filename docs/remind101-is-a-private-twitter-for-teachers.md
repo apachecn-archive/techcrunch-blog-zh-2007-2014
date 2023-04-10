@@ -1,4 +1,4 @@
-# Remind101 是教师的私人 Twitter TechCrunch
+# Remind101 是教师的私人 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/remind101-is-a-private-twitter-for-teachers/>
 

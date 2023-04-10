@@ -1,4 +1,4 @@
-# 2011 年空气污染指数趋势:政府空气污染指数五倍；脸书、谷歌、Twitter 最受欢迎 TechCrunch
+# 2011 年空气污染指数趋势:政府空气污染指数五倍；脸书、谷歌、Twitter 最受欢迎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/10/2011-api-trends-government-apis-quintuple-facebook-google-twitter-most-popular/>
 

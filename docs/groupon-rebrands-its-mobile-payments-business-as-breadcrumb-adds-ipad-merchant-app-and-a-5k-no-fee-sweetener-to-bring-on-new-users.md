@@ -1,4 +1,4 @@
-# Groupon 将移动支付业务更名为 Breadcrumb，增加了 iPad 商业应用程序和 5000 美元的免费交易，以吸引新用户 TechCrunch
+# Groupon 将移动支付业务更名为 Breadcrumb，增加了 iPad 商业应用程序和 5000 美元的免费交易，以吸引新用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/14/groupon-rebrands-its-mobile-payments-business-as-breadcrumb-adds-ipad-merchant-app-and-a-5k-no-fee-sweetener-to-bring-on-new-users/>
 

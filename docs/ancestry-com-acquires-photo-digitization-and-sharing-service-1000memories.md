@@ -1,4 +1,4 @@
-# Ancestry.com 收购照片数字化和共享服务 1000 memories TechCrunch
+# Ancestry.com 收购照片数字化和共享服务 1000 memories 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/03/ancestry-com-acquires-photo-digitization-and-sharing-service-1000memories/>
 

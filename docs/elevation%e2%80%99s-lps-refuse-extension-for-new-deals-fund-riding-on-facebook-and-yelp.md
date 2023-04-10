@@ -1,4 +1,4 @@
-# Elevation 的有限合伙人拒绝延长新交易，资金依赖于脸书和 Yelp TechCrunch
+# Elevation 的有限合伙人拒绝延长新交易，资金依赖于脸书和 Yelp 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/elevation%e2%80%99s-lps-refuse-extension-for-new-deals-fund-riding-on-facebook-and-yelp/>
 

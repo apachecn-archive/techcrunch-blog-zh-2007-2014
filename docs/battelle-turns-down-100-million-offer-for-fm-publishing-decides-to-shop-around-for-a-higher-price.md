@@ -1,4 +1,4 @@
-# 巴特尔拒绝了 FM 出版公司 1 亿美元的报价。决定货比三家，寻找更高的价格。TechCrunch
+# 巴特尔拒绝了 FM 出版公司 1 亿美元的报价。决定货比三家，寻找更高的价格。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/24/battelle-turns-down-100-million-offer-for-fm-publishing-decides-to-shop-around-for-a-higher-price/>
 

@@ -1,4 +1,4 @@
-# AOL 将脸书聊天整合到 AIM TechCrunch
+# AOL 将脸书聊天整合到 AIM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/aol-aim-facebook-chat/>
 

@@ -1,4 +1,4 @@
-# Evernote、Adly、CloudFlare、Graphic.ly 等公司的首席执行官加入 Advise.me 团队 TechCrunch
+# Evernote、Adly、CloudFlare、Graphic.ly 等公司的首席执行官加入 Advise.me 团队 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/ceos-from-evernote-adly-cloudflare-graphic-ly-more-join-advise-me-team/>
 

@@ -1,4 +1,4 @@
-# YC 纽约:保罗·格拉厄姆分享创业毒药的解毒剂 TechCrunch
+# YC 纽约:保罗·格拉厄姆分享创业毒药的解毒剂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/yc-nyc-paul-graham-shares-the-antidote-to-startup-poison/>
 

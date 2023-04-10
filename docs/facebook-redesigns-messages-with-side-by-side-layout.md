@@ -1,4 +1,4 @@
-# 脸书用并排布局重新设计信息 TechCrunch
+# 脸书用并排布局重新设计信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/22/facebook-redesigns-messages-with-side-by-side-layout/>
 

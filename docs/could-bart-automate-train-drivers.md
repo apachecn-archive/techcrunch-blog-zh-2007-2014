@@ -1,4 +1,4 @@
-# 旧金山能让威胁罢工的 BART 工人自动化吗？TechCrunch
+# 旧金山能让威胁罢工的 BART 工人自动化吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/17/could-bart-automate-train-drivers/>
 

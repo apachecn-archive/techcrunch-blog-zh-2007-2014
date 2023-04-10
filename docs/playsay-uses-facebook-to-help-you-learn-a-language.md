@@ -1,4 +1,4 @@
-# PlaySay 使用脸书帮助你学习语言 TechCrunch
+# PlaySay 使用脸书帮助你学习语言 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/playsay-uses-facebook-to-help-you-learn-a-language/>
 

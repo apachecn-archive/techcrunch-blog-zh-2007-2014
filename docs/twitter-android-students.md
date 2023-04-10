@@ -1,4 +1,4 @@
-# Twitter 抓住了谷歌的主要 Android 传播者。下一个目标:学生 TechCrunch
+# Twitter 抓住了谷歌的主要 Android 传播者。下一个目标:学生 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/23/twitter-android-students/>
 

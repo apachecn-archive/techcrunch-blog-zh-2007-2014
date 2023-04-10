@@ -1,4 +1,4 @@
-# Robocoin 进一步扩展其比特币自动取款机 TechCrunch
+# Robocoin 进一步扩展其比特币自动取款机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/robocoin-spreads/>
 

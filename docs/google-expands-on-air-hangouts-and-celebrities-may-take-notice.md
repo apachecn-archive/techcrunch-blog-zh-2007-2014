@@ -1,4 +1,4 @@
-# Google+扩大了“直播”的范围——名人可能会注意到 TechCrunch
+# Google+扩大了“直播”的范围——名人可能会注意到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/google-expands-on-air-hangouts-and-celebrities-may-take-notice/>
 

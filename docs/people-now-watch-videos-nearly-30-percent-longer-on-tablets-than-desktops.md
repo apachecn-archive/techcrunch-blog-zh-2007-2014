@@ -1,4 +1,4 @@
-# 现在，人们在平板电脑上观看视频的时间比在台式机上长近 30% TechCrunch
+# 现在，人们在平板电脑上观看视频的时间比在台式机上长近 30% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/12/people-now-watch-videos-nearly-30-percent-longer-on-tablets-than-desktops/>
 

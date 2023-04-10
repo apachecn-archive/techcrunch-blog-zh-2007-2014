@@ -1,4 +1,4 @@
-# Border 破产后，Kobo 会怎么样？TechCrunch
+# Border 破产后，Kobo 会怎么样？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/16/whats-going-to-happen-with-the-kobo-after-borders-bankruptcy/>
 

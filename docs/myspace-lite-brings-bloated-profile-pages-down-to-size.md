@@ -1,4 +1,4 @@
-# MySpace“精简版”缩小了臃肿的个人资料页面 TechCrunch
+# MySpace“精简版”缩小了臃肿的个人资料页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/13/myspace-lite-brings-bloated-profile-pages-down-to-size/>
 

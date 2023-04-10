@@ -1,4 +1,4 @@
-# 谷歌翻译变得更加国际化，增加了 9 种语言 TechCrunch
+# 谷歌翻译变得更加国际化，增加了 9 种语言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/31/google-translate-gets-more-worldly-adds-nine-languages/>
 

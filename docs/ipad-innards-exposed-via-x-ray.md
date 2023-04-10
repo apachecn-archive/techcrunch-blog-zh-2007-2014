@@ -1,4 +1,4 @@
-# 通过 x 光曝光的 iPad 内部零件 TechCrunch
+# 通过 x 光曝光的 iPad 内部零件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/22/ipad-innards-exposed-via-x-ray/>
 

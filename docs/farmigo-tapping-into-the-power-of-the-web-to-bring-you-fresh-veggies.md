@@ -1,4 +1,4 @@
-# Farmigo:利用网络的力量为你带来新鲜蔬菜 TechCrunch
+# Farmigo:利用网络的力量为你带来新鲜蔬菜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/farmigo-tapping-into-the-power-of-the-web-to-bring-you-fresh-veggies/>
 

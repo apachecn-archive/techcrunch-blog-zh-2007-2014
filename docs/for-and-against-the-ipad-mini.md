@@ -1,4 +1,4 @@
-# 支持和反对 iPad Mini TechCrunch
+# 支持和反对 iPad Mini 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/10/for-and-against-the-ipad-mini/>
 

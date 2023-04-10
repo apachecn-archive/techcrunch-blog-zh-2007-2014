@@ -1,4 +1,4 @@
-# 三星和谷歌宣布冰淇淋三明治活动:10 月 19 日，香港 TechCrunch
+# 三星和谷歌宣布冰淇淋三明治活动:10 月 19 日，香港 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/samsung-google-announce-ice-cream-sandwich-event-october-19-in-hong-kong/>
 

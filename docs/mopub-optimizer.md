@@ -1,4 +1,4 @@
-# MoPub 的优化器允许移动出版商自动优先考虑他们最有利可图的广告网络 TechCrunch
+# MoPub 的优化器允许移动出版商自动优先考虑他们最有利可图的广告网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/30/mopub-optimizer/>
 

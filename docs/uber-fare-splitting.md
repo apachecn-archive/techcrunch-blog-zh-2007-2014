@@ -1,4 +1,4 @@
-# 优步变得更加实惠，多乘客乘车费用分摊 TechCrunch
+# 优步变得更加实惠，多乘客乘车费用分摊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/15/uber-fare-splitting/>
 

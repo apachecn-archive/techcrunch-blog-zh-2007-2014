@@ -1,4 +1,4 @@
-# 新的众包发布:AskYourUsers.com 使用 LinkedIn 帮助你为微型咨询项目找到人 TechCrunch
+# 新的众包发布:AskYourUsers.com 使用 LinkedIn 帮助你为微型咨询项目找到人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/19/new-crowdsourcing-launch-askyourusers-com-uses-linkedin-to-help-you-find-people-for-microconsulting-projects/>
 

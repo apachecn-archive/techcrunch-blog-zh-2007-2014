@@ -1,4 +1,4 @@
-# 在您的移动设备上学习普通话——TechCrunch
+# 在您的移动设备上学习普通话——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/learn-mandarin-on-your-mobile-device/>
 

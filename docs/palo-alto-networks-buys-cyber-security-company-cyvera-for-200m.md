@@ -1,4 +1,4 @@
-# 帕洛阿尔托网络公司以 2 亿美元收购网络安全公司 cy vera TechCrunch
+# 帕洛阿尔托网络公司以 2 亿美元收购网络安全公司 cy vera 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/24/palo-alto-networks-buys-cyber-security-company-cyvera-for-200m/>
 

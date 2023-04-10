@@ -1,4 +1,4 @@
-# 安迪·鲁宾否认计划离开谷歌，声称每天有 90 万台 Android 设备激活 TechCrunch
+# 安迪·鲁宾否认计划离开谷歌，声称每天有 90 万台 Android 设备激活 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/10/andy-rubin-900k-android-devices/>
 

@@ -1,4 +1,4 @@
-# 独家报道:震颤媒体收购移动视频广告平台 trans pera TechCrunch
+# 独家报道:震颤媒体收购移动视频广告平台 trans pera 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/exclusive-tremor-media-acquires-mobile-video-ad-platform-transpera/>
 

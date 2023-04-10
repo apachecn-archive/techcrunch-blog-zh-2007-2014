@@ -1,4 +1,4 @@
-# Twitter 失去首席科学家 Summize 联合创始人 Abdur Chowdhury TechCrunch
+# Twitter 失去首席科学家 Summize 联合创始人 Abdur Chowdhury 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/abdur-chowdhury-twitter/>
 

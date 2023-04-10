@@ -1,4 +1,4 @@
-# 为什么 OFT 和 FTC 让脸书收购 Instagram: FB 相机很小，IG 不赚钱，Google TechCrunch
+# 为什么 OFT 和 FTC 让脸书收购 Instagram: FB 相机很小，IG 不赚钱，Google 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/22/ftc-facebook-instagram/>
 

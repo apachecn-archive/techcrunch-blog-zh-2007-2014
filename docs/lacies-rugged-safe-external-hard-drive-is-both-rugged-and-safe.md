@@ -1,4 +1,4 @@
-# LaCie 坚固安全的外置硬盘既坚固又安全 TechCrunch
+# LaCie 坚固安全的外置硬盘既坚固又安全 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/26/lacies-rugged-safe-external-hard-drive-is-both-rugged-and-safe/>
 

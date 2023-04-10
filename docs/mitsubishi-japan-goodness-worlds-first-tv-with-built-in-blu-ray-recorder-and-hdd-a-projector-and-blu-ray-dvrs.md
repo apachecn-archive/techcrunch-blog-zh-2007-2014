@@ -1,4 +1,4 @@
-# 三菱日本 good:全球首款内置蓝光录像机和硬盘、投影仪和蓝光 DVR 的电视 TechCrunch
+# 三菱日本 good:全球首款内置蓝光录像机和硬盘、投影仪和蓝光 DVR 的电视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/mitsubishi-japan-goodness-worlds-first-tv-with-built-in-blu-ray-recorder-and-hdd-a-projector-and-blu-ray-dvrs/>
 

@@ -1,4 +1,4 @@
-# 本·哈问:“我能黑掉 Reddit 吗？”(提议从康泰纳仕购买)TechCrunch
+# 本·哈问:“我能黑掉 Reddit 吗？”(提议从康泰纳仕购买)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/27/reddit-conde-nast-cheezburger/>
 

@@ -1,4 +1,4 @@
-# 索尼推出六款内置硬盘的兼容 BDXL 的 3D 蓝光刻录机 TechCrunch
+# 索尼推出六款内置硬盘的兼容 BDXL 的 3D 蓝光刻录机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/26/sony-outs-six-bdxl-compatible-3d-blu-ray-recorders-with-built-in-hdd/>
 

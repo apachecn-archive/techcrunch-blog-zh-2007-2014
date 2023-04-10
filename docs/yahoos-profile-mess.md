@@ -1,4 +1,4 @@
-# 雅虎档案一团糟 TechCrunch
+# 雅虎档案一团糟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/18/yahoos-profile-mess/>
 

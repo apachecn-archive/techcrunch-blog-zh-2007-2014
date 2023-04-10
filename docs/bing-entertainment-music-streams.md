@@ -1,4 +1,4 @@
-# Bing Entertainment 为搜索带来完整的音乐流，以及游戏、电影和电视节目 TechCrunch
+# Bing Entertainment 为搜索带来完整的音乐流，以及游戏、电影和电视节目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/22/bing-entertainment-music-streams/>
 

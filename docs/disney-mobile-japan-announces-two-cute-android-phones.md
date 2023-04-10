@@ -1,4 +1,4 @@
-# 迪士尼移动日本公司发布两款(可爱的)安卓手机 TechCrunch
+# 迪士尼移动日本公司发布两款(可爱的)安卓手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/30/disney-mobile-japan-announces-two-cute-android-phones/>
 

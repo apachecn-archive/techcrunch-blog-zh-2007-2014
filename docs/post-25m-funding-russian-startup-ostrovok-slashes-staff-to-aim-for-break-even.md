@@ -1,4 +1,4 @@
-# 获得 2500 万美元资金后，俄罗斯初创公司 Ostrovok 裁员，以实现收支平衡 TechCrunch
+# 获得 2500 万美元资金后，俄罗斯初创公司 Ostrovok 裁员，以实现收支平衡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/17/post-25m-funding-russian-startup-ostrovok-slashes-staff-to-aim-for-break-even/>
 

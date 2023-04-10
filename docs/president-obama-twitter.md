@@ -1,4 +1,4 @@
-# 奥巴马总统承认他从未使用过 Twitter，但他认为中国人应该可以使用 TechCrunch
+# 奥巴马总统承认他从未使用过 Twitter，但他认为中国人应该可以使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/15/president-obama-twitter/>
 

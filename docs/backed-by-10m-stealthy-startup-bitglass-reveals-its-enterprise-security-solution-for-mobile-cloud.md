@@ -1,4 +1,4 @@
-# 在 1000 万美元的支持下，隐秘的初创公司 Bitglass 展示了其面向移动和云的企业安全解决方案 TechCrunch
+# 在 1000 万美元的支持下，隐秘的初创公司 Bitglass 展示了其面向移动和云的企业安全解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/backed-by-10m-stealthy-startup-bitglass-reveals-its-enterprise-security-solution-for-mobile-cloud/>
 

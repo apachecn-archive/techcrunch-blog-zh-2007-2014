@@ -1,4 +1,4 @@
-# Digital Folio 筹集 120 万美元帮助消费者创建智能购物清单 TechCrunch
+# Digital Folio 筹集 120 万美元帮助消费者创建智能购物清单 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/digital-folio-raises-1-2-million-to-help-consumers-create-intelligent-shopping-lists/>
 

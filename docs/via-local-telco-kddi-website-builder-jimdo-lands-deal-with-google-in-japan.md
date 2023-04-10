@@ -1,4 +1,4 @@
-# 通过当地电信公司 KDDI:网站建设商 Jimdo 与谷歌在日本达成交易 TechCrunch
+# 通过当地电信公司 KDDI:网站建设商 Jimdo 与谷歌在日本达成交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/via-local-telco-kddi-website-builder-jimdo-lands-deal-with-google-in-japan/>
 

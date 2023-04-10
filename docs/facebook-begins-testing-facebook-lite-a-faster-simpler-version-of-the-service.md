@@ -1,4 +1,4 @@
-# 脸书开始测试脸书 Lite，一个更快更简单的服务版本 TechCrunch
+# 脸书开始测试脸书 Lite，一个更快更简单的服务版本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/facebook-begins-testing-facebook-lite-a-faster-simpler-version-of-the-service/>
 

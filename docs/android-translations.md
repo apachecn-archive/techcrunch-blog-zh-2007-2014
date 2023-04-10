@@ -1,4 +1,4 @@
-# 难以置信！谷歌将你的安卓手机变成即时对话解释器 TechCrunch
+# 难以置信！谷歌将你的安卓手机变成即时对话解释器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/12/android-translations/>
 

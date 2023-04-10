@@ -1,4 +1,4 @@
-# 突发:微软撤回雅虎出价；放弃交易(更新)TechCrunch
+# 突发:微软撤回雅虎出价；放弃交易(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/03/breaking-microsoft-walks/>
 

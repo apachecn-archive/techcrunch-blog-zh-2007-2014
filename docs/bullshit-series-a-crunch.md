@@ -1,4 +1,4 @@
-# 称该系列的废话为 Crunch TechCrunch
+# 称该系列的废话为 Crunch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/bullshit-series-a-crunch/>
 

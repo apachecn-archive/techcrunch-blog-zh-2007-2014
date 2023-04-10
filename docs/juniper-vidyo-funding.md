@@ -1,4 +1,4 @@
-# Juniper Networks 投资视频会议初创公司 Vidyo，总投资额达到约 1 亿美元 TechCrunch
+# Juniper Networks 投资视频会议初创公司 Vidyo，总投资额达到约 1 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/22/juniper-vidyo-funding/>
 

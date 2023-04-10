@@ -1,4 +1,4 @@
-# 博客推荐初创公司 Outbrain 融资 500 万美元 TechCrunch
+# 博客推荐初创公司 Outbrain 融资 500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/25/blog-recommendation-startup-outbrain-raises-5-million/>
 

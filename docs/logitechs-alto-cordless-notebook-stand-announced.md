@@ -1,4 +1,4 @@
-# 罗技发布 Alto 无绳笔记本支架 TechCrunch
+# 罗技发布 Alto 无绳笔记本支架 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/logitechs-alto-cordless-notebook-stand-announced/>
 

@@ -1,4 +1,4 @@
-# 报告:苹果将超极本供应短缺归咎于 TechCrunch
+# 报告:苹果将超极本供应短缺归咎于 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/ignore-apple-and-launch-the-ultrabooks-already/>
 

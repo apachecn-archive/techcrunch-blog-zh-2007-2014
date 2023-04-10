@@ -1,4 +1,4 @@
-# Kabooza 获得 84 万美元启动另一项在线备份服务 TechCrunch
+# Kabooza 获得 84 万美元启动另一项在线备份服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/03/kabooza-gets-840000-to-jumpstart-yet-another-online-backup-service/>
 

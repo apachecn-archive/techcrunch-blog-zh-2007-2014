@@ -1,4 +1,4 @@
-# Twitter 确认并详细介绍了新的“发现引擎”TechCrunch
+# Twitter 确认并详细介绍了新的“发现引擎”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/02/twitter-confirms-and-details-new-discovery-engine/>
 

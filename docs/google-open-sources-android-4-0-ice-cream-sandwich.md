@@ -1,4 +1,4 @@
-# 谷歌开源安卓 4.0，冰激凌三明治 TechCrunch
+# 谷歌开源安卓 4.0，冰激凌三明治 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/google-open-sources-android-4-0-ice-cream-sandwich/>
 

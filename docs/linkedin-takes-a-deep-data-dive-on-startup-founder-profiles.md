@@ -1,4 +1,4 @@
-# LinkedIn 对初创公司创始人档案进行了深度数据挖掘 TechCrunch
+# LinkedIn 对初创公司创始人档案进行了深度数据挖掘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/01/linkedin-takes-a-deep-data-dive-on-startup-founder-profiles/>
 

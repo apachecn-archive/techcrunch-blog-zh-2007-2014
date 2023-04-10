@@ -1,4 +1,4 @@
-# MySpace 已经建立了自己的推荐引擎，他们正在开源它 TechCrunch
+# MySpace 已经建立了自己的推荐引擎，他们正在开源它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/myspace-has-built-its-own-recommendation-engine-and-theyre-open-sourcing-it/>
 

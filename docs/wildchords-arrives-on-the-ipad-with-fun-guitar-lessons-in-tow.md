@@ -1,4 +1,4 @@
-# WildChords 随有趣的吉他课程一同登陆 iPad TechCrunch
+# WildChords 随有趣的吉他课程一同登陆 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/wildchords-arrives-on-the-ipad-with-fun-guitar-lessons-in-tow/>
 

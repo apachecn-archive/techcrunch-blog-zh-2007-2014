@@ -1,4 +1,4 @@
-# 谷歌风投的陈德伟辞去普通合伙人一职，开始创业 TechCrunch
+# 谷歌风投的陈德伟辞去普通合伙人一职，开始创业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/google-ventures-wesley-chan-steps-down-as-general-partner-becomes-eir/>
 

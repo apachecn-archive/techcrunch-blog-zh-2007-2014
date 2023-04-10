@@ -1,4 +1,4 @@
-# RIM 的 BlackBerry World 电影下载首先登陆美国、英国和加拿大，无数字版权管理的音乐下载将进入 18 个市场 TechCrunch
+# RIM 的 BlackBerry World 电影下载首先登陆美国、英国和加拿大，无数字版权管理的音乐下载将进入 18 个市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/rims-blackberry-world-movie-downloads-landing-in-u-s-u-k-canada-first-drm-free-music-downloads-heading-to-18-markets/>
 

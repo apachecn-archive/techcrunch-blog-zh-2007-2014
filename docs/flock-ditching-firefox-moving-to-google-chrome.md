@@ -1,4 +1,4 @@
-# Flock 抛弃 Firefox，转向谷歌 Chrome TechCrunch
+# Flock 抛弃 Firefox，转向谷歌 Chrome 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/flock-ditching-firefox-moving-to-google-chrome/>
 

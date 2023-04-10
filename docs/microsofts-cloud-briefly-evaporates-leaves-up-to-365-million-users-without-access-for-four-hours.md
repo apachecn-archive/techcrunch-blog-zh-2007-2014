@@ -1,4 +1,4 @@
-# 微软的云短暂蒸发，让多达 3.65 亿用户无法访问长达四个小时 TechCrunch
+# 微软的云短暂蒸发，让多达 3.65 亿用户无法访问长达四个小时 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/microsofts-cloud-briefly-evaporates-leaves-up-to-365-million-users-without-access-for-four-hours/>
 

@@ -1,4 +1,4 @@
-# Hipmunk 整合谷歌日历，实现无冲突飞行 TechCrunch
+# Hipmunk 整合谷歌日历，实现无冲突飞行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/hipmunk-integrates-google-calendar-for-conflict-free-flying/>
 

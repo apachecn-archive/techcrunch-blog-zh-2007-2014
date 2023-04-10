@@ -1,4 +1,4 @@
-# 谷歌为所有人免费提供 iOS 和 Android 版 Quickoffice TechCrunch
+# 谷歌为所有人免费提供 iOS 和 Android 版 Quickoffice 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/19/google-makes-quickoffice-for-ios-and-android-free-for-everyone/>
 

@@ -1,4 +1,4 @@
-# Nexus One 是谷歌的梦想。载体是弗莱迪·克鲁格。TechCrunch
+# Nexus One 是谷歌的梦想。载体是弗莱迪·克鲁格。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/10/google-nexus-one/>
 

@@ -1,4 +1,4 @@
-# Popset 让集体照片分享变得简单，导出到脸书更容易 TechCrunch
+# Popset 让集体照片分享变得简单，导出到脸书更容易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/24/popset-makes-group-photo-sharing-easy-export-to-facebook-even-easier/>
 

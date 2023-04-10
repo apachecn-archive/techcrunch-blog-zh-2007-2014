@@ -1,4 +1,4 @@
-# 据报道，苹果更换电池供应商，三星走 TechCrunch
+# 据报道，苹果更换电池供应商，三星走 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/23/apple-reportedly-changes-battery-suppliers-as-samsung-walks/>
 

@@ -1,4 +1,4 @@
-# 三星将推出跨平台移动聊天服务 ChatON TechCrunch
+# 三星将推出跨平台移动聊天服务 ChatON 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/samsung-to-launch-chaton-for-cross-platform-mobile-chat-service/>
 

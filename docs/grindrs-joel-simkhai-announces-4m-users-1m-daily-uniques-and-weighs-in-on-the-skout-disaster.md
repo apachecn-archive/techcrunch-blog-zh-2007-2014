@@ -1,4 +1,4 @@
-# Grindr 的 Joel Simkhai 宣布拥有 400 万用户，100 万每日唯一用户，并参与了 Skout 灾难 TechCrunch
+# Grindr 的 Joel Simkhai 宣布拥有 400 万用户，100 万每日唯一用户，并参与了 Skout 灾难 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/17/grindrs-joel-simkhai-announces-4m-users-1m-daily-uniques-and-weighs-in-on-the-skout-disaster/>
 

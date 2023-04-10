@@ -1,4 +1,4 @@
-# 云平台初创公司 MorphLabs 融资 500 万美元 TechCrunch
+# 云平台初创公司 MorphLabs 融资 500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/cloud-platform-startup-morph-labs-raises-5-million/>
 

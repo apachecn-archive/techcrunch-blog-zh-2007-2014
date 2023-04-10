@@ -1,4 +1,4 @@
-# 愤怒的企业组织反 Yelp 网站。这是他们成功的明显标志。TechCrunch
+# 愤怒的企业组织反 Yelp 网站。这是他们成功的明显标志。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/02/angry-businesses-organize-anti-yelp-websites-this-is-a-sure-sign-of-their-success/>
 

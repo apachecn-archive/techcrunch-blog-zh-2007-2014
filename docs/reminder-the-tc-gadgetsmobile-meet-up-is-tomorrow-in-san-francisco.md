@@ -1,4 +1,4 @@
-# 提醒:TC Gadgets/Mobile 大会将于明天在旧金山举行 TechCrunch
+# 提醒:TC Gadgets/Mobile 大会将于明天在旧金山举行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/reminder-the-tc-gadgetsmobile-meet-up-is-tomorrow-in-san-francisco/>
 

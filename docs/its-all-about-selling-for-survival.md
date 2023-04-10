@@ -1,4 +1,4 @@
-# 这完全是为了生存而销售 TechCrunch
+# 这完全是为了生存而销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/12/12/its-all-about-selling-for-survival/>
 

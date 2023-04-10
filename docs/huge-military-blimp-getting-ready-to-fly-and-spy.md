@@ -1,4 +1,4 @@
-# 巨大的军用飞艇准备飞行和侦察 TechCrunch
+# 巨大的军用飞艇准备飞行和侦察 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/huge-military-blimp-getting-ready-to-fly-and-spy/>
 

@@ -1,4 +1,4 @@
-# Playstation Vita 的社交和在线模式官方详述 TechCrunch
+# Playstation Vita 的社交和在线模式官方详述 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/playstation-vitas-social-and-online-modes-officially-detailed/>
 

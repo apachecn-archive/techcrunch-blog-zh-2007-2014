@@ -1,4 +1,4 @@
-# 这份日报是给谁的？TechCrunch
+# 这份日报是给谁的？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/02/who-is-the-daily-for/>
 

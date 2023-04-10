@@ -1,4 +1,4 @@
-# 谷歌，请雇佣这个家伙 TechCrunch
+# 谷歌，请雇佣这个家伙 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/google-please-hire-matthew-epstein/>
 

@@ -1,4 +1,4 @@
-# Mixin 点击 dead pool——除非有人想买社交日历应用？TechCrunch
+# Mixin 点击 dead pool——除非有人想买社交日历应用？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/01/mixin-hits-the-deadpool-unless-anyone-wants-to-buy-the-social-calendar-app/>
 

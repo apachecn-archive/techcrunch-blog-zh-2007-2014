@@ -1,4 +1,4 @@
-# 视频:Pacemaker Pocket DJ 正在运行 TechCrunch
+# 视频:Pacemaker Pocket DJ 正在运行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/video-pacemaker-pocket-dj-in-action/>
 

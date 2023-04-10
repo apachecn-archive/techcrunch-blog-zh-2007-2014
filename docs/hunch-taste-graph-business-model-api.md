@@ -1,4 +1,4 @@
-# Hunch 通过 API 导出味道图，商业模式浮出水面 TechCrunch
+# Hunch 通过 API 导出味道图，商业模式浮出水面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/15/hunch-taste-graph-business-model-api/>
 

@@ -1,4 +1,4 @@
-# 网飞收紧每个账户并发视频流的数量-更新 TechCrunch
+# 网飞收紧每个账户并发视频流的数量-更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/netflix-will-soon-be-the-next-comcast/>
 

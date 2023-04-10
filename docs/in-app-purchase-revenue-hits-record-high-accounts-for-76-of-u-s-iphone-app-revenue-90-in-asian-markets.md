@@ -1,4 +1,4 @@
-# 应用内购买收入创历史新高:占美国 iPhone 应用收入的 76%，亚洲市场的 90% TechCrunch
+# 应用内购买收入创历史新高:占美国 iPhone 应用收入的 76%，亚洲市场的 90% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/28/in-app-purchase-revenue-hits-record-high-accounts-for-76-of-u-s-iphone-app-revenue-90-in-asian-markets/>
 

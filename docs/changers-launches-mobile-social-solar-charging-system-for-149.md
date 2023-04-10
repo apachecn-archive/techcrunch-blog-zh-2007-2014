@@ -1,4 +1,4 @@
-# Changers 推出售价 149 美元的移动社交太阳能充电系统 TechCrunch
+# Changers 推出售价 149 美元的移动社交太阳能充电系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/changers-launches-mobile-social-solar-charging-system-for-149/>
 

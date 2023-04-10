@@ -1,4 +1,4 @@
-# Google Ad Planner 向所有人开放新功能 TechCrunch
+# Google Ad Planner 向所有人开放新功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/11/google-ad-planner-opens-up-to-everyone-with-fresh-features/>
 

@@ -1,4 +1,4 @@
-# 日本获得 8 款新手机:KDDI 的整个冬季阵容 TechCrunch
+# 日本获得 8 款新手机:KDDI 的整个冬季阵容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/japan-gets-8-new-cell-phones-kddis-entire-winter-line-up/>
 

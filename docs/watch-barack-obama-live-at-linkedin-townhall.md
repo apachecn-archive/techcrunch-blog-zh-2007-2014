@@ -1,4 +1,4 @@
-# 观看巴拉克·奥巴马在 LinkedIn 市政厅的直播 TechCrunch
+# 观看巴拉克·奥巴马在 LinkedIn 市政厅的直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/watch-barack-obama-live-at-linkedin-townhall/>
 

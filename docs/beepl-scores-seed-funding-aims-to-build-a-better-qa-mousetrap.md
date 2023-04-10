@@ -1,4 +1,4 @@
-# Beepl 获得种子基金，旨在打造更好的问答捕鼠器 TechCrunch
+# Beepl 获得种子基金，旨在打造更好的问答捕鼠器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/beepl-scores-seed-funding-aims-to-build-a-better-qa-mousetrap/>
 

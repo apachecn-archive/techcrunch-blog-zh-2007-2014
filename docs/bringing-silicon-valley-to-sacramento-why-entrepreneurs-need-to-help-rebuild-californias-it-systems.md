@@ -1,4 +1,4 @@
-# 将硅谷带到萨克拉门托:为什么企业家需要帮助重建加州的 IT 系统 TechCrunch
+# 将硅谷带到萨克拉门托:为什么企业家需要帮助重建加州的 IT 系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/24/bringing-silicon-valley-to-sacramento-why-entrepreneurs-need-to-help-rebuild-californias-it-systems/>
 

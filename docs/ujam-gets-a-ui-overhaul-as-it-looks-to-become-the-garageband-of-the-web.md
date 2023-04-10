@@ -1,4 +1,4 @@
-# UJAM 进行了一次用户界面改造，看起来它将成为网络的 GarageBand TechCrunch
+# UJAM 进行了一次用户界面改造，看起来它将成为网络的 GarageBand 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/ujam-gets-a-ui-overhaul-as-it-looks-to-become-the-garageband-of-the-web/>
 

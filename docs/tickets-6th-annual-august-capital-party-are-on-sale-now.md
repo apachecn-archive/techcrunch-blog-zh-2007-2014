@@ -1,4 +1,4 @@
-# 我们第六届年度八月资本派对的下一批门票现已发售 TechCrunch
+# 我们第六届年度八月资本派对的下一批门票现已发售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/tickets-6th-annual-august-capital-party-are-on-sale-now/>
 

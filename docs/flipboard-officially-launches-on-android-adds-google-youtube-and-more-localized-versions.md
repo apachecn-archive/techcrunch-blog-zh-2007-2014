@@ -1,4 +1,4 @@
-# Flipboard 在 Android 上正式推出，增加了 Google+、YouTube 和更多本地化版本 TechCrunch
+# Flipboard 在 Android 上正式推出，增加了 Google+、YouTube 和更多本地化版本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/21/flipboard-officially-launches-on-android-adds-google-youtube-and-more-localized-versions/>
 

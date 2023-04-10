@@ -1,4 +1,4 @@
-# 作为一家上市公司，LinkedIn 第一季度表现出色；收入增长 120%，达到 1.21 亿美元 TechCrunch
+# 作为一家上市公司，LinkedIn 第一季度表现出色；收入增长 120%，达到 1.21 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/linkedin-beats-the-street-in-first-quarter-as-a-public-company-revenue-up-120-percent-to-121m/>
 

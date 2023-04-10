@@ -1,4 +1,4 @@
-# 要么出货，要么下锅 TechCrunch
+# 要么出货，要么下锅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/13/ship-or-get-off-the-pot/>
 

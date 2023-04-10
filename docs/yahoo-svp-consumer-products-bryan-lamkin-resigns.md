@@ -1,4 +1,4 @@
-# 雅虎 SVP 消费产品布莱恩拉姆金辞职 TechCrunch
+# 雅虎 SVP 消费产品布莱恩拉姆金辞职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/29/yahoo-svp-consumer-products-bryan-lamkin-resigns/>
 

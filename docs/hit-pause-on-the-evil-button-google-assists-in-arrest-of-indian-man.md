@@ -1,4 +1,4 @@
-# 点击邪恶按钮暂停:谷歌协助逮捕印度男子 TechCrunch
+# 点击邪恶按钮暂停:谷歌协助逮捕印度男子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/18/hit-pause-on-the-evil-button-google-assists-in-arrest-of-indian-man/>
 

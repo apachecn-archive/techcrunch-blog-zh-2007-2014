@@ -1,4 +1,4 @@
-# Appiterate 从 SAIF 合伙人那里筹集种子资金，加入越来越多的 A/B 测试初创公司 TechCrunch
+# Appiterate 从 SAIF 合伙人那里筹集种子资金，加入越来越多的 A/B 测试初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/appiterate-raises-seed-funding-from-saif-partners-joins-growing-list-of-ab-testing-startups/>
 

@@ -1,4 +1,4 @@
-# 新兴城镇:自 2012 年初以来，旧金山的科技工作岗位增加了三分之一 TechCrunch
+# 新兴城镇:自 2012 年初以来，旧金山的科技工作岗位增加了三分之一 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/27/san-francisco-tech-job-data/>
 

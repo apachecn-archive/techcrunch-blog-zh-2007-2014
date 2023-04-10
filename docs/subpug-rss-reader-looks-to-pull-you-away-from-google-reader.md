@@ -1,4 +1,4 @@
-# Subpug RSS 阅读器看起来会让你远离谷歌阅读器 TechCrunch
+# Subpug RSS 阅读器看起来会让你远离谷歌阅读器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/28/subpug-rss-reader-looks-to-pull-you-away-from-google-reader/>
 

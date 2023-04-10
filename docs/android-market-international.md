@@ -1,4 +1,4 @@
-# 重大新闻:谷歌开始在更多国家推出付费安卓应用支持 TechCrunch
+# 重大新闻:谷歌开始在更多国家推出付费安卓应用支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/27/android-market-international/>
 

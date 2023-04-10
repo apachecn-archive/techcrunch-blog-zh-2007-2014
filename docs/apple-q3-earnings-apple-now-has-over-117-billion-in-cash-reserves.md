@@ -1,4 +1,4 @@
-# 苹果第三季度收益:苹果现在拥有超过 1170 亿美元的现金储备 TechCrunch
+# 苹果第三季度收益:苹果现在拥有超过 1170 亿美元的现金储备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/07/24/apple-q3-earnings-apple-now-has-over-117-billion-in-cash-reserves/>
 

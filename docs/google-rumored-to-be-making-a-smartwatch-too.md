@@ -1,4 +1,4 @@
-# 传言谷歌也在生产智能手表 TechCrunch
+# 传言谷歌也在生产智能手表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/22/google-rumored-to-be-making-a-smartwatch-too/>
 

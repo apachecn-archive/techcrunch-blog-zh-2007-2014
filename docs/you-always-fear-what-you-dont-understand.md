@@ -1,4 +1,4 @@
-# 科技公司，你在用可怕的法律术语自杀。用通俗的语言讲述政策变化 TechCrunch
+# 科技公司，你在用可怕的法律术语自杀。用通俗的语言讲述政策变化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/you-always-fear-what-you-dont-understand/>
 

@@ -1,4 +1,4 @@
-# 柔性电池承诺更薄更轻的“可折叠”电子产品 TechCrunch
+# 柔性电池承诺更薄更轻的“可折叠”电子产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/06/flexible-batteries-promise-thinner-and-lighter-foldable-electronics/>
 

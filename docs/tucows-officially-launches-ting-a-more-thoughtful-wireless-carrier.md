@@ -1,4 +1,4 @@
-# Tucows 正式推出 Ting，这是一款更具创意的无线运营商 TechCrunch
+# Tucows 正式推出 Ting，这是一款更具创意的无线运营商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/02/tucows-officially-launches-ting-a-more-thoughtful-wireless-carrier/>
 

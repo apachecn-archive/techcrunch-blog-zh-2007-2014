@@ -1,4 +1,4 @@
-# Scribblenauts 于 9 月 15 日发布 TechCrunch
+# Scribblenauts 于 9 月 15 日发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/22/scribblenauts-launch-on-september-15/>
 

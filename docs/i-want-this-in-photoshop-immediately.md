@@ -1,4 +1,4 @@
-# 我想立刻在 Photoshop 中看到这个 TechCrunch
+# 我想立刻在 Photoshop 中看到这个 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/i-want-this-in-photoshop-immediately/>
 

@@ -1,4 +1,4 @@
-# 谷歌又更新了涂鸦；指向实时更新结果 TechCrunch
+# 谷歌又更新了涂鸦；指向实时更新结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/google-logo-update/>
 

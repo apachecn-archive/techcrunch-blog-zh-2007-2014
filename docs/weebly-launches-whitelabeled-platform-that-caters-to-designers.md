@@ -1,4 +1,4 @@
-# Weebly 推出迎合设计师的白标平台 TechCrunch
+# Weebly 推出迎合设计师的白标平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/weebly-launches-whitelabeled-platform-that-caters-to-designers/>
 

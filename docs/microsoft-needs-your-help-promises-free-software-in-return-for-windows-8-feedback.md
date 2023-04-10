@@ -1,4 +1,4 @@
-# 微软需要你的帮助:承诺免费软件以换取 Windows 8 反馈 TechCrunch
+# 微软需要你的帮助:承诺免费软件以换取 Windows 8 反馈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/13/microsoft-needs-your-help-promises-free-software-in-return-for-windows-8-feedback/>
 

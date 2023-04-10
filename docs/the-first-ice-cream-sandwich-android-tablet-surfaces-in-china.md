@@ -1,4 +1,4 @@
-# 中国首款冰淇淋三明治安卓平板电脑亮相 TechCrunch
+# 中国首款冰淇淋三明治安卓平板电脑亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/the-first-ice-cream-sandwich-android-tablet-surfaces-in-china/>
 

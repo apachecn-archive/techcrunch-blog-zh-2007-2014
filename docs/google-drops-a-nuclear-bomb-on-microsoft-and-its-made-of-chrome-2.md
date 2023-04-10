@@ -1,4 +1,4 @@
-# 谷歌向微软扔了一颗核弹。而且是铬合金做的。TechCrunch
+# 谷歌向微软扔了一颗核弹。而且是铬合金做的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/07/google-drops-a-nuclear-bomb-on-microsoft-and-its-made-of-chrome-2/>
 

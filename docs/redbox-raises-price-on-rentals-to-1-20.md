@@ -1,4 +1,4 @@
-# Redbox 将租赁价格提高至 1.20 美元 TechCrunch
+# Redbox 将租赁价格提高至 1.20 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/redbox-raises-price-on-rentals-to-1-20/>
 

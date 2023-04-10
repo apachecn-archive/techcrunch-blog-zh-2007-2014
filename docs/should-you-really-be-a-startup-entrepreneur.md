@@ -1,4 +1,4 @@
-# 真的应该做一个创业的创业者吗？TechCrunch
+# 真的应该做一个创业的创业者吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/30/should-you-really-be-a-startup-entrepreneur/>
 

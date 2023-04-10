@@ -1,4 +1,4 @@
-# Sharalike 自动将照片和视频转换成可共享的幻灯片 TechCrunch
+# Sharalike 自动将照片和视频转换成可共享的幻灯片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/sharalike-automatically-turns-photos-videos-into-shareable-slideshows/>
 

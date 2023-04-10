@@ -1,4 +1,4 @@
-# 随着面向企业的 Google+的公开亮相，谷歌进入了社交企业领域，2013 年免费 TechCrunch
+# 随着面向企业的 Google+的公开亮相，谷歌进入了社交企业领域，2013 年免费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/29/google-enters-the-social-enterprise-with-public-debut-of-google-for-businesses-free-through-2013/>
 

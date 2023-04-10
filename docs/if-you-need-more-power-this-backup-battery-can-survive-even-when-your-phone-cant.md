@@ -1,4 +1,4 @@
-# 如果您需要更多电量，这种备用电池甚至可以在您的手机无法使用时继续使用 TechCrunch
+# 如果您需要更多电量，这种备用电池甚至可以在您的手机无法使用时继续使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/21/if-you-need-more-power-this-backup-battery-can-survive-even-when-your-phone-cant/>
 

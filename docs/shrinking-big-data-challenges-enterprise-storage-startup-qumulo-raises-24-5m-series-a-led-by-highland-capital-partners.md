@@ -1,4 +1,4 @@
-# 不断缩小的大数据挑战:企业存储初创公司 Qumulo 获得由 Highland Capital Partners 领投的 2450 万美元 A 轮融资 TechCrunch
+# 不断缩小的大数据挑战:企业存储初创公司 Qumulo 获得由 Highland Capital Partners 领投的 2450 万美元 A 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/20/shrinking-big-data-challenges-enterprise-storage-startup-qumulo-raises-24-5m-series-a-led-by-highland-capital-partners/>
 

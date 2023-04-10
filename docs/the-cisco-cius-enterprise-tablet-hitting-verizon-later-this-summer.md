@@ -1,4 +1,4 @@
-# 思科 Cius 企业平板电脑将于今夏晚些时候登陆威瑞森 TechCrunch
+# 思科 Cius 企业平板电脑将于今夏晚些时候登陆威瑞森 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/the-cisco-cius-enterprise-tablet-hitting-verizon-later-this-summer/>
 

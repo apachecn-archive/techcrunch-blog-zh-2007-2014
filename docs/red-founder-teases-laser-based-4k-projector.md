@@ -1,4 +1,4 @@
-# RED 创始人调侃基于激光的 4K 投影仪 TechCrunch
+# RED 创始人调侃基于激光的 4K 投影仪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/red-founder-teases-laser-based-4k-projector/>
 

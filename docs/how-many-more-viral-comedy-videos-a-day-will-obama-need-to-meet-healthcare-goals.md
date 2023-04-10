@@ -1,4 +1,4 @@
-# 为了实现医疗保健目标，奥巴马每天还需要多少病毒式喜剧视频？TechCrunch
+# 为了实现医疗保健目标，奥巴马每天还需要多少病毒式喜剧视频？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/16/how-many-more-viral-comedy-videos-a-day-will-obama-need-to-meet-healthcare-goals/>
 

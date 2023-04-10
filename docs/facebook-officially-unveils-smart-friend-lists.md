@@ -1,4 +1,4 @@
-# 脸书正式推出智能好友列表 TechCrunch
+# 脸书正式推出智能好友列表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/facebook-officially-unveils-smart-friend-lists/>
 

@@ -1,4 +1,4 @@
-# 第三次有魅力吗？一家新的 NewsCred 筹集了 400 万美元来重塑新闻专线服务 TechCrunch
+# 第三次有魅力吗？一家新的 NewsCred 筹集了 400 万美元来重塑新闻专线服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/third-times-the-charm-a-new-newscred-raises-4-million-to-reinvent-the-newswire-service/>
 

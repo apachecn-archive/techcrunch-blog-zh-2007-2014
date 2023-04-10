@@ -1,4 +1,4 @@
-# 6Scan 筹集资金，提供“自动”网站保护 TechCrunch
+# 6Scan 筹集资金，提供“自动”网站保护 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/6scan-raises-funding-offers-automatic-website-protection/>
 

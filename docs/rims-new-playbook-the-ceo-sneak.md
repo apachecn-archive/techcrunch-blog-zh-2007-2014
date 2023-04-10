@@ -1,4 +1,4 @@
-# RIM 的新剧本:CEO 潜行 TechCrunch
+# RIM 的新剧本:CEO 潜行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/22/rims-new-playbook-the-ceo-sneak/>
 

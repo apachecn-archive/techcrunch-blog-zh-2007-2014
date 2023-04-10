@@ -1,4 +1,4 @@
-# 谷歌巧妙地在视频上展示了 Android v2.3(姜饼)，一周内没人注意到 TechCrunch
+# 谷歌巧妙地在视频上展示了 Android v2.3(姜饼)，一周内没人注意到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/02/google-subtly-shows-off-gingerbread-on-video-no-one-notices-for-a-week/>
 

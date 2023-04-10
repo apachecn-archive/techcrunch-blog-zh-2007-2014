@@ -1,4 +1,4 @@
-# 9 月 11 日你在哪里？TechCrunch
+# 9 月 11 日你在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/11/where-were-you-onsept11/>
 

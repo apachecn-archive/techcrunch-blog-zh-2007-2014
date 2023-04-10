@@ -1,4 +1,4 @@
-# WordPress 支持黑鸟馅饼。只需抓取一个 Tweet URL，它就会出现在您的内容中 TechCrunch
+# WordPress 支持黑鸟馅饼。只需抓取一个 Tweet URL，它就会出现在您的内容中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/05/wordpress-blackbird-twitter/>
 

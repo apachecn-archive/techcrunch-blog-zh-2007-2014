@@ -1,4 +1,4 @@
-# 索尼向平板电脑用户开放 PlayStation 商店 TechCrunch
+# 索尼向平板电脑用户开放 PlayStation 商店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/sony-opens-up-the-playstation-store-to-tablet-s-owners/>
 

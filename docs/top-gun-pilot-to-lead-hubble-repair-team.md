@@ -1,4 +1,4 @@
-# 顶尖飞行员将领导哈勃修复团队 TechCrunch
+# 顶尖飞行员将领导哈勃修复团队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/12/top-gun-pilot-to-lead-hubble-repair-team/>
 

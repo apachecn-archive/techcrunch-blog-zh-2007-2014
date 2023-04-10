@@ -1,4 +1,4 @@
-# 如果史蒂夫·乔布斯没有在 1997 年回到苹果会怎样？TechCrunch
+# 如果史蒂夫·乔布斯没有在 1997 年回到苹果会怎样？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/11/26/steve-jobs-apple-1997/>
 

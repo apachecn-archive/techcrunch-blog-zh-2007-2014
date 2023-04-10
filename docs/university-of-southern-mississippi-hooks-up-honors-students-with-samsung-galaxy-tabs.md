@@ -1,4 +1,4 @@
-# 南密西西比大学用三星 Galaxy Tabs 吸引优等生 TechCrunch
+# 南密西西比大学用三星 Galaxy Tabs 吸引优等生 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/01/university-of-southern-mississippi-hooks-up-honors-students-with-samsung-galaxy-tabs/>
 

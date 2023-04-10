@@ -1,4 +1,4 @@
-# 旧金山出租车明天罢工，优步利用降价 50%的机会 TechCrunch
+# 旧金山出租车明天罢工，优步利用降价 50%的机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/20/san-francisco-taxis-going-on-strike-tomorrow-uber-taking-advantage-with-50-rate-cut/>
 

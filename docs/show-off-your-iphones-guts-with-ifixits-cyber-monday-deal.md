@@ -1,4 +1,4 @@
-# 通过 iFixit 的网络星期一交易展示您的 iPhone 胆量 TechCrunch
+# 通过 iFixit 的网络星期一交易展示您的 iPhone 胆量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/show-off-your-iphones-guts-with-ifixits-cyber-monday-deal/>
 

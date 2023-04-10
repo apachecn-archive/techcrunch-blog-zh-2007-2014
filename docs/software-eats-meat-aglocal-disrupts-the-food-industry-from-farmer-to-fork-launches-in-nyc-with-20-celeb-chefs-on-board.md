@@ -1,4 +1,4 @@
-# 软件吃肉:AgLocal 颠覆从农民到餐桌的食品行业，在纽约推出，有 20 名名厨加盟 TechCrunch
+# 软件吃肉:AgLocal 颠覆从农民到餐桌的食品行业，在纽约推出，有 20 名名厨加盟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/01/software-eats-meat-aglocal-disrupts-the-food-industry-from-farmer-to-fork-launches-in-nyc-with-20-celeb-chefs-on-board/>
 

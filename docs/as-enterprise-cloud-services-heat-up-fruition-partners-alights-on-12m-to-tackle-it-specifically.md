@@ -1,4 +1,4 @@
-# 随着企业云服务的升温，成果合作伙伴投入 1200 万美元专门解决这一问题 TechCrunch
+# 随着企业云服务的升温，成果合作伙伴投入 1200 万美元专门解决这一问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/18/as-enterprise-cloud-services-heat-up-fruition-partners-alights-on-12m-to-tackle-it-specifically/>
 

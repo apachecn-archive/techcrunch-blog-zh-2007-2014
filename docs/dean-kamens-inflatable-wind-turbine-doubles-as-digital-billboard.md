@@ -1,4 +1,4 @@
-# 迪安·卡门的充气风力涡轮机兼做数字广告牌 TechCrunch
+# 迪安·卡门的充气风力涡轮机兼做数字广告牌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/15/dean-kamens-inflatable-wind-turbine-doubles-as-digital-billboard/>
 

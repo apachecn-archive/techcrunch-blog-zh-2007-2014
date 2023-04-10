@@ -1,4 +1,4 @@
-# Evernote 收购图片分享应用 Skitch，计划免费提供 TechCrunch
+# Evernote 收购图片分享应用 Skitch，计划免费提供 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/evernote-acquires-image-sharing-site-skitch/>
 

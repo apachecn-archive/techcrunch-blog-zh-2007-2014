@@ -1,4 +1,4 @@
-# 东芝想象中的可穿戴计算手套赢得愚人节 TechCrunch
+# 东芝想象中的可穿戴计算手套赢得愚人节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/toshibas-imaginary-wearable-computing-gloves-win-april-fools-day/>
 

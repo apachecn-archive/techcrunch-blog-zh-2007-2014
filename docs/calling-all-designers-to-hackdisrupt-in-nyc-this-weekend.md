@@ -1,4 +1,4 @@
-# 召集所有设计师参加本周末在纽约举行的# hack disrupt TechCrunch
+# 召集所有设计师参加本周末在纽约举行的# hack disrupt 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/23/calling-all-designers-to-hackdisrupt-in-nyc-this-weekend/>
 

@@ -1,4 +1,4 @@
-# 更多孵化器对柏林的爱:德国创业集团将向€提供(高达)25 万美元的投资 TechCrunch
+# 更多孵化器对柏林的爱:德国创业集团将向€提供(高达)25 万美元的投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/30/more-incubator-love-for-berlin-german-startups-group-to-offer-up-to-e250k-investment/>
 

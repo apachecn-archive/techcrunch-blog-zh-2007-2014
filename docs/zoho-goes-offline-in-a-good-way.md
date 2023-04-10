@@ -1,4 +1,4 @@
-# Zoho 下线(以一种好的方式)——TechCrunch
+# Zoho 下线(以一种好的方式)——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/zoho-goes-offline-in-a-good-way/>
 

@@ -1,4 +1,4 @@
-# 四轴飞行器艺术项目:机器人正在建造堡垒 TechCrunch
+# 四轴飞行器艺术项目:机器人正在建造堡垒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/quadcopter-art-project-the-robots-are-building-forts/>
 

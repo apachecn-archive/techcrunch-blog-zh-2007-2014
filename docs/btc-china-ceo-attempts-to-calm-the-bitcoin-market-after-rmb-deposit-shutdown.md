@@ -1,4 +1,4 @@
-# 人民币存款关闭后，比特币中国首席执行官试图安抚比特币市场 TechCrunch
+# 人民币存款关闭后，比特币中国首席执行官试图安抚比特币市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/20/btc-china-ceo-attempts-to-calm-the-bitcoin-market-after-rmb-deposit-shutdown/>
 

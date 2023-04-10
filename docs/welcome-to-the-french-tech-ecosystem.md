@@ -1,4 +1,4 @@
-# 欢迎来到法国科技生态系统 TechCrunch
+# 欢迎来到法国科技生态系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/welcome-to-the-french-tech-ecosystem/>
 

@@ -1,4 +1,4 @@
-# SlideIdea 为枯燥的演示增加了交互性、投票和反馈 TechCrunch
+# SlideIdea 为枯燥的演示增加了交互性、投票和反馈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/16/slideidea-adds-interactivity-polls-feedback-to-boring-presentations/>
 

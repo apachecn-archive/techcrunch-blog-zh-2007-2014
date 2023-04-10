@@ -1,4 +1,4 @@
-# Tumblr 与 SOPA 的斗争更上一层楼，“审查者”用户仪表盘 TechCrunch
+# Tumblr 与 SOPA 的斗争更上一层楼，“审查者”用户仪表盘 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/tumblr-takes-fight-against-sopa-up-a-notch-censors-user-dashboards/>
 

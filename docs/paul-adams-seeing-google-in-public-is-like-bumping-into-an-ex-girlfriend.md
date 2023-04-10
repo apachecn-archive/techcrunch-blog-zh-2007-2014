@@ -1,4 +1,4 @@
-# 保罗·亚当斯:在公共场合看到 Google+就像撞上了前女友。TechCrunch
+# 保罗·亚当斯:在公共场合看到 Google+就像撞上了前女友。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/paul-adams-seeing-google-in-public-is-like-bumping-into-an-ex-girlfriend/>
 

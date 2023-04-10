@@ -1,4 +1,4 @@
-# Kickstarter 需要性觉醒 TechCrunch
+# Kickstarter 需要性觉醒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/kickstarter-needs-a-sexual-awakening/>
 

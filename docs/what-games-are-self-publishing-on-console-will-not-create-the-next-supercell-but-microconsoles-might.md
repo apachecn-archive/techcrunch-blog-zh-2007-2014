@@ -1,4 +1,4 @@
-# 什么游戏:在主机上自发布不会创造下一个 SuperCell。但是微染色体可能会。TechCrunch
+# 什么游戏:在主机上自发布不会创造下一个 SuperCell。但是微染色体可能会。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/28/what-games-are-self-publishing-on-console-will-not-create-the-next-supercell-but-microconsoles-might/>
 

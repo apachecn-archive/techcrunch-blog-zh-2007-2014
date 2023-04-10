@@ -1,4 +1,4 @@
-# Samwer Square 的克隆产品 Payleven 通过现在在欧洲销售的芯片和 PIN 阅读器克服了签证障碍 TechCrunch
+# Samwer Square 的克隆产品 Payleven 通过现在在欧洲销售的芯片和 PIN 阅读器克服了签证障碍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/08/payleven-the-samwer-square-clone-surmounts-visa-hurdle-with-chip-and-pin-reader-now-sold-in-europe/>
 

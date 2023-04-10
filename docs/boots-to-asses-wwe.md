@@ -1,4 +1,4 @@
-# 从靴子到屁股——WWE 社交媒体战略将其他人远远甩在身后 TechCrunch
+# 从靴子到屁股——WWE 社交媒体战略将其他人远远甩在身后 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/25/boots-to-asses-wwe/>
 

@@ -1,4 +1,4 @@
-# Backupify Snapshot 退出测试版，增加了更多用于导出 Google Apps 帐户的功能 TechCrunch
+# Backupify Snapshot 退出测试版，增加了更多用于导出 Google Apps 帐户的功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/backupify-snapshot-exits-beta-adds-more-features-for-exporting-google-apps-accounts/>
 

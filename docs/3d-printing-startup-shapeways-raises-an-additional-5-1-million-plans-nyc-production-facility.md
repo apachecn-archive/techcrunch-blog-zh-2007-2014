@@ -1,4 +1,4 @@
-# 3D 打印初创公司 Shapeways 筹集 510 万美元，计划在纽约建立生产设施 TechCrunch
+# 3D 打印初创公司 Shapeways 筹集 510 万美元，计划在纽约建立生产设施 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/3d-printing-startup-shapeways-raises-an-additional-5-1-million-plans-nyc-production-facility/>
 

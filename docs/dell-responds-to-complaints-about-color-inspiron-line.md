@@ -1,4 +1,4 @@
-# 戴尔回应对彩色 Inspiron 灵越系列的投诉 TechCrunch
+# 戴尔回应对彩色 Inspiron 灵越系列的投诉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/dell-responds-to-complaints-about-color-inspiron-line/>
 

@@ -1,4 +1,4 @@
-# Cloudflare 首席执行官:“我们的营销策略是与世界上所有的国际罪犯签约”[TCTV]TechCrunch
+# Cloudflare 首席执行官:“我们的营销策略是与世界上所有的国际罪犯签约”[TCTV]
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/cloudflare-ceo-our-marketing-strategy-is-sign-up-all-of-the-worlds-international-criminals-tctv/>
 

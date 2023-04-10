@@ -1,4 +1,4 @@
-# 戴森 DC59 评论:帮助你完全抛弃有线吸尘器的便携式发电站 TechCrunch
+# 戴森 DC59 评论:帮助你完全抛弃有线吸尘器的便携式发电站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/07/dyson-dc59-review-a-portable-powerhouse-to-help-you-ditch-corded-vacuums-entirely/>
 

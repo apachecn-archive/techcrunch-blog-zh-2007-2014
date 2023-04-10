@@ -1,4 +1,4 @@
-# 驼峰日赠品:ThinkFun 单人象棋 TechCrunch
+# 驼峰日赠品:ThinkFun 单人象棋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/hump-day-giveaway-thinkfun-solitaire-chess/>
 

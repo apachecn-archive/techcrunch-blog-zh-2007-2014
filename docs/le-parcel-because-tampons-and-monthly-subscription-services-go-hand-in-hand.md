@@ -1,4 +1,4 @@
-# 乐包裹，因为卫生棉条和包月服务携手并进 TechCrunch
+# 乐包裹，因为卫生棉条和包月服务携手并进 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/01/le-parcel-because-tampons-and-monthly-subscription-services-go-hand-in-hand/>
 

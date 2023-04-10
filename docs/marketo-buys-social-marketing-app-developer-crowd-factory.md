@@ -1,4 +1,4 @@
-# Marketo 收购社交营销应用开发商 Crowd Factory TechCrunch
+# Marketo 收购社交营销应用开发商 Crowd Factory 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/18/marketo-buys-social-marketing-app-developer-crowd-factory/>
 

@@ -1,4 +1,4 @@
-# 墨西哥胡椒拍子为你的锻炼增添一点趣味 TechCrunch
+# 墨西哥胡椒拍子为你的锻炼增添一点趣味 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/09/jalapeno-beat-maker/>
 

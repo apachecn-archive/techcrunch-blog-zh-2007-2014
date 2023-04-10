@@ -1,4 +1,4 @@
-# 在另一场针对竞争的罢工中，优步降低了圣地亚哥、洛杉矶和 DC 的 UberX 价格 TechCrunch
+# 在另一场针对竞争的罢工中，优步降低了圣地亚哥、洛杉矶和 DC 的 UberX 价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/03/in-another-strike-against-the-competition-uber-lowers-uberx-prices-in-san-diego-la-and-dc/>
 

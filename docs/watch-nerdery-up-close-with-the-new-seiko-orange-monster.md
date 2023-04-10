@@ -1,4 +1,4 @@
-# 观看 Nerdery:近距离接触新精工“橙色怪物”TechCrunch
+# 观看 Nerdery:近距离接触新精工“橙色怪物”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/31/watch-nerdery-up-close-with-the-new-seiko-orange-monster/>
 

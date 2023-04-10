@@ -1,4 +1,4 @@
-# HTC 反击苹果，声称苹果侵犯五项专利 TechCrunch
+# HTC 反击苹果，声称苹果侵犯五项专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/12/htc-countersues-apple-claims-apple-is-infringing-on-five-patents/>
 

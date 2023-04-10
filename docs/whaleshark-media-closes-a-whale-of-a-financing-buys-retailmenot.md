@@ -1,4 +1,4 @@
-# WhaleShark Media 完成一笔融资，收购 retail menot TechCrunch
+# WhaleShark Media 完成一笔融资，收购 retail menot 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/02/whaleshark-media-closes-a-whale-of-a-financing-buys-retailmenot/>
 

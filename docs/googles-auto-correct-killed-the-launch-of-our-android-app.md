@@ -1,4 +1,4 @@
-# “谷歌的自动更正功能扼杀了我们安卓应用的发布”TechCrunch
+# “谷歌的自动更正功能扼杀了我们安卓应用的发布”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/googles-auto-correct-killed-the-launch-of-our-android-app/>
 

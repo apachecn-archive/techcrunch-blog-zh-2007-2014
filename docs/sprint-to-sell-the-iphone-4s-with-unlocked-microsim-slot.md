@@ -1,4 +1,4 @@
-# Sprint 销售带有解锁 MicroSIM 卡槽的 iPhone 4S TechCrunch
+# Sprint 销售带有解锁 MicroSIM 卡槽的 iPhone 4S 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/sprint-to-sell-the-iphone-4s-with-unlocked-microsim-slot/>
 

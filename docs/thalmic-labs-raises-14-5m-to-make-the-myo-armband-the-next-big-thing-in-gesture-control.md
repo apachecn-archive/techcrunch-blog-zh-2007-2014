@@ -1,4 +1,4 @@
-# Thalmic Labs 筹集了 1450 万美元，使 MYO 臂章成为手势控制领域的下一件大事 TechCrunch
+# Thalmic Labs 筹集了 1450 万美元，使 MYO 臂章成为手势控制领域的下一件大事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/05/thalmic-labs-raises-14-5m-to-make-the-myo-armband-the-next-big-thing-in-gesture-control/>
 

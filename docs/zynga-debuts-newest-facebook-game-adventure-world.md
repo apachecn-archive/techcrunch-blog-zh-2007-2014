@@ -1,4 +1,4 @@
-# Zynga 推出最新脸书游戏:冒险世界 TechCrunch
+# Zynga 推出最新脸书游戏:冒险世界 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/zynga-debuts-newest-facebook-game-adventure-world/>
 

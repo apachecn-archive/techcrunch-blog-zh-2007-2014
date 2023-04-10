@@ -1,4 +1,4 @@
-# Opinionaided 将移动问答应用程序引入 Android TechCrunch
+# Opinionaided 将移动问答应用程序引入 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/opinionaided-brings-mobile-qa-app-to-android/>
 

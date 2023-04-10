@@ -1,4 +1,4 @@
-# 有了这笔资金，RAVN 测试版推出了针对当地活动的搜索和预订引擎 TechCrunch
+# 有了这笔资金，RAVN 测试版推出了针对当地活动的搜索和预订引擎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/with-funding-in-tow-ravn-beta-launches-its-search-and-booking-engine-for-local-activities/>
 

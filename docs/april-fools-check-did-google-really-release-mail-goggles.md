@@ -1,4 +1,4 @@
-# 愚人节检查:谷歌真的发布了邮件护目镜吗？TechCrunch
+# 愚人节检查:谷歌真的发布了邮件护目镜吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/07/april-fools-check-did-google-really-release-mail-goggles/>
 

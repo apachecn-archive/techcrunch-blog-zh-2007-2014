@@ -1,4 +1,4 @@
-# 微软创纪录的第四季度收益使其收入领先于苹果...勉强 TechCrunch
+# 微软创纪录的第四季度收益使其收入领先于苹果...勉强 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/22/microsoft-q4-2010-earnings/>
 

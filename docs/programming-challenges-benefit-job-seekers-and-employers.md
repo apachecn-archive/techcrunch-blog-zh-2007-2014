@@ -1,4 +1,4 @@
-# Stripe、Weebly 和 Cue 如何让编程挑战有利于招聘 TechCrunch
+# Stripe、Weebly 和 Cue 如何让编程挑战有利于招聘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/08/programming-challenges-benefit-job-seekers-and-employers/>
 

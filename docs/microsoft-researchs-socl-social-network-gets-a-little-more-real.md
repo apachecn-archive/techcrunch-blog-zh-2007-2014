@@ -1,4 +1,4 @@
-# 微软研究院的 Socl 社交网络变得更加真实 TechCrunch
+# 微软研究院的 Socl 社交网络变得更加真实 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/microsoft-researchs-socl-social-network-gets-a-little-more-real/>
 

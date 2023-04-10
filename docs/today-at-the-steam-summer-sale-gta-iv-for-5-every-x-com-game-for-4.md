@@ -1,4 +1,4 @@
-# 今天在 Steam 夏季特卖会上:GTA IV 美元，每款 X-COM 游戏 4 美元 TechCrunch
+# 今天在 Steam 夏季特卖会上:GTA IV 美元，每款 X-COM 游戏 4 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/29/today-at-the-steam-summer-sale-gta-iv-for-5-every-x-com-game-for-4/>
 

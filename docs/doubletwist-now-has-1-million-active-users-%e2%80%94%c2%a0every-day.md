@@ -1,4 +1,4 @@
-# doubleTwist 现在每天都有 100 万活跃用户 TechCrunch
+# doubleTwist 现在每天都有 100 万活跃用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/17/doubletwist-now-has-1-million-active-users-%e2%80%94%c2%a0every-day/>
 

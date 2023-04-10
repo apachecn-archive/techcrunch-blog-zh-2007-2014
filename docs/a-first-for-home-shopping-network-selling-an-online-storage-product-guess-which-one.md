@@ -1,4 +1,4 @@
-# 家庭购物网络的第一步:销售在线存储产品。猜猜是哪个！TechCrunch
+# 家庭购物网络的第一步:销售在线存储产品。猜猜是哪个！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/a-first-for-home-shopping-network-selling-an-online-storage-product-guess-which-one/>
 

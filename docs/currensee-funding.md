@@ -1,4 +1,4 @@
-# 面向交易者的社交网络 Currensee 融资 800 万美元 TechCrunch
+# 面向交易者的社交网络 Currensee 融资 800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/23/currensee-funding/>
 

@@ -1,4 +1,4 @@
-# Zynga 在以 2 亿美元收购 OMGPOP 一年后关闭了它 TechCrunch
+# Zynga 在以 2 亿美元收购 OMGPOP 一年后关闭了它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/04/zynga-shuts-down-omgpop-one-year-after-acquiring-it-for-200m/>
 

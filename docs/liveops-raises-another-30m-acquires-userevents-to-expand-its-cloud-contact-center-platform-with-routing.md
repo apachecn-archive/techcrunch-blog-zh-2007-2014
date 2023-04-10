@@ -1,4 +1,4 @@
-# LiveOps 再融资 3000 万美元，收购 UserEvents 以扩展其云联络中心平台 TechCrunch
+# LiveOps 再融资 3000 万美元，收购 UserEvents 以扩展其云联络中心平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/27/liveops-raises-another-30m-acquires-userevents-to-expand-its-cloud-contact-center-platform-with-routing/>
 

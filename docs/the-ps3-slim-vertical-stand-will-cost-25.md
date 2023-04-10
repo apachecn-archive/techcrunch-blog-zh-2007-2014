@@ -1,4 +1,4 @@
-# PS3 超薄立式支架售价 25 美元 TechCrunch
+# PS3 超薄立式支架售价 25 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/the-ps3-slim-vertical-stand-will-cost-25/>
 

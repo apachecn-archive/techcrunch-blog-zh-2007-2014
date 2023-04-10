@@ -1,4 +1,4 @@
-# Chamillionaire 恳求 Android 设计领导给他一个像样的设备 TechCrunch
+# Chamillionaire 恳求 Android 设计领导给他一个像样的设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/chamillionaire-on-android/>
 

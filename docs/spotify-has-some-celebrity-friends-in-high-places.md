@@ -1,4 +1,4 @@
-# Spotify 在高层有一些名人朋友 TechCrunch
+# Spotify 在高层有一些名人朋友 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/spotify-has-some-celebrity-friends-in-high-places/>
 

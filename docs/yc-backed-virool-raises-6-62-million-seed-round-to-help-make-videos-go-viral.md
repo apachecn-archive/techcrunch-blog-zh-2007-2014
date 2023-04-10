@@ -1,4 +1,4 @@
-# YC 支持的 Virool 筹集了 662 万美元的“种子”资金，帮助视频传播 TechCrunch
+# YC 支持的 Virool 筹集了 662 万美元的“种子”资金，帮助视频传播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/14/yc-backed-virool-raises-6-62-million-seed-round-to-help-make-videos-go-viral/>
 

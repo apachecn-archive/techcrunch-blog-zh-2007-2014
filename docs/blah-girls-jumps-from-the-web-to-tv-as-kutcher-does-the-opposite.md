@@ -1,4 +1,4 @@
-# Blah Girls 从网络跳到电视上，库彻做了相反的事情 TechCrunch
+# Blah Girls 从网络跳到电视上，库彻做了相反的事情 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/13/blah-girls-jumps-from-the-web-to-tv-as-kutcher-does-the-opposite/>
 

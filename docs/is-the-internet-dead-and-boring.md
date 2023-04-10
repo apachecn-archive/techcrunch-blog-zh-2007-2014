@@ -1,4 +1,4 @@
-# 互联网是不是死气沉沉，无聊透顶？–TechCrunch
+# 互联网是不是死气沉沉，无聊透顶？–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/25/is-the-internet-dead-and-boring/>
 

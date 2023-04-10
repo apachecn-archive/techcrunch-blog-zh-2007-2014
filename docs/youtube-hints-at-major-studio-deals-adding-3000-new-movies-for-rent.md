@@ -1,4 +1,4 @@
-# YouTube 暗示主要工作室交易，增加 3000 部新电影出租 TechCrunch
+# YouTube 暗示主要工作室交易，增加 3000 部新电影出租 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/09/youtube-hints-at-major-studio-deals-adding-3000-new-movies-for-rent/>
 

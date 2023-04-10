@@ -1,4 +1,4 @@
-# 项目播放列表陷入 MySpace 音乐 CEO 搜索 TechCrunch
+# 项目播放列表陷入 MySpace 音乐 CEO 搜索 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/27/project-playlist-gets-tangled-in-myspace-music-ceo-search/>
 

@@ -1,4 +1,4 @@
-# 当 Digg 苦苦挣扎时，工程副总裁被扫地出门 TechCrunch
+# 当 Digg 苦苦挣扎时，工程副总裁被扫地出门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/digg-struggles-vp-engineering-door/>
 

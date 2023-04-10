@@ -1,4 +1,4 @@
-# 比特币:一种不受监管、去中心化的虚拟货币如何成为一个价值十亿美元的市场 TechCrunch
+# 比特币:一种不受监管、去中心化的虚拟货币如何成为一个价值十亿美元的市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/28/bitcoin-how-an-unregulated-decentralized-virtual-currency-just-became-a-billion-dollar-market/>
 

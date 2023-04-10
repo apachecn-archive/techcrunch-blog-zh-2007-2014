@@ -1,4 +1,4 @@
-# 谷歌，你为什么不暂时保留那个 Gmail 应用呢？TechCrunch
+# 谷歌，你为什么不暂时保留那个 Gmail 应用呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/google-why-dont-you-hang-on-to-that-gmail-app-for-a-while/>
 

@@ -1,4 +1,4 @@
-# Loopt 与移动菠菜合作提供基于位置的交易 TechCrunch
+# Loopt 与移动菠菜合作提供基于位置的交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/08/loopt-partners-with-mobile-spinach-to-offer-location-based-deals/>
 

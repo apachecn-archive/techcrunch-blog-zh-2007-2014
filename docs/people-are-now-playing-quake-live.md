@@ -1,4 +1,4 @@
-# 人们现在正在玩地震直播 TechCrunch
+# 人们现在正在玩地震直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/14/people-are-now-playing-quake-live/>
 

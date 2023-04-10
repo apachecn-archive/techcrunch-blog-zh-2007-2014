@@ -1,4 +1,4 @@
-# Blippy Redux？我的公司推出了一项服务，与朋友分享你的购物信息 TechCrunch
+# Blippy Redux？我的公司推出了一项服务，与朋友分享你的购物信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/10/blippy-redux-mine-launches-a-service-for-sharing-your-purchases-with-friends/>
 

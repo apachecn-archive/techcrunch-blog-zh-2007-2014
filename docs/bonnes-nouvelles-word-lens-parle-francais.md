@@ -1,4 +1,4 @@
-# 美好的新生活！Word Lens Parle 法语 TechCrunch
+# 美好的新生活！Word Lens Parle 法语 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/19/bonnes-nouvelles-word-lens-parle-francais/>
 

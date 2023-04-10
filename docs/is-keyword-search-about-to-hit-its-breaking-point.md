@@ -1,4 +1,4 @@
-# 关键词搜索即将达到临界点吗？TechCrunch
+# 关键词搜索即将达到临界点吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/25/is-keyword-search-about-to-hit-its-breaking-point/>
 

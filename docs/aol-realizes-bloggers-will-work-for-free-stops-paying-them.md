@@ -1,4 +1,4 @@
-# AOL 意识到博客将免费工作；停止支付他们 TechCrunch
+# AOL 意识到博客将免费工作；停止支付他们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/28/aol-realizes-bloggers-will-work-for-free-stops-paying-them/>
 

@@ -1,4 +1,4 @@
-# HelloFax 正在向无纸化办公进军 TechCrunch
+# HelloFax 正在向无纸化办公进军 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/hellofax-paperless-office/>
 

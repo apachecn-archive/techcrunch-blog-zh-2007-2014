@@ -1,4 +1,4 @@
-# 三星可能彻底击败诺基亚...苹果是下一个吗？TechCrunch
+# 三星可能彻底击败诺基亚...苹果是下一个吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/samsung-may-trounce-nokia-once-and-for-all-is-apple-next/>
 

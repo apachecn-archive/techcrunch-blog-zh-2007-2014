@@ -1,4 +1,4 @@
-# Views.fm 让 Dropbox 看起来很性感 TechCrunch
+# Views.fm 让 Dropbox 看起来很性感 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/23/views-fm-makes-dropbox-look-sexy/>
 

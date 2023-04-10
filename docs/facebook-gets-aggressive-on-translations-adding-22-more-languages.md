@@ -1,4 +1,4 @@
-# 脸书加大翻译力度，增加了 22 种语言 TechCrunch
+# 脸书加大翻译力度，增加了 22 种语言 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/31/facebook-gets-aggressive-on-translations-adding-22-more-languages/>
 

@@ -1,4 +1,4 @@
-# 视频:简单的个人助理机器人跟随你，为你搬运物品 TechCrunch
+# 视频:简单的个人助理机器人跟随你，为你搬运物品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/video-simple-personal-assistant-robot-follows-you-carries-stuff-for-you/>
 

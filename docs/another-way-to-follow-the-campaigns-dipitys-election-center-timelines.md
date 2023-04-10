@@ -1,4 +1,4 @@
-# 跟踪竞选活动的另一种方式:迪拜选举中心时间表 TechCrunch
+# 跟踪竞选活动的另一种方式:迪拜选举中心时间表 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/08/another-way-to-follow-the-campaigns-dipitys-election-center-timelines/>
 

@@ -1,4 +1,4 @@
-# YouTube 向所有人推出新主页 TechCrunch
+# YouTube 向所有人推出新主页 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/youtube-rolls-out-its-new-homepage-to-everyone/>
 

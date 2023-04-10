@@ -1,4 +1,4 @@
-# 收购 Loopt 取得了一些成果:绿点推出了移动银行账户 GoBank TechCrunch
+# 收购 Loopt 取得了一些成果:绿点推出了移动银行账户 GoBank 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/loopt-green-dot/>
 

@@ -1,4 +1,4 @@
-# 2008 年会是谷歌无罪的终结吗？TechCrunch
+# 2008 年会是谷歌无罪的终结吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/16/will-2008-be-googles-end-of-innocence/>
 

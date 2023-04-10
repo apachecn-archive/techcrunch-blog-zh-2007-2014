@@ -1,4 +1,4 @@
-# 为什么社交网络对孩子有益 TechCrunch
+# 为什么社交网络对孩子有益 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/02/24/why-social-networks-are-good-for-the-kids/>
 

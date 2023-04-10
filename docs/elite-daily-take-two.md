@@ -1,4 +1,4 @@
-# 精英日报、内容农场还是向上流动的年轻人的开创性网站？你决定 TechCrunch
+# 精英日报、内容农场还是向上流动的年轻人的开创性网站？你决定 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/05/elite-daily-take-two/>
 

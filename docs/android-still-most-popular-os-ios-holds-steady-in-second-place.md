@@ -1,4 +1,4 @@
-# Android 仍是最受欢迎的智能手机操作系统，iOS 稳居第二 TechCrunch
+# Android 仍是最受欢迎的智能手机操作系统，iOS 稳居第二 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/android-still-most-popular-os-ios-holds-steady-in-second-place/>
 

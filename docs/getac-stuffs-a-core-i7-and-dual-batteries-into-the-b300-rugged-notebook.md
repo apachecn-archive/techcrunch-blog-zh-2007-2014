@@ -1,4 +1,4 @@
-# Getac 在 B300 加固型笔记本电脑中装入了酷睿 i7 和双电池 TechCrunch
+# Getac 在 B300 加固型笔记本电脑中装入了酷睿 i7 和双电池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/21/getac-stuffs-a-core-i7-and-dual-batteries-into-the-b300-rugged-notebook/>
 

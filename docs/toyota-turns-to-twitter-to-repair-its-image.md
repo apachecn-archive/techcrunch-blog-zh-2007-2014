@@ -1,4 +1,4 @@
-# 丰田转向 Twitter 修复形象 TechCrunch
+# 丰田转向 Twitter 修复形象 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/02/toyota-turns-to-twitter-to-repair-its-image/>
 

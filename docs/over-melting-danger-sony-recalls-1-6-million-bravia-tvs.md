@@ -1,4 +1,4 @@
-# 过度融化的危险:索尼召回 160 万台 BRAVIA 电视机 TechCrunch
+# 过度融化的危险:索尼召回 160 万台 BRAVIA 电视机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/over-melting-danger-sony-recalls-1-6-million-bravia-tvs/>
 

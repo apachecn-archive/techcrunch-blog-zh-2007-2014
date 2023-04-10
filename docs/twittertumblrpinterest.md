@@ -1,4 +1,4 @@
-# 社交兴趣网站的新时代:Twitter、Tumblr 和 Pinterest 在 2011 年发展壮大 TechCrunch
+# 社交兴趣网站的新时代:Twitter、Tumblr 和 Pinterest 在 2011 年发展壮大 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/30/twittertumblrpinterest/>
 

@@ -1,4 +1,4 @@
-# 总 Photoshop 黑仔:像素！–TechCrunch
+# 总 Photoshop 黑仔:像素！–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/17/total-photoshop-killer-pixelmator/>
 

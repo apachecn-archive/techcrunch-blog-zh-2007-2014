@@ -1,4 +1,4 @@
-# Slide 有他们的，现在 RockYou 也有一些 TechCrunch
+# Slide 有他们的，现在 RockYou 也有一些 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/09/slide-got-theirs-now-rockyou-gets-some-too/>
 

@@ -1,4 +1,4 @@
-# 如果美国是一家初创公司，我们都会退出 TechCrunch
+# 如果美国是一家初创公司，我们都会退出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/22/america-startup-quit/>
 

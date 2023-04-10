@@ -1,4 +1,4 @@
-# 手机辐射测量应用程序制造商 Tawkon 融资 150 万美元 TechCrunch
+# 手机辐射测量应用程序制造商 Tawkon 融资 150 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/23/phone-radiation-measurement-app-maker-tawkon-raises-1-5-million/>
 

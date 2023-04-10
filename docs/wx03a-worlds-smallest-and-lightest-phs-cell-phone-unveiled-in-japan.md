@@ -1,4 +1,4 @@
-# WX03A:世界上最小最轻的 PHS 手机在日本亮相 TechCrunch
+# WX03A:世界上最小最轻的 PHS 手机在日本亮相 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/wx03a-worlds-smallest-and-lightest-phs-cell-phone-unveiled-in-japan/>
 

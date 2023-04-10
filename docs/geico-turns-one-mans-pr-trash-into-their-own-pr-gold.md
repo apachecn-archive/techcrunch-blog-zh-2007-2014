@@ -1,4 +1,4 @@
-# Geico 将一个人的公关垃圾变成他们自己的公关黄金 TechCrunch
+# Geico 将一个人的公关垃圾变成他们自己的公关黄金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/28/geico-turns-one-mans-pr-trash-into-their-own-pr-gold/>
 

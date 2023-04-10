@@ -1,4 +1,4 @@
-# 设备识别初创公司 BlueCava 获得马克·库班 S3 风险投资公司 950 万美元的投资 TechCrunch
+# 设备识别初创公司 BlueCava 获得马克·库班 S3 风险投资公司 950 万美元的投资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/device-identification-startup-bluecava-lands-9-5m-from-s3-ventures-mark-cuban/>
 

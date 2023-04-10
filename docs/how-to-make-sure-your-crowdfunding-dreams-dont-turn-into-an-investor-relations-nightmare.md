@@ -1,4 +1,4 @@
-# 如何确保你的众筹梦想不会变成投资者关系的噩梦 TechCrunch
+# 如何确保你的众筹梦想不会变成投资者关系的噩梦 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/05/how-to-make-sure-your-crowdfunding-dreams-dont-turn-into-an-investor-relations-nightmare/>
 

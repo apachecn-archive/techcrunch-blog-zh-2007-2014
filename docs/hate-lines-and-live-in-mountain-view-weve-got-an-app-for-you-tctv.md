@@ -1,4 +1,4 @@
-# 讨厌台词住山景城？我们为你准备了一款应用(TCTV)TechCrunch
+# 讨厌台词住山景城？我们为你准备了一款应用(TCTV)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/hate-lines-and-live-in-mountain-view-weve-got-an-app-for-you-tctv/>
 

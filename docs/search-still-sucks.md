@@ -1,4 +1,4 @@
-# 搜索仍然很糟糕 TechCrunch
+# 搜索仍然很糟糕 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/12/search-still-sucks/>
 

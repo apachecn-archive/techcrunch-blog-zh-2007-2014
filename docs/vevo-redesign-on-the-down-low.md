@@ -1,4 +1,4 @@
-# Vevo 悄悄地重新设计其主页，以简化搜索、导航和播放列表创建 TechCrunch
+# Vevo 悄悄地重新设计其主页，以简化搜索、导航和播放列表创建 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/21/vevo-redesign-on-the-down-low/>
 

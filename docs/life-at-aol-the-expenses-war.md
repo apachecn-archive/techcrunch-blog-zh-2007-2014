@@ -1,4 +1,4 @@
-# 美国在线的生活-费用战 TechCrunch
+# 美国在线的生活-费用战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/05/life-at-aol-the-expenses-war/>
 

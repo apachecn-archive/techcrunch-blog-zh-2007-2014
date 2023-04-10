@@ -1,4 +1,4 @@
-# DotLoop 从 Trinity 融资 700 万美元，以扼杀房地产文书工作 TechCrunch
+# DotLoop 从 Trinity 融资 700 万美元，以扼杀房地产文书工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/22/dotloop-raises-7m-from-trinity-to-kill-real-estate-paperwork/>
 

@@ -1,4 +1,4 @@
-# CrunchGear 一年庆典回顾–TechCrunch
+# CrunchGear 一年庆典回顾–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/crunchgear-one-year-bash-recap/>
 

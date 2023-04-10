@@ -1,4 +1,4 @@
-# INQ 脸书手机独家视频 TechCrunch
+# INQ 脸书手机独家视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/09/video-inq-facebook-phone/>
 

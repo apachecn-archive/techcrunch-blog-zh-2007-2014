@@ -1,4 +1,4 @@
-# 苹果拒绝 Someecards 应用程序，因为它充满了 Someecards 内容 TechCrunch
+# 苹果拒绝 Someecards 应用程序，因为它充满了 Someecards 内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/07/apple-rejects-someecards-app-for-being-full-of-someecards-content/>
 

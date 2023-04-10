@@ -1,4 +1,4 @@
-# AOL Editions 向您的 iPad 发送每日简报 TechCrunch
+# AOL Editions 向您的 iPad 发送每日简报 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/aol-editions-ipad/>
 

@@ -1,4 +1,4 @@
-# 新创公司 JPEGmini 缩小照片尺寸，而不是降低照片质量 TechCrunch
+# 新创公司 JPEGmini 缩小照片尺寸，而不是降低照片质量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/new-startup-jpegmini-reduces-photos-size-not-their-quality/>
 

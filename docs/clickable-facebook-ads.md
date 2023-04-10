@@ -1,4 +1,4 @@
-# 可点击通过脸书广告社交 TechCrunch
+# 可点击通过脸书广告社交 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/31/clickable-facebook-ads/>
 

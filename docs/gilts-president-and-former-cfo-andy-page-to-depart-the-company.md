@@ -1,4 +1,4 @@
-# Gilt 总裁兼前首席财务官安迪·佩奇将离开公司 TechCrunch
+# Gilt 总裁兼前首席财务官安迪·佩奇将离开公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/16/gilts-president-and-former-cfo-andy-page-to-depart-the-company/>
 

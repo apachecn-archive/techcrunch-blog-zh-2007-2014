@@ -1,8 +1,8 @@
-# TechCrunch 赠品:苹果 iPad 2 #TechCrunch
+# TechCrunch 赠品:苹果 iPad 2 #
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/techcrunch-giveaway-apple-ipad-2-techcrunch/>
 
-# TechCrunch 赠品:苹果 iPad 2 #TechCrunch
+# TechCrunch 赠品:苹果 iPad 2 #
 
 这是新闻报道的重要一周。我们已经结束了在北京的第一次国际 Disrupt 活动，脸书首席运营官雪莉·桑德伯格联合创始人和前 Ning 首席执行官吉娜比安奇尼投资了 Levo League，苹果承诺更新 iOS 5 以延长电池寿命，我们有两位新的优秀作家加入我们的团队，谷歌宣布改变搜索算法，凯文·罗斯的新公司 Oink 已经登陆 iTunes。
 

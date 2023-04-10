@@ -1,4 +1,4 @@
-# 经济衰退打击个人电脑销售 TechCrunch
+# 经济衰退打击个人电脑销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/01/18/recession-strikes-pc-sales/>
 

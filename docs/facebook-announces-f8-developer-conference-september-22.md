@@ -1,4 +1,4 @@
-# 脸书宣布 f8 开发者大会:9 月 22 日 TechCrunch
+# 脸书宣布 f8 开发者大会:9 月 22 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/facebook-announces-f8-developer-conference-september-22/>
 

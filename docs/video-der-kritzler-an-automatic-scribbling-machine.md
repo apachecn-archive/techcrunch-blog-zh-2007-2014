@@ -1,4 +1,4 @@
-# 视频:“Der Kritzler”，一台自动涂鸦机器 TechCrunch
+# 视频:“Der Kritzler”，一台自动涂鸦机器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/video-der-kritzler-an-automatic-scribbling-machine/>
 

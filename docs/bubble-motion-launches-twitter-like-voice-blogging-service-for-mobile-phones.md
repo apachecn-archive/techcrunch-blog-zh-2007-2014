@@ -1,4 +1,4 @@
-# Bubble Motion 推出类似 Twitter 的手机语音博客服务 TechCrunch
+# Bubble Motion 推出类似 Twitter 的手机语音博客服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/bubble-motion-launches-twitter-like-voice-blogging-service-for-mobile-phones/>
 

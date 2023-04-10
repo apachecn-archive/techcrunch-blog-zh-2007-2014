@@ -1,4 +1,4 @@
-# 脸书购买 Oculus VR 来创建元宇宙，或者为什么愤怒的 Kickstarter 支持者需要冷静一下 TechCrunch
+# 脸书购买 Oculus VR 来创建元宇宙，或者为什么愤怒的 Kickstarter 支持者需要冷静一下 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/28/facebook-bought-oculus-vr-to-create-the-metaverse-or-why-angry-kickstarter-backers-need-to-chill/>
 

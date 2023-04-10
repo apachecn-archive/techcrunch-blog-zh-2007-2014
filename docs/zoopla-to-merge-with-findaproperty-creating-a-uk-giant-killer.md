@@ -1,4 +1,4 @@
-# Zoopla 将与 FindaProperty 合并，创建英国巨头黑仔 TechCrunch
+# Zoopla 将与 FindaProperty 合并，创建英国巨头黑仔 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/14/zoopla-to-merge-with-findaproperty-creating-a-uk-giant-killer/>
 

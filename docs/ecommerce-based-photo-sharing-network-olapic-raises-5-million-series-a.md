@@ -1,4 +1,4 @@
-# Olapic 筹集 500 万美元 A 轮融资，将照片分享与电子商务合并 TechCrunch
+# Olapic 筹集 500 万美元 A 轮融资，将照片分享与电子商务合并 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/ecommerce-based-photo-sharing-network-olapic-raises-5-million-series-a/>
 

@@ -1,4 +1,4 @@
-# 带着狂热的兴趣，Bing 把自己贴在了 LeBron 的臀部 TechCrunch
+# 带着狂热的兴趣，Bing 把自己贴在了 LeBron 的臀部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/07/bing-lebron-james/>
 

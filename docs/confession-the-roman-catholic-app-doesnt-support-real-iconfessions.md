@@ -1,4 +1,4 @@
-# 忏悔:罗马天主教应用不支持真实的 icon fessions TechCrunch
+# 忏悔:罗马天主教应用不支持真实的 icon fessions 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/confession-the-roman-catholic-app-doesnt-support-real-iconfessions/>
 

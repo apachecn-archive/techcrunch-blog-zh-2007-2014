@@ -1,4 +1,4 @@
-# Panera 面包块 Bit.ly 链接 TechCrunch
+# Panera 面包块 Bit.ly 链接 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/09/panera-bread-blocks-bit-ly-links/>
 

@@ -1,4 +1,4 @@
-# 购物发现应用 Zoomingo 融资 130 万美元 TechCrunch
+# 购物发现应用 Zoomingo 融资 130 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/shopping-discovery-app-zoomingo-raises-1-3-million/>
 

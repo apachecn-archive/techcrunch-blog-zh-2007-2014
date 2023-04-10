@@ -1,4 +1,4 @@
-# Groupon 刚刚拒绝了谷歌的 60 亿美元，转而支持 IPO 了吗？TechCrunch
+# Groupon 刚刚拒绝了谷歌的 60 亿美元，转而支持 IPO 了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/03/did-groupon-just-spurn-googles-6-billion-in-favor-of-an-ipo/>
 

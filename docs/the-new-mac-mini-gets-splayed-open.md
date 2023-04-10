@@ -1,4 +1,4 @@
-# 新款 Mac mini 展开 TechCrunch
+# 新款 Mac mini 展开 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/the-new-mac-mini-gets-splayed-open/>
 

@@ -1,4 +1,4 @@
-# 谷歌阅读器最新杀 IE6 支持；还削减了离线支持，但简化了社交 TechCrunch
+# 谷歌阅读器最新杀 IE6 支持；还削减了离线支持，但简化了社交 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/24/google-reader-latest-to-kill-ie6-support-offline-support-and-simplifies-social/>
 

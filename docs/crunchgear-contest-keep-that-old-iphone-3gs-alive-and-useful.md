@@ -1,4 +1,4 @@
-# CrunchGear 竞赛:保持旧 iPhone 3GS 的活力和实用性 TechCrunch
+# CrunchGear 竞赛:保持旧 iPhone 3GS 的活力和实用性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/crunchgear-contest-keep-that-old-iphone-3gs-alive-and-useful/>
 

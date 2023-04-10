@@ -1,4 +1,4 @@
-# Boost.vc 正在筹集一只新基金，计划到 2016 年孵化 100 家比特币初创公司 TechCrunch
+# Boost.vc 正在筹集一只新基金，计划到 2016 年孵化 100 家比特币初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/three-classes-in-boost-vc-is-raising-a-new-fund-with-plans-to-incubate-100-bitcoin-startups-by-2016/>
 

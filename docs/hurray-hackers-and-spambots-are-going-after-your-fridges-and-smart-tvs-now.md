@@ -1,4 +1,4 @@
-# 黑客和垃圾邮件正在攻击你的冰箱和智能电视 TechCrunch
+# 黑客和垃圾邮件正在攻击你的冰箱和智能电视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/hurray-hackers-and-spambots-are-going-after-your-fridges-and-smart-tvs-now/>
 

@@ -1,4 +1,4 @@
-# 德国前第一夫人起诉谷歌诽谤自动补全建议 TechCrunch
+# 德国前第一夫人起诉谷歌诽谤自动补全建议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/07/germanys-former-first-lady-sues-google-for-defamation-over-autocomplete-suggestions/>
 

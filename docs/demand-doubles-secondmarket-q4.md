@@ -1,4 +1,4 @@
-# SecondMarket 上私人股票的需求翻倍:第四季度报告 TechCrunch
+# SecondMarket 上私人股票的需求翻倍:第四季度报告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/21/demand-doubles-secondmarket-q4/>
 

@@ -1,4 +1,4 @@
-# 谷歌表示，所有 2000 名谷歌眼镜探索者都被邀请去拿他们的设备——TechCrunch
+# 谷歌表示，所有 2000 名谷歌眼镜探索者都被邀请去拿他们的设备——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/16/google-has-now-invited-all-2000-people-who-signed-up-at-last-years-io-to-pick-up-glass/>
 

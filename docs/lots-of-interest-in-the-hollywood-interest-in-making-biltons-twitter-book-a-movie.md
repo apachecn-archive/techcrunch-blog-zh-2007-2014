@@ -1,4 +1,4 @@
-# 好莱坞对将比尔顿的推特书拍成电影很感兴趣 TechCrunch
+# 好莱坞对将比尔顿的推特书拍成电影很感兴趣 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/25/lots-of-interest-in-the-hollywood-interest-in-making-biltons-twitter-book-a-movie/>
 

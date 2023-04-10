@@ -1,4 +1,4 @@
-# 美国电话电报公司的 FaceTime Over 3G:对移动共享用户免费，对其他人不可用 TechCrunch
+# 美国电话电报公司的 FaceTime Over 3G:对移动共享用户免费，对其他人不可用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/17/att-on-facetime-over-3g-free-for-mobile-share-users-unavailable-for-everyone-else/>
 

@@ -1,4 +1,4 @@
-# Softcover 是一个新的自助出版平台，面向技术作者 TechCrunch
+# Softcover 是一个新的自助出版平台，面向技术作者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/28/softcover-self-publishing/?utm_content=buffer8e771&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>
 

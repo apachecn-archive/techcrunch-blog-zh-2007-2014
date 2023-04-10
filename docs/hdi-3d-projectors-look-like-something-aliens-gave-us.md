@@ -1,4 +1,4 @@
-# HDI 3D 投影仪看起来像外星人给我们的东西 TechCrunch
+# HDI 3D 投影仪看起来像外星人给我们的东西 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/hdi-3d-projectors-look-like-something-aliens-gave-us/>
 

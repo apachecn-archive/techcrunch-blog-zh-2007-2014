@@ -1,4 +1,4 @@
-# 餐饮市场 Munchery 增加了新的 A 轮投资者 Menlo、Sherpa Ventures & More，聘请内部厨师 TechCrunch
+# 餐饮市场 Munchery 增加了新的 A 轮投资者 Menlo、Sherpa Ventures & More，聘请内部厨师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/05/meals-marketplace-munchery-adds-new-series-a-investors-menlo-sherpa-ventures-more-hires-in-house-chefs/>
 

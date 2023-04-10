@@ -1,4 +1,4 @@
-# 日产 Leaf Companion 应用程序现可用于 Android、黑莓 TechCrunch
+# 日产 Leaf Companion 应用程序现可用于 Android、黑莓 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/nissan-leaf-android-blackberry/>
 

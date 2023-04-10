@@ -1,4 +1,4 @@
-# iMeem 获得 600 万美元的资金 TechCrunch
+# iMeem 获得 600 万美元的资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/30/imeem-wipes-the-slate-clean-with-6-million-funding/>
 

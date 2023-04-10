@@ -1,4 +1,4 @@
-# 苹果可能会要求 TSMC 处理芯片而不是三星 TechCrunch
+# 苹果可能会要求 TSMC 处理芯片而不是三星 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/apple-may-ask-tmsc-for-processing-chips-instead-of-samsung/>
 

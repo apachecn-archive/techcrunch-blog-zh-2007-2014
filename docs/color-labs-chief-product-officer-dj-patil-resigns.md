@@ -1,4 +1,4 @@
-# 色彩实验室首席产品官 DJ Patil 辞职 TechCrunch
+# 色彩实验室首席产品官 DJ Patil 辞职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/11/color-labs-chief-product-officer-dj-patil-resigns/>
 

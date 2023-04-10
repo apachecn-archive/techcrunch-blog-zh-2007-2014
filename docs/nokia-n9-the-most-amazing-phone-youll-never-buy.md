@@ -1,4 +1,4 @@
-# 诺基亚 N9:你永远不会买到的最神奇的手机 TechCrunch
+# 诺基亚 N9:你永远不会买到的最神奇的手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/15/nokia-n9-the-most-amazing-phone-youll-never-buy/>
 

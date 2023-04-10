@@ -1,4 +1,4 @@
-# 事实:CD 转轴盒是制作百吉饼三明治的绝佳材料 TechCrunch
+# 事实:CD 转轴盒是制作百吉饼三明治的绝佳材料 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/fact-cd-spindle-cases-make-excellent-bagel-sandwich-holders/>
 

@@ -1,4 +1,4 @@
-# 谷歌试图以 1 亿多美元收购 Path。Path 拒绝了 TechCrunch
+# 谷歌试图以 1 亿多美元收购 Path。Path 拒绝了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/02/google-tried-to-buy-path-for-100-million-path-said-no/>
 

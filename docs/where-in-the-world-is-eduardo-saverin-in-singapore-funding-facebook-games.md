@@ -1,4 +1,4 @@
-# 爱德华多·萨维林在世界的什么地方？在新加坡资助脸书奥运会。TechCrunch
+# 爱德华多·萨维林在世界的什么地方？在新加坡资助脸书奥运会。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/28/where-in-the-world-is-eduardo-saverin-in-singapore-funding-facebook-games/>
 

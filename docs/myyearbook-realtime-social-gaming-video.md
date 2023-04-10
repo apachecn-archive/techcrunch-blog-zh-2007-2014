@@ -1,4 +1,4 @@
-# MyYearbook 引入视频聊天实时社交游戏 TechCrunch
+# MyYearbook 引入视频聊天实时社交游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/29/myyearbook-realtime-social-gaming-video/>
 

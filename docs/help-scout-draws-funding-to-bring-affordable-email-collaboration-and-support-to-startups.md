@@ -1,4 +1,4 @@
-# 帮助 Scout 筹集资金，为初创公司提供经济实惠的电子邮件协作和支持 TechCrunch
+# 帮助 Scout 筹集资金，为初创公司提供经济实惠的电子邮件协作和支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/08/help-scout-draws-funding-to-bring-affordable-email-collaboration-and-support-to-startups/>
 

@@ -1,4 +1,4 @@
-# 20 万美元的资金筹集意味着 SETI 可以再次监听外星人 TechCrunch
+# 20 万美元的资金筹集意味着 SETI 可以再次监听外星人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/200k-fundraiser-means-seti-can-listen-for-aliens-again/>
 

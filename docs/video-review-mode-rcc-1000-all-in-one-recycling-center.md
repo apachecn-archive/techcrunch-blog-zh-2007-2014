@@ -1,4 +1,4 @@
-# 视频回顾:Mode RCC-1075 多功能回收中心 TechCrunch
+# 视频回顾:Mode RCC-1075 多功能回收中心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/04/20/video-review-mode-rcc-1000-all-in-one-recycling-center/>
 

@@ -1,4 +1,4 @@
-# 三星 Galaxy Tab 10.1 的 t-Mobile out 发布日期，华为跳板 TechCrunch
+# 三星 Galaxy Tab 10.1 的 t-Mobile out 发布日期，华为跳板 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/t-mobile-outs-release-dates-for-the-samsung-galaxy-tab-10-1-huawei-springboard/>
 

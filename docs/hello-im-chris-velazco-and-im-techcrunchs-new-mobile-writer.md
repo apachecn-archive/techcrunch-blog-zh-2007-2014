@@ -1,4 +1,4 @@
-# 你好！我是 Chris Velazco，我是 TechCrunch 的新手机作家 TechCrunch
+# 你好！我是 Chris Velazco，我是 TechCrunch 的新手机作家 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/hello-im-chris-velazco-and-im-techcrunchs-new-mobile-writer/>
 

@@ -1,4 +1,4 @@
-# Kindle Fire 被拆——这并不奇怪 TechCrunch
+# Kindle Fire 被拆——这并不奇怪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/kindle-fire-gets-torn-down-no-surprises-here/>
 

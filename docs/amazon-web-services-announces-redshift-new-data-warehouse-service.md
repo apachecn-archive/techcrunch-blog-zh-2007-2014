@@ -1,4 +1,4 @@
-# 亚马逊网络服务宣布推出新数据仓库服务 Redshift TechCrunch
+# 亚马逊网络服务宣布推出新数据仓库服务 Redshift 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/28/amazon-web-services-announces-redshift-new-data-warehouse-service/>
 

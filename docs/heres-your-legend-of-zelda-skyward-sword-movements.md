@@ -1,4 +1,4 @@
-# 这是你的塞尔达传说:天空之剑运动 TechCrunch
+# 这是你的塞尔达传说:天空之剑运动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/17/heres-your-legend-of-zelda-skyward-sword-movements/>
 

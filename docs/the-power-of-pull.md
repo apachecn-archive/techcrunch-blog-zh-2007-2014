@@ -1,4 +1,4 @@
-# 拉动的力量 TechCrunch
+# 拉动的力量 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/03/the-power-of-pull/>
 

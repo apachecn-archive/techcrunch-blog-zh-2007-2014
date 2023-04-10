@@ -1,4 +1,4 @@
-# Groupon 更新了面包屑支付应用，增加了交易兑换、离线模式和餐厅以外的更多定制功能 TechCrunch
+# Groupon 更新了面包屑支付应用，增加了交易兑换、离线模式和餐厅以外的更多定制功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/groupon-updates-its-breadcrumb-payments-app-with-deal-redemptions-offline-mode-and-more-customization/>
 

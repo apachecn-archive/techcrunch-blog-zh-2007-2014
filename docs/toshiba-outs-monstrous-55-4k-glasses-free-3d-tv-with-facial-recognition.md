@@ -1,4 +1,4 @@
-# 东芝推出 55 英寸超大 4K、带面部识别的裸眼 3D 电视 TechCrunch
+# 东芝推出 55 英寸超大 4K、带面部识别的裸眼 3D 电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/toshiba-outs-monstrous-55-4k-glasses-free-3d-tv-with-facial-recognition/>
 

@@ -1,4 +1,4 @@
-# 每个人都很恐慌:为什么我们的 IP 地址快用完了，现在会发生什么 TechCrunch
+# 每个人都很恐慌:为什么我们的 IP 地址快用完了，现在会发生什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/02/everybody-panic-why-were-running-out-of-ip-address-and-whats-going-to-happen-now/>
 

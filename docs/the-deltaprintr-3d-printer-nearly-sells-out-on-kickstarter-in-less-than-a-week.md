@@ -1,4 +1,4 @@
-# 不到一周，Deltaprintr 3D 打印机在 Kickstarter 上几乎销售一空 TechCrunch
+# 不到一周，Deltaprintr 3D 打印机在 Kickstarter 上几乎销售一空 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/11/the-deltaprintr-3d-printer-nearly-sells-out-on-kickstarter-in-less-than-a-week/>
 

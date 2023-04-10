@@ -1,4 +1,4 @@
-# Livefyre 开设伦敦销售办公室，在欧洲出版商中扩张 TechCrunch
+# Livefyre 开设伦敦销售办公室，在欧洲出版商中扩张 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/17/livefyre-opens-london-sales-office-to-expand-amongst-european-publishers/>
 

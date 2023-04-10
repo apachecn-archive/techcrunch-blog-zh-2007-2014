@@ -1,4 +1,4 @@
-# 有人计算了点击鼠标燃烧多少卡路里 TechCrunch
+# 有人计算了点击鼠标燃烧多少卡路里 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/11/someone-calculated-how-many-calories-a-mouse-click-burns/>
 

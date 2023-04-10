@@ -1,4 +1,4 @@
-# 摩托罗拉用 MotoACTV 智能手表挑战 iPod Nano TechCrunch
+# 摩托罗拉用 MotoACTV 智能手表挑战 iPod Nano 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/motorola-announces-the-motoactv-smart-watch/>
 

@@ -1,4 +1,4 @@
-# 诺基亚开始在日本提供 VERTU 手机服务 TechCrunch
+# 诺基亚开始在日本提供 VERTU 手机服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/07/nokia-starts-offering-vertu-mobile-phone-services-in-japan/>
 

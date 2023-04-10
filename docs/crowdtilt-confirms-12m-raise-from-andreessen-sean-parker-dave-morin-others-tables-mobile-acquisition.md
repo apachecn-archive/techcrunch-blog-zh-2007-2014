@@ -1,4 +1,4 @@
-# Crowdtilt 确认从安德森、肖恩·帕克、戴夫·莫兰等人那里筹集到 1200 万美元；表格移动采集 TechCrunch
+# Crowdtilt 确认从安德森、肖恩·帕克、戴夫·莫兰等人那里筹集到 1200 万美元；表格移动采集 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/18/crowdtilt-confirms-12m-raise-from-andreessen-sean-parker-dave-morin-others-tables-mobile-acquisition/>
 

@@ -1,4 +1,4 @@
-# Wixi 向我们的读者发出 5000 份邀请函 TechCrunch
+# Wixi 向我们的读者发出 5000 份邀请函 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/01/wixi-gives-away-5000-invites-to-our-readers/>
 

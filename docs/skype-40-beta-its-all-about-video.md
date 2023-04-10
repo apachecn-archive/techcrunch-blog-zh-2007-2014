@@ -1,4 +1,4 @@
-# Skype 4.0 测试版:全是关于视频 TechCrunch
+# Skype 4.0 测试版:全是关于视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/17/skype-40-beta-its-all-about-video/>
 

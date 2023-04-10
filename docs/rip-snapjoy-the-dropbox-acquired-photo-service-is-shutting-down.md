@@ -1,4 +1,4 @@
-# RIP Snapjoy:Dropbox 收购的照片服务正在关闭 TechCrunch
+# RIP Snapjoy:Dropbox 收购的照片服务正在关闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/22/rip-snapjoy-the-dropbox-acquired-photo-service-is-shutting-down/>
 

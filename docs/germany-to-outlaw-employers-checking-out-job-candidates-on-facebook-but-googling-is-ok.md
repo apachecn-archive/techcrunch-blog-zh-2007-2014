@@ -1,4 +1,4 @@
-# 德国将禁止雇主在脸书搜索求职者，但谷歌搜索是可以的 TechCrunch
+# 德国将禁止雇主在脸书搜索求职者，但谷歌搜索是可以的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/germany-to-outlaw-employers-checking-out-job-candidates-on-facebook-but-googling-is-ok/>
 

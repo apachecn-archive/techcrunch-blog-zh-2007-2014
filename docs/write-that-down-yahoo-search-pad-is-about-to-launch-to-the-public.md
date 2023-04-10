@@ -1,4 +1,4 @@
-# 记下来:雅虎搜索平台即将向公众推出 TechCrunch
+# 记下来:雅虎搜索平台即将向公众推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/06/write-that-down-yahoo-search-pad-is-about-to-launch-to-the-public/>
 

@@ -1,4 +1,4 @@
-# 指纹获得 140 万美元，利用资深团队为儿童创建移动学习网络 TechCrunch
+# 指纹获得 140 万美元，利用资深团队为儿童创建移动学习网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/fingerprint-grabs-1-4-million-taps-veteran-team-to-create-mobile-learning-network-for-kids/>
 

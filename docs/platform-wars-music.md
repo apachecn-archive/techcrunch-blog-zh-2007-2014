@@ -1,4 +1,4 @@
-# 平台战争:音乐会带来和谐还是不和谐？TechCrunch
+# 平台战争:音乐会带来和谐还是不和谐？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/02/platform-wars-music/>
 

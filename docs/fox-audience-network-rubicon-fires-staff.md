@@ -1,4 +1,4 @@
-# 为了准备出售给 Rubicon 项目，福克斯观众网络解雇了一半员工 TechCrunch
+# 为了准备出售给 Rubicon 项目，福克斯观众网络解雇了一半员工 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/28/fox-audience-network-rubicon-fires-staff/>
 

@@ -1,4 +1,4 @@
-# 观看 TechCrunch 扰乱 SF 直播！脸书的扎克在太平洋时间下午 2 点发表演讲 TechCrunch
+# 观看 TechCrunch 扰乱 SF 直播！脸书的扎克在太平洋时间下午 2 点发表演讲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/watch-techcrunch-disrupt-sf-live-2/>
 

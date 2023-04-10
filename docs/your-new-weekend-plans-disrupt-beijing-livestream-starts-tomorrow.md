@@ -1,4 +1,4 @@
-# 你的新周末计划:扰乱北京直播明天开始 TechCrunch
+# 你的新周末计划:扰乱北京直播明天开始 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/your-new-weekend-plans-disrupt-beijing-livestream-starts-tomorrow/>
 

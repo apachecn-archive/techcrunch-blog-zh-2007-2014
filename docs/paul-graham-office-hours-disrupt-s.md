@@ -1,4 +1,4 @@
-# 保罗·格拉厄姆将恢复办公时间来扰乱旧金山，现在就注册 TechCrunch
+# 保罗·格拉厄姆将恢复办公时间来扰乱旧金山，现在就注册 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/paul-graham-office-hours-disrupt-s/>
 

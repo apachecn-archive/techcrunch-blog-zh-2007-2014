@@ -1,4 +1,4 @@
-# 三星 Galaxy Nexus 可用性泄露:11 月 21 日仅在网络上发布 TechCrunch
+# 三星 Galaxy Nexus 可用性泄露:11 月 21 日仅在网络上发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/07/samsung-galaxy-nexus-availability-leaks-web-only-launch-on-november-21/>
 

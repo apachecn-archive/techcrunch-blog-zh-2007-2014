@@ -1,4 +1,4 @@
-# 大型网站开始投放更大的展示广告。大错特错。TechCrunch
+# 大型网站开始投放更大的展示广告。大错特错。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/01/big-websites-start-running-bigger-display-ads-big-mistake/>
 

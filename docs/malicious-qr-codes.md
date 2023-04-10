@@ -1,4 +1,4 @@
-# 现在你又多了一个忽略二维码的理由 TechCrunch
+# 现在你又多了一个忽略二维码的理由 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/malicious-qr-codes/>
 

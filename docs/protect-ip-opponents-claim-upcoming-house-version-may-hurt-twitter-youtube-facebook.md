@@ -1,4 +1,4 @@
-# 保护知识产权反对者声称即将推出的众议院版本可能会伤害 Twitter、YouTube、脸书 TechCrunch
+# 保护知识产权反对者声称即将推出的众议院版本可能会伤害 Twitter、YouTube、脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/protect-ip-opponents-claim-upcoming-house-version-may-hurt-twitter-youtube-facebook/>
 

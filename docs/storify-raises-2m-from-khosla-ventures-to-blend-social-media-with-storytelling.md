@@ -1,4 +1,4 @@
-# Storify 从 Khosla Ventures 获得 10 亿美元 2M 资金，将社交媒体与讲故事结合起来 TechCrunch
+# Storify 从 Khosla Ventures 获得 10 亿美元 2M 资金，将社交媒体与讲故事结合起来 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/03/storify-raises-2m-from-khosla-ventures-to-blend-social-media-with-storytelling/>
 

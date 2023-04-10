@@ -1,4 +1,4 @@
-# 飞还是死:3D 系统传感扫描仪 TechCrunch
+# 飞还是死:3D 系统传感扫描仪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/19/fly-or-die-3d-systems-sense-scanner/>
 

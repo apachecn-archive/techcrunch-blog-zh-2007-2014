@@ -1,4 +1,4 @@
-# CakeStyle 是一项针对女性的个人购物服务 TechCrunch
+# CakeStyle 是一项针对女性的个人购物服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/cakestyle-is-a-personal-shopping-service-for-women/>
 

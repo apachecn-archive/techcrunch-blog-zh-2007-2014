@@ -1,4 +1,4 @@
-# Google Now 允许您导出 Google 语音数据 TechCrunch
+# Google Now 允许您导出 Google 语音数据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/google-now-lets-you-export-google-voice-data/>
 

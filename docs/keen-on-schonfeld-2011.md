@@ -1,4 +1,4 @@
-# 热衷于...埃里克·舍恩菲尔德:2011 年将会是 1999 年的重演吗？TechCrunch
+# 热衷于...埃里克·舍恩菲尔德:2011 年将会是 1999 年的重演吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/28/keen-on-schonfeld-2011/>
 

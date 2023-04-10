@@ -1,4 +1,4 @@
-# 前 Windows Phone 高管查理·金德尔(Charlie Kindel)加入亚马逊，从事“秘密工作”——可能与手机相关的 TechCrunch
+# 前 Windows Phone 高管查理·金德尔(Charlie Kindel)加入亚马逊，从事“秘密工作”——可能与手机相关的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/02/kindel-joins-amazon/>
 

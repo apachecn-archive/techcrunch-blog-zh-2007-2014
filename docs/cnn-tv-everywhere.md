@@ -1,4 +1,4 @@
-# CNN 加入电视无处不在，将现场新闻放在登录墙后 TechCrunch
+# CNN 加入电视无处不在，将现场新闻放在登录墙后 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/cnn-tv-everywhere/>
 

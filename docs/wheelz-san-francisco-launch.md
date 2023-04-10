@@ -1,4 +1,4 @@
-# 点对点汽车共享初创公司 Wheelz 在旧金山推出，与 RelayRides 和 Getaround 展开竞争 TechCrunch
+# 点对点汽车共享初创公司 Wheelz 在旧金山推出，与 RelayRides 和 Getaround 展开竞争 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/30/wheelz-san-francisco-launch/>
 

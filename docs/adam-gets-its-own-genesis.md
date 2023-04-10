@@ -1,4 +1,4 @@
-# 亚当有了自己的起源 TechCrunch
+# 亚当有了自己的起源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/18/adam-gets-its-own-genesis/>
 

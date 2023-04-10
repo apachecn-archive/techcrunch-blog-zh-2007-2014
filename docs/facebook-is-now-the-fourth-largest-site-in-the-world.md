@@ -1,4 +1,4 @@
-# 脸书现在是世界第四大网站 TechCrunch
+# 脸书现在是世界第四大网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/facebook-is-now-the-fourth-largest-site-in-the-world/>
 

@@ -1,4 +1,4 @@
-# Canonical 寻求 3200 万美元来开发一款为融合计算设计的 Ubuntu 智能手机 TechCrunch
+# Canonical 寻求 3200 万美元来开发一款为融合计算设计的 Ubuntu 智能手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/ubuntu-smartphone-canonical/>
 

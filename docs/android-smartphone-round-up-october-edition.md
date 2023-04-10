@@ -1,4 +1,4 @@
-# Android 智能手机综述:十月版 TechCrunch
+# Android 智能手机综述:十月版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/android-smartphone-round-up-october-edition/>
 

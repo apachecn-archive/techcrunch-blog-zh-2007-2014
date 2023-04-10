@@ -1,4 +1,4 @@
-# 索尼爱立信新款 Cyber-shot 手机的照片？–TechCrunch
+# 索尼爱立信新款 Cyber-shot 手机的照片？–
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/photos-of-sony-ericssons-new-cyber-shot-phone/>
 

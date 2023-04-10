@@ -1,4 +1,4 @@
-# Android 进军另一部固定电话(并进军)TechCrunch
+# Android 进军另一部固定电话(并进军)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/another-android-home-phone/>
 

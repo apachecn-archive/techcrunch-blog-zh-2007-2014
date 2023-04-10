@@ -1,4 +1,4 @@
-# Hitchsters 2.0:纽约旧金山半价机场豪华轿车 TechCrunch
+# Hitchsters 2.0:纽约旧金山半价机场豪华轿车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/10/hitchsters-20-half-priced-airport-limos-in-san-francisco-nyc/>
 

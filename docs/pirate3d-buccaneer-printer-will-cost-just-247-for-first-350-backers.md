@@ -1,4 +1,4 @@
-# 第一批 350 名支持者的 Pirate3D Buccaneer 打印机售价仅为 247 美元 TechCrunch
+# 第一批 350 名支持者的 Pirate3D Buccaneer 打印机售价仅为 247 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/30/pirate3d-buccaneer-printer-will-cost-just-247-for-first-350-backers/>
 

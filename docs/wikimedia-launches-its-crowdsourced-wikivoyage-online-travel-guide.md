@@ -1,4 +1,4 @@
-# Wikimedia 推出众包 Wikivoyage 在线旅游指南 TechCrunch
+# Wikimedia 推出众包 Wikivoyage 在线旅游指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/wikimedia-launches-its-crowdsourced-wikivoyage-online-travel-guide/>
 

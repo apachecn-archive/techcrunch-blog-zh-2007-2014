@@ -1,4 +1,4 @@
-# Skype 的圣诞礼物:专利侵权诉讼 TechCrunch
+# Skype 的圣诞礼物:专利侵权诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/27/skype-gradient-enterprises/>
 

@@ -1,4 +1,4 @@
-# 谷歌终结了无线运营商 TechCrunch
+# 谷歌终结了无线运营商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/25/googles-end-run-around-the-wireless-carriers/>
 

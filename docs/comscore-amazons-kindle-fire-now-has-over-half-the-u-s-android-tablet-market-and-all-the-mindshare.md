@@ -1,4 +1,4 @@
-# ComScore:亚马逊的 Kindle Fire 现在拥有超过一半的美国安卓平板电脑市场(以及所有的精神份额？)TechCrunch
+# ComScore:亚马逊的 Kindle Fire 现在拥有超过一半的美国安卓平板电脑市场(以及所有的精神份额？)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/comscore-amazons-kindle-fire-now-has-over-half-the-u-s-android-tablet-market-and-all-the-mindshare/>
 

@@ -1,4 +1,4 @@
-# 谷歌详细介绍了 Chrome 的后台功能:在看不到的情况下运行网络应用 TechCrunch
+# 谷歌详细介绍了 Chrome 的后台功能:在看不到的情况下运行网络应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/23/chrome-background-apps/>
 

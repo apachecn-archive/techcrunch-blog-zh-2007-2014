@@ -1,4 +1,4 @@
-# 客座博文:与迈克尔·阿灵顿合作一个个人项目 TechCrunch
+# 客座博文:与迈克尔·阿灵顿合作一个个人项目 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/03/31/guest-post-working-with-michael-arrington-on-a-personal-project/>
 

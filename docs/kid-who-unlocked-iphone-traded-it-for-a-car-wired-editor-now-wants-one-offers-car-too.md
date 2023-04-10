@@ -1,4 +1,4 @@
-# 解锁 iPhone 的小孩用它换了一辆车；《连线》编辑现在想要一辆，也提供汽车——TechCrunch
+# 解锁 iPhone 的小孩用它换了一辆车；《连线》编辑现在想要一辆，也提供汽车——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/kid-who-unlocked-iphone-traded-it-for-a-car-wired-editor-now-wants-one-offers-car-too/>
 

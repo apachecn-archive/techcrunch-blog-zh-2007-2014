@@ -1,4 +1,4 @@
-# 贾斯汀·坎的高管今天开始为公司和初创企业跑腿 TechCrunch
+# 贾斯汀·坎的高管今天开始为公司和初创企业跑腿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/26/exec-justin-kan-corporate-accounts/>
 

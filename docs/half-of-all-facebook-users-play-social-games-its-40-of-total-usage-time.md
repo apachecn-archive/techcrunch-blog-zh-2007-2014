@@ -1,4 +1,4 @@
-# 一半的脸书用户玩社交游戏——占总使用时间的 40% TechCrunch
+# 一半的脸书用户玩社交游戏——占总使用时间的 40% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/30/half-of-all-facebook-users-play-social-games-its-40-of-total-usage-time/>
 

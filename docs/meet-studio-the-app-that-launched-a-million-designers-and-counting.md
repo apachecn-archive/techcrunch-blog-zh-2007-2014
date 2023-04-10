@@ -1,4 +1,4 @@
-# 认识一下 Studio，这款应用已经吸引了 100 万名设计师，而且还在增加 TechCrunch
+# 认识一下 Studio，这款应用已经吸引了 100 万名设计师，而且还在增加 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/meet-studio-the-app-that-launched-a-million-designers-and-counting/>
 

@@ -1,4 +1,4 @@
-# Tim Stevens 离开 Engadget，Marc Perton 接管 TechCrunch
+# Tim Stevens 离开 Engadget，Marc Perton 接管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/15/tim-stevens-out-at-engadget-marc-perton-to-take-over-temporarily/>
 

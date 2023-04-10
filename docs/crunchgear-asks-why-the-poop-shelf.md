@@ -1,4 +1,4 @@
-# 克朗彻格问:为什么是便便架？TechCrunch
+# 克朗彻格问:为什么是便便架？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/15/crunchgear-asks-why-the-poop-shelf/>
 

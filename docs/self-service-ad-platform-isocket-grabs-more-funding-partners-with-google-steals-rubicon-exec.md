@@ -1,4 +1,4 @@
-# 自助广告平台 isocket 攫取更多资金；与谷歌的合作伙伴；窃取 Rubicon Exec TechCrunch
+# 自助广告平台 isocket 攫取更多资金；与谷歌的合作伙伴；窃取 Rubicon Exec 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/self-service-ad-platform-isocket-grabs-more-funding-partners-with-google-steals-rubicon-exec/>
 

@@ -1,4 +1,4 @@
-# Twitter 考虑迁移总部。去加州布里斯班？TechCrunch
+# Twitter 考虑迁移总部。去加州布里斯班？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/13/twitter-considers-moving-its-headquarters-to-brisbane-ca/>
 

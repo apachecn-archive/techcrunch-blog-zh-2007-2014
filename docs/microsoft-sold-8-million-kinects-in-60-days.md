@@ -1,4 +1,4 @@
-# 微软在 60 天内售出 800 万台 Kinect TechCrunch
+# 微软在 60 天内售出 800 万台 Kinect 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/microsoft-sold-8-million-kinects-in-60-days/>
 

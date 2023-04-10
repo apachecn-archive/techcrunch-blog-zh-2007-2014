@@ -1,4 +1,4 @@
-# Google Demo Slam:周三开始有些奇怪的事情 TechCrunch
+# Google Demo Slam:周三开始有些奇怪的事情 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/18/google-demo-slam/>
 

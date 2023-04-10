@@ -1,4 +1,4 @@
-# Ebyline 从 E.W. Scripps 筹集 500 万美元帮助新闻机构对抗内容农场 TechCrunch
+# Ebyline 从 E.W. Scripps 筹集 500 万美元帮助新闻机构对抗内容农场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/ebyline-raises-5-million-from-e-w-scripps-to-help-news-organizations-fight-off-content-farms/>
 

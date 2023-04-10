@@ -1,4 +1,4 @@
-# “移动 Heroku”stack mob 与...Heroku！TechCrunch
+# “移动 Heroku”stack mob 与...Heroku！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/stackmob-heroku/>
 

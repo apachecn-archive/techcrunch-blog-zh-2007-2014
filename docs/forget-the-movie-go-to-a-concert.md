@@ -1,4 +1,4 @@
-# 忘记电影，去听音乐会 TechCrunch
+# 忘记电影，去听音乐会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/18/forget-the-movie-go-to-a-concert/>
 

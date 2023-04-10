@@ -1,4 +1,4 @@
-# 茶杯里的谷歌+风暴 TechCrunch
+# 茶杯里的谷歌+风暴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/11/a-google-tempest-in-a-teacup/>
 

@@ -1,4 +1,4 @@
-# 在线视频广告网络 DBG 收购数字体育风投 TechCrunch
+# 在线视频广告网络 DBG 收购数字体育风投 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/online-video-ad-network-dbg-acquires-digital-sports-ventures/>
 

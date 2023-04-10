@@ -1,4 +1,4 @@
-# 收购 Jive 后，Producteev 增加了 iPad 和 Outlook 应用程序 TechCrunch
+# 收购 Jive 后，Producteev 增加了 iPad 和 Outlook 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/producteev-adds-ipad-and-outlook-apps-while-looking-back-at-its-acquisition/>
 

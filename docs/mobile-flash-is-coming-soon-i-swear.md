@@ -1,4 +1,4 @@
-# 史蒂夫笑到最后:Adobe 扼杀移动设备的 Flash TechCrunch
+# 史蒂夫笑到最后:Adobe 扼杀移动设备的 Flash 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/mobile-flash-is-coming-soon-i-swear/>
 

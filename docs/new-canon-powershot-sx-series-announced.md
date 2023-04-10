@@ -1,4 +1,4 @@
-# 佳能 PowerShot SX 系列新品发布 TechCrunch
+# 佳能 PowerShot SX 系列新品发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/new-canon-powershot-sx-series-announced/>
 

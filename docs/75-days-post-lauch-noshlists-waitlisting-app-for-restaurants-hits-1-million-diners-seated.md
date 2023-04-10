@@ -1,4 +1,4 @@
-# 发布 75 天后，NoshList 的餐厅等待列表应用程序吸引了 100 万用餐者 TechCrunch
+# 发布 75 天后，NoshList 的餐厅等待列表应用程序吸引了 100 万用餐者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/08/75-days-post-lauch-noshlists-waitlisting-app-for-restaurants-hits-1-million-diners-seated/>
 

@@ -1,4 +1,4 @@
-# 谁是最受关注的 Twitter 用户？TechCrunch
+# 谁是最受关注的 Twitter 用户？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/most-listed-twitter-users/>
 

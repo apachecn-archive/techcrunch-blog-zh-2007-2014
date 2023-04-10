@@ -1,4 +1,4 @@
-# Android 版 Twitter 现在支持多个个人资料、推送通知 TechCrunch
+# Android 版 Twitter 现在支持多个个人资料、推送通知 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/twitter-for-android-now-supports-multiple-profiles-push-notifications/>
 

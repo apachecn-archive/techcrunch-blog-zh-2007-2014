@@ -1,4 +1,4 @@
-# 将一盏普通的太阳能庭院灯变成一场欢快的灯光秀 TechCrunch
+# 将一盏普通的太阳能庭院灯变成一场欢快的灯光秀 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/11/turn-an-ordinary-solar-powered-yard-light-into-a-chirping-light-show/>
 

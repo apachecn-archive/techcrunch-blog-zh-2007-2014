@@ -1,4 +1,4 @@
-# 脸书测试鼓励评论、Google+比较的照片浏览器 TechCrunch
+# 脸书测试鼓励评论、Google+比较的照片浏览器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/02/facebook-photo-viewer/>
 

@@ -1,4 +1,4 @@
-# 盖茨发送愤怒的电子邮件，听起来就像一个客户 TechCrunch
+# 盖茨发送愤怒的电子邮件，听起来就像一个客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/25/gates-sends-angry-e-mail-sounds-just-like-a-customer/>
 

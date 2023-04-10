@@ -1,4 +1,4 @@
-# 免费大规模在线教育提供商 Coursera 开始寻找盈利途径 TechCrunch
+# 免费大规模在线教育提供商 Coursera 开始寻找盈利途径 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/12/free-massive-online-education-provider-coursera-begins-to-find-a-path-to-profits/>
 

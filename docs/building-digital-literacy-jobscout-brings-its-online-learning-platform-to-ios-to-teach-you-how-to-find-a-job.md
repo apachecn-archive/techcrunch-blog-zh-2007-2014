@@ -1,4 +1,4 @@
-# 建立数字素养:JobScout 将其在线学习平台引入 iOS，教你如何找工作 TechCrunch
+# 建立数字素养:JobScout 将其在线学习平台引入 iOS，教你如何找工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/building-digital-literacy-jobscout-brings-its-online-learning-platform-to-ios-to-teach-you-how-to-find-a-job/>
 

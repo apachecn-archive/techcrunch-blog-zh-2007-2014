@@ -1,4 +1,4 @@
-# “世界上最性感的应用”？《体育画报》的泳装模特现在紧紧抓住 iPhone 不放。TechCrunch
+# “世界上最性感的应用”？《体育画报》的泳装模特现在紧紧抓住 iPhone 不放。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/the-worlds-sexiest-app-sports-illustrated-swimsuit-models-now-clutching-themselves-on-the-iphone/>
 

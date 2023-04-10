@@ -1,4 +1,4 @@
-# TinyChat iPhone 应用程序允许您与多达 12 位脸书朋友进行视频聊天 TechCrunch
+# TinyChat iPhone 应用程序允许您与多达 12 位脸书朋友进行视频聊天 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/tinychat-iphone-app-lets-you-video-chat-with-up-to-12-facebook-friends/>
 

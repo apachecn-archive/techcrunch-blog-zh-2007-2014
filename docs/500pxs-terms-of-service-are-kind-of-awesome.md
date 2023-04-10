@@ -1,4 +1,4 @@
-# 500px 的服务条款有点牛逼 TechCrunch
+# 500px 的服务条款有点牛逼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/12/500pxs-terms-of-service-are-kind-of-awesome/>
 

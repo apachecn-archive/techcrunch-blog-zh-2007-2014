@@ -1,4 +1,4 @@
-# 贝佐斯:“在消费电子设备的现代时代，如果你只是在制造一个设备，你不太可能成功。”TechCrunch
+# 贝佐斯:“在消费电子设备的现代时代，如果你只是在制造一个设备，你不太可能成功。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/bezos-in-the-modern-era-of-consumer-electronics-devices-if-you-are-just-building-a-device-you-are-unlikely-to-succeed/>
 

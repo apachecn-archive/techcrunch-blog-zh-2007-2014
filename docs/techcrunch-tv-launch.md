@@ -1,4 +1,4 @@
-# TechCrunch 电视发布...现在。TechCrunch
+# TechCrunch 电视发布...现在。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/28/techcrunch-tv-launch/>
 

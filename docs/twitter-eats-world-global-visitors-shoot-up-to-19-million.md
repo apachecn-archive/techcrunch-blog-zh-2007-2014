@@ -1,4 +1,4 @@
-# Twitter 吞噬世界:全球访客飙升至 1900 万 TechCrunch
+# Twitter 吞噬世界:全球访客飙升至 1900 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/04/24/twitter-eats-world-global-visitors-shoot-up-to-19-million/>
 

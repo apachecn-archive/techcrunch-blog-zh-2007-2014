@@ -1,4 +1,4 @@
-# 里克和莫蒂剧集在电视播出前在线首播——通过 109 个 Instagram 视频 TechCrunch
+# 里克和莫蒂剧集在电视播出前在线首播——通过 109 个 Instagram 视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/14/rick-and-morty-episode-debuts-online-ahead-of-tv-broadcast-via-109-instagram-videos/>
 

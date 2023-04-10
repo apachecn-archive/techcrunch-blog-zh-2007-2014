@@ -1,4 +1,4 @@
-# 日本公司开发出世界上最小最轻的电动汽车充电器 TechCrunch
+# 日本公司开发出世界上最小最轻的电动汽车充电器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/japanese-company-develops-worlds-smallest-and-lightest-chargers-for-electric-vehicles/>
 

@@ -1,4 +1,4 @@
-# FCC 制定网络中立计划:谁会反对“开放和自由”的互联网？TechCrunch
+# FCC 制定网络中立计划:谁会反对“开放和自由”的互联网？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/fcc-lays-out-net-neutrality-plans-who-could-be-against-an-%e2%80%98open-free%e2%80%99-internet/>
 

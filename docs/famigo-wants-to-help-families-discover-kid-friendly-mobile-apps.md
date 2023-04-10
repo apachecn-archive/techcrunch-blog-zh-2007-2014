@@ -1,4 +1,4 @@
-# Famigo 希望帮助家庭发现适合孩子的移动应用 TechCrunch
+# Famigo 希望帮助家庭发现适合孩子的移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/30/famigo-wants-to-help-families-discover-kid-friendly-mobile-apps/>
 

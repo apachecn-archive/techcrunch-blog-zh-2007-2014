@@ -1,4 +1,4 @@
-# Y Combinator 演示日:夏季创业 TechCrunch
+# Y Combinator 演示日:夏季创业 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/16/y-combinator-demo-day-the-summer-startups/>
 

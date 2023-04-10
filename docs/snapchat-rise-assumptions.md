@@ -1,4 +1,4 @@
-# 迭代:SnapChat 的成功挑战了许多硅谷假设 TechCrunch
+# 迭代:SnapChat 的成功挑战了许多硅谷假设 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/10/snapchat-rise-assumptions/>
 

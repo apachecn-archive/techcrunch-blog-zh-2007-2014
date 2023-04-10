@@ -1,4 +1,4 @@
-# 热门 iPad 脸书应用 MyPad 登陆 iPhone TechCrunch
+# 热门 iPad 脸书应用 MyPad 登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/hit-ipad-facebook-app-mypad-comes-to-the-iphone/>
 

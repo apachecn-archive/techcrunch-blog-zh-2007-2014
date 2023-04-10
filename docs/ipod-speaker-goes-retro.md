@@ -1,4 +1,4 @@
-# iPod 扬声器回归 TechCrunch
+# iPod 扬声器回归 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/30/ipod-speaker-goes-retro/>
 

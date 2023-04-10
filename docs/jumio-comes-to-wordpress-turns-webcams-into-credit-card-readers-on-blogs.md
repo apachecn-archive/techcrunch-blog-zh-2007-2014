@@ -1,4 +1,4 @@
-# Jumio 来到 WordPress，将博客读者的网络摄像头变成信用卡阅读器 TechCrunch
+# Jumio 来到 WordPress，将博客读者的网络摄像头变成信用卡阅读器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/25/jumio-comes-to-wordpress-turns-webcams-into-credit-card-readers-on-blogs/>
 

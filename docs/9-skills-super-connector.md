@@ -1,4 +1,4 @@
-# 成为超级连接器所需的 9 项技能 TechCrunch
+# 成为超级连接器所需的 9 项技能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/23/9-skills-super-connector/>
 

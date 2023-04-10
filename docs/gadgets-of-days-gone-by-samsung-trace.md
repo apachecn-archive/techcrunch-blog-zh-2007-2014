@@ -1,4 +1,4 @@
-# 昔日的小玩意:三星 Trace、spin phone TechCrunch
+# 昔日的小玩意:三星 Trace、spin phone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/03/gadgets-of-days-gone-by-samsung-trace/>
 

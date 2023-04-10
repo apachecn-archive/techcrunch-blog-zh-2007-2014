@@ -1,4 +1,4 @@
-# MYSQL IPO 话题再次升温 TechCrunch
+# MYSQL IPO 话题再次升温 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/26/mysql-ipo-chatter-picking-up-again/>
 

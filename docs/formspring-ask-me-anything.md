@@ -1,4 +1,4 @@
-# 在 Formspring.me 上，任何人都可以问你任何问题。你会喜欢的。TechCrunch
+# 在 Formspring.me 上，任何人都可以问你任何问题。你会喜欢的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/formspring-ask-me-anything/>
 

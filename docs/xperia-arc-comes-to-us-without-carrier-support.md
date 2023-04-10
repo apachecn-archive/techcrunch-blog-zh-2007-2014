@@ -1,4 +1,4 @@
-# Xperia Arc 在没有运营商支持的情况下来到我们身边 TechCrunch
+# Xperia Arc 在没有运营商支持的情况下来到我们身边 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/xperia-arc-comes-to-us-without-carrier-support/>
 

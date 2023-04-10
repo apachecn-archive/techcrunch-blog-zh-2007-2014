@@ -1,4 +1,4 @@
-# 亚马逊颠覆性的 Android 应用商店现已向开发者开放——详细信息 TechCrunch
+# 亚马逊颠覆性的 Android 应用商店现已向开发者开放——详细信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/05/amazon-android-app-store-2/>
 

@@ -1,4 +1,4 @@
-# Google.com 有一个不容错过的广告吸引用户使用 Google+TechCrunch
+# Google.com 有一个不容错过的广告吸引用户使用 Google+
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/google-com-has-an-unmissable-ad-drawing-users-to-google/>
 

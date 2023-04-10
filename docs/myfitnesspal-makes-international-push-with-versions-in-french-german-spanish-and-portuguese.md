@@ -1,4 +1,4 @@
-# MyFitnessPal 推出法语、德语、西班牙语和葡萄牙语版本 TechCrunch
+# MyFitnessPal 推出法语、德语、西班牙语和葡萄牙语版本 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/18/myfitnesspal-makes-international-push-with-versions-in-french-german-spanish-and-portuguese/>
 

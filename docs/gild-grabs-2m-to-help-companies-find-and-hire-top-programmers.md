@@ -1,4 +1,4 @@
-# Gild 抓住$2M，帮助公司寻找和雇佣顶级程序员 TechCrunch
+# Gild 抓住$2M，帮助公司寻找和雇佣顶级程序员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/02/gild-grabs-2m-to-help-companies-find-and-hire-top-programmers/>
 

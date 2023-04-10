@@ -1,4 +1,4 @@
-# 收音机吓坏了:第一家考克斯媒体拥有的广播电台将控制权移交给网络和手机上的听众 TechCrunch
+# 收音机吓坏了:第一家考克斯媒体拥有的广播电台将控制权移交给网络和手机上的听众 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/radio-freaks-out-first-cox-media-owned-radio-station-turns-over-control-to-listeners-247/>
 

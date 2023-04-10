@@ -1,4 +1,4 @@
-# 书呆子雕刻安卓万圣节南瓜 TechCrunch
+# 书呆子雕刻安卓万圣节南瓜 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/28/requisite-halloween-post/>
 

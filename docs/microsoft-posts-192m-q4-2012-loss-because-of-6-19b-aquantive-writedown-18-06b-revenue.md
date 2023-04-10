@@ -1,4 +1,4 @@
-# 微软公布 2012 年第四季度亏损 4.92 亿美元，原因是 619 亿美元的资产减记，180.6 亿美元的收入 TechCrunch
+# 微软公布 2012 年第四季度亏损 4.92 亿美元，原因是 619 亿美元的资产减记，180.6 亿美元的收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/microsoft-posts-192m-q4-2012-loss-because-of-6-19b-aquantive-writedown-18-06b-revenue/>
 

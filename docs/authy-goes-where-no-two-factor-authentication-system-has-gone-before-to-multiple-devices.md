@@ -1,4 +1,4 @@
-# Authy 现在允许您在多台设备上使用其双因素认证系统 TechCrunch
+# Authy 现在允许您在多台设备上使用其双因素认证系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/21/authy-goes-where-no-two-factor-authentication-system-has-gone-before-to-multiple-devices/>
 

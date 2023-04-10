@@ -1,4 +1,4 @@
-# 基于宁的新花花公子社交网络——TechCrunch
+# 基于宁的新花花公子社交网络——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/22/new-playboy-social-network-built-on-ning/>
 

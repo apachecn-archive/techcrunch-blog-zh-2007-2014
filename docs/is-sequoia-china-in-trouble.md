@@ -1,4 +1,4 @@
-# 红杉中国陷入困境了吗？TechCrunch
+# 红杉中国陷入困境了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/15/is-sequoia-china-in-trouble/>
 

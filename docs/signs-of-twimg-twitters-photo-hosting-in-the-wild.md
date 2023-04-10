@@ -1,4 +1,4 @@
-# Twitter 照片托管的迹象 TechCrunch
+# Twitter 照片托管的迹象 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/31/signs-of-twimg-twitters-photo-hosting-in-the-wild/>
 

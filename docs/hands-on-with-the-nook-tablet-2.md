@@ -1,4 +1,4 @@
-# 体验 Nook 平板电脑 TechCrunch
+# 体验 Nook 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/07/hands-on-with-the-nook-tablet-2/>
 

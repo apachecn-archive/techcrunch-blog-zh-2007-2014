@@ -1,4 +1,4 @@
-# 笨蛋们。苹果法律基本上确认脂肪纳米的存在[更新]——TechCrunch
+# 笨蛋们。苹果法律基本上确认脂肪纳米的存在[更新]——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/bloops-apple-legal-essentially-confirms-fat-nano-existence/>
 

@@ -1,4 +1,4 @@
-# 苹果将于今秋推出 iOS 6 TechCrunch
+# 苹果将于今秋推出 iOS 6 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/apple-announces-ios-6-wwdc/>
 

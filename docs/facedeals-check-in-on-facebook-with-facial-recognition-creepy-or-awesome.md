@@ -1,4 +1,4 @@
-# Facedeals:通过面部识别在脸书办理登机手续。令人毛骨悚然还是令人敬畏？TechCrunch
+# Facedeals:通过面部识别在脸书办理登机手续。令人毛骨悚然还是令人敬畏？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/10/facedeals-check-in-on-facebook-with-facial-recognition-creepy-or-awesome/>
 

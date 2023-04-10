@@ -1,4 +1,4 @@
-# 雅虎和微软不再说话。谷歌交易可能是唯一的选择 TechCrunch
+# 雅虎和微软不再说话。谷歌交易可能是唯一的选择 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/12/yahoo-and-microsoft-no-longer-speaking-google-deal-may-be-the-only-option-left/>
 

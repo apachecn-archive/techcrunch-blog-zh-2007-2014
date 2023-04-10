@@ -1,4 +1,4 @@
-# Meatspace，一个动画 gif、人类机器人和 Snapchat 类应用短暂的世界 TechCrunch
+# Meatspace，一个动画 gif、人类机器人和 Snapchat 类应用短暂的世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/01/meatspace-a-world-of-animated-gifs-human-robots-and-the-ephemerality-of-snapchat-like-apps/>
 

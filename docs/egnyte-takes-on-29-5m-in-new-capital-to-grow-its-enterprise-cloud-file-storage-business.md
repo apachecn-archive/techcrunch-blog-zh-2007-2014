@@ -1,4 +1,4 @@
-# Egnyte 获得 2950 万美元的新资本以发展其企业云文件存储业务 TechCrunch
+# Egnyte 获得 2950 万美元的新资本以发展其企业云文件存储业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/11/egnyte-takes-on-29-5m-in-new-capital-to-grow-its-enterprise-cloud-file-storage-business/>
 

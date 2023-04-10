@@ -1,4 +1,4 @@
-# 吉尔摩帮:蓝牙奶嘴环 TechCrunch
+# 吉尔摩帮:蓝牙奶嘴环 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/19/gillmor-gang-bluetooth-nipple-rings/>
 

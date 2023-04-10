@@ -1,4 +1,4 @@
-# 医疗改革，中国创业风格 TechCrunch
+# 医疗改革，中国创业风格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/19/healthcare-reform-chinese-startup-style/>
 

@@ -1,4 +1,4 @@
-# 谷歌在谷歌 Play 商店开设新的“设备”部门，销售无锁版 Galaxy Nexus TechCrunch
+# 谷歌在谷歌 Play 商店开设新的“设备”部门，销售无锁版 Galaxy Nexus 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/24/google-opens-new-devices-section-in-the-google-play-store-to-sell-unlocked-galaxy-nexus/>
 

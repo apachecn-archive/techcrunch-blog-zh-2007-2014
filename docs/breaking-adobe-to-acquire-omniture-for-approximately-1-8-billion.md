@@ -1,4 +1,4 @@
-# 重大新闻:Adobe 以约 18 亿美元收购 Omniture TechCrunch
+# 重大新闻:Adobe 以约 18 亿美元收购 Omniture 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/breaking-adobe-to-acquire-omniture-for-approximately-1-8-billion/>
 

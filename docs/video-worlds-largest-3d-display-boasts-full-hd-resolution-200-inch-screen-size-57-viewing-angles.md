@@ -1,4 +1,4 @@
-# 视频:世界上最大的 3D 显示器拥有全高清分辨率、200 英寸屏幕尺寸、57 个视角 TechCrunch
+# 视频:世界上最大的 3D 显示器拥有全高清分辨率、200 英寸屏幕尺寸、57 个视角 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/video-worlds-largest-3d-display-boasts-full-hd-resolution-200-inch-screen-size-57-viewing-angles/>
 

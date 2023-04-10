@@ -1,4 +1,4 @@
-# YouTube，你需要一个 GIF 创建者 TechCrunch
+# YouTube，你需要一个 GIF 创建者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/24/youtube-you-need-a-gif-creator/>
 

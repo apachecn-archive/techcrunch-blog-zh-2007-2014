@@ -1,4 +1,4 @@
-# TC50 公司 iTwin 赢得大众科学最佳最新消息奖 TechCrunch
+# TC50 公司 iTwin 赢得大众科学最佳最新消息奖 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/tc50-company-itwin-wins-popular-sciences-best-of-whats-new-award/>
 

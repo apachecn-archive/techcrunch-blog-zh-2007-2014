@@ -1,4 +1,4 @@
-# 调查显示:公关人员喜欢我们的无禁运政策 TechCrunch
+# 调查显示:公关人员喜欢我们的无禁运政策 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/04/survey-says-pr-people-love-our-no-embargo-policy/>
 
@@ -12,7 +12,7 @@
 
 **十大科技博客**
 
-1.TechCrunch
+1.
 2。GigaOM
 3。Engadget
 4Gizmodo

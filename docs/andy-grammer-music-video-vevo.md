@@ -1,4 +1,4 @@
-# Interlude、S-Curve 和 VEVO 团队将推出引人入胜的互动音乐视频 TechCrunch
+# Interlude、S-Curve 和 VEVO 团队将推出引人入胜的互动音乐视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/25/andy-grammer-music-video-vevo/>
 

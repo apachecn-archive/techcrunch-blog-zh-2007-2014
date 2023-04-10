@@ -1,4 +1,4 @@
-# 观看史蒂夫·乔布斯被 LG Optimus Pad 踢脸 TechCrunch
+# 观看史蒂夫·乔布斯被 LG Optimus Pad 踢脸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/watch-steve-jobs-gets-kicked-in-the-face-by-the-lg-optimus-pad/>
 

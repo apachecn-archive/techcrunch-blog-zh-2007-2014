@@ -1,4 +1,4 @@
-# 三星推出精简版系列 9，以更好地对抗 MacBook Air TechCrunch
+# 三星推出精简版系列 9，以更好地对抗 MacBook Air 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/01/samsung-offers-trimmed-down-series-9-to-better-combat-macbook-air/>
 

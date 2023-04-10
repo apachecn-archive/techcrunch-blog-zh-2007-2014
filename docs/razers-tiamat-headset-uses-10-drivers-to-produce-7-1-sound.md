@@ -1,4 +1,4 @@
-# Razer 的迪亚马特耳机使用 10 个驱动器产生 7.1 声音 TechCrunch
+# Razer 的迪亚马特耳机使用 10 个驱动器产生 7.1 声音 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/razers-tiamat-headset-uses-10-drivers-to-produce-7-1-sound/>
 

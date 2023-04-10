@@ -1,4 +1,4 @@
-# 报告:Android 市场下载量接近 60 亿次；天气应用程序正在下雨 TechCrunch
+# 报告:Android 市场下载量接近 60 亿次；天气应用程序正在下雨 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/report-android-market-nearing-6-billion-downloads-weather-apps-are-makin-it-rain/>
 

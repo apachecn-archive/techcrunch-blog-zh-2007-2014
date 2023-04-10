@@ -1,4 +1,4 @@
-# 游戏分发孵化器 HitFox 孵化两家新创业公司:AppLift 和 App Discovery TechCrunch
+# 游戏分发孵化器 HitFox 孵化两家新创业公司:AppLift 和 App Discovery 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/14/games-distribution-incubator-hitfox-hatches-two-new-startups-applift-and-game-finder/>
 

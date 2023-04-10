@@ -1,4 +1,4 @@
-# 诺基亚经理谈论即将到来的 Windows 8 Tab，计划于 2012 年 6 月发布 TechCrunch
+# 诺基亚经理谈论即将到来的 Windows 8 Tab，计划于 2012 年 6 月发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/nokia-manager-talks-about-upcoming-windows-8-tab-slated-for-june-2012-release/>
 

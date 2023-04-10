@@ -1,4 +1,4 @@
-# 温斯顿:只需按一下按钮，就可以预订豪华轿车或出租车 TechCrunch
+# 温斯顿:只需按一下按钮，就可以预订豪华轿车或出租车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/winston-limo-cab/>
 

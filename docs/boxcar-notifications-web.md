@@ -1,4 +1,4 @@
-# Boxcar 通过网络实时通知迈向未来 TechCrunch
+# Boxcar 通过网络实时通知迈向未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/03/boxcar-notifications-web/>
 

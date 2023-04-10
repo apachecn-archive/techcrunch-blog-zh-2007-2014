@@ -1,4 +1,4 @@
-# 脸书，Twitter 在 7 月吸引了创纪录的美国访客数 TechCrunch
+# 脸书，Twitter 在 7 月吸引了创纪录的美国访客数 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/21/facebook-twitter-saw-record-numbers-of-u-s-visitors-in-july/>
 

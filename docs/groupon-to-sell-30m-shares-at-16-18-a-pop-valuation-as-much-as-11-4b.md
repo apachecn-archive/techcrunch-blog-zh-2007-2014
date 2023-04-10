@@ -1,4 +1,4 @@
-# Groupon 将以每股 16-18 美元的价格出售 3000 万股股票，估值高达 114 亿美元 TechCrunch
+# Groupon 将以每股 16-18 美元的价格出售 3000 万股股票，估值高达 114 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/groupon-to-sell-30m-shares-at-16-18-a-pop-valuation-as-much-as-11-4b/>
 

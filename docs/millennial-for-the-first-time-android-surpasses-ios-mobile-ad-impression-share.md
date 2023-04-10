@@ -1,4 +1,4 @@
-# 千禧一代:Android 首次超越 iOS 移动广告印象份额 TechCrunch
+# 千禧一代:Android 首次超越 iOS 移动广告印象份额 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/13/millennial-for-the-first-time-android-surpasses-ios-mobile-ad-impression-share/>
 

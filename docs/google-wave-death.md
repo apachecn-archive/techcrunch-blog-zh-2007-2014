@@ -1,4 +1,4 @@
-# 崩溃的谷歌浪潮 TechCrunch
+# 崩溃的谷歌浪潮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/10/google-wave-death/>
 

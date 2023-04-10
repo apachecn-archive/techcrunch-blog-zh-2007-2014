@@ -1,4 +1,4 @@
-# 凭借 800 万美元的新资金，Ezetap 不仅仅是新兴市场的一个平台 TechCrunch
+# 凭借 800 万美元的新资金，Ezetap 不仅仅是新兴市场的一个平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/with-8m-in-fresh-funding-ezetap-is-more-than-just-a-square-for-emerging-markets/>
 

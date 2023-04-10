@@ -1,4 +1,4 @@
-# RIM 承诺今年推出 7 款新黑莓手机 TechCrunch
+# RIM 承诺今年推出 7 款新黑莓手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/rim-promises-seven-new-blackberries-this-year/>
 

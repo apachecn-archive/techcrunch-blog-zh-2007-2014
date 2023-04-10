@@ -1,4 +1,4 @@
-# 摄影:传播照片之爱 TechCrunch
+# 摄影:传播照片之爱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/07/photochaining-spread-the-photo-love/>
 

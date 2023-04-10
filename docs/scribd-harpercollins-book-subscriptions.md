@@ -1,4 +1,4 @@
-# 通过与 HarperCollins 的交易，Scribd 公开了其成为图书网飞的努力 TechCrunch
+# 通过与 HarperCollins 的交易，Scribd 公开了其成为图书网飞的努力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/01/scribd-harpercollins-book-subscriptions/>
 

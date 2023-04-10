@@ -1,4 +1,4 @@
-# 评论者，我们希望你们回来 TechCrunch
+# 评论者，我们希望你们回来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/22/we-want-you-back/>
 

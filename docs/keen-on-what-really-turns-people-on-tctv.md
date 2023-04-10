@@ -1,4 +1,4 @@
-# 热衷于...什么让人们真正兴奋？TechCrunch
+# 热衷于...什么让人们真正兴奋？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/keen-on-what-really-turns-people-on-tctv/>
 

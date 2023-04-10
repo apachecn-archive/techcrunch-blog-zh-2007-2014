@@ -1,4 +1,4 @@
-# 另一个 iPod shuffle 耳机适配器，这次来自 iLuv TechCrunch
+# 另一个 iPod shuffle 耳机适配器，这次来自 iLuv 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/another-ipod-shuffle-headphone-adapter-this-time-from-iluv/>
 

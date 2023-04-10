@@ -1,4 +1,4 @@
-# 位置战可能势均力敌，但 Foursquare 主宰着 Twitter TechCrunch
+# 位置战可能势均力敌，但 Foursquare 主宰着 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/17/foursquare-gowalla-twitter/>
 

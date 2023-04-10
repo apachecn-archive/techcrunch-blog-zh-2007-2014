@@ -1,4 +1,4 @@
-# 播放音乐，电子人 TechCrunch
+# 播放音乐，电子人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/play-that-funky-music-cyborg/>
 

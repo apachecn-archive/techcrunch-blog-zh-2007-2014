@@ -1,4 +1,4 @@
-# 皇家战役:格式战升温 TechCrunch
+# 皇家战役:格式战升温 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/battle-royale-format-war-heats-up/>
 

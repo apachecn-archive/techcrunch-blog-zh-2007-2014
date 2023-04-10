@@ -1,4 +1,4 @@
-# 从越狱到 App Store 大奖，开发者成长 iPhone TechCrunch
+# 从越狱到 App Store 大奖，开发者成长 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/04/from-jailbreaks-to-app-store-awards-developers-grow-up-iphone/>
 

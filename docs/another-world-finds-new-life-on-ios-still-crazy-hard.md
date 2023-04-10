@@ -1,4 +1,4 @@
-# “另一个世界”在 iOS 上找到新的生命，仍然疯狂艰难 TechCrunch
+# “另一个世界”在 iOS 上找到新的生命，仍然疯狂艰难 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/another-world-finds-new-life-on-ios-still-crazy-hard/>
 

@@ -1,4 +1,4 @@
-# 谷歌 Nexus One 产品页面短暂直播，主打安卓 2.0 视频？TechCrunch
+# 谷歌 Nexus One 产品页面短暂直播，主打安卓 2.0 视频？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/05/google-nexus-one-product-page/>
 

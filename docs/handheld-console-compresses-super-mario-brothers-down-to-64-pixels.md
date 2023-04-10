@@ -1,4 +1,4 @@
-# 手持控制台将超级马里奥兄弟压缩至 64 像素 TechCrunch
+# 手持控制台将超级马里奥兄弟压缩至 64 像素 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/handheld-console-compresses-super-mario-brothers-down-to-64-pixels/>
 

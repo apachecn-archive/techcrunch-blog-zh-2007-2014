@@ -1,4 +1,4 @@
-# 雅虎推出直播视频服务 TechCrunch
+# 雅虎推出直播视频服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/07/yahoo-launches-live-a-live-streaming-video-service/>
 

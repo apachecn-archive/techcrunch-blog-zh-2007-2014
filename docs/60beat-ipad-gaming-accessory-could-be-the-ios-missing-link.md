@@ -1,4 +1,4 @@
-# 60beat iPad 游戏配件可能是 iOS 缺失的一环 TechCrunch
+# 60beat iPad 游戏配件可能是 iOS 缺失的一环 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/01/60beat-ipad-gaming-accessory-could-be-the-ios-missing-link/>
 

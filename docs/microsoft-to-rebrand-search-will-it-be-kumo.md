@@ -1,4 +1,4 @@
-# 微软将重塑搜索品牌。会是 Kumo 吗？TechCrunch
+# 微软将重塑搜索品牌。会是 Kumo 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/23/microsoft-to-rebrand-search-will-it-be-kumo/>
 

@@ -1,4 +1,4 @@
-# 小丑公司获得网站和新名称:Hulu TechCrunch
+# 小丑公司获得网站和新名称:Hulu 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/clown-co-gets-website-and-new-name-hulu/>
 

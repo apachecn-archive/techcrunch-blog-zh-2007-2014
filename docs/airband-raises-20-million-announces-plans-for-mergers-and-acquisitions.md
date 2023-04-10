@@ -1,4 +1,4 @@
-# Airband 融资 2000 万美元，宣布并购计划 TechCrunch
+# Airband 融资 2000 万美元，宣布并购计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/airband-raises-20-million-announces-plans-for-mergers-and-acquisitions/>
 

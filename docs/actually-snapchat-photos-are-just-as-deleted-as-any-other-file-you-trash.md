@@ -1,4 +1,4 @@
-# 实际上，Snapchat 照片就像你丢弃的其他文件一样被删除 TechCrunch
+# 实际上，Snapchat 照片就像你丢弃的其他文件一样被删除 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/actually-snapchat-photos-are-just-as-deleted-as-any-other-file-you-trash/>
 

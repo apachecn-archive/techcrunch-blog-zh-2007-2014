@@ -1,4 +1,4 @@
-# 在 Siri 诞生地 SRI 的孵化下，Tempo 推出了一款日历应用，其中包含您参加任何会议所需的信息 TechCrunch
+# 在 Siri 诞生地 SRI 的孵化下，Tempo 推出了一款日历应用，其中包含您参加任何会议所需的信息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/tempo-smart-calendar-launch/>
 

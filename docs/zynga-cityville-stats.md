@@ -1,4 +1,4 @@
-# Zynga 的 CityVille 一夜之间跃入大都市(惊讶吗？)TechCrunch
+# Zynga 的 CityVille 一夜之间跃入大都市(惊讶吗？)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/zynga-cityville-stats/>
 

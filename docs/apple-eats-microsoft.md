@@ -1,4 +1,4 @@
-# 苹果现在以 1000 亿美元成为最有价值的科技公司；谷歌逼近微软 TechCrunch
+# 苹果现在以 1000 亿美元成为最有价值的科技公司；谷歌逼近微软 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/apple-eats-microsoft/>
 

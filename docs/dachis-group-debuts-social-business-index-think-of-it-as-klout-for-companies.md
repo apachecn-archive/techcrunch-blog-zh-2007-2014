@@ -1,4 +1,4 @@
-# 达奇斯集团首次推出“社交商业指数”——把它想象成企业的 Klout TechCrunch
+# 达奇斯集团首次推出“社交商业指数”——把它想象成企业的 Klout 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/dachis-group-debuts-social-business-index-think-of-it-as-klout-for-companies/>
 

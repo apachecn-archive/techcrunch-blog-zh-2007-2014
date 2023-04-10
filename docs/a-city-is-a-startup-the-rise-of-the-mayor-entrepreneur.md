@@ -1,4 +1,4 @@
-# 一座城市就是一家初创企业:市长企业家的崛起 TechCrunch
+# 一座城市就是一家初创企业:市长企业家的崛起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/14/a-city-is-a-startup-the-rise-of-the-mayor-entrepreneur/>
 

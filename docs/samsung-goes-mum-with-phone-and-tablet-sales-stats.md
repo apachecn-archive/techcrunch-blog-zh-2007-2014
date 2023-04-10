@@ -1,4 +1,4 @@
-# 三星对手机和平板电脑销售数据保持沉默 TechCrunch
+# 三星对手机和平板电脑销售数据保持沉默 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/samsung-goes-mum-with-phone-and-tablet-sales-stats/>
 

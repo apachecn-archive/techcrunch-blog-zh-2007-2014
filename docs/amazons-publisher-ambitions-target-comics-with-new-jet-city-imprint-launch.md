@@ -1,4 +1,4 @@
-# 亚马逊出版商雄心勃勃，目标是推出新的“喷气城市”印记漫画 TechCrunch
+# 亚马逊出版商雄心勃勃，目标是推出新的“喷气城市”印记漫画 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/09/amazons-publisher-ambitions-target-comics-with-new-jet-city-imprint-launch/>
 

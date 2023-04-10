@@ -1,4 +1,4 @@
-# GameStop 即将推出 Android 平板电脑 TechCrunch
+# GameStop 即将推出 Android 平板电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/gamestop-has-an-android-tablet-on-the-way/>
 

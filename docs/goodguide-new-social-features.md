@@ -1,4 +1,4 @@
-# GoodGuide 推出新的社交功能 TechCrunch
+# GoodGuide 推出新的社交功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/goodguide-new-social-features/>
 

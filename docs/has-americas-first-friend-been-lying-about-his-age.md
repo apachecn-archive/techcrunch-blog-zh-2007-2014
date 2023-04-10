@@ -1,4 +1,4 @@
-# 美国的第一个朋友有没有谎报年龄？TechCrunch
+# 美国的第一个朋友有没有谎报年龄？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/23/has-americas-first-friend-been-lying-about-his-age/>
 

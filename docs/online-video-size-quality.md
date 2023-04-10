@@ -1,4 +1,4 @@
-# 在线视频辩论:大小与质量 TechCrunch
+# 在线视频辩论:大小与质量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/28/online-video-size-quality/>
 

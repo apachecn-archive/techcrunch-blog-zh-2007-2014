@@ -1,4 +1,4 @@
-# 为什么亚马逊不只是有一个小故障 TechCrunch
+# 为什么亚马逊不只是有一个小故障 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/14/guest-post-why-amazon-didnt-just-have-a-glitch/>
 

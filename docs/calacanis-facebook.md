@@ -1,4 +1,4 @@
-# 不知何故未能删除脸书账户的男子抱怨新功能 TechCrunch
+# 不知何故未能删除脸书账户的男子抱怨新功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/07/calacanis-facebook/>
 

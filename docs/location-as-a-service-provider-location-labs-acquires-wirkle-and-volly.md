@@ -1,4 +1,4 @@
-# 位置即服务提供商 Location Labs 收购 Wirkle 和 Volly TechCrunch
+# 位置即服务提供商 Location Labs 收购 Wirkle 和 Volly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/24/location-as-a-service-provider-location-labs-acquires-wirkle-and-volly/>
 

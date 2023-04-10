@@ -1,4 +1,4 @@
-# Triggit:编辑任何接受 Java Script 的页面 TechCrunch
+# Triggit:编辑任何接受 Java Script 的页面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/17/triggit-edit-any-page-where-java-script-is-accepted/>
 

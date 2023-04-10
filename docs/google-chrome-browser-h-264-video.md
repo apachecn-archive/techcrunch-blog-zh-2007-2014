@@ -1,4 +1,4 @@
-# 手套已经脱下:谷歌 Chrome 浏览器将不再支持 H.264 视频编解码器 TechCrunch
+# 手套已经脱下:谷歌 Chrome 浏览器将不再支持 H.264 视频编解码器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/11/google-chrome-browser-h-264-video/>
 

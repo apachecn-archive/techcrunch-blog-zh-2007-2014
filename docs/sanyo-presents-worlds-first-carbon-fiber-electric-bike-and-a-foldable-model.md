@@ -1,4 +1,4 @@
-# 三洋展示世界首款碳纤维电动自行车(和一款可折叠的车型)TechCrunch
+# 三洋展示世界首款碳纤维电动自行车(和一款可折叠的车型)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/sanyo-presents-worlds-first-carbon-fiber-electric-bike-and-a-foldable-model/>
 

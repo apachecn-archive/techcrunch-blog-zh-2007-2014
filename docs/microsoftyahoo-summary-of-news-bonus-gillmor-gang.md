@@ -1,4 +1,4 @@
-# 微软/雅虎:今日新闻摘要&吉尔摩帮 TechCrunch
+# 微软/雅虎:今日新闻摘要&吉尔摩帮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/03/microsoftyahoo-summary-of-news-bonus-gillmor-gang/>
 

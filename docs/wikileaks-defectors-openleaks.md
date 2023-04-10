@@ -1,4 +1,4 @@
-# 互联网不可阻挡:维基解密叛逃者即将推出 open leaks TechCrunch
+# 互联网不可阻挡:维基解密叛逃者即将推出 open leaks 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/10/wikileaks-defectors-openleaks/>
 

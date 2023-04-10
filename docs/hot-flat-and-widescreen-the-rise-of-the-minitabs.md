@@ -1,4 +1,4 @@
-# 热屏、平板和宽屏:迷你平板的崛起 TechCrunch
+# 热屏、平板和宽屏:迷你平板的崛起 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/04/hot-flat-and-widescreen-the-rise-of-the-minitabs/>
 

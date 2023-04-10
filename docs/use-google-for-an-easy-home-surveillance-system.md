@@ -1,4 +1,4 @@
-# 使用 Google+实现简单的家庭监控系统 TechCrunch
+# 使用 Google+实现简单的家庭监控系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/use-google-for-an-easy-home-surveillance-system/>
 

@@ -1,4 +1,4 @@
-# 无常推出社交垃圾指数；发现高达 40%的在线 id 是假的 TechCrunch
+# 无常推出社交垃圾指数；发现高达 40%的在线 id 是假的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/impermium-launches-social-spam-index-finds-that-up-to-40-percent-of-online-ids-are-fake/>
 

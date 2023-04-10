@@ -1,4 +1,4 @@
-# ShareThis 以移动为目标，由 T-Venture 领投 2300 万美元的 C 轮融资，收购社交应用平台 Socialize TechCrunch
+# ShareThis 以移动为目标，由 T-Venture 领投 2300 万美元的 C 轮融资，收购社交应用平台 Socialize 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/20/sharethis-aims-for-mobile-with-23m-series-c-led-by-t-venture-acquisition-of-social-app-platform-socialize/>
 

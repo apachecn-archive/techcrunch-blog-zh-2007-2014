@@ -1,4 +1,4 @@
-# 商业智能 SaaS 公司 Domo 从 TPG 融资 1.25 亿美元，Salesforce 估值 8.25 亿美元 TechCrunch
+# 商业智能 SaaS 公司 Domo 从 TPG 融资 1.25 亿美元，Salesforce 估值 8.25 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/business-intelligence-saas-company-domo-raises-125m-from-tpg-salesforce-at-a-825m-valuation/>
 

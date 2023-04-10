@@ -1,4 +1,4 @@
-# Lamebook 起诉脸书商标侵权。等等，什么？TechCrunch
+# Lamebook 起诉脸书商标侵权。等等，什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/05/lamebook-vs-facebook/>
 

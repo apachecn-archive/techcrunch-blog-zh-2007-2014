@@ -1,4 +1,4 @@
-# YouTube 在东京开设制作空间，帮助创作者制作更好的视频 TechCrunch
+# YouTube 在东京开设制作空间，帮助创作者制作更好的视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/youtube-creator-space-tokyo/>
 

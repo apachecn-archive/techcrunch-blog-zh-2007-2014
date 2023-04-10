@@ -1,4 +1,4 @@
-# Parse.ly 将于本月推出名为“Dash”的页面浏览量生成机器 TechCrunch
+# Parse.ly 将于本月推出名为“Dash”的页面浏览量生成机器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/03/parse-ly-will-launch-its-pageview-generating-machine-called-dash-this-month/>
 

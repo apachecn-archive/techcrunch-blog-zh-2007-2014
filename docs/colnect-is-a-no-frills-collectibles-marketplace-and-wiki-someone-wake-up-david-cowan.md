@@ -1,4 +1,4 @@
-# Colnect 是一个简单的收藏品市场和 Wiki。谁来叫醒大卫·考恩！TechCrunch
+# Colnect 是一个简单的收藏品市场和 Wiki。谁来叫醒大卫·考恩！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/14/colnect-is-a-no-frills-collectibles-marketplace-and-wiki-someone-wake-up-david-cowan/>
 

@@ -1,4 +1,4 @@
-# Hulu 说再见，把日本子公司卖给日本电视台 TechCrunch
+# Hulu 说再见，把日本子公司卖给日本电视台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/27/hulu-says-sayonara-sells-off-japanese-unit-to-nippon-tv/>
 

@@ -1,4 +1,4 @@
-# 乳腺癌传感胸罩比一些乳房 x 光片早几年检测到肿瘤 TechCrunch
+# 乳腺癌传感胸罩比一些乳房 x 光片早几年检测到肿瘤 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/breast-cancer-sensing-bra-detects-tumors-years-before-some-mammograms/>
 

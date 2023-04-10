@@ -1,4 +1,4 @@
-# NPR 获得 300 万美元的超级本地新闻计划拨款 TechCrunch
+# NPR 获得 300 万美元的超级本地新闻计划拨款 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/02/npr-gets-3-million-grant-for-hyper-local-news-coverage-initiative/>
 

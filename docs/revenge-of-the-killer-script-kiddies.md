@@ -1,4 +1,4 @@
-# 黑仔脚本小子的复仇！TechCrunch
+# 黑仔脚本小子的复仇！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/20/revenge-of-the-killer-script-kiddies/>
 

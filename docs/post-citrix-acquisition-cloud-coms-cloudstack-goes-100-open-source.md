@@ -1,4 +1,4 @@
-# 收购 Citrix 后，Cloud.com 的 CloudStack 实现 100%开源 TechCrunch
+# 收购 Citrix 后，Cloud.com 的 CloudStack 实现 100%开源 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/post-citrix-acquisition-cloud-coms-cloudstack-goes-100-open-source/>
 

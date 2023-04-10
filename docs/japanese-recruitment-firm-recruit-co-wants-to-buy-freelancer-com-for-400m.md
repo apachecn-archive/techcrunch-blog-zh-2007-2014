@@ -1,4 +1,4 @@
-# 日本招聘公司 Recruit Co 欲以 4 亿美元收购 Freelancer.com TechCrunch
+# 日本招聘公司 Recruit Co 欲以 4 亿美元收购 Freelancer.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/japanese-recruitment-firm-recruit-co-wants-to-buy-freelancer-com-for-400m/>
 

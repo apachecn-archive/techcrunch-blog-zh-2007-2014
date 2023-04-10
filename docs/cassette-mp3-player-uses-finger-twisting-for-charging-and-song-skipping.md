@@ -1,4 +1,4 @@
-# 盒式 MP3 播放器使用手指扭转来充电和跳过歌曲 TechCrunch
+# 盒式 MP3 播放器使用手指扭转来充电和跳过歌曲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/18/cassette-mp3-player-uses-finger-twisting-for-charging-and-song-skipping/>
 

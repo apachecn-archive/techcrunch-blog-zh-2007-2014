@@ -1,4 +1,4 @@
-# 自由软件领导者理查德·斯托尔曼:亚马逊搜索整合到 Ubuntu 相当于间谍软件 TechCrunch
+# 自由软件领导者理查德·斯托尔曼:亚马逊搜索整合到 Ubuntu 相当于间谍软件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/07/free-software-leader-richard-stallman-amazon-search-integration-in-ubuntu-amounts-to-spyware/>
 

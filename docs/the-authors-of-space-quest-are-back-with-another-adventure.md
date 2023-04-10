@@ -1,4 +1,4 @@
-# 《太空探索》的作者们带着另一场冒险回来了 TechCrunch
+# 《太空探索》的作者们带着另一场冒险回来了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/28/the-authors-of-space-quest-are-back-with-another-adventure/>
 

@@ -1,4 +1,4 @@
-# 雅虎和诺基亚将在全球推出联合品牌服务 TechCrunch
+# 雅虎和诺基亚将在全球推出联合品牌服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/24/yahoo-nokia-to-launch-co-branded-services-around-the-world/>
 

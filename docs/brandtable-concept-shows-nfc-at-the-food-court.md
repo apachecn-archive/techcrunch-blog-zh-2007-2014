@@ -1,4 +1,4 @@
-# BrandTable 概念在美食广场展示 NFC 技术 TechCrunch
+# BrandTable 概念在美食广场展示 NFC 技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/brandtable-concept-shows-nfc-at-the-food-court/>
 

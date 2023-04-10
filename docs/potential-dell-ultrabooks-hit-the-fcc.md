@@ -1,4 +1,4 @@
-# 潜在的戴尔超极本遭遇 FCC TechCrunch
+# 潜在的戴尔超极本遭遇 FCC 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/potential-dell-ultrabooks-hit-the-fcc/>
 

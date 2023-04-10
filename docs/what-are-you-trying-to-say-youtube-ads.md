@@ -1,4 +1,4 @@
-# 你想说什么 YouTube 广告？！？TechCrunch
+# 你想说什么 YouTube 广告？！？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/what-are-you-trying-to-say-youtube-ads/>
 

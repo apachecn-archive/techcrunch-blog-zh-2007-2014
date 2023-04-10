@@ -1,4 +1,4 @@
-# 谷歌和脸书的 Foursquare 首席执行官表示:“压力很大。”TechCrunch
+# 谷歌和脸书的 Foursquare 首席执行官表示:“压力很大。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/foursquare-ceo-on-google-and-facebook-closing-in-it-is-stressful/>
 

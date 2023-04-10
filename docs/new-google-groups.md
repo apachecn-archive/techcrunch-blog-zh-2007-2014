@@ -1,4 +1,4 @@
-# 谷歌推出第一阶段的改进团队:新的 Gmail/阅读器式用户界面 TechCrunch
+# 谷歌推出第一阶段的改进团队:新的 Gmail/阅读器式用户界面 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/07/new-google-groups/>
 

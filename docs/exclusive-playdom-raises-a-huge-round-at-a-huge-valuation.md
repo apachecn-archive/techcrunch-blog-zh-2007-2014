@@ -1,4 +1,4 @@
-# 独家报道:Playdom 以巨额估值进行了一轮融资 TechCrunch
+# 独家报道:Playdom 以巨额估值进行了一轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/11/exclusive-playdom-raises-a-huge-round-at-a-huge-valuation/>
 

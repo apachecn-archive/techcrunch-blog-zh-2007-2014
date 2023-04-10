@@ -1,4 +1,4 @@
-# 时尚旧金山咖啡店禁止 insta gram TechCrunch
+# 时尚旧金山咖啡店禁止 insta gram 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/26/four-barrel-instagram/>
 

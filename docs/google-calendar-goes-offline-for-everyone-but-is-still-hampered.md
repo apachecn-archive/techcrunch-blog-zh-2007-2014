@@ -1,4 +1,4 @@
-# 谷歌日历对所有人都是离线的，但仍然受到阻碍 TechCrunch
+# 谷歌日历对所有人都是离线的，但仍然受到阻碍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/google-calendar-goes-offline-for-everyone-but-is-still-hampered/>
 

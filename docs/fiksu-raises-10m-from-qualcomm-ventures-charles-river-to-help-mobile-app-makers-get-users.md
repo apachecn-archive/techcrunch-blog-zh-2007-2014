@@ -1,4 +1,4 @@
-# Fiksu 从高通风险投资公司(Qualcomm Ventures，Charles River)筹集 1000 万美元，帮助移动应用制造商获得用户 TechCrunch
+# Fiksu 从高通风险投资公司(Qualcomm Ventures，Charles River)筹集 1000 万美元，帮助移动应用制造商获得用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/fiksu-raises-10m-from-qualcomm-ventures-charles-river-to-help-mobile-app-makers-get-users/>
 

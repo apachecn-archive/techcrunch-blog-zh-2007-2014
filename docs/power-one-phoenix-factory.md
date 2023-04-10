@@ -1,4 +1,4 @@
-# Power-One 在美国开设首家制造逆变器的工厂，将可再生能源转化为电网电力 TechCrunch
+# Power-One 在美国开设首家制造逆变器的工厂，将可再生能源转化为电网电力 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/31/power-one-phoenix-factory/>
 

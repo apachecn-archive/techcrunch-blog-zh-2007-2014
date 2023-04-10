@@ -1,4 +1,4 @@
-# 你知道什么很酷吗？不是 Myspace TechCrunch
+# 你知道什么很酷吗？不是 Myspace 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/face-uh-myspace/>
 

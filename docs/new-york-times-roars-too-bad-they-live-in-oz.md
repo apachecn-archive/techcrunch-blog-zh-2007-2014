@@ -1,4 +1,4 @@
-# 纽约时报怒吼。可惜他们住在奥兹国。TechCrunch
+# 纽约时报怒吼。可惜他们住在奥兹国。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/15/new-york-times-roars-too-bad-they-live-in-oz/>
 

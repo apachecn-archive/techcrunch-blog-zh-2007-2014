@@ -1,4 +1,4 @@
-# 为什么需要同行？因为 LinkedIn 明显缺乏视频聊天服务 TechCrunch
+# 为什么需要同行？因为 LinkedIn 明显缺乏视频聊天服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/07/why-do-you-need-peer-because-linkedin-clearly-lacks-a-video-chat-service/>
 

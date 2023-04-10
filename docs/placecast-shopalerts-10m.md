@@ -1,4 +1,4 @@
-# Placecast 面向 Geofenced 的 ShopAlerts 平台拥有 1000 万活跃用户 TechCrunch
+# Placecast 面向 Geofenced 的 ShopAlerts 平台拥有 1000 万活跃用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/12/placecast-shopalerts-10m/>
 

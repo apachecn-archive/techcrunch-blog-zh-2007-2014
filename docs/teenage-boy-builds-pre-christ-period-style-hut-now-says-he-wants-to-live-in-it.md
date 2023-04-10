@@ -1,4 +1,4 @@
-# 一个十几岁的男孩建造了前基督时期风格的小屋，现在他说他想住在里面 TechCrunch
+# 一个十几岁的男孩建造了前基督时期风格的小屋，现在他说他想住在里面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/11/teenage-boy-builds-pre-christ-period-style-hut-now-says-he-wants-to-live-in-it/>
 

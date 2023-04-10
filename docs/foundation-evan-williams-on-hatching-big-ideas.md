@@ -1,4 +1,4 @@
-# 基金会:伊万·威廉姆斯策划大创意 TechCrunch
+# 基金会:伊万·威廉姆斯策划大创意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/28/foundation-evan-williams-on-hatching-big-ideas/>
 

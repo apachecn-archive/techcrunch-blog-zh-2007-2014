@@ -1,4 +1,4 @@
-# 高中生向俄罗斯总统推销 ReactOS 项目 TechCrunch
+# 高中生向俄罗斯总统推销 ReactOS 项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/high-school-student-pitches-reactos-project-to-russian-president/>
 

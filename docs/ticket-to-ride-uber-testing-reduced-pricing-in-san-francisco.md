@@ -1,4 +1,4 @@
-# 乘车票:优步测试在旧金山降价 TechCrunch
+# 乘车票:优步测试在旧金山降价 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/ticket-to-ride-uber-testing-reduced-pricing-in-san-francisco/>
 

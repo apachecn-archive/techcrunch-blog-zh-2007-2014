@@ -1,4 +1,4 @@
-# 时代华纳准备分拆美国在线。但是代价是什么呢？TechCrunch
+# 时代华纳准备分拆美国在线。但是代价是什么呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/04/time-warner-ready-to-unload-aol-in-pieces-but-at-what-price/>
 

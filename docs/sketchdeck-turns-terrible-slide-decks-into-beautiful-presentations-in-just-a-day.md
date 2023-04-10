@@ -1,4 +1,4 @@
-# SketchDeck 在短短一天内将糟糕的幻灯片变成精美的演示文稿 TechCrunch
+# SketchDeck 在短短一天内将糟糕的幻灯片变成精美的演示文稿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/sketchdeck-turns-terrible-slide-decks-into-beautiful-presentations-in-just-a-day/>
 

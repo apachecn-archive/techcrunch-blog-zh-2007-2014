@@ -1,4 +1,4 @@
-# 开箱即用:Bloom Energy 首次推出“电子”融资服务 TechCrunch
+# 开箱即用:Bloom Energy 首次推出“电子”融资服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/bloom-launches-financing-service/>
 

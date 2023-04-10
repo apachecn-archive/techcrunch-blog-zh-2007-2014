@@ -1,4 +1,4 @@
-# 腕戴式沙发套比您想象的更酷 TechCrunch
+# 腕戴式沙发套比您想象的更酷 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/21/wrist-mounted-shuffle-case-cooler-than-youd-think/>
 

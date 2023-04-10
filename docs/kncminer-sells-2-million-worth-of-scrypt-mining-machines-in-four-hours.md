@@ -1,4 +1,4 @@
-# KnCMiner 在 4 小时内售出价值 200 万美元的加密采矿机器 TechCrunch
+# KnCMiner 在 4 小时内售出价值 200 万美元的加密采矿机器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/kncminer-sells-2-million-worth-of-scrypt-mining-machines-in-four-hours/>
 

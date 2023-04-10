@@ -1,4 +1,4 @@
-# Trover 获得由 Concur 牵头的 250 万美元融资，以扩大其旅游摄影社区 TechCrunch
+# Trover 获得由 Concur 牵头的 250 万美元融资，以扩大其旅游摄影社区 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/25/trover-raises-2-5m-funding-round-led-by-concur-to-expand-its-travel-photography-community/>
 

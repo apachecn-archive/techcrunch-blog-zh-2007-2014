@@ -1,4 +1,4 @@
-# 旧金山的 Dronegames 有 Twitter 拳头、Groupon 皮带、MiFi 和僵尸网络 TechCrunch
+# 旧金山的 Dronegames 有 Twitter 拳头、Groupon 皮带、MiFi 和僵尸网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/02/dronegames-in-san-francisco-features-twitter-fists-groupon-leashes-mifi-and-botnets/>
 

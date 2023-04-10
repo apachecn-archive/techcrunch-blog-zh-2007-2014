@@ -1,4 +1,4 @@
-# Imgur 是 Reddit 上最受欢迎的图片托管网站，现在每月有超过 36 亿的浏览量给 5600 万访问者 TechCrunch
+# Imgur 是 Reddit 上最受欢迎的图片托管网站，现在每月有超过 36 亿的浏览量给 5600 万访问者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/11/imgur-reddits-favorite-photo-hosting-site-now-serves-up-over-3-6b-pageviews-to-56m-visitors-per-month/>
 

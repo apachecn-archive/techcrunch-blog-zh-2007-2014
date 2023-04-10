@@ -1,4 +1,4 @@
-# Mixpanel 现在不仅跟踪动作，还引入了用户分析技术 TechCrunch
+# Mixpanel 现在不仅跟踪动作，还引入了用户分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/mixpanel-people/>
 

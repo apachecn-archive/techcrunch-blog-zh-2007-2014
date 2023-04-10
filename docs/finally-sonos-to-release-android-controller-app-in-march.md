@@ -1,4 +1,4 @@
-# 终于！Sonos 将于 3 月发布 Android 控制器应用 TechCrunch
+# 终于！Sonos 将于 3 月发布 Android 控制器应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/finally-sonos-to-release-android-controller-app-in-march/>
 

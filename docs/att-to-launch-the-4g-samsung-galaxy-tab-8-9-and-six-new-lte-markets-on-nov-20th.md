@@ -1,4 +1,4 @@
-# 美国电话电报公司将于 11 月 20 日发布 4G 三星 Galaxy Tab 8.9(和六个新的 LTE 市场)TechCrunch
+# 美国电话电报公司将于 11 月 20 日发布 4G 三星 Galaxy Tab 8.9(和六个新的 LTE 市场)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/att-to-launch-the-4g-samsung-galaxy-tab-8-9-and-six-new-lte-markets-on-nov-20th/>
 

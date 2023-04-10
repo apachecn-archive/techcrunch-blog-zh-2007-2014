@@ -1,4 +1,4 @@
-# 思杰以超过 2 亿美元收购 Cloud.com；红点正在蓬勃发展 TechCrunch
+# 思杰以超过 2 亿美元收购 Cloud.com；红点正在蓬勃发展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/12/citrix-buys-cloud-com-for-more-than-200-million-redpoint-is-on-a-roll/>
 

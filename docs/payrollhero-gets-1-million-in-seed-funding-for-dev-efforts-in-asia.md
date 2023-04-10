@@ -1,4 +1,4 @@
-# PayrollHero 获得 100 万美元种子资金，用于亚洲的开发工作 TechCrunch
+# PayrollHero 获得 100 万美元种子资金，用于亚洲的开发工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/21/payrollhero-gets-1-million-in-seed-funding-for-dev-efforts-in-asia/>
 

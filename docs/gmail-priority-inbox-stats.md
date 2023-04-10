@@ -1,4 +1,4 @@
-# Gmail:优先收件箱工作正常；用户阅读电子邮件的时间减少 15% TechCrunch
+# Gmail:优先收件箱工作正常；用户阅读电子邮件的时间减少 15% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/gmail-priority-inbox-stats/>
 

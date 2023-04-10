@@ -1,4 +1,4 @@
-# 视频通话服务 Tango 在 PC 上推出 TechCrunch
+# 视频通话服务 Tango 在 PC 上推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/video-calling-service-tango-launches-on-pc/>
 

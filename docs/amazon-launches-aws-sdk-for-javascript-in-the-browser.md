@@ -1,4 +1,4 @@
-# 亚马逊在浏览器中推出 AWS SDK For JavaScript TechCrunch
+# 亚马逊在浏览器中推出 AWS SDK For JavaScript 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/31/amazon-launches-aws-sdk-for-javascript-in-the-browser/>
 

@@ -1,4 +1,4 @@
-# 在照片应用淘金热中，iPhone 年度应用 Hipstamatic 移至旧金山 TechCrunch
+# 在照片应用淘金热中，iPhone 年度应用 Hipstamatic 移至旧金山 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/20/hipstamatic-san-francisco/>
 

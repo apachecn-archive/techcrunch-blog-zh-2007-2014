@@ -1,4 +1,4 @@
-# 显示安卓超过苹果的数据不包括 iPhone 4 TechCrunch
+# 显示安卓超过苹果的数据不包括 iPhone 4 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/02/android-iphone-share/>
 

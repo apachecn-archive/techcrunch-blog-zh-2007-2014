@@ -1,4 +1,4 @@
-# 国际奥委会开始删除 YouTube 上未经授权的奥运会视频 TechCrunch
+# 国际奥委会开始删除 YouTube 上未经授权的奥运会视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/28/ioc-starts-to-delete-unauthorized-video-of-olympics-on-youtube/>
 

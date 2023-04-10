@@ -1,4 +1,4 @@
-# Blogrovr 博客推荐:新的和改进的——TechCrunch
+# Blogrovr 博客推荐:新的和改进的——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/17/blogrovr-blog-recommendations-new-and-improved/>
 

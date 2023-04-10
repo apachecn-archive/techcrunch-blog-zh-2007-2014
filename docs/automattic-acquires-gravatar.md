@@ -1,4 +1,4 @@
-# Automattic 收购 Gravatar TechCrunch
+# Automattic 收购 Gravatar 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/17/automattic-acquires-gravatar/>
 

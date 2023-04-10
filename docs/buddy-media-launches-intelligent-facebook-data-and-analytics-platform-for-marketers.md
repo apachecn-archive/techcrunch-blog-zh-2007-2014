@@ -1,4 +1,4 @@
-# Buddy Media 为营销人员推出智能脸书数据和分析平台 TechCrunch
+# Buddy Media 为营销人员推出智能脸书数据和分析平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/18/buddy-media-launches-intelligent-facebook-data-and-analytics-platform-for-marketers/>
 

@@ -1,4 +1,4 @@
-# Aol 的 Patch 利用广告技术初创公司 PaperG 在 100 多个市场推动本地广告销售 TechCrunch
+# Aol 的 Patch 利用广告技术初创公司 PaperG 在 100 多个市场推动本地广告销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/aols-patch-taps-ad-tech-startup-paperg-to-boost-local-ad-sales-in-over-100-markets/>
 

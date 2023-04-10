@@ -1,4 +1,4 @@
-# MyPad 对脸书官方竞争对手不屑一顾，现在拥有 250 万日活跃用户 TechCrunch
+# MyPad 对脸书官方竞争对手不屑一顾，现在拥有 250 万日活跃用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/mypad-shrugs-off-official-facebook-competitor-now-has-2-5-million-daily-active-users/>
 

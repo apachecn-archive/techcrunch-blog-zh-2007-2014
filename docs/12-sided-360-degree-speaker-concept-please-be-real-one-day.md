@@ -1,4 +1,4 @@
-# 12 面 360 度扬声器概念:请有一天真实 TechCrunch
+# 12 面 360 度扬声器概念:请有一天真实 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/12-sided-360-degree-speaker-concept-please-be-real-one-day/>
 

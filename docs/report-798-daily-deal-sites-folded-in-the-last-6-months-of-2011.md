@@ -1,4 +1,4 @@
-# 报告:2011 年后 6 个月有 798 个每日交易网站倒闭 TechCrunch
+# 报告:2011 年后 6 个月有 798 个每日交易网站倒闭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/19/report-798-daily-deal-sites-folded-in-the-last-6-months-of-2011/>
 

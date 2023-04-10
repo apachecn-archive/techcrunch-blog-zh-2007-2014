@@ -1,4 +1,4 @@
-# 由于看不到首次公开募股的迹象，Twitter 据说正在以 70 亿美元的估值筹集更多资金 TechCrunch
+# 由于看不到首次公开募股的迹象，Twitter 据说正在以 70 亿美元的估值筹集更多资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/twitter-7-billion/>
 

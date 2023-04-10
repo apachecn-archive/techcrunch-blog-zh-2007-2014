@@ -1,4 +1,4 @@
-# 如今有超过 10 亿人使用社交网络，其他数据 TechCrunch
+# 如今有超过 10 亿人使用社交网络，其他数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/over-1-billion-people-use-social-networks-today-and-other-stats/>
 

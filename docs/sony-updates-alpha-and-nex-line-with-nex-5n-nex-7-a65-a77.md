@@ -1,4 +1,4 @@
-# 索尼用 NEX-5N、NEX-7、A65、A77 更新阿尔法和 NEX 产品线 TechCrunch
+# 索尼用 NEX-5N、NEX-7、A65、A77 更新阿尔法和 NEX 产品线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/sony-updates-alpha-and-nex-line-with-nex-5n-nex-7-a65-a77/>
 

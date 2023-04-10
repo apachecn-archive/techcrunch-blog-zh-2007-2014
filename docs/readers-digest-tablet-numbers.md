@@ -1,4 +1,4 @@
-# 《读者文摘》在数字世界中生机勃勃，不断发展 TechCrunch
+# 《读者文摘》在数字世界中生机勃勃，不断发展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/07/readers-digest-tablet-numbers/>
 

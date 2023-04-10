@@ -1,4 +1,4 @@
-# Pandora 通过 Twitter、脸书和 Gifting Integration 进一步打开了它的盒子 TechCrunch
+# Pandora 通过 Twitter、脸书和 Gifting Integration 进一步打开了它的盒子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/28/pandora-opens-its-box-a-bit-more-with-twitter-facebook-and-gifting-integration/>
 

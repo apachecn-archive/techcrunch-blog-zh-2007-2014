@@ -1,4 +1,4 @@
-# Piston Cloud 推出 pentOS，这是一款企业 OpenStack 发行版 TechCrunch
+# Piston Cloud 推出 pentOS，这是一款企业 OpenStack 发行版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/piston-cloud-launches-pentos-an-enterprise-openstack-distribution/>
 

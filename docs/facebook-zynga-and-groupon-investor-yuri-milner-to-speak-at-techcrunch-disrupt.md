@@ -1,4 +1,4 @@
-# 脸书、Zynga 和 Groupon 投资者尤里·米尔纳将在 TechCrunch 上发言扰乱 TechCrunch
+# 脸书、Zynga 和 Groupon 投资者尤里·米尔纳将在 TechCrunch 上发言扰乱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/10/facebook-zynga-and-groupon-investor-yuri-milner-to-speak-at-techcrunch-disrupt/>
 

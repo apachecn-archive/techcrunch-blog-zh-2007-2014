@@ -1,4 +1,4 @@
-# 办公即服务 RocketSpace 使房地产翻倍，以容纳更大的初创公司 TechCrunch
+# 办公即服务 RocketSpace 使房地产翻倍，以容纳更大的初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/28/rocketspace-suites/>
 

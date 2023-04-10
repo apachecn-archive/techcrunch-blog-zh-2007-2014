@@ -1,4 +1,4 @@
-# Y Combinator 支持的 WeFunder 推出众筹创业公司 TechCrunch
+# Y Combinator 支持的 WeFunder 推出众筹创业公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/19/wefunder-launch/>
 

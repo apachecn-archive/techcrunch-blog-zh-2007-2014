@@ -1,4 +1,4 @@
-# 安德森-霍洛维茨基金增加杰夫·乔丹为普通合伙人，领投 500 万美元以上的 A 轮 TechCrunch
+# 安德森-霍洛维茨基金增加杰夫·乔丹为普通合伙人，领投 500 万美元以上的 A 轮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/30/andreessen-horowitz-adds-jeff-jordan-as-partner-leads-5m-likealittle-series-a/>
 

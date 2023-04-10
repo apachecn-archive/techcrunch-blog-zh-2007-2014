@@ -1,4 +1,4 @@
-# 搜索的另一半:Greplin 是你网络生活的个人搜索引擎 TechCrunch
+# 搜索的另一半:Greplin 是你网络生活的个人搜索引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/31/greplin-ycombinator-personal-search/>
 

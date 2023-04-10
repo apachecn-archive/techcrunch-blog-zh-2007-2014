@@ -1,4 +1,4 @@
-# SharePoint 竞争对手 Central Desktop 推出 Microsoft Office 协作工具 TechCrunch
+# SharePoint 竞争对手 Central Desktop 推出 Microsoft Office 协作工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/04/sharepoint-competitor-central-desktop-launches-microsoft-office-collaboration-tool/>
 

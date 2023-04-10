@@ -1,4 +1,4 @@
-# 数字生活的关键:指环王在线 TechCrunch
+# 数字生活的关键:指环王在线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/27/digital-life-cruceified-lord-of-the-rings-online/>
 

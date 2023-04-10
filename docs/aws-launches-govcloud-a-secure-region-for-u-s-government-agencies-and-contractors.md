@@ -1,4 +1,4 @@
-# AWS 推出 GovCloud，为美国政府机构和承包商提供安全区域 TechCrunch
+# AWS 推出 GovCloud，为美国政府机构和承包商提供安全区域 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/aws-launches-govcloud-a-secure-region-for-u-s-government-agencies-and-contractors/>
 

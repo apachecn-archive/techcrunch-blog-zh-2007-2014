@@ -1,4 +1,4 @@
-# iPad 应用 mem:o 是设计爱好者的简单数据可视化工具 TechCrunch
+# iPad 应用 mem:o 是设计爱好者的简单数据可视化工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/12/ipad-app-memo-is-a-simple-data-visualization-tool-for-design-lovers/>
 

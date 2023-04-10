@@ -1,4 +1,4 @@
-# 谷歌的又一轮关闭:面向团队的谷歌应用、面向商业的谷歌听力和谷歌视频 TechCrunch
+# 谷歌的又一轮关闭:面向团队的谷歌应用、面向商业的谷歌听力和谷歌视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/03/google-shutdowns-august-201/>
 

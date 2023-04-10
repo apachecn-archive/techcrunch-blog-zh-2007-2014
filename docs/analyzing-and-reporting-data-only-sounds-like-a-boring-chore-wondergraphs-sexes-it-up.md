@@ -1,4 +1,4 @@
-# 分析和报告数据听起来只是一件无聊的差事——神奇的图表让它变得有趣 TechCrunch
+# 分析和报告数据听起来只是一件无聊的差事——神奇的图表让它变得有趣 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/analyzing-and-reporting-data-only-sounds-like-a-boring-chore-wondergraphs-sexes-it-up/>
 

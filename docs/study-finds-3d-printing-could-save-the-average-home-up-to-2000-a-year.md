@@ -1,4 +1,4 @@
-# 研究发现 3D 打印每年可为普通家庭节省 2000 美元 TechCrunch
+# 研究发现 3D 打印每年可为普通家庭节省 2000 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/study-finds-3d-printing-could-save-the-average-home-up-to-2000-a-year/>
 

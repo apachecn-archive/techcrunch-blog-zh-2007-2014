@@ -1,4 +1,4 @@
-# “在工作室中”，Nutanix 的 Dheeraj Pandey 正在让计算和存储融合 TechCrunch
+# “在工作室中”，Nutanix 的 Dheeraj Pandey 正在让计算和存储融合 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/in-the-studio-nutanixs-dheeraj-pandey-is-making-computing-and-storage-converge/>
 

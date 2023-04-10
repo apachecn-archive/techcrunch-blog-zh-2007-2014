@@ -1,4 +1,4 @@
-# NAVTEQ 研究:纽约市高速公路上美国最糟糕的交通状况 TechCrunch
+# NAVTEQ 研究:纽约市高速公路上美国最糟糕的交通状况 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/navteq-nyc-worst-traffic/>
 

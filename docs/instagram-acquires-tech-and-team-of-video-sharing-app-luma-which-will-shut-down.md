@@ -1,4 +1,4 @@
-# Instagram 的第一笔收购是视频分享应用 Luma TechCrunch
+# Instagram 的第一笔收购是视频分享应用 Luma 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/23/instagram-acquires-tech-and-team-of-video-sharing-app-luma-which-will-shut-down/>
 

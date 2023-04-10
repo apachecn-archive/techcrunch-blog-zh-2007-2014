@@ -1,4 +1,4 @@
-# 立即报名参加柏林推介会 TechCrunch
+# 立即报名参加柏林推介会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/31/sign-up-for-the-berlin-pitch-off-now/>
 

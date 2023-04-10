@@ -1,4 +1,4 @@
-# 震撼 2011 年的七项技术 TechCrunch
+# 震撼 2011 年的七项技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/02/seven-technologies-that-will-rock-2011/>
 

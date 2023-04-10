@@ -1,4 +1,4 @@
-# Android 应用程序“当前”利用 Twitter 跟踪重大科技新闻 TechCrunch
+# Android 应用程序“当前”利用 Twitter 跟踪重大科技新闻 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/android-app-currently-taps-twitter-to-track-breaking-tech-news/>
 

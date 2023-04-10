@@ -1,4 +1,4 @@
-# Pinterest 上的一个大头针的销售额比去年增加了 25%,可以推动数月的访问和订单 TechCrunch
+# Pinterest 上的一个大头针的销售额比去年增加了 25%,可以推动数月的访问和订单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/13/a-pin-on-pinterest-is-worth-25-more-in-sales-than-last-year-can-drive-visits-orders-for-months/>
 

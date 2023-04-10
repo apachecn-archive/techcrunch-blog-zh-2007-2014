@@ -1,4 +1,4 @@
-# 苹果收紧对推荐应用程序的限制，追求分享和搜索工具 TechCrunch
+# 苹果收紧对推荐应用程序的限制，追求分享和搜索工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/06/apple-tightens-the-noose-on-apps-for-recommending-apps-going-after-sharing-and-search-tools/>
 

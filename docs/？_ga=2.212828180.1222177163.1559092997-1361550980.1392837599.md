@@ -1,4 +1,4 @@
-# 新的早期用户嗜好:转盘 TechCrunch
+# 新的早期用户嗜好:转盘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/08/turntable-addiction/?_ga=2.212828180.1222177163.1559092997-1361550980.1392837599>
 

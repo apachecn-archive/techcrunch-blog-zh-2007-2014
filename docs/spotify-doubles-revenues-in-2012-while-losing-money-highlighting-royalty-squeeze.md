@@ -1,4 +1,4 @@
-# Spotify 年收入翻倍，同时亏损，凸显版税压力 TechCrunch
+# Spotify 年收入翻倍，同时亏损，凸显版税压力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/spotify-doubles-revenues-in-2012-while-losing-money-highlighting-royalty-squeeze/>
 

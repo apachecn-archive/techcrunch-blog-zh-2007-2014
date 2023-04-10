@@ -1,4 +1,4 @@
-# Liftopia:因为你一直想租一座山 TechCrunch
+# Liftopia:因为你一直想租一座山 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/liftopia-because-youve-always-wanted-to-rent-a-mountain/>
 

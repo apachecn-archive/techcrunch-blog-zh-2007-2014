@@ -1,4 +1,4 @@
-# 是的，iOS 应用商店仍然让开发者赚更多的钱 TechCrunch
+# 是的，iOS 应用商店仍然让开发者赚更多的钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/yes-the-ios-app-store-still-makes-developers-more-money/>
 

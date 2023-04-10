@@ -1,4 +1,4 @@
-# LinkedIn 首次推出面向企业的嵌入式求职工具 TechCrunch
+# LinkedIn 首次推出面向企业的嵌入式求职工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/25/linkedin-debuts-embeddable-job-application-tool-for-companies/>
 

@@ -1,4 +1,4 @@
-# Mozilla 发布年度报告，调查竞争新时代 TechCrunch
+# Mozilla 发布年度报告，调查竞争新时代 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/mozilla-releases-annual-report-surveys-the-new-era-of-competition/>
 

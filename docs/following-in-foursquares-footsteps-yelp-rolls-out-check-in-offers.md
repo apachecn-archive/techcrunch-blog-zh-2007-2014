@@ -1,4 +1,4 @@
-# 跟随 Foursquare 的脚步，Yelp 推出签到服务 TechCrunch
+# 跟随 Foursquare 的脚步，Yelp 推出签到服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/03/following-in-foursquares-footsteps-yelp-rolls-out-check-in-offers/>
 

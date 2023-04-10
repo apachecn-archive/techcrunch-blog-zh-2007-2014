@@ -1,4 +1,4 @@
-# 新泽西州成为第三个禁止特斯拉直销模式的州 TechCrunch
+# 新泽西州成为第三个禁止特斯拉直销模式的州 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/new-jersey-becomes-third-state-to-ban-teslas-direct-sales-model/>
 

@@ -1,4 +1,4 @@
-# 摩托罗拉 Xoom LTE“试点”计划正在进行 TechCrunch
+# 摩托罗拉 Xoom LTE“试点”计划正在进行 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/motorola-xoom-lte-pilot-program-underway/>
 

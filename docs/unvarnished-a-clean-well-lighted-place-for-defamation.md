@@ -1,4 +1,4 @@
-# Unvarnished:一个干净明亮的诽谤场所 TechCrunch
+# Unvarnished:一个干净明亮的诽谤场所 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/30/unvarnished-a-clean-well-lighted-place-for-defamation/>
 

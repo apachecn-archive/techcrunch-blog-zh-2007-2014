@@ -1,4 +1,4 @@
-# 在“Tweet”商标之争中，Twitter 起诉 Twittad TechCrunch
+# 在“Tweet”商标之争中，Twitter 起诉 Twittad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/10/in-battle-over-the-tweet-trademark-twitter-sues-twittad/>
 

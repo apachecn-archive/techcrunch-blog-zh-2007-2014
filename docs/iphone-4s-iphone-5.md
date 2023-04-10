@@ -1,4 +1,4 @@
-# iPhone 谣言疯传！新泄漏指向两种型号，相似的外壳 TechCrunch
+# iPhone 谣言疯传！新泄漏指向两种型号，相似的外壳 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/29/iphone-4s-iphone-5/>
 

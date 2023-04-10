@@ -1,4 +1,4 @@
-# 谷歌推出 Hangouts 手语翻译应用，为 Gmail、Drive 和 Chrome 添加辅助功能 TechCrunch
+# 谷歌推出 Hangouts 手语翻译应用，为 Gmail、Drive 和 Chrome 添加辅助功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/01/google-launches-sign-language-interpreter-app-for-hangouts-adds-accessibility-features-to-gmail-drive-and-chrome/>
 

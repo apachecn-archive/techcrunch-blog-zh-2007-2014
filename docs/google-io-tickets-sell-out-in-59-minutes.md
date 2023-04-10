@@ -1,4 +1,4 @@
-# 谷歌 I/O 门票在 59 分钟内售罄 TechCrunch
+# 谷歌 I/O 门票在 59 分钟内售罄 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/google-io-tickets-sell-out-in-59-minutes/>
 

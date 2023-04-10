@@ -1,4 +1,4 @@
-# 谷歌语音现在可以让你改变你的号码。这要花你 10 美元。TechCrunch
+# 谷歌语音现在可以让你改变你的号码。这要花你 10 美元。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/02/google-voice-now-lets-you-change-your-number-itll-cost-you-10/>
 

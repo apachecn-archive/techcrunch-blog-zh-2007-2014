@@ -1,4 +1,4 @@
-# 为首次公开募股做准备，Glam Media 任命前微软重量级首席财务官 Bruce Jaffe TechCrunch
+# 为首次公开募股做准备，Glam Media 任命前微软重量级首席财务官 Bruce Jaffe 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/03/glam-bruce-jaffe-cfo/>
 

@@ -1,4 +1,4 @@
-# 33Across 收购 Tynt 成为社交数据巨头 TechCrunch
+# 33Across 收购 Tynt 成为社交数据巨头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/33across-acquires-tynt/>
 

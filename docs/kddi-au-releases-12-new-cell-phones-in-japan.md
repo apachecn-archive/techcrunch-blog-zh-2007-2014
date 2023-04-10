@@ -1,4 +1,4 @@
-# KDDI au 在日本发布 12 款新手机 TechCrunch
+# KDDI au 在日本发布 12 款新手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/04/kddi-au-releases-12-new-cell-phones-in-japan/>
 

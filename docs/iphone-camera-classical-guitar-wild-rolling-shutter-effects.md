@@ -1,4 +1,4 @@
-# iPhone 相机+古典吉他=狂野的卷帘快门效果 TechCrunch
+# iPhone 相机+古典吉他=狂野的卷帘快门效果 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/iphone-camera-classical-guitar-wild-rolling-shutter-effects/>
 

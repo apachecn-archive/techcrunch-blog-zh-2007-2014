@@ -1,4 +1,4 @@
-# 华硕 Transformer 明天接收 Android 3.2 更新 TechCrunch
+# 华硕 Transformer 明天接收 Android 3.2 更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/asus-transfomer-receiving-android-3-2-update-tomorrow/>
 

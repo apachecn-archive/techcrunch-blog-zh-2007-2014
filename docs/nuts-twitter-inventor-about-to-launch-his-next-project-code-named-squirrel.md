@@ -1,4 +1,4 @@
-# 坚果:Twitter 的发明者即将推出他的下一个项目，代号松鼠 TechCrunch
+# 坚果:Twitter 的发明者即将推出他的下一个项目，代号松鼠 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/08/nuts-twitter-inventor-about-to-launch-his-next-project-code-named-squirrel/>
 

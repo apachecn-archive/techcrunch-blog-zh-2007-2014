@@ -1,4 +1,4 @@
-# Twitter 收购列表共享和发现平台 Bagcheck，Sam Pullara 加入工程团队 TechCrunch
+# Twitter 收购列表共享和发现平台 Bagcheck，Sam Pullara 加入工程团队 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/twitter-acquires-sharing-and-discovery-platform-bagcheck/>
 

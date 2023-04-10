@@ -1,4 +1,4 @@
-# YouTube 因维护关闭。没错。TechCrunch
+# YouTube 因维护关闭。没错。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/01/youtube-down-for-maintenance-right/>
 

@@ -1,4 +1,4 @@
-# Foursquare 从雅虎挖来一名高级主管来领导移动增长 TechCrunch
+# Foursquare 从雅虎挖来一名高级主管来领导移动增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/16/foursquare-mobile/>
 

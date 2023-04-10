@@ -1,4 +1,4 @@
-# 策划食品配送服务 Caviar 向公众开放并推出团体订购 TechCrunch
+# 策划食品配送服务 Caviar 向公众开放并推出团体订购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/11/caviar-public-launch/>
 

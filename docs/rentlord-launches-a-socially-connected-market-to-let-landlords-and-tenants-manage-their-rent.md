@@ -1,4 +1,4 @@
-# Rentlord 推出一个社交互联市场，让房东和房客管理他们的租金 TechCrunch
+# Rentlord 推出一个社交互联市场，让房东和房客管理他们的租金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/rentlord-launches-a-socially-connected-market-to-let-landlords-and-tenants-manage-their-rent/>
 

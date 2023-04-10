@@ -1,4 +1,4 @@
-# #OccupySocialMedia: GO 推出匿名照片和视频分享移动应用 TechCrunch
+# #OccupySocialMedia: GO 推出匿名照片和视频分享移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/ocuppysocialmedia-go-launches-a-mobile-app-for-anonymous-photo-video-sharing/>
 

@@ -1,4 +1,4 @@
-# Care.com 筹集了 2500 万美元 TechCrunch
+# Care.com 筹集了 2500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/care-com-raises-25-million/>
 

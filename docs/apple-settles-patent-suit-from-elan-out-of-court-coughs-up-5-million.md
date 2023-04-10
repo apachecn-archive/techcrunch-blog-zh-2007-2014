@@ -1,4 +1,4 @@
-# 苹果庭外和解 Elan 专利诉讼，支付 500 万美元 TechCrunch
+# 苹果庭外和解 Elan 专利诉讼，支付 500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/05/apple-settles-patent-suit-from-elan-out-of-court-coughs-up-5-million/>
 

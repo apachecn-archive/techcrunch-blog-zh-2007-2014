@@ -1,4 +1,4 @@
-# 斯沃琪发布触摸屏手表 TechCrunch
+# 斯沃琪发布触摸屏手表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/swatch-announces-touchscreen-watches/>
 

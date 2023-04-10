@@ -1,4 +1,4 @@
-# 韩国魔兽世界玩家免费 stracr craft II TechCrunch
+# 韩国魔兽世界玩家免费 stracr craft II 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/28/free-strarcraft-ii-for-south-korean-world-of-warcraft-players/>
 

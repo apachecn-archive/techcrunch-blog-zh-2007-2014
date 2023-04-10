@@ -1,4 +1,4 @@
-# 你的创业公司应该走向免费增值吗？TechCrunch
+# 你的创业公司应该走向免费增值吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/04/should-your-startup-go-freemium/>
 

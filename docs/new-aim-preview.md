@@ -1,4 +1,4 @@
-# 全新 AIM 预览版，可在桌面和移动设备上进行群组和视频聊天 TechCrunch
+# 全新 AIM 预览版，可在桌面和移动设备上进行群组和视频聊天 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/new-aim-preview/>
 

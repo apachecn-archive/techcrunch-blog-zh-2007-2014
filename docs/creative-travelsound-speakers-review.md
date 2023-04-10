@@ -1,4 +1,4 @@
-# 创意 TravelSound 扬声器点评 TechCrunch
+# 创意 TravelSound 扬声器点评 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/creative-travelsound-speakers-review/>
 

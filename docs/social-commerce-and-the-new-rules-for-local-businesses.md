@@ -1,4 +1,4 @@
-# 社交商务和本地企业的新规则 TechCrunch
+# 社交商务和本地企业的新规则 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/05/social-commerce-and-the-new-rules-for-local-businesses/>
 

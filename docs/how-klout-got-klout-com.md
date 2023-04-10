@@ -1,4 +1,4 @@
-# Klout 如何获得 Klout.com TechCrunch
+# Klout 如何获得 Klout.com 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/29/how-klout-got-klout-com/>
 

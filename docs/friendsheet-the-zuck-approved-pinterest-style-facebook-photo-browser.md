@@ -1,4 +1,4 @@
-# friendsheet:Zuck 认可的 Pinterest 风格的脸书图片浏览器 TechCrunch
+# friendsheet:Zuck 认可的 Pinterest 风格的脸书图片浏览器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/07/friendsheet-the-zuck-approved-pinterest-style-facebook-photo-browser/>
 

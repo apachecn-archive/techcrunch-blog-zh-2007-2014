@@ -1,4 +1,4 @@
-# 摩托罗拉的机器人 XYBoard 8.2 被发现佩戴威瑞森的标志 TechCrunch
+# 摩托罗拉的机器人 XYBoard 8.2 被发现佩戴威瑞森的标志 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/motorolas-droid-xyboard-8-2-spotted-wearing-verizons-logo/>
 

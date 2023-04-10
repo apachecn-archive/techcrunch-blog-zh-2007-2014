@@ -1,4 +1,4 @@
-# 泄露的照片据称显示了 iPhone 5 的内部:A5 处理器，更大的显示屏和电池 TechCrunch
+# 泄露的照片据称显示了 iPhone 5 的内部:A5 处理器，更大的显示屏和电池 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/leaked-photo-purportedly-shows-iphone-5s-insides-a5-processor-bigger-display-and-battery/>
 

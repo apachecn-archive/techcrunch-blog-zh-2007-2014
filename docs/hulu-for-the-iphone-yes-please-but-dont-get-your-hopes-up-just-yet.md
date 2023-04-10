@@ -1,4 +1,4 @@
-# iPhone 版的 Hulu？是的，请吧。但是不要抱太大希望。TechCrunch
+# iPhone 版的 Hulu？是的，请吧。但是不要抱太大希望。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/17/hulu-for-the-iphone-yes-please-but-dont-get-your-hopes-up-just-yet/>
 

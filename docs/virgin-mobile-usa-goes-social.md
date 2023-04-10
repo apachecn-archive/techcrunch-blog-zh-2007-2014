@@ -1,4 +1,4 @@
-# 美国维珍手机公司走向社交化——TechCrunch
+# 美国维珍手机公司走向社交化——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/virgin-mobile-usa-goes-social/>
 

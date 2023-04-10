@@ -1,4 +1,4 @@
-# Craigslist 的克雷格·纽马克加入维基媒体基金会顾问委员会 TechCrunch
+# Craigslist 的克雷格·纽马克加入维基媒体基金会顾问委员会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/13/craigslists-craig-newmark-joins-wikimedia-foundation-advisory-board/>
 

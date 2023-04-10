@@ -1,4 +1,4 @@
-# 奥巴马医改在“两株蕨类植物之间”病毒爆发后突破 600 万大关 TechCrunch
+# 奥巴马医改在“两株蕨类植物之间”病毒爆发后突破 600 万大关 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/obamacare-passes-the-6m-mark-after-between-two-ferns-viral-bump/>
 

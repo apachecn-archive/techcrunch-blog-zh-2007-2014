@@ -1,4 +1,4 @@
-# 华硕、宏碁 Android 3.0 标签最终将更新为冰淇淋三明治 TechCrunch
+# 华硕、宏碁 Android 3.0 标签最终将更新为冰淇淋三明治 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/what-would-you-do-for-a-functional-android-tab/>
 

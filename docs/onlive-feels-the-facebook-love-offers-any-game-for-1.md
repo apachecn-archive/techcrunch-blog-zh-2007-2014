@@ -1,4 +1,4 @@
-# OnLive 感受到了脸书的爱，以 1 美元的价格提供任何游戏 TechCrunch
+# OnLive 感受到了脸书的爱，以 1 美元的价格提供任何游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/22/onlive-feels-the-facebook-love-offers-any-game-for-1/>
 

@@ -1,4 +1,4 @@
-# 巨人的陨落:索尼和 RIM 继续失势 TechCrunch
+# 巨人的陨落:索尼和 RIM 继续失势 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/the-fall-of-giants-sony-and-rim-continue-to-lose-ground/>
 

@@ -1,4 +1,4 @@
-# 总部位于马尼拉的社交音乐服务 Twitmusic 跻身 500 家初创企业 TechCrunch
+# 总部位于马尼拉的社交音乐服务 Twitmusic 跻身 500 家初创企业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/04/16/twitmusic-500-startups/>
 

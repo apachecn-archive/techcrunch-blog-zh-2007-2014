@@ -1,4 +1,4 @@
-# Twitter 推出众包翻译中心；接下来是印度尼西亚语、俄语和土耳其语版本 TechCrunch
+# Twitter 推出众包翻译中心；接下来是印度尼西亚语、俄语和土耳其语版本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/twitter-launches-center-to-crowdsource-translations-indonesian-russian-and-turkish-versions-are-next/>
 

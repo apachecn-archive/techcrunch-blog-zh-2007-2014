@@ -1,4 +1,4 @@
-# AdTaily 推出其广告市场，目前仍免佣金 TechCrunch
+# AdTaily 推出其广告市场，目前仍免佣金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/16/adtaily-rolls-out-its-ad-marketplace-remains-commision-free-for-now/>
 

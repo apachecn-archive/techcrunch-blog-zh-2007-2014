@@ -1,4 +1,4 @@
-# 儿童 DIY 游戏创作应用 TinyTap 获得 50 万美元种子资金 TechCrunch
+# 儿童 DIY 游戏创作应用 TinyTap 获得 50 万美元种子资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/14/tinytap-a-diy-game-creation-app-for-kids-raises-500k-seed-round/>
 

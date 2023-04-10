@@ -1,4 +1,4 @@
-# Twitter 更新嵌入式推文，以包含更多内容、上下文、速度和易用性 TechCrunch
+# Twitter 更新嵌入式推文，以包含更多内容、上下文、速度和易用性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/22/twitter-updates-embedded-tweets-to-include-more-content-context-speed-and-ease-of-use/>
 

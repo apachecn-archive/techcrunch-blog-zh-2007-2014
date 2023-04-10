@@ -1,4 +1,4 @@
-# 谷歌电视更新周日推出:更好的内容发现，安卓市场，但 Hulu 仍被封锁 TechCrunch
+# 谷歌电视更新周日推出:更好的内容发现，安卓市场，但 Hulu 仍被封锁 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/just-lipstick-on-a-pig/>
 

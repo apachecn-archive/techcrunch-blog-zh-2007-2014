@@ -1,4 +1,4 @@
-# 脸书通过在时间轴上给用户一年的回顾来纪念 2012 年 TechCrunch
+# 脸书通过在时间轴上给用户一年的回顾来纪念 2012 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/facebook-remembers-2012-by-giving-users-their-own-year-in-review-on-timelines/>
 

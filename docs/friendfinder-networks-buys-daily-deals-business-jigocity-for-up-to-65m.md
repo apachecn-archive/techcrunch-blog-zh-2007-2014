@@ -1,4 +1,4 @@
-# FriendFinder Networks 以高达 6500 万美元收购 Daily Deals Business jigo city TechCrunch
+# FriendFinder Networks 以高达 6500 万美元收购 Daily Deals Business jigo city 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/friendfinder-networks-buys-daily-deals-business-jigocity-for-up-to-65m/>
 

@@ -1,4 +1,4 @@
-# 英国微处理器公司 Imagination Technologies 以 8000 万美元的高价收购芯片设计商 MIPS 的运营业务“某些”专利 TechCrunch
+# 英国微处理器公司 Imagination Technologies 以 8000 万美元的高价收购芯片设计商 MIPS 的运营业务“某些”专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/10/u-k-microprocessor-firm-imagination-technologies-buys-chip-designer-mips-operating-business-certain-patents-for-higher-80m-cash-offer/>
 

@@ -1,4 +1,4 @@
-# 如何挖掘比特币 TechCrunch
+# 如何挖掘比特币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/08/how-to-mine-bitcoins/>
 

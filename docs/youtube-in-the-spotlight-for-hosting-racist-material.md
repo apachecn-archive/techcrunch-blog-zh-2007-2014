@@ -1,4 +1,4 @@
-# YouTube 因托管种族主义内容而备受关注——TechCrunch
+# YouTube 因托管种族主义内容而备受关注——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/youtube-in-the-spotlight-for-hosting-racist-material/>
 

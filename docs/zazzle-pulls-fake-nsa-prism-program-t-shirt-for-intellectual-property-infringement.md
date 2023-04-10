@@ -1,4 +1,4 @@
-# Zazzle 因侵犯知识产权而撤下假冒的美国国家安全局棱镜计划 t 恤 TechCrunch
+# Zazzle 因侵犯知识产权而撤下假冒的美国国家安全局棱镜计划 t 恤 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/08/zazzle-pulls-fake-nsa-prism-program-t-shirt-for-intellectual-property-infringement/>
 

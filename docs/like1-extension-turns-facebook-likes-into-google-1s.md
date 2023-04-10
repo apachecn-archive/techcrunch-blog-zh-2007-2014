@@ -1,4 +1,4 @@
-# Like+1 将脸书赞变成 Google+1s TechCrunch
+# Like+1 将脸书赞变成 Google+1s 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/20/like1-extension-turns-facebook-likes-into-google-1s/>
 

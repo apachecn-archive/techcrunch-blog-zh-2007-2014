@@ -1,4 +1,4 @@
-# 生化奇兵评论:值得炒作？TechCrunch
+# 生化奇兵评论:值得炒作？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/bioshock-review-worth-the-hype/>
 

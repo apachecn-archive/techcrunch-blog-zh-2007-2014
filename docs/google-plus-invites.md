@@ -1,4 +1,4 @@
-# 观看 Twitter 爆炸:Google+邀请早期用户 TechCrunch
+# 观看 Twitter 爆炸:Google+邀请早期用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/google-plus-invites/>
 

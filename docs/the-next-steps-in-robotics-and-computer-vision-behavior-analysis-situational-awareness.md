@@ -1,4 +1,4 @@
-# 机器人和计算机视觉的下一步:行为分析、情境意识 TechCrunch
+# 机器人和计算机视觉的下一步:行为分析、情境意识 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/the-next-steps-in-robotics-and-computer-vision-behavior-analysis-situational-awareness/>
 

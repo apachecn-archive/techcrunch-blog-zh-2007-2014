@@ -1,4 +1,4 @@
-# LiveMinutes 推出简单、免费的基于文档的网络会议服务 TechCrunch
+# LiveMinutes 推出简单、免费的基于文档的网络会议服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/liveminutes-launches-simple-free-document-based-web-conferencing-service/>
 

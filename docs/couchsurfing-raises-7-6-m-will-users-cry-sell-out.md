@@ -1,4 +1,4 @@
-# CouchSurfing 筹集了 760 万美元；用户会喊“卖光”吗？TechCrunch
+# CouchSurfing 筹集了 760 万美元；用户会喊“卖光”吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/couchsurfing-raises-7-6-m-will-users-cry-sell-out/>
 

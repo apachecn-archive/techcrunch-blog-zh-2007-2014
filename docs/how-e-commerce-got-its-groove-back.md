@@ -1,4 +1,4 @@
-# 电子商务如何重回正轨 TechCrunch
+# 电子商务如何重回正轨 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/11/how-e-commerce-got-its-groove-back/>
 

@@ -1,4 +1,4 @@
-# Flash 销售网站和 Gilt 竞争对手 Beyond The Rack 融资 3700 万美元 TechCrunch
+# Flash 销售网站和 Gilt 竞争对手 Beyond The Rack 融资 3700 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/flash-sales-site-and-gilt-competitor-beyond-the-rack-raises-37-million/>
 

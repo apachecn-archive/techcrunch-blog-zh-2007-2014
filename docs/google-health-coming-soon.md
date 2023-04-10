@@ -1,4 +1,4 @@
-# 谷歌健康即将推出？TechCrunch
+# 谷歌健康即将推出？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/23/google-health-coming-soon/>
 

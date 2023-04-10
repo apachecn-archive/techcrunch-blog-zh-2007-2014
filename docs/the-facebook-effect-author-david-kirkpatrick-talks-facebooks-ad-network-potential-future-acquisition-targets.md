@@ -1,4 +1,4 @@
-# 《脸书效应》作者 David Kirkpatrick 谈论脸书的广告网络潜力、未来收购目标 TechCrunch
+# 《脸书效应》作者 David Kirkpatrick 谈论脸书的广告网络潜力、未来收购目标 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/05/23/the-facebook-effect-author-david-kirkpatrick-talks-facebooks-ad-network-potential-future-acquisition-targets/>
 

@@ -1,4 +1,4 @@
-# 谢尔盖·布林和维克·冈多特拉表示，Google+在社交领域玩的是不同的游戏 TechCrunch
+# 谢尔盖·布林和维克·冈多特拉表示，Google+在社交领域玩的是不同的游戏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/brin-gundotra-google-different-game-socia/>
 

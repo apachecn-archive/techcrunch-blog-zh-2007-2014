@@ -1,4 +1,4 @@
-# 脸书的首次公开收益，Q2 2012，定于 7 月 26 日 TechCrunch
+# 脸书的首次公开收益，Q2 2012，定于 7 月 26 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/29/facebook-earnings/>
 

@@ -1,4 +1,4 @@
-# 脸书修改了应用程序画布页面，包括游戏更新和全屏选项 TechCrunch
+# 脸书修改了应用程序画布页面，包括游戏更新和全屏选项 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/facebook-revamps-app-canvas-page-includes-ticker-for-game-updates/>
 

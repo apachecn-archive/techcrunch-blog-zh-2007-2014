@@ -1,4 +1,4 @@
-# 三星推出 Galaxy S 4，展示了一场令人困惑的、过度生产的百老汇风格的展示 TechCrunch
+# 三星推出 Galaxy S 4，展示了一场令人困惑的、过度生产的百老汇风格的展示 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/what-just-happened/>
 

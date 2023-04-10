@@ -1,4 +1,4 @@
-# 专业照片组织和共享应用 Ember 获得备受欢迎的注释工具，可在 Mac 上自动导入 TechCrunch
+# 专业照片组织和共享应用 Ember 获得备受欢迎的注释工具，可在 Mac 上自动导入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/pro-photo-organization-sharing-app-ember-gets-much-requested-annotations-tools-auto-import-on-mac/>
 

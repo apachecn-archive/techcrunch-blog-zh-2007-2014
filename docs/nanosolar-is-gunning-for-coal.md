@@ -1,4 +1,4 @@
-# 纳米太阳能公司正在寻找煤炭。TechCrunch
+# 纳米太阳能公司正在寻找煤炭。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/18/nanosolar-is-gunning-for-coal/>
 

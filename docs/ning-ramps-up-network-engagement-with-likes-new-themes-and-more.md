@@ -1,4 +1,4 @@
-# 宁通过赞、新主题等提升网络参与度 TechCrunch
+# 宁通过赞、新主题等提升网络参与度 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/02/ning-ramps-up-network-engagement-with-likes-new-themes-and-more/>
 

@@ -1,4 +1,4 @@
-# 点评:HTC Hero TechCrunch
+# 点评:HTC Hero 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/20/review-htc-hero/>
 

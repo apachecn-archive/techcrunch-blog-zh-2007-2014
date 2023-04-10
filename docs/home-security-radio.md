@@ -1,4 +1,4 @@
-# 视频:家庭安全系统使用无线电信号检测入侵者 TechCrunch
+# 视频:家庭安全系统使用无线电信号检测入侵者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/home-security-radio/>
 

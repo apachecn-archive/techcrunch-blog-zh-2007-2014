@@ -1,4 +1,4 @@
-# 三星 Galaxy S IV 早期传闻综述:8 核 Exynos 5 芯片，5 英寸 440ppi 显示屏，无线充电 TechCrunch
+# 三星 Galaxy S IV 早期传闻综述:8 核 Exynos 5 芯片，5 英寸 440ppi 显示屏，无线充电 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/samsung-galaxy-s-iv-early-rumor-roundup-8-core-exynos-5-proc-5-440ppi-display-wireless-charging/>
 

@@ -1,4 +1,4 @@
-# AdMob 主导 Android 广告网络市场份额 TechCrunch
+# AdMob 主导 Android 广告网络市场份额 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/admob-dominates-android-ad-network-market-share/>
 

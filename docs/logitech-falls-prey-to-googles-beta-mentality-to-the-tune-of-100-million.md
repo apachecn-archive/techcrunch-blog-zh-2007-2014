@@ -1,4 +1,4 @@
-# 罗技成为谷歌测试心态的牺牲品，价值 1 亿美元 TechCrunch
+# 罗技成为谷歌测试心态的牺牲品，价值 1 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/logitech-falls-prey-to-googles-beta-mentality-to-the-tune-of-100-million/>
 

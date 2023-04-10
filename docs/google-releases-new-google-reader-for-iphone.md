@@ -1,4 +1,4 @@
-# 谷歌为 iPhone 推出谷歌网络工具包 TechCrunch
+# 谷歌为 iPhone 推出谷歌网络工具包 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/26/google-releases-new-google-reader-for-iphone/>
 

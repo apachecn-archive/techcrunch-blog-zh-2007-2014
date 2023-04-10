@@ -1,4 +1,4 @@
-# 在街上学习编程 TechCrunch
+# 在街上学习编程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/24/learning-to-code-on-the-street/>
 

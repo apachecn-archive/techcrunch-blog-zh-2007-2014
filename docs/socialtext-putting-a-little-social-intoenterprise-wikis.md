@@ -1,4 +1,4 @@
-# 社交文本加入一点社交元素...企业维基 TechCrunch
+# 社交文本加入一点社交元素...企业维基 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/17/socialtext-putting-a-little-social-intoenterprise-wikis/>
 

@@ -1,4 +1,4 @@
-# Razer 办公室失窃的原型刀片式笔记本电脑 TechCrunch
+# Razer 办公室失窃的原型刀片式笔记本电脑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/prototype-blade-laptops-stolen-from-razer-offices/>
 

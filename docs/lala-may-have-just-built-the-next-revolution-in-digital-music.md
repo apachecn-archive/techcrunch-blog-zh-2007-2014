@@ -1,4 +1,4 @@
-# 拉拉可能刚刚开创了数字音乐的下一场革命 TechCrunch
+# 拉拉可能刚刚开创了数字音乐的下一场革命 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/20/lala-may-have-just-built-the-next-revolution-in-digital-music/>
 

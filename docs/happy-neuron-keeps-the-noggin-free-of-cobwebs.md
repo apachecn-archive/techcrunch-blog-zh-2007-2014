@@ -1,4 +1,4 @@
-# 快乐神经元让脑袋远离蜘蛛网 TechCrunch
+# 快乐神经元让脑袋远离蜘蛛网 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/21/happy-neuron-keeps-the-noggin-free-of-cobwebs/>
 

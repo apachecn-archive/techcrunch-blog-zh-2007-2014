@@ -1,4 +1,4 @@
-# Fanhattan 增加了新内容合作伙伴的选择:Crackle、Lifetime 和 PBS TechCrunch
+# Fanhattan 增加了新内容合作伙伴的选择:Crackle、Lifetime 和 PBS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/02/fanhattan-beefs-up-content-with-new-media-partners-crackle-lifetime-and-pbs/>
 

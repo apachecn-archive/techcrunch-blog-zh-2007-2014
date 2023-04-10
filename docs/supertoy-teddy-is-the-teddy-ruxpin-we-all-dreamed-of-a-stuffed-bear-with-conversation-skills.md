@@ -1,4 +1,4 @@
-# 超级玩具泰迪熊是我们梦寐以求的泰迪熊——一只拥有对话技巧的毛绒熊 TechCrunch
+# 超级玩具泰迪熊是我们梦寐以求的泰迪熊——一只拥有对话技巧的毛绒熊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/29/supertoy-teddy-is-the-teddy-ruxpin-we-all-dreamed-of-a-stuffed-bear-with-conversation-skills/>
 

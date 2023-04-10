@@ -1,4 +1,4 @@
-# 谷是不是不爱期权了？TechCrunch
+# 谷是不是不爱期权了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/14/is-the-valley-falling-out-of-love-with-options/>
 

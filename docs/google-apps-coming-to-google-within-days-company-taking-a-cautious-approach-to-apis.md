@@ -1,4 +1,4 @@
-# 谷歌应用程序将在几天内进入 Google+；对 API 采取“谨慎态度”的公司 TechCrunch
+# 谷歌应用程序将在几天内进入 Google+；对 API 采取“谨慎态度”的公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/google-apps-coming-to-google-within-days-company-taking-a-cautious-approach-to-apis/>
 

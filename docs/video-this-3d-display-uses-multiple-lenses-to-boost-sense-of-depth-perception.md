@@ -1,4 +1,4 @@
-# 视频:这种 3D 显示器使用多个镜头来增强深度感 TechCrunch
+# 视频:这种 3D 显示器使用多个镜头来增强深度感 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/video-this-3d-display-uses-multiple-lenses-to-boost-sense-of-depth-perception/>
 

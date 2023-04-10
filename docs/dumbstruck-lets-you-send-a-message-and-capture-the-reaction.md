@@ -1,4 +1,4 @@
-# Dumbstruck 让您发送消息并捕捉反应 TechCrunch
+# Dumbstruck 让您发送消息并捕捉反应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/dumbstruck-lets-you-send-a-message-and-capture-the-reaction/>
 

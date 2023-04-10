@@ -1,4 +1,4 @@
-# IBM 的蓝云是网络计算的别称 TechCrunch
+# IBM 的蓝云是网络计算的别称 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/15/ibms-blue-cloud-is-web-computng-by-another-name/>
 

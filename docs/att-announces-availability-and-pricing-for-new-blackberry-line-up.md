@@ -1,4 +1,4 @@
-# 美国电话电报公司宣布新黑莓产品线的上市和定价 TechCrunch
+# 美国电话电报公司宣布新黑莓产品线的上市和定价 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/att-announces-availability-and-pricing-for-new-blackberry-line-up/>
 

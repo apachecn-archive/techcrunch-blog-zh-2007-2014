@@ -1,4 +1,4 @@
-# HTC 报告在 Q2 创下利润记录，售出 1210 万部手机 TechCrunch
+# HTC 报告在 Q2 创下利润记录，售出 1210 万部手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/htc-reports-record-profits-in-q2-12-1-million-handsets-shipped/>
 

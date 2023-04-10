@@ -1,4 +1,4 @@
-# 阿什顿·库彻和麦当娜的经纪人投资小型柏林创业公司。怎么回事？TechCrunch
+# 阿什顿·库彻和麦当娜的经纪人投资小型柏林创业公司。怎么回事？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/ashton-kutcher-and-madonnas-manager-invest-in-tiny-berlin-startup-what-gives/>
 

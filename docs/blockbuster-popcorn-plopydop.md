@@ -1,4 +1,4 @@
-# 跟随网飞的脚步，百视达创建了一个独立的爆米花业务(Plopydop)TechCrunch
+# 跟随网飞的脚步，百视达创建了一个独立的爆米花业务(Plopydop)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/blockbuster-popcorn-plopydop/>
 

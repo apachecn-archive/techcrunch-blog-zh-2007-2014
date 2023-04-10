@@ -1,4 +1,4 @@
-# Intuit 无限期延长 Square 竞争对手 GoPayment 的免费版本 TechCrunch
+# Intuit 无限期延长 Square 竞争对手 GoPayment 的免费版本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/16/intuit-extends-free-version-of-square-competitor-gopayment-indefinitely/>
 

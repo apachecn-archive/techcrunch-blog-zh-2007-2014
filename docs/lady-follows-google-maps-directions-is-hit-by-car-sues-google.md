@@ -1,4 +1,4 @@
-# 女士跟随谷歌地图方向，被车撞，起诉谷歌 TechCrunch
+# 女士跟随谷歌地图方向，被车撞，起诉谷歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/31/lady-follows-google-maps-directions-is-hit-by-car-sues-google/>
 

@@ -1,4 +1,4 @@
-# 微软发布了更新的 Office 365 商务版，增加了包含完整 Office 应用程序的 ProPlus 和新的中小企业版 TechCrunch
+# 微软发布了更新的 Office 365 商务版，增加了包含完整 Office 应用程序的 ProPlus 和新的中小企业版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/27/microsoft-launches-updated-office-365-for-business-adds-proplus-with-full-office-apps-and-new-small-and-medium-business-versions/>
 

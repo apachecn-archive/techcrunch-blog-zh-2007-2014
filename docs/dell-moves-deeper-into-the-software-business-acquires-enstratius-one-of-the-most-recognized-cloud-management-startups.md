@@ -1,4 +1,4 @@
-# 戴尔进一步涉足软件业务，收购了最受认可的云管理初创公司之一 Enstratius TechCrunch
+# 戴尔进一步涉足软件业务，收购了最受认可的云管理初创公司之一 Enstratius 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/06/dell-moves-deeper-into-the-software-business-acquires-enstratius-one-of-the-most-recognized-cloud-management-startups/>
 

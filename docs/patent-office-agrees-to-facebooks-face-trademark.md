@@ -1,4 +1,4 @@
-# 专利局同意脸书的“脸”商标 TechCrunch
+# 专利局同意脸书的“脸”商标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/23/patent-office-agrees-to-facebooks-face-trademark/>
 

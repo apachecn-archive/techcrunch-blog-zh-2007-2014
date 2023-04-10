@@ -1,4 +1,4 @@
-# Chupa 推出支持 iOS、Android 和 Web 的移动应用组件市场 TechCrunch
+# Chupa 推出支持 iOS、Android 和 Web 的移动应用组件市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/21/chupa-launches-mobile-app-component-marketplace-with-support-for-ios-android-web/>
 

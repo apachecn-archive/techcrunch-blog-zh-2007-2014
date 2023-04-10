@@ -1,4 +1,4 @@
-# Twitter 认为我们不够聪明，无法处理@回复，再次修改它们 TechCrunch
+# Twitter 认为我们不够聪明，无法处理@回复，再次修改它们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/12/twitter-decides-were-not-smart-enough-for-replies-changes-them-again/>
 

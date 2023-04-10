@@ -1,4 +1,4 @@
-# 苹果以 50 美元的折扣提供翻新的 iPad 2 型号 TechCrunch
+# 苹果以 50 美元的折扣提供翻新的 iPad 2 型号 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/apple-offers-refurbished-ipad-2-models-at-50-discount/>
 

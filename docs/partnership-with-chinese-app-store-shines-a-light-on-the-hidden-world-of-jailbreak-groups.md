@@ -1,4 +1,4 @@
-# 与中国应用商店的合作照亮了越狱组织的秘密世界 TechCrunch
+# 与中国应用商店的合作照亮了越狱组织的秘密世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/22/partnership-with-chinese-app-store-shines-a-light-on-the-hidden-world-of-jailbreak-groups/>
 

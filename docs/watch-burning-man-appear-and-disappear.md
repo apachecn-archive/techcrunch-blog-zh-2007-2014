@@ -1,4 +1,4 @@
-# 观看燃烧的人出现和消失 TechCrunch
+# 观看燃烧的人出现和消失 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/watch-burning-man-appear-and-disappear/>
 

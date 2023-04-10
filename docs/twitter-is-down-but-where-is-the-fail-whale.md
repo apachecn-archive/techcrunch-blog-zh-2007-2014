@@ -1,4 +1,4 @@
-# Twitter 一天的失败记录:自美国东部时间 12:35 以来大部分时间都在下降 TechCrunch
+# Twitter 一天的失败记录:自美国东部时间 12:35 以来大部分时间都在下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/21/twitter-is-down-but-where-is-the-fail-whale/>
 

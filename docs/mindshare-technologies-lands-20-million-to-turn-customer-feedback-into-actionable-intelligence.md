@@ -1,4 +1,4 @@
-# Mindshare Technologies 投资 2000 万美元将客户反馈转化为可操作的情报 TechCrunch
+# Mindshare Technologies 投资 2000 万美元将客户反馈转化为可操作的情报 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/mindshare-technologies-lands-20-million-to-turn-customer-feedback-into-actionable-intelligence/>
 

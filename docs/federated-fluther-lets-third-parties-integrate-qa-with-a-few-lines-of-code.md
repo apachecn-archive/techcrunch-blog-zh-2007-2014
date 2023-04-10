@@ -1,4 +1,4 @@
-# Federated Fluther 允许第三方用几行代码集成问答 TechCrunch
+# Federated Fluther 允许第三方用几行代码集成问答 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/09/federated-fluther-lets-third-parties-integrate-qa-with-a-few-lines-of-code/>
 

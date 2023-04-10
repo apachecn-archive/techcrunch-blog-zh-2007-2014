@@ -1,4 +1,4 @@
-# SEC 批准社交投资网站 kaChing 收购共同基金 TechCrunch
+# SEC 批准社交投资网站 kaChing 收购共同基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/15/sec-gives-social-investing-site-kaching-green-light-to-take-on-mutual-funds/>
 

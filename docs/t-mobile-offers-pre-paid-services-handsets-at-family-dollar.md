@@ -1,4 +1,4 @@
-# T-Mobile 提供预付费服务，家庭美元手机 TechCrunch
+# T-Mobile 提供预付费服务，家庭美元手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/t-mobile-offers-pre-paid-services-handsets-at-family-dollar/>
 

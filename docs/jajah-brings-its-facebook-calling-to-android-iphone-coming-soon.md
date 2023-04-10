@@ -1,4 +1,4 @@
-# Jajah 将其脸书通话引入 Android，iPhone 即将推出 TechCrunch
+# Jajah 将其脸书通话引入 Android，iPhone 即将推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/12/jajah-brings-its-facebook-calling-to-android-iphone-coming-soon/>
 

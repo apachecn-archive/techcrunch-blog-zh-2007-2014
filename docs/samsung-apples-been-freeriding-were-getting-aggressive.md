@@ -1,4 +1,4 @@
-# 三星:苹果一直在“搭便车”，我们正变得咄咄逼人 TechCrunch
+# 三星:苹果一直在“搭便车”，我们正变得咄咄逼人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/23/samsung-apples-been-freeriding-were-getting-aggressive/>
 

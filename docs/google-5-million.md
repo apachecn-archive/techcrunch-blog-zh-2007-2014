@@ -1,4 +1,4 @@
-# 谷歌为扼杀报纸感到内疚，向新闻业捐赠 500 万美元慈善基金 TechCrunch
+# 谷歌为扼杀报纸感到内疚，向新闻业捐赠 500 万美元慈善基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/google-5-million/>
 

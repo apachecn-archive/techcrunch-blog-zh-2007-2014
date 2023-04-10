@@ -1,4 +1,4 @@
-# Twitter 宣布 NBC 的 Vivian Schiller 担任新闻合作伙伴主管 TechCrunch
+# Twitter 宣布 NBC 的 Vivian Schiller 担任新闻合作伙伴主管 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/24/twitter-announces-nbcs-vivian-schiller-as-head-of-news-partnerships/>
 

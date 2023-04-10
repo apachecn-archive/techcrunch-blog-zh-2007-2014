@@ -1,4 +1,4 @@
-# Vente-privee 统治美国的计划足以让谷歌电视高管跳槽 TechCrunch
+# Vente-privee 统治美国的计划足以让谷歌电视高管跳槽 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/vente-privees-plans-for-u-s-domination-exciting-enough-for-google-tv-execs-to-jump-ship/>
 

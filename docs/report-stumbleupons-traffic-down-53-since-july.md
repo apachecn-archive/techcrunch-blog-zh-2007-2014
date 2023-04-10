@@ -1,4 +1,4 @@
-# 报告:自 7 月以来，StumbleUpon 的流量下降了 53% TechCrunch
+# 报告:自 7 月以来，StumbleUpon 的流量下降了 53% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/06/report-stumbleupons-traffic-down-53-since-july/>
 

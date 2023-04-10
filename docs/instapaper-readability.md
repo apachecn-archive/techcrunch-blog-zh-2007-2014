@@ -1,4 +1,4 @@
-# 可读性刚刚成为 Instapaper 的出版商付费层 TechCrunch
+# 可读性刚刚成为 Instapaper 的出版商付费层 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/05/instapaper-readability/>
 

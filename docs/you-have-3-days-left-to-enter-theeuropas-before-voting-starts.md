@@ -1,4 +1,4 @@
-# 在投票开始之前，您还有 3 天的时间来输入# the europas TechCrunch
+# 在投票开始之前，您还有 3 天的时间来输入# the europas 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/you-have-3-days-left-to-enter-theeuropas-before-voting-starts/>
 

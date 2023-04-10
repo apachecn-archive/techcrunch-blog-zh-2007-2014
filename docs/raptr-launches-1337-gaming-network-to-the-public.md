@@ -1,4 +1,4 @@
-# Raptr 向公众推出 1337 游戏网络 TechCrunch
+# Raptr 向公众推出 1337 游戏网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/raptr-launches-1337-gaming-network-to-the-public/>
 

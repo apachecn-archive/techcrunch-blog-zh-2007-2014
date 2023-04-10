@@ -1,4 +1,4 @@
-# 一家你从未听说过的公司，2013 年收入 1300 万美元，今天首次公开募股，估值超过 3B 科技博客 TechCrunch
+# 一家你从未听说过的公司，2013 年收入 1300 万美元，今天首次公开募股，估值超过 3B 科技博客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/14/firm-you-havent-heard-of-with-13m-in-2013-revenue-ipod-today-spiking-to-valuation-north-of-3b/>
 

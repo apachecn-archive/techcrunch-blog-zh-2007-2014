@@ -1,4 +1,4 @@
-# MeeGo 初创公司 Jolla 的首款手机将于 11 月 27 日在芬兰上市 TechCrunch
+# MeeGo 初创公司 Jolla 的首款手机将于 11 月 27 日在芬兰上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/meego-startup-jollas-first-phone-to-go-on-sale-in-finland-on-november-27/>
 

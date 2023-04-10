@@ -1,4 +1,4 @@
-# Powertrekk 燃料电池为 USB 供电设备充电 TechCrunch
+# Powertrekk 燃料电池为 USB 供电设备充电 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/12/powertrekk-fuel-cell-charges-usb-powered-devices/>
 

@@ -1,4 +1,4 @@
-# WordPress 收购爱尔兰初创公司 poll daddy TechCrunch
+# WordPress 收购爱尔兰初创公司 poll daddy 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/15/wordpress-acquires-irish-startup-polldaddy/>
 

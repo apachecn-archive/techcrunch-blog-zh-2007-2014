@@ -1,4 +1,4 @@
-# Eric Schmidt 的 Le Web 主题视频:“Android 领先于 iPhone”TechCrunch
+# Eric Schmidt 的 Le Web 主题视频:“Android 领先于 iPhone”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/schmidt-le-web-video/>
 

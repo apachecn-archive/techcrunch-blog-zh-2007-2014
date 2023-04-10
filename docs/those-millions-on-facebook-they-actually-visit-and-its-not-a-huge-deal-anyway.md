@@ -1,4 +1,4 @@
-# 脸书的那几百万？他们真的会去看你，这没什么大不了的。TechCrunch
+# 脸书的那几百万？他们真的会去看你，这没什么大不了的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/06/those-millions-on-facebook-they-actually-visit-and-its-not-a-huge-deal-anyway/>
 

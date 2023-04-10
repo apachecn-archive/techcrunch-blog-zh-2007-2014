@@ -1,4 +1,4 @@
-# ClackPoint 将语音和文档共享引入 Google Friend Connect TechCrunch
+# ClackPoint 将语音和文档共享引入 Google Friend Connect 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/30/clackpoint-brings-voice-document-sharing-to-google-friend-connect/>
 

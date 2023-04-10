@@ -1,4 +1,4 @@
-# 苹果 iPad？不如来点德国创新吧 TechCrunch
+# 苹果 iPad？不如来点德国创新吧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/19/apple-ipad-how-about-a-little-german-innovation-instead/>
 

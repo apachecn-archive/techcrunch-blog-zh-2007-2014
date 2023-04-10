@@ -1,4 +1,4 @@
-# 来自下一个网站的直播(2008):第 2 天 TechCrunch
+# 来自下一个网站的直播(2008):第 2 天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/04/live-from-the-next-web-2008-day-2/>
 

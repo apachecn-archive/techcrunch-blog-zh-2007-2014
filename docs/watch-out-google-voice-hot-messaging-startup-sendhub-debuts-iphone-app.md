@@ -1,4 +1,4 @@
-# 小心谷歌之声:热门信息初创公司 SendHub 推出 iPhone 应用 TechCrunch
+# 小心谷歌之声:热门信息初创公司 SendHub 推出 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/03/watch-out-google-voice-hot-messaging-startup-sendhub-debuts-iphone-app/>
 

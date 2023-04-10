@@ -1,4 +1,4 @@
-# Artkive 将您孩子的作品(及更多)转化为印刷书籍 TechCrunch
+# Artkive 将您孩子的作品(及更多)转化为印刷书籍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/22/artkive-turns-your-kids-artwork-and-more-into-printed-books/>
 

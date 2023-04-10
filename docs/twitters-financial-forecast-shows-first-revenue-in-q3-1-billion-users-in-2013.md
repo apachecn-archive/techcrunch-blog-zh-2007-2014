@@ -1,4 +1,4 @@
-# Twitter 的财务预测显示第三季度首次实现收入，2013 年用户将达到 10 亿 TechCrunch
+# Twitter 的财务预测显示第三季度首次实现收入，2013 年用户将达到 10 亿 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/15/twitters-financial-forecast-shows-first-revenue-in-q3-1-billion-users-in-2013/>
 

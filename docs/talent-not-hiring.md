@@ -1,4 +1,4 @@
-# 想要一个伟大的团队？关注人才，而不是招聘 TechCrunch
+# 想要一个伟大的团队？关注人才，而不是招聘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/08/talent-not-hiring/>
 

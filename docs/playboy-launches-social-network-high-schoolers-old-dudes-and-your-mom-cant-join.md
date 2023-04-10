@@ -1,4 +1,4 @@
-# 花花公子推出社交网络:“高中生、老人和你妈妈不能加入”——TechCrunch
+# 花花公子推出社交网络:“高中生、老人和你妈妈不能加入”——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/22/playboy-launches-social-network-high-schoolers-old-dudes-and-your-mom-cant-join/>
 

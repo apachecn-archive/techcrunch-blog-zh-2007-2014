@@ -1,4 +1,4 @@
-# 小即是美:NTT Docomo 以 1900 万美元入股毫微微蜂窝基站制造商 Ubiquisys TechCrunch
+# 小即是美:NTT Docomo 以 1900 万美元入股毫微微蜂窝基站制造商 Ubiquisys 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/15/small-is-beautiful-ntt-docomo-leads-19m-round-in-femtocell-maker-ubiquisys/>
 

@@ -1,4 +1,4 @@
-# 安卓在微软 iPhone 送葬队伍中的位置在哪里？拍照 TechCrunch
+# 安卓在微软 iPhone 送葬队伍中的位置在哪里？拍照 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/10/windows-phone-7-funeral/>
 

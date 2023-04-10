@@ -1,4 +1,4 @@
-# 点评:雷克萨斯 LX 570 是一款全地形电子游乐园 TechCrunch
+# 点评:雷克萨斯 LX 570 是一款全地形电子游乐园 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/lexus-lx-570-review/>
 

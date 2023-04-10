@@ -1,4 +1,4 @@
-# Offermatic 的 Mint、Groupon 和 Blippy 的爱之子现已向公众开放 TechCrunch
+# Offermatic 的 Mint、Groupon 和 Blippy 的爱之子现已向公众开放 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/08/offermatics-love-child-of-mint-groupon-blippy-now-open-to-the-public/>
 

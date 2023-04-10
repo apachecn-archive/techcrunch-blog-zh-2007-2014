@@ -1,4 +1,4 @@
-# 奥康纳谈如何成为一名优秀的企业家:“你有没有告诉你的老板滚蛋？”TechCrunch
+# 奥康纳谈如何成为一名优秀的企业家:“你有没有告诉你的老板滚蛋？”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/19/founder-stories-kevin-oconnor-good-entrepreneur/>
 

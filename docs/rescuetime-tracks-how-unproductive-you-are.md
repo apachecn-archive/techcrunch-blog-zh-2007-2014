@@ -1,4 +1,4 @@
-# 退出私人测试版，追踪你的工作效率 TechCrunch
+# 退出私人测试版，追踪你的工作效率 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/14/rescuetime-tracks-how-unproductive-you-are/>
 

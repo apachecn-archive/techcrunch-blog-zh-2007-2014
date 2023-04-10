@@ -1,4 +1,4 @@
-# 梅塞德斯车主从谷歌和雅虎那里得到了好处。TechCrunch
+# 梅塞德斯车主从谷歌和雅虎那里得到了好处。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/30/mercedes-owners-get-the-hook-up-from-google-yahoo/>
 

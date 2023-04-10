@@ -1,4 +1,4 @@
-# 在智能手机大战中，这是 iOS 与 Android 的较量，也是 Windows Phone 与其他手机的较量 TechCrunch
+# 在智能手机大战中，这是 iOS 与 Android 的较量，也是 Windows Phone 与其他手机的较量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/07/in-the-smartphone-wars-its-ios-vs-android-and-windows-phone-vs-the-rest/>
 

@@ -1,4 +1,4 @@
-# 雅虎第三季度勉强超过预期，每股收益 0.34 美元，收入持平于 10.8 亿美元 TechCrunch
+# 雅虎第三季度勉强超过预期，每股收益 0.34 美元，收入持平于 10.8 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/15/yahoo-earnings-q3-2013/>
 

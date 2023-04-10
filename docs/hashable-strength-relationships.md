@@ -1,4 +1,4 @@
-# Hashable 开始衡量你人际关系的强度 TechCrunch
+# Hashable 开始衡量你人际关系的强度 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/09/hashable-strength-relationships/>
 

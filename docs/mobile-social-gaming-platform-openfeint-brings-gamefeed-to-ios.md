@@ -1,4 +1,4 @@
-# 移动社交游戏平台 OpenFeint 在 iOS 和 Android 上推出 game feed TechCrunch
+# 移动社交游戏平台 OpenFeint 在 iOS 和 Android 上推出 game feed 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/mobile-social-gaming-platform-openfeint-brings-gamefeed-to-ios/>
 

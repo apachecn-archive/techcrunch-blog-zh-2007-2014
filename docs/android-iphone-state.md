@@ -1,4 +1,4 @@
-# 你是生活在安卓状态还是 iPhone 状态？TechCrunch
+# 你是生活在安卓状态还是 iPhone 状态？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/05/android-iphone-state/>
 

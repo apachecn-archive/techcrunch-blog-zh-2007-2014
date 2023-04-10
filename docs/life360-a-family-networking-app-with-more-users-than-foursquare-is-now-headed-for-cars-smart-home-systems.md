@@ -1,4 +1,4 @@
-# 比 Foursquare 拥有更多用户的家庭网络应用 Life360 现在正走向汽车、智能家居系统 TechCrunch
+# 比 Foursquare 拥有更多用户的家庭网络应用 Life360 现在正走向汽车、智能家居系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/26/life360-a-family-networking-app-with-more-users-than-foursquare-is-now-headed-for-cars-smart-home-systems/>
 

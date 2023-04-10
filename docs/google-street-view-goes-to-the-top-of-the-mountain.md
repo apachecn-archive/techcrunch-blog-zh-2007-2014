@@ -1,4 +1,4 @@
-# 谷歌街景登上山顶 TechCrunch
+# 谷歌街景登上山顶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/google-street-view-goes-to-the-top-of-the-mountain/>
 

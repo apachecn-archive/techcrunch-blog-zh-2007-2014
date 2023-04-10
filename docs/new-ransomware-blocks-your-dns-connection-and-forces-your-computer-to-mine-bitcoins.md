@@ -1,4 +1,4 @@
-# 新的勒索软件会阻止您的 DNS 连接，并迫使您的计算机挖掘比特币 TechCrunch
+# 新的勒索软件会阻止您的 DNS 连接，并迫使您的计算机挖掘比特币 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/new-ransomware-blocks-your-dns-connection-and-forces-your-computer-to-mine-bitcoins/>
 

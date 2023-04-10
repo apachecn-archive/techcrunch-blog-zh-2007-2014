@@ -1,4 +1,4 @@
-# (创始人故事)Reddit 的亚历克西斯·奥哈尼安向“乔布斯勋爵”鞠躬，并抨击投资者 TechCrunch
+# (创始人故事)Reddit 的亚历克西斯·奥哈尼安向“乔布斯勋爵”鞠躬，并抨击投资者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/04/founder-stories-ohanian-jobs-investors/>
 

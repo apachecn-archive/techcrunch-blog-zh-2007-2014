@@ -1,4 +1,4 @@
-# 加州大学积极拓展在线课程，发现失败率下降 TechCrunch
+# 加州大学积极拓展在线课程，发现失败率下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/12/california-universities-aggressively-expand-online-courses-finds-failure-rates-drop/>
 

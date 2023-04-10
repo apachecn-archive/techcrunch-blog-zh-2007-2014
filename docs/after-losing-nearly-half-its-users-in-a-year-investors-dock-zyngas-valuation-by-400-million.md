@@ -1,4 +1,4 @@
-# 在一年内失去近一半用户后，投资者将 Zynga 的估值提高了 4 亿美元 TechCrunch
+# 在一年内失去近一半用户后，投资者将 Zynga 的估值提高了 4 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/after-losing-nearly-half-its-users-in-a-year-investors-dock-zyngas-valuation-by-400-million/>
 

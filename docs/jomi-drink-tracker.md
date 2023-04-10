@@ -1,4 +1,4 @@
-# 黎心依的智能水瓶套加应用程序希望跟踪和记录你的液体摄入量，让你喝得更多 TechCrunch
+# 黎心依的智能水瓶套加应用程序希望跟踪和记录你的液体摄入量，让你喝得更多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/14/jomi-drink-tracker/>
 

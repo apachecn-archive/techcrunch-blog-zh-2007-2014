@@ -1,4 +1,4 @@
-# 性感 IPO 对 SaaS y IPO TechCrunch
+# 性感 IPO 对 SaaS y IPO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/10/sexy-ipos-versus-saas-y-ipos/>
 

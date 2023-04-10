@@ -1,4 +1,4 @@
-# DSLR 控制器应用程序让您的 Android 设备发号施令 TechCrunch
+# DSLR 控制器应用程序让您的 Android 设备发号施令 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/dslr-controller-app-lets-android-call-the-shots/>
 

@@ -1,4 +1,4 @@
-# Google Friend Connect 添加推荐小工具 TechCrunch
+# Google Friend Connect 添加推荐小工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/15/google-friend-connect-adds-recommendations-gadget/>
 

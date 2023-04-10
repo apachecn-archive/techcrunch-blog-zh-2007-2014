@@ -1,4 +1,4 @@
-# 不要出卖自己，方方正正。现在不行。不是雅虎。TechCrunch
+# 不要出卖自己，方方正正。现在不行。不是雅虎。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/18/dont-sell-out-foursquare-not-now-not-to-yahoo/>
 

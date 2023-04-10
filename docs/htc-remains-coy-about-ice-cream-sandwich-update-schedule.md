@@ -1,4 +1,4 @@
-# HTC 对冰淇淋三明治更新时间表保持缄默 TechCrunch
+# HTC 对冰淇淋三明治更新时间表保持缄默 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/htc-remains-coy-about-ice-cream-sandwich-update-schedule/>
 

@@ -1,4 +1,4 @@
-# CVS 与 Google Health 签约，提供全面的药房历史 TechCrunch
+# CVS 与 Google Health 签约，提供全面的药房历史 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/06/cvs-signs-on-with-google-health-to-offer-comprehensive-pharmacy-history/>
 

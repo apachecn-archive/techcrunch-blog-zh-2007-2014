@@ -1,4 +1,4 @@
-# 《上古卷轴》特许经营权尚未消亡 TechCrunch
+# 《上古卷轴》特许经营权尚未消亡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/elder-scrolls-franchise-not-dead-yet/>
 

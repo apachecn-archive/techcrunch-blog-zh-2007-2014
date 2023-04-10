@@ -1,4 +1,4 @@
-# 在地图上玩得很好，苹果。该你了，谷歌。TechCrunch
+# 在地图上玩得很好，苹果。该你了，谷歌。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/28/well-played-on-maps-apple-your-move-google/>
 

@@ -1,4 +1,4 @@
-# HTC 首款 NFC 手机 HTC 惊艳其实是不可思议的 S TechCrunch
+# HTC 首款 NFC 手机 HTC 惊艳其实是不可思议的 S 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/htcs-1st-nfc-phone-htc-stunning-is-actually-incredible-s/>
 

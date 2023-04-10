@@ -1,4 +1,4 @@
-# VigLink 筹集了 80 万美元，解决了加盟计划的问题 TechCrunch
+# VigLink 筹集了 80 万美元，解决了加盟计划的问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/12/viglink-affiliate-programs/>
 

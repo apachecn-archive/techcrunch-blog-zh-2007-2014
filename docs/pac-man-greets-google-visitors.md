@@ -1,4 +1,4 @@
-# 吃豆人迎接谷歌访客 TechCrunch
+# 吃豆人迎接谷歌访客 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/21/pac-man-greets-google-visitors/>
 

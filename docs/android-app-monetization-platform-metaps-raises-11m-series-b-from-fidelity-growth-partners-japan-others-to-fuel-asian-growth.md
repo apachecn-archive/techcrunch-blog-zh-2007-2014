@@ -1,4 +1,4 @@
-# Android 应用货币化平台 Metaps 从 Fidelity Growth Partners Japan 及其他公司获得 1100 万美元 B 轮融资，推动亚洲增长 TechCrunch
+# Android 应用货币化平台 Metaps 从 Fidelity Growth Partners Japan 及其他公司获得 1100 万美元 B 轮融资，推动亚洲增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/06/android-app-monetization-platform-metaps-raises-11m-series-b-from-fidelity-growth-partners-japan-others-to-fuel-asian-growth/>
 

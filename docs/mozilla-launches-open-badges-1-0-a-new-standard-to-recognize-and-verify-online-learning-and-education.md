@@ -1,4 +1,4 @@
-# Mozilla 推出 Open Badges 1.0，这是一种识别和验证在线学习和教育的新标准 TechCrunch
+# Mozilla 推出 Open Badges 1.0，这是一种识别和验证在线学习和教育的新标准 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/mozilla-launches-open-badges-1-0-a-new-standard-to-recognize-and-verify-online-learning-and-education/>
 

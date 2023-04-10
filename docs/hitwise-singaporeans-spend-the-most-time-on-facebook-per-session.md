@@ -1,4 +1,4 @@
-# Hitwise:新加坡人每次花在脸书上的时间最多 TechCrunch
+# Hitwise:新加坡人每次花在脸书上的时间最多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/30/hitwise-singaporeans-spend-the-most-time-on-facebook-per-session/>
 

@@ -1,4 +1,4 @@
-# 作为谷歌音乐的第一家运营商合作伙伴，T-Mobile 允许你将音乐计入每月账单 TechCrunch
+# 作为谷歌音乐的第一家运营商合作伙伴，T-Mobile 允许你将音乐计入每月账单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/as-google-musics-first-carrier-partner-t-mobile-lets-you-charge-music-to-your-monthly-bill/>
 

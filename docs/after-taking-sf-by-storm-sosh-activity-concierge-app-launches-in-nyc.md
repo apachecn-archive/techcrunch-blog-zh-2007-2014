@@ -1,4 +1,4 @@
-# 风靡旧金山之后，上海活动礼宾应用在纽约发布 TechCrunch
+# 风靡旧金山之后，上海活动礼宾应用在纽约发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/after-taking-sf-by-storm-sosh-activity-concierge-app-launches-in-nyc/>
 

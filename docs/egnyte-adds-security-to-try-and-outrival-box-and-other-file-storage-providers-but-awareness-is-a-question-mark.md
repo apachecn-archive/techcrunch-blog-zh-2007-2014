@@ -1,4 +1,4 @@
-# Egnyte 展示了全新的外观，并增加了共享最敏感文件的安全性 TechCrunch
+# Egnyte 展示了全新的外观，并增加了共享最敏感文件的安全性 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/25/egnyte-adds-security-to-try-and-outrival-box-and-other-file-storage-providers-but-awareness-is-a-question-mark/>
 

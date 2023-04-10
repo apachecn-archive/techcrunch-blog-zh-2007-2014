@@ -1,4 +1,4 @@
-# 史蒂夫·沃兹尼亚克和名人约会！TechCrunch
+# 史蒂夫·沃兹尼亚克和名人约会！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/steve-wozniak-dating-a-celebrity/>
 

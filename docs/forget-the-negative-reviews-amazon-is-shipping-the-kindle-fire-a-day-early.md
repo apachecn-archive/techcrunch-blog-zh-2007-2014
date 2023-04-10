@@ -1,4 +1,4 @@
-# 忘记负面评论，亚马逊提前一天发货 Kindle Fire TechCrunch
+# 忘记负面评论，亚马逊提前一天发货 Kindle Fire 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/14/forget-the-negative-reviews-amazon-is-shipping-the-kindle-fire-a-day-early/>
 

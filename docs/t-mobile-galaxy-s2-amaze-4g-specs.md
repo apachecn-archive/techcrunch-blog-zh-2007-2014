@@ -1,4 +1,4 @@
-# T-Mobile 正式推出两款新手机:HTC Amaze 4G 和三星 Galaxy SII TechCrunch
+# T-Mobile 正式推出两款新手机:HTC Amaze 4G 和三星 Galaxy SII 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/t-mobile-galaxy-s2-amaze-4g-specs/>
 

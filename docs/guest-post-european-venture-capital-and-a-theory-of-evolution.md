@@ -1,4 +1,4 @@
-# 客座博文:欧洲风险资本和进化论 TechCrunch
+# 客座博文:欧洲风险资本和进化论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/15/guest-post-european-venture-capital-and-a-theory-of-evolution/>
 

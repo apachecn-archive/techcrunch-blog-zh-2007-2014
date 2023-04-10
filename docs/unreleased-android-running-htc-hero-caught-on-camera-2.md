@@ -1,4 +1,4 @@
-# 未发布的运行安卓系统的 HTC Hero 被摄像头捕捉到 TechCrunch
+# 未发布的运行安卓系统的 HTC Hero 被摄像头捕捉到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/05/unreleased-android-running-htc-hero-caught-on-camera-2/>
 

@@ -1,4 +1,4 @@
-# 就在你认为安全的时候:Skype 漏洞出现 TechCrunch
+# 就在你认为安全的时候:Skype 漏洞出现 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/just-when-you-thought-it-was-safe-skype-vulnerabilities-emerge/>
 

@@ -1,4 +1,4 @@
-# 苹果发布另一个 iOS 4.3.5 安全更新 TechCrunch
+# 苹果发布另一个 iOS 4.3.5 安全更新 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/whats-new-ios-4-3-5/>
 

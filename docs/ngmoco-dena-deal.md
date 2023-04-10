@@ -1,4 +1,4 @@
-# 大家从 Ngmoco-DeNa 交易中获得了什么 TechCrunch
+# 大家从 Ngmoco-DeNa 交易中获得了什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/13/ngmoco-dena-deal/>
 

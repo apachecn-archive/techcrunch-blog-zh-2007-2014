@@ -1,4 +1,4 @@
-# Wonderville 推出面向儿童的交互式内容库和虚拟教室网络 TechCrunch
+# Wonderville 推出面向儿童的交互式内容库和虚拟教室网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/27/wonderville-launches-an-interactive-content-library-and-virtual-classroom-network-for-kids/>
 

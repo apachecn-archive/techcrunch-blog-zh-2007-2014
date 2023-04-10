@@ -1,4 +1,4 @@
-# 又是一天，又一笔雅虎收购:中国社交网络数据初创公司 ZTE lic TechCrunch
+# 又是一天，又一笔雅虎收购:中国社交网络数据初创公司 ZTE lic 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/another-day-another-yahoo-acquisition-chinese-social-network-data-startup-ztelic/>
 

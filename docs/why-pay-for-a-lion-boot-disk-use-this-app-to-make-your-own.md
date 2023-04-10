@@ -1,4 +1,4 @@
-# 为什么要花钱买狮子启动盘？使用此应用程序制作您自己的 TechCrunch
+# 为什么要花钱买狮子启动盘？使用此应用程序制作您自己的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/why-pay-for-a-lion-boot-disk-use-this-app-to-make-your-own/>
 

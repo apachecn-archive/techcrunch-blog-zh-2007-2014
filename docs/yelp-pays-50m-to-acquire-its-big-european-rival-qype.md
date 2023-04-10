@@ -1,4 +1,4 @@
-# Yelp 支付 5000 万美元收购其欧洲大竞争对手 Qype，以加强其推荐和上市业务 TechCrunch
+# Yelp 支付 5000 万美元收购其欧洲大竞争对手 Qype，以加强其推荐和上市业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/24/yelp-pays-50m-to-acquire-its-big-european-rival-qype/>
 

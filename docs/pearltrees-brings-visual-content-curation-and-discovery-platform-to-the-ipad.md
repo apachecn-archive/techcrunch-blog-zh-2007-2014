@@ -1,4 +1,4 @@
-# Pearltrees 为 iPad 带来可视化内容管理和发现平台 TechCrunch
+# Pearltrees 为 iPad 带来可视化内容管理和发现平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/pearltrees-brings-visual-content-curation-and-discovery-platform-to-the-ipad/>
 

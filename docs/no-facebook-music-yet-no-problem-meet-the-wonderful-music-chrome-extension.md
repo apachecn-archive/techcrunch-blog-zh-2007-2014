@@ -1,4 +1,4 @@
-# 还没有脸书音乐吗？没问题！遇见精彩+音乐 Chrome 扩展 TechCrunch
+# 还没有脸书音乐吗？没问题！遇见精彩+音乐 Chrome 扩展 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/no-facebook-music-yet-no-problem-meet-the-wonderful-music-chrome-extension/>
 

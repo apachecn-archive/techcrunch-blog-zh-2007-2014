@@ -1,4 +1,4 @@
-# 索尼声称新的 RGBW 传感器改善了曝光和弱光性能 TechCrunch
+# 索尼声称新的 RGBW 传感器改善了曝光和弱光性能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/23/sony-hopes-its-rgbw-sensors-will-be-the-next-must-have-feature-in-camera-phones/>
 

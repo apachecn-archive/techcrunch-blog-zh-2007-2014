@@ -1,4 +1,4 @@
-# 太糟糕了！拯救你于尴尬境地的应用软件 Tickle 并不存在 TechCrunch
+# 太糟糕了！拯救你于尴尬境地的应用软件 Tickle 并不存在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/07/too-bad-tickle-the-app-that-saves-you-from-awkward-situations-doesnt-really-exist/>
 

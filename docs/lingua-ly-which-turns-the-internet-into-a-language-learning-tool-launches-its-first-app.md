@@ -1,4 +1,4 @@
-# 将互联网变成语言学习工具的 Lingua.ly 发布了其首个应用程序 TechCrunch
+# 将互联网变成语言学习工具的 Lingua.ly 发布了其首个应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/04/01/lingua-ly-which-turns-the-internet-into-a-language-learning-tool-launches-its-first-app/>
 

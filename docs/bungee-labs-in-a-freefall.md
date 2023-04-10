@@ -1,4 +1,4 @@
-# 自由落体中的蹦极实验室 TechCrunch
+# 自由落体中的蹦极实验室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/28/bungee-labs-in-a-freefall/>
 

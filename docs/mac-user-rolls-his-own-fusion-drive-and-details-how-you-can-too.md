@@ -1,4 +1,4 @@
-# Mac 用户推出自己的 Fusion Drive，并详细介绍您也可以这样做 TechCrunch
+# Mac 用户推出自己的 Fusion Drive，并详细介绍您也可以这样做 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/31/mac-user-rolls-his-own-fusion-drive-and-details-how-you-can-too/>
 

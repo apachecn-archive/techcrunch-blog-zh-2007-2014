@@ -1,4 +1,4 @@
-# 脸书信息:小变化，大影响。TechCrunch
+# 脸书信息:小变化，大影响。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/06/facebook-messages-small-change-big-impact/>
 

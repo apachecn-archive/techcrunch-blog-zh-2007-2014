@@ -1,4 +1,4 @@
-# 虚荣心电话号码提供商 Zoove 额外融资 500 万美元 TechCrunch
+# 虚荣心电话号码提供商 Zoove 额外融资 500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/vanity-phone-number-provider-zoove-raises-additional-5-million/>
 

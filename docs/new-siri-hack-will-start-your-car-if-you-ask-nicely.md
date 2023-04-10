@@ -1,4 +1,4 @@
-# 如果你友好地提出要求，新的 Siri Hack 将启动你的汽车 TechCrunch
+# 如果你友好地提出要求，新的 Siri Hack 将启动你的汽车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/new-siri-hack-will-start-your-car-if-you-ask-nicely/>
 

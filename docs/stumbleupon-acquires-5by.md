@@ -1,4 +1,4 @@
-# 在第一次收购中，StumbleUpon 收购了视频推荐初创公司 5by TechCrunch
+# 在第一次收购中，StumbleUpon 收购了视频推荐初创公司 5by 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/stumbleupon-acquires-5by/>
 

@@ -1,4 +1,4 @@
-# 类似 Wii 的滑板:“人行道冲浪者”这个术语还在使用吗？TechCrunch
+# 类似 Wii 的滑板:“人行道冲浪者”这个术语还在使用吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/wii-like-skateboard-is-the-term-sidewalk-surfer-still-used/>
 

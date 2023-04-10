@@ -1,4 +1,4 @@
-# 《我的世界》口袋版与更多安卓手机兼容 TechCrunch
+# 《我的世界》口袋版与更多安卓手机兼容 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/minecraft-pocket-edition-plays-nice-with-more-android-phones/>
 

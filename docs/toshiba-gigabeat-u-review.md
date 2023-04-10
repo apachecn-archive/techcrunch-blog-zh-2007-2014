@@ -1,4 +1,4 @@
-# 东芝 gigabbeat U Review TechCrunch
+# 东芝 gigabbeat U Review 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/toshiba-gigabeat-u-review/>
 

@@ -1,4 +1,4 @@
-# Windows 8 的新浏览器:这一个去 11 TechCrunch
+# Windows 8 的新浏览器:这一个去 11 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/windows-8s-new-explorer-this-one-goes-to-11/>
 

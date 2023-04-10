@@ -1,4 +1,4 @@
-# Y Combinator 推出 Style Lend，成为女性衣橱的 Airbnb TechCrunch
+# Y Combinator 推出 Style Lend，成为女性衣橱的 Airbnb 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/20/style-lend-launches-out-of-y-combinator-to-be-the-airbnb-for-womens-closets/>
 

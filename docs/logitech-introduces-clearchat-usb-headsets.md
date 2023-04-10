@@ -1,4 +1,4 @@
-# 罗技推出 ClearChat USB 耳机 TechCrunch
+# 罗技推出 ClearChat USB 耳机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/logitech-introduces-clearchat-usb-headsets/>
 

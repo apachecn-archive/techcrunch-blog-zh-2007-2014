@@ -1,4 +1,4 @@
-# 移动支付初创公司 iZettle 扩大 3140 万美元的 B 轮融资，美国运通成为最新投资者，准备在英国推出 TechCrunch
+# 移动支付初创公司 iZettle 扩大 3140 万美元的 B 轮融资，美国运通成为最新投资者，准备在英国推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/23/mobile-payments-startup-izettle-expands-series-b-to-e25-million-adds-american-express-as-newest-investor-as-it-preps-launch-in-uk/>
 

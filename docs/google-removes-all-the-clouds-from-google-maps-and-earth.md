@@ -1,4 +1,4 @@
-# 谷歌移除谷歌地图和地球上的所有云 TechCrunch
+# 谷歌移除谷歌地图和地球上的所有云 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/26/google-removes-all-the-clouds-from-google-maps-and-earth/>
 

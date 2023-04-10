@@ -1,4 +1,4 @@
-# PassMyWill 是您在线资产和密码的遗嘱 TechCrunch
+# PassMyWill 是您在线资产和密码的遗嘱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/02/passmywill-is-a-will-for-your-online-assets-and-passwords/>
 

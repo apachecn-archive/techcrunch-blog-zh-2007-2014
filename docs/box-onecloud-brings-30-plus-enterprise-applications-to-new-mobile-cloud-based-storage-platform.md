@@ -1,4 +1,4 @@
-# Box OneCloud 将 30 多个企业应用程序引入新的移动、基于云的存储平台 TechCrunch
+# Box OneCloud 将 30 多个企业应用程序引入新的移动、基于云的存储平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/28/box-onecloud-brings-30-plus-enterprise-applications-to-new-mobile-cloud-based-storage-platform/>
 

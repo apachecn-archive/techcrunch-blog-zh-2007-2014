@@ -1,4 +1,4 @@
-# 伊玛奇邀请迪士尼/皮克斯在电影上映前推出《神庙逃亡:勇敢》TechCrunch
+# 伊玛奇邀请迪士尼/皮克斯在电影上映前推出《神庙逃亡:勇敢》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/15/imangi-taps-disneypixar-to-launch-temple-run-brave-ahead-of-movie-launch/>
 

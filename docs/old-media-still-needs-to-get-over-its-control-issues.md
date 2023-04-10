@@ -1,4 +1,4 @@
-# 旧媒体仍然需要克服其控制问题 TechCrunch
+# 旧媒体仍然需要克服其控制问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/26/old-media-still-needs-to-get-over-its-control-issues/>
 

@@ -1,4 +1,4 @@
-# PageOnce 将您所有的在线帐户放在一个地方 TechCrunch
+# PageOnce 将您所有的在线帐户放在一个地方 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/02/13/pageonce-to-put-all-your-online-accounts-in-one-place/>
 

@@ -1,4 +1,4 @@
-# 骑士基金会押注移动传感器初创公司 Behav.io 是新闻业的未来 TechCrunch
+# 骑士基金会押注移动传感器初创公司 Behav.io 是新闻业的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/knight-foundation-bets-mobile-sensor-startup-behav-io-is-the-future-of-journalism/>
 

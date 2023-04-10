@@ -1,4 +1,4 @@
-# MySpace 使用拖放界面测试 Profile 2.0 TechCrunch
+# MySpace 使用拖放界面测试 Profile 2.0 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/26/myspace-launches-profile-20-with-drag-and-drop-interface/>
 

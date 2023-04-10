@@ -1,4 +1,4 @@
-# 尽在微信巴士 TechCrunch
+# 尽在微信巴士 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/14/all-aboard-the-micro-message-bus/>
 

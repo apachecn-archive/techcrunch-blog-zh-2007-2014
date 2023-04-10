@@ -1,4 +1,4 @@
-# 你的社交数据将如何推动沃尔玛的电子商务革命 TechCrunch
+# 你的社交数据将如何推动沃尔玛的电子商务革命 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/how-your-social-data-will-power-walmarts-e-commerce-revolution/>
 

@@ -1,4 +1,4 @@
-# 分析师:iPhone 5、iPad Mini 将于 9 月上市 TechCrunch
+# 分析师:iPhone 5、iPad Mini 将于 9 月上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/analyst-iphone-5-ipad-mini-coming-in-september/>
 

@@ -1,4 +1,4 @@
-# 欧盟委员会对三星的诉讼策略展开调查 TechCrunch
+# 欧盟委员会对三星的诉讼策略展开调查 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/european-commission-launches-investigation-into-samsungs-litigation-tactics/>
 

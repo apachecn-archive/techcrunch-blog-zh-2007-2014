@@ -1,4 +1,4 @@
-# 谷歌钱包在 Sprint、Visa/Discover/AmEx 支持下上线 TechCrunch
+# 谷歌钱包在 Sprint、Visa/Discover/AmEx 支持下上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/google-wallet-sprint/>
 

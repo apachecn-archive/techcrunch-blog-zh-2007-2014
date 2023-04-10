@@ -1,4 +1,4 @@
-# 脸书身份证是我们的未来吗？TechCrunch
+# 脸书身份证是我们的未来吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/15/are-facebook-id-cards-in-our-future/>
 

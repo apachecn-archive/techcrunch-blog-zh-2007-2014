@@ -1,4 +1,4 @@
-# Twitter 沉默的主席 TechCrunch
+# Twitter 沉默的主席 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/09/twitters-silent-chairman/>
 

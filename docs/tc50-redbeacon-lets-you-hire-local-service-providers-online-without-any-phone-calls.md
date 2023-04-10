@@ -1,4 +1,4 @@
-# TC50: RedBeacon 让你无需任何电话就能在线雇佣当地服务提供商 TechCrunch
+# TC50: RedBeacon 让你无需任何电话就能在线雇佣当地服务提供商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/14/tc50-redbeacon-lets-you-hire-local-service-providers-online-without-any-phone-calls/>
 

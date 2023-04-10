@@ -1,4 +1,4 @@
-# 百度翻译应用有一个很酷的图像识别工具 TechCrunch
+# 百度翻译应用有一个很酷的图像识别工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/20/baidu-translate-app-features-a-cool-image-recognition-feature/>
 

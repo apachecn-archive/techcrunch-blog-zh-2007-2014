@@ -1,4 +1,4 @@
-# 巨型视频:冰淇淋三明治(Android 4.0)有什么新内容？TechCrunch
+# 巨型视频:冰淇淋三明治(Android 4.0)有什么新内容？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/whats-new-in-ice-cream-sandwich-android-4-0/>
 

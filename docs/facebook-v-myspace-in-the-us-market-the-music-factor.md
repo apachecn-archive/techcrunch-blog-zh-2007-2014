@@ -1,4 +1,4 @@
-# 美国市场上的脸书诉 MySpace:音乐因素 TechCrunch
+# 美国市场上的脸书诉 MySpace:音乐因素 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/22/facebook-v-myspace-in-the-us-market-the-music-factor/>
 

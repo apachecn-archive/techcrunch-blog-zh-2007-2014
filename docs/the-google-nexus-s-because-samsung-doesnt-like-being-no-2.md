@@ -1,4 +1,4 @@
-# 谷歌 Nexus“S”:因为三星不喜欢成为第二 TechCrunch
+# 谷歌 Nexus“S”:因为三星不喜欢成为第二 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/the-google-nexus-s-because-samsung-doesnt-like-being-no-2/>
 

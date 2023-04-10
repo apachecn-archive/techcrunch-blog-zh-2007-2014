@@ -1,4 +1,4 @@
-# 社交游戏初创公司 Lolapps 与发行商 6Waves 合并 TechCrunch
+# 社交游戏初创公司 Lolapps 与发行商 6Waves 合并 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/social-gaming-startup-lolapps-merges-with-publisher-6waves/>
 

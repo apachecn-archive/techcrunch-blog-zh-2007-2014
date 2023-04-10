@@ -1,4 +1,4 @@
-# 联想推出首款平板电脑和笔记本电脑混合超极本 IdeaPad Yoga 11 和 13 TechCrunch
+# 联想推出首款平板电脑和笔记本电脑混合超极本 IdeaPad Yoga 11 和 13 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/lenovo-introduces-the-ideapad-yoga-11-and-13-the-first-tablet-laptop-ultrabook-hybrid/>
 

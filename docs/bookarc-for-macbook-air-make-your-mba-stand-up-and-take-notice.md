@@ -1,4 +1,4 @@
-# MacBook Air 的 BookArc:让你的 MBA 站起来并引起注意 TechCrunch
+# MacBook Air 的 BookArc:让你的 MBA 站起来并引起注意 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/23/bookarc-for-macbook-air-make-your-mba-stand-up-and-take-notice/>
 

@@ -1,4 +1,4 @@
-# Lover.ly 创始人凯莉·哈利勒谈新婚生活...与她的品牌合作伙伴 TechCrunch
+# Lover.ly 创始人凯莉·哈利勒谈新婚生活...与她的品牌合作伙伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/22/lover-ly-founder-kellee-khalil-on-being-a-newlywed-with-her-brand-partners/>
 

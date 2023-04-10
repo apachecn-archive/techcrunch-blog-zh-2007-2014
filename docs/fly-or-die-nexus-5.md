@@ -1,4 +1,4 @@
-# 飞还是死:Nexus 5 TechCrunch
+# 飞还是死:Nexus 5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/08/fly-or-die-nexus-5/>
 

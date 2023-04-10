@@ -1,4 +1,4 @@
-# Evernote:最佳移动应用 TechCrunch
+# Evernote:最佳移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/evernote-best-mobile-app/>
 

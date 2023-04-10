@@ -1,4 +1,4 @@
-# juice 在 Kickstarter Can 上进行第二次尝试，juice+是一种铝制充电电缆，不会缠绕 TechCrunch
+# juice 在 Kickstarter Can 上进行第二次尝试，juice+是一种铝制充电电缆，不会缠绕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/02/juicies-takes-a-second-kick-at-the-kickstarter-can-with-juicies-aluminum-tipped-charging-cables-that-wont-tangle/>
 

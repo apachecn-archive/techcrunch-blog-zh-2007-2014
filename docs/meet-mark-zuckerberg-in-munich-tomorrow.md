@@ -1,4 +1,4 @@
-# 明天在慕尼黑与马克·扎克伯格见面 TechCrunch
+# 明天在慕尼黑与马克·扎克伯格见面 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/06/meet-mark-zuckerberg-in-munich-tomorrow/>
 

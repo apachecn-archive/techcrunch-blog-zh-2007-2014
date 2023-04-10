@@ -1,4 +1,4 @@
-# Autom 减肥机器人现已在 Nog 季节上市 TechCrunch
+# Autom 减肥机器人现已在 Nog 季节上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/autom-the-diet-robot-now-shipping-in-time-nog-season/>
 

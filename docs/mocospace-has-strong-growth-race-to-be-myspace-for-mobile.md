@@ -1,4 +1,4 @@
-# MocoSpace 增长强劲；争做移动 MySpace——TechCrunch
+# MocoSpace 增长强劲；争做移动 MySpace——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/mocospace-has-strong-growth-race-to-be-myspace-for-mobile/>
 

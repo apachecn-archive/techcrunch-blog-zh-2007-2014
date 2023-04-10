@@ -1,4 +1,4 @@
-# 视频:4G 是什么？前 TC'er Doug Aamoth 对此的解释比任何人都好 TechCrunch
+# 视频:4G 是什么？前 TC'er Doug Aamoth 对此的解释比任何人都好 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/video-what-is-4g-ex-tcer-doug-aamoth-explains-it-better-than-anyone-else-could/>
 

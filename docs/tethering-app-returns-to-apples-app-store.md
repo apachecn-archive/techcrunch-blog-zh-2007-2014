@@ -1,4 +1,4 @@
-# iPhone 共享回归苹果应用商店 TechCrunch
+# iPhone 共享回归苹果应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/01/tethering-app-returns-to-apples-app-store/>
 

@@ -1,4 +1,4 @@
-# 2007 年 TechStars 演示日班 TechCrunch
+# 2007 年 TechStars 演示日班 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/17/techstars-demo-day-class-of-2007/>
 

@@ -1,4 +1,4 @@
-# Gemvara Aqhires 前 Zappos/Gilt UX 大师 Brian Kalma TechCrunch
+# Gemvara Aqhires 前 Zappos/Gilt UX 大师 Brian Kalma 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/gemvara-hires-ux-guru-kalma/>
 

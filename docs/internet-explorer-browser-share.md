@@ -1,4 +1,4 @@
-# ie 浏览器的浏览器份额去哪了？TechCrunch
+# ie 浏览器的浏览器份额去哪了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/internet-explorer-browser-share/>
 

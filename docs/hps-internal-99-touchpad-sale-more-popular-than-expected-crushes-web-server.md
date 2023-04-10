@@ -1,4 +1,4 @@
-# 惠普内部 99 美元 TouchPad 销售比预期更受欢迎，击败网络服务器 TechCrunch
+# 惠普内部 99 美元 TouchPad 销售比预期更受欢迎，击败网络服务器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/29/hps-internal-99-touchpad-sale-more-popular-than-expected-crushes-web-server/>
 

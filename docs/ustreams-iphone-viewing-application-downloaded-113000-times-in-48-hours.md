@@ -1,4 +1,4 @@
-# Ustream 的 iPhone 查看应用程序在 24 小时内下载了 113，000 次 TechCrunch
+# Ustream 的 iPhone 查看应用程序在 24 小时内下载了 113，000 次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/21/ustreams-iphone-viewing-application-downloaded-113000-times-in-48-hours/>
 

@@ -1,4 +1,4 @@
-# 巴拉克·奥巴马的谷歌友好技术平台 TechCrunch
+# 巴拉克·奥巴马的谷歌友好技术平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/14/barack-obamas-google-friendly-technology-platform/>
 

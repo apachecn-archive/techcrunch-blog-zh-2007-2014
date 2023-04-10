@@ -1,4 +1,4 @@
-# myYearbook 的聊天工具每天更新 100 万次，每月页面浏览量 10 亿次 TechCrunch
+# myYearbook 的聊天工具每天更新 100 万次，每月页面浏览量 10 亿次 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/10/myyearbooks-chatter-driving-1-million-updates-a-day-1-billion-page-views-a-month/>
 

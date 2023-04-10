@@ -1,4 +1,4 @@
-# Final Cut Pro X 还是真的 iMovie Pro？TechCrunch
+# Final Cut Pro X 还是真的 iMovie Pro？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/23/final-cut-pro-x-or-really-imovie-pro/>
 

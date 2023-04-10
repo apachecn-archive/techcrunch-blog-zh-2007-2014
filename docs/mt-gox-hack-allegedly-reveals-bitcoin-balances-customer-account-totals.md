@@ -1,4 +1,4 @@
-# Mt.Gox Hack 涉嫌泄露比特币余额、客户账户总数 TechCrunch
+# Mt.Gox Hack 涉嫌泄露比特币余额、客户账户总数 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/09/mt-gox-hack-allegedly-reveals-bitcoin-balances-customer-account-totals/>
 

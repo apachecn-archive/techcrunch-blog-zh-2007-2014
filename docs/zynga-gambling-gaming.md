@@ -1,4 +1,4 @@
-# Zynga 会成为一家游戏公司还是赌博公司？TechCrunch
+# Zynga 会成为一家游戏公司还是赌博公司？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/09/zynga-gambling-gaming/>
 

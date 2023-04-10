@@ -1,4 +1,4 @@
-# Chrome 正在挤掉 Firefox TechCrunch
+# Chrome 正在挤掉 Firefox 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/02/chrome-edging-out-firefox/>
 

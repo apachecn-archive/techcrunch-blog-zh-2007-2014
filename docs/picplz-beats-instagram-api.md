@@ -1,4 +1,4 @@
-# PicPlz 击败 Instagram 成为 API TechCrunch
+# PicPlz 击败 Instagram 成为 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/picplz-beats-instagram-api/>
 

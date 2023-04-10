@@ -1,4 +1,4 @@
-# 隆重推出神奇的 HiPhone 5 TechCrunch
+# 隆重推出神奇的 HiPhone 5 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/introducing-the-amazing-magical-hiphone-5/>
 

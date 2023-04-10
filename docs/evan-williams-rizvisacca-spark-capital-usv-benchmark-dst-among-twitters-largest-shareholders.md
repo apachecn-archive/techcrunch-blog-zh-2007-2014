@@ -1,4 +1,4 @@
-# Rizvi/Sacca、伊万·威廉姆斯、Spark Capital、USV、Benchmark、DST 位列 Twitter 最大股东 TechCrunch
+# Rizvi/Sacca、伊万·威廉姆斯、Spark Capital、USV、Benchmark、DST 位列 Twitter 最大股东 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/03/evan-williams-rizvisacca-spark-capital-usv-benchmark-dst-among-twitters-largest-shareholders/>
 

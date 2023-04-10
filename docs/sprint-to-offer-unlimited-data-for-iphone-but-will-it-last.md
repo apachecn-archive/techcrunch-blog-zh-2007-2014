@@ -1,4 +1,4 @@
-# Sprint 将为 iPhone 提供无限数据，但这能持久吗？TechCrunch
+# Sprint 将为 iPhone 提供无限数据，但这能持久吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/sprint-to-offer-unlimited-data-for-iphone-but-will-it-last/>
 

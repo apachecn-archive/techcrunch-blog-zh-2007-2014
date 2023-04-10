@@ -1,4 +1,4 @@
-# 随着今天的更新，Twitter 应用程序终于同步了您的直接消息的“已读”状态 TechCrunch
+# 随着今天的更新，Twitter 应用程序终于同步了您的直接消息的“已读”状态 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/twitter-unread-dms/>
 

@@ -1,4 +1,4 @@
-# 谷歌迷上了谷歌 I/Ot 恤。太花哨了 TechCrunch
+# 谷歌迷上了谷歌 I/Ot 恤。太花哨了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/28/google-gets-fancy-with-google-io-tshirts-too-fancy/>
 

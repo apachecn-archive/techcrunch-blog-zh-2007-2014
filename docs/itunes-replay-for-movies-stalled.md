@@ -1,4 +1,4 @@
-# iTunes 播放电影停滞了？TechCrunch
+# iTunes 播放电影停滞了？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/itunes-replay-for-movies-stalled/>
 

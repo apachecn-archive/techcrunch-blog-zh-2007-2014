@@ -1,4 +1,4 @@
-# Orange France 击败 LG GD910 过高的价格 TechCrunch
+# Orange France 击败 LG GD910 过高的价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/07/orange-france-outs-the-lg-gd910s-excessively-high-price/>
 

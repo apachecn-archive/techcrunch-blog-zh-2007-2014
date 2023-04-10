@@ -1,4 +1,4 @@
-# FastCustomer 筹集了 75 万美元，因此您不必等待 TechCrunch
+# FastCustomer 筹集了 75 万美元，因此您不必等待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/fastcustomer-raises-750k-so-you-dont-have-to-wait-on-hold/>
 

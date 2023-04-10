@@ -1,4 +1,4 @@
-# 富士通开发真正的无线充电系统 TechCrunch
+# 富士通开发真正的无线充电系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/13/fujitsu-developing-true-wireless-charging-system/>
 

@@ -1,4 +1,4 @@
-# 1B 上市公司需要多少收入？TechCrunch
+# 1B 上市公司需要多少收入？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/29/how-much-revenue-does-it-take-to-be-a-1b-public-company/>
 

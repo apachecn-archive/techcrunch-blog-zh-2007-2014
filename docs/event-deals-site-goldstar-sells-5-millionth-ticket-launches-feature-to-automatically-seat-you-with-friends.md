@@ -1,4 +1,4 @@
-# 活动交易网站 Goldstar 售出第 500 万张门票，增加了自动为您安排朋友座位的功能 TechCrunch
+# 活动交易网站 Goldstar 售出第 500 万张门票，增加了自动为您安排朋友座位的功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/event-deals-site-goldstar-sells-5-millionth-ticket-launches-feature-to-automatically-seat-you-with-friends/>
 

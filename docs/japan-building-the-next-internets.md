@@ -1,4 +1,4 @@
-# 日本构建下一个互联网——TechCrunch
+# 日本构建下一个互联网——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/japan-building-the-next-internets/>
 

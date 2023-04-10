@@ -1,4 +1,4 @@
-# 新设备可在 12 秒内检测出纸箱内食品中的辐射 TechCrunch
+# 新设备可在 12 秒内检测出纸箱内食品中的辐射 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/new-device-detects-radiation-in-food-even-inside-cardboard-boxes-in-12-seconds/>
 

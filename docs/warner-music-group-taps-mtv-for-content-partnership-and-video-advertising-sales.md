@@ -1,4 +1,4 @@
-# 华纳音乐集团利用 MTV 进行内容合作和视频广告销售 TechCrunch
+# 华纳音乐集团利用 MTV 进行内容合作和视频广告销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/warner-music-group-taps-mtv-for-content-partnership-and-video-advertising-sales/>
 

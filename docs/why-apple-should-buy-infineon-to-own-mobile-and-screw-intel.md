@@ -1,4 +1,4 @@
-# 为什么苹果应该收购英飞凌:拥有移动和去他的英特尔 TechCrunch
+# 为什么苹果应该收购英飞凌:拥有移动和去他的英特尔 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/30/why-apple-should-buy-infineon-to-own-mobile-and-screw-intel/>
 

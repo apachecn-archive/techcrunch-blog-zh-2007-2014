@@ -1,4 +1,4 @@
-# Acer Iconia Tab A100:双核蜂窝，起价 329 美元 TechCrunch
+# Acer Iconia Tab A100:双核蜂窝，起价 329 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/12/acer-iconia-tab-a100-dual-core-honeycomb-starts-at-329/>
 

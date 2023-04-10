@@ -1,4 +1,4 @@
-# 网络巨头在上诉法庭争辩:Aereo 应该像有线电视公司一样对待 TechCrunch
+# 网络巨头在上诉法庭争辩:Aereo 应该像有线电视公司一样对待 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/30/network-giants-argue-in-appeals-court-aereo-should-be-treated-like-a-cable-company/>
 

@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯是 54 TechCrunch
+# 史蒂夫·乔布斯是 54 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/24/steve-jobs-is-54/>
 

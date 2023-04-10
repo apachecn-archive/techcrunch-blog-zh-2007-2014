@@ -1,4 +1,4 @@
-# ON Networks 宣布多平台视频分发交易 TechCrunch
+# ON Networks 宣布多平台视频分发交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/29/on-networks-announces-multi-platform-video-distribution-deal/>
 

@@ -1,4 +1,4 @@
-# Tablets.com 被出售 TechCrunch
+# Tablets.com 被出售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/tablets-com-goes-up-for-sale/>
 

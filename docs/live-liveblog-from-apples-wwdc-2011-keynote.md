@@ -1,4 +1,4 @@
-# 苹果 WWDC 2011 主题演讲现场直播 TechCrunch
+# 苹果 WWDC 2011 主题演讲现场直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/06/live-liveblog-from-apples-wwdc-2011-keynote/>
 

@@ -1,4 +1,4 @@
-# Jawbone UP 成为拥有新合作伙伴的平台，开放 API 即将推出 TechCrunch
+# Jawbone UP 成为拥有新合作伙伴的平台，开放 API 即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/jawbone-up-becomes-a-platform-with-new-partners-open-api-coming-soon/>
 

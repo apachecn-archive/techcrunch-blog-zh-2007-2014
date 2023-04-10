@@ -1,4 +1,4 @@
-# 经过 9 个月的修改，Verizon Droid Bionic 终于上市了 TechCrunch
+# 经过 9 个月的修改，Verizon Droid Bionic 终于上市了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/droid-bionic-launch-date/>
 

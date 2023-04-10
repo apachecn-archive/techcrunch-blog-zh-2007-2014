@@ -1,4 +1,4 @@
-# 原生应用还是 Web 应用？粒子代码希望你两样都做 TechCrunch
+# 原生应用还是 Web 应用？粒子代码希望你两样都做 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/13/native-apps-or-web-apps-particle-code-wants-you-to-do-both/>
 

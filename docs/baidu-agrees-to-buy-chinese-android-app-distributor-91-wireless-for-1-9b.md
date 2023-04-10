@@ -1,4 +1,4 @@
-# 百度同意以 19 亿美元收购中国安卓应用分销商 91 无线 TechCrunch
+# 百度同意以 19 亿美元收购中国安卓应用分销商 91 无线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/15/baidu-agrees-to-buy-chinese-android-app-distributor-91-wireless-for-1-9b/>
 

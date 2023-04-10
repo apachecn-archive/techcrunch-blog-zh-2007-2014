@@ -1,4 +1,4 @@
-# 富士通防水 LTE F-01D 安卓平板电脑下月登陆日本 TechCrunch
+# 富士通防水 LTE F-01D 安卓平板电脑下月登陆日本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/fujitsus-waterproof-lte-f-01d-android-tablet-to-land-in-japan-next-month/>
 

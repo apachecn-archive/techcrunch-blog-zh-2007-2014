@@ -1,4 +1,4 @@
-# 独家报道:YouTube 将很快让大型内容合作伙伴自带广告 TechCrunch
+# 独家报道:YouTube 将很快让大型内容合作伙伴自带广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/21/exclusive-youtube-will-soon-let-big-content-partners-bring-their-own-ads/>
 

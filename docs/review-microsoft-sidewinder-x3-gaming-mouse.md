@@ -1,4 +1,4 @@
-# 点评:微软响尾蛇 X3 游戏鼠标 TechCrunch
+# 点评:微软响尾蛇 X3 游戏鼠标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/review-microsoft-sidewinder-x3-gaming-mouse/>
 

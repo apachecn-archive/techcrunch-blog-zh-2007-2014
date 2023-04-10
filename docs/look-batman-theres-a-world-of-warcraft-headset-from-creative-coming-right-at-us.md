@@ -1,4 +1,4 @@
-# 快看，蝙蝠侠，创意部的魔兽世界耳机正朝我们飞来！TechCrunch
+# 快看，蝙蝠侠，创意部的魔兽世界耳机正朝我们飞来！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/18/look-batman-theres-a-world-of-warcraft-headset-from-creative-coming-right-at-us/>
 

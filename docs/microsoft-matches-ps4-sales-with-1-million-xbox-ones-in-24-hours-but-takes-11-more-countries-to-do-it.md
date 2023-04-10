@@ -1,4 +1,4 @@
-# 微软在 24 小时内将 PS4 的销量与 100 万台 Xbox 的销量相提并论，但还需要 11 个国家才能做到 TechCrunch
+# 微软在 24 小时内将 PS4 的销量与 100 万台 Xbox 的销量相提并论，但还需要 11 个国家才能做到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/22/microsoft-matches-ps4-sales-with-1-million-xbox-ones-in-24-hours-but-takes-11-more-countries-to-do-it/>
 

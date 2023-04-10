@@ -1,4 +1,4 @@
-# 脸书允许广告商利用购买数据合作伙伴来锁定目标客户，比如购车者 TechCrunch
+# 脸书允许广告商利用购买数据合作伙伴来锁定目标客户，比如购车者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/27/facebook-ad-data-providers/>
 

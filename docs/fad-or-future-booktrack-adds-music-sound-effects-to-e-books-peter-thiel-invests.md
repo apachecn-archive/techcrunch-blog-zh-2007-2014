@@ -1,4 +1,4 @@
-# 时尚还是未来？Booktrack 为电子书增加了音乐、音效；彼得·泰尔投资 TechCrunch
+# 时尚还是未来？Booktrack 为电子书增加了音乐、音效；彼得·泰尔投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/24/fad-or-future-booktrack-adds-music-sound-effects-to-e-books-peter-thiel-invests/>
 

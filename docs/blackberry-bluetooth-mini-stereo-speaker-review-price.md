@@ -1,4 +1,4 @@
-# 黑莓蓝牙迷你立体声扬声器给你一个扬声器，去任何地方，售价 79.99 美元 TechCrunch
+# 黑莓蓝牙迷你立体声扬声器给你一个扬声器，去任何地方，售价 79.99 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/30/blackberry-bluetooth-mini-stereo-speaker-review-price/>
 

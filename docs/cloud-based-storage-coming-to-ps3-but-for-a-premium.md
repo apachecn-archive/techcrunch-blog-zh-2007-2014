@@ -1,4 +1,4 @@
-# PS3 将采用基于云的存储(但价格更高)？TechCrunch
+# PS3 将采用基于云的存储(但价格更高)？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/30/cloud-based-storage-coming-to-ps3-but-for-a-premium/>
 

@@ -1,4 +1,4 @@
-# 美国在线广告预计在 2010 年增长 14% TechCrunch
+# 美国在线广告预计在 2010 年增长 14% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/u-s-online-advertising-14-percent-in-2010/>
 

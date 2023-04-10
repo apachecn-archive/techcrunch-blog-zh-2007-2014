@@ -1,4 +1,4 @@
-# 给我们数据，脸书 TechCrunch
+# 给我们数据，脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/give-us-our-data-facebook/>
 

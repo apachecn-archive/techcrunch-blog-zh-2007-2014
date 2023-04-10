@@ -1,4 +1,4 @@
-# PayPal 首次推出由演员杰夫·高布伦主演的新全国营销活动 TechCrunch
+# PayPal 首次推出由演员杰夫·高布伦主演的新全国营销活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/15/paypal-debuts-new-national-marketing-campaign-featuring-actor-jeff-goldblum/>
 

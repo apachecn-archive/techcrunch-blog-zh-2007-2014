@@ -1,4 +1,4 @@
-# 来源:LivingSocial 即将收购土耳其每日交易网站 Grupfoni TechCrunch
+# 来源:LivingSocial 即将收购土耳其每日交易网站 Grupfoni 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/sources-livingsocial-close-to-acquiring-turkish-daily-deals-site-grupfoni/>
 

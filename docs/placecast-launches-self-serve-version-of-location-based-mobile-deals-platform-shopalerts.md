@@ -1,4 +1,4 @@
-# Placecast 推出基于位置的移动交易平台 ShopAlerts 的自助版本 TechCrunch
+# Placecast 推出基于位置的移动交易平台 ShopAlerts 的自助版本 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/placecast-launches-self-serve-version-of-location-based-mobile-deals-platform-shopalerts/>
 

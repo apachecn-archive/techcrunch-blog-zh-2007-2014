@@ -1,4 +1,4 @@
-# 随着软件蚕食世界，非科技公司正在蚕食初创公司 TechCrunch
+# 随着软件蚕食世界，非科技公司正在蚕食初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/14/as-software-eats-the-world-non-tech-corporations-are-eating-startups/>
 

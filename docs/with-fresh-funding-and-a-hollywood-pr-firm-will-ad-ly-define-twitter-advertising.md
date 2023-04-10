@@ -1,4 +1,4 @@
-# 有了新的资金和好莱坞公关公司，Ad.ly 会定义 Twitter 广告吗？TechCrunch
+# 有了新的资金和好莱坞公关公司，Ad.ly 会定义 Twitter 广告吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/20/with-fresh-funding-and-a-hollywood-pr-firm-will-ad-ly-define-twitter-advertising/>
 

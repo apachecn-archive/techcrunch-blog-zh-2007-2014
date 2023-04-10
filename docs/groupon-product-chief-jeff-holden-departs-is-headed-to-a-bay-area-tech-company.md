@@ -1,4 +1,4 @@
-# Groupon 产品总监杰夫·霍尔登即将离职，前往旧金山湾区的一家科技公司 TechCrunch
+# Groupon 产品总监杰夫·霍尔登即将离职，前往旧金山湾区的一家科技公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/groupon-product-chief-jeff-holden-departs-is-headed-to-a-bay-area-tech-company/>
 

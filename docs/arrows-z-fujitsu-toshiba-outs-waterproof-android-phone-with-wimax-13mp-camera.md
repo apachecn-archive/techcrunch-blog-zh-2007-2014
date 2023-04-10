@@ -1,4 +1,4 @@
-# ARROWS Z:富士通-东芝推出带 Wimax、1300 万像素摄像头的防水安卓手机 TechCrunch
+# ARROWS Z:富士通-东芝推出带 Wimax、1300 万像素摄像头的防水安卓手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/arrows-z-fujitsu-toshiba-outs-waterproof-android-phone-with-wimax-13mp-camera/>
 

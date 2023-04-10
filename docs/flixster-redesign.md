@@ -1,4 +1,4 @@
-# 着眼于视频发现，Flixster 重新推出，帮助用户浏览在线电影世界 TechCrunch
+# 着眼于视频发现，Flixster 重新推出，帮助用户浏览在线电影世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/04/flixster-redesign/>
 

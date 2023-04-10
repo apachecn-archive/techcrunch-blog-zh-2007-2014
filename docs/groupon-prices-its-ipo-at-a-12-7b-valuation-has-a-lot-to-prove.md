@@ -1,4 +1,4 @@
-# Groupon 对其首次公开募股的估值为 127 亿美元，还有很多需要证明 TechCrunch
+# Groupon 对其首次公开募股的估值为 127 亿美元，还有很多需要证明 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/groupon-prices-its-ipo-at-a-12-7b-valuation-has-a-lot-to-prove/>
 

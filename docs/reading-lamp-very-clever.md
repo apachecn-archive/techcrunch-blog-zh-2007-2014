@@ -1,4 +1,4 @@
-# “台灯。”非常聪明。TechCrunch
+# “台灯。”非常聪明。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/17/reading-lamp-very-clever/>
 

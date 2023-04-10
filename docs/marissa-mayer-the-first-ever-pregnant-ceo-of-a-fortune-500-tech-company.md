@@ -1,4 +1,4 @@
-# 玛丽莎·梅耶尔:财富 500 强科技公司中第一位怀孕的 CEO？TechCrunch
+# 玛丽莎·梅耶尔:财富 500 强科技公司中第一位怀孕的 CEO？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/16/marissa-mayer-the-first-ever-pregnant-ceo-of-a-fortune-500-tech-company/>
 

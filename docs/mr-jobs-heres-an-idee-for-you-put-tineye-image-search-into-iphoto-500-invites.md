@@ -1,4 +1,4 @@
-# 一个好的 idee 的种子:TinEye 图片搜索(500 个邀请)TechCrunch
+# 一个好的 idee 的种子:TinEye 图片搜索(500 个邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/26/mr-jobs-heres-an-idee-for-you-put-tineye-image-search-into-iphoto-500-invites/>
 

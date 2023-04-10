@@ -1,4 +1,4 @@
-# 量化生活如何帮助你实现新年计划 TechCrunch
+# 量化生活如何帮助你实现新年计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/01/how-the-quantified-life-can-help-you-achieve-your-new-years-resolutions/>
 

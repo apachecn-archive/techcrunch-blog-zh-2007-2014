@@ -1,4 +1,4 @@
-# 亚马逊与福克斯达成流媒体协议，为 Prime Instant Video 带来 11k 部电影和电视节目 TechCrunch
+# 亚马逊与福克斯达成流媒体协议，为 Prime Instant Video 带来 11k 部电影和电视节目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/26/amazon-fox-streaming-deal-brings-11k-movies-and-tv-shows-to-prime-instant-video/>
 

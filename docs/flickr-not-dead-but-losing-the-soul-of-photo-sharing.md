@@ -1,4 +1,4 @@
-# Flickr 没有死，但失去了照片分享的灵魂 TechCrunch
+# Flickr 没有死，但失去了照片分享的灵魂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/flickr-not-dead-but-losing-the-soul-of-photo-sharing/>
 

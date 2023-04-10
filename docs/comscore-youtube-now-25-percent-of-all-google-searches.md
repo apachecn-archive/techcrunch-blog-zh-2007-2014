@@ -1,4 +1,4 @@
-# ComScore: YouTube 现在占所有谷歌搜索的 25% TechCrunch
+# ComScore: YouTube 现在占所有谷歌搜索的 25% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/18/comscore-youtube-now-25-percent-of-all-google-searches/>
 

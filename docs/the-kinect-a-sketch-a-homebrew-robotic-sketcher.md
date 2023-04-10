@@ -1,4 +1,4 @@
-# Kinect-A-Sketch:自制的机器人草图编辑器 TechCrunch
+# Kinect-A-Sketch:自制的机器人草图编辑器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/07/the-kinect-a-sketch-a-homebrew-robotic-sketcher/>
 

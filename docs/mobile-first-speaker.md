@@ -1,4 +1,4 @@
-# 移动第一发言人阵容:Joe Hewitt、Omar Hamoui、凯文·斯特罗姆等 TechCrunch
+# 移动第一发言人阵容:Joe Hewitt、Omar Hamoui、凯文·斯特罗姆等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/08/mobile-first-speaker/>
 

@@ -1,4 +1,4 @@
-# 瓦汉达吸引前 Just Eat 首席执行官出任新董事长，以扩大预订业务 TechCrunch
+# 瓦汉达吸引前 Just Eat 首席执行官出任新董事长，以扩大预订业务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/wahanda-lures-former-just-eat-ceo-over-as-new-chairman-to-scale-bookings-business/>
 

@@ -1,4 +1,4 @@
-# 说唱天才计划解释摇滚、诗歌和圣经的意义 TechCrunch
+# 说唱天才计划解释摇滚、诗歌和圣经的意义 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/rap-genius-rock-poetry/>
 

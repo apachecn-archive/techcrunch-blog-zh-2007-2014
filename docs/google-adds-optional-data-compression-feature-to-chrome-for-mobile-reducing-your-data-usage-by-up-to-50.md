@@ -1,4 +1,4 @@
-# 谷歌为移动版 Chrome 添加了可选的数据压缩功能，将您的数据使用量减少了 50% TechCrunch
+# 谷歌为移动版 Chrome 添加了可选的数据压缩功能，将您的数据使用量减少了 50% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/google-adds-optional-data-compression-feature-to-chrome-for-mobile-reducing-your-data-usage-by-up-to-50/>
 

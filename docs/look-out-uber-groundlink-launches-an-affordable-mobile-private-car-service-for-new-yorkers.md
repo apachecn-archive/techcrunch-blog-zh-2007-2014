@@ -1,4 +1,4 @@
-# 当心优步:GroundLink 为纽约人推出一项负担得起的移动私家车服务 TechCrunch
+# 当心优步:GroundLink 为纽约人推出一项负担得起的移动私家车服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/look-out-uber-groundlink-launches-an-affordable-mobile-private-car-service-for-new-yorkers/>
 

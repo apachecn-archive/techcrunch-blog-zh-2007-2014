@@ -1,4 +1,4 @@
-# 安吉的上市股票上涨了 30%以上，以每股 18 美元开盘，价值近 9 亿美元 TechCrunch
+# 安吉的上市股票上涨了 30%以上，以每股 18 美元开盘，价值近 9 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/angies-list-shares-pop-over-30-percent-to-open-18-per-share-valued-at-nearly-900m/>
 

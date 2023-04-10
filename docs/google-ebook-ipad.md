@@ -1,4 +1,4 @@
-# 在我的 iPad 上阅读谷歌电子书 TechCrunch
+# 在我的 iPad 上阅读谷歌电子书 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/google-ebook-ipad/>
 

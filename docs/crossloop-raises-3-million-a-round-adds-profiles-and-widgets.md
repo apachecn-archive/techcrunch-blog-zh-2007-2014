@@ -1,4 +1,4 @@
-# CrossLoop 轮融资 300 万美元，增加个人资料和小工具 TechCrunch
+# CrossLoop 轮融资 300 万美元，增加个人资料和小工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/04/crossloop-raises-3-million-a-round-adds-profiles-and-widgets/>
 

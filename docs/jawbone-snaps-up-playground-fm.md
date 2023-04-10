@@ -1,4 +1,4 @@
-# 颚骨抢购 playground . FM TechCrunch
+# 颚骨抢购 playground . FM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/jawbone-snaps-up-playground-fm/>
 

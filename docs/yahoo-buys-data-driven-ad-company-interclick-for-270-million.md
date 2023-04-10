@@ -1,4 +1,4 @@
-# 雅虎将以 2.7 亿美元收购数据驱动广告网络 Interclick TechCrunch
+# 雅虎将以 2.7 亿美元收购数据驱动广告网络 Interclick 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/yahoo-buys-data-driven-ad-company-interclick-for-270-million/>
 

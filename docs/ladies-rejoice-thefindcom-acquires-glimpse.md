@@ -1,4 +1,4 @@
-# TheFind.com 收购 glance-TechCrunch
+# TheFind.com 收购 glance-
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/ladies-rejoice-thefindcom-acquires-glimpse/>
 

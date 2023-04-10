@@ -1,4 +1,4 @@
-# Atlassian 收购 Mercurial 项目托管网站 bit bucket TechCrunch
+# Atlassian 收购 Mercurial 项目托管网站 bit bucket 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/29/atlassian-buys-mercurial-project-hosting-site-bitbucket/>
 

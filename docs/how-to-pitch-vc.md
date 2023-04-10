@@ -1,4 +1,4 @@
-# 一位风投对如何推介风投的建议 TechCrunch
+# 一位风投对如何推介风投的建议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/12/13/how-to-pitch-vc/>
 

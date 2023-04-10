@@ -1,4 +1,4 @@
-# 几个月来，脸书封锁了数以千计的登记。令人印象深刻。TechCrunch
+# 几个月来，脸书封锁了数以千计的登记。令人印象深刻。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/20/facebook-check-ins/>
 

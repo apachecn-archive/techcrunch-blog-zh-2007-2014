@@ -1,4 +1,4 @@
-# Groupon IPO:每个人都值多少钱？TechCrunch
+# Groupon IPO:每个人都值多少钱？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/04/the-groupon-ipo-whats-everyone-worth/>
 

@@ -1,4 +1,4 @@
-# 快速 Android 4.0 冰淇淋三明治功能概述 TechCrunch
+# 快速 Android 4.0 冰淇淋三明治功能概述 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/a-quick-ice-cream-sandwich-feature-rundown/>
 

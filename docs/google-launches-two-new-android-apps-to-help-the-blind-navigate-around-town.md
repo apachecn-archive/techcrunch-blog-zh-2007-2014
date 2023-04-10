@@ -1,4 +1,4 @@
-# 谷歌推出两款新的安卓应用，帮助盲人在城镇中导航 TechCrunch
+# 谷歌推出两款新的安卓应用，帮助盲人在城镇中导航 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/11/google-launches-two-new-android-apps-to-help-the-blind-navigate-around-town/>
 

@@ -1,4 +1,4 @@
-# 脸书超过 3 亿用户。哦，对了，他们的现金流变成了正数。TechCrunch
+# 脸书超过 3 亿用户。哦，对了，他们的现金流变成了正数。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/15/facebook-crosses-300-million-users-oh-yeah-and-their-cash-flow-just-went-positive/>
 

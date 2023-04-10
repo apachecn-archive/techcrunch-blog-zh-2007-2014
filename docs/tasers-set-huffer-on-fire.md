@@ -1,4 +1,4 @@
-# 泰瑟枪点燃了赫弗 TechCrunch
+# 泰瑟枪点燃了赫弗 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/21/tasers-set-huffer-on-fire/>
 

@@ -1,4 +1,4 @@
-# Street By 50 耳挂式耳机图片和细节 TechCrunch
+# Street By 50 耳挂式耳机图片和细节 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/street-by-50-headphones/>
 

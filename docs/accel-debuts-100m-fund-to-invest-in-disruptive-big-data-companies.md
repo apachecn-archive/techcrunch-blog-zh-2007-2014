@@ -1,4 +1,4 @@
-# Accel 推出 1 亿美元基金投资颠覆性大数据公司 TechCrunch
+# Accel 推出 1 亿美元基金投资颠覆性大数据公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/accel-debuts-100m-fund-to-invest-in-disruptive-big-data-companies/>
 

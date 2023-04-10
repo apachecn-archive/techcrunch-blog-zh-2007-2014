@@ -1,4 +1,4 @@
-# Twitter 诱惑命运 TechCrunch
+# Twitter 诱惑命运 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/08/twitter-tempts-fate/>
 

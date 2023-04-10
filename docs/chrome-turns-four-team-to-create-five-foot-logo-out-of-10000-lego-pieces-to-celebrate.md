@@ -1,4 +1,4 @@
-# Chrome 迎来四岁生日:团队用 10，000 块乐高拼出五英尺标志庆祝 TechCrunch
+# Chrome 迎来四岁生日:团队用 10，000 块乐高拼出五英尺标志庆祝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/04/chrome-turns-four-team-to-create-five-foot-logo-out-of-10000-lego-pieces-to-celebrate/>
 

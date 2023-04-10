@@ -1,4 +1,4 @@
-# HBO Go 初看:抑制你的热情 TechCrunch
+# HBO Go 初看:抑制你的热情 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/a-first-look-at-hbo-go-curb-your-enthusiasm/>
 

@@ -1,4 +1,4 @@
-# 3DS In Red:日本获得 SD 高达 G 代 3DS Premium Box TechCrunch
+# 3DS In Red:日本获得 SD 高达 G 代 3DS Premium Box 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/3ds-in-red-japan-gets-sd-gundam-g-generation-3ds-premium-box/>
 

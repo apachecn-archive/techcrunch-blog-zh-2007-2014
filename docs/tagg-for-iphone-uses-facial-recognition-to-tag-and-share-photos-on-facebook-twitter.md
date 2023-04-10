@@ -1,4 +1,4 @@
-# 用于 iPhone 的 Tagg 使用面部识别来标记照片，并在脸书和 Twitter 上分享照片 TechCrunch
+# 用于 iPhone 的 Tagg 使用面部识别来标记照片，并在脸书和 Twitter 上分享照片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/tagg-for-iphone-uses-facial-recognition-to-tag-and-share-photos-on-facebook-twitter/>
 

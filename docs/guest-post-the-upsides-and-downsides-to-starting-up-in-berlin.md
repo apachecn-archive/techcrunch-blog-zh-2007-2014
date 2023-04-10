@@ -1,4 +1,4 @@
-# 客座博文:在柏林创业的利弊 TechCrunch
+# 客座博文:在柏林创业的利弊 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/24/guest-post-the-upsides-and-downsides-to-starting-up-in-berlin/>
 

@@ -1,4 +1,4 @@
-# 纽约时报博客作者诉 TechMeme TechCrunch
+# 纽约时报博客作者诉 TechMeme 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/03/nytimes-blogrunner-v-techmeme/>
 

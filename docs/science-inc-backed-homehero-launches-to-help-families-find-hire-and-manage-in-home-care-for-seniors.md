@@ -1,4 +1,4 @@
-# 由 Science，Inc .支持的 HomeHero 启动，帮助家庭寻找、雇佣和管理老年人的家庭护理 TechCrunch
+# 由 Science，Inc .支持的 HomeHero 启动，帮助家庭寻找、雇佣和管理老年人的家庭护理 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/science-inc-backed-homehero-launches-to-help-families-find-hire-and-manage-in-home-care-for-seniors/>
 

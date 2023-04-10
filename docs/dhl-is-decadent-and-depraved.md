@@ -1,4 +1,4 @@
-# DHL 颓废堕落 TechCrunch
+# DHL 颓废堕落 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/dhl-is-decadent-and-depraved/>
 

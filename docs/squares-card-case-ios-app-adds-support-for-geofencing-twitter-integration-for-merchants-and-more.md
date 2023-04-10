@@ -1,4 +1,4 @@
-# Square 的 Card Case iOS 应用程序增加了对免提支付的支持，针对商家的 Twitter 集成 TechCrunch
+# Square 的 Card Case iOS 应用程序增加了对免提支付的支持，针对商家的 Twitter 集成 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/02/squares-card-case-ios-app-adds-support-for-geofencing-twitter-integration-for-merchants-and-more/>
 

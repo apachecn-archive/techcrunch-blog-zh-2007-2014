@@ -1,4 +1,4 @@
-# 春天的名字叫首席运营官；迄今为止已经回答了 30 亿个问题 TechCrunch
+# 春天的名字叫首席运营官；迄今为止已经回答了 30 亿个问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/21/formspring-names-ro-choy-coo-has-answered-1-billion-questions-to-date/>
 

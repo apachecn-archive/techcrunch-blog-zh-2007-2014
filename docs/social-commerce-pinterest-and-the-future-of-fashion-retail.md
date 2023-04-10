@@ -1,4 +1,4 @@
-# 社交商务、Pinterest 和时尚零售的未来 TechCrunch
+# 社交商务、Pinterest 和时尚零售的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/16/social-commerce-pinterest-and-the-future-of-fashion-retail/>
 

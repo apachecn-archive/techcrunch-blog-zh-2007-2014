@@ -1,4 +1,4 @@
-# SOPA、自由和隐形战争 TechCrunch
+# SOPA、自由和隐形战争 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/03/sopa-freedom-and-the-invisible-war/>
 

@@ -1,4 +1,4 @@
-# Monetate 通过新的测试和定位工具将消费者体验的控制权交还给营销人员 TechCrunch
+# Monetate 通过新的测试和定位工具将消费者体验的控制权交还给营销人员 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/monetate-gives-control-of-consumer-experience-back-to-marketers-with-new-testing-and-targeting-tools/>
 

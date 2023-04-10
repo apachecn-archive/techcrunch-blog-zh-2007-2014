@@ -1,4 +1,4 @@
-# RIM 的新款 QNX 黑莓手机将运行 Android 应用 TechCrunch
+# RIM 的新款 QNX 黑莓手机将运行 Android 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/rims-new-qnx-blackberrys-will-run-android-apps/>
 

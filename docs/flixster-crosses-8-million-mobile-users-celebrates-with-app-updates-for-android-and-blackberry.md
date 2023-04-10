@@ -1,4 +1,4 @@
-# Flixster 移动用户突破 800 万，庆祝 Android 和黑莓应用程序更新 TechCrunch
+# Flixster 移动用户突破 800 万，庆祝 Android 和黑莓应用程序更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/27/flixster-crosses-8-million-mobile-users-celebrates-with-app-updates-for-android-and-blackberry/>
 

@@ -1,4 +1,4 @@
-# Mozilla:1.04 亿美元收入，4 亿用户，谷歌交易持续到 2011 年 TechCrunch
+# Mozilla:1.04 亿美元收入，4 亿用户，谷歌交易持续到 2011 年 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/18/state-of-mozilla/>
 

@@ -1,4 +1,4 @@
-# Lawdingo 又筹集了 69 万美元，帮助您立即与律师交谈 TechCrunch
+# Lawdingo 又筹集了 69 万美元，帮助您立即与律师交谈 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/30/lawdingo-fundingo/>
 

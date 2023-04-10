@@ -1,4 +1,4 @@
-# 还在抗议？脸书很快会强迫你切换到 Timeline TechCrunch
+# 还在抗议？脸书很快会强迫你切换到 Timeline 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/30/switch-to-timeline/>
 

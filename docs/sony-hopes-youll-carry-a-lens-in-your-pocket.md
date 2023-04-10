@@ -1,4 +1,4 @@
-# 索尼希望你随身携带一个镜头 TechCrunch
+# 索尼希望你随身携带一个镜头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/03/sony-hopes-youll-carry-a-lens-in-your-pocket/>
 

@@ -1,4 +1,4 @@
-# HTC 在 2014 年 MWC 上拍摄“足够好”,戏弄 3 月 25 日大揭秘 TechCrunch
+# HTC 在 2014 年 MWC 上拍摄“足够好”,戏弄 3 月 25 日大揭秘 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/dont-forget-about-htc/>
 

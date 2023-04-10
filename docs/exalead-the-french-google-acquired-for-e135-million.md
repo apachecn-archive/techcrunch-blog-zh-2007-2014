@@ -1,4 +1,4 @@
-# “法国谷歌”Exalead 被€以 1.35 亿英镑收购 TechCrunch
+# “法国谷歌”Exalead 被€以 1.35 亿英镑收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/09/exalead-the-french-google-acquired-for-e135-million/>
 

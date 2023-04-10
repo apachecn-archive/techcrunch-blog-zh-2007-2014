@@ -1,4 +1,4 @@
-# DST 将购买高达 1 亿美元的脸书员工股票 TechCrunch
+# DST 将购买高达 1 亿美元的脸书员工股票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/13/dst-to-buy-up-to-100-million-in-facebook-employee-stock/>
 

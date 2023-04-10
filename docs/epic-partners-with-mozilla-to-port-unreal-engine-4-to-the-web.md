@@ -1,4 +1,4 @@
-# Epic 与 Mozilla 合作将虚幻引擎 4 移植到网络上 TechCrunch
+# Epic 与 Mozilla 合作将虚幻引擎 4 移植到网络上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/epic-partners-with-mozilla-to-port-unreal-engine-4-to-the-web/>
 

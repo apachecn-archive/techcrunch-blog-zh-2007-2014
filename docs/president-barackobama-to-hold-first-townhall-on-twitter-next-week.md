@@ -1,4 +1,4 @@
-# @杰克到温和派总统@巴拉克奥巴马下周在@Twitter 上的第一个“市政厅”TechCrunch
+# @杰克到温和派总统@巴拉克奥巴马下周在@Twitter 上的第一个“市政厅”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/30/president-barackobama-to-hold-first-townhall-on-twitter-next-week/>
 

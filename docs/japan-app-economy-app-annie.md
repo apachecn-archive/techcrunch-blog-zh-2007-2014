@@ -1,4 +1,4 @@
-# 深入了解日本蓬勃发展的 Android、iOS 应用经济 TechCrunch
+# 深入了解日本蓬勃发展的 Android、iOS 应用经济 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/japan-app-economy-app-annie/>
 

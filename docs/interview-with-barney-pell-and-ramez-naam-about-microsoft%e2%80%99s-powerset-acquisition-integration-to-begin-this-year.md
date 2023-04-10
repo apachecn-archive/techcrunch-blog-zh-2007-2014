@@ -1,4 +1,4 @@
-# 就微软收购 Powerset 一事采访 Barney Pell 和 Ramez Naam:年底整合 TechCrunch
+# 就微软收购 Powerset 一事采访 Barney Pell 和 Ramez Naam:年底整合 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/02/interview-with-barney-pell-and-ramez-naam-about-microsoft%e2%80%99s-powerset-acquisition-integration-to-begin-this-year/>
 

@@ -1,4 +1,4 @@
-# 蒂姆·库克:《财富》500 强中几乎每家公司都在测试和部署 iPad TechCrunch
+# 蒂姆·库克:《财富》500 强中几乎每家公司都在测试和部署 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/23/tim-cook-almost-every-company-in-the-fortune-500-is-testing-and-deploying-the-ipad/>
 

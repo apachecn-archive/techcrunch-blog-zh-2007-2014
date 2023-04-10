@@ -1,4 +1,4 @@
-# Socialcam:进一步证明你们真的喜欢你们的过滤器 TechCrunch
+# Socialcam:进一步证明你们真的喜欢你们的过滤器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/socialcam-further-proof-that-you-folks-really-like-your-filters/>
 

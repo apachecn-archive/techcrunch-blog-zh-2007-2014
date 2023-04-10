@@ -1,4 +1,4 @@
-# 首款 Chrome OS 上网本将于今秋上市 TechCrunch
+# 首款 Chrome OS 上网本将于今秋上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/03/first-chrome-os-netbook-coming-this-fall/>
 

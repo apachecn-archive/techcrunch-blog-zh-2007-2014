@@ -1,4 +1,4 @@
-# CEATEC 2008:村田女孩独轮车机器人(视频)TechCrunch
+# CEATEC 2008:村田女孩独轮车机器人(视频)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/30/ceatec-2008-murata-girl-unicycle-robot-in-action-video/>
 

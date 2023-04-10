@@ -1,4 +1,4 @@
-# Digg 收购凯文·罗斯项目 we follow TechCrunch
+# Digg 收购凯文·罗斯项目 we follow 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/15/confirmed-digg-acquires-kevin-rose-side-project-wefollow/>
 

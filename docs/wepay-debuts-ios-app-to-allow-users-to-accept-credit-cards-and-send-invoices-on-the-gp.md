@@ -1,4 +1,4 @@
-# WePay 首次推出 iOS 应用程序，允许用户随时接受信用卡并发送发票 TechCrunch
+# WePay 首次推出 iOS 应用程序，允许用户随时接受信用卡并发送发票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/28/wepay-debuts-ios-app-to-allow-users-to-accept-credit-cards-and-send-invoices-on-the-gp/>
 

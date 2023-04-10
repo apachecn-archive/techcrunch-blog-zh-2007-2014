@@ -1,4 +1,4 @@
-# 餐厅推荐初创公司 Chefs Feed 发布安卓应用并任命新 CEO TechCrunch
+# 餐厅推荐初创公司 Chefs Feed 发布安卓应用并任命新 CEO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/chefs-feed-android-ceo/>
 

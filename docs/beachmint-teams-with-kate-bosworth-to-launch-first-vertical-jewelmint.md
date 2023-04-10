@@ -1,4 +1,4 @@
-# BeachMint 与凯特·波茨沃斯合作推出首个垂直产品:JewelMint TechCrunch
+# BeachMint 与凯特·波茨沃斯合作推出首个垂直产品:JewelMint 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/04/beachmint-teams-with-kate-bosworth-to-launch-first-vertical-jewelmint/>
 

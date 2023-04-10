@@ -1,4 +1,4 @@
-# 汽车总动员 2 视频游戏正是你所期待的 TechCrunch
+# 汽车总动员 2 视频游戏正是你所期待的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/the-car-2-video-game-is-just-what-youd-expect/>
 

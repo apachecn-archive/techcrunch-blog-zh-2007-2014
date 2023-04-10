@@ -1,4 +1,4 @@
-# Swizz Style Otto:男人味十足的木制风扇 TechCrunch
+# Swizz Style Otto:男人味十足的木制风扇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/29/swizz-style-otto-a-manly-mans-wooden-fan/>
 

@@ -1,4 +1,4 @@
-# 为什么自举和筹集风险资本一样被高估 TechCrunch
+# 为什么自举和筹集风险资本一样被高估 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/07/why-bootstrapping-over-rated/>
 

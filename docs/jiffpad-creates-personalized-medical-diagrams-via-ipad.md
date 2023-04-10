@@ -1,4 +1,4 @@
-# JiffPad 通过 iPad 创建个性化医疗图表 TechCrunch
+# JiffPad 通过 iPad 创建个性化医疗图表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/jiffpad-creates-personalized-medical-diagrams-via-ipad/>
 

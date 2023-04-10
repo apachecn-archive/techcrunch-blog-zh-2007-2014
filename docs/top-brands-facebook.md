@@ -1,4 +1,4 @@
-# 脸书的顶级品牌有哪些？TechCrunch
+# 脸书的顶级品牌有哪些？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/21/top-brands-facebook/>
 

@@ -1,4 +1,4 @@
-# Hulu 在斯瓦希里语中翻译为“停止”和“终止”。哎呀。TechCrunch
+# Hulu 在斯瓦希里语中翻译为“停止”和“终止”。哎呀。
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/hulu-translates-to-cease-and-desist-in-swahili-oh-the-irony/>
 

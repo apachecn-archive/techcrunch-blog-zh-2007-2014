@@ -1,4 +1,4 @@
-# 竞技场上的男人 TechCrunch
+# 竞技场上的男人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/12/the-man-in-the-arena/>
 

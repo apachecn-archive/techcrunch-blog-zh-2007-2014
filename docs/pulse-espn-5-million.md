@@ -1,4 +1,4 @@
-# 在接近 500 万用户的情况下，Pulse 赢得了第一笔 ESPN 交易 TechCrunch
+# 在接近 500 万用户的情况下，Pulse 赢得了第一笔 ESPN 交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/pulse-espn-5-million/>
 

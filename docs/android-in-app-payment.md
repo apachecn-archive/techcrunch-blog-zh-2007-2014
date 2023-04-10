@@ -1,4 +1,4 @@
-# 谷歌开始测试安卓应用内计费——下周全面推出 TechCrunch
+# 谷歌开始测试安卓应用内计费——下周全面推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/24/android-in-app-payment/>
 

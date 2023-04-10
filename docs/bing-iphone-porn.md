@@ -1,4 +1,4 @@
-# 必应去了 iPhone。对黄片来说还是很棒的。TechCrunch
+# 必应去了 iPhone。对黄片来说还是很棒的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/15/bing-iphone-porn/>
 

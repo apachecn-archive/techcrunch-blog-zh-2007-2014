@@ -1,4 +1,4 @@
-# 诺基亚报告第三季度€净销售额为 56.6 亿英镑，€利润为 1.18 亿英镑，售出 880 万辆 Lumia TechCrunch
+# 诺基亚报告第三季度€净销售额为 56.6 亿英镑，€利润为 1.18 亿英镑，售出 880 万辆 Lumia 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/nokia-reports-net-sales-of-e5-66b-e118m-profit-and-8-8m-lumias-sold-in-q3/>
 

@@ -1,4 +1,4 @@
-# 雪佛兰 Volt 将在加州获得低排放补贴 TechCrunch
+# 雪佛兰 Volt 将在加州获得低排放补贴 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/chevy-volt-to-get-low-emissions-perks-in-california/>
 

@@ -1,4 +1,4 @@
-# SavingStar 的目标是成为“食品杂货团购网站”,在不到一年的时间里用户数量突破 100 万 TechCrunch
+# SavingStar 的目标是成为“食品杂货团购网站”,在不到一年的时间里用户数量突破 100 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/15/aiming-to-be-the-groupon-of-groceries-savingstar-passes-1-million-users-in-under-a-year/>
 

@@ -1,4 +1,4 @@
-# MySpace 的重新设计就要开始了——一些细节 TechCrunch
+# MySpace 的重新设计就要开始了——一些细节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/myspace-redesign-details/>
 

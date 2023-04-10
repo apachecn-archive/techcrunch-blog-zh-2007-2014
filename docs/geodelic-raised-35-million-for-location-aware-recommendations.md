@@ -1,4 +1,4 @@
-# Geodelic 为位置感知推荐筹集了 350 万美元 TechCrunch
+# Geodelic 为位置感知推荐筹集了 350 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/22/geodelic-raised-35-million-for-location-aware-recommendations/>
 

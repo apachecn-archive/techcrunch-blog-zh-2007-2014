@@ -1,4 +1,4 @@
-# 维珍美国航班事件后，受资助的 Adeo Ressi 被捕 TechCrunch
+# 维珍美国航班事件后，受资助的 Adeo Ressi 被捕 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/03/the-fundeds-adeo-ressi-arrested-after-virgin-america-incident/>
 

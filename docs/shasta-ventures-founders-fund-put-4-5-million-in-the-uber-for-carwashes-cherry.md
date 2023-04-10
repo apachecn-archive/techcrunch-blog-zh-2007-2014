@@ -1,4 +1,4 @@
-# Shasta Ventures，Founders Fund 在优步投资 450 万美元用于洗车，Cherry TechCrunch
+# Shasta Ventures，Founders Fund 在优步投资 450 万美元用于洗车，Cherry 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/17/shasta-ventures-founders-fund-put-4-5-million-in-the-uber-for-carwashes-cherry/>
 

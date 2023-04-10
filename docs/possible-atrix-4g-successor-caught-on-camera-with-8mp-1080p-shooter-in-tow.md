@@ -1,4 +1,4 @@
-# 可能的 Atrix 4G 继任者被摄像头捕捉到，800 万像素 1080p 摄像头紧随其后 TechCrunch
+# 可能的 Atrix 4G 继任者被摄像头捕捉到，800 万像素 1080p 摄像头紧随其后 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/possible-atrix-4g-successor-caught-on-camera-with-8mp-1080p-shooter-in-tow/>
 

@@ -1,4 +1,4 @@
-# Enigma 筹集了 450 万美元来帮助探测深度，并从公开数据中获得洞察力 TechCrunch
+# Enigma 筹集了 450 万美元来帮助探测深度，并从公开数据中获得洞察力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/30/enigma-raises-4-5m-from-to-help-plumb-the-depths-of-and-derive-insights-from-public-data/>
 

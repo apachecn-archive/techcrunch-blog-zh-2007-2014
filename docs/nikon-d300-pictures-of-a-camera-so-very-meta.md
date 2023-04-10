@@ -1,4 +1,4 @@
-# 尼康 D300:相机的照片。所以很 Meta。TechCrunch
+# 尼康 D300:相机的照片。所以很 Meta。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/nikon-d300-pictures-of-a-camera-so-very-meta/>
 

@@ -1,4 +1,4 @@
-# Darth Watch:酷派手表，即将发生的诉讼 TechCrunch
+# Darth Watch:酷派手表，即将发生的诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/23/darth-watch-cool-watch-lawsuit-waiting-to-happen/>
 

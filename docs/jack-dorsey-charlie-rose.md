@@ -1,4 +1,4 @@
-# 杰克·多西对查理·罗斯说:“让事情变得简单真的很复杂。”TechCrunch
+# 杰克·多西对查理·罗斯说:“让事情变得简单真的很复杂。”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/11/jack-dorsey-charlie-rose/>
 

@@ -1,4 +1,4 @@
-# RealNetworks 以 1560 万美元收购 Slingo，新的抽奖活动 TechCrunch
+# RealNetworks 以 1560 万美元收购 Slingo，新的抽奖活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/realnetworks-slingo/>
 

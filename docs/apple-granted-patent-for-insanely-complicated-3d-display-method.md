@@ -1,4 +1,4 @@
-# 苹果为极其复杂的 3D 显示方法授予专利 TechCrunch
+# 苹果为极其复杂的 3D 显示方法授予专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/01/apple-granted-patent-for-insanely-complicated-3d-display-method/>
 

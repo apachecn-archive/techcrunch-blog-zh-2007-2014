@@ -1,4 +1,4 @@
-# NewsCred 筹集 1500 万美元，通过高质量内容开展营销活动 TechCrunch
+# NewsCred 筹集 1500 万美元，通过高质量内容开展营销活动 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/19/newscred-raises-15m-to-build-marketing-campaigns-from-high-quality-content/>
 

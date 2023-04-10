@@ -1,4 +1,4 @@
-# Erly's Collections 成为一站式商店，为各种活动打造在线形象 TechCrunch
+# Erly's Collections 成为一站式商店，为各种活动打造在线形象 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/29/erlys-collections-becomes-a-one-stop-shop-to-create-an-online-presence-for-events/>
 

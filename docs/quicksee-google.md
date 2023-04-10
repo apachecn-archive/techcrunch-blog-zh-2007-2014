@@ -1,4 +1,4 @@
-# 谷歌报道以 1000 万美元收购 Quicksee。下面是更多 3D、地理、全景视频 TechCrunch
+# 谷歌报道以 1000 万美元收购 Quicksee。下面是更多 3D、地理、全景视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/12/quicksee-google/>
 

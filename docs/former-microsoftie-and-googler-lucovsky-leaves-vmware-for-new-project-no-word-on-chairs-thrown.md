@@ -1,4 +1,4 @@
-# 前微软和谷歌员工 Lucovsky 离开 VMware 投入新项目，椅子扔出没有消息 TechCrunch
+# 前微软和谷歌员工 Lucovsky 离开 VMware 投入新项目，椅子扔出没有消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/27/former-microsoftie-and-googler-lucovsky-leaves-vmware-for-new-project-no-word-on-chairs-thrown/>
 

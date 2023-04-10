@@ -1,4 +1,4 @@
-# 戴尔售价 129 美元的加密狗可通过 HDMI 输入将 Android 放在任何屏幕上 TechCrunch
+# 戴尔售价 129 美元的加密狗可通过 HDMI 输入将 Android 放在任何屏幕上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/dells-129-dongle-puts-android-on-any-screen-with-hdmi-input/>
 

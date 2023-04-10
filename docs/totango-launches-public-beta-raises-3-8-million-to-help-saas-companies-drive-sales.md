@@ -1,4 +1,4 @@
-# Totango 推出公测版，筹集 380 万美元帮助 SaaS 公司推动销售 TechCrunch
+# Totango 推出公测版，筹集 380 万美元帮助 SaaS 公司推动销售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/totango-launches-public-beta-raises-3-8-million-to-help-saas-companies-drive-sales/>
 

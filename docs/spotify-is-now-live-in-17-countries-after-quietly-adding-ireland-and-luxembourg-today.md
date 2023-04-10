@@ -1,4 +1,4 @@
-# Spotify 现在已经在 17 个国家上线，今天悄然增加了爱尔兰和卢森堡 TechCrunch
+# Spotify 现在已经在 17 个国家上线，今天悄然增加了爱尔兰和卢森堡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/13/spotify-is-now-live-in-17-countries-after-quietly-adding-ireland-and-luxembourg-today/>
 

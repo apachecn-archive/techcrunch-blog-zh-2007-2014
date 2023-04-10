@@ -1,4 +1,4 @@
-# 动手操作:三星为美国电话电报公司、T-Mobile 和 Sprint 开发的 Galaxy S II TechCrunch
+# 动手操作:三星为美国电话电报公司、T-Mobile 和 Sprint 开发的 Galaxy S II 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/30/hands-on-samsungs-galaxy-s-ii-for-att-t-mobile-and-sprint/>
 

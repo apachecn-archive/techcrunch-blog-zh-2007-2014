@@ -1,4 +1,4 @@
-# 让 MP3 起死回生——TechCrunch
+# 让 MP3 起死回生——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/26/allofmp3-to-rise-from-the-dead/>
 

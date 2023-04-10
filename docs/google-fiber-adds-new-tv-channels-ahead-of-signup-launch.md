@@ -1,4 +1,4 @@
-# Google Fiber 在注册发布前增加新的电视频道 TechCrunch
+# Google Fiber 在注册发布前增加新的电视频道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/12/google-fiber-adds-new-tv-channels-ahead-of-signup-launch/>
 

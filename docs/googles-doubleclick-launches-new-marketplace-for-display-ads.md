@@ -1,4 +1,4 @@
-# Google 的 DoubleClick 推出新的展示广告市场 TechCrunch
+# Google 的 DoubleClick 推出新的展示广告市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/18/googles-doubleclick-launches-new-marketplace-for-display-ads/>
 

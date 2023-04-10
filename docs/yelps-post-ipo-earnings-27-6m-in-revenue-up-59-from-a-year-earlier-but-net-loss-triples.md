@@ -1,4 +1,4 @@
-# Yelp 上市后收益:收入 2740 万美元，同比增长 66%，但净亏损增加了两倍 TechCrunch
+# Yelp 上市后收益:收入 2740 万美元，同比增长 66%，但净亏损增加了两倍 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/02/yelps-post-ipo-earnings-27-6m-in-revenue-up-59-from-a-year-earlier-but-net-loss-triples/>
 

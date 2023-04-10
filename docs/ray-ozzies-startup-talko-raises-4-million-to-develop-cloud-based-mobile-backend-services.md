@@ -1,4 +1,4 @@
-# SEC 备案:雷·奥茨初创公司 Talko 筹集 400 万美元开发基于云的移动后端服务 TechCrunch
+# SEC 备案:雷·奥茨初创公司 Talko 筹集 400 万美元开发基于云的移动后端服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/03/ray-ozzies-startup-talko-raises-4-million-to-develop-cloud-based-mobile-backend-services/>
 

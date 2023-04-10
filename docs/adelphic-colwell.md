@@ -1,4 +1,4 @@
-# 来自 Quattro、iAd 校友的移动广告初创公司 Adelphic 挖走了 4Info 的 Colwell 和 CRO TechCrunch
+# 来自 Quattro、iAd 校友的移动广告初创公司 Adelphic 挖走了 4Info 的 Colwell 和 CRO 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/adelphic-colwell/>
 

@@ -1,4 +1,4 @@
-# 脸书邀请前希拉里白宫办公厅主任政治·厄克西·鲍尔斯加入 TechCrunch
+# 脸书邀请前希拉里白宫办公厅主任政治·厄克西·鲍尔斯加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/facebook-adds-former-clinton-white-house-chief-of-staff-and-politico-erksine-bowles-to-board/>
 

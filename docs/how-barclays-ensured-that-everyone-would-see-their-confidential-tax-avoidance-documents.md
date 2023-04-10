@@ -1,4 +1,4 @@
-# 巴克莱如何确保每个人都能看到他们的机密避税文件 TechCrunch
+# 巴克莱如何确保每个人都能看到他们的机密避税文件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/21/how-barclays-ensured-that-everyone-would-see-their-confidential-tax-avoidance-documents/>
 

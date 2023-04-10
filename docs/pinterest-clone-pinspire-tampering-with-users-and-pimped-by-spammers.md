@@ -1,4 +1,4 @@
-# Pinterest 克隆 Pinspire“篡改”用户并被垃圾邮件发送者兜售 TechCrunch
+# Pinterest 克隆 Pinspire“篡改”用户并被垃圾邮件发送者兜售 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/04/12/pinterest-clone-pinspire-tampering-with-users-and-pimped-by-spammers/>
 

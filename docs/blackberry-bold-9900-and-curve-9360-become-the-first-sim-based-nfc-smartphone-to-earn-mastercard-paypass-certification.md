@@ -1,4 +1,4 @@
-# BlackBerry Bold 9900 和 Curve 9360 获得 MasterCard PayPass 证书，这是第一款基于 SIM 卡的智能手机 TechCrunch
+# BlackBerry Bold 9900 和 Curve 9360 获得 MasterCard PayPass 证书，这是第一款基于 SIM 卡的智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/blackberry-bold-9900-and-curve-9360-become-the-first-sim-based-nfc-smartphone-to-earn-mastercard-paypass-certification/>
 

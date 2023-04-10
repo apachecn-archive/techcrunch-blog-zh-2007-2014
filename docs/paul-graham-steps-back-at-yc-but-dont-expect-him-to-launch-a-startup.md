@@ -1,4 +1,4 @@
-# 保罗·格拉厄姆分享了从 630 多家 YC 初创公司学到的经验，但不要指望他会推出自己的 TechCrunch
+# 保罗·格拉厄姆分享了从 630 多家 YC 初创公司学到的经验，但不要指望他会推出自己的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/paul-graham-steps-back-at-yc-but-dont-expect-him-to-launch-a-startup/>
 

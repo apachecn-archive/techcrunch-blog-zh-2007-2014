@@ -1,4 +1,4 @@
-# 谁将是科技世界的下一个护身符？TechCrunch
+# 谁将是科技世界的下一个护身符？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/23/next-talisman-of-tech/>
 

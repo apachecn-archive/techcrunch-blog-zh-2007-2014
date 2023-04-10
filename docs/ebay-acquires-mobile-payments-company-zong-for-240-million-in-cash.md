@@ -1,4 +1,4 @@
-# 易贝以 2.4 亿美元现金收购宗，提升 PayPal 的移动支付技术 TechCrunch
+# 易贝以 2.4 亿美元现金收购宗，提升 PayPal 的移动支付技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/ebay-acquires-mobile-payments-company-zong-for-240-million-in-cash/>
 

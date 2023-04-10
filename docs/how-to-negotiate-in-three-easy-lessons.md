@@ -1,4 +1,4 @@
-# 三堂简单的课中的卓越谈判方式 TechCrunch
+# 三堂简单的课中的卓越谈判方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/19/how-to-negotiate-in-three-easy-lessons/>
 

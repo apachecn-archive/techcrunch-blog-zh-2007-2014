@@ -1,4 +1,4 @@
-# 三星 I7500: Android 终于登陆韩国 TechCrunch
+# 三星 I7500: Android 终于登陆韩国 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/27/samsung-i7500-android-finally-arrives-in-korea/>
 

@@ -1,4 +1,4 @@
-# Fwix 利用脸书的开放图形来社会化超本地新闻聚合器 TechCrunch
+# Fwix 利用脸书的开放图形来社会化超本地新闻聚合器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/28/fwix-taps-into-facebooks-open-graph-to-socialize-hyperlocal-news-aggregator/>
 

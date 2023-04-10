@@ -1,4 +1,4 @@
-# Automattic 收购文件共享服务 Cloudup 以构建更快的媒体库并实现共同编辑 TechCrunch
+# Automattic 收购文件共享服务 Cloudup 以构建更快的媒体库并实现共同编辑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/25/automattic-acquires-file-sharing-service-cloudup-to-build-faster-media-library-and-enable-co-editing/>
 

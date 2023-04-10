@@ -1,4 +1,4 @@
-# Unity 拥抱游戏世界的心脏，推出东京分部 TechCrunch
+# Unity 拥抱游戏世界的心脏，推出东京分部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/06/unity-embraces-the-heart-of-the-gaming-world-launches-a-tokyo-division/>
 

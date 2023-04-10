@@ -1,4 +1,4 @@
-# IAC 要求更多 Google，请 TechCrunch
+# IAC 要求更多 Google，请 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/11/iac-asks-for-more-google-please/>
 

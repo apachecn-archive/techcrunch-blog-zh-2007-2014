@@ -1,4 +1,4 @@
-# 大兵乔·C&D:哦，不，这是真的 TechCrunch
+# 大兵乔·C&D:哦，不，这是真的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/24/gi-joe-cd-oh-no-this-is-real/>
 

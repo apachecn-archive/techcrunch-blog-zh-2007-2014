@@ -1,4 +1,4 @@
-# 维基搜索推出私人测试版；1 月 7 日公开发布 TechCrunch
+# 维基搜索推出私人测试版；1 月 7 日公开发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/23/wikia-search-launches-private-beta-public-launch-january-7/>
 

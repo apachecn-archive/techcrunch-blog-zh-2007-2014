@@ -1,4 +1,4 @@
-# SeedCamp 决赛入选者；下周决战五强——TechCrunch
+# SeedCamp 决赛入选者；下周决战五强——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/seedcamp-finalists-chosen-battle-to-final-five-next-week/>
 

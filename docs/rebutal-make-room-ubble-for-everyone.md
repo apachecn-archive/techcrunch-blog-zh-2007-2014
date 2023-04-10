@@ -1,4 +1,4 @@
-# 反驳:为每个人腾出空间 TechCrunch
+# 反驳:为每个人腾出空间 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/24/rebutal-make-room-ubble-for-everyone/>
 

@@ -1,4 +1,4 @@
-# Forrester:美国在线假日消费将增长 15%，达到近 600 亿美元 TechCrunch
+# Forrester:美国在线假日消费将增长 15%，达到近 600 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/forrester-u-s-online-holiday-spending-will-grow-15-percent-to-nearly-60-billion/>
 

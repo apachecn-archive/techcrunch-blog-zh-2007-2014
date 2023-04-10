@@ -1,4 +1,4 @@
-# 谷歌地图复活节彩蛋让你探索 TARDIS TechCrunch
+# 谷歌地图复活节彩蛋让你探索 TARDIS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/13/google-maps-doctor-who-tardis-easter-egg/>
 

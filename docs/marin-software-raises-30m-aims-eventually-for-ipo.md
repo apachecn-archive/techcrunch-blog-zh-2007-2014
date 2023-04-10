@@ -1,4 +1,4 @@
-# Marin Software 筹集 3000 万美元，目标(最终)是上市 TechCrunch
+# Marin Software 筹集 3000 万美元，目标(最终)是上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/13/marin-software-raises-30m-aims-eventually-for-ipo/>
 

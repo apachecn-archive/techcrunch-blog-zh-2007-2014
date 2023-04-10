@@ -1,4 +1,4 @@
-# Plaxo 推出脉冲小工具 TechCrunch
+# Plaxo 推出脉冲小工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/10/22/plaxo-launches-pulse-widget/>
 

@@ -1,4 +1,4 @@
-# eMusic 试用新的推荐引擎；重新设计主页 TechCrunch
+# eMusic 试用新的推荐引擎；重新设计主页 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/08/emusic-tries-out-a-new-recommendation-engine-redesigns-homepage/>
 

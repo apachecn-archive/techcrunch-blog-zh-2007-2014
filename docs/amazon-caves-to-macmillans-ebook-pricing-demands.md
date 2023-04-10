@@ -1,4 +1,4 @@
-# 亚马逊屈服于麦克米伦的电子书定价要求 TechCrunch
+# 亚马逊屈服于麦克米伦的电子书定价要求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/31/amazon-caves-to-macmillans-ebook-pricing-demands/>
 

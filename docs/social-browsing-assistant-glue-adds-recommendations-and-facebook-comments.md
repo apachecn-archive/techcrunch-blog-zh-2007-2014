@@ -1,4 +1,4 @@
-# 社交浏览助手 Glue 添加推荐和脸书评论 TechCrunch
+# 社交浏览助手 Glue 添加推荐和脸书评论 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/social-browsing-assistant-glue-adds-recommendations-and-facebook-comments/>
 

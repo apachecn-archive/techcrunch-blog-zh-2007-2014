@@ -1,4 +1,4 @@
-# Fotopedia 创建了一个 Flipboard 照片杂志，但它的新 HTML5 网站看起来更好 TechCrunch
+# Fotopedia 创建了一个 Flipboard 照片杂志，但它的新 HTML5 网站看起来更好 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/fotopedia-flipboard-magazine-html5/>
 

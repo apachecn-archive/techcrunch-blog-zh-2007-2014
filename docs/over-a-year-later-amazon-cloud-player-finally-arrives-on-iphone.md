@@ -1,4 +1,4 @@
-# 一年多后，亚马逊云播放器终于登陆 iPhone TechCrunch
+# 一年多后，亚马逊云播放器终于登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/12/over-a-year-later-amazon-cloud-player-finally-arrives-on-iphone/>
 

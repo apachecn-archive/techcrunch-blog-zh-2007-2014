@@ -1,4 +1,4 @@
-# 立即开始提名第五届年度嘎吱嘎吱奖 TechCrunch
+# 立即开始提名第五届年度嘎吱嘎吱奖 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/18/5th-annual-crunchies-awards/>
 

@@ -1,4 +1,4 @@
-# 为什么还是 Web 2.0？TechCrunch
+# 为什么还是 Web 2.0？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/why-is-it-still-web-2-0/>
 

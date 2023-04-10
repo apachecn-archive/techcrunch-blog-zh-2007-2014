@@ -1,4 +1,4 @@
-# 硅谷继续用它可怕的说唱折磨人们 TechCrunch
+# 硅谷继续用它可怕的说唱折磨人们 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/23/viral-is-a-terrible-terrible-word/>
 

@@ -1,4 +1,4 @@
-# 城市垃圾能为我们的汽车提供动力吗？TechCrunch
+# 城市垃圾能为我们的汽车提供动力吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/03/can-municipal-waste-power-our-cars/>
 

@@ -1,4 +1,4 @@
-# Hadoop 和初创公司:开源与业务数据相遇的地方 TechCrunch
+# Hadoop 和初创公司:开源与业务数据相遇的地方 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/17/hadoop-startups-where-open-source-meets-business-data/>
 

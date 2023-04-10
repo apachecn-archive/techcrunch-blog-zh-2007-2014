@@ -1,4 +1,4 @@
-# RIM 为三天的停机时间提供免费应用和技术支持道歉 TechCrunch
+# RIM 为三天的停机时间提供免费应用和技术支持道歉 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/rim-apologizes-with-free-apps-technical-support-for-three-days-of-downtime/>
 

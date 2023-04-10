@@ -1,4 +1,4 @@
-# 这么看吧，Yelp。至少你没有删除所有用户帐户 TechCrunch
+# 这么看吧，Yelp。至少你没有删除所有用户帐户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/27/look-at-it-this-way-yelp-at-least-you-didnt-delete-all-your-user-accounts/>
 

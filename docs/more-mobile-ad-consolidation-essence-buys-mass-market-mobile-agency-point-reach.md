@@ -1,4 +1,4 @@
-# 更多移动广告整合:易信收购大众市场移动代理商 Point Reach TechCrunch
+# 更多移动广告整合:易信收购大众市场移动代理商 Point Reach 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/08/more-mobile-ad-consolidation-essence-buys-mass-market-mobile-agency-point-reach/>
 

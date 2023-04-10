@@ -1,4 +1,4 @@
-# 黑莓服务中断导致 RIM 面临集体诉讼 TechCrunch
+# 黑莓服务中断导致 RIM 面临集体诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/rim-gets-sued-agai/>
 

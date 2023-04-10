@@ -1,4 +1,4 @@
-# 手掌折叠 Foleo TechCrunch
+# 手掌折叠 Foleo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/04/palm-folds-the-foleo/>
 

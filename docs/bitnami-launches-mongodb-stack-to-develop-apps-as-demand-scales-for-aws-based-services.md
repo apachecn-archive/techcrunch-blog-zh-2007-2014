@@ -1,4 +1,4 @@
-# BitNami 推出 MongoDB Stack 来开发应用程序，以满足基于 AWS 的服务的需求 TechCrunch
+# BitNami 推出 MongoDB Stack 来开发应用程序，以满足基于 AWS 的服务的需求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/07/bitnami-launches-mongodb-stack-to-develop-apps-as-demand-scales-for-aws-based-services/>
 

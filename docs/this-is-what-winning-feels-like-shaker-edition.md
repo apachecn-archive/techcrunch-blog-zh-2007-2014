@@ -1,4 +1,4 @@
-# 这就是胜利的感觉，Shaker Edition TechCrunch
+# 这就是胜利的感觉，Shaker Edition 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/25/this-is-what-winning-feels-like-shaker-edition/>
 

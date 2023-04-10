@@ -1,4 +1,4 @@
-# 亚马逊泄露佳能 40D 规格——TechCrunch
+# 亚马逊泄露佳能 40D 规格——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/19/amazon-leaks-canon-40d-specs/>
 

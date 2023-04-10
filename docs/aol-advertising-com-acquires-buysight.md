@@ -1,4 +1,4 @@
-# AOL 的 Advertising.com 集团收购重新定位的初创公司 Buysight TechCrunch
+# AOL 的 Advertising.com 集团收购重新定位的初创公司 Buysight 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/aol-advertising-com-acquires-buysight/>
 

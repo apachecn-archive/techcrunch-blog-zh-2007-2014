@@ -1,4 +1,4 @@
-# 谷歌推出计算引擎挑战亚马逊网络服务 TechCrunch
+# 谷歌推出计算引擎挑战亚马逊网络服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/28/google-compute-engine/>
 

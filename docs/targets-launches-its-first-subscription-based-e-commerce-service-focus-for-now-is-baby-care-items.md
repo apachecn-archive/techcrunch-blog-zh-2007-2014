@@ -1,4 +1,4 @@
-# Target 推出首个基于订阅的电子商务服务，目前的重点是婴儿护理用品 TechCrunch
+# Target 推出首个基于订阅的电子商务服务，目前的重点是婴儿护理用品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/25/targets-launches-its-first-subscription-based-e-commerce-service-focus-for-now-is-baby-care-items/>
 

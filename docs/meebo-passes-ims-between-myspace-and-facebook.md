@@ -1,4 +1,4 @@
-# Meebo 在 MySpace 和脸书之间传递即时消息 TechCrunch
+# Meebo 在 MySpace 和脸书之间传递即时消息 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/19/meebo-passes-ims-between-myspace-and-facebook/>
 

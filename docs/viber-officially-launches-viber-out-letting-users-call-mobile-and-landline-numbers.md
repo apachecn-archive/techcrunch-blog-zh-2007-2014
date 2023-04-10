@@ -1,4 +1,4 @@
-# Viber 正式推出 Viber Out，允许用户拨打手机和座机号码 TechCrunch
+# Viber 正式推出 Viber Out，允许用户拨打手机和座机号码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/10/viber-officially-launches-viber-out-letting-users-call-mobile-and-landline-numbers/>
 

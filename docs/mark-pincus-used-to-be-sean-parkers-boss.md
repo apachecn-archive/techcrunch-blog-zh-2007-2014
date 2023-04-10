@@ -1,4 +1,4 @@
-# 马克·平卡斯曾是肖恩·帕克的老板 TechCrunch
+# 马克·平卡斯曾是肖恩·帕克的老板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/mark-pincus-used-to-be-sean-parkers-boss/>
 

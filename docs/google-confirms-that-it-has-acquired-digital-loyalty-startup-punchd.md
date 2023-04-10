@@ -1,4 +1,4 @@
-# 谷歌证实已收购数字忠诚度初创公司 Punchd TechCrunch
+# 谷歌证实已收购数字忠诚度初创公司 Punchd 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/google-confirms-that-it-has-acquired-digital-loyalty-startup-punchd/>
 

@@ -1,4 +1,4 @@
-# DLO 推出开放式调频，帮助各地的调频传输 MP3 播放器 TechCrunch
+# DLO 推出开放式调频，帮助各地的调频传输 MP3 播放器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/29/dlo-launches-open-fm-help-for-fm-transmitting-mp3-players-everywhere/>
 

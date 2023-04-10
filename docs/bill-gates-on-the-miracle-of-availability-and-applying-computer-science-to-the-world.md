@@ -1,4 +1,4 @@
-# 比尔·盖茨谈“可用性的奇迹”并将计算机科学应用于世界 TechCrunch
+# 比尔·盖茨谈“可用性的奇迹”并将计算机科学应用于世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/bill-gates-on-the-miracle-of-availability-and-applying-computer-science-to-the-world/>
 

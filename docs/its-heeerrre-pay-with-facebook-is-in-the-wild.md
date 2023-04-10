@@ -1,4 +1,4 @@
-# 这是 Heeerrre:“与脸书一起支付”在野外 TechCrunch
+# 这是 Heeerrre:“与脸书一起支付”在野外 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/29/its-heeerrre-pay-with-facebook-is-in-the-wild/>
 

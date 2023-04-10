@@ -1,4 +1,4 @@
-# 红杉的创业福音比以往更加真实 TechCrunch
+# 红杉的创业福音比以往更加真实 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/20/sequoias-gospel-of-startups-more-true-than-ever/>
 

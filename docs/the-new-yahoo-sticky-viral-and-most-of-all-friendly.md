@@ -1,4 +1,4 @@
-# 新雅虎:粘性、病毒式，最重要的是，友好的 TechCrunch
+# 新雅虎:粘性、病毒式，最重要的是，友好的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/24/the-new-yahoo-sticky-viral-and-most-of-all-friendly/>
 

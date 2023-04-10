@@ -1,4 +1,4 @@
-# 威瑞森首席执行官伊万·塞登伯格下台，首席运营官·洛厄尔·麦克亚当上台 TechCrunch
+# 威瑞森首席执行官伊万·塞登伯格下台，首席运营官·洛厄尔·麦克亚当上台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/22/verizon-ceo-ivan-seidenberg-steps-down-coo-lowell-mcadam-steps-up/>
 

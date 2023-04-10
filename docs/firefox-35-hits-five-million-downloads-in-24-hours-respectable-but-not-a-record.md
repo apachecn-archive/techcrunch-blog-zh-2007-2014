@@ -1,4 +1,4 @@
-# 火狐 3.5 在 24 小时内达到了 500 万次下载。可敬，但不是记录。TechCrunch
+# 火狐 3.5 在 24 小时内达到了 500 万次下载。可敬，但不是记录。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/01/firefox-35-hits-five-million-downloads-in-24-hours-respectable-but-not-a-record/>
 

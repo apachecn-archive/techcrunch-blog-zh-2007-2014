@@ -1,4 +1,4 @@
-# ChallengePost 将很快支持竞赛之外的持续软件创新 TechCrunch
+# ChallengePost 将很快支持竞赛之外的持续软件创新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/20/challengepost-perpetual-hackathons/>
 

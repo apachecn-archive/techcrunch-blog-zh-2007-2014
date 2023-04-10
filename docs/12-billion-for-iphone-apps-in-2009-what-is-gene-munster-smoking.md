@@ -1,4 +1,4 @@
-# 2009 年 iPhone 应用程序的销售额为 12 亿美元。吉恩·蒙斯特在抽什么？TechCrunch
+# 2009 年 iPhone 应用程序的销售额为 12 亿美元。吉恩·蒙斯特在抽什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/11/12-billion-for-iphone-apps-in-2009-what-is-gene-munster-smoking/>
 

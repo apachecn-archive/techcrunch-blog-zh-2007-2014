@@ -1,4 +1,4 @@
-# STELLAService 筹集了$2M，测试在线客户服务，所以你不必 TechCrunch
+# STELLAService 筹集了$2M，测试在线客户服务，所以你不必 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/21/stellaservice-raises-2m-tests-online-customer-services-so-you-dont-have-to/>
 

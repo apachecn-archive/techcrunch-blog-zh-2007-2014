@@ -1,4 +1,4 @@
-# 收件箱英雄:Gmail 优先收件箱已经浇灭了我熊熊的电子邮件之火——目前 TechCrunch
+# 收件箱英雄:Gmail 优先收件箱已经浇灭了我熊熊的电子邮件之火——目前 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/31/gmail-inbox-hero/>
 

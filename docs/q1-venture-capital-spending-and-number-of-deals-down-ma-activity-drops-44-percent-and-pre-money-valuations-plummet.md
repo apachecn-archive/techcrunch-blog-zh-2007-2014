@@ -1,4 +1,4 @@
-# Q1 风险资本支出和交易数量下降，M&A 活动下降 44%，融资前估值暴跌 TechCrunch
+# Q1 风险资本支出和交易数量下降，M&A 活动下降 44%，融资前估值暴跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/17/q1-venture-capital-spending-and-number-of-deals-down-ma-activity-drops-44-percent-and-pre-money-valuations-plummet/>
 

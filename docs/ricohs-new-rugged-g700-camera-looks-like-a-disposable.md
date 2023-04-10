@@ -1,4 +1,4 @@
-# 理光新推出的加固型 G700 相机看起来像一次性的 TechCrunch
+# 理光新推出的加固型 G700 相机看起来像一次性的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/27/ricohs-new-rugged-g700-camera-looks-like-a-disposable/>
 

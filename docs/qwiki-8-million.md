@@ -1,4 +1,4 @@
-# Disrupt 赢家 Qwiki 正在筹集 800 万美元 TechCrunch
+# Disrupt 赢家 Qwiki 正在筹集 800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/07/qwiki-8-million/>
 

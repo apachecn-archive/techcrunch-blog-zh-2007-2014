@@ -1,4 +1,4 @@
-# iPhone 4S 在 24 小时内预购量突破 100 万 TechCrunch
+# iPhone 4S 在 24 小时内预购量突破 100 万 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/iphone-4s-tops-1-million-pre-orders-in-24-hours/>
 

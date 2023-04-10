@@ -1,4 +1,4 @@
-# 高盛认为最有可能 IPO 的初创公司名单 TechCrunch
+# 高盛认为最有可能 IPO 的初创公司名单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/03/a-list-of-startups-goldman-sachs-thinks-will-most-likely-ipo/>
 

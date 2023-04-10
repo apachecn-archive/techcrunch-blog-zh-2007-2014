@@ -1,4 +1,4 @@
-# 报告:脸书 2011 年上半年收入 16 亿美元，净收入 5 亿美元 TechCrunch
+# 报告:脸书 2011 年上半年收入 16 亿美元，净收入 5 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/report-facebook-revenue-was-1-6-b-in-first-half-of-2011-net-income-500m/>
 

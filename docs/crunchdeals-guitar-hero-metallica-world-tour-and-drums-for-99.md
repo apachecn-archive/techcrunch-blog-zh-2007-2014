@@ -1,4 +1,4 @@
-# CrunchDeals:吉他英雄 Metallica、世界巡演和鼓，售价 99 美元 TechCrunch
+# CrunchDeals:吉他英雄 Metallica、世界巡演和鼓，售价 99 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/19/crunchdeals-guitar-hero-metallica-world-tour-and-drums-for-99/>
 

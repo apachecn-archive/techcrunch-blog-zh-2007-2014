@@ -1,4 +1,4 @@
-# 美国政府仍依赖欧洲淡化数据保护改革提案 TechCrunch
+# 美国政府仍依赖欧洲淡化数据保护改革提案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/us-government-still-leaning-on-europe-to-dilute-data-protection-reform-proposals/>
 

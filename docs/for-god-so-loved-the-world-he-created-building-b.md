@@ -1,4 +1,4 @@
-# 因为上帝如此爱这个世界，所以他创造了 B 楼？TechCrunch
+# 因为上帝如此爱这个世界，所以他创造了 B 楼？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/for-god-so-loved-the-world-he-created-building-b/>
 

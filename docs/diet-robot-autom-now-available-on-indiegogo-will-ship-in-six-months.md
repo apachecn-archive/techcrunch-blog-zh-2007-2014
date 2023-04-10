@@ -1,4 +1,4 @@
-# 现在在 Indiegogo 上可以买到的减肥机器人 Autom 将在六个月后上市——TechCrunch
+# 现在在 Indiegogo 上可以买到的减肥机器人 Autom 将在六个月后上市——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/23/diet-robot-autom-now-available-on-indiegogo-will-ship-in-six-months/>
 

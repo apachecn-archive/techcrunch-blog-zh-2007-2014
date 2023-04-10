@@ -1,4 +1,4 @@
-# JuicyCampus 创始人到底认为会发生什么？TechCrunch
+# JuicyCampus 创始人到底认为会发生什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/02/what-exactly-did-the-juicycampus-founder-think-would-happen/>
 

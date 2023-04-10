@@ -1,4 +1,4 @@
-# ShapeUp Club 吸引前 Spotify 和 Stardoll 高管加盟 TechCrunch
+# ShapeUp Club 吸引前 Spotify 和 Stardoll 高管加盟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/14/shapeup-club-pulls-in-ex-spotify-and-stardoll-execs-to-go-big/>
 

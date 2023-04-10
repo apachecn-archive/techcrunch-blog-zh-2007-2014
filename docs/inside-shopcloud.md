@@ -1,4 +1,4 @@
-# 里面是一个新的室内定位平台，它使用你手机的摄像头来定位你在商场的哪个位置 TechCrunch
+# 里面是一个新的室内定位平台，它使用你手机的摄像头来定位你在商场的哪个位置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/inside-shopcloud/>
 

@@ -1,4 +1,4 @@
-# 脸书的关于页面重新设计是一个图表搜索数据抓取 TechCrunch
+# 脸书的关于页面重新设计是一个图表搜索数据抓取 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/13/graph-search-data/>
 

@@ -1,4 +1,4 @@
-# 独家了解 BotObjects 产品 3D 彩色 3D 打印机 TechCrunch
+# 独家了解 BotObjects 产品 3D 彩色 3D 打印机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/an-exclusive-look-at-the-botobjects-prodesk3d-color-3d-printer/>
 

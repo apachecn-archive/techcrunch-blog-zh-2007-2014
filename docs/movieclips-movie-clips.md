@@ -1,4 +1,4 @@
-# 看你的了，孩子-MovieClips.com 测试版上线 TechCrunch
+# 看你的了，孩子-MovieClips.com 测试版上线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/03/movieclips-movie-clips/>
 

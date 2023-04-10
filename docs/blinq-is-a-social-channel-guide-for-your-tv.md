@@ -1,4 +1,4 @@
-# BlinQ 是电视的社交频道指南 TechCrunch
+# BlinQ 是电视的社交频道指南 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/blinq-is-a-social-channel-guide-for-your-tv/>
 

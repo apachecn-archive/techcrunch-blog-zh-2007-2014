@@ -1,4 +1,4 @@
-# Beep 的目标是 Sonos 参与家庭音频网络竞赛 TechCrunch
+# Beep 的目标是 Sonos 参与家庭音频网络竞赛 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/beep-aims-for-sonos-in-the-race-to-network-home-audio/>
 

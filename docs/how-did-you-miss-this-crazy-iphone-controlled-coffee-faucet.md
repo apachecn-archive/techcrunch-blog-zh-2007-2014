@@ -1,4 +1,4 @@
-# 你是怎么错过这个疯狂的 iPhone 控制的咖啡水龙头的？TechCrunch
+# 你是怎么错过这个疯狂的 iPhone 控制的咖啡水龙头的？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/how-did-you-miss-this-crazy-iphone-controlled-coffee-faucet/>
 

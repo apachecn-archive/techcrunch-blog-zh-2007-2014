@@ -1,4 +1,4 @@
-# 手握 Moto G，这是摩托罗拉售价低于 200 美元的“超值”智能手机 TechCrunch
+# 手握 Moto G，这是摩托罗拉售价低于 200 美元的“超值”智能手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/13/hands-on-moto-g/>
 

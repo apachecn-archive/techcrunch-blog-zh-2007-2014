@@ -1,4 +1,4 @@
-# 罗斯·莱文索恩和乔纳森·米勒将于下周宣布新的收购基金 TechCrunch
+# 罗斯·莱文索恩和乔纳森·米勒将于下周宣布新的收购基金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/08/31/ross-levinsohn-and-jonathan-miller-to-announce-new-buyout-fund-next-week/>
 

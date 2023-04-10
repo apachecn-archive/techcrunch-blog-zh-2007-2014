@@ -1,4 +1,4 @@
-# 阿富汗士兵拼凑的受捕食者启发的弹药背包 TechCrunch
+# 阿富汗士兵拼凑的受捕食者启发的弹药背包 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/predator-inspired-ammo-backpack-cobbled-together-by-soldiers-in-afghanistan/>
 

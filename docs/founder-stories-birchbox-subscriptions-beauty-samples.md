@@ -1,4 +1,4 @@
-# (创始人故事)Birchbox:以每月 10 美元的价格出售惊喜美妆样品订阅服务 TechCrunch
+# (创始人故事)Birchbox:以每月 10 美元的价格出售惊喜美妆样品订阅服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/08/founder-stories-birchbox-subscriptions-beauty-samples/>
 

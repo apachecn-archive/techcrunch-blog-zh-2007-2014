@@ -1,4 +1,4 @@
-# Go Daddy 转向移动:域名托管巨头通过移动网站构建器和移动商务选项提升其业务服务 TechCrunch
+# Go Daddy 转向移动:域名托管巨头通过移动网站构建器和移动商务选项提升其业务服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/go-daddy-goes-mobile-domain-hosting-giant-bumps-up-its-business-services-with-mobile-website-builder/>
 

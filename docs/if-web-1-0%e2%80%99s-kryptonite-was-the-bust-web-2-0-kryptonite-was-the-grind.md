@@ -1,4 +1,4 @@
-# 如果说 Web 1.0 的氪石是泡沫，那么 Web 2.0 的氪石就是磨人的地方 TechCrunch
+# 如果说 Web 1.0 的氪石是泡沫，那么 Web 2.0 的氪石就是磨人的地方 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/03/if-web-1-0%e2%80%99s-kryptonite-was-the-bust-web-2-0-kryptonite-was-the-grind/>
 

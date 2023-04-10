@@ -1,4 +1,4 @@
-# 红牛创造了轮式移动装置、旋转跷跷板和其他疯狂的装置 TechCrunch
+# 红牛创造了轮式移动装置、旋转跷跷板和其他疯狂的装置 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/red-bull-creation-spawns-wheelie-mobile-spinning-see-saw-and-other-crazy-contraptions/>
 

@@ -1,4 +1,4 @@
-# 美国专利局让绿色技术再插队一年 TechCrunch
+# 美国专利局让绿色技术再插队一年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/11/uspto-greentech-pilot-program-extension/>
 

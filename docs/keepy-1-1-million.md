@@ -1,4 +1,4 @@
-# Keepy 筹集了 110 万美元来存放您孩子的所有艺术品和纪念品 TechCrunch
+# Keepy 筹集了 110 万美元来存放您孩子的所有艺术品和纪念品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/15/keepy-1-1-million/>
 

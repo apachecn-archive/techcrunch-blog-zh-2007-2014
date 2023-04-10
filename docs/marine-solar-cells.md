@@ -1,4 +1,4 @@
-# 海洋太阳能电池充分利用阳光和海浪 TechCrunch
+# 海洋太阳能电池充分利用阳光和海浪 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/marine-solar-cells/>
 

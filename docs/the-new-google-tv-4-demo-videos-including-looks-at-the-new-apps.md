@@ -1,4 +1,4 @@
-# 新谷歌电视:4 个演示视频，包括新应用 TechCrunch
+# 新谷歌电视:4 个演示视频，包括新应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/the-new-google-tv-4-demo-videos-including-looks-at-the-new-apps/>
 

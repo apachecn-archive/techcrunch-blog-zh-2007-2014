@@ -1,4 +1,4 @@
-# 2011 年最热门的小工具相关搜索查询:“iPod”(但“iPhone”不在前 10 名之列...)TechCrunch
+# 2011 年最热门的小工具相关搜索查询:“iPod”(但“iPhone”不在前 10 名之列...)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/15/the-top-gadget-related-search-query-of-2011-ipod-but-iphone-isnt-in-the-top-10/>
 

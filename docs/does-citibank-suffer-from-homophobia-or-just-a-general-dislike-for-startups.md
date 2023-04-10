@@ -1,4 +1,4 @@
-# 花旗银行是患有恐同症，还是只是普遍不喜欢创业公司？TechCrunch
+# 花旗银行是患有恐同症，还是只是普遍不喜欢创业公司？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/25/does-citibank-suffer-from-homophobia-or-just-a-general-dislike-for-startups/>
 

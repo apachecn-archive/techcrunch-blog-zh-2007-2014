@@ -1,4 +1,4 @@
-# Mahalo 有竞争对手(YouBundle 秘密截图)TechCrunch
+# Mahalo 有竞争对手(YouBundle 秘密截图)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/11/mahalo-has-competition-youbundle-secret-screen-shots/>
 

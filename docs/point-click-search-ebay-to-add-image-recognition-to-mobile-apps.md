@@ -1,4 +1,4 @@
-# 指向、点击、搜索:易贝将图像识别添加到移动应用中 TechCrunch
+# 指向、点击、搜索:易贝将图像识别添加到移动应用中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/point-click-search-ebay-to-add-image-recognition-to-mobile-apps/>
 

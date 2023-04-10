@@ -1,4 +1,4 @@
-# 更多数据显示第三季度风险投资上升 TechCrunch
+# 更多数据显示第三季度风险投资上升 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/20/more-data-points-to-uptick-in-third-quarter-venture-funding/>
 

@@ -1,4 +1,4 @@
-# LendingClub 完成 1026 万美元的 A 轮融资——TechCrunch
+# LendingClub 完成 1026 万美元的 A 轮融资——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/22/lendingclub-to-close-1026-million-series-a/>
 

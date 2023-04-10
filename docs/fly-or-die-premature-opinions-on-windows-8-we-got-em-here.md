@@ -1,4 +1,4 @@
-# 飞还是死:对 Windows 8 的不成熟看法？我们找到他们了。TechCrunch
+# 飞还是死:对 Windows 8 的不成熟看法？我们找到他们了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/14/fly-or-die-premature-opinions-on-windows-8-we-got-em-here/>
 

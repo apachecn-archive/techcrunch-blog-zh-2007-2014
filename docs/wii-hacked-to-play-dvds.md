@@ -1,4 +1,4 @@
-# Wii 被黑去播放 DVD——TechCrunch
+# Wii 被黑去播放 DVD——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/20/wii-hacked-to-play-dvds/>
 

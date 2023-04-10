@@ -1,4 +1,4 @@
-# 研究表明互联网可能在未来几年耗尽带宽 TechCrunch
+# 研究表明互联网可能在未来几年耗尽带宽 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/30/research-suggests-internet-could-run-out-of-bandwidth-in-the-coming-years/>
 

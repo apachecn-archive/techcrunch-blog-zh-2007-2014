@@ -1,4 +1,4 @@
-# 网络电视网络改版 3 要你靠着看...在您的电视上 TechCrunch
+# 网络电视网络改版 3 要你靠着看...在您的电视上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/internet-tv-network-revision3-wants-you-to-lean-back-and-watch-on-your-tv/>
 

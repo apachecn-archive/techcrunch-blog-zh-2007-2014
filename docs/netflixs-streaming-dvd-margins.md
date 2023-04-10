@@ -1,4 +1,4 @@
-# 网飞流媒体利润率为 11%，DVD 利润率为 52% TechCrunch
+# 网飞流媒体利润率为 11%，DVD 利润率为 52% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/netflixs-streaming-dvd-margins/>
 

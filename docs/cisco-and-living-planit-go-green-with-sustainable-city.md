@@ -1,4 +1,4 @@
-# 思科与 Living PlanIT 携手打造绿色可持续城市 TechCrunch
+# 思科与 Living PlanIT 携手打造绿色可持续城市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/cisco-and-living-planit-go-green-with-sustainable-city/>
 

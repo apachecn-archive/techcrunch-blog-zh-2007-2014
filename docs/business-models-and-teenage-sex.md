@@ -1,4 +1,4 @@
-# 商业模式到底是什么？TechCrunch
+# 商业模式到底是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/08/business-models-and-teenage-sex/>
 

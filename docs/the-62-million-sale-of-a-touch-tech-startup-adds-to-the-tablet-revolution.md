@@ -1,4 +1,4 @@
-# 以 6200 万美元的价格出售一家触摸技术初创公司，为平板电脑革命添砖加瓦 TechCrunch
+# 以 6200 万美元的价格出售一家触摸技术初创公司，为平板电脑革命添砖加瓦 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/27/the-62-million-sale-of-a-touch-tech-startup-adds-to-the-tablet-revolution/>
 

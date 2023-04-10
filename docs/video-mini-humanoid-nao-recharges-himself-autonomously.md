@@ -1,4 +1,4 @@
-# 视频:迷你人形 Nao 自主充电 TechCrunch
+# 视频:迷你人形 Nao 自主充电 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/video-mini-humanoid-nao-recharges-himself-autonomously/>
 

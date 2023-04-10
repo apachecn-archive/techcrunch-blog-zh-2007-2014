@@ -1,4 +1,4 @@
-# 三星 NC20 两周内亮相，新蛋独家报道 TechCrunch
+# 三星 NC20 两周内亮相，新蛋独家报道 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/samsung-nc20-shows-up-in-two-weeks-exclusive-to-newegg/>
 

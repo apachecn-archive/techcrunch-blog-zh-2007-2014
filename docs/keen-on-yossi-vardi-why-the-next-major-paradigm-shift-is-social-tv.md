@@ -1,4 +1,4 @@
-# 热衷于...Yossi Vardi:为什么下一个重大范式转变是社交电视 TechCrunch
+# 热衷于...Yossi Vardi:为什么下一个重大范式转变是社交电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/keen-on-yossi-vardi-why-the-next-major-paradigm-shift-is-social-tv/>
 

@@ -1,4 +1,4 @@
-# 一个赞高迷的自白 TechCrunch
+# 一个赞高迷的自白 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/21/confessions-of-a-jango-junkie/>
 

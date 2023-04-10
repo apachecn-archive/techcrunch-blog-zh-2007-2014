@@ -1,4 +1,4 @@
-# Springpad 现在可以分类并保存你的脸书朋友的喜欢 TechCrunch
+# Springpad 现在可以分类并保存你的脸书朋友的喜欢 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/springpad-now-categorizes-and-saves-your-facebook-friends-likes/>
 

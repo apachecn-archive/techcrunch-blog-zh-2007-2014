@@ -1,4 +1,4 @@
-# 投资者不只是有点喜欢，而是非常喜欢 TechCrunch
+# 投资者不只是有点喜欢，而是非常喜欢 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/04/28/likealittle-funding/>
 

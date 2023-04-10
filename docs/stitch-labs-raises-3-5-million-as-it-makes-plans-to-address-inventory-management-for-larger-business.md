@@ -1,4 +1,4 @@
-# Stitch Labs 筹集了 350 万美元，计划为大型企业解决库存管理问题 TechCrunch
+# Stitch Labs 筹集了 350 万美元，计划为大型企业解决库存管理问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/17/stitch-labs-raises-3-5-million-as-it-makes-plans-to-address-inventory-management-for-larger-business/>
 

@@ -1,4 +1,4 @@
-# 拼车平台 Zimride 融资 600 万美元 A 轮 TechCrunch
+# 拼车平台 Zimride 融资 600 万美元 A 轮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/ride-sharing-platform-zimride-raises-6-million-series-a/>
 

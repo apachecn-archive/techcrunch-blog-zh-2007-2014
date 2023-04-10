@@ -1,4 +1,4 @@
-# 仅上个季度，宏碁就亏损了近 2.5 亿美元，但仍保持冷静 TechCrunch
+# 仅上个季度，宏碁就亏损了近 2.5 亿美元，但仍保持冷静 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/acer-lost-almost-7-billion-last-quarter-alone-remains-stoic/>
 

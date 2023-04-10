@@ -1,4 +1,4 @@
-# Local.com 以高达 3250 万美元的价格收购 screaming ' Daily Deals TechCrunch
+# Local.com 以高达 3250 万美元的价格收购 screaming ' Daily Deals 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/11/local-com-acquires-screamin-daily-deals-for-up-to-32-million/>
 

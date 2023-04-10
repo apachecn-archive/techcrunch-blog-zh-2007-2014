@@ -1,4 +1,4 @@
-# 假 Wiimote 游戏出现在沃尔玛 TechCrunch
+# 假 Wiimote 游戏出现在沃尔玛 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/fake-wiimote-games-surface-at-wal-mart/>
 

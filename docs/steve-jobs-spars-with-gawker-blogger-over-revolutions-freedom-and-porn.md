@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯与 Gawker 博客就革命、自由和色情问题争吵 TechCrunch
+# 史蒂夫·乔布斯与 Gawker 博客就革命、自由和色情问题争吵 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/15/steve-jobs-spars-with-gawker-blogger-over-revolutions-freedom-and-porn/>
 

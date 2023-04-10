@@ -1,4 +1,4 @@
-# 黑莓 PlayBook 的 Android 应用播放器以测试版形式泄露 TechCrunch
+# 黑莓 PlayBook 的 Android 应用播放器以测试版形式泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/android-app-player-for-blackberry-playbook-leaked-out-in-beta-form/>
 

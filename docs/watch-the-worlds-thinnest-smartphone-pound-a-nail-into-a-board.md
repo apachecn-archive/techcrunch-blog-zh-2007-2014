@@ -1,4 +1,4 @@
-# 观看世界上最薄的智能手机在电路板上钉钉子 TechCrunch
+# 观看世界上最薄的智能手机在电路板上钉钉子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/watch-the-worlds-thinnest-smartphone-pound-a-nail-into-a-board/>
 

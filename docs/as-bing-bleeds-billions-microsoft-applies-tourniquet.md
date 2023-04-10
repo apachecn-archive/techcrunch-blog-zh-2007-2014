@@ -1,4 +1,4 @@
-# 必应流血数十亿，微软应用止血带 TechCrunch
+# 必应流血数十亿，微软应用止血带 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/as-bing-bleeds-billions-microsoft-applies-tourniquet/>
 

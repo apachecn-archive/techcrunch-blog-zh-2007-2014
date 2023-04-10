@@ -1,4 +1,4 @@
-# 富士康 120 亿美元的巴西扩张计划在谈判阶段搁浅 TechCrunch
+# 富士康 120 亿美元的巴西扩张计划在谈判阶段搁浅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/foxconns-12bn-brazil-expansion-stalled-in-negotiation-stage/>
 

@@ -1,4 +1,4 @@
-# 带来谷歌硬件实验室 TechCrunch
+# 带来谷歌硬件实验室 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/bring-on-the-google-hardware-labs/>
 

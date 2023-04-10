@@ -1,4 +1,4 @@
-# 迪克·科斯特罗担任 Twitter 首席执行官，这样伊万·威廉姆斯就可以专注于产品 TechCrunch
+# 迪克·科斯特罗担任 Twitter 首席执行官，这样伊万·威廉姆斯就可以专注于产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/04/twitter-ceo-dick-costolo/>
 

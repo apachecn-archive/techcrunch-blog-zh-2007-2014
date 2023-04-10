@@ -1,4 +1,4 @@
-# SmarTots 筹集了 75 万美元，为孩子们提供移动应用平台 TechCrunch
+# SmarTots 筹集了 75 万美元，为孩子们提供移动应用平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/smartots-raises-750000-offers-mobile-apps-platform-for-kids/>
 

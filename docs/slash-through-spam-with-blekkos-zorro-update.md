@@ -1,4 +1,4 @@
-# 通过 Blekko 的佐罗更新削减垃圾邮件！TechCrunch
+# 通过 Blekko 的佐罗更新削减垃圾邮件！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/21/slash-through-spam-with-blekkos-zorro-update/>
 

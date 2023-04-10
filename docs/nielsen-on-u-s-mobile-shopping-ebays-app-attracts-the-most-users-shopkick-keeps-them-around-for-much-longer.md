@@ -1,4 +1,4 @@
-# 尼尔森对美国移动购物的评价:易贝的应用程序吸引了最多的用户，Shopkick 让他们停留更久 TechCrunch
+# 尼尔森对美国移动购物的评价:易贝的应用程序吸引了最多的用户，Shopkick 让他们停留更久 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/06/nielsen-on-u-s-mobile-shopping-ebays-app-attracts-the-most-users-shopkick-keeps-them-around-for-much-longer/>
 

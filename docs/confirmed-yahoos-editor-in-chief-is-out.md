@@ -1,4 +1,4 @@
-# 已证实:雅虎总编辑不在 TechCrunch
+# 已证实:雅虎总编辑不在 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/16/confirmed-yahoos-editor-in-chief-is-out/>
 

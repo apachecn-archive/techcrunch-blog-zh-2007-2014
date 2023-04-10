@@ -1,4 +1,4 @@
-# 微软对每日交易越来越认真了 TechCrunch
+# 微软对每日交易越来越认真了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/microsoft-is-getting-more-serious-about-daily-bing-deals/>
 

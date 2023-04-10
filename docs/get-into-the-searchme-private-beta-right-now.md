@@ -1,4 +1,4 @@
-# 立即进入 SearchMe 私人测试版 TechCrunch
+# 立即进入 SearchMe 私人测试版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/21/get-into-the-searchme-private-beta-right-now/>
 

@@ -1,4 +1,4 @@
-# Bose 发布两款条形音箱系统 TechCrunch
+# Bose 发布两款条形音箱系统 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/bose-announces-two-soundbar-systems/>
 

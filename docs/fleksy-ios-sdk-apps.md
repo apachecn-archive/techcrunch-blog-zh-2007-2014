@@ -1,4 +1,4 @@
-# Fleksy 在 iOS 上推出首个 SDK 合作伙伴，展示第三方键盘的威力 TechCrunch
+# Fleksy 在 iOS 上推出首个 SDK 合作伙伴，展示第三方键盘的威力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/12/fleksy-ios-sdk-apps/>
 

@@ -1,4 +1,4 @@
-# Credit Karma 推出免费信用监测，一天内注册 100，000 名用户 TechCrunch
+# Credit Karma 推出免费信用监测，一天内注册 100，000 名用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/04/credit-karma-launches-free-credit-monitoring-enrolls-100000-users-in-a-day/>
 

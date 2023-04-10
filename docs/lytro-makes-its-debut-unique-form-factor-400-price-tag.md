@@ -1,4 +1,4 @@
-# Lytro 首次亮相:独特的外形，400 美元的价格 TechCrunch
+# Lytro 首次亮相:独特的外形，400 美元的价格 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/lytro-makes-its-debut-unique-form-factor-400-price-tag/>
 

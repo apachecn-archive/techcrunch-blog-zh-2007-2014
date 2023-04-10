@@ -1,4 +1,4 @@
-# Diffbot 像人们一样看待网络，现在对开发者免费 TechCrunch
+# Diffbot 像人们一样看待网络，现在对开发者免费 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/diffbot-sees-the-web-like-people-do-now-free-for-developers/>
 

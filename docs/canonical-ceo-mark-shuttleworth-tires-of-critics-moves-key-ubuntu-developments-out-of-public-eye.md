@@ -1,4 +1,4 @@
-# Canonical 的马克·舒托沃尔斯厌倦了批评，将 Ubuntu 的关键开发移出公众视线 TechCrunch
+# Canonical 的马克·舒托沃尔斯厌倦了批评，将 Ubuntu 的关键开发移出公众视线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/18/canonical-ceo-mark-shuttleworth-tires-of-critics-moves-key-ubuntu-developments-out-of-public-eye/>
 

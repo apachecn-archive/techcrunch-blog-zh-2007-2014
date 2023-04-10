@@ -1,4 +1,4 @@
-# Haiku Deck 发布，在我们所有的桌面上为我们带来新贵软件 TechCrunch
+# Haiku Deck 发布，在我们所有的桌面上为我们带来新贵软件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/21/haiku-deck-web-app/>
 

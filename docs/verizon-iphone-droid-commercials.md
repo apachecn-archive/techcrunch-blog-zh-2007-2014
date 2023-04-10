@@ -1,4 +1,4 @@
-# 那么“机器人做的”威瑞森 iPhone 广告什么时候开始？TechCrunch
+# 那么“机器人做的”威瑞森 iPhone 广告什么时候开始？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/12/verizon-iphone-droid-commercials/>
 

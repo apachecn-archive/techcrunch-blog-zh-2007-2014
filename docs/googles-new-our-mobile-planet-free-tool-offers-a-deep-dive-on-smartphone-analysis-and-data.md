@@ -1,4 +1,4 @@
-# 谷歌新推出的免费工具“我们的移动星球”对智能手机分析和数据进行了深入研究 TechCrunch
+# 谷歌新推出的免费工具“我们的移动星球”对智能手机分析和数据进行了深入研究 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/05/googles-new-our-mobile-planet-free-tool-offers-a-deep-dive-on-smartphone-analysis-and-data/>
 

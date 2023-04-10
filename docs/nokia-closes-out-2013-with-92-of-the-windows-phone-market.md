@@ -1,4 +1,4 @@
-# 诺基亚以 92%的 Windows Phone 市场份额结束 2013 年 TechCrunch
+# 诺基亚以 92%的 Windows Phone 市场份额结束 2013 年 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/30/nokia-closes-out-2013-with-92-of-the-windows-phone-market/>
 

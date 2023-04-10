@@ -1,4 +1,4 @@
-# Roku 推出新的入门级流媒体棒，售价 49 美元，将于 4 月上市 TechCrunch
+# Roku 推出新的入门级流媒体棒，售价 49 美元，将于 4 月上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/roku-49-dollar-streaming-stick/>
 

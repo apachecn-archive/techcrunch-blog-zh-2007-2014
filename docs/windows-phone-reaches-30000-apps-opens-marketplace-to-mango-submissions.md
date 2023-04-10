@@ -1,4 +1,4 @@
-# Windows Phone 达到 30，000 个应用，向芒果提交开放市场 TechCrunch
+# Windows Phone 达到 30，000 个应用，向芒果提交开放市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/windows-phone-reaches-30000-apps-opens-marketplace-to-mango-submissions/>
 

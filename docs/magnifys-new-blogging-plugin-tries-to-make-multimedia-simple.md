@@ -1,4 +1,4 @@
-# Magnify 的新博客插件试图简化多媒体 TechCrunch
+# Magnify 的新博客插件试图简化多媒体 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/14/magnifys-new-blogging-plugin-tries-to-make-multimedia-simple/>
 

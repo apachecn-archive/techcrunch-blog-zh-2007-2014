@@ -1,4 +1,4 @@
-# 谷歌用街景相机近距离接触北极熊 TechCrunch
+# 谷歌用街景相机近距离接触北极熊 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/27/google-gets-up-close-and-personal-with-polar-bears-using-street-view-cameras/>
 

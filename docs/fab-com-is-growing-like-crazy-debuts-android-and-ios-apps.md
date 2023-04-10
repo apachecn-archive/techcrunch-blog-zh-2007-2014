@@ -1,4 +1,4 @@
-# Fab.com 发展迅猛，首次推出 Android 和 iOS 应用 TechCrunch
+# Fab.com 发展迅猛，首次推出 Android 和 iOS 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/fab-com-is-growing-like-crazy-debuts-android-and-ios-apps/>
 

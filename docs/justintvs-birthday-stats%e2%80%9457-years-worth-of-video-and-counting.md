@@ -1,4 +1,4 @@
-# 贾斯汀。电视的生日统计-57 年的视频和计数。TechCrunch
+# 贾斯汀。电视的生日统计-57 年的视频和计数。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/24/justintvs-birthday-stats%e2%80%9457-years-worth-of-video-and-counting/>
 

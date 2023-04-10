@@ -1,4 +1,4 @@
-# Barnes & Noble 发布 Nook Color，请表现出惊讶 TechCrunch
+# Barnes & Noble 发布 Nook Color，请表现出惊讶 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/26/barnes-noble-reveals-a-color-nook-please-act-surprised/>
 

@@ -1,4 +1,4 @@
-# 亚马逊的特洛伊木马:不要低估 Kindle Fire TechCrunch
+# 亚马逊的特洛伊木马:不要低估 Kindle Fire 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/amazons-trojan-horse-dont-underestimate-the-kindle-fire/>
 

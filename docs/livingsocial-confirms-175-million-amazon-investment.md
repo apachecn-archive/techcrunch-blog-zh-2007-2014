@@ -1,4 +1,4 @@
-# LivingSocial 确认亚马逊投资 1.75 亿美元 TechCrunch
+# LivingSocial 确认亚马逊投资 1.75 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/02/livingsocial-confirms-175-million-amazon-investment/>
 

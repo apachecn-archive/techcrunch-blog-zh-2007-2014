@@ -1,4 +1,4 @@
-# 特斯拉电池交换技术将于 6 月 20 日演示，用于长途旅行而无需充电站 TechCrunch
+# 特斯拉电池交换技术将于 6 月 20 日演示，用于长途旅行而无需充电站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/18/tesla-battery-swapping-tech-for-long-trips-without-charging-stops-to-be-demoed-june-20/>
 

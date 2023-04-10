@@ -1,4 +1,4 @@
-# YouTube 加深与半岛电视台的商业关系 TechCrunch
+# YouTube 加深与半岛电视台的商业关系 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/07/youtube-deepens-commercial-relationship-with-al-jazeera/>
 

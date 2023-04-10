@@ -1,4 +1,4 @@
-# 松下 DMC-GF2 微型四分之三相机现已接受预购 TechCrunch
+# 松下 DMC-GF2 微型四分之三相机现已接受预购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/21/panasonic-dmc-gf2-micro-four-thirds-camera-now-for-pre-order/>
 

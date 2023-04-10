@@ -1,4 +1,4 @@
-# LivingSocial 的北美扩张为 20 个新市场带来交易 TechCrunch
+# LivingSocial 的北美扩张为 20 个新市场带来交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/livingsocials-north-american-expansion-brings-deals-to-20-new-markets/>
 

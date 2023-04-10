@@ -1,4 +1,4 @@
-# 如果你感到注意力不集中，试试瓦尔基-为 TC 读者提供的特别服务 TechCrunch
+# 如果你感到注意力不集中，试试瓦尔基-为 TC 读者提供的特别服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/if-youre-feeling-s-a-d-try-a-valkee-special-offer-for-tc-readers/>
 

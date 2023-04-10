@@ -1,4 +1,4 @@
-# 疑难解答问答平台 FixYa 的新 iOS 应用程序允许您录制和发布产品问题的视频 TechCrunch
+# 疑难解答问答平台 FixYa 的新 iOS 应用程序允许您录制和发布产品问题的视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/27/troubleshooting-qa-platform-fixyas-new-ios-app-allows-you-to-record-and-post-videos-of-product-issues/>
 

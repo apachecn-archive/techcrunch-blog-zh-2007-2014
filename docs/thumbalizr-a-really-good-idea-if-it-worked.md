@@ -1,4 +1,4 @@
-# Thumbalizr:一个非常好的主意，如果可行的话——TechCrunch
+# Thumbalizr:一个非常好的主意，如果可行的话——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/thumbalizr-a-really-good-idea-if-it-worked>
 

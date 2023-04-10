@@ -1,4 +1,4 @@
-# (创始人故事)本·勒勒谈初创企业淘金热 TechCrunch
+# (创始人故事)本·勒勒谈初创企业淘金热 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/14/founder-stories-ben-lerer-startup-gold-rush/>
 

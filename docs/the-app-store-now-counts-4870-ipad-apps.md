@@ -1,4 +1,4 @@
-# App Store 现在有 4，870 款 iPad 应用 TechCrunch
+# App Store 现在有 4，870 款 iPad 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/30/the-app-store-now-counts-4870-ipad-apps/>
 

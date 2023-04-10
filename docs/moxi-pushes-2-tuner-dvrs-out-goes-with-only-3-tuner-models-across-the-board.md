@@ -1,4 +1,4 @@
-# Moxi 推出 2 调谐器 DVR，仅全面推出 3 调谐器型号 TechCrunch
+# Moxi 推出 2 调谐器 DVR，仅全面推出 3 调谐器型号 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/28/moxi-pushes-2-tuner-dvrs-out-goes-with-only-3-tuner-models-across-the-board/>
 

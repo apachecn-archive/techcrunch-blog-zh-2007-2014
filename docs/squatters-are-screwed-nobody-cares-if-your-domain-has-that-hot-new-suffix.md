@@ -1,4 +1,4 @@
-# 擅自占地者被拧；没人关心你的域名是否有热门的新后缀 TechCrunch
+# 擅自占地者被拧；没人关心你的域名是否有热门的新后缀 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/30/squatters-are-screwed-nobody-cares-if-your-domain-has-that-hot-new-suffix/>
 

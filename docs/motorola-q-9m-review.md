@@ -1,4 +1,4 @@
-# 摩托罗拉第九季度回顾——TechCrunch
+# 摩托罗拉第九季度回顾——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/motorola-q-9m-review/>
 

@@ -1,4 +1,4 @@
-# 报道称，亚马逊终于在俄罗斯开店，再次扩大其国际足迹 TechCrunch
+# 报道称，亚马逊终于在俄罗斯开店，再次扩大其国际足迹 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/19/amazon-is-finally-setting-up-shop-in-russia-says-report/>
 

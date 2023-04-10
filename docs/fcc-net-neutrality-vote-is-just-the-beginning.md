@@ -1,4 +1,4 @@
-# FCC 网络中立投票只是开始 TechCrunch
+# FCC 网络中立投票只是开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/21/fcc-net-neutrality-vote-is-just-the-beginning/>
 

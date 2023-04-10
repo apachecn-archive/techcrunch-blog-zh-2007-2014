@@ -1,4 +1,4 @@
-# 索尼爱立信迫使一个粉丝网站屈服 TechCrunch
+# 索尼爱立信迫使一个粉丝网站屈服 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/sony-ericsson-forces-a-fan-site-into-submission/>
 

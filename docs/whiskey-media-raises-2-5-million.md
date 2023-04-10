@@ -1,4 +1,4 @@
-# 威士忌媒体筹集 250 万美元推出更多结构化内容网站 TechCrunch
+# 威士忌媒体筹集 250 万美元推出更多结构化内容网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/31/whiskey-media-raises-2-5-million/>
 

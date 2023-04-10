@@ -1,4 +1,4 @@
-# 脸书购买虚拟世界 TechCrunch
+# 脸书购买虚拟世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/facebook-buys-a-virtual-world/>
 

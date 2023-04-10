@@ -1,4 +1,4 @@
-# 商业仪表盘获得即时插件，Geckoboard 从顶级投资者那里获得 150 万美元 TechCrunch
+# 商业仪表盘获得即时插件，Geckoboard 从顶级投资者那里获得 150 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/28/business-dashboards-get-instant-widgets-and-geckoboard-gets-1-5m-from-a-group-of-top-investors/>
 

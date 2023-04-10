@@ -1,4 +1,4 @@
-# Android(终于)向 WebKit 和 Chromium 迈出了步伐 TechCrunch
+# Android(终于)向 WebKit 和 Chromium 迈出了步伐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/android-webkit-chromium/>
 

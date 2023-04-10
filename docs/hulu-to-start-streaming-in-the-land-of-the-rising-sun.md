@@ -1,4 +1,4 @@
-# Hulu 将在旭日东升之地开始流媒体播放 TechCrunch
+# Hulu 将在旭日东升之地开始流媒体播放 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/hulu-to-start-streaming-in-the-land-of-the-rising-sun/>
 

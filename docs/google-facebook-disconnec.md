@@ -1,4 +1,4 @@
-# 谷歌工程师打造脸书 Disconnect TechCrunch
+# 谷歌工程师打造脸书 Disconnect 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/20/google-facebook-disconnec/>
 

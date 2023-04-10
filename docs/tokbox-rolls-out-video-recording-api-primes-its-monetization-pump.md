@@ -1,4 +1,4 @@
-# TokBox 推出视频录制 API，启动其盈利泵 TechCrunch
+# TokBox 推出视频录制 API，启动其盈利泵 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/tokbox-rolls-out-video-recording-api-primes-its-monetization-pump/>
 

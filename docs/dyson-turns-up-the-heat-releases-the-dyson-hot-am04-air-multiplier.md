@@ -1,4 +1,4 @@
-# 戴森加大热度，发布戴森热 AM04 空气倍增器 TechCrunch
+# 戴森加大热度，发布戴森热 AM04 空气倍增器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/dyson-turns-up-the-heat-releases-the-dyson-hot-am04-air-multiplier/>
 

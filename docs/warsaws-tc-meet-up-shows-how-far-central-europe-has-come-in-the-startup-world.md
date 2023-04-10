@@ -1,4 +1,4 @@
-# 华沙的 TC Meetup 展示了中欧在创业领域的进步 TechCrunch
+# 华沙的 TC Meetup 展示了中欧在创业领域的进步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/warsaws-tc-meet-up-shows-how-far-central-europe-has-come-in-the-startup-world/>
 

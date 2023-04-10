@@ -1,4 +1,4 @@
-# 以成为音乐收存箱为目标，Mecanto 推出了一项经济实惠的流媒体和存储服务 TechCrunch
+# 以成为音乐收存箱为目标，Mecanto 推出了一项经济实惠的流媒体和存储服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/aiming-to-be-the-dropbox-of-music-mecanto-launches-an-affordable-streaming-and-storage-service/>
 

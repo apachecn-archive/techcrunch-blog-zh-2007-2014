@@ -1,4 +1,4 @@
-# 高通探索新市场:寻找你丢失的狗 TechCrunch
+# 高通探索新市场:寻找你丢失的狗 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/qualcomm-explores-a-new-market-finding-your-lost-dog/>
 

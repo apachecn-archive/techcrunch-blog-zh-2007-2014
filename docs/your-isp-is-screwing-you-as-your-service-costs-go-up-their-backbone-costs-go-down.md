@@ -1,4 +1,4 @@
-# 你的 ISP 在欺骗你:随着你的服务成本上升，他们的主干网成本下降 TechCrunch
+# 你的 ISP 在欺骗你:随着你的服务成本上升，他们的主干网成本下降 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/your-isp-is-screwing-you-as-your-service-costs-go-up-their-backbone-costs-go-down/>
 

@@ -1,4 +1,4 @@
-# FutureLearn 推出首批 20 门免费课程，追赶 Coursera 等。TechCrunch
+# FutureLearn 推出首批 20 门免费课程，追赶 Coursera 等。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/futurelearn-first-courses/>
 

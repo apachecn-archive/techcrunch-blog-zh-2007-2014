@@ -1,4 +1,4 @@
-# 必看:战地 3 发布预告片 TechCrunch
+# 必看:战地 3 发布预告片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/must-watch-the-battlefield-3-launch-trailer/>
 

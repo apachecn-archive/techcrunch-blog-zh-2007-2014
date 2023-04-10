@@ -1,4 +1,4 @@
-# Telogis 在 IPO 前一轮从 Kleiner Perkins 融资 9300 万美元，为新的移动员工扩展位置智能 SaaS 平台 TechCrunch
+# Telogis 在 IPO 前一轮从 Kleiner Perkins 融资 9300 万美元，为新的移动员工扩展位置智能 SaaS 平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/01/telogis-raises-93m-from-kleiner-perkins-in-pre-ipo-round-to-extend-location-intelligence-saas-platform-for-new-mobile-workfore/>
 

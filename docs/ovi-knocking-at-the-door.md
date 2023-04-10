@@ -1,4 +1,4 @@
-# Ovi 敲门——TechCrunch
+# Ovi 敲门——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/ovi-knocking-at-the-door/>
 

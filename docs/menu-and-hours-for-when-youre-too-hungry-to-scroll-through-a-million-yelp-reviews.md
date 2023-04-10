@@ -1,4 +1,4 @@
-# “菜单和时间”，当你饿得无法浏览一百万条 Yelp 评论时使用 TechCrunch
+# “菜单和时间”，当你饿得无法浏览一百万条 Yelp 评论时使用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/03/menu-and-hours-for-when-youre-too-hungry-to-scroll-through-a-million-yelp-reviews/>
 

@@ -1,4 +1,4 @@
-# 雅虎搜索助手增加图片预览；我希望谷歌有这个 TechCrunch
+# 雅虎搜索助手增加图片预览；我希望谷歌有这个 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/03/yahoo-search-assist-adds-image-previews-i-wish-google-had-this/>
 

@@ -1,4 +1,4 @@
-# Rdio 任命前亚马逊高管 Anthony Bay 为新任首席执行官 TechCrunch
+# Rdio 任命前亚马逊高管 Anthony Bay 为新任首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/03/rdio-anthonybay/>
 

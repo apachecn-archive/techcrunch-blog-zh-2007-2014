@@ -1,4 +1,4 @@
-# Twirpy 专利巨魔威胁 Twitter TechCrunch
+# Twirpy 专利巨魔威胁 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/03/twirpy-patent-troll-threatens-twitter/>
 

@@ -1,4 +1,4 @@
-# AVG 以高达 940 万美元收购移动安全初创公司 droid Security TechCrunch
+# AVG 以高达 940 万美元收购移动安全初创公司 droid Security 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/10/avg-droidsecurity/>
 

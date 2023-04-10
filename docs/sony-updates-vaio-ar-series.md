@@ -1,4 +1,4 @@
-# 索尼更新 VAIO AR 系列 TechCrunch
+# 索尼更新 VAIO AR 系列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/24/sony-updates-vaio-ar-series/>
 

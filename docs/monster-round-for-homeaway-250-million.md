@@ -1,4 +1,4 @@
-# HomeAway 的怪物回合:2.5 亿美元，估值荒谬 TechCrunch
+# HomeAway 的怪物回合:2.5 亿美元，估值荒谬 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/10/monster-round-for-homeaway-250-million/>
 

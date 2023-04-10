@@ -1,4 +1,4 @@
-# “松鼠”和 Tumblr 宕机的 100 个原因 TechCrunch
+# “松鼠”和 Tumblr 宕机的 100 个原因 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/18/why-is-tumblr-down/>
 

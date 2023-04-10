@@ -1,4 +1,4 @@
-# 苹果将 App Store 引入 Twitter，承诺提供独家服务 TechCrunch
+# 苹果将 App Store 引入 Twitter，承诺提供独家服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/24/app-store-twitter/>
 

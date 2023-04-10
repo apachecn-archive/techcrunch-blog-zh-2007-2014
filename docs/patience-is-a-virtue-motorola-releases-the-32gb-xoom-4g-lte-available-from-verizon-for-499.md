@@ -1,4 +1,4 @@
-# 耐心是一种美德:摩托罗拉发布 32GB Xoom 4G LTE，在威瑞森售价 499 美元 TechCrunch
+# 耐心是一种美德:摩托罗拉发布 32GB Xoom 4G LTE，在威瑞森售价 499 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/patience-is-a-virtue-motorola-releases-the-32gb-xoom-4g-lte-available-from-verizon-for-499/>
 

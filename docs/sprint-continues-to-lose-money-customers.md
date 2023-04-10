@@ -1,4 +1,4 @@
-# Sprint 继续亏损，客户 TechCrunch
+# Sprint 继续亏损，客户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/29/sprint-continues-to-lose-money-customers/>
 

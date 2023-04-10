@@ -1,4 +1,4 @@
-# 迭代:公开市场情绪扰乱消费者创业公司的笼子 TechCrunch
+# 迭代:公开市场情绪扰乱消费者创业公司的笼子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/05/iterations-public-market-sentiment-rattles-consumer-startups-cages/>
 

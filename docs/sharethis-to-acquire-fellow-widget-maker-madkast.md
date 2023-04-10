@@ -1,4 +1,4 @@
-# 分享此内容以收购同为 Widget 制造商的 mad kast TechCrunch
+# 分享此内容以收购同为 Widget 制造商的 mad kast 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/23/sharethis-to-acquire-fellow-widget-maker-madkast/>
 

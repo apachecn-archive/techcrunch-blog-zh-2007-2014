@@ -1,4 +1,4 @@
-# 谷歌音乐服务:截图 TechCrunch
+# 谷歌音乐服务:截图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/21/google-music-service-the-screenshots/>
 

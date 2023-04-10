@@ -1,4 +1,4 @@
-# DreamIt Ventures 推出 2011 年秋季费城课程 TechCrunch
+# DreamIt Ventures 推出 2011 年秋季费城课程 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/dreamit-ventures-launches-its-fall-2011-philadelphia-class/>
 

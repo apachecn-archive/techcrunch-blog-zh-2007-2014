@@ -1,4 +1,4 @@
-# 移动广告网络 Greystripe 使广告更加社会化，与新的广告助推器互动 TechCrunch
+# 移动广告网络 Greystripe 使广告更加社会化，与新的广告助推器互动 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/mobile-ad-network-greystripe-makes-ads-more-social-interactive-with-new-ad-boosters/>
 

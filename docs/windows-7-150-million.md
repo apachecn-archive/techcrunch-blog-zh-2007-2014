@@ -1,4 +1,4 @@
-# Windows 7 每秒钟卖出 7 份拷贝，到目前为止总共卖出 1.5 亿份拷贝 TechCrunch
+# Windows 7 每秒钟卖出 7 份拷贝，到目前为止总共卖出 1.5 亿份拷贝 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/windows-7-150-million/>
 

@@ -1,4 +1,4 @@
-# StockTwits 获得异常回报，创建实时财经新闻中心 TechCrunch
+# StockTwits 获得异常回报，创建实时财经新闻中心 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/stocktwits-acquires-abnormal-returns/>
 

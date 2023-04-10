@@ -1,4 +1,4 @@
-# eMarketer:2010 年脸书的广告销售额将达到 13 亿美元；MySpace 销量暴跌 TechCrunch
+# eMarketer:2010 年脸书的广告销售额将达到 13 亿美元；MySpace 销量暴跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/12/emarketer-ad-sales-on-facebook-to-reach-1-3b-in-2010-myspace-sales-to-plummet/>
 

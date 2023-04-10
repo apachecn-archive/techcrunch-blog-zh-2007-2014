@@ -1,4 +1,4 @@
-# 有机(增长)只:杂货清单应用程序给我买一个馅饼！声称 2M iOS 下载，增加赠送功能 TechCrunch
+# 有机(增长)只:杂货清单应用程序给我买一个馅饼！声称 2M iOS 下载，增加赠送功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/04/organic-growth-only-grocery-list-app-buy-me-a-pie-claims-2m-ios-downloads-adds-gifting-functionality/>
 

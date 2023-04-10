@@ -1,4 +1,4 @@
-# MC Hammer 发布 WireDoo，他的“深度”关系搜索引擎 TechCrunch
+# MC Hammer 发布 WireDoo，他的“深度”关系搜索引擎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/mc-hammer-announces-wiredoo-his-deep-relational-search-engine/>
 

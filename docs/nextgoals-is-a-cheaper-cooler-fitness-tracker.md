@@ -1,4 +1,4 @@
-# NextGoals 是一款更便宜、更酷的健身追踪器 TechCrunch
+# NextGoals 是一款更便宜、更酷的健身追踪器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/nextgoals-is-a-cheaper-cooler-fitness-tracker/>
 

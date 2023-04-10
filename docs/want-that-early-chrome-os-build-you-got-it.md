@@ -1,4 +1,4 @@
-# 想要早期 Chrome OS 版本吗？你猜对了。TechCrunch
+# 想要早期 Chrome OS 版本吗？你猜对了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/14/want-that-early-chrome-os-build-you-got-it/>
 

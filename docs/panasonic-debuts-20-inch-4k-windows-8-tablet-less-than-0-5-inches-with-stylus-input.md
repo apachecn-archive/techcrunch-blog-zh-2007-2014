@@ -1,4 +1,4 @@
-# 松下推出 20 英寸 4K Windows 8 平板电脑:不到半英寸，带触控笔输入 TechCrunch
+# 松下推出 20 英寸 4K Windows 8 平板电脑:不到半英寸，带触控笔输入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/08/panasonic-debuts-20-inch-4k-windows-8-tablet-less-than-0-5-inches-with-stylus-input/>
 

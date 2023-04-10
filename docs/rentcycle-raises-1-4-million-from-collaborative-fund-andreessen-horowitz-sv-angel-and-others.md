@@ -1,4 +1,4 @@
-# Rentcycle 从 Collaborative Fund、Andreessen Horowitz、SV Angel 和其他公司筹集了 140 万美元 TechCrunch
+# Rentcycle 从 Collaborative Fund、Andreessen Horowitz、SV Angel 和其他公司筹集了 140 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/rentcycle-raises-1-4-million-from-collaborative-fund-andreessen-horowitz-sv-angel-and-others/>
 

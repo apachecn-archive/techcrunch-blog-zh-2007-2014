@@ -1,4 +1,4 @@
-# 80%的美国人在“下班后”工作，相当于每周多工作一天 TechCrunch
+# 80%的美国人在“下班后”工作，相当于每周多工作一天 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/80-of-americans-work-after-hours-equaling-an-extra-day-of-work-per-week/>
 

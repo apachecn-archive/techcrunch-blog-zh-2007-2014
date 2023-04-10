@@ -1,4 +1,4 @@
-# Line Messaging 应用程序与电信运营商 Telefónica 达成协议，在 Firefox OS 的主要市场上独占 TechCrunch
+# Line Messaging 应用程序与电信运营商 Telefónica 达成协议，在 Firefox OS 的主要市场上独占 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/line-telefonica-ffos/>
 

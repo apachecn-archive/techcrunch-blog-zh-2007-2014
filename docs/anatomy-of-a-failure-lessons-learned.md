@@ -1,4 +1,4 @@
-# 剖析失败:经验教训 TechCrunch
+# 剖析失败:经验教训 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/05/20/anatomy-of-a-failure-lessons-learned/>
 

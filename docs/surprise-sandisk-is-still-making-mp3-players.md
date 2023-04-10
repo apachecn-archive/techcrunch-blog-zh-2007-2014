@@ -1,4 +1,4 @@
-# 惊喜！Sandisk 仍在生产 MP3 播放器 TechCrunch
+# 惊喜！Sandisk 仍在生产 MP3 播放器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/surprise-sandisk-is-still-making-mp3-players/>
 

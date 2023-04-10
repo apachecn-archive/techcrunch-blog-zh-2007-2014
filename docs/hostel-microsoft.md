@@ -1,4 +1,4 @@
-# 欢迎来到微软旅舍。如此可爱的地方。TechCrunch
+# 欢迎来到微软旅舍。如此可爱的地方。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/29/hostel-microsoft/>
 

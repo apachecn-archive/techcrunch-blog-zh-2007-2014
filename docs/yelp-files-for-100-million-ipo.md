@@ -1,4 +1,4 @@
-# Yelp 申请 IPO 以筹集 1 亿美元 TechCrunch
+# Yelp 申请 IPO 以筹集 1 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/yelp-files-for-100-million-ipo/>
 

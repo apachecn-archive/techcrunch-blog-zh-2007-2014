@@ -1,4 +1,4 @@
-# Mozilla 对 Gecko 的引导变成了 Firefox OS，获得了 Sprint、德国电信、中兴通讯等的支持 TechCrunch
+# Mozilla 对 Gecko 的引导变成了 Firefox OS，获得了 Sprint、德国电信、中兴通讯等的支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/mozillas-boot-to-gecko-becomes-firefox-os-scores-support-from-sprint-deutsche-telekom-zte-and-more/>
 

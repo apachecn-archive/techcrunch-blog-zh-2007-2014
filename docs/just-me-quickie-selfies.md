@@ -1,4 +1,4 @@
-# Just.me 用快速自拍加滤镜来掩盖你的# Me Shot TechCrunch
+# Just.me 用快速自拍加滤镜来掩盖你的# Me Shot 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/just-me-quickie-selfies/>
 

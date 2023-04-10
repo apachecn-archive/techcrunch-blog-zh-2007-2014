@@ -1,4 +1,4 @@
-# 粉丝在新西雅图视窗商店排队...为音乐会 TechCrunch
+# 粉丝在新西雅图视窗商店排队...为音乐会 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/22/fans-line-up-a-new-seattle-windows-store-for-the-concert/>
 

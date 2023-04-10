@@ -1,4 +1,4 @@
-# AliveCor 将移动设备变成低成本心脏监护仪，融资 300 万美元 TechCrunch
+# AliveCor 将移动设备变成低成本心脏监护仪，融资 300 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/alivecor-turns-mobile-devices-into-low-cost-heart-monitors-raises-3-million/>
 

@@ -1,4 +1,4 @@
-# 三星用 2 美元 Galaxy S IIs 摧毁了澳大利亚 iPhone 系列 TechCrunch
+# 三星用 2 美元 Galaxy S IIs 摧毁了澳大利亚 iPhone 系列 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/samsung-crashes-australian-iphone-line-with-2-galaxy-s-iis/>
 

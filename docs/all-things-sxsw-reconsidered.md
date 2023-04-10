@@ -1,4 +1,4 @@
-# 所有 SXSW(重新)考虑的事情 TechCrunch
+# 所有 SXSW(重新)考虑的事情 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/31/all-things-sxsw-reconsidered/>
 

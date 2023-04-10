@@ -1,4 +1,4 @@
-# 《纽约时报》在美联社的问题上存在矛盾和错误，需要停止为他们辩护 TechCrunch
+# 《纽约时报》在美联社的问题上存在矛盾和错误，需要停止为他们辩护 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/18/the-nytimes-is-conflicted-and-wrong-about-the-ap-and-needs-to-stop-defending-them/>
 

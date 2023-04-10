@@ -1,4 +1,4 @@
-# TEEWave AR1:日本获得新型电动跑车 TechCrunch
+# TEEWave AR1:日本获得新型电动跑车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/teewave-ar1-japan-gets-new-electric-sports-car/>
 

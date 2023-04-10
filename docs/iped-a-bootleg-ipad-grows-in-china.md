@@ -1,4 +1,4 @@
-# iPed:中国出现盗版 iPad TechCrunch
+# iPed:中国出现盗版 iPad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/28/iped-a-bootleg-ipad-grows-in-china/>
 

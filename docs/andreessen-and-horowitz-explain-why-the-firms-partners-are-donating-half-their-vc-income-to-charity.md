@@ -1,4 +1,4 @@
-# 安德森和霍洛维茨解释了为什么公司的合伙人将他们一半的风险投资收入捐给慈善机构 TechCrunch
+# 安德森和霍洛维茨解释了为什么公司的合伙人将他们一半的风险投资收入捐给慈善机构 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/04/25/andreessen-and-horowitz-explain-why-the-firms-partners-are-donating-half-their-vc-income-to-charity/>
 

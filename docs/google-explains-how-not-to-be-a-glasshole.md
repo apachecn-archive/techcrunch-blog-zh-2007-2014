@@ -1,4 +1,4 @@
-# 谷歌解释如何不成为玻璃洞 TechCrunch
+# 谷歌解释如何不成为玻璃洞 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/google-explains-how-not-to-be-a-glasshole/>
 

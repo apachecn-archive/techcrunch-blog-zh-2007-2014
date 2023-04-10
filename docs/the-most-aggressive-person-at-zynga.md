@@ -1,4 +1,4 @@
-# Zynga 的联合创始人“谁创造了数字上帝”加入 Bee Cave Games 成为顾问/投资者 TechCrunch
+# Zynga 的联合创始人“谁创造了数字上帝”加入 Bee Cave Games 成为顾问/投资者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/28/the-most-aggressive-person-at-zynga/>
 

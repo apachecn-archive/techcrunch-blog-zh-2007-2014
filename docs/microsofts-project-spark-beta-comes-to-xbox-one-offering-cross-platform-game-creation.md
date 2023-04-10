@@ -1,4 +1,4 @@
-# 微软的 Project Spark Beta 来到 Xbox One，提供跨平台游戏创作 TechCrunch
+# 微软的 Project Spark Beta 来到 Xbox One，提供跨平台游戏创作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/04/microsofts-project-spark-beta-comes-to-xbox-one-offering-cross-platform-game-creation/>
 

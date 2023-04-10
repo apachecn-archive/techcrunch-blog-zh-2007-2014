@@ -1,4 +1,4 @@
-# Skype 网络钓鱼骗局 TechCrunch
+# Skype 网络钓鱼骗局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/08/skype-phishing-scam/>
 

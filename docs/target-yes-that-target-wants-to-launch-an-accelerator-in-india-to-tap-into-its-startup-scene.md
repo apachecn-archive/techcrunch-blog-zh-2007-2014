@@ -1,4 +1,4 @@
-# 塔吉特(是的，那个塔吉特)想在印度推出加速器 TechCrunch
+# 塔吉特(是的，那个塔吉特)想在印度推出加速器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/26/target-yes-that-target-wants-to-launch-an-accelerator-in-india-to-tap-into-its-startup-scene/>
 

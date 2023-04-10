@@ -1,4 +1,4 @@
-# 女性不想创业，因为她们宁愿要孩子 TechCrunch
+# 女性不想创业，因为她们宁愿要孩子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/09/women-startups-childre/>
 

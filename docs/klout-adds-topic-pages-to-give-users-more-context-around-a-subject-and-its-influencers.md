@@ -1,4 +1,4 @@
-# Klout 增加了主题页面，为用户提供了关于某个主题及其影响者的更多背景信息 TechCrunch
+# Klout 增加了主题页面，为用户提供了关于某个主题及其影响者的更多背景信息 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/klout-adds-topic-pages-to-give-users-more-context-around-a-subject-and-its-influencers/>
 

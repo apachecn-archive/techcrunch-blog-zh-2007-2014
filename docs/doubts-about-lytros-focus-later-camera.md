@@ -1,4 +1,4 @@
-# 对 Lytro“稍后聚焦”相机的质疑 TechCrunch
+# 对 Lytro“稍后聚焦”相机的质疑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/doubts-about-lytros-focus-later-camera/>
 

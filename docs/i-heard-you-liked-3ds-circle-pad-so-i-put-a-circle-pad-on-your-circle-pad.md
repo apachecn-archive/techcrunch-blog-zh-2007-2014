@@ -1,4 +1,4 @@
-# 我听说你喜欢 3DS 圆形垫，所以我在你的圆形垫上放了一个圆形垫 TechCrunch
+# 我听说你喜欢 3DS 圆形垫，所以我在你的圆形垫上放了一个圆形垫 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/i-heard-you-liked-3ds-circle-pad-so-i-put-a-circle-pad-on-your-circle-pad/>
 

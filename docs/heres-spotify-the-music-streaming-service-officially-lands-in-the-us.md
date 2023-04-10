@@ -1,4 +1,4 @@
-# Spotify 来了！音乐流媒体服务正式登陆美国 TechCrunch
+# Spotify 来了！音乐流媒体服务正式登陆美国 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/heres-spotify-the-music-streaming-service-officially-lands-in-the-us/>
 

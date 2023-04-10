@@ -1,4 +1,4 @@
-# 抗议出租车司机袭击巴黎附近的优步汽车 TechCrunch
+# 抗议出租车司机袭击巴黎附近的优步汽车 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/13/an-uber-car-was-attacked-near-paris-as-taxi-drivers-protest-against-urban-transportation-startups/>
 

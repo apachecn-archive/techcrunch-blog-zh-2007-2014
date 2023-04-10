@@ -1,4 +1,4 @@
-# 真诚推出 iOS 照片应用货币化平台:全民图片打印 TechCrunch
+# 真诚推出 iOS 照片应用货币化平台:全民图片打印 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/sincerely-photo-platform/>
 

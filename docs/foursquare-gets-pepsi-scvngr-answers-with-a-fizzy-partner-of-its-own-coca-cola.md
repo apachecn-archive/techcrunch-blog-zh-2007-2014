@@ -1,4 +1,4 @@
-# Foursquare 得到了百事可乐，SCVNGR 用自己的汽水合作伙伴来回答:可口可乐 TechCrunch
+# Foursquare 得到了百事可乐，SCVNGR 用自己的汽水合作伙伴来回答:可口可乐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/19/foursquare-gets-pepsi-scvngr-answers-with-a-fizzy-partner-of-its-own-coca-cola/>
 

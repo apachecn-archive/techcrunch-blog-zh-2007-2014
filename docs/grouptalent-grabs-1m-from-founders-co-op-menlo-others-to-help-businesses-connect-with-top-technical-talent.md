@@ -1,4 +1,4 @@
-# GroupTalent 从 Founders Co-Op、Menlo 等公司获得 100 万美元，帮助企业联系顶级技术人才 TechCrunch
+# GroupTalent 从 Founders Co-Op、Menlo 等公司获得 100 万美元，帮助企业联系顶级技术人才 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/13/grouptalent-grabs-1m-from-founders-co-op-menlo-others-to-help-businesses-connect-with-top-technical-talent/>
 

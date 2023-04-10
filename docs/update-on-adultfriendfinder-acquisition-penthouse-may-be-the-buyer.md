@@ -1,4 +1,4 @@
-# 收购 AdultFriendFinder 的最新消息——Penthouse 可能是买家 TechCrunch
+# 收购 AdultFriendFinder 的最新消息——Penthouse 可能是买家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/17/update-on-adultfriendfinder-acquisition-penthouse-may-be-the-buyer/>
 

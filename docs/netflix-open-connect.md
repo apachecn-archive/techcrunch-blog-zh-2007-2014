@@ -1,4 +1,4 @@
-# 网飞推出自己的 CDN:Open Connect TechCrunch
+# 网飞推出自己的 CDN:Open Connect 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/04/netflix-open-connect/>
 

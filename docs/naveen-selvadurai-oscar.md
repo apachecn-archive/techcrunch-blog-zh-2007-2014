@@ -1,4 +1,4 @@
-# 纳文·塞尔瓦杜莱加入了旨在简化医疗保险的初创公司 Oscar TechCrunch
+# 纳文·塞尔瓦杜莱加入了旨在简化医疗保险的初创公司 Oscar 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/25/naveen-selvadurai-oscar/>
 

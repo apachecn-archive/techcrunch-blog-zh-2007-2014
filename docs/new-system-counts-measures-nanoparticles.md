@@ -1,4 +1,4 @@
-# 新系统计数、测量纳米粒子 TechCrunch
+# 新系统计数、测量纳米粒子 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/07/new-system-counts-measures-nanoparticles/>
 

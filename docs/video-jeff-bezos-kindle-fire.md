@@ -1,4 +1,4 @@
-# 视频:杰夫·贝索斯演示 Kindle Fire TechCrunch
+# 视频:杰夫·贝索斯演示 Kindle Fire 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/video-jeff-bezos-kindle-fire/>
 

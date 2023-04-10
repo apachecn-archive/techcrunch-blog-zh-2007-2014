@@ -1,4 +1,4 @@
-# Yepp，更多三星笔记本电脑 TechCrunch
+# Yepp，更多三星笔记本电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/yepp-more-samsung-portables/>
 

@@ -1,4 +1,4 @@
-# 脸书真的会在适合自己的时候审查搜索吗？TechCrunch
+# 脸书真的会在适合自己的时候审查搜索吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/22/is-facebook-really-censoring-search-when-it-suits-them/>
 

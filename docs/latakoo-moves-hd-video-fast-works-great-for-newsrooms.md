@@ -1,4 +1,4 @@
-# Latakoo 快速移动高清视频，非常适合新闻编辑室 TechCrunch
+# Latakoo 快速移动高清视频，非常适合新闻编辑室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/16/latakoo-moves-hd-video-fast-works-great-for-newsrooms/>
 

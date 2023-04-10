@@ -1,4 +1,4 @@
-# Expedia 和 Zillow 创始人推出基于位置的移动发现 iOS 应用 Trover TechCrunch
+# Expedia 和 Zillow 创始人推出基于位置的移动发现 iOS 应用 Trover 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/expedia-and-zillow-founder-launches-location-based-mobile-discovery-ios-app-trover/>
 

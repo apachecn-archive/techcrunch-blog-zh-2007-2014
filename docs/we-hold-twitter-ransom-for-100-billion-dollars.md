@@ -1,4 +1,4 @@
-# 我们持有 Twitter 亿美元的赎金 TechCrunch
+# 我们持有 Twitter 亿美元的赎金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/25/we-hold-twitter-ransom-for-100-billion-dollars/>
 

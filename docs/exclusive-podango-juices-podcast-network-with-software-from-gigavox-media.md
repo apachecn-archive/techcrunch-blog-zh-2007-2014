@@ -1,4 +1,4 @@
-# 独家:Podango 果汁播客网络，软件来自 GigaVox Media TechCrunch
+# 独家:Podango 果汁播客网络，软件来自 GigaVox Media 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/25/exclusive-podango-juices-podcast-network-with-software-from-gigavox-media/>
 

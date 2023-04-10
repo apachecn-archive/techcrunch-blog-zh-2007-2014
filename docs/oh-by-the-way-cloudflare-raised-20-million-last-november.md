@@ -1,4 +1,4 @@
-# 顺便说一下，CloudFlare 去年 11 月筹集了 2000 万美元 TechCrunch
+# 顺便说一下，CloudFlare 去年 11 月筹集了 2000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/12/oh-by-the-way-cloudflare-raised-20-million-last-november/>
 

@@ -1,4 +1,4 @@
-# 雅虎告别韩国，完成退出 TechCrunch
+# 雅虎告别韩国，完成退出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/30/yahoo-bids-farewell-to-south-korea-completes-exit/>
 

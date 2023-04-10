@@ -1,4 +1,4 @@
-# AOL 将向所有员工支付 1056 美元奖金，以庆祝 10.56 亿美元的专利销售 TechCrunch
+# AOL 将向所有员工支付 1056 美元奖金，以庆祝 10.56 亿美元的专利销售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/aol-to-pay-1056-bonus-to-all-employees-to-celebrate-1-056-billion-patent-sale/>
 

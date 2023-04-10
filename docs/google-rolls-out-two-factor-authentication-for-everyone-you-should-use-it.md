@@ -1,4 +1,4 @@
-# 谷歌为每个人推出双重认证。你应该使用它。TechCrunch
+# 谷歌为每个人推出双重认证。你应该使用它。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/10/google-rolls-out-two-factor-authentication-for-everyone-you-should-use-it/>
 

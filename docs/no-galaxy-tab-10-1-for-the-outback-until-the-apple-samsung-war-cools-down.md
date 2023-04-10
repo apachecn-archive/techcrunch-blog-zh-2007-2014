@@ -1,4 +1,4 @@
-# 在苹果和三星的战争冷却之前，内地不会有 Galaxy Tab 10.1 TechCrunch
+# 在苹果和三星的战争冷却之前，内地不会有 Galaxy Tab 10.1 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/no-galaxy-tab-10-1-for-the-outback-until-the-apple-samsung-war-cools-down/>
 

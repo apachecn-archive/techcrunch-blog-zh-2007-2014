@@ -1,4 +1,4 @@
-# Bang & Olufsen 的新款 Beolit 12 扬声器基座为假期做准备 TechCrunch
+# Bang & Olufsen 的新款 Beolit 12 扬声器基座为假期做准备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/bang-olufsens-new-beolit-12-speaker-dock-preps-for-the-holidays/>
 

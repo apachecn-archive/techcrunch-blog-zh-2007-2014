@@ -1,4 +1,4 @@
-# 针对游戏开发商，移动礼品卡平台 Gyft 推出 API TechCrunch
+# 针对游戏开发商，移动礼品卡平台 Gyft 推出 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/targeting-game-developers-mobile-gift-card-platform-gyft-launches-apis/>
 

@@ -1,4 +1,4 @@
-# 论文到期？以下是 SOPA 停电期间访问维基百科的方法 TechCrunch
+# 论文到期？以下是 SOPA 停电期间访问维基百科的方法 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/18/essay-due-heres-how-to-access-wikipedia-during-the-sopa-blackout/>
 

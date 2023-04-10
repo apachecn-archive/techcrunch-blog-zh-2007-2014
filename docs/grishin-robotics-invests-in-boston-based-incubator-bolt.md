@@ -1,4 +1,4 @@
-# Grishin Robotics 投资波士顿孵化器 Bolt TechCrunch
+# Grishin Robotics 投资波士顿孵化器 Bolt 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/21/grishin-robotics-invests-in-boston-based-incubator-bolt/>
 

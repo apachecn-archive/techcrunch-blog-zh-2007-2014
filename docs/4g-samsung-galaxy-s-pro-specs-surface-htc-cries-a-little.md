@@ -1,4 +1,4 @@
-# 4G 三星 Galaxy S Pro 规格 surface，HTC 有点哭 TechCrunch
+# 4G 三星 Galaxy S Pro 规格 surface，HTC 有点哭 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/21/4g-samsung-galaxy-s-pro-specs-surface-htc-cries-a-little/>
 

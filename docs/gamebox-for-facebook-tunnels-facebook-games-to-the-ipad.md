@@ -1,4 +1,4 @@
-# “脸书游戏盒”将脸书游戏移植到 iPad TechCrunch
+# “脸书游戏盒”将脸书游戏移植到 iPad 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/gamebox-for-facebook-tunnels-facebook-games-to-the-ipad/>
 

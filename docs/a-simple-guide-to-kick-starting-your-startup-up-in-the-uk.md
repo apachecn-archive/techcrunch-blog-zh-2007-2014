@@ -1,4 +1,4 @@
-# 在英国启动创业的简单指南 TechCrunch
+# 在英国启动创业的简单指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/28/a-simple-guide-to-kick-starting-your-startup-up-in-the-uk/>
 

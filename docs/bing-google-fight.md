@@ -1,4 +1,4 @@
-# 哇，微软和谷歌就在我们面前打对方的脸！TechCrunch
+# 哇，微软和谷歌就在我们面前打对方的脸！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/01/bing-google-fight/>
 

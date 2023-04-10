@@ -1,4 +1,4 @@
-# 视频:这不是 iPad 3...但是我们可以做梦，对吗？TechCrunch
+# 视频:这不是 iPad 3...但是我们可以做梦，对吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/29/video-this-isnt-the-ipad-3-but-we-can-dream-right/>
 

@@ -1,4 +1,4 @@
-# 肖恩·帕克:Twitter/脸书将很快主宰网络，而不是谷歌。TechCrunch
+# 肖恩·帕克:Twitter/脸书将很快主宰网络，而不是谷歌。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/22/sean-parker-twitterfacebook-will-soon-dominate-the-web-not-google/>
 

@@ -1,4 +1,4 @@
-# GenieDB 的新分布式数据库服务解决了美国国家安全局因数据保护失败而带来的负面影响 TechCrunch
+# GenieDB 的新分布式数据库服务解决了美国国家安全局因数据保护失败而带来的负面影响 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/05/geniedbs-new-distributed-database-service-addresses-coming-nsa-fallout-over-failed-data-protection/>
 

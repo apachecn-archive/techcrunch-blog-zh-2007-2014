@@ -1,4 +1,4 @@
-# 视频:涡流动力爬壁机器人安全跳伞 TechCrunch
+# 视频:涡流动力爬壁机器人安全跳伞 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/video-vortex-powered-wall-climbing-robot-parachutes-to-safety/>
 

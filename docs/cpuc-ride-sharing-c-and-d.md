@@ -1,4 +1,4 @@
-# 当加州 PUC 打击拼车时，Sidecar 和 Lyft 承诺继续上路 TechCrunch
+# 当加州 PUC 打击拼车时，Sidecar 和 Lyft 承诺继续上路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/08/cpuc-ride-sharing-c-and-d/>
 

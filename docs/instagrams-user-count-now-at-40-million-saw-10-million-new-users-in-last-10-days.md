@@ -1,4 +1,4 @@
-# Instagram 的用户数量现已达到 4000 万，过去 10 天新增用户 1000 万 TechCrunch
+# Instagram 的用户数量现已达到 4000 万，过去 10 天新增用户 1000 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/13/instagrams-user-count-now-at-40-million-saw-10-million-new-users-in-last-10-days/>
 

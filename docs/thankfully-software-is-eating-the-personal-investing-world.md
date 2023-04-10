@@ -1,4 +1,4 @@
-# 谢天谢地，软件正在吞噬个人投资世界 TechCrunch
+# 谢天谢地，软件正在吞噬个人投资世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/17/thankfully-software-is-eating-the-personal-investing-world/>
 

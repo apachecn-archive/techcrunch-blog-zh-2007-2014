@@ -1,4 +1,4 @@
-# 专为智能手机设计的迷你燃料电池 TechCrunch
+# 专为智能手机设计的迷你燃料电池 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/23/mini-fuel-cell-specifically-designed-for-smartphones/>
 

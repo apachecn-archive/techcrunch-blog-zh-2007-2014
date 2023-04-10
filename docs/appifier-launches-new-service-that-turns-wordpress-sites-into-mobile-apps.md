@@ -1,4 +1,4 @@
-# Appifier 推出新服务，将 WordPress 网站转变为移动应用 TechCrunch
+# Appifier 推出新服务，将 WordPress 网站转变为移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/11/appifier-launches-new-service-that-turns-wordpress-sites-into-mobile-apps/>
 

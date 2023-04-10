@@ -1,4 +1,4 @@
-# Venturocket 推出了一个受 AdWords 启发的就业市场来扼杀简历 TechCrunch
+# Venturocket 推出了一个受 AdWords 启发的就业市场来扼杀简历 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/29/venturocket-launches-an-adwords-inspired-jobs-marketplace-to-kill-the-resume/>
 

@@ -1,4 +1,4 @@
-# 教育科技初创公司在 Q1 筹集了超过 5 亿美元的资金 TechCrunch
+# 教育科技初创公司在 Q1 筹集了超过 5 亿美元的资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/education-technology-startups-raised-nearly-half-a-billion-dollars-in-q1/>
 

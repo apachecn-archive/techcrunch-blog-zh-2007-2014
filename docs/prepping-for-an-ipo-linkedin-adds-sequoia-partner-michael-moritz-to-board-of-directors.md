@@ -1,4 +1,4 @@
-# 为 IPO 做准备，LinkedIn 邀请红杉资本合伙人迈克尔·莫里茨加入 TechCrunch
+# 为 IPO 做准备，LinkedIn 邀请红杉资本合伙人迈克尔·莫里茨加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/prepping-for-an-ipo-linkedin-adds-sequoia-partner-michael-moritz-to-board-of-directors/>
 

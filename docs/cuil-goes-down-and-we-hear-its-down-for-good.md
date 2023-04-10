@@ -1,4 +1,4 @@
-# Cuil 倒下了，我们听说它永远倒下了 TechCrunch
+# Cuil 倒下了，我们听说它永远倒下了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/17/cuil-goes-down-and-we-hear-its-down-for-good/>
 

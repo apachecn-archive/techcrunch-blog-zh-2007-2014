@@ -1,4 +1,4 @@
-# Forrester: Windows 8 将“停止萎缩”——直到 2014 年才会站稳脚跟 TechCrunch
+# Forrester: Windows 8 将“停止萎缩”——直到 2014 年才会站稳脚跟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/22/forrester-windows-8-will-just-stop-the-shrinking-wont-take-hold-until-2014/>
 

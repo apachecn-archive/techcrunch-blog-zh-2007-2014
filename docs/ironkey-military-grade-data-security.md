@@ -1,4 +1,4 @@
-# Ironkey:军用级数据安全 TechCrunch
+# Ironkey:军用级数据安全 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/02/ironkey-military-grade-data-security/>
 

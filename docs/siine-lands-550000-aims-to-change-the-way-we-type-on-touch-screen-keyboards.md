@@ -1,4 +1,4 @@
-# Siine lands 55 万英镑，旨在改变我们在触摸屏键盘上打字的方式 TechCrunch
+# Siine lands 55 万英镑，旨在改变我们在触摸屏键盘上打字的方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/siine-lands-550000-aims-to-change-the-way-we-type-on-touch-screen-keyboards/>
 

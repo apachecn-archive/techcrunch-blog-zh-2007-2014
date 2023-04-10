@@ -1,4 +1,4 @@
-# 通过“超越签到”通知，Foursquare 实现了 Android 优先 TechCrunch
+# 通过“超越签到”通知，Foursquare 实现了 Android 优先 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/foursquare-android-notifications/>
 

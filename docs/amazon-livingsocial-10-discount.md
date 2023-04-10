@@ -1,4 +1,4 @@
-# 亚马逊给 LivingSocial 一个大优惠 10 美元 TechCrunch
+# 亚马逊给 LivingSocial 一个大优惠 10 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/19/amazon-livingsocial-10-discount/>
 

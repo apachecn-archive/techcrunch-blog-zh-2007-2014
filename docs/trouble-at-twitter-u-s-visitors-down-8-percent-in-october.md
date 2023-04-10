@@ -1,4 +1,4 @@
-# Twitter 遇到麻烦:10 月份美国访客下降 8% TechCrunch
+# Twitter 遇到麻烦:10 月份美国访客下降 8% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/12/trouble-at-twitter-u-s-visitors-down-8-percent-in-october/>
 

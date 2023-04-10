@@ -1,4 +1,4 @@
-# 教科书租赁大生意——凯鹏华盈追逐 Chegg TechCrunch
+# 教科书租赁大生意——凯鹏华盈追逐 Chegg 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/09/textbook-rentals-big-business-kleiner-perkins-goes-after-chegg/>
 

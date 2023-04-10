@@ -1,4 +1,4 @@
-# TVtrip 为€酒店视频评论筹集了 700 万英镑 TechCrunch
+# TVtrip 为€酒店视频评论筹集了 700 万英镑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/02/tvtrip-raises-e7-million-more-for-hotel-video-reviews/>
 

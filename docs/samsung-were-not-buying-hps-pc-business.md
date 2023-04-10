@@ -1,4 +1,4 @@
-# 三星:我们不会收购惠普的个人电脑业务 TechCrunch
+# 三星:我们不会收购惠普的个人电脑业务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/samsung-were-not-buying-hps-pc-business/>
 

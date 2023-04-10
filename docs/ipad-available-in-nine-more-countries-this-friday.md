@@ -1,4 +1,4 @@
-# 本周五，iPad 将在另外 9 个国家上市 TechCrunch
+# 本周五，iPad 将在另外 9 个国家上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/19/ipad-available-in-nine-more-countries-this-friday/>
 

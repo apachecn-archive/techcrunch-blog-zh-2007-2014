@@ -1,4 +1,4 @@
-# Little World Gifts 与世界自然基金会合作，基于位置的虚拟商品即将推出 TechCrunch
+# Little World Gifts 与世界自然基金会合作，基于位置的虚拟商品即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/01/little-world-gifts-parters-with-wwf-location-based-virtual-goods-up-next/>
 

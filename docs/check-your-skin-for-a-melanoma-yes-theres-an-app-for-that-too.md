@@ -1,4 +1,4 @@
-# 检查你的皮肤有没有黑色素瘤？是的，这也有一个应用程序 TechCrunch
+# 检查你的皮肤有没有黑色素瘤？是的，这也有一个应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/check-your-skin-for-a-melanoma-yes-theres-an-app-for-that-too/>
 

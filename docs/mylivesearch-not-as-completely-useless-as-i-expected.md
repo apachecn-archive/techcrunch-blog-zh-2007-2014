@@ -1,4 +1,4 @@
-# 我的 LiveSearch 并不像我想象的那样毫无用处——TechCrunch
+# 我的 LiveSearch 并不像我想象的那样毫无用处——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/mylivesearch-not-as-completely-useless-as-i-expected/>
 

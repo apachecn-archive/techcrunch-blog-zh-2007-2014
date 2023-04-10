@@ -1,4 +1,4 @@
-# Knewton 达成协议，为 Pearson 的数字教育课程提供支持 TechCrunch
+# Knewton 达成协议，为 Pearson 的数字教育课程提供支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/knewton-pearsons-digital-courses/>
 

@@ -1,4 +1,4 @@
-# YC 资助的 Debteye 想成为你的(便宜得多的)信用顾问 TechCrunch
+# YC 资助的 Debteye 想成为你的(便宜得多的)信用顾问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/26/yc-funded-debteye-wants-to-be-your-much-cheaper-credit-counselor/>
 

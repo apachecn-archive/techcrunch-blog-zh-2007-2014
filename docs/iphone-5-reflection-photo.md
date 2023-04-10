@@ -1,4 +1,4 @@
-# 变焦！增强！iPhone 5(或一艘帆船)可能会出现在照片中 TechCrunch
+# 变焦！增强！iPhone 5(或一艘帆船)可能会出现在照片中 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/iphone-5-reflection-photo/>
 

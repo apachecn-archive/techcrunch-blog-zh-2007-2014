@@ -1,4 +1,4 @@
-# Attn 企业家:如何参加 Disrupt Beijing for Less Cash TechCrunch
+# Attn 企业家:如何参加 Disrupt Beijing for Less Cash 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/attention-entrepreneurs-how-to-attend-disrupt-beijing-for-less-cash/>
 

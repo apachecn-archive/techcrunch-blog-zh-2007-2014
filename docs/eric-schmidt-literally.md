@@ -1,4 +1,4 @@
-# 视频:字面意思是埃里克·施密特，字面意思是 TechCrunch
+# 视频:字面意思是埃里克·施密特，字面意思是 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/31/eric-schmidt-literally/>
 

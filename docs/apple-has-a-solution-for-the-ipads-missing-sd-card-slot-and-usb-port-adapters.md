@@ -1,4 +1,4 @@
-# 苹果为 iPad 缺失的 SD 卡插槽和 USB 端口提供了一个解决方案:适配器 TechCrunch
+# 苹果为 iPad 缺失的 SD 卡插槽和 USB 端口提供了一个解决方案:适配器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/01/27/apple-has-a-solution-for-the-ipads-missing-sd-card-slot-and-usb-port-adapters/>
 

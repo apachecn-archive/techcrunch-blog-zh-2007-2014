@@ -1,4 +1,4 @@
-# 这是 Internet Explorer 9 吗？TechCrunch
+# 这是 Internet Explorer 9 吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/is-this-internet-explorer-9/>
 

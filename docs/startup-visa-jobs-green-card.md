@@ -1,4 +1,4 @@
-# 创业签证:创造就业，获得绿卡 TechCrunch
+# 创业签证:创造就业，获得绿卡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/24/startup-visa-jobs-green-card/>
 

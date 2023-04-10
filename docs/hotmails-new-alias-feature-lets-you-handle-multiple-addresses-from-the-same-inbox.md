@@ -1,4 +1,4 @@
-# Hotmail 的新别名功能让您可以从同一个收件箱处理多个地址 TechCrunch
+# Hotmail 的新别名功能让您可以从同一个收件箱处理多个地址 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/03/hotmails-new-alias-feature-lets-you-handle-multiple-addresses-from-the-same-inbox/>
 

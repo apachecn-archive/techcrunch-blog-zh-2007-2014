@@ -1,4 +1,4 @@
-# 苹果强调自助出版的作者，将 iBooks 作为可行的 Kindle 直接出版替代方案 TechCrunch
+# 苹果强调自助出版的作者，将 iBooks 作为可行的 Kindle 直接出版替代方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/05/apple-highlights-self-published-authors-frames-ibooks-as-a-viable-kindle-direct-publishing-alternative/>
 

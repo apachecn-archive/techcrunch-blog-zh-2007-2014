@@ -1,4 +1,4 @@
-# Appsfire 退出应用发现业务，专注于移动广告、原生广告 TechCrunch
+# Appsfire 退出应用发现业务，专注于移动广告、原生广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/13/appsfire-exits-the-app-discovery-business-to-focus-on-mobile-advertising-native-ads/>
 

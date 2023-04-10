@@ -1,4 +1,4 @@
-# LinkedIn 因违反 TOS 切断了对 BranchOut、Monster's BeKnown 和其他 API 的访问 TechCrunch
+# LinkedIn 因违反 TOS 切断了对 BranchOut、Monster's BeKnown 和其他 API 的访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/01/linkedin-cuts-off-api-access-to-branchout-monsters-beknown-and-others-for-tos-violations/>
 

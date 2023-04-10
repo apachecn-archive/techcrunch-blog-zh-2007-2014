@@ -1,4 +1,4 @@
-# Axcient 获得 1550 万美元，为中小型企业提供价格合理的备份和数据保护解决方案 TechCrunch
+# Axcient 获得 1550 万美元，为中小型企业提供价格合理的备份和数据保护解决方案 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/axcient-lands-15-5-million-for-affordable-backup-and-data-protection-solution-for-smbs/>
 

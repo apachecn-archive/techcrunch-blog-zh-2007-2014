@@ -1,4 +1,4 @@
-# 中国脸书克隆校内网融资 4.3 亿美元 TechCrunch
+# 中国脸书克隆校内网融资 4.3 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/04/30/chinese-facebook-clone-xiaonei-raises-a-staggering-430-million/>
 

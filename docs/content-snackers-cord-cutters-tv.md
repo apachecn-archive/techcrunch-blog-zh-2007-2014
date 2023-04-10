@@ -1,4 +1,4 @@
-# 内容偷吃者变成了断线钳；改变我们所知的电视世界 TechCrunch
+# 内容偷吃者变成了断线钳；改变我们所知的电视世界 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/21/content-snackers-cord-cutters-tv/>
 

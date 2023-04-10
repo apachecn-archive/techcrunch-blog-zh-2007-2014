@@ -1,4 +1,4 @@
-# 神圣科技蝙蝠侠！—欧盟委员会能成为创业超级英雄吗？TechCrunch
+# 神圣科技蝙蝠侠！—欧盟委员会能成为创业超级英雄吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/05/holy-tech-batman-can-the-european-commission-be-a-startup-super-hero/>
 

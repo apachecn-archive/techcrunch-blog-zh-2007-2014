@@ -1,4 +1,4 @@
-# 如果一个摩托罗拉安卓系统的标签泄露了，它就像其他的一样，这真的有关系吗？TechCrunch
+# 如果一个摩托罗拉安卓系统的标签泄露了，它就像其他的一样，这真的有关系吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/24/if-a-motorola-android-tab-leaks-and-its-just-like-the-rest-does-it-really-matter/>
 

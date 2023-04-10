@@ -1,4 +1,4 @@
-# BlackBerry Beta v 2.0 ticket master 现已面向 Beta Zone 成员推出 TechCrunch
+# BlackBerry Beta v 2.0 ticket master 现已面向 Beta Zone 成员推出 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/18/ticketmaster-for-blackberry-beta-v2-0-available-now-for-beta-zone-members/>
 

@@ -1,4 +1,4 @@
-# 劫持搜索:冲浪峡谷和管理 q 重新思考搜索体验 TechCrunch
+# 劫持搜索:冲浪峡谷和管理 q 重新思考搜索体验 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/19/hijacking-search-surf-canyon-and-managedq-rethink-the-search-experience/>
 

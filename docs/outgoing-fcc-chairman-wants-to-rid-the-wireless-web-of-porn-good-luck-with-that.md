@@ -1,4 +1,4 @@
-# 即将离任的 FCC 主席想要清除无线网络中的色情内容。祝你好运。TechCrunch
+# 即将离任的 FCC 主席想要清除无线网络中的色情内容。祝你好运。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/01/outgoing-fcc-chairman-wants-to-rid-the-wireless-web-of-porn-good-luck-with-that/>
 

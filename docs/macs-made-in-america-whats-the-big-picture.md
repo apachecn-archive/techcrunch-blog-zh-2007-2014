@@ -1,4 +1,4 @@
-# 美国制造的苹果机:大局是什么？TechCrunch
+# 美国制造的苹果机:大局是什么？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/06/macs-made-in-america-whats-the-big-picture/>
 

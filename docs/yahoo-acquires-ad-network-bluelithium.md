@@ -1,4 +1,4 @@
-# 雅虎！收购广告网络 blue lithium TechCrunch
+# 雅虎！收购广告网络 blue lithium 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/04/yahoo-acquires-ad-network-bluelithium/>
 

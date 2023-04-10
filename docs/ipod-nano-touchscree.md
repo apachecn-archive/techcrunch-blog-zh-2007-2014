@@ -1,4 +1,4 @@
-# 苹果缩小了 iPod Nano，但设法增加了触摸屏 TechCrunch
+# 苹果缩小了 iPod Nano，但设法增加了触摸屏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/ipod-nano-touchscree/>
 

@@ -1,4 +1,4 @@
-# Salesforce 将实时聊天、屏幕共享和群组添加到 Chatter 首次推出 HTML5 移动应用 TechCrunch
+# Salesforce 将实时聊天、屏幕共享和群组添加到 Chatter 首次推出 HTML5 移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/salesforce-adds-realtime-chat-screen-sharing-social-customer-groups-to-chatter-debuts-html5-mobile-app/>
 

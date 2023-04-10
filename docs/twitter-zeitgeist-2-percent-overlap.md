@@ -1,4 +1,4 @@
-# Twitter 不追踪时代精神。只有 2%的推文与搜索趋势重叠。TechCrunch
+# Twitter 不追踪时代精神。只有 2%的推文与搜索趋势重叠。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/29/twitter-zeitgeist-2-percent-overlap/>
 

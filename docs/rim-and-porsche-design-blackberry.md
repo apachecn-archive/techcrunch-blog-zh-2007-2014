@@ -1,4 +1,4 @@
-# RIM 和保时捷设计会在下周推出新的黑莓手机吗？(更新:已确认)TechCrunch
+# RIM 和保时捷设计会在下周推出新的黑莓手机吗？(更新:已确认)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/rim-and-porsche-design-blackberry/>
 

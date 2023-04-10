@@ -1,4 +1,4 @@
-# VeriFone 以超过 10 亿美元收购欧洲支付处理公司 Point TechCrunch
+# VeriFone 以超过 10 亿美元收购欧洲支付处理公司 Point 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/verifone-buys-european-payments-processing-company-point-for-820-million/>
 

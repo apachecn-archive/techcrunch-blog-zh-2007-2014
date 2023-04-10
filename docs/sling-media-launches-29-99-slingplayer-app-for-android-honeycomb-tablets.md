@@ -1,4 +1,4 @@
-# Sling Media 为 Android“蜂巢”平板电脑推出售价 29.99 美元的 SlingPlayer 应用程序 TechCrunch
+# Sling Media 为 Android“蜂巢”平板电脑推出售价 29.99 美元的 SlingPlayer 应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/11/sling-media-launches-29-99-slingplayer-app-for-android-honeycomb-tablets/>
 

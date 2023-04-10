@@ -1,4 +1,4 @@
-# Tumblr 与 DataSift 达成 Firehose 交易，进一步融入大型媒体广告领域 TechCrunch
+# Tumblr 与 DataSift 达成 Firehose 交易，进一步融入大型媒体广告领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/16/tumblr-inks-firehose-deal-with-datasift-to-tumble-further-into-the-world-of-big-media-advertising/>
 

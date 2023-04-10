@@ -1,4 +1,4 @@
-# 微软为 Xbox 360 发布新的蓝牙耳机和媒体遥控器 TechCrunch
+# 微软为 Xbox 360 发布新的蓝牙耳机和媒体遥控器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/26/microsoft-releases-new-bluetooth-headset-and-media-remote-for-xbox-360/>
 

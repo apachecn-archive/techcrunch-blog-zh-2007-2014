@@ -1,4 +1,4 @@
-# 为什么罗杰·伊伯特不喜欢电子游戏:他迷上了 TMNT TechCrunch
+# 为什么罗杰·伊伯特不喜欢电子游戏:他迷上了 TMNT 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/31/why-roger-ebert-doesnt-like-video-games-he-became-obsessed-with-tmnt/>
 

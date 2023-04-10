@@ -1,4 +1,4 @@
-# 卡拉卡尼斯解雇有生活的人 TechCrunch
+# 卡拉卡尼斯解雇有生活的人 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/07/calacanis-fires-people-who-have-a-life/>
 

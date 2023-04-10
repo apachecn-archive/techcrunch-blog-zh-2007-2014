@@ -1,4 +1,4 @@
-# 新的 iPhone 电视广告:手机在哪里？TechCrunch
+# 新的 iPhone 电视广告:手机在哪里？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/08/new-iphone-tv-ads-wheres-the-phone/>
 

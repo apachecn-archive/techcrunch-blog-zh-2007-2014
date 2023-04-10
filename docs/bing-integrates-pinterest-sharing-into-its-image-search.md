@@ -1,4 +1,4 @@
-# Bing 将 Pinterest 分享整合到其图片搜索中 TechCrunch
+# Bing 将 Pinterest 分享整合到其图片搜索中 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/12/bing-integrates-pinterest-sharing-into-its-image-search/>
 

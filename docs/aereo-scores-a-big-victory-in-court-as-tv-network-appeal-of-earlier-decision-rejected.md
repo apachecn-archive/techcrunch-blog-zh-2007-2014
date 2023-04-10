@@ -1,4 +1,4 @@
-# Aereo 在法庭上取得了重大胜利，因为电视网对早先裁决的上诉被驳回 TechCrunch
+# Aereo 在法庭上取得了重大胜利，因为电视网对早先裁决的上诉被驳回 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/04/01/aereo-scores-a-big-victory-in-court-as-tv-network-appeal-of-earlier-decision-rejected/>
 

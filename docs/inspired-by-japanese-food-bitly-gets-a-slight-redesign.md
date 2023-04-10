@@ -1,4 +1,4 @@
-# 受日本食物的启发，Bit.ly 进行了轻微的重新设计 TechCrunch
+# 受日本食物的启发，Bit.ly 进行了轻微的重新设计 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/20/inspired-by-japanese-food-bitly-gets-a-slight-redesign/>
 

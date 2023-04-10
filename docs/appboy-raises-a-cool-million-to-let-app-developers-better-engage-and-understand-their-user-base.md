@@ -1,4 +1,4 @@
-# AppBoy 筹集了 100 万美元，让应用开发者更好地参与和了解他们的用户群 TechCrunch
+# AppBoy 筹集了 100 万美元，让应用开发者更好地参与和了解他们的用户群 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/23/appboy-raises-a-cool-million-to-let-app-developers-better-engage-and-understand-their-user-base/>
 

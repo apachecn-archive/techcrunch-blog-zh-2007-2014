@@ -1,4 +1,4 @@
-# 谷歌的埃里克·施密特(Eric Schmidt)将冰淇淋三明治定于秋季中期发布 TechCrunch
+# 谷歌的埃里克·施密特(Eric Schmidt)将冰淇淋三明治定于秋季中期发布 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/googles-eric-schmidt-pegs-ice-cream-sandwich-for-mid-fall-release/>
 

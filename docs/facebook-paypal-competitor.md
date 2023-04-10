@@ -1,4 +1,4 @@
-# 更新:脸书测试自动填写移动电子商务支付账单信息的选项 TechCrunch
+# 更新:脸书测试自动填写移动电子商务支付账单信息的选项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/facebook-paypal-competitor/>
 

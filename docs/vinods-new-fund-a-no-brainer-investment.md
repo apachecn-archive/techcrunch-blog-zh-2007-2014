@@ -1,4 +1,4 @@
-# Vinod 的新基金:无需动脑的投资 TechCrunch
+# Vinod 的新基金:无需动脑的投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/vinods-new-fund-a-no-brainer-investment/>
 

@@ -1,4 +1,4 @@
-# HTML5 移动应用框架 PhoneGap 添加脸书连接插件 TechCrunch
+# HTML5 移动应用框架 PhoneGap 添加脸书连接插件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/html5-mobile-app-framework-phonegap-adds-facebook-connect-plugin/>
 

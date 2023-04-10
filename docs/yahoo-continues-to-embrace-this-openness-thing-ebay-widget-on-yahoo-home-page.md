@@ -1,4 +1,4 @@
-# 雅虎继续拥抱这种开放性。雅虎主页上的 ebay Widget TechCrunch
+# 雅虎继续拥抱这种开放性。雅虎主页上的 ebay Widget 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/20/yahoo-continues-to-embrace-this-openness-thing-ebay-widget-on-yahoo-home-page/>
 

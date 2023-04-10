@@ -1,4 +1,4 @@
-# 哦，太棒了！啪！松下疯了！TechCrunch
+# 哦，太棒了！啪！松下疯了！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/oh-snap-d-snap-panasonic-snap-madness/>
 

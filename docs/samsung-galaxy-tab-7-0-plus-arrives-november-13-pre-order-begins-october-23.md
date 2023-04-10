@@ -1,4 +1,4 @@
-# 三星 Galaxy Tab 7.0 Plus 将于 11 月 13 日上市，10 月 23 日开始预购 TechCrunch
+# 三星 Galaxy Tab 7.0 Plus 将于 11 月 13 日上市，10 月 23 日开始预购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/samsung-galaxy-tab-7-0-plus-arrives-november-13-pre-order-begins-october-23/>
 

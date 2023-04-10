@@ -1,4 +1,4 @@
-# 苹果 App Store 与诺基亚 Ovi Store——快速而肮脏的比较 TechCrunch
+# 苹果 App Store 与诺基亚 Ovi Store——快速而肮脏的比较 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/06/27/a-quick-and-dirty-comparison-apple-app-store-vs-nokia-ovi-store/>
 

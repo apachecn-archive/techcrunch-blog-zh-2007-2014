@@ -1,4 +1,4 @@
-# 黑莓服务恢复，RIM 联合首席执行官现场提问 TechCrunch
+# 黑莓服务恢复，RIM 联合首席执行官现场提问 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/blackberry-service-is-restored-as-rim-co-ceos-field-questions/>
 

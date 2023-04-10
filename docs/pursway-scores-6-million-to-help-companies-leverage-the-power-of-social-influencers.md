@@ -1,4 +1,4 @@
-# Pursway 获得 600 万美元，帮助公司利用社交影响力 TechCrunch
+# Pursway 获得 600 万美元，帮助公司利用社交影响力 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/pursway-scores-6-million-to-help-companies-leverage-the-power-of-social-influencers/>
 

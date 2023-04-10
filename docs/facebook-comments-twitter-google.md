@@ -1,4 +1,4 @@
-# 有了脸书的评论，Twitter 和谷歌的登录就消失了 TechCrunch
+# 有了脸书的评论，Twitter 和谷歌的登录就消失了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/01/facebook-comments-twitter-google/>
 

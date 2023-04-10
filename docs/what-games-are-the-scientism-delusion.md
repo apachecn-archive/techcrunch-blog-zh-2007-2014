@@ -1,4 +1,4 @@
-# 什么是游戏:科学主义错觉 TechCrunch
+# 什么是游戏:科学主义错觉 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/28/what-games-are-the-scientism-delusion/>
 

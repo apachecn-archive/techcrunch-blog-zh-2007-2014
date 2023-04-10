@@ -1,4 +1,4 @@
-# OpenX Market 作为替代在线广告市场开业 TechCrunch
+# OpenX Market 作为替代在线广告市场开业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/16/openx-market-opens-for-business-as-an-alternative-online-advertising-marketplace/>
 

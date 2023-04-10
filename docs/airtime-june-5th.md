@@ -1,4 +1,4 @@
-# 肖恩·帕克隐形视频初创公司 Airtime 准备在 6 月 5 日的新闻发布会上发布 TechCrunch
+# 肖恩·帕克隐形视频初创公司 Airtime 准备在 6 月 5 日的新闻发布会上发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/08/airtime-june-5th/>
 

@@ -1,4 +1,4 @@
-# Weathermob 获得资金，使分享天气报告更加社会化 TechCrunch
+# Weathermob 获得资金，使分享天气报告更加社会化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/29/weathermob-nabs-funding-to-make-sharing-weather-reports-more-socia/>
 

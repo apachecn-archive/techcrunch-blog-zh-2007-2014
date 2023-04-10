@@ -1,4 +1,4 @@
-# Gibbon 推出了一种不同的教育创业公司，为所有人提供用户生成的学习播放列表 TechCrunch
+# Gibbon 推出了一种不同的教育创业公司，为所有人提供用户生成的学习播放列表 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/10/gibbon-learning-playlists/>
 

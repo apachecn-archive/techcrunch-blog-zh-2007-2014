@@ -1,4 +1,4 @@
-# MySpacers 会喜欢这个 AddHer Widget TechCrunch
+# MySpacers 会喜欢这个 AddHer Widget 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/13/myspacers-will-love-this-addher-widget-thingy/>
 

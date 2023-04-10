@@ -1,4 +1,4 @@
-# 苹果与奥利奥和 Capri Sun 一起成为最受欢迎的年轻人品牌 TechCrunch
+# 苹果与奥利奥和 Capri Sun 一起成为最受欢迎的年轻人品牌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/apple-joins-oreos-and-capri-sun-as-most-popular-youth-brand/>
 

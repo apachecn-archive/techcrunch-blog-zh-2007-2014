@@ -1,4 +1,4 @@
-# 实时处理:地理流的兴起 TechCrunch
+# 实时处理:地理流的兴起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/20/realtime-crunchup-the-rise-of-geo-streams/>
 

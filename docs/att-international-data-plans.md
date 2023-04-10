@@ -1,4 +1,4 @@
-# 美国电话电报公司改进了国际数据计划，但费用仍然非常高 TechCrunch
+# 美国电话电报公司改进了国际数据计划，但费用仍然非常高 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/att-international-data-plans/>
 

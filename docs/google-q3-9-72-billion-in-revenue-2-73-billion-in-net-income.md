@@ -1,4 +1,4 @@
-# 谷歌 2011 年第三季度:收入 97.2 亿美元，净收入 27.3 亿美元 TechCrunch
+# 谷歌 2011 年第三季度:收入 97.2 亿美元，净收入 27.3 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/google-q3-9-72-billion-in-revenue-2-73-billion-in-net-income/>
 

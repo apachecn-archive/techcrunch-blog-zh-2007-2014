@@ -1,4 +1,4 @@
-# Kindle 销量增速超过 Nook 的 TechCrunch
+# Kindle 销量增速超过 Nook 的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/28/kindle-vs-nook-sales/>
 

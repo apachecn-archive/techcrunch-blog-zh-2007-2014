@@ -1,4 +1,4 @@
-# 京瓷 KR2 路由器现已发货 TechCrunch
+# 京瓷 KR2 路由器现已发货 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/18/kyocera-kr2-router-now-shipping/>
 

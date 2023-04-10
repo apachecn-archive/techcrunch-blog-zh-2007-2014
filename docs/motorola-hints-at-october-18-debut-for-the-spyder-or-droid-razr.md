@@ -1,4 +1,4 @@
-# 摩托罗拉暗示 Spyder(或 Droid RAZR)将于 10 月 18 日亮相 TechCrunch
+# 摩托罗拉暗示 Spyder(或 Droid RAZR)将于 10 月 18 日亮相 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/motorola-hints-at-october-18-debut-for-the-spyder-or-droid-razr/>
 

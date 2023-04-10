@@ -1,4 +1,4 @@
-# Sprint CEO: iPhone 数据效率是持续无限数据的关键 TechCrunch
+# Sprint CEO: iPhone 数据效率是持续无限数据的关键 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/sprint-ceo-iphone-data-efficiency-is-the-key-to-continued-unlimited-data/>
 

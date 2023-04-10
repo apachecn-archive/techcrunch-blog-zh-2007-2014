@@ -1,4 +1,4 @@
-# Flickr 意外删除账户:五年时间和 4000 张照片付之东流 TechCrunch
+# Flickr 意外删除账户:五年时间和 4000 张照片付之东流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/02/flickr-accidentally-wipes-out-account-five-years-and-4000-photos-down-the-drain/>
 

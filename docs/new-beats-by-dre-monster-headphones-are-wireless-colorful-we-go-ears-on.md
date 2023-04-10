@@ -1,4 +1,4 @@
-# 新 Beats By Dre Monster 耳机是无线的，丰富多彩的:我们竖起耳朵 TechCrunch
+# 新 Beats By Dre Monster 耳机是无线的，丰富多彩的:我们竖起耳朵 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/new-beats-by-dre-monster-headphones-are-wireless-colorful-we-go-ears-on/>
 

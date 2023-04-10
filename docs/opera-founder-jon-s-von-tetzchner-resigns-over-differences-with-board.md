@@ -1,4 +1,4 @@
-# Opera 创始人 Jon S. von Tetzchner 因与董事会意见不合而辞职 TechCrunch
+# Opera 创始人 Jon S. von Tetzchner 因与董事会意见不合而辞职 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/24/opera-founder-jon-s-von-tetzchner-resigns-over-differences-with-board/>
 

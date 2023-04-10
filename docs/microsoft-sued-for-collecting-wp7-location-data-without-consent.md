@@ -1,4 +1,4 @@
-# 微软起诉未经许可收集 WP7 位置数据 TechCrunch
+# 微软起诉未经许可收集 WP7 位置数据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/microsoft-sued-for-collecting-wp7-location-data-without-consent/>
 

@@ -1,4 +1,4 @@
-# 报告:TDK 技术将硬盘容量提高了一倍多 TechCrunch
+# 报告:TDK 技术将硬盘容量提高了一倍多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/report-tdk-technology-more-than-doubles-capacity-of-hdds/>
 

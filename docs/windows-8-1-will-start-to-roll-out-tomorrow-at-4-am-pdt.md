@@ -1,4 +1,4 @@
-# Windows 8.1 将于太平洋时间明天凌晨 4 点开始推出 TechCrunch
+# Windows 8.1 将于太平洋时间明天凌晨 4 点开始推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/16/windows-8-1-will-start-to-roll-out-tomorrow-at-4-am-pdt/>
 

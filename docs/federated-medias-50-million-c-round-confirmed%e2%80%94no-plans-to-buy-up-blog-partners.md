@@ -1,4 +1,4 @@
-# 联合媒体的 5000 万美元 C 轮融资已确认——没有收购博客合作伙伴的计划 TechCrunch
+# 联合媒体的 5000 万美元 C 轮融资已确认——没有收购博客合作伙伴的计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/15/federated-medias-50-million-c-round-confirmed%e2%80%94no-plans-to-buy-up-blog-partners/>
 

@@ -1,4 +1,4 @@
-# Mobeam 为基于光的通信技术筹集了 490 万美元 TechCrunch
+# Mobeam 为基于光的通信技术筹集了 490 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/mobeam-raises-4-9m-for-light-based-communications-technology/>
 

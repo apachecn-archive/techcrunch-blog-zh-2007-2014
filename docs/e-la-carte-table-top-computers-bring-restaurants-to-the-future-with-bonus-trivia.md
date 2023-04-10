@@ -1,4 +1,4 @@
-# 点菜:桌面电脑将餐厅带向未来(附带花絮！)TechCrunch
+# 点菜:桌面电脑将餐厅带向未来(附带花絮！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/19/e-la-carte-table-top-computers-bring-restaurants-to-the-future-with-bonus-trivia/>
 

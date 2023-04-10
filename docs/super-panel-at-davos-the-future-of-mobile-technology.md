@@ -1,4 +1,4 @@
-# 达沃斯超级小组:移动技术的未来 TechCrunch
+# 达沃斯超级小组:移动技术的未来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/25/super-panel-at-davos-the-future-of-mobile-technology/>
 

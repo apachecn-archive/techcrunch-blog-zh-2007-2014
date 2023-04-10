@@ -1,4 +1,4 @@
-# 看看这个家伙 TechCrunch
+# 看看这个家伙 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/check-this-guy-out/>
 

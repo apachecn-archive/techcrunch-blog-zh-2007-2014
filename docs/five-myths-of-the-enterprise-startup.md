@@ -1,4 +1,4 @@
-# 企业初创公司的五大神话 TechCrunch
+# 企业初创公司的五大神话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/01/five-myths-of-the-enterprise-startup/>
 

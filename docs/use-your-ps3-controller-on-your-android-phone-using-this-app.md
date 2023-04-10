@@ -1,4 +1,4 @@
-# 使用此应用程序在 Android 手机上使用 PS3 控制器 TechCrunch
+# 使用此应用程序在 Android 手机上使用 PS3 控制器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/use-your-ps3-controller-on-your-android-phone-using-this-app/>
 

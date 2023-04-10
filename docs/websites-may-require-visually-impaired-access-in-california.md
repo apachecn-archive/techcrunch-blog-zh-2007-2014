@@ -1,4 +1,4 @@
-# 加州的网站可能需要视障人士访问 TechCrunch
+# 加州的网站可能需要视障人士访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/13/websites-may-require-visually-impaired-access-in-california/>
 

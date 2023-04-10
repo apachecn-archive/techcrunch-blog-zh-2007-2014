@@ -1,4 +1,4 @@
-# 这不是 Scoble 的错，是算法的 TechCrunch
+# 这不是 Scoble 的错，是算法的 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/google-algorithm-scoble/>
 

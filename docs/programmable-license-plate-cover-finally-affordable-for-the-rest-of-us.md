@@ -1,4 +1,4 @@
-# 可编程牌照架终于让我们其他人买得起了 TechCrunch
+# 可编程牌照架终于让我们其他人买得起了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/24/programmable-license-plate-cover-finally-affordable-for-the-rest-of-us/>
 

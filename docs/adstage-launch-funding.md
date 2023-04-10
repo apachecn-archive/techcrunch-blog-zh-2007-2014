@@ -1,4 +1,4 @@
-# AdStage 推出跨网络广告创建器，融资 140 万美元 TechCrunch
+# AdStage 推出跨网络广告创建器，融资 140 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/05/adstage-launch-funding/>
 

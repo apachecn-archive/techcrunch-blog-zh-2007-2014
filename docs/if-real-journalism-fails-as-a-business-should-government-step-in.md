@@ -1,4 +1,4 @@
-# 如果“真正的新闻业”作为一门生意失败了，政府应该介入吗？TechCrunch
+# 如果“真正的新闻业”作为一门生意失败了，政府应该介入吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/24/if-real-journalism-fails-as-a-business-should-government-step-in/>
 

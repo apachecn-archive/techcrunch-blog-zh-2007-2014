@@ -1,4 +1,4 @@
-# 轰鸣！BlueDrone 是一辆遥控汽车，你可以用安卓手机驾驶它 TechCrunch
+# 轰鸣！BlueDrone 是一辆遥控汽车，你可以用安卓手机驾驶它 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/android-bluedrone-remote-control-rc-car/>
 

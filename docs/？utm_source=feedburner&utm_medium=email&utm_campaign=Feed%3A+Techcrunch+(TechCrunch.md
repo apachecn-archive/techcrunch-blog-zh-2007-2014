@@ -1,4 +1,4 @@
-# 连接的过去、现在和未来:必看的迷你电影 TechCrunch
+# 连接的过去、现在和未来:必看的迷你电影 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/the-past-present-and-future-of-connectivity-a-must-see-mini-film/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+Techcrunch+(TechCrunch>)
 

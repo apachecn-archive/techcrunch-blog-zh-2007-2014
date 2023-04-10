@@ -1,4 +1,4 @@
-# 在线支付平台 Braintree 每天处理 800 万美元 TechCrunch
+# 在线支付平台 Braintree 每天处理 800 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/online-payments-platform-braintree-processing-8-million-per-day/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=mobile+startups>
 

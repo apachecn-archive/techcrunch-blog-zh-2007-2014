@@ -1,4 +1,4 @@
-# StrongLoop 为基于 Node.js 的移动应用平台筹集了 800 万美元 TechCrunch
+# StrongLoop 为基于 Node.js 的移动应用平台筹集了 800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/strongloop-raises-8m-for-mobile-app-platform-built-on-node-js/>
 

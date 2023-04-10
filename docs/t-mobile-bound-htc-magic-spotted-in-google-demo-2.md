@@ -1,4 +1,4 @@
-# T-Mobile 绑定的 HTC Magic 在谷歌演示中发现？TechCrunch
+# T-Mobile 绑定的 HTC Magic 在谷歌演示中发现？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/20/t-mobile-bound-htc-magic-spotted-in-google-demo-2/>
 

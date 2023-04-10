@@ -1,4 +1,4 @@
-# 匿名向奥兰多市宣战 TechCrunch
+# 匿名向奥兰多市宣战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/anonymous-declares-war-orlando/>
 

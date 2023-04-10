@@ -1,4 +1,4 @@
-# 三星 Omnia 拆箱病毒式传播 TechCrunch
+# 三星 Omnia 拆箱病毒式传播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/19/samsung-omnia-unboxing-goes-viral/>
 

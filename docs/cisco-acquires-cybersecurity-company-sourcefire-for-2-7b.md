@@ -1,4 +1,4 @@
-# 思科以 27 亿美元收购网络安全公司 source fire TechCrunch
+# 思科以 27 亿美元收购网络安全公司 source fire 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/cisco-acquires-cybersecurity-company-sourcefire-for-2-7b/>
 

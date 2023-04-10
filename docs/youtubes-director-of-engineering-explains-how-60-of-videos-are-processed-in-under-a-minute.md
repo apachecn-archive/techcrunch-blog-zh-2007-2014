@@ -1,4 +1,4 @@
-# YouTube 的工程总监解释了如何在不到一分钟的时间内处理 60%的视频 TechCrunch
+# YouTube 的工程总监解释了如何在不到一分钟的时间内处理 60%的视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/youtubes-director-of-engineering-explains-how-60-of-videos-are-processed-in-under-a-minute/>
 

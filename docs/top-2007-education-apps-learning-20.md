@@ -1,4 +1,4 @@
-# 2007 年热门教育应用:学习 2.0 TechCrunch
+# 2007 年热门教育应用:学习 2.0 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/23/top-2007-education-apps-learning-20/>
 

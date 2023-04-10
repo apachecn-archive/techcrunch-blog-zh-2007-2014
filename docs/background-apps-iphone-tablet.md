@@ -1,4 +1,4 @@
-# 下周的苹果活动最终会给 iPhone 带来后台应用吗？TechCrunch
+# 下周的苹果活动最终会给 iPhone 带来后台应用吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/19/background-apps-iphone-tablet/>
 

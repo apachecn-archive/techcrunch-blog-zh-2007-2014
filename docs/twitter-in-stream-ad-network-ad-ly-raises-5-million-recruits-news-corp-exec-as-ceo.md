@@ -1,4 +1,4 @@
-# Twitter 流媒体广告网络 Ad.ly 筹集 500 万美元，招聘新闻集团高管担任首席执行官 TechCrunch
+# Twitter 流媒体广告网络 Ad.ly 筹集 500 万美元，招聘新闻集团高管担任首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/11/twitter-in-stream-ad-network-ad-ly-raises-5-million-recruits-news-corp-exec-as-ceo/>
 

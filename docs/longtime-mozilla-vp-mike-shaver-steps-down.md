@@ -1,4 +1,4 @@
-# Mozilla 资深副总裁 Mike Shaver 离职 TechCrunch
+# Mozilla 资深副总裁 Mike Shaver 离职 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/longtime-mozilla-vp-mike-shaver-steps-down/>
 

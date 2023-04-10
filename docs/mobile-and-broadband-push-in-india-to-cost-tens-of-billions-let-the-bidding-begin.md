@@ -1,4 +1,4 @@
-# 移动和宽带在印度的推广耗资“数百亿”——让竞标开始吧 TechCrunch
+# 移动和宽带在印度的推广耗资“数百亿”——让竞标开始吧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/mobile-and-broadband-push-in-india-to-cost-tens-of-billions-let-the-bidding-begin/>
 

@@ -1,4 +1,4 @@
-# 视频:四条腿的动物机器人 PIGORASS 自己跳跃、飞奔 TechCrunch
+# 视频:四条腿的动物机器人 PIGORASS 自己跳跃、飞奔 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/video-four-legged-animal-robot-pigorass-jumps-gallops-by-itself/>
 

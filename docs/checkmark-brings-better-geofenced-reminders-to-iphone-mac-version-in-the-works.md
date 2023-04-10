@@ -1,4 +1,4 @@
-# Checkmark 为正在开发的 iPhone、Mac 版本带来更好的地理围栏提醒 TechCrunch
+# Checkmark 为正在开发的 iPhone、Mac 版本带来更好的地理围栏提醒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/checkmark-brings-better-geofenced-reminders-to-iphone-mac-version-in-the-works/>
 

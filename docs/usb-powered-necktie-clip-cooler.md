@@ -1,4 +1,4 @@
-# USB 供电的领带夹冷却器 TechCrunch
+# USB 供电的领带夹冷却器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/usb-powered-necktie-clip-cooler/>
 

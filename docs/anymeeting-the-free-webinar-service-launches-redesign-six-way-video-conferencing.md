@@ -1,4 +1,4 @@
-# 免费网络研讨会服务 AnyMeeting 推出重新设计的六路视频会议 TechCrunch
+# 免费网络研讨会服务 AnyMeeting 推出重新设计的六路视频会议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/anymeeting-the-free-webinar-service-launches-redesign-six-way-video-conferencing/>
 

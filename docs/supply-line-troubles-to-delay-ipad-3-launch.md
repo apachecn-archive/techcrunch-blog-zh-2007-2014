@@ -1,4 +1,4 @@
-# 供应线问题导致 iPad 3 推迟上市？TechCrunch
+# 供应线问题导致 iPad 3 推迟上市？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/supply-line-troubles-to-delay-ipad-3-launch/>
 

@@ -1,4 +1,4 @@
-# iOS 7 通过阻止来自特定号码的电话和短信的选项来打击手机垃圾邮件 TechCrunch
+# iOS 7 通过阻止来自特定号码的电话和短信的选项来打击手机垃圾邮件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/10/ios-call-blocking/>
 

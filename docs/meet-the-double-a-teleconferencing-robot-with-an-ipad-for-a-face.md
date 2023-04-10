@@ -1,4 +1,4 @@
-# 来见见替身吧，这是一个 YC 支持的电话会议机器人，用 iPad 做鬼脸 TechCrunch
+# 来见见替身吧，这是一个 YC 支持的电话会议机器人，用 iPad 做鬼脸 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/13/meet-the-double-a-teleconferencing-robot-with-an-ipad-for-a-face/>
 

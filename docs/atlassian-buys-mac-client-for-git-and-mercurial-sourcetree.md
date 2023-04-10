@@ -1,4 +1,4 @@
-# Atlassian 为 Git 和 Mercurial SourceTree 购买 Mac 客户端 TechCrunch
+# Atlassian 为 Git 和 Mercurial SourceTree 购买 Mac 客户端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/06/atlassian-buys-mac-client-for-git-and-mercurial-sourcetree/>
 

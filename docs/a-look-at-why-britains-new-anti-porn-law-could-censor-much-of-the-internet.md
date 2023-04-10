@@ -1,4 +1,4 @@
-# 英国新的高度审查互联网可能会屏蔽的 12 个无害话题 TechCrunch
+# 英国新的高度审查互联网可能会屏蔽的 12 个无害话题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/a-look-at-why-britains-new-anti-porn-law-could-censor-much-of-the-internet/>
 

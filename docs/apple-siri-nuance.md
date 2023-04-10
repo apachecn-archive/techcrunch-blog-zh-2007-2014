@@ -1,4 +1,4 @@
-# Siri 你用 Nuance 技术吗？Siri:对不起，我无法回答这个问题。TechCrunch
+# Siri 你用 Nuance 技术吗？Siri:对不起，我无法回答这个问题。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/05/apple-siri-nuance/>
 

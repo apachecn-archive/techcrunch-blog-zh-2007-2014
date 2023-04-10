@@ -1,4 +1,4 @@
-# 网飞发布修改后的订户估计，股价暴跌 TechCrunch
+# 网飞发布修改后的订户估计，股价暴跌 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/netflix-releases-revised-subscriber-estimate-stock-takes-a-nosedive/>
 

@@ -1,4 +1,4 @@
-# Samba 提供了一个新的视频消息应用程序，可以记录你朋友的反应 TechCrunch
+# Samba 提供了一个新的视频消息应用程序，可以记录你朋友的反应 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/samba-offers-a-new-video-messaging-app-that-records-your-friends-reactions/>
 

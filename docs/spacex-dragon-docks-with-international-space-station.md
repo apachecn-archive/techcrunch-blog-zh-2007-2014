@@ -1,4 +1,4 @@
-# 国际空间站成功抓取 SpaceX 的龙太空舱(更新:停泊完成！)TechCrunch
+# 国际空间站成功抓取 SpaceX 的龙太空舱(更新:停泊完成！)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/05/25/spacex-dragon-docks-with-international-space-station/>
 

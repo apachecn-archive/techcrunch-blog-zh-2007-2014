@@ -1,4 +1,4 @@
-# 在出版商的诉讼中，unlimited 推出了免费、开放的教科书替代品 TechCrunch
+# 在出版商的诉讼中，unlimited 推出了免费、开放的教科书替代品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/08/boundless-public-launch/>
 

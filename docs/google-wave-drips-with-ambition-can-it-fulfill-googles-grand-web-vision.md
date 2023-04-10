@@ -1,4 +1,4 @@
-# 谷歌浪潮雄心勃勃。新网络的新交流平台。TechCrunch
+# 谷歌浪潮雄心勃勃。新网络的新交流平台。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/28/google-wave-drips-with-ambition-can-it-fulfill-googles-grand-web-vision/>
 

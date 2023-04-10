@@ -1,4 +1,4 @@
-# 里德，别听华尔街的。TechCrunch
+# 里德，别听华尔街的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/18/netflix-wall-street/>
 

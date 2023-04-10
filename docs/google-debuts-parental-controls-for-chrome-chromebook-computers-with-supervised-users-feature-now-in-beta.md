@@ -1,4 +1,4 @@
-# 谷歌首次推出针对 Chrome 和 Chromebook 电脑的家长控制，带有“监督用户”功能，目前处于测试阶段 TechCrunch
+# 谷歌首次推出针对 Chrome 和 Chromebook 电脑的家长控制，带有“监督用户”功能，目前处于测试阶段 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/22/google-debuts-parental-controls-for-chrome-chromebook-computers-with-supervised-users-feature-now-in-beta/>
 

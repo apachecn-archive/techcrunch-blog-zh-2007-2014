@@ -1,4 +1,4 @@
-# 《大英百科全书》现对博客免费 TechCrunch
+# 《大英百科全书》现对博客免费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/18/encyclopedia-britannica-now-free-for-bloggers/>
 

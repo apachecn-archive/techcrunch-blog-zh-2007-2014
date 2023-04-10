@@ -1,4 +1,4 @@
-# Thoora 向公众发布智能内容发现引擎 TechCrunch
+# Thoora 向公众发布智能内容发现引擎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/thoora-releases-intelligent-content-discovery-engine-to-the-public/>
 

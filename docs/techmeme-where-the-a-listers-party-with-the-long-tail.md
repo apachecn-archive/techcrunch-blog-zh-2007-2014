@@ -1,4 +1,4 @@
-# Techmeme:一线明星的长尾派对。TechCrunch
+# Techmeme:一线明星的长尾派对。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/05/techmeme-where-the-a-listers-party-with-the-long-tail/>
 

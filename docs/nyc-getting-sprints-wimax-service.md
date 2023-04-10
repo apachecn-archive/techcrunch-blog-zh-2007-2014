@@ -1,4 +1,4 @@
-# 纽约获得 Sprint 的 WiMax 服务 TechCrunch
+# 纽约获得 Sprint 的 WiMax 服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/nyc-getting-sprints-wimax-service/>
 

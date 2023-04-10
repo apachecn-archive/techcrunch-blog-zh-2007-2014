@@ -1,4 +1,4 @@
-# 发现与谷歌的合作伙伴，让将信用卡添加到谷歌钱包变得更容易 TechCrunch
+# 发现与谷歌的合作伙伴，让将信用卡添加到谷歌钱包变得更容易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/discover-google-wallet-api/>
 

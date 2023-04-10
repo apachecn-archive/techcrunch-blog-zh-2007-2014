@@ -1,4 +1,4 @@
-# Hulu 现在生活在日本，只提供订阅服务 TechCrunch
+# Hulu 现在生活在日本，只提供订阅服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/hulu-japan-subscription-only/>
 

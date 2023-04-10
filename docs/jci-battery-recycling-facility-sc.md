@@ -1,4 +1,4 @@
-# 汽车电池制造商江森自控在南卡罗来纳州建造 1.5 亿美元的回收工厂 TechCrunch
+# 汽车电池制造商江森自控在南卡罗来纳州建造 1.5 亿美元的回收工厂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/jci-battery-recycling-facility-sc/>
 

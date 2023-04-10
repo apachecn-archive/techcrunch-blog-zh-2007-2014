@@ -1,4 +1,4 @@
-# 猜猜谁在 Brash 100 上？TechCrunch
+# 猜猜谁在 Brash 100 上？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/20/guess-whos-on-the-brash-100/>
 

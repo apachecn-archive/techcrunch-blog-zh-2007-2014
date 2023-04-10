@@ -1,4 +1,4 @@
-# 宏碁发布配有 1920x1200 屏幕的新 Tegra 3 平板电脑 TechCrunch
+# 宏碁发布配有 1920x1200 屏幕的新 Tegra 3 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/acer-lets-slip-new-tegra-3-tablet-with-1920x1200-screen/>
 

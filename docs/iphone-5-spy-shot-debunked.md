@@ -1,4 +1,4 @@
-# 又一个可疑的 iPhone 5“谍照”出现了 TechCrunch
+# 又一个可疑的 iPhone 5“谍照”出现了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/iphone-5-spy-shot-debunked/>
 

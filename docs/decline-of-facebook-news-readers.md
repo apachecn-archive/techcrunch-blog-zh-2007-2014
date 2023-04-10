@@ -1,4 +1,4 @@
-# 阅读器应用的下降可能是由于新闻提要的变化，表明脸书控制了流量龙头 TechCrunch
+# 阅读器应用的下降可能是由于新闻提要的变化，表明脸书控制了流量龙头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/07/decline-of-facebook-news-readers/>
 

@@ -1,4 +1,4 @@
-# 谷歌的双因素认证现已在 150 个国家和 40 种语言中使用 TechCrunch
+# 谷歌的双因素认证现已在 150 个国家和 40 种语言中使用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/googles-two-factor-authentication-now-live-in-150-countries-and-40-languages/>
 

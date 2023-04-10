@@ -1,4 +1,4 @@
-# 纳米技术电动马达由单分子制成 TechCrunch
+# 纳米技术电动马达由单分子制成 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/nanotech-electrical-motor-is-made-from-a-single-molecule/>
 

@@ -1,4 +1,4 @@
-# 图钉推出 SimpleUPC:产品信息即服务 TechCrunch
+# 图钉推出 SimpleUPC:产品信息即服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/pushpins-launches-simpleupc-product-information-as-a-service/>
 

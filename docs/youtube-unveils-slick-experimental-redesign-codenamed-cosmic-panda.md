@@ -1,4 +1,4 @@
-# YouTube 公布了巧妙的实验性重新设计，代号宇宙熊猫 TechCrunch
+# YouTube 公布了巧妙的实验性重新设计，代号宇宙熊猫 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/youtube-unveils-slick-experimental-redesign-codenamed-cosmic-panda/>
 

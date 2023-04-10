@@ -1,4 +1,4 @@
-# 第二代 iPod Touch 是苹果游戏家族中“迄今”最快的产品 TechCrunch
+# 第二代 iPod Touch 是苹果游戏家族中“迄今”最快的产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/23/2g-ipod-touch-fastest-by-far-of-the-apple-family-for-games/>
 

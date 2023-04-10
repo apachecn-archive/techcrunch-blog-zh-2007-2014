@@ -1,4 +1,4 @@
-# Coda Automotive 公司让通用电气公司与 Coda 轿车一起销售充电器 TechCrunch
+# Coda Automotive 公司让通用电气公司与 Coda 轿车一起销售充电器 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/coda-automotive-taps-ge-to-sell-chargers-alongside-the-coda-sedan/>
 

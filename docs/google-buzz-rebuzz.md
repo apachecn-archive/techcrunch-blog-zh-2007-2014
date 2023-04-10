@@ -1,4 +1,4 @@
-# Google Buzz 增加了 Rebuzz 功能——但不要这样称呼它，那很蹩脚 TechCrunch
+# Google Buzz 增加了 Rebuzz 功能——但不要这样称呼它，那很蹩脚 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/27/google-buzz-rebuzz/>
 

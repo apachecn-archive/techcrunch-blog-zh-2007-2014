@@ -1,4 +1,4 @@
-# 解放后:埃及 2.0 TechCrunch
+# 解放后:埃及 2.0 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/17/after-tahrir-egypt-2-0/>
 

@@ -1,4 +1,4 @@
-# Airbnb For Bikes 的初创公司 Spinlister 从死亡池归来，现在有了新的管理层 TechCrunch
+# Airbnb For Bikes 的初创公司 Spinlister 从死亡池归来，现在有了新的管理层 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/19/spinlister-back-from-the-dead/>
 

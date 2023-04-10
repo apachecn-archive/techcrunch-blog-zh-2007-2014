@@ -1,4 +1,4 @@
-# 食谱搜索和分享服务 Foodily 登陆 iPhone TechCrunch
+# 食谱搜索和分享服务 Foodily 登陆 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/recipe-search-sharing-service-foodily-arrives-on-iphone/>
 

@@ -1,4 +1,4 @@
-# 谷歌开始使用计算机视觉让你搜索 Google+照片 TechCrunch
+# 谷歌开始使用计算机视觉让你搜索 Google+照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/23/google-starts-using-computer-vision-to-let-you-search-your-google-photos/>
 

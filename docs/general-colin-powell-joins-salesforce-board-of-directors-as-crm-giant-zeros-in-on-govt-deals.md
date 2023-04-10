@@ -1,4 +1,4 @@
-# Colin Powell 将军加入 Salesforce 董事会，CRM 巨头进军公共部门 TechCrunch
+# Colin Powell 将军加入 Salesforce 董事会，CRM 巨头进军公共部门 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/14/general-colin-powell-joins-salesforce-board-of-directors-as-crm-giant-zeros-in-on-govt-deals/>
 

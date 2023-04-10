@@ -1,4 +1,4 @@
-# 黑莓将在年底裁员 40% TechCrunch
+# 黑莓将在年底裁员 40% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/blackberry-to-cut-up-to-40-of-staff-by-years-end/>
 

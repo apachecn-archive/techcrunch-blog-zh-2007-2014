@@ -1,4 +1,4 @@
-# 追回和创业不能混为一谈 TechCrunch
+# 追回和创业不能混为一谈 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/clawbacks-startups/>
 

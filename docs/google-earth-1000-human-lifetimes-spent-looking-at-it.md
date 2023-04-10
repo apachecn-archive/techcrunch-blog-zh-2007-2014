@@ -1,4 +1,4 @@
-# 谷歌地球:人类花了 1000 年的时间看它 TechCrunch
+# 谷歌地球:人类花了 1000 年的时间看它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/23/google-earth-1000-human-lifetimes-spent-looking-at-it/>
 

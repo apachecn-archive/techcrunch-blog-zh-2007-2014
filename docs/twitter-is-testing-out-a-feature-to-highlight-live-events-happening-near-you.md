@@ -1,4 +1,4 @@
-# Twitter 展示其位置优势，测试发生在你身边的现场事件的亮点 TechCrunch
+# Twitter 展示其位置优势，测试发生在你身边的现场事件的亮点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/twitter-is-testing-out-a-feature-to-highlight-live-events-happening-near-you/>
 

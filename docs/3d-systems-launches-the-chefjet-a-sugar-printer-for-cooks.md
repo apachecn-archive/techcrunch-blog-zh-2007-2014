@@ -1,4 +1,4 @@
-# 3D Systems 推出 ChefJet，这是一款专为厨师打造的糖打印机 TechCrunch
+# 3D Systems 推出 ChefJet，这是一款专为厨师打造的糖打印机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/08/3d-systems-launches-the-chefjet-a-sugar-printer-for-cooks/>
 

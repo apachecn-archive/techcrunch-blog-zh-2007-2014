@@ -1,4 +1,4 @@
-# 国会女议员提出“亚伦法”以纪念已故互联网活动家 TechCrunch
+# 国会女议员提出“亚伦法”以纪念已故互联网活动家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/congresswoman-proposes-aarons-law-in-honor-of-late-internet-activist/>
 

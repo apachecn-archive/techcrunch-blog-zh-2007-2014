@@ -1,4 +1,4 @@
-# 希捷利用 1TB 每磁盘技术简化硬盘产品 TechCrunch
+# 希捷利用 1TB 每磁盘技术简化硬盘产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/seagate-streamlines-hard-drive-offerings-with-1tb-per-disk-technology/>
 

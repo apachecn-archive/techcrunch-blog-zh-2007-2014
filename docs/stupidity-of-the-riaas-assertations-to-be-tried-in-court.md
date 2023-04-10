@@ -1,4 +1,4 @@
-# RIAA 声明的愚蠢将在法庭上受审 TechCrunch
+# RIAA 声明的愚蠢将在法庭上受审 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/stupidity-of-the-riaas-assertations-to-be-tried-in-court/>
 

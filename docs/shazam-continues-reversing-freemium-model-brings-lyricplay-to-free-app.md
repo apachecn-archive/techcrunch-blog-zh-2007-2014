@@ -1,4 +1,4 @@
-# Shazam 继续扭转免费增值模式，将 LyricPlay 引入免费应用 TechCrunch
+# Shazam 继续扭转免费增值模式，将 LyricPlay 引入免费应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/shazam-continues-reversing-freemium-model-brings-lyricplay-to-free-app/>
 

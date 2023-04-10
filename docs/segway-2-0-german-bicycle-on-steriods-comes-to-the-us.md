@@ -1,4 +1,4 @@
-# 赛格威 2.0？德国自行车进入美国 TechCrunch
+# 赛格威 2.0？德国自行车进入美国 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/11/segway-2-0-german-bicycle-on-steriods-comes-to-the-us/>
 

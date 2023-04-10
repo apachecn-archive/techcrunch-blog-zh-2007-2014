@@ -1,4 +1,4 @@
-# Firefox Nightly 现在包括 OdinMonkey，使 JavaScript 更接近于以原生速度运行 TechCrunch
+# Firefox Nightly 现在包括 OdinMonkey，使 JavaScript 更接近于以原生速度运行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/21/firefox-nightly-now-includes-odinmonkey-brings-javascript-performance-closer-to-running-at-native-speeds/>
 

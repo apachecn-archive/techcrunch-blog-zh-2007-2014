@@ -1,4 +1,4 @@
-# 以下是政府如何修复硅谷:别管它 TechCrunch
+# 以下是政府如何修复硅谷:别管它 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/07/heres-how-the-government-can-fix-silicon-valley-leave-it-alone/>
 

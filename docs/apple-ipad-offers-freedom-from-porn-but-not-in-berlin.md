@@ -1,4 +1,4 @@
-# 苹果 iPad 提供“远离色情的自由”——但不在柏林 TechCrunch
+# 苹果 iPad 提供“远离色情的自由”——但不在柏林 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/29/apple-ipad-offers-freedom-from-porn-but-not-in-berlin/>
 

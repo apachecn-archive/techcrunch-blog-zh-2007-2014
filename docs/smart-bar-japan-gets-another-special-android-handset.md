@@ -1,4 +1,4 @@
-# 智能条:日本获得另一款特殊的安卓手机 TechCrunch
+# 智能条:日本获得另一款特殊的安卓手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/09/smart-bar-japan-gets-another-special-android-handset/>
 

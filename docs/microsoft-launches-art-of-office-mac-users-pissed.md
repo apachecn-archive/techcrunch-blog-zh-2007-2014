@@ -1,4 +1,4 @@
-# 微软推出 Office 艺术——Mac 用户愤怒了——TechCrunch
+# 微软推出 Office 艺术——Mac 用户愤怒了——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/microsoft-launches-art-of-office-mac-users-pissed/>
 

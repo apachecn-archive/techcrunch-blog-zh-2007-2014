@@ -1,4 +1,4 @@
-# 论坛。电视增加了三倍的流量。等等，这么多人想要一小时的经济学视频？TechCrunch
+# 论坛。电视增加了三倍的流量。等等，这么多人想要一小时的经济学视频？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/02/fora-tv-triples-traffic-wait-that-many-people-want-hour-long-videos-on-economics/>
 

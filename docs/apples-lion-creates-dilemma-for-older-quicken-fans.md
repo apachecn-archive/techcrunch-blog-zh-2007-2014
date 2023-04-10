@@ -1,4 +1,4 @@
-# 苹果的狮子让年长的 Quicken 粉丝进退两难 TechCrunch
+# 苹果的狮子让年长的 Quicken 粉丝进退两难 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/apples-lion-creates-dilemma-for-older-quicken-fans/>
 

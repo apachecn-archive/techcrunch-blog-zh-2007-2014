@@ -1,4 +1,4 @@
-# 支付初创公司 Cover 推出测试版，让纽约人(合法地)用餐和冲刺 TechCrunch
+# 支付初创公司 Cover 推出测试版，让纽约人(合法地)用餐和冲刺 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/01/payments-startup-cover-launches-out-of-beta-to-let-new-yorkers-legally-dine-and-dash/>
 

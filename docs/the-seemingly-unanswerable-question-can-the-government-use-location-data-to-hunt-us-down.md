@@ -1,4 +1,4 @@
-# 看似无法回答的问题:政府能利用位置数据追捕我们吗？TechCrunch
+# 看似无法回答的问题:政府能利用位置数据追捕我们吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/the-seemingly-unanswerable-question-can-the-government-use-location-data-to-hunt-us-down/>
 

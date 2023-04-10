@@ -1,4 +1,4 @@
-# 超级模特莉莉·科尔谈论她的送礼平台 TechCrunch
+# 超级模特莉莉·科尔谈论她的送礼平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/exclusive-super-model-lily-cole-talks-about-impossible-her-gift-giving-platform/>
 

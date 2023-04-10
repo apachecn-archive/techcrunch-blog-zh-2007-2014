@@ -1,4 +1,4 @@
-# 三星 Gear 2 将于 4 月上市，售价 295 美元，Gear Fit 将为 197 美元 TechCrunch
+# 三星 Gear 2 将于 4 月上市，售价 295 美元，Gear Fit 将为 197 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/samsung-gear-2-will-cost-295-gear-fit-will-be-197-when-they-go-on-sale-in-april/>
 

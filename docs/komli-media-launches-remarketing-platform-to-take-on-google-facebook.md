@@ -1,4 +1,4 @@
-# Komli Media 推出再营销平台，挑战谷歌、脸书 TechCrunch
+# Komli Media 推出再营销平台，挑战谷歌、脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/komli-media-launches-remarketing-platform-to-take-on-google-facebook/>
 

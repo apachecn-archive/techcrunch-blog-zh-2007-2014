@@ -1,4 +1,4 @@
-# YouTube 应用从 iOS 6 中移除，因为苹果的授权协议已经结束 TechCrunch
+# YouTube 应用从 iOS 6 中移除，因为苹果的授权协议已经结束 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/06/youtube-app-removed-from-ios-6-because-apples-licensing-agreement-is-over/>
 

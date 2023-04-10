@@ -1,4 +1,4 @@
-# 沃尔玛和 T-Mobile 联手推出无合约 4G 手机计划 TechCrunch
+# 沃尔玛和 T-Mobile 联手推出无合约 4G 手机计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/walmart-and-t-mobile-team-up-for-no-contract-4g-phone-plan/>
 

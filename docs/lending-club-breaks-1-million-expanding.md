@@ -1,4 +1,4 @@
-# Lending Club 突破 100 万美元，扩大 TechCrunch
+# Lending Club 突破 100 万美元，扩大 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/13/lending-club-breaks-1-million-expanding/>
 

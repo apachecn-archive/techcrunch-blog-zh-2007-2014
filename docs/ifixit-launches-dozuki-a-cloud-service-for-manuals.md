@@ -1,4 +1,4 @@
-# iFixIt 推出 Dozuki，一项手册云服务 TechCrunch
+# iFixIt 推出 Dozuki，一项手册云服务 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/ifixit-launches-dozuki-a-cloud-service-for-manuals/>
 

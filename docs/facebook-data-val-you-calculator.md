@@ -1,4 +1,4 @@
-# 脸书也许值 1000 亿美元，但对脸书来说你值多少？TechCrunch
+# 脸书也许值 1000 亿美元，但对脸书来说你值多少？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/05/16/facebook-data-val-you-calculator/>
 

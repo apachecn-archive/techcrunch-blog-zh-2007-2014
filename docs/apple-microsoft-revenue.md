@@ -1,4 +1,4 @@
-# 是的，苹果公司在过去一个季度的收入超过了微软公司 40 亿美元 TechCrunch
+# 是的，苹果公司在过去一个季度的收入超过了微软公司 40 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/28/apple-microsoft-revenue/>
 

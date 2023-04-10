@@ -1,4 +1,4 @@
-# 脸书的新时间线:数据进去了，但它能离开吗？TechCrunch
+# 脸书的新时间线:数据进去了，但它能离开吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/facebooks-new-timeline-data-goes-in-but-can-it-ever-leave/>
 

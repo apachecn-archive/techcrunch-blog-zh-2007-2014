@@ -1,4 +1,4 @@
-# AdEspresso 筹集 50 万美元让小型企业轻松实现脸书广告优化 TechCrunch
+# AdEspresso 筹集 50 万美元让小型企业轻松实现脸书广告优化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/25/adespresso-seed-funding/>
 

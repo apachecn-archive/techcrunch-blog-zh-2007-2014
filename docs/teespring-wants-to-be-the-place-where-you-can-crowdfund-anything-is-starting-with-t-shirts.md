@@ -1,4 +1,4 @@
-# Teespring 希望成为一个可以众筹任何东西的地方，从 t 恤开始 TechCrunch
+# Teespring 希望成为一个可以众筹任何东西的地方，从 t 恤开始 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/teespring-wants-to-be-the-place-where-you-can-crowdfund-anything-is-starting-with-t-shirts/>
 

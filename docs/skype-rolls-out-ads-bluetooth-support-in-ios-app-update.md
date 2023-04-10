@@ -1,4 +1,4 @@
-# Skype 推出广告，iOS 应用程序更新支持蓝牙技术 TechCrunch
+# Skype 推出广告，iOS 应用程序更新支持蓝牙技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/skype-rolls-out-ads-bluetooth-support-in-ios-app-update/>
 

@@ -1,4 +1,4 @@
-# 雅虎将智能社交电视应用 IntoNow 引入 iPad 添加内容源等 TechCrunch
+# 雅虎将智能社交电视应用 IntoNow 引入 iPad 添加内容源等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/yahoo-brings-intelligent-social-tv-app-intonow-to-the-ipad-adds-content-feeds-and-more/>
 

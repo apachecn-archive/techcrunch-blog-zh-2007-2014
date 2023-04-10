@@ -1,4 +1,4 @@
-# 将你的最佳论点制作成地图 TechCrunch
+# 将你的最佳论点制作成地图 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/26/make-amap-of-your-best-arguments/>
 

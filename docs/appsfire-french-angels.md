@@ -1,4 +1,4 @@
-# AppsFire 吸引一些法国天使投资移动应用推荐 TechCrunch
+# AppsFire 吸引一些法国天使投资移动应用推荐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/appsfire-french-angels/>
 

@@ -1,4 +1,4 @@
-# 新技术将太阳能电池的生产成本降低了 70% TechCrunch
+# 新技术将太阳能电池的生产成本降低了 70% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/new-tech-reduces-production-costs-of-solar-cells-by-up-to-70/>
 

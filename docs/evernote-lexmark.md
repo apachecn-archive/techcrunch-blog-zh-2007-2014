@@ -1,4 +1,4 @@
-# 现在，您可以将 Lexmark 打印机的扫描结果直接发送到 Evernote TechCrunch
+# 现在，您可以将 Lexmark 打印机的扫描结果直接发送到 Evernote 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/23/evernote-lexmark/>
 

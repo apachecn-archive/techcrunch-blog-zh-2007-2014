@@ -1,4 +1,4 @@
-# 明天的诺基亚活动泡汤了——TechCrunch
+# 明天的诺基亚活动泡汤了——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/tomorrows-nokia-event-spoiled/>
 

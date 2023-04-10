@@ -1,4 +1,4 @@
-# iOS 6 现已推出:以下是你的 iDevice 获得的功能 TechCrunch
+# iOS 6 现已推出:以下是你的 iDevice 获得的功能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/19/ios-6-is-now-available-heres-what-features-your-idevice-gets/>
 

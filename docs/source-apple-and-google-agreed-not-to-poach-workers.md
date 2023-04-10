@@ -1,4 +1,4 @@
-# 来源:苹果和谷歌同意不挖员工 TechCrunch
+# 来源:苹果和谷歌同意不挖员工 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/07/source-apple-and-google-agreed-not-to-poach-workers/>
 

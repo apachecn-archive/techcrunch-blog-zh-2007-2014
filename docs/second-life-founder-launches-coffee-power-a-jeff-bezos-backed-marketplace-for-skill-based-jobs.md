@@ -1,4 +1,4 @@
-# “第二人生”创始人推出 Coffee & Power，这是一个杰夫·贝索斯支持的技能型工作市场 TechCrunch
+# “第二人生”创始人推出 Coffee & Power，这是一个杰夫·贝索斯支持的技能型工作市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/01/second-life-founder-launches-coffee-power-a-jeff-bezos-backed-marketplace-for-skill-based-jobs/>
 

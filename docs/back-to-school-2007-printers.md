@@ -1,4 +1,4 @@
-# 重返校园 2007:打印机 TechCrunch
+# 重返校园 2007:打印机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/13/back-to-school-2007-printers/>
 

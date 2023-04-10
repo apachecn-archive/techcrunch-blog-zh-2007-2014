@@ -1,4 +1,4 @@
-# 企业风险投资者开始变得越来越像私人风投——TechCrunch
+# 企业风险投资者开始变得越来越像私人风投——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/05/corporate-venture-investors-starting-to-look-a-lot-more-like-private-vcs/>
 

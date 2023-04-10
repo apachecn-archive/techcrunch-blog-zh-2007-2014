@@ -1,4 +1,4 @@
-# 虚拟商品中有真金白银 TechCrunch
+# 虚拟商品中有真金白银 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/real-money-virtual-goods/>
 

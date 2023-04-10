@@ -1,4 +1,4 @@
-# SoundCloud 首次推出其新的 HTML5 小工具，看起来比旧的好得多 TechCrunch
+# SoundCloud 首次推出其新的 HTML5 小工具，看起来比旧的好得多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/soundcloud-debuts-its-new-html5-widget-looks-so-much-better-than-old-one/>
 

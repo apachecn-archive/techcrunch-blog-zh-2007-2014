@@ -1,4 +1,4 @@
-# 脸书在抄袭 Google+和 Twitter 吗？迈克·斯科洛普夫工程副总裁回应 TechCrunch
+# 脸书在抄袭 Google+和 Twitter 吗？迈克·斯科洛普夫工程副总裁回应 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/is-facebook-copying-google-and-twitter-vp-of-engineering-mike-schroepfer-responds/>
 

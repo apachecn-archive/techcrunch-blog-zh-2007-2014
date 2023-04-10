@@ -1,4 +1,4 @@
-# 冰淇淋三明治提示用户加入 Google+，输入信用卡信息 TechCrunch
+# 冰淇淋三明治提示用户加入 Google+，输入信用卡信息 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/17/ice-cream-sandwich-prompts-users-to-join-google-enter-credit-card-information/>
 

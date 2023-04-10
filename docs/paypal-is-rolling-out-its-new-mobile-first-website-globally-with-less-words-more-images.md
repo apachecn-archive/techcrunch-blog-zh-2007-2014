@@ -1,4 +1,4 @@
-# PayPal 在全球推出新的“移动优先”网站 TechCrunch
+# PayPal 在全球推出新的“移动优先”网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/08/paypal-is-rolling-out-its-new-mobile-first-website-globally-with-less-words-more-images/>
 

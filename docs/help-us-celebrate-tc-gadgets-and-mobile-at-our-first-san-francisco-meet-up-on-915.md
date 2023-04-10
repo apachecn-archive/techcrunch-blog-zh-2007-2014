@@ -1,4 +1,4 @@
-# 9 月 15 日，在我们的第一次旧金山见面会上，帮助我们庆祝 TC 小工具和移动设备 TechCrunch
+# 9 月 15 日，在我们的第一次旧金山见面会上，帮助我们庆祝 TC 小工具和移动设备 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/help-us-celebrate-tc-gadgets-and-mobile-at-our-first-san-francisco-meet-up-on-915/>
 

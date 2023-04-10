@@ -1,4 +1,4 @@
-# SpotMe 支付:一款出色的结算应用 TechCrunch
+# SpotMe 支付:一款出色的结算应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/22/spotme-payments-a-great-app-for-settling-up/>
 

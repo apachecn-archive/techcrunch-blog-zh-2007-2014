@@ -1,4 +1,4 @@
-# 乔布斯:从应用商店下载了 65 亿个应用 TechCrunch
+# 乔布斯:从应用商店下载了 65 亿个应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/jobs-6-5-billion-apps-downloaded-from-app-store/>
 

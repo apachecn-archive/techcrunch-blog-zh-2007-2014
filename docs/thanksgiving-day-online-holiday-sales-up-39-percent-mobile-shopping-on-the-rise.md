@@ -1,4 +1,4 @@
-# 感恩节在线假日销售额增长了 39 %;移动购物正在兴起 TechCrunch
+# 感恩节在线假日销售额增长了 39 %;移动购物正在兴起 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/25/thanksgiving-day-online-holiday-sales-up-39-percent-mobile-shopping-on-the-rise/>
 

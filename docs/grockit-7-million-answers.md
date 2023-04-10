@@ -1,4 +1,4 @@
-# Grockit 获得 700 万美元风险投资，推出视频问答网站 Grockit Answers TechCrunch
+# Grockit 获得 700 万美元风险投资，推出视频问答网站 Grockit Answers 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/grockit-7-million-answers/>
 

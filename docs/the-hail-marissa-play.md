@@ -1,4 +1,4 @@
-# “致敬玛丽莎”剧 TechCrunch
+# “致敬玛丽莎”剧 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/16/the-hail-marissa-play/>
 

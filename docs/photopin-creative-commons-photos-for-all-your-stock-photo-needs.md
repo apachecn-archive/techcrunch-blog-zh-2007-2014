@@ -1,4 +1,4 @@
-# PhotoPin: Creative Commons Photos 满足您所有的库存照片需求 TechCrunch
+# PhotoPin: Creative Commons Photos 满足您所有的库存照片需求 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/06/photopin-creative-commons-photos-for-all-your-stock-photo-needs/>
 

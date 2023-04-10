@@ -1,4 +1,4 @@
-# Android vs. iOS 开发:拼了！TechCrunch
+# Android vs. iOS 开发:拼了！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/16/the-state-of-the-art/>
 

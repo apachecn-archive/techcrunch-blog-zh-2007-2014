@@ -1,4 +1,4 @@
-# Livefyre 收购 Storify，表示社交监管服务仍将作为独立产品运行 TechCrunch
+# Livefyre 收购 Storify，表示社交监管服务仍将作为独立产品运行 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/livefyre-acquires-storify/>
 

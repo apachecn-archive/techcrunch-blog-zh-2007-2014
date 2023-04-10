@@ -1,4 +1,4 @@
-# 报告:惠普仍在寻求出售 Palm，亚马逊被提名为头号竞争者 TechCrunch
+# 报告:惠普仍在寻求出售 Palm，亚马逊被提名为头号竞争者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/30/report-hp-still-looking-to-offload-palm-amazon-named-as-top-contenter/>
 

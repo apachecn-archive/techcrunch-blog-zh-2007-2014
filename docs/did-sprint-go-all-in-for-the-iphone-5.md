@@ -1,4 +1,4 @@
-# Sprint 为 iPhone 5 全力以赴了吗？TechCrunch
+# Sprint 为 iPhone 5 全力以赴了吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/did-sprint-go-all-in-for-the-iphone-5/>
 

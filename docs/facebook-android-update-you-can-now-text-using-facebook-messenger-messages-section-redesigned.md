@@ -1,4 +1,4 @@
-# 脸书安卓更新:你现在可以用 Facebook Messenger 发短信了；重新设计的消息部分 TechCrunch
+# 脸书安卓更新:你现在可以用 Facebook Messenger 发短信了；重新设计的消息部分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/20/facebook-android-update-you-can-now-text-using-facebook-messenger-messages-section-redesigned/>
 

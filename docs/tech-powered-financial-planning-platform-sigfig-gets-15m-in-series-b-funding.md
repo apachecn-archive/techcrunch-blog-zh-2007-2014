@@ -1,4 +1,4 @@
-# 科技驱动的财务规划平台 SigFig 获得 1500 万美元 B 轮融资 TechCrunch
+# 科技驱动的财务规划平台 SigFig 获得 1500 万美元 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/02/tech-powered-financial-planning-platform-sigfig-gets-15m-in-series-b-funding/>
 

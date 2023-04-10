@@ -1,4 +1,4 @@
-# FoodPanda，火箭互联网对 GrubHub 和送货英雄的回应，现在在 23 个国家送货并筹集资金 TechCrunch
+# FoodPanda，火箭互联网对 GrubHub 和送货英雄的回应，现在在 23 个国家送货并筹集资金 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/05/foodpanda-rocket-internets-answer-to-grubhub-and-delivery-hero-now-delivering-food-in-23-countries-and-raising-money/>
 

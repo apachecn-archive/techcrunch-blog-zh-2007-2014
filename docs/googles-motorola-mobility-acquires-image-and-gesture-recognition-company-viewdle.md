@@ -1,4 +1,4 @@
-# 已证实:谷歌摩托罗拉移动公司收购图像和手势识别公司 Viewdle TechCrunch
+# 已证实:谷歌摩托罗拉移动公司收购图像和手势识别公司 Viewdle 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/03/googles-motorola-mobility-acquires-image-and-gesture-recognition-company-viewdle/>
 

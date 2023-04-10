@@ -1,4 +1,4 @@
-# Android 在欧洲智能手机市场份额上击败 iOS，仍落后于 Symbian TechCrunch
+# Android 在欧洲智能手机市场份额上击败 iOS，仍落后于 Symbian 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/android-beats-ios-in-european-market-share-still-behind-symbian/>
 

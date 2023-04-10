@@ -1,4 +1,4 @@
-# DailyMotion 融资 3400 万美元；另一个侵犯版权的成功案例 TechCrunch
+# DailyMotion 融资 3400 万美元；另一个侵犯版权的成功案例 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/30/dailymotion-raises-34-million-another-copyright-infringing-success-story/>
 

@@ -1,4 +1,4 @@
-# RAVENAlert 让大学生知道紧急情况何时发生 TechCrunch
+# RAVENAlert 让大学生知道紧急情况何时发生 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/ravenalert-lets-college-kids-know-when-emergencies-occur/>
 

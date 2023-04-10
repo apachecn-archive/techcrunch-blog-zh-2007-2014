@@ -1,4 +1,4 @@
-# 自由式 AQUOS:夏普日本推出 4 款便携式无线超薄液晶电视 TechCrunch
+# 自由式 AQUOS:夏普日本推出 4 款便携式无线超薄液晶电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/freestyle-aquos-sharp-japan-rolls-out-4-portable-wireless-ultra-thin-lcd-tvs/>
 

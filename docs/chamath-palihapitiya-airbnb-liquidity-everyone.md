@@ -1,4 +1,4 @@
-# Chamath Palihapitiya 对 Airbnb 首席执行官说:“如果你想要流动性...让每个人都可以使用”TechCrunch
+# Chamath Palihapitiya 对 Airbnb 首席执行官说:“如果你想要流动性...让每个人都可以使用”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/01/chamath-palihapitiya-airbnb-liquidity-everyone/>
 

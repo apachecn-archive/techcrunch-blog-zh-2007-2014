@@ -1,4 +1,4 @@
-# 日本看护机器人协助扶起老人 TechCrunch
+# 日本看护机器人协助扶起老人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/02/japanese-caretaker-robot-to-assist-in-lifting-the-elderly/>
 

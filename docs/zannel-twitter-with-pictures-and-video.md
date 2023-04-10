@@ -1,4 +1,4 @@
-# Zannel:带有图片和视频的 Twitter TechCrunch
+# Zannel:带有图片和视频的 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/01/zannel-twitter-with-pictures-and-video/>
 

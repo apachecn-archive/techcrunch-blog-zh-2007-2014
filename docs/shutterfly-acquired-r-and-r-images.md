@@ -1,4 +1,4 @@
-# Shutterfly 已经收购了照片打印公司 R 和 R Images TechCrunch
+# Shutterfly 已经收购了照片打印公司 R 和 R Images 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/01/shutterfly-acquired-r-and-r-images/>
 

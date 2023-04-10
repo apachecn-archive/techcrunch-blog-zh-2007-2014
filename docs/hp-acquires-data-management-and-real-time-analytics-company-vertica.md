@@ -1,4 +1,4 @@
-# 惠普收购数据管理和实时分析公司 Vertica TechCrunch
+# 惠普收购数据管理和实时分析公司 Vertica 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/hp-acquires-data-management-and-real-time-analytics-company-vertica/>
 

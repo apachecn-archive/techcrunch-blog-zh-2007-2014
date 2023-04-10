@@ -1,4 +1,4 @@
-# 杰夫·贝索斯将以 2.5 亿美元收购《华盛顿邮报》TechCrunch
+# 杰夫·贝索斯将以 2.5 亿美元收购《华盛顿邮报》
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/05/jeff-bezos-acquires-the-washington-post/>
 

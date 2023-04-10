@@ -1,4 +1,4 @@
-# 死亡螺旋仍在继续:RIM 正在开发一款家庭媒体流媒体工具 TechCrunch
+# 死亡螺旋仍在继续:RIM 正在开发一款家庭媒体流媒体工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/the-death-spiral-continues-rim-at-work-on-a-home-media-streamer/>
 

@@ -1,4 +1,4 @@
-# 即将从 Sling Media 推出:通过 iPhone 观看有线电视 TechCrunch
+# 即将从 Sling Media 推出:通过 iPhone 观看有线电视 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/05/watch-cable-tv-from-your-iphone/>
 

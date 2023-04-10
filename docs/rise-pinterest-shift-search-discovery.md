@@ -1,4 +1,4 @@
-# Pinterest 的崛起和从搜索到发现的转变 TechCrunch
+# Pinterest 的崛起和从搜索到发现的转变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/06/rise-pinterest-shift-search-discovery/>
 

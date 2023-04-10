@@ -1,4 +1,4 @@
-# 点击这里观看 TechCrunch 扰乱北京 2011 的最后一天！TechCrunch
+# 点击这里观看 TechCrunch 扰乱北京 2011 的最后一天！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/31/watch-the-last-day-of-techcrunch-disrupt-beijing-2011-here/>
 

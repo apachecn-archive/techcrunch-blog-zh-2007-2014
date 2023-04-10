@@ -1,4 +1,4 @@
-# 应用程序盈利变得更加困难，Gartner 预测到 2017 年 94.5%的下载将是免费的 TechCrunch
+# 应用程序盈利变得更加困难，Gartner 预测到 2017 年 94.5%的下载将是免费的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/making-apps-pay-gets-harder/>
 

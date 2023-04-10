@@ -1,4 +1,4 @@
-# 回顾:惠普掌上触摸板 TechCrunch
+# 回顾:惠普掌上触摸板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/review-the-hp-palm-touchpad/>
 

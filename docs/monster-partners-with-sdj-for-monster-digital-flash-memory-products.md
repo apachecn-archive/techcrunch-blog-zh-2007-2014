@@ -1,4 +1,4 @@
-# 怪兽与 SDJ 合作开发“怪兽数字”闪存产品 TechCrunch
+# 怪兽与 SDJ 合作开发“怪兽数字”闪存产品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/monster-partners-with-sdj-for-monster-digital-flash-memory-products/>
 

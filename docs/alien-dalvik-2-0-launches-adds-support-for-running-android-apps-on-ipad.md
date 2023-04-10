@@ -1,4 +1,4 @@
-# Alien Dalvik 2.0 发布，增加了对在 iPad 上运行 Android 应用的支持 TechCrunch
+# Alien Dalvik 2.0 发布，增加了对在 iPad 上运行 Android 应用的支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/alien-dalvik-2-0-launches-adds-support-for-running-android-apps-on-ipad/>
 

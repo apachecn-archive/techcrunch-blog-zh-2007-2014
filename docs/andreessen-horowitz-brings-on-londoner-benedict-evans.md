@@ -1,4 +1,4 @@
-# Andreessen Horowitz 带来伦敦人 Benedict Evans TechCrunch
+# Andreessen Horowitz 带来伦敦人 Benedict Evans 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/andreessen-horowitz-brings-on-londoner-benedict-evans/>
 

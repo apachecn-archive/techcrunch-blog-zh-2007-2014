@@ -1,4 +1,4 @@
-# 索尼:PlayStation 将于 9 月 19 日登陆美国商店 TechCrunch
+# 索尼:PlayStation 将于 9 月 19 日登陆美国商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/17/sony-playstation-move-to-hit-u-s-store-shelves-september-19/>
 

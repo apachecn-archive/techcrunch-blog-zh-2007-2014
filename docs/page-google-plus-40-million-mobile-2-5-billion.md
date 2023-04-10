@@ -1,4 +1,4 @@
-# 拉里·佩奇:移动收入达到 25 亿美元，1.9 亿台 Android 设备 TechCrunch
+# 拉里·佩奇:移动收入达到 25 亿美元，1.9 亿台 Android 设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/page-google-plus-40-million-mobile-2-5-billion/>
 

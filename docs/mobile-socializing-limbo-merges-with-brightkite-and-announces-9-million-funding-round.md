@@ -1,4 +1,4 @@
-# 移动社交:Limbo 与 Brightkite 合并，宣布获得 900 万美元融资 TechCrunch
+# 移动社交:Limbo 与 Brightkite 合并，宣布获得 900 万美元融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/07/mobile-socializing-limbo-merges-with-brightkite-and-announces-9-million-funding-round/>
 

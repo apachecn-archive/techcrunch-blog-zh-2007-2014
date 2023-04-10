@@ -1,4 +1,4 @@
-# Gartner:全球手机销量下降 2%，智能手机销量飙升 43%，苹果停滞不前，粉丝等待新 iPhone TechCrunch
+# Gartner:全球手机销量下降 2%，智能手机销量飙升 43%，苹果停滞不前，粉丝等待新 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/14/gartner-global-mobile-sales-down-2-smartphones-surge-43-apple-stalls-as-fans-hold-out-for-new-iphone/>
 

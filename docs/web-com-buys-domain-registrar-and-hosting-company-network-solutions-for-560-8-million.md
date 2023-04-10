@@ -1,4 +1,4 @@
-# Web.com 以 5.608 亿美元收购域名注册商和托管公司网络解决方案 TechCrunch
+# Web.com 以 5.608 亿美元收购域名注册商和托管公司网络解决方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/web-com-buys-domain-registrar-and-hosting-company-network-solutions-for-560-8-million/>
 

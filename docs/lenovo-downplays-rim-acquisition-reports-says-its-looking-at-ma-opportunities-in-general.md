@@ -1,4 +1,4 @@
-# 联想淡化 RIM 收购报告，称其正在关注 M&A 的总体机会 TechCrunch
+# 联想淡化 RIM 收购报告，称其正在关注 M&A 的总体机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/27/lenovo-downplays-rim-acquisition-reports-says-its-looking-at-ma-opportunities-in-general/>
 

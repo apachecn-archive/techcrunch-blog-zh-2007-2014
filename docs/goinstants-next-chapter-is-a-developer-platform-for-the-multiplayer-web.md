@@ -1,4 +1,4 @@
-# GoInstant 的下一章是“多人网络”的开发者平台 TechCrunch
+# GoInstant 的下一章是“多人网络”的开发者平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/17/goinstants-next-chapter-is-a-developer-platform-for-the-multiplayer-web/>
 

@@ -1,4 +1,4 @@
-# 脸书辛迪加从页面到 Twitter 的更新，仍然挟持用户更新 TechCrunch
+# 脸书辛迪加从页面到 Twitter 的更新，仍然挟持用户更新 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/20/facebook-syndicates-updates-from-pages-to-twitter-still-holds-user-updates-hostage/>
 

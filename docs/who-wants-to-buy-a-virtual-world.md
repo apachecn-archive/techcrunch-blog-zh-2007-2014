@@ -1,4 +1,4 @@
-# 谁想买虚拟世界？–TechCrunch
+# 谁想买虚拟世界？–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/who-wants-to-buy-a-virtual-world/>
 

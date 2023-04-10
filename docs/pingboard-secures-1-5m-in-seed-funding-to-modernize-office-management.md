@@ -1,4 +1,4 @@
-# Pingboard 获得 125 万美元的种子资金，用于实现办公室管理现代化 TechCrunch
+# Pingboard 获得 125 万美元的种子资金，用于实现办公室管理现代化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/15/pingboard-secures-1-5m-in-seed-funding-to-modernize-office-management/>
 

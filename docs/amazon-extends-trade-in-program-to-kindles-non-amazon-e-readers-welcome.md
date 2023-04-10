@@ -1,4 +1,4 @@
-# 亚马逊将以旧换新计划扩展到 Kindles，非亚马逊电子阅读器受到欢迎 TechCrunch
+# 亚马逊将以旧换新计划扩展到 Kindles，非亚马逊电子阅读器受到欢迎 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/amazon-extends-trade-in-program-to-kindles-non-amazon-e-readers-welcome/>
 

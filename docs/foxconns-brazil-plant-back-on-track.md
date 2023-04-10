@@ -1,4 +1,4 @@
-# 富士康巴西工厂重回正轨 TechCrunch
+# 富士康巴西工厂重回正轨 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/foxconns-brazil-plant-back-on-track/>
 

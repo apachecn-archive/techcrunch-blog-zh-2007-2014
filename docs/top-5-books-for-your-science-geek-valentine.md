@@ -1,4 +1,4 @@
-# 最适合你的科学的 5 本书——极客情人节 TechCrunch
+# 最适合你的科学的 5 本书——极客情人节 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/09/top-5-books-for-your-science-geek-valentine/>
 

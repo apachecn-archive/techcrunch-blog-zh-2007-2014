@@ -1,4 +1,4 @@
-# 欧洲索尼 PSP 即将上市！TechCrunch
+# 欧洲索尼 PSP 即将上市！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/european-sony-psps-set-to-go/>
 

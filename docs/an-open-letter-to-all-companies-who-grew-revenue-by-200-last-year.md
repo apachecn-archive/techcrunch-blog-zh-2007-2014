@@ -1,4 +1,4 @@
-# 致去年收入增长 200%的所有公司的公开信 TechCrunch
+# 致去年收入增长 200%的所有公司的公开信 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/31/an-open-letter-to-all-companies-who-grew-revenue-by-200-last-year/>
 

@@ -1,4 +1,4 @@
-# Ziff Davis Media 在死池里泡了一泡 TechCrunch
+# Ziff Davis Media 在死池里泡了一泡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/06/ziff-davis-media-takes-a-dip-in-the-deadpool/>
 

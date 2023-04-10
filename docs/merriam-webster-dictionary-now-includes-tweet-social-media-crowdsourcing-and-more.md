@@ -1,4 +1,4 @@
-# 韦氏词典现在包括“推特”、“社交媒体”、“众包”等等 TechCrunch
+# 韦氏词典现在包括“推特”、“社交媒体”、“众包”等等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/merriam-webster-dictionary-now-includes-tweet-social-media-crowdsourcing-and-more/>
 

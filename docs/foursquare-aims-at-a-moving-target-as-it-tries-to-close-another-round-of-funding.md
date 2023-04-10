@@ -1,4 +1,4 @@
-# Foursquare 瞄准了一个移动的目标，试图结束另一轮融资 TechCrunch
+# Foursquare 瞄准了一个移动的目标，试图结束另一轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/16/foursquare-aims-at-a-moving-target-as-it-tries-to-close-another-round-of-funding/>
 

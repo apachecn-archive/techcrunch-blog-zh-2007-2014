@@ -1,4 +1,4 @@
-# Kickstarter 庆祝其第 10，000 个成功项目和 7500 万美元的认捐 TechCrunch
+# Kickstarter 庆祝其第 10，000 个成功项目和 7500 万美元的认捐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/19/kickstarter-celebrates-its-10000th-successful-project-and-75m-in-pledges/>
 

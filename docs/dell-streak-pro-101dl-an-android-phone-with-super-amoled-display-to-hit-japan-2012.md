@@ -1,4 +1,4 @@
-# 配备 Super AMOLED 显示屏的 DELL STREAK PRO 101DL(一款 Android 手机)将于 2012 年在日本上市 TechCrunch
+# 配备 Super AMOLED 显示屏的 DELL STREAK PRO 101DL(一款 Android 手机)将于 2012 年在日本上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/dell-streak-pro-101dl-an-android-phone-with-super-amoled-display-to-hit-japan-2012/>
 

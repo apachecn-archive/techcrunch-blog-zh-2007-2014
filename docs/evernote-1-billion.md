@@ -1,4 +1,4 @@
-# Evernote 融资 5000 万至 1 亿美元，估值超过 10 亿美元 TechCrunch
+# Evernote 融资 5000 万至 1 亿美元，估值超过 10 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/19/evernote-1-billion/>
 

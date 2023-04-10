@@ -1,4 +1,4 @@
-# CrunchWeek:康卡斯特 450 亿美元收购时代华纳有线电视，拜拜 Flappy Birds，Snapchat 的 Smoothie Hack TechCrunch
+# CrunchWeek:康卡斯特 450 亿美元收购时代华纳有线电视，拜拜 Flappy Birds，Snapchat 的 Smoothie Hack 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/15/crunchweek-comcast-twc-flappy-birds-snapchat-hack/>
 

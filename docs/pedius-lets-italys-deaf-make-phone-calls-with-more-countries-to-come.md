@@ -1,4 +1,4 @@
-# Pedius 让意大利的聋人可以打电话，更多国家将推出 TechCrunch
+# Pedius 让意大利的聋人可以打电话，更多国家将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/pedius-lets-italys-deaf-make-phone-calls-with-more-countries-to-come/>
 

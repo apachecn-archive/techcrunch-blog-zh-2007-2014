@@ -1,4 +1,4 @@
-# 自动生成和可视化映射的企业社交网络 TechCrunch
+# 自动生成和可视化映射的企业社交网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/24/the-enterprise-social-network-auto-generated-and-visually-mapped/>
 

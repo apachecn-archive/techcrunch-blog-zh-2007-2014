@@ -1,4 +1,4 @@
-# Live Mesh 推出 P2P 存储技术 TechCrunch
+# Live Mesh 推出 P2P 存储技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/21/live-mesh-rolls-out-p2p-storage/>
 

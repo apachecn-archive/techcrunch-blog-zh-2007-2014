@@ -1,4 +1,4 @@
-# LivingSocial 为最近的国际收购支付了 2940 万美元的股票 TechCrunch
+# LivingSocial 为最近的国际收购支付了 2940 万美元的股票 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/livingsocial-29-4-million-acquisitions/>
 

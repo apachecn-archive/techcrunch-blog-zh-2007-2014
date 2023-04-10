@@ -1,4 +1,4 @@
-# Appcelerator 推出开放式移动市场，这是一个面向应用组件的应用商店 TechCrunch
+# Appcelerator 推出开放式移动市场，这是一个面向应用组件的应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/19/appcelerator-launches-open-mobile-marketplace-an-app-store-for-app-components/>
 

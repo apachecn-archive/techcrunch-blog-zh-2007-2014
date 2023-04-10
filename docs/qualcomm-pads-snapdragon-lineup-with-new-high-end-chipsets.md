@@ -1,4 +1,4 @@
-# 高通用新的高端芯片组 Pads 骁龙产品系列 TechCrunch
+# 高通用新的高端芯片组 Pads 骁龙产品系列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/16/qualcomm-pads-snapdragon-lineup-with-new-high-end-chipsets/>
 

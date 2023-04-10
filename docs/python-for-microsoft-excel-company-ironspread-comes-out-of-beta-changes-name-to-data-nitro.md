@@ -1,4 +1,4 @@
-# python For Microsoft Excel Company iron spread 退出测试版，更名为 DataNitro TechCrunch
+# python For Microsoft Excel Company iron spread 退出测试版，更名为 DataNitro 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/10/python-for-microsoft-excel-company-ironspread-comes-out-of-beta-changes-name-to-data-nitro/>
 

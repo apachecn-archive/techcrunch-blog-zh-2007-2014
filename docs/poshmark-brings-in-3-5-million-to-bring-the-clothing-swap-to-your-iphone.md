@@ -1,4 +1,4 @@
-# Poshmark 带来了 350 万美元的收入，将服装交换带到了你的 iPhone 上 TechCrunch
+# Poshmark 带来了 350 万美元的收入，将服装交换带到了你的 iPhone 上 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/06/poshmark-brings-in-3-5-million-to-bring-the-clothing-swap-to-your-iphone/>
 

@@ -1,4 +1,4 @@
-# 尼康使用微型尼克尔 40 毫米 f/2.8 克镜头 TechCrunch
+# 尼康使用微型尼克尔 40 毫米 f/2.8 克镜头 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/12/nikon-goes-prime-with-the-micro-nikkor-40mm-f2-8g-lens/>
 

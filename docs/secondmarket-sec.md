@@ -1,4 +1,4 @@
-# 并非所有市场都是平等的 TechCrunch
+# 并非所有市场都是平等的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/28/secondmarket-sec/>
 

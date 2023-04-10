@@ -1,4 +1,4 @@
-# Gphones 越多越好 TechCrunch
+# Gphones 越多越好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/08/the-more-gphones-the-better/>
 

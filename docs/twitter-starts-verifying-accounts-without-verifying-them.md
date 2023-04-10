@@ -1,4 +1,4 @@
-# Twitter 开始验证帐户，但没有真正验证它们 TechCrunch
+# Twitter 开始验证帐户，但没有真正验证它们 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/06/11/twitter-starts-verifying-accounts-without-verifying-them/>
 

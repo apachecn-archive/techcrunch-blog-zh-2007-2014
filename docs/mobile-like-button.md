@@ -1,4 +1,4 @@
-# 脸书移动放弃 2 次点击赞按钮，转而使用 1 次点击赞栏 TechCrunch
+# 脸书移动放弃 2 次点击赞按钮，转而使用 1 次点击赞栏 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/11/mobile-like-button/>
 

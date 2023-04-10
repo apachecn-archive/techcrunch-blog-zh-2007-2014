@@ -1,4 +1,4 @@
-# 网飞提供无限量流媒体服务，iTunes 租赁搅局 TechCrunch
+# 网飞提供无限量流媒体服务，iTunes 租赁搅局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/13/netflix-offers-unlimited-streaming-as-itunes-rental-spoiler/>
 

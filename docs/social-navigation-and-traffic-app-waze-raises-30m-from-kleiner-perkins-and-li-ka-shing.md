@@ -1,4 +1,4 @@
-# 社交导航和交通应用 Waze 从凯鹏华盈和李嘉诚手中融资 3000 万美元 TechCrunch
+# 社交导航和交通应用 Waze 从凯鹏华盈和李嘉诚手中融资 3000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/social-navigation-and-traffic-app-waze-raises-30m-from-kleiner-perkins-and-li-ka-shing/>
 

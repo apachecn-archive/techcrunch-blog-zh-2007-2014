@@ -1,4 +1,4 @@
-# 高达将成为第一款索尼 PS3 超薄套装 TechCrunch
+# 高达将成为第一款索尼 PS3 超薄套装 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/gundam-to-be-the-very-first-sony-ps3-slim-bundle/>
 

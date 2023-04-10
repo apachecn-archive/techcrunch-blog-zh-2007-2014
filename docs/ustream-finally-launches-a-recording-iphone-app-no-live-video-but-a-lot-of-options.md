@@ -1,4 +1,4 @@
-# Ustream 最终推出了一款录音 iPhone 应用。没有现场视频，但有很多选择。TechCrunch
+# Ustream 最终推出了一款录音 iPhone 应用。没有现场视频，但有很多选择。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/08/05/ustream-finally-launches-a-recording-iphone-app-no-live-video-but-a-lot-of-options/>
 

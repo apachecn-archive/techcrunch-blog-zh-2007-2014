@@ -1,4 +1,4 @@
-# 微软电视:可能引爆广播的大胆举措 TechCrunch
+# 微软电视:可能引爆广播的大胆举措 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/29/microsoft-tv-a-bold-move-that-may-blow-up-broadcast/>
 

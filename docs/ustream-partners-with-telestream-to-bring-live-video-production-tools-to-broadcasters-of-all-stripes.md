@@ -1,4 +1,4 @@
-# Ustream 与 Telestream 合作，为各种广播公司带来实时视频制作工具 TechCrunch
+# Ustream 与 Telestream 合作，为各种广播公司带来实时视频制作工具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/ustream-partners-with-telestream-to-bring-live-video-production-tools-to-broadcasters-of-all-stripes/>
 

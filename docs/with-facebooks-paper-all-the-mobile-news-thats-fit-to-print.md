@@ -1,4 +1,4 @@
-# 解开脸书的移动战略:纸，所有适合印刷的移动新闻 TechCrunch
+# 解开脸书的移动战略:纸，所有适合印刷的移动新闻 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/02/with-facebooks-paper-all-the-mobile-news-thats-fit-to-print/>
 

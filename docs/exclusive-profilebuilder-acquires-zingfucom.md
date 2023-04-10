@@ -1,4 +1,4 @@
-# 独家报道:ProfileBuilder 收购 ZingFu.com TechCrunch
+# 独家报道:ProfileBuilder 收购 ZingFu.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/18/exclusive-profilebuilder-acquires-zingfucom/>
 

@@ -1,4 +1,4 @@
-# 比兹·斯通、500 Startups 和其他公司投资 100 万美元用于 Web Businesses Intercom 的 CRM TechCrunch
+# 比兹·斯通、500 Startups 和其他公司投资 100 万美元用于 Web Businesses Intercom 的 CRM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/25/biz-stone-500-startups-and-others-put-1m-in-social-crm-for-web-businesses-intercom/>
 

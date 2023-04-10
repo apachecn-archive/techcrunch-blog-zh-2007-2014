@@ -1,4 +1,4 @@
-# Twitter 与 BBC 全球新闻签约，加入其视频电视广告节目 Amplify TechCrunch
+# Twitter 与 BBC 全球新闻签约，加入其视频电视广告节目 Amplify 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/24/twitter-signs-bbc-global-news-to-its-in-stream-video-tv-ad-program-amplify/>
 

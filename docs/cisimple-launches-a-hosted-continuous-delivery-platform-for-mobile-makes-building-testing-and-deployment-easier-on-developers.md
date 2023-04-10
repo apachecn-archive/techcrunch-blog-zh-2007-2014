@@ -1,4 +1,4 @@
-# Cisimple 推出面向移动设备的托管持续交付平台:让开发人员更轻松地构建、测试和部署 TechCrunch
+# Cisimple 推出面向移动设备的托管持续交付平台:让开发人员更轻松地构建、测试和部署 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/27/cisimple-launches-a-hosted-continuous-delivery-platform-for-mobile-makes-building-testing-and-deployment-easier-on-developers/>
 

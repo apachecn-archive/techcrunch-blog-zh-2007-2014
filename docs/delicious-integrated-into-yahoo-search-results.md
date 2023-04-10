@@ -1,4 +1,4 @@
-# 美味整合到雅虎搜索结果 TechCrunch
+# 美味整合到雅虎搜索结果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/19/delicious-integrated-into-yahoo-search-results/>
 

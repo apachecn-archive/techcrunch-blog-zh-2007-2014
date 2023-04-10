@@ -1,4 +1,4 @@
-# 戴尔开发另一系列 MP3 播放器？TechCrunch
+# 戴尔开发另一系列 MP3 播放器？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/30/dell-developing-another-line-of-mp3-players/>
 

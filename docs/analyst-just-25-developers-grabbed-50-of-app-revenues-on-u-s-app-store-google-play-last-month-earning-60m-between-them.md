@@ -1,4 +1,4 @@
-# 分析师:上个月，仅 25 名开发者就在美国应用商店 Google Play 上攫取了 50%的应用收入；他们一共赚了 6000 万美元 TechCrunch
+# 分析师:上个月，仅 25 名开发者就在美国应用商店 Google Play 上攫取了 50%的应用收入；他们一共赚了 6000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/analyst-just-25-developers-grabbed-50-of-app-revenues-on-u-s-app-store-google-play-last-month-earning-60m-between-them/>
 

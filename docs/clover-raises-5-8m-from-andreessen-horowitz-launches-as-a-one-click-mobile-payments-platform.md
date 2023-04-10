@@ -1,4 +1,4 @@
-# Clover 从 Andreessen Horowitz 筹集了 580 万美元；作为一键式移动支付平台推出 TechCrunch
+# Clover 从 Andreessen Horowitz 筹集了 580 万美元；作为一键式移动支付平台推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/08/clover-raises-5-8m-from-andreessen-horowitz-launches-as-a-one-click-mobile-payments-platform/>
 

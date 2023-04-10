@@ -1,4 +1,4 @@
-# Koality 通过消除不完整的构建并使测试套件高效来帮助工程师 TechCrunch
+# Koality 通过消除不完整的构建并使测试套件高效来帮助工程师 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/koality-helps-engineers-by-eliminating-broken-builds-and-making-test-suites-efficient/>
 

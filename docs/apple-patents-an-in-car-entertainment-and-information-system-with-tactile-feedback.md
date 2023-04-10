@@ -1,4 +1,4 @@
-# 苹果申请了一项带有触觉反馈的车内娱乐和信息系统专利 TechCrunch
+# 苹果申请了一项带有触觉反馈的车内娱乐和信息系统专利 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/09/apple-patents-an-in-car-entertainment-and-information-system-with-tactile-feedback/>
 

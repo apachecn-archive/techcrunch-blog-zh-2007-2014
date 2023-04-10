@@ -1,4 +1,4 @@
-# OLPC 平板电脑将采用双模式屏幕，运行安卓系统，参加 2011 年 CES TechCrunch
+# OLPC 平板电脑将采用双模式屏幕，运行安卓系统，参加 2011 年 CES 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/27/olpc-tablet-to-have-dual-mode-screen-run-android-be-at-ces-2011/>
 

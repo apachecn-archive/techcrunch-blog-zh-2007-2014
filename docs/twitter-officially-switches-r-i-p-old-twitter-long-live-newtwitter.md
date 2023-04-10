@@ -1,4 +1,4 @@
-# Twitter 正式转换:R.I.P .旧 Twitter 万岁# new Twitter TechCrunch
+# Twitter 正式转换:R.I.P .旧 Twitter 万岁# new Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/twitter-officially-switches-r-i-p-old-twitter-long-live-newtwitter/>
 

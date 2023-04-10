@@ -1,4 +1,4 @@
-# 谷歌文档变得更加学生友好 TechCrunch
+# 谷歌文档变得更加学生友好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/28/google-docs-becomes-more-student-friendly/>
 

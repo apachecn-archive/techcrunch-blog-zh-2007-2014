@@ -1,4 +1,4 @@
-# 信息图:60 秒内的移动世界 TechCrunch
+# 信息图:60 秒内的移动世界 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/infographic-the-mobile-world-in-60-seconds/>
 

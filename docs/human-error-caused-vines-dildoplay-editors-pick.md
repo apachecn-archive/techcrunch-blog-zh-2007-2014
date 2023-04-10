@@ -1,4 +1,4 @@
-# “人为错误”导致 Vine 的 DildoPlay 编辑精选 TechCrunch
+# “人为错误”导致 Vine 的 DildoPlay 编辑精选 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/human-error-caused-vines-dildoplay-editors-pick/>
 

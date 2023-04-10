@@ -1,4 +1,4 @@
-# Visionect 是一个构建电子纸应用程序的低成本平台 TechCrunch
+# Visionect 是一个构建电子纸应用程序的低成本平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/21/visionect-is-a-low-cost-platform-for-building-e-paper-applications/>
 

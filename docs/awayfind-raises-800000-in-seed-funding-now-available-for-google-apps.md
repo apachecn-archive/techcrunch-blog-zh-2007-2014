@@ -1,4 +1,4 @@
-# AwayFind 筹集了 80 万美元的种子资金，现在可用于 Google Apps TechCrunch
+# AwayFind 筹集了 80 万美元的种子资金，现在可用于 Google Apps 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/awayfind-raises-800000-in-seed-funding-now-available-for-google-apps/>
 

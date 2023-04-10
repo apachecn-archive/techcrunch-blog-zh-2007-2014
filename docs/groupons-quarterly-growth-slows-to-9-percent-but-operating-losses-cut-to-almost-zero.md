@@ -1,4 +1,4 @@
-# Groupon 的季度增长率降至 9 %,但运营亏损几乎为零 TechCrunch
+# Groupon 的季度增长率降至 9 %,但运营亏损几乎为零 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/groupons-quarterly-growth-slows-to-9-percent-but-operating-losses-cut-to-almost-zero/>
 

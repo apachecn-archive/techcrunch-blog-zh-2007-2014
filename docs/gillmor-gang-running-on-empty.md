@@ -1,4 +1,4 @@
-# 吉尔摩帮:在空虚中奔跑 TechCrunch
+# 吉尔摩帮:在空虚中奔跑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/07/gillmor-gang-running-on-empty/>
 

@@ -1,4 +1,4 @@
-# 脸书禁止 Netlog 违反其政策 TechCrunch
+# 脸书禁止 Netlog 违反其政策 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/12/facebook-bans-netlog-for-violating-its-policies/>
 

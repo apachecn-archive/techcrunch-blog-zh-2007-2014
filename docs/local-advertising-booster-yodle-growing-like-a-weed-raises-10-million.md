@@ -1,4 +1,4 @@
-# 像杂草一样生长的本地广告助推器 Yodle 筹集了 1000 万美元 TechCrunch
+# 像杂草一样生长的本地广告助推器 Yodle 筹集了 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/12/local-advertising-booster-yodle-growing-like-a-weed-raises-10-million/>
 

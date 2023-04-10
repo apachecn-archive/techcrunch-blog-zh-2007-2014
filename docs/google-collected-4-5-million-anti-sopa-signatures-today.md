@@ -1,4 +1,4 @@
-# 谷歌今天收集了 450 万个反 SOPA 签名 TechCrunch
+# 谷歌今天收集了 450 万个反 SOPA 签名 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/18/google-collected-4-5-million-anti-sopa-signatures-today/>
 

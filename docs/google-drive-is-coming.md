@@ -1,4 +1,4 @@
-# 是的，Google Drive 来了。这次是真的。TechCrunch
+# 是的，Google Drive 来了。这次是真的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/24/google-drive-is-coming/>
 

@@ -1,4 +1,4 @@
-# 互联家庭之战正在升温 TechCrunch
+# 互联家庭之战正在升温 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/23/big-companies-could-crowd-out-startups-in-the-new-battle-for-the-home/>
 

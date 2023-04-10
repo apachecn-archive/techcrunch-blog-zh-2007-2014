@@ -1,4 +1,4 @@
-# Pinterest 加入 Twitter 和脸书，成为最新的自我表达引擎 TechCrunch
+# Pinterest 加入 Twitter 和脸书，成为最新的自我表达引擎 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/the-self-expression-engine/>
 

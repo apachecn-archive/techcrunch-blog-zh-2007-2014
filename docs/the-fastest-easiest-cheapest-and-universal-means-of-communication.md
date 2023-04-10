@@ -1,4 +1,4 @@
-# “最快、最简单、最便宜、最通用的通信方式”TechCrunch
+# “最快、最简单、最便宜、最通用的通信方式”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/23/the-fastest-easiest-cheapest-and-universal-means-of-communication/>
 

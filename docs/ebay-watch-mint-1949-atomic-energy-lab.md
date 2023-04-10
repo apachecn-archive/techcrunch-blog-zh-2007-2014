@@ -1,4 +1,4 @@
-# 易贝手表:薄荷 1949 年原子能实验室 TechCrunch
+# 易贝手表:薄荷 1949 年原子能实验室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/17/ebay-watch-mint-1949-atomic-energy-lab/>
 

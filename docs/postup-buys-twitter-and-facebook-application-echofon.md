@@ -1,4 +1,4 @@
-# PostUp 收购 Twitter 和脸书应用开发商 EchoFon TechCrunch
+# PostUp 收购 Twitter 和脸书应用开发商 EchoFon 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/postup-buys-twitter-and-facebook-application-echofon/>
 

@@ -1,4 +1,4 @@
-# 爆米花时代的甜蜜讽刺 TechCrunch
+# 爆米花时代的甜蜜讽刺 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/22/the-sweet-irony-of-popcorn-time/>
 

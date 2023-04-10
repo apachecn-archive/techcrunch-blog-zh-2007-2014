@@ -1,4 +1,4 @@
-# 丹尼尔·拉弗尔最喜欢的 2010 年新极客 TechCrunch
+# 丹尼尔·拉弗尔最喜欢的 2010 年新极客 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/09/daniel-raffel-geek-2010/>
 

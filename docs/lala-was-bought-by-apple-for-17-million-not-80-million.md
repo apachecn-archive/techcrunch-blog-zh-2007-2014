@@ -1,4 +1,4 @@
-# LaLa 被苹果以 1700 万美元收购，而不是 8000 万美元 TechCrunch
+# LaLa 被苹果以 1700 万美元收购，而不是 8000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/07/lala-was-bought-by-apple-for-17-million-not-80-million/>
 

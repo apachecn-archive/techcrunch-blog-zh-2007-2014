@@ -1,4 +1,4 @@
-# 社交分类服务 Oodle 团购 TechCrunch
+# 社交分类服务 Oodle 团购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/17/social-classifieds-service-oodle-buys-grouply/>
 

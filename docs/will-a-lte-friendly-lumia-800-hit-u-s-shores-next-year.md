@@ -1,4 +1,4 @@
-# 支持 LTE 的 Lumia 800 明年会登陆美国吗？TechCrunch
+# 支持 LTE 的 Lumia 800 明年会登陆美国吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/will-a-lte-friendly-lumia-800-hit-u-s-shores-next-year/>
 

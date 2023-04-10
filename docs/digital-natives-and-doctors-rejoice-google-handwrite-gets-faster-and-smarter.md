@@ -1,4 +1,4 @@
-# 数字原住民和医生欢欣鼓舞，谷歌手写变得更快更智能 TechCrunch
+# 数字原住民和医生欢欣鼓舞，谷歌手写变得更快更智能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/digital-natives-and-doctors-rejoice-google-handwrite-gets-faster-and-smarter/>
 

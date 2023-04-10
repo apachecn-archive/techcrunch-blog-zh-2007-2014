@@ -1,4 +1,4 @@
-# 大多数顶级品牌现在都有移动应用 TechCrunch
+# 大多数顶级品牌现在都有移动应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/majority-of-top-100-brands-now-have-mobile-apps-up-from-just-half-18-months-ago/>
 

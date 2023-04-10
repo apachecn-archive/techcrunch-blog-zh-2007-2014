@@ -1,4 +1,4 @@
-# 风险投资的精益财务模式 TechCrunch
+# 风险投资的精益财务模式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/04/lean-finance-model-venture-capital/>
 

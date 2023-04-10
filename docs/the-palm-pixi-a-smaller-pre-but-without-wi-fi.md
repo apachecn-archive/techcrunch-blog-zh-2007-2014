@@ -1,4 +1,4 @@
-# Palm Pixi:更小的 Pre，但没有 Wi-Fi TechCrunch
+# Palm Pixi:更小的 Pre，但没有 Wi-Fi 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/09/the-palm-pixi-a-smaller-pre-but-without-wi-fi/>
 

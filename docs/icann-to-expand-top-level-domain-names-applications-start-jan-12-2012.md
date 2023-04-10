@@ -1,4 +1,4 @@
-# ICANN 将扩大顶级域名，申请于 2012 年 1 月 12 日开始 TechCrunch
+# ICANN 将扩大顶级域名，申请于 2012 年 1 月 12 日开始 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/20/icann-to-expand-top-level-domain-names-applications-start-jan-12-2012/>
 

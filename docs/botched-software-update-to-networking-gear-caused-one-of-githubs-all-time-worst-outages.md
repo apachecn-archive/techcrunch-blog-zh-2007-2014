@@ -1,4 +1,4 @@
-# 网络设备的拙劣软件更新导致了 GitHub 有史以来最严重的中断之一 TechCrunch
+# 网络设备的拙劣软件更新导致了 GitHub 有史以来最严重的中断之一 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/27/botched-software-update-to-networking-gear-caused-one-of-githubs-all-time-worst-outages/>
 

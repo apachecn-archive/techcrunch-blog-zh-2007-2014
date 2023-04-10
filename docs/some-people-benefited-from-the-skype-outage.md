@@ -1,4 +1,4 @@
-# 一些人从 Skype 中断中受益 TechCrunch
+# 一些人从 Skype 中断中受益 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/19/some-people-benefited-from-the-skype-outage/>
 

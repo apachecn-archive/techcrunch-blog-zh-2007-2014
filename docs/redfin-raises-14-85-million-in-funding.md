@@ -1,4 +1,4 @@
-# Redfin 再筹集 1480 万美元重塑房地产市场 TechCrunch
+# Redfin 再筹集 1480 万美元重塑房地产市场 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/redfin-raises-14-85-million-in-funding/>
 

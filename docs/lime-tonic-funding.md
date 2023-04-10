@@ -1,4 +1,4 @@
-# Lime&Tonic 获得€100 万美元天使投资，因为面向富人的应用程序也需要现金 TechCrunch
+# Lime&Tonic 获得€100 万美元天使投资，因为面向富人的应用程序也需要现金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/07/lime-tonic-funding/>
 

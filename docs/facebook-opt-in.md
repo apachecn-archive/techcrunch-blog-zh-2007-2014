@@ -1,4 +1,4 @@
-# 脸书与联邦贸易委员会达成和解，决定选择加入 TechCrunch
+# 脸书与联邦贸易委员会达成和解，决定选择加入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/facebook-opt-in/>
 

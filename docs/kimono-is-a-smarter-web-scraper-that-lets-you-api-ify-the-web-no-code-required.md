@@ -1,4 +1,4 @@
-# 和服是一个更智能的网络抓取器，让你“API 化”网络，不需要代码 TechCrunch
+# 和服是一个更智能的网络抓取器，让你“API 化”网络，不需要代码 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/18/kimono-is-a-smarter-web-scraper-that-lets-you-api-ify-the-web-no-code-required/>
 

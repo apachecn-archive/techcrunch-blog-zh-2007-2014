@@ -1,4 +1,4 @@
-# 华硕调侃 Transformer 2 Android 平板电脑，暗示下一次转型 TechCrunch
+# 华硕调侃 Transformer 2 Android 平板电脑，暗示下一次转型 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/asus-teases-the-transformer-2-android-tablet-hints-at-the-next-transformation/>
 

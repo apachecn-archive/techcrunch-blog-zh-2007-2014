@@ -1,4 +1,4 @@
-# Broadcom 和 Skyhook 无线合作伙伴将 Wi-Fi 定位引入更多手机 TechCrunch
+# Broadcom 和 Skyhook 无线合作伙伴将 Wi-Fi 定位引入更多手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/30/broadcom-and-skyhook-wireless-partner-to-bring-wi-fi-positioning-to-more-mobile-phones/>
 

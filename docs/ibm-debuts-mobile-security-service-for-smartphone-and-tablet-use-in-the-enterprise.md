@@ -1,4 +1,4 @@
-# IBM 首次推出面向企业智能手机和平板电脑的移动安全服务 TechCrunch
+# IBM 首次推出面向企业智能手机和平板电脑的移动安全服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/10/ibm-debuts-mobile-security-service-for-smartphone-and-tablet-use-in-the-enterprise/>
 

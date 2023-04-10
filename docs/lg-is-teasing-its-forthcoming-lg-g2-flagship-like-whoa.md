@@ -1,4 +1,4 @@
-# LG 正在取笑其即将推出的 LG“G2”旗舰产品，如 Whoa TechCrunch
+# LG 正在取笑其即将推出的 LG“G2”旗舰产品，如 Whoa 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/08/lg-is-teasing-its-forthcoming-lg-g2-flagship-like-whoa/>
 

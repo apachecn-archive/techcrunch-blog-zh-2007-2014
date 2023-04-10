@@ -1,4 +1,4 @@
-# 代码评估初创公司 Coderloop 被 Gild 收购，停止运营 TechCrunch
+# 代码评估初创公司 Coderloop 被 Gild 收购，停止运营 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/code-evaluation-startup-coderloop-acquired-by-gild-to-cease-operations/>
 

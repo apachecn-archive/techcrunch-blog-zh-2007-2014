@@ -1,4 +1,4 @@
-# Quora + CrunchBase + LinkedIn =有史以来最好的扩展？TechCrunch
+# Quora + CrunchBase + LinkedIn =有史以来最好的扩展？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/26/polaris-insights-extension/>
 

@@ -1,4 +1,4 @@
-# 在 Skeuomorphism 之后 TechCrunch
+# 在 Skeuomorphism 之后 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/04/after-skeuomorphism/>
 

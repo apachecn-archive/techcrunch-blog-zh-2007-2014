@@ -1,4 +1,4 @@
-# 脸书是故意压低其官方用户数量吗？TechCrunch
+# 脸书是故意压低其官方用户数量吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/27/is-facebook-purposefully-lowballing-its-official-user-numbers/>
 

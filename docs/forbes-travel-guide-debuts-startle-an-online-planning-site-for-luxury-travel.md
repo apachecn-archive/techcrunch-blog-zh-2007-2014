@@ -1,4 +1,4 @@
-# 福布斯旅游指南首次亮相，这是一个豪华旅游在线规划网站 TechCrunch
+# 福布斯旅游指南首次亮相，这是一个豪华旅游在线规划网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/forbes-travel-guide-debuts-startle-an-online-planning-site-for-luxury-travel/>
 

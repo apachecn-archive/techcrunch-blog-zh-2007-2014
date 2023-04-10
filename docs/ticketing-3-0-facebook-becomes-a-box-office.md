@@ -1,4 +1,4 @@
-# 票务 3.0:脸书成为票房 TechCrunch
+# 票务 3.0:脸书成为票房 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/ticketing-3-0-facebook-becomes-a-box-office/>
 

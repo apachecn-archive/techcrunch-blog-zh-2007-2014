@@ -1,4 +1,4 @@
-# Flipboard 1.5 集成了 LinkedIn，为精选新闻浏览添加了内容指南 TechCrunch
+# Flipboard 1.5 集成了 LinkedIn，为精选新闻浏览添加了内容指南 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/30/flipboard-1-5-integrates-linkedin-adds-a-content-guide-for-curated-social-browsing/>
 

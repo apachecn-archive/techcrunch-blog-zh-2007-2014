@@ -1,4 +1,4 @@
-# 平的挽歌 TechCrunch
+# 平的挽歌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/and-flights-of-angels-sing-thee-to-thy-rest/>
 

@@ -1,4 +1,4 @@
-# 据报道，英国将取消 20%的比特币税 TechCrunch
+# 据报道，英国将取消 20%的比特币税 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/02/britain-will-reportedly-scrap-20-tax-on-bitcoin/>
 

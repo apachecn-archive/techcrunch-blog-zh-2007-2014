@@ -1,4 +1,4 @@
-# 不飞则亡:G+还是脸书？谁飞得更高？TechCrunch
+# 不飞则亡:G+还是脸书？谁飞得更高？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/fly-or-die-g-or-facebook-who-flew-higher/>
 

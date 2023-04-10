@@ -1,4 +1,4 @@
-# Rosetta Stone 以 850 万美元现金收购在线语言学习社区 Livemocha TechCrunch
+# Rosetta Stone 以 850 万美元现金收购在线语言学习社区 Livemocha 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/02/rosetta-stone-buys-up-online-language-learning-community-livemocha-for-8-3m-in-cash/>
 

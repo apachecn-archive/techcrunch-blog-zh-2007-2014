@@ -1,4 +1,4 @@
-# 被 Facebook Messenger 取代，白鲸将于 11 月 11 日停止游泳 TechCrunch
+# 被 Facebook Messenger 取代，白鲸将于 11 月 11 日停止游泳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/supplanted-by-facebook-messenger-beluga-will-stop-swimming-on-november-11/>
 

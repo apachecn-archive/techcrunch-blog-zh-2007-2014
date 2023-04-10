@@ -1,4 +1,4 @@
-# 为什么杰克·多西想成为史蒂夫·乔布斯那样的人？TechCrunch
+# 为什么杰克·多西想成为史蒂夫·乔布斯那样的人？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/does-jack-dorsey-want-to-be-just-like-steve-jobs/>
 

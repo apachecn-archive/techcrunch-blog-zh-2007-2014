@@ -1,4 +1,4 @@
-# Y Combinator 年冬季演示日，第二批:认识 Lollipuff、Goldbely 等 TechCrunch
+# Y Combinator 年冬季演示日，第二批:认识 Lollipuff、Goldbely 等 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/26/y-combinator-winter-2013-batch-2/>
 

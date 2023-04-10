@@ -1,4 +1,4 @@
-# 苹果用 iOS 7 重新发明轮子，带着开发者一起上路 TechCrunch
+# 苹果用 iOS 7 重新发明轮子，带着开发者一起上路 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/18/apple-re-invents-its-wheel-with-ios7-takes-developers-along-for-the-ride/>
 

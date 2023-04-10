@@ -1,4 +1,4 @@
-# 赠品:三包 PB&J 玩家食物 TechCrunch
+# 赠品:三包 PB&J 玩家食物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/29/giveaway-three-packs-of-pbj-gamer-grub-plus-a-bonus-flash-drive/>
 

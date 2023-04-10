@@ -1,4 +1,4 @@
-# 潘多拉电池黑客复活你的砖砌 PSP TechCrunch
+# 潘多拉电池黑客复活你的砖砌 PSP 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/pandoras-battery-hack-resurrects-your-bricked-psp/>
 

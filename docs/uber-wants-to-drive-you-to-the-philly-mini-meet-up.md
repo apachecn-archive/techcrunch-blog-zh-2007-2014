@@ -1,4 +1,4 @@
-# 优步想开车送你去费城小型聚会 TechCrunch
+# 优步想开车送你去费城小型聚会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/15/uber-wants-to-drive-you-to-the-philly-mini-meet-up/>
 

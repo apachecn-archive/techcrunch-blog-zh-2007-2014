@@ -1,4 +1,4 @@
-# 薄荷机器人 Swiffer 获得升级 TechCrunch
+# 薄荷机器人 Swiffer 获得升级 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/mint-robotic-swiffer-gets-an-upgrade/>
 

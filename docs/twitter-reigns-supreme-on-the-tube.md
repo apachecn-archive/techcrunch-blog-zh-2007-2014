@@ -1,4 +1,4 @@
-# Twitter 在地铁上独领风骚 TechCrunch
+# Twitter 在地铁上独领风骚 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/31/twitter-reigns-supreme-on-the-tube/>
 

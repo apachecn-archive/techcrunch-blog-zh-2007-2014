@@ -1,4 +1,4 @@
-# Expedia 以 6.32 亿美元收购欧洲酒店搜索网站 Trivago 的多数股权 TechCrunch
+# Expedia 以 6.32 亿美元收购欧洲酒店搜索网站 Trivago 的多数股权 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/21/expedia-buys-majority-stake-in-european-hotel-search-site-trivago-for-632-million/>
 

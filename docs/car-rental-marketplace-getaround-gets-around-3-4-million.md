@@ -1,4 +1,4 @@
-# 汽车租赁市场 Getaround 获得约 340 万美元 TechCrunch
+# 汽车租赁市场 Getaround 获得约 340 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/09/car-rental-marketplace-getaround-gets-around-3-4-million/>
 

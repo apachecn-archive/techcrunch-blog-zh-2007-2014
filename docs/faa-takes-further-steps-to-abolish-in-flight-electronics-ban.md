@@ -1,4 +1,4 @@
-# 美国联邦航空局采取进一步措施废除机上电子设备禁令 TechCrunch
+# 美国联邦航空局采取进一步措施废除机上电子设备禁令 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/21/faa-takes-further-steps-to-abolish-in-flight-electronics-ban/>
 

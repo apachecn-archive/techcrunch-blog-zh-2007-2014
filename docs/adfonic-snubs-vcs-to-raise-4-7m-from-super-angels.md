@@ -1,4 +1,4 @@
-# Adfonic 击败风投，从超级天使手中融资 470 万美元 TechCrunch
+# Adfonic 击败风投，从超级天使手中融资 470 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/adfonic-snubs-vcs-to-raise-4-7m-from-super-angels/>
 

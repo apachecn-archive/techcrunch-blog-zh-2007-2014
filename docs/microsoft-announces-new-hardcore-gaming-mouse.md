@@ -1,4 +1,4 @@
-# 微软发布新的硬核游戏鼠标——TechCrunch
+# 微软发布新的硬核游戏鼠标——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/microsoft-announces-new-hardcore-gaming-mouse/>
 

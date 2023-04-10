@@ -1,4 +1,4 @@
-# Droplet 是一种机器人洒水器，它对土壤了如指掌 TechCrunch
+# Droplet 是一种机器人洒水器，它对土壤了如指掌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/24/droplet-is-a-robotic-sprinkler/>
 

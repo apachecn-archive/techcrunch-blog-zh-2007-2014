@@ -1,4 +1,4 @@
-# YouTube 确认了与“频道”合作的计划，指定了数十家合作伙伴 TechCrunch
+# YouTube 确认了与“频道”合作的计划，指定了数十家合作伙伴 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/youtube-confirms-plans-to-take-on-cable-with-channels-names-dozens-of-partners/>
 

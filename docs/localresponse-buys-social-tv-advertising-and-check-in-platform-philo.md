@@ -1,4 +1,4 @@
-# LocalResponse 收购社交电视广告和签到平台 Philo TechCrunch
+# LocalResponse 收购社交电视广告和签到平台 Philo 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/localresponse-buys-social-tv-advertising-and-check-in-platform-philo/>
 

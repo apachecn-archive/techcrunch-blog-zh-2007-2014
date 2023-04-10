@@ -1,4 +1,4 @@
-# Twitter 高管开了一个非常不合时宜的 BART 罢工玩笑 TechCrunch
+# Twitter 高管开了一个非常不合时宜的 BART 罢工玩笑 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/19/tech-is-the-opiate-of-the-people/>
 

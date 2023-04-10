@@ -1,4 +1,4 @@
-# 没有免费的 Spotify 邀请？使用您的 Klout 特权 TechCrunch
+# 没有免费的 Spotify 邀请？使用您的 Klout 特权 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/dont-have-a-free-spotify-invite-use-your-klout-perks/>
 

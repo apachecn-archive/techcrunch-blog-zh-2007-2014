@@ -1,4 +1,4 @@
-# 在线视频广告未能达到之前预测的 9 个原因 TechCrunch
+# 在线视频广告未能达到之前预测的 9 个原因 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/08/why-online-video-advertising-failed-forecasts/>
 

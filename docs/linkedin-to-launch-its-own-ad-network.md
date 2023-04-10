@@ -1,4 +1,4 @@
-# LinkedIn 将推出自己的广告网络 TechCrunch
+# LinkedIn 将推出自己的广告网络 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/14/linkedin-to-launch-its-own-ad-network/>
 

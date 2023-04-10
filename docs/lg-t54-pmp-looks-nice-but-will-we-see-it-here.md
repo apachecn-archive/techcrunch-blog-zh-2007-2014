@@ -1,4 +1,4 @@
-# LG T54 PMP 看起来不错，但我们会在这里看到它吗？TechCrunch
+# LG T54 PMP 看起来不错，但我们会在这里看到它吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/lg-t54-pmp-looks-nice-but-will-we-see-it-here/>
 

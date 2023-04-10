@@ -1,4 +1,4 @@
-# MP3、无线视频瑜伽垫概念 TechCrunch
+# MP3、无线视频瑜伽垫概念 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/21/mp3-wireless-video-enabled-yoga-mat-concept/>
 

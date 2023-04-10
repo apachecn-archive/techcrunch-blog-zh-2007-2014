@@ -1,4 +1,4 @@
-# Ustream 与韩国 KT Corp .成立合资企业，融资 1000 万美元 TechCrunch
+# Ustream 与韩国 KT Corp .成立合资企业，融资 1000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/25/ustream-forges-joint-venture-with-south-koreas-kt-corp-raises-10-million/>
 

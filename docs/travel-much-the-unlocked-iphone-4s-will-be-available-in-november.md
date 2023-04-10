@@ -1,4 +1,4 @@
-# 经常旅行吗？解锁版 iPhone 4S 将于 11 月上市 TechCrunch
+# 经常旅行吗？解锁版 iPhone 4S 将于 11 月上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/travel-much-the-unlocked-iphone-4s-will-be-available-in-november/>
 

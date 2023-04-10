@@ -1,4 +1,4 @@
-# 天空是 Aereo 的极限，假设天空仍然充满免费电视信号 TechCrunch
+# 天空是 Aereo 的极限，假设天空仍然充满免费电视信号 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/10/the-sky-is-the-limit-for-aereo-assuming-the-sky-remains-filled-with-free-tv-signals/>
 

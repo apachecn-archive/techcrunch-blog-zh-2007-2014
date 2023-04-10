@@ -1,4 +1,4 @@
-# 亚马逊让荒谬的 Kindle 2 价格稍微不那么荒谬了 TechCrunch
+# 亚马逊让荒谬的 Kindle 2 价格稍微不那么荒谬了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/08/amazon-makes-the-ridiculous-kindle-price-slightly-less-ridiculous/>
 

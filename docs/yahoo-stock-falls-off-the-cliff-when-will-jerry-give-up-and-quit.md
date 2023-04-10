@@ -1,4 +1,4 @@
-# 雅虎股票跌落悬崖。杰瑞什么时候会放弃？TechCrunch
+# 雅虎股票跌落悬崖。杰瑞什么时候会放弃？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/04/yahoo-stock-falls-off-the-cliff-when-will-jerry-give-up-and-quit/>
 

@@ -1,4 +1,4 @@
-# Seed Edition 为种子阶段的初创公司推出免费订阅计费平台 TechCrunch
+# Seed Edition 为种子阶段的初创公司推出免费订阅计费平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/seed-edition-launches-free-subscription-billing-for-seed-stage-startups/>
 

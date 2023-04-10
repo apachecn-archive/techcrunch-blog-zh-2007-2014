@@ -1,4 +1,4 @@
-# Buy.com 被日本电子商务巨头乐天以 2.5 亿美元收购 TechCrunch
+# Buy.com 被日本电子商务巨头乐天以 2.5 亿美元收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/20/buy-com-gets-acquired-by-japanese-e-commerce-giant-rakuten-for-250-million/>
 

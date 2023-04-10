@@ -1,4 +1,4 @@
-# 夏普推出最轻、最薄的液晶电视 TechCrunch
+# 夏普推出最轻、最薄的液晶电视 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/sharp-unveils-lightest-thinnest-lcd-tv/>
 

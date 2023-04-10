@@ -1,4 +1,4 @@
-# 吉姆·布雷耶的点金术。24 小时内两次收购(漫威和 BBN)TechCrunch
+# 吉姆·布雷耶的点金术。24 小时内两次收购(漫威和 BBN)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/01/jim-breyers-midas-touch-two-acquisitions-in-24-hours-marvel-and-bbn/>
 

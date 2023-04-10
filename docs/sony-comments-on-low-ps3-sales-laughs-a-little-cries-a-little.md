@@ -1,4 +1,4 @@
-# 索尼评论 PS3 销量低，笑一点哭一点 TechCrunch
+# 索尼评论 PS3 销量低，笑一点哭一点 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/sony-comments-on-low-ps3-sales-laughs-a-little-cries-a-little/>
 

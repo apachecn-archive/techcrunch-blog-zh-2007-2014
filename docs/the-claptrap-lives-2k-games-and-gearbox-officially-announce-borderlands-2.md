@@ -1,4 +1,4 @@
-# 哗众取宠的生活！2K 游戏和变速箱官方宣布边疆 2！TechCrunch
+# 哗众取宠的生活！2K 游戏和变速箱官方宣布边疆 2！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/the-claptrap-lives-2k-games-and-gearbox-officially-announce-borderlands-2/>
 

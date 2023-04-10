@@ -1,4 +1,4 @@
-# 广场竞争对手？Cashier Live 为 iPhone 推出 POS 应用 TechCrunch
+# 广场竞争对手？Cashier Live 为 iPhone 推出 POS 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/14/square-competitor-cashier-live-launches-pos-app-for-iphone/>
 

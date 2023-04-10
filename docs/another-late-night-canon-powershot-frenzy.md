@@ -1,4 +1,4 @@
-# 又一次深夜佳能 Powershot 狂潮 TechCrunch
+# 又一次深夜佳能 Powershot 狂潮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/another-late-night-canon-powershot-frenzy/>
 

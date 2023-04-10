@@ -1,4 +1,4 @@
-# Google Ventures 采用金钱球的方式进行投资:一切都是为了数据 TechCrunch
+# Google Ventures 采用金钱球的方式进行投资:一切都是为了数据 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/google-ventures-takes-a-moneyball-approach-to-investing-its-all-about-the-data/>
 

@@ -1,4 +1,4 @@
-# AdSemble 将其数字广告牌广告市场带到芝加哥 TechCrunch
+# AdSemble 将其数字广告牌广告市场带到芝加哥 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/21/adsemble-chicago/>
 

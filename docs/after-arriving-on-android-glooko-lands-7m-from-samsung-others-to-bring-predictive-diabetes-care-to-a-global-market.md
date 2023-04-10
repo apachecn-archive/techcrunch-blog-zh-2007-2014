@@ -1,4 +1,4 @@
-# 登陆安卓系统后，Glooko 从三星获得了 700 万美元甚至更多的资金，将糖尿病预测护理推向全球 TechCrunch
+# 登陆安卓系统后，Glooko 从三星获得了 700 万美元甚至更多的资金，将糖尿病预测护理推向全球 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/08/after-arriving-on-android-glooko-lands-7m-from-samsung-others-to-bring-predictive-diabetes-care-to-a-global-market/>
 

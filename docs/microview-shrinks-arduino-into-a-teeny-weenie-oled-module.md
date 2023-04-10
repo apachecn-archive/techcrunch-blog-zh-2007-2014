@@ -1,4 +1,4 @@
-# Microview 将 Arduino 缩小成一个小小的有机发光二极管模块 TechCrunch
+# Microview 将 Arduino 缩小成一个小小的有机发光二极管模块 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/21/microview-shrinks-arduino-into-a-teeny-weenie-oled-module/>
 

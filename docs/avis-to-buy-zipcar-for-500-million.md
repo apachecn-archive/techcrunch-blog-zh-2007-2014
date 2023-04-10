@@ -1,4 +1,4 @@
-# 汽车租赁公司 Avis 以 5 亿美元收购 Zipcar TechCrunch
+# 汽车租赁公司 Avis 以 5 亿美元收购 Zipcar 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/02/avis-to-buy-zipcar-for-500-million/>
 

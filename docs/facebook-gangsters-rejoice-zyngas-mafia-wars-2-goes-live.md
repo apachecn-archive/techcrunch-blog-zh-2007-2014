@@ -1,4 +1,4 @@
-# 脸书黑帮欢欣鼓舞:Zynga 的黑手党战争 2 上线 TechCrunch
+# 脸书黑帮欢欣鼓舞:Zynga 的黑手党战争 2 上线 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/10/facebook-gangsters-rejoice-zyngas-mafia-wars-2-goes-live/>
 

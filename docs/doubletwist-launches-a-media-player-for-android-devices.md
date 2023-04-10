@@ -1,4 +1,4 @@
-# doubleTwist 为 Android 设备推出了一款精巧的媒体播放器 TechCrunch
+# doubleTwist 为 Android 设备推出了一款精巧的媒体播放器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/02/doubletwist-launches-a-media-player-for-android-devices/>
 

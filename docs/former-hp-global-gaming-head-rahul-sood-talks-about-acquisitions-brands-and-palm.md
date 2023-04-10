@@ -1,4 +1,4 @@
-# 前惠普全球游戏主管 Rahul Sood 谈论收购、品牌和 Palm TechCrunch
+# 前惠普全球游戏主管 Rahul Sood 谈论收购、品牌和 Palm 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/former-hp-global-gaming-head-rahul-sood-talks-about-acquisitions-brands-and-palm/>
 

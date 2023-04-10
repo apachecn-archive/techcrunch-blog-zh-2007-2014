@@ -1,4 +1,4 @@
-# 三星新的 Galaxy S III 结合了 LTE 和四核处理器 TechCrunch
+# 三星新的 Galaxy S III 结合了 LTE 和四核处理器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/05/samsungs-new-galaxy-s-iii-combines-lte-and-quad-core-processor/>
 

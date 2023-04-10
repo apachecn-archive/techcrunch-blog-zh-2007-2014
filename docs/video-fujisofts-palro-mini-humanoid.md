@@ -1,4 +1,4 @@
-# 视频:富士软件的 PALRO 迷你人形 TechCrunch
+# 视频:富士软件的 PALRO 迷你人形 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/video-fujisofts-palro-mini-humanoid/>
 

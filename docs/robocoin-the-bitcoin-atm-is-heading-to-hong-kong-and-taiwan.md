@@ -1,4 +1,4 @@
-# 比特币自动取款机 Robocoin 正走向香港和台湾 TechCrunch
+# 比特币自动取款机 Robocoin 正走向香港和台湾 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/02/robocoin-the-bitcoin-atm-is-heading-to-hong-kong-and-taiwan/>
 

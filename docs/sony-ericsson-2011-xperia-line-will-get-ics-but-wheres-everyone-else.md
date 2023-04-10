@@ -1,4 +1,4 @@
-# 索尼爱立信 2011 年的 Xperia 系列将获得 ICS，但其他人在哪里？TechCrunch
+# 索尼爱立信 2011 年的 Xperia 系列将获得 ICS，但其他人在哪里？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/sony-ericsson-2011-xperia-line-will-get-ics-but-wheres-everyone-else/>
 

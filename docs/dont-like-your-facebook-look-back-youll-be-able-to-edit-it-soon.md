@@ -1,4 +1,4 @@
-# 不喜欢你的脸书《回头看》？你很快就可以编辑它了。TechCrunch
+# 不喜欢你的脸书《回头看》？你很快就可以编辑它了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/dont-like-your-facebook-look-back-youll-be-able-to-edit-it-soon/>
 

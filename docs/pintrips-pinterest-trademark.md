@@ -1,4 +1,4 @@
-# Pintrips 提出动议驳回 Pinterest 的商标诉讼，称“Pin”过于普通 TechCrunch
+# Pintrips 提出动议驳回 Pinterest 的商标诉讼，称“Pin”过于普通 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/09/pintrips-pinterest-trademark/>
 

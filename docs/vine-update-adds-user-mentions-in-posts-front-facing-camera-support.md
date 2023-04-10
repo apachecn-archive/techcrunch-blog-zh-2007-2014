@@ -1,4 +1,4 @@
-# Vine Update 在帖子中增加用户提及，前置摄像头支持 TechCrunch
+# Vine Update 在帖子中增加用户提及，前置摄像头支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/vine-update-adds-user-mentions-in-posts-front-facing-camera-support/>
 

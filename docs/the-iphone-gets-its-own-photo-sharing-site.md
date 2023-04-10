@@ -1,4 +1,4 @@
-# iPhone 有了自己的照片分享网站 TechCrunch
+# iPhone 有了自己的照片分享网站 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/05/the-iphone-gets-its-own-photo-sharing-site/>
 

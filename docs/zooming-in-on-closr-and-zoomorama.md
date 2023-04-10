@@ -1,4 +1,4 @@
-# 放大 ClosR 和 zoom orama TechCrunch
+# 放大 ClosR 和 zoom orama 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/09/zooming-in-on-closr-and-zoomorama/>
 

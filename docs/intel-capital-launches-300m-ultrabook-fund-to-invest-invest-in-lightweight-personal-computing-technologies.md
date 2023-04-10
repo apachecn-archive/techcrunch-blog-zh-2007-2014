@@ -1,4 +1,4 @@
-# 英特尔投资推出 3 亿美元超极本基金投资平板电脑技术 TechCrunch
+# 英特尔投资推出 3 亿美元超极本基金投资平板电脑技术 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/intel-capital-launches-300m-ultrabook-fund-to-invest-invest-in-lightweight-personal-computing-technologies/>
 

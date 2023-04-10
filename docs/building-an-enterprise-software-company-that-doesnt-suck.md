@@ -1,4 +1,4 @@
-# 打造一家不差的企业软件公司 TechCrunch
+# 打造一家不差的企业软件公司 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/10/building-an-enterprise-software-company-that-doesnt-suck/>
 

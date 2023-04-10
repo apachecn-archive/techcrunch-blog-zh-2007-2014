@@ -1,4 +1,4 @@
-# Twitter 每月有 1 亿活跃用户，40%的活跃用户不发微博 TechCrunch
+# Twitter 每月有 1 亿活跃用户，40%的活跃用户不发微博 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/08/twitter-has-100m-monthly-active-users-and-40-of-active-users-dont-tweet/>
 

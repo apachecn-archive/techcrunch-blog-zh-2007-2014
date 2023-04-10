@@ -1,4 +1,4 @@
-# 体育 2.0 版:YourSports 启动雄心勃勃的项目，打造体育脸书 TechCrunch
+# 体育 2.0 版:YourSports 启动雄心勃勃的项目，打造体育脸书 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/sports-section-2-0-yoursports-launches-its-ambitious-project-to-build-the-facebook-of-sports/>
 

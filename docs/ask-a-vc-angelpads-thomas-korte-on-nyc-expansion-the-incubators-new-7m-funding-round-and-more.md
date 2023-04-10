@@ -1,4 +1,4 @@
-# 问一问风投:AngelPad 的托马斯·科特(Thomas Korte)谈纽约扩张、孵化器新一轮 700 万美元的融资以及更多 TechCrunch
+# 问一问风投:AngelPad 的托马斯·科特(Thomas Korte)谈纽约扩张、孵化器新一轮 700 万美元的融资以及更多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/31/ask-a-vc-angelpads-thomas-korte-on-nyc-expansion-the-incubators-new-7m-funding-round-and-more/>
 

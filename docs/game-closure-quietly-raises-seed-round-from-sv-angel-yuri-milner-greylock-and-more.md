@@ -1,4 +1,4 @@
-# 游戏关闭悄悄地从 SV Angel、尤里·米尔纳、Greylock 等公司筹集种子资金 TechCrunch
+# 游戏关闭悄悄地从 SV Angel、尤里·米尔纳、Greylock 等公司筹集种子资金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/31/game-closure-quietly-raises-seed-round-from-sv-angel-yuri-milner-greylock-and-more/>
 

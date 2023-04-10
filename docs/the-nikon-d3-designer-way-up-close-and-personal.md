@@ -1,4 +1,4 @@
-# 尼康 D3 设计师，近距离的个人体验*——TechCrunch
+# 尼康 D3 设计师，近距离的个人体验*——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/the-nikon-d3-designer-way-up-close-and-personal/>
 

@@ -1,4 +1,4 @@
-# 纳斯达克的故障让脸书投资者损失了约 5 亿美元。它只能支付 6200 万美元。别处 IPO。TechCrunch
+# 纳斯达克的故障让脸书投资者损失了约 5 亿美元。它只能支付 6200 万美元。别处 IPO。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/25/ip-oh-my-gosh-all-that-money-just-disappeared/>
 

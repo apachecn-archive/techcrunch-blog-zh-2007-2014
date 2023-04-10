@@ -1,4 +1,4 @@
-# 史蒂夫·乔布斯不想杀死出版商，但苹果的订阅策略会 TechCrunch
+# 史蒂夫·乔布斯不想杀死出版商，但苹果的订阅策略会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/19/apple-kill-publishers/>
 

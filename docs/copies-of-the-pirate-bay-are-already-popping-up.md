@@ -1,4 +1,4 @@
-# 海盗湾的复制品已经出现了 TechCrunch
+# 海盗湾的复制品已经出现了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/20/copies-of-the-pirate-bay-are-already-popping-up/>
 

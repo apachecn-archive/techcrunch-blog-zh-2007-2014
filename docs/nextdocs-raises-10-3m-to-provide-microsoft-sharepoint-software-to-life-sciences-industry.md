@@ -1,4 +1,4 @@
-# NextDocs 筹集 1030 万美元为生命科学行业提供微软 SharePoint 软件 TechCrunch
+# NextDocs 筹集 1030 万美元为生命科学行业提供微软 SharePoint 软件 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/nextdocs-raises-10-3m-to-provide-microsoft-sharepoint-software-to-life-sciences-industry/>
 

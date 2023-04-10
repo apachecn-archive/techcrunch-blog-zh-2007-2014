@@ -1,4 +1,4 @@
-# 通过熟人列表建议框让你不关心的脸书朋友安静下来 TechCrunch
+# 通过熟人列表建议框让你不关心的脸书朋友安静下来 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/21/facebook-acquaintance-list-suggestions/>
 

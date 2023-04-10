@@ -1,4 +1,4 @@
-# RIM 2013 财年 Q2 业绩:净亏损 2.35 亿美元，营收 29 亿美元，黑莓出货量 740 万部 TechCrunch
+# RIM 2013 财年 Q2 业绩:净亏损 2.35 亿美元，营收 29 亿美元，黑莓出货量 740 万部 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/27/rims-fiscal-q2-2013-results-net-loss-of-235-million-on-2-9-billion-in-revenue-7-4-million-blackberrys-shipped/>
 

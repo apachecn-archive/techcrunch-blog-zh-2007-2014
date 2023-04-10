@@ -1,4 +1,4 @@
-# 脸书移动新闻订阅广告很受欢迎，是购买粉丝的最佳方式，广告技术公司首席执行官证实 TechCrunch
+# 脸书移动新闻订阅广告很受欢迎，是购买粉丝的最佳方式，广告技术公司首席执行官证实 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/09/27/cheapest-way-to-buy-facebook-fans/>
 

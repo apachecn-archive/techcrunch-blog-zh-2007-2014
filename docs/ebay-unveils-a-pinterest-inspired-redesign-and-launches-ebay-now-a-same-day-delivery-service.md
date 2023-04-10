@@ -1,4 +1,4 @@
-# 易贝推出受 Pinterest 启发的重新设计，并推出易贝 Now，这是一项当天送达服务 TechCrunch
+# 易贝推出受 Pinterest 启发的重新设计，并推出易贝 Now，这是一项当天送达服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/10/ebay-unveils-a-pinterest-inspired-redesign-and-launches-ebay-now-a-same-day-delivery-service/>
 

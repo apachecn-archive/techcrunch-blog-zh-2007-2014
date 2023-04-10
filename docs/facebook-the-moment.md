@@ -1,4 +1,4 @@
-# 脸书玩具为实时事件帖子提供 Twitter 风格的订阅源 TechCrunch
+# 脸书玩具为实时事件帖子提供 Twitter 风格的订阅源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/06/facebook-the-moment/>
 

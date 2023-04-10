@@ -1,4 +1,4 @@
-# 来自贫民窟的消息:巴西的贫民窟企业家 TechCrunch
+# 来自贫民窟的消息:巴西的贫民窟企业家 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/12/coming-up-from-the-favelas-brazils-slumdog-entrepreneurs/>
 

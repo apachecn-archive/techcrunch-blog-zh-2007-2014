@@ -1,4 +1,4 @@
-# Y Combinator 公司 BitNami 在蓬勃发展的应用商店市场上取得更大进展 TechCrunch
+# Y Combinator 公司 BitNami 在蓬勃发展的应用商店市场上取得更大进展 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/25/y-combinator-company-bitnami-makes-deeper-move-on-booming-app-store-market/>
 

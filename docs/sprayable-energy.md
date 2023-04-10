@@ -1,4 +1,4 @@
-# Thiel Fellow 推出局部能量喷雾，通过皮肤吸收咖啡因 TechCrunch
+# Thiel Fellow 推出局部能量喷雾，通过皮肤吸收咖啡因 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/20/sprayable-energy/>
 

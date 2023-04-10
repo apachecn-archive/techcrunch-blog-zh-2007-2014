@@ -1,4 +1,4 @@
-# “数据熔炉”将在翻转比特的同时为家庭供暖 TechCrunch
+# “数据熔炉”将在翻转比特的同时为家庭供暖 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/data-furnace-would-heat-homes-while-flipping-bits/>
 

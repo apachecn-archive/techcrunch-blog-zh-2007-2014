@@ -1,4 +1,4 @@
-# 教育软件公司 Renaissance Learning 被 PE 公司以 4.4 亿美元收购 TechCrunch
+# 教育软件公司 Renaissance Learning 被 PE 公司以 4.4 亿美元收购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/education-software-company-renaissance-learning-acquired-by-pe-firm-for-440-million/>
 

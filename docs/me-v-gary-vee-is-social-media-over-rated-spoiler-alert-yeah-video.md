@@ -1,4 +1,4 @@
-# Me v Gary Vee:社交媒体被高估了吗？(剧透:耶)[视频 TechCrunch
+# Me v Gary Vee:社交媒体被高估了吗？(剧透:耶)[视频 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/01/me-v-gary-vee-is-social-media-over-rated-spoiler-alert-yeah-video/>
 

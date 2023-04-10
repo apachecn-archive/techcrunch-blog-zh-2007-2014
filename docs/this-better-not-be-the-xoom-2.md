@@ -1,4 +1,4 @@
-# 这最好不是 Xoom 2 TechCrunch
+# 这最好不是 Xoom 2 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/17/this-better-not-be-the-xoom-2/>
 

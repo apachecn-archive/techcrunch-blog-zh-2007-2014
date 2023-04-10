@@ -1,4 +1,4 @@
-# AppCod.es 推出应用商店预测工具，告诉开发者哪些关键词有效 TechCrunch
+# AppCod.es 推出应用商店预测工具，告诉开发者哪些关键词有效 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/12/appcod-es-launches-app-store-prediction-tool-tells-developers-which-keywords-work/>
 

@@ -1,4 +1,4 @@
-# MySpace 平台将于下周发布 TechCrunch
+# MySpace 平台将于下周发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/09/myspace-platform-to-launch-next-week/>
 

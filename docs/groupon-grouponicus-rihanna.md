@@ -1,4 +1,4 @@
-# Groupon 的第一笔 Grouponicus 音乐交易开始了:花 5 美元购买蕾哈娜的新专辑 TechCrunch
+# Groupon 的第一笔 Grouponicus 音乐交易开始了:花 5 美元购买蕾哈娜的新专辑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/22/groupon-grouponicus-rihanna/>
 

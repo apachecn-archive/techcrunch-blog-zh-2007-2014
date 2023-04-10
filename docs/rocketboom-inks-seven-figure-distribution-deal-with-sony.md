@@ -1,4 +1,4 @@
-# Rocketboom 与索尼达成七位数分销协议 TechCrunch
+# Rocketboom 与索尼达成七位数分销协议 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/05/rocketboom-inks-seven-figure-distribution-deal-with-sony/>
 

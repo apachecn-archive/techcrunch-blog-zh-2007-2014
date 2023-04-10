@@ -1,4 +1,4 @@
-# Vizibility 筹集了 130 万美元，让你在人们搜索你时看起来不错 TechCrunch
+# Vizibility 筹集了 130 万美元，让你在人们搜索你时看起来不错 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/vizibility-raises-1-3m-makes-you-look-good-when-people-google-you/>
 

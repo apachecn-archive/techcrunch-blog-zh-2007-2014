@@ -1,4 +1,4 @@
-# 微软寄给我们蜡笔，却没有告诉我们 IE9 测试版将于 9 月 15 日发布 TechCrunch
+# 微软寄给我们蜡笔，却没有告诉我们 IE9 测试版将于 9 月 15 日发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/12/ie9-beta-crayons/>
 

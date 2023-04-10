@@ -1,4 +1,4 @@
-# LG 发布两款新的 Android 姜饼手机:Optimus Pro 和 Optimus Net TechCrunch
+# LG 发布两款新的 Android 姜饼手机:Optimus Pro 和 Optimus Net 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/lg-announces-two-new-android-gingerbread-phones-optimus-pro-and-optimus-net/>
 

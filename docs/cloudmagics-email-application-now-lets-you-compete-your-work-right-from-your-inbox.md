@@ -1,4 +1,4 @@
-# CloudMagic 的电子邮件应用程序现在可以让您直接从收件箱中完成工作 TechCrunch
+# CloudMagic 的电子邮件应用程序现在可以让您直接从收件箱中完成工作 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/cloudmagics-email-application-now-lets-you-compete-your-work-right-from-your-inbox/>
 

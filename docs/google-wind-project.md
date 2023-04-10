@@ -1,4 +1,4 @@
-# 谷歌支持美国最大的海上风力发电项目 TechCrunch
+# 谷歌支持美国最大的海上风力发电项目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/12/google-wind-project/>
 

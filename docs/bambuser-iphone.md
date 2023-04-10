@@ -1,4 +1,4 @@
-# Bambuser 的视频流 iPhone 应用程序登陆 App Store，Qik Still MIA TechCrunch
+# Bambuser 的视频流 iPhone 应用程序登陆 App Store，Qik Still MIA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/17/bambuser-iphone/>
 

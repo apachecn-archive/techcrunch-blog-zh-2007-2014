@@ -1,4 +1,4 @@
-# 俄罗斯方块巷战——TechCrunch
+# 俄罗斯方块巷战——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/tetris-street-fight/>
 

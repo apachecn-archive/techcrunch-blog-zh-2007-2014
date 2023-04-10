@@ -1,4 +1,4 @@
-# LaVie Touch: NEC 的 Windows 平板电脑配有 DVD 驱动器和其他附件 TechCrunch
+# LaVie Touch: NEC 的 Windows 平板电脑配有 DVD 驱动器和其他附件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/12/lavie-touch-necs-windows-tablet-comes-with-dvd-drive-other-add-ons/>
 

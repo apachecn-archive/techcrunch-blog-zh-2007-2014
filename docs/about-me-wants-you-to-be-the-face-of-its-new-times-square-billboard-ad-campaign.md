@@ -1,4 +1,4 @@
-# About.me 希望你成为其新时代广场广告牌广告活动的代言人 TechCrunch
+# About.me 希望你成为其新时代广场广告牌广告活动的代言人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/about-me-wants-you-to-be-the-face-of-its-new-times-square-billboard-ad-campaign/>
 

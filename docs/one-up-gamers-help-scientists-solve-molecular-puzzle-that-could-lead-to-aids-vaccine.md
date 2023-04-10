@@ -1,4 +1,4 @@
-# 第一个:游戏玩家帮助科学家解决可能导致艾滋病疫苗的分子难题 TechCrunch
+# 第一个:游戏玩家帮助科学家解决可能导致艾滋病疫苗的分子难题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/01/one-up-gamers-help-scientists-solve-molecular-puzzle-that-could-lead-to-aids-vaccine/>
 

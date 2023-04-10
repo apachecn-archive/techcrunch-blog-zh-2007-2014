@@ -1,4 +1,4 @@
-# iCloud Web 应用不仅存在，而且非常漂亮 TechCrunch
+# iCloud Web 应用不仅存在，而且非常漂亮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/01/apple-icloud-dot-com-web-apps/>
 

@@ -1,4 +1,4 @@
-# 来自谷歌 Chrome 活动的现场直播:Chrome 操作系统、网络商店等 TechCrunch
+# 来自谷歌 Chrome 活动的现场直播:Chrome 操作系统、网络商店等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/07/live-from-googles-chrome-event-chrome-os-web-store-and-more/>
 

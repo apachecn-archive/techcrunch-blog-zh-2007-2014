@@ -1,4 +1,4 @@
-# 爱可视 80 G9 平板电脑评论:有趣但丑陋 TechCrunch
+# 爱可视 80 G9 平板电脑评论:有趣但丑陋 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/archos-80-g9-tablet-review-fun-but-ugly/>
 

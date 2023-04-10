@@ -1,4 +1,4 @@
-# Windows 8.1 的开始按钮不是开始按钮 TechCrunch
+# Windows 8.1 的开始按钮不是开始按钮 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/26/windows-8-1s-start-button-isnt-a-start-button/>
 

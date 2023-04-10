@@ -1,4 +1,4 @@
-# Zoove 融资 1500 万美元，为品牌提供“StarStar”虚荣电话号码 TechCrunch
+# Zoove 融资 1500 万美元，为品牌提供“StarStar”虚荣电话号码 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/16/zoove-raises-15-million-offers-starstar-vanity-phone-numbers-for-brands/>
 

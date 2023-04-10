@@ -1,4 +1,4 @@
-# 雅虎可能寻求收购以色列的 foxy tunes TechCrunch
+# 雅虎可能寻求收购以色列的 foxy tunes 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/17/yahoo-may-be-looking-to-buy-israels-foxytunes/>
 

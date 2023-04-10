@@ -1,4 +1,4 @@
-# 首款 Windows Phone Tango 设备(某种程度上)在斯洛伐克上市 TechCrunch
+# 首款 Windows Phone Tango 设备(某种程度上)在斯洛伐克上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/first-windows-phone-tango-device-sort-of-goes-on-sale-in-slovakia/>
 

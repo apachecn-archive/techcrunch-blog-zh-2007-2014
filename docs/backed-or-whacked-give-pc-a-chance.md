@@ -1,4 +1,4 @@
-# 后退还是疲惫:给 PC 一个机会 TechCrunch
+# 后退还是疲惫:给 PC 一个机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/11/backed-or-whacked-give-pc-a-chance/>
 

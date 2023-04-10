@@ -1,4 +1,4 @@
-# Mac 版 Chrome 获得扩展，新测试版 TechCrunch
+# Mac 版 Chrome 获得扩展，新测试版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/11/chrome-for-mac-gets-extensions-new-beta/>
 

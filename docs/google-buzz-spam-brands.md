@@ -1,4 +1,4 @@
-# 品牌没有浪费时间与谷歌 Buzz。这可能会很烦人。TechCrunch
+# 品牌没有浪费时间与谷歌 Buzz。这可能会很烦人。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/10/google-buzz-spam-brands/>
 

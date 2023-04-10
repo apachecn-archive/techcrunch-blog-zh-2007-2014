@@ -1,4 +1,4 @@
-# 拿到学位羡慕？别担心，你还是可以做得更好的。TechCrunch
+# 拿到学位羡慕？别担心，你还是可以做得更好的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/24/got-degree-envy-no-worries-you-can-still-make-it-big/>
 

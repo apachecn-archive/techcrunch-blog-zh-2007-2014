@@ -1,4 +1,4 @@
-# 脸书估计将获得美国在线广告收入的近 5% TechCrunch
+# 脸书估计将获得美国在线广告收入的近 5% 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/17/facebook-5-percent-online-ad-revenue/>
 

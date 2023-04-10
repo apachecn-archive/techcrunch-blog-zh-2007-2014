@@ -1,4 +1,4 @@
-# Chartboost 为手机游戏开发商推出新方法，推动应用内购买 TechCrunch
+# Chartboost 为手机游戏开发商推出新方法，推动应用内购买 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/chartboost-launches-new-way-for-mobile-game-devs-to-power-in-app-purchases/>
 

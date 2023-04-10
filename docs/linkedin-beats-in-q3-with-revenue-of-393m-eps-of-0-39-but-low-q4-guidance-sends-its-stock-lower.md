@@ -1,4 +1,4 @@
-# LinkedIn 在第三季度的收入为 3.93 亿美元，每股收益为 0.39 美元，但第四季度疲软的指引导致其股价下跌 TechCrunch
+# LinkedIn 在第三季度的收入为 3.93 亿美元，每股收益为 0.39 美元，但第四季度疲软的指引导致其股价下跌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/29/linkedin-beats-in-q3-with-revenue-of-393m-eps-of-0-39-but-low-q4-guidance-sends-its-stock-lower/>
 

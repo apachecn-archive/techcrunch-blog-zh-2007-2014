@@ -1,4 +1,4 @@
-# Philippe Botteri 离开硅谷贝塞麦，前往伦敦的 Accel TechCrunch
+# Philippe Botteri 离开硅谷贝塞麦，前往伦敦的 Accel 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/philippe-botteri-leaves-silicon-valley-bessemer-for-accel-in-london/>
 

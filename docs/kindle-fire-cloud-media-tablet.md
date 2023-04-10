@@ -1,4 +1,4 @@
-# Kindle Fire 将亚马逊的所有云媒体整合到平板电脑上 TechCrunch
+# Kindle Fire 将亚马逊的所有云媒体整合到平板电脑上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/kindle-fire-cloud-media-tablet/>
 

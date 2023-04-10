@@ -1,4 +1,4 @@
-# 谷歌和脸书继续引领媒体网站视频的推荐流量 TechCrunch
+# 谷歌和脸书继续引领媒体网站视频的推荐流量 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/17/google-and-facebook-continue-to-lead-referral-traffic-for-videos-on-media-sites/>
 

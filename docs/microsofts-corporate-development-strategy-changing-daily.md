@@ -1,4 +1,4 @@
-# 微软的企业发展战略每天都在变化 TechCrunch
+# 微软的企业发展战略每天都在变化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/07/microsofts-corporate-development-strategy-changing-daily/>
 

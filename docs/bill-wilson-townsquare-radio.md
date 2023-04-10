@@ -1,4 +1,4 @@
-# 前 AOL 内容主管 Bill Wilson 将他的利基媒体战略和老员工带到 Radio TechCrunch
+# 前 AOL 内容主管 Bill Wilson 将他的利基媒体战略和老员工带到 Radio 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/13/bill-wilson-townsquare-radio/>
 

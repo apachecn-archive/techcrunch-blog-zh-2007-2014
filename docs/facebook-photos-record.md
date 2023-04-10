@@ -1,4 +1,4 @@
-# Facebookers 用户提供图片搜索，并在元旦/除夕上传 11 亿张照片，创下纪录 TechCrunch
+# Facebookers 用户提供图片搜索，并在元旦/除夕上传 11 亿张照片，创下纪录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/17/facebook-photos-record/>
 

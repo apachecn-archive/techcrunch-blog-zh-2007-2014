@@ -1,4 +1,4 @@
-# 当所有人都在抱怨时，脸书的新社交插件安装量超过 10 万 TechCrunch
+# 当所有人都在抱怨时，脸书的新社交插件安装量超过 10 万 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/11/facebook-social-plugins/>
 

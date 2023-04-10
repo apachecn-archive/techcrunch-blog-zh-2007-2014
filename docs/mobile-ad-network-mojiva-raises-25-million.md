@@ -1,4 +1,4 @@
-# 移动广告网络 Mojiva 融资 2500 万美元 TechCrunch
+# 移动广告网络 Mojiva 融资 2500 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/mobile-ad-network-mojiva-raises-25-million/>
 

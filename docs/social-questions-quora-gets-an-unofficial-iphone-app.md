@@ -1,4 +1,4 @@
-# 社交问题:Quora 获得了一个非官方的 iPhone 应用 TechCrunch
+# 社交问题:Quora 获得了一个非官方的 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/27/social-questions-quora-gets-an-unofficial-iphone-app/>
 

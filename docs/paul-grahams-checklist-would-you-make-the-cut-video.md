@@ -1,4 +1,4 @@
-# 保罗·格拉厄姆的清单，你能通过吗？[视频 TechCrunch
+# 保罗·格拉厄姆的清单，你能通过吗？[视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/30/paul-grahams-checklist-would-you-make-the-cut-video/>
 

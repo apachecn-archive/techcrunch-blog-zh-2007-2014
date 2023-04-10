@@ -1,4 +1,4 @@
-# Android 的色情应用商店 MiKandi 增加了对付费应用的支持 TechCrunch
+# Android 的色情应用商店 MiKandi 增加了对付费应用的支持 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/23/androids-app-store-for-porn-mikandi-adds-support-for-paid-applications/>
 

@@ -1,4 +1,4 @@
-# 以色列推出新的微型 VC Lool。更好的指导能提高国家的回报吗？TechCrunch
+# 以色列推出新的微型 VC Lool。更好的指导能提高国家的回报吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/15/new-micro-vc-lool-launches-in-israel-can-better-mentoring-boost-the-countrys-returns/>
 

@@ -1,4 +1,4 @@
-# 微软发布。NET 小工具工具包 TechCrunch
+# 微软发布。NET 小工具工具包 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/04/microsoft-releases-net-gadget-toolkit/>
 

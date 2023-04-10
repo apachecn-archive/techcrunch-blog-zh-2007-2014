@@ -1,4 +1,4 @@
-# Pandora 超过 2 亿注册用户，1.4 亿用户通过手机访问 TechCrunch
+# Pandora 超过 2 亿注册用户，1.4 亿用户通过手机访问 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/09/pandora-surpasses-200-million-registered-users-140-million-access-via-mobile/>
 

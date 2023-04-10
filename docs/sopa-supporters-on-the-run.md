@@ -1,4 +1,4 @@
-# 跑路的 SOPA 支持者 TechCrunch
+# 跑路的 SOPA 支持者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/14/sopa-supporters-on-the-run/>
 

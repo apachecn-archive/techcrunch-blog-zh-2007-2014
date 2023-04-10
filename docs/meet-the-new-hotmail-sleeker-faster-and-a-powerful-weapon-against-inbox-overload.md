@@ -1,4 +1,4 @@
-# 迎接新的 Hotmail:更快更时尚，拥有对付收件箱超载的强大武器 TechCrunch
+# 迎接新的 Hotmail:更快更时尚，拥有对付收件箱超载的强大武器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/17/meet-the-new-hotmail-sleeker-faster-and-a-powerful-weapon-against-inbox-overload/>
 

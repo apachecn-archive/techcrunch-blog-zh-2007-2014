@@ -1,4 +1,4 @@
-# 刚刚完成 IPO 的 Wix 收购以色列初创公司 Appixia，为 4200 万用户带来本地移动商务支持 TechCrunch
+# 刚刚完成 IPO 的 Wix 收购以色列初创公司 Appixia，为 4200 万用户带来本地移动商务支持 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/fresh-from-ipo-wix-acquires-israeli-startup-appixia-to-bring-native-mobile-commerce-to-its-42m-users/>
 

@@ -1,4 +1,4 @@
-# 谷歌为响应式网站推出新的广告单元 TechCrunch
+# 谷歌为响应式网站推出新的广告单元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/google-launches-new-ad-unit-for-responsive-sites/>
 

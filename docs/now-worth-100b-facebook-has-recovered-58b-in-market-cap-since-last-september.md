@@ -1,4 +1,4 @@
-# 价值 1000 亿美元的脸书自去年 9 月以来已恢复 580 亿美元的市值 TechCrunch
+# 价值 1000 亿美元的脸书自去年 9 月以来已恢复 580 亿美元的市值 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/26/now-worth-100b-facebook-has-recovered-58b-in-market-cap-since-last-september/>
 

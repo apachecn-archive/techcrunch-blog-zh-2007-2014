@@ -1,4 +1,4 @@
-# 异常收购错误跟踪应用程序 air brake TechCrunch
+# 异常收购错误跟踪应用程序 air brake 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/07/exceptional-acquires-error-tracking-application-airbrake/>
 

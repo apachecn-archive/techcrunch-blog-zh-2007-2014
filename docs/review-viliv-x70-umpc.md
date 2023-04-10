@@ -1,4 +1,4 @@
-# 点评:Viliv X70 UMPC TechCrunch
+# 点评:Viliv X70 UMPC 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/06/review-viliv-x70-umpc/>
 

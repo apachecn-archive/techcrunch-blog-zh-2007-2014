@@ -1,4 +1,4 @@
-# Groupon 收购印尼团购网站 Disdus TechCrunch
+# Groupon 收购印尼团购网站 Disdus 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/06/groupon-acquires-indonesian-group-buying-site-disdus/>
 

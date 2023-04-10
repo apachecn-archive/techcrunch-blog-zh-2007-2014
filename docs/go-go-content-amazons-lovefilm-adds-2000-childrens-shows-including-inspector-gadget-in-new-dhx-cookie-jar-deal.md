@@ -1,4 +1,4 @@
-# Go Go 内容:亚马逊的 LoveFilm 在新 DHX(饼干罐)交易中增加了 2000 个儿童节目，包括 Inspector Gadget TechCrunch
+# Go Go 内容:亚马逊的 LoveFilm 在新 DHX(饼干罐)交易中增加了 2000 个儿童节目，包括 Inspector Gadget 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/21/go-go-content-amazons-lovefilm-adds-2000-childrens-shows-including-inspector-gadget-in-new-dhx-cookie-jar-deal/>
 

@@ -1,4 +1,4 @@
-# 点击此处观看手机第一次仰卧起坐 TechCrunch
+# 点击此处观看手机第一次仰卧起坐 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/watch-the-mobile-first-crunchup-live-here/>
 

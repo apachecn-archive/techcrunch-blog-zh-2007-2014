@@ -1,4 +1,4 @@
-# 美国在线的产品负责人布拉德·加林豪斯走向退出 TechCrunch
+# 美国在线的产品负责人布拉德·加林豪斯走向退出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/aol-garlinghouse-exit/>
 

@@ -1,4 +1,4 @@
-# Zagat 第一个整合美食照片和指南的合作伙伴 TechCrunch
+# Zagat 第一个整合美食照片和指南的合作伙伴 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/13/zagat-and-foodspotting-get-cozy-take-fine-dining-to-the-next-level/>
 

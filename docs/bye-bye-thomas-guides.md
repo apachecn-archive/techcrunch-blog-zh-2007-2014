@@ -1,4 +1,4 @@
-# 谷歌试图抢走脸书的风头，打造令人印象深刻的地图用户群 TechCrunch
+# 谷歌试图抢走脸书的风头，打造令人印象深刻的地图用户群 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/bye-bye-thomas-guides/>
 

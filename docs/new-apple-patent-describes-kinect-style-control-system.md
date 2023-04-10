@@ -1,4 +1,4 @@
-# 苹果新专利描述 Kinect 风格的控制系统 TechCrunch
+# 苹果新专利描述 Kinect 风格的控制系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/08/new-apple-patent-describes-kinect-style-control-system/>
 

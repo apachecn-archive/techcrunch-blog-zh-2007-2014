@@ -1,4 +1,4 @@
-# 安卓手机+ Lumix 摄像头=松下的 Lumix 手机 101P 日本版 TechCrunch
+# 安卓手机+ Lumix 摄像头=松下的 Lumix 手机 101P 日本版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/android-phone-lumix-camera-panasonics-lumix-phone-101p-for-japan/>
 

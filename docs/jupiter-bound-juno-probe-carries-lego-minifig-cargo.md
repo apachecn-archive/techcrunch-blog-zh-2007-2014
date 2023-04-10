@@ -1,4 +1,4 @@
-# 前往木星的朱诺探测器携带乐高迷你玩具货物 TechCrunch
+# 前往木星的朱诺探测器携带乐高迷你玩具货物 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/jupiter-bound-juno-probe-carries-lego-minifig-cargo/>
 

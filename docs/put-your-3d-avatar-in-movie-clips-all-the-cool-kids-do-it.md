@@ -1,4 +1,4 @@
-# 将您的 3D 头像插入电影剪辑。所有酷小孩都这么做。TechCrunch
+# 将您的 3D 头像插入电影剪辑。所有酷小孩都这么做。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/24/put-your-3d-avatar-in-movie-clips-all-the-cool-kids-do-it/>
 

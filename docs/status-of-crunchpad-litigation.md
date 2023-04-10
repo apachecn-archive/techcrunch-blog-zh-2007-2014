@@ -1,4 +1,4 @@
-# CrunchPad 诉讼的状态 TechCrunch
+# CrunchPad 诉讼的状态 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/09/15/status-of-crunchpad-litigation/>
 

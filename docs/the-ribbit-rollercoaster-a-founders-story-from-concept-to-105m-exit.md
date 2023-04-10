@@ -1,4 +1,4 @@
-# Ribbit 过山车:从概念到 1.05 亿美元退出的创始人故事 TechCrunch
+# Ribbit 过山车:从概念到 1.05 亿美元退出的创始人故事 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/21/the-ribbit-rollercoaster-a-founders-story-from-concept-to-105m-exit/>
 

@@ -1,4 +1,4 @@
-# Qwikster Twitter 账户背后的人意识到他拥有什么，想要一大笔钱 TechCrunch
+# Qwikster Twitter 账户背后的人意识到他拥有什么，想要一大笔钱 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/the-guy-behind-the-qwikster-twitter-account-realizes-what-he-has-wants-a-mountain-of-cash/>
 

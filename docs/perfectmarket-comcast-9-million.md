@@ -1,4 +1,4 @@
-# Perfect Market 再融资 900 万美元，提高内容可见性和出版商收入 TechCrunch
+# Perfect Market 再融资 900 万美元，提高内容可见性和出版商收入 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/17/perfectmarket-comcast-9-million/>
 

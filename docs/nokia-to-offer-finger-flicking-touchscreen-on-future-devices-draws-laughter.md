@@ -1,4 +1,4 @@
-# 诺基亚将在未来设备上提供手指轻弹触摸屏，引来笑声 TechCrunch
+# 诺基亚将在未来设备上提供手指轻弹触摸屏，引来笑声 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/nokia-to-offer-finger-flicking-touchscreen-on-future-devices-draws-laughter/>
 

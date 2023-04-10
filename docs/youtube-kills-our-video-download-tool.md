@@ -1,4 +1,4 @@
-# YouTube 扼杀了我们的视频下载工具 TechCrunch
+# YouTube 扼杀了我们的视频下载工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/13/youtube-kills-our-video-download-tool/>
 

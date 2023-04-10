@@ -1,4 +1,4 @@
-# 尺寸很重要:Android 迷你平板电脑项目显示尺寸高达 100 英寸 TechCrunch
+# 尺寸很重要:Android 迷你平板电脑项目显示尺寸高达 100 英寸 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/size-does-matter-android-mini-tablet-projects-display-up-to-100-in-size/>
 

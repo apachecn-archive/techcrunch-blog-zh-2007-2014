@@ -1,4 +1,4 @@
-# Stayful 将 Priceline 模式引入精品酒店，让你实时竞价住宿地点 TechCrunch
+# Stayful 将 Priceline 模式引入精品酒店，让你实时竞价住宿地点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/17/stayful-brings-the-priceline-model-to-boutique-hotels-letting-you-bid-on-places-to-stay-in-realtime/>
 

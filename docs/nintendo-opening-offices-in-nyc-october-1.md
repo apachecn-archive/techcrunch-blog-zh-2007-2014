@@ -1,4 +1,4 @@
-# 任天堂 10 月 1 日在纽约开设办事处？TechCrunch
+# 任天堂 10 月 1 日在纽约开设办事处？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/24/nintendo-opening-offices-in-nyc-october-1/>
 

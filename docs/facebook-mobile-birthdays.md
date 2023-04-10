@@ -1,4 +1,4 @@
-# 脸书开始在移动新闻顶端显示生日和出售礼物 TechCrunch
+# 脸书开始在移动新闻顶端显示生日和出售礼物 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/10/facebook-mobile-birthdays/>
 

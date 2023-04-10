@@ -1,4 +1,4 @@
-# Plaxo 使地址簿流量翻倍，提高了目标 TechCrunch
+# Plaxo 使地址簿流量翻倍，提高了目标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/06/plaxo-doubles-address-book-traffic-raises-ambitions/>
 

@@ -1,4 +1,4 @@
-# 超级粉丝的超级家庭 t 恤。TechCrunch
+# 超级粉丝的超级家庭 t 恤。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/super-famicon-tee-for-the-super-comboy-super-fan/>
 

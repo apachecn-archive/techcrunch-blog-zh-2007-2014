@@ -1,4 +1,4 @@
-# 用于构建推荐引擎的图形数据库 Neo4j 进行了可视化改造 TechCrunch
+# 用于构建推荐引擎的图形数据库 Neo4j 进行了可视化改造 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/02/neo4j-a-graph-database-for-building-recommendation-engines-gets-a-visual-overhaul/>
 

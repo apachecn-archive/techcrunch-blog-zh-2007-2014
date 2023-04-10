@@ -1,4 +1,4 @@
-# 100Plus 从创始人基金和彼得·泰尔筹集了 50 万美元来预测你的健康 TechCrunch
+# 100Plus 从创始人基金和彼得·泰尔筹集了 50 万美元来预测你的健康 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/100plus-raises-500k-from-founders-fund-and-peter-thiel-to-predict-your-health/>
 

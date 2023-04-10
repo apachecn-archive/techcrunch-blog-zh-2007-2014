@@ -1,4 +1,4 @@
-# FitBark 宠物活动监视器对于宠物主人来说是一个合理的设备 TechCrunch
+# FitBark 宠物活动监视器对于宠物主人来说是一个合理的设备 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/the-fitbark-pet-activity-monitor-is-a-reasonable-device-for-pet-owners/>
 

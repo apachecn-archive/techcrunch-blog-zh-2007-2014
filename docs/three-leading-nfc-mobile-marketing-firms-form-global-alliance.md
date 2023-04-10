@@ -1,4 +1,4 @@
-# 三家领先的 NFC 移动营销公司组成全球联盟 TechCrunch
+# 三家领先的 NFC 移动营销公司组成全球联盟 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/three-leading-nfc-mobile-marketing-firms-form-global-alliance/>
 

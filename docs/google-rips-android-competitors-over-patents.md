@@ -1,4 +1,4 @@
-# 谷歌以“假冒专利”攻击微软、苹果、甲骨文，并试图“扼杀”Android TechCrunch
+# 谷歌以“假冒专利”攻击微软、苹果、甲骨文，并试图“扼杀”Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/03/google-rips-android-competitors-over-patents/>
 

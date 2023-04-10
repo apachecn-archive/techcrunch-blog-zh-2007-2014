@@ -1,4 +1,4 @@
-# Digg 可能签下 Digg Girl 唱片合同 TechCrunch
+# Digg 可能签下 Digg Girl 唱片合同 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/28/digg-may-land-digg-girl-record-contract/>
 

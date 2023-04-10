@@ -1,4 +1,4 @@
-# 1938 年，媒体因种族主义指控输掉了威瑞森交易 TechCrunch
+# 1938 年，媒体因种族主义指控输掉了威瑞森交易 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/07/1938-media-loses-verizon-deal-over-racism-charges/>
 

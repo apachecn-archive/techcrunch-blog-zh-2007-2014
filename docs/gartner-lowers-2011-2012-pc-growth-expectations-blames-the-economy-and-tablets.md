@@ -1,4 +1,4 @@
-# Gartner 降低 2011 年和 2012 年 PC 增长预期，归咎于经济和平板电脑 TechCrunch
+# Gartner 降低 2011 年和 2012 年 PC 增长预期，归咎于经济和平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/gartner-lowers-2011-2012-pc-growth-expectations-blames-the-economy-and-tablets/>
 

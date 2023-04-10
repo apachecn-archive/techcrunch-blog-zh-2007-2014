@@ -1,4 +1,4 @@
-# Meexo:将游戏化约会带入智能手机 TechCrunch
+# Meexo:将游戏化约会带入智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/meexo-bringing-game-ified-dating-to-your-smartphone/>
 

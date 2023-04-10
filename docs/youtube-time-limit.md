@@ -1,4 +1,4 @@
-# YouTube 将最大上传限制提高到 15 分钟 TechCrunch
+# YouTube 将最大上传限制提高到 15 分钟 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/29/youtube-time-limit/>
 

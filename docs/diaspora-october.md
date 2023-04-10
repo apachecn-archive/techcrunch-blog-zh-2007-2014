@@ -1,4 +1,4 @@
-# Diaspora 澄清:9 月 15 日开源，10 月消费者 Alpha TechCrunch
+# Diaspora 澄清:9 月 15 日开源，10 月消费者 Alpha 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/30/diaspora-october/>
 

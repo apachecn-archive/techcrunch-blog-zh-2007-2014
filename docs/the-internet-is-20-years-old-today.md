@@ -1,4 +1,4 @@
-# 今天网络已经有 20 年的历史了 TechCrunch
+# 今天网络已经有 20 年的历史了 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/06/the-internet-is-20-years-old-today/>
 

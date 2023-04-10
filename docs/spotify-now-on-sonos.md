@@ -1,4 +1,4 @@
-# Spotify Now On Sonos TechCrunch
+# Spotify Now On Sonos 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/14/spotify-now-on-sonos/>
 

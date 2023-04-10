@@ -1,4 +1,4 @@
-# OneRiot 的实时广告网络 RiotWise 现已向大众开放 TechCrunch
+# OneRiot 的实时广告网络 RiotWise 现已向大众开放 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/15/oneriots-realtime-ad-network-riotwise-now-open-to-the-masses/>
 

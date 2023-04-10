@@ -1,4 +1,4 @@
-# 网络内容的未来- HTML5、Flash 和移动应用 TechCrunch
+# 网络内容的未来- HTML5、Flash 和移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/05/the-future-of-web-content-html5-flash-mobile-apps/>
 

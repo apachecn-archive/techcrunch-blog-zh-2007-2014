@@ -1,4 +1,4 @@
-# 天哪，苹果的市值刚刚超过了微软！！！！等等。没有。TechCrunch
+# 天哪，苹果的市值刚刚超过了微软！！！！等等。没有。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/22/apple-microsoft-market-cap/>
 

@@ -1,4 +1,4 @@
-# 1938 年媒体签署威瑞森协议，CNET 临阵退缩 TechCrunch
+# 1938 年媒体签署威瑞森协议，CNET 临阵退缩 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/30/1938-media-inks-verizon-deal-cnet-gets-cold-feet/>
 

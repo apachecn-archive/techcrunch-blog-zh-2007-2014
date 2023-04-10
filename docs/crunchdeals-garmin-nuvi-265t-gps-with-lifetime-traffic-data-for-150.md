@@ -1,4 +1,4 @@
-# CrunchDeals: Garmin nuvi 265T GPS，终身交通数据，售价 150 美元 TechCrunch
+# CrunchDeals: Garmin nuvi 265T GPS，终身交通数据，售价 150 美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/03/crunchdeals-garmin-nuvi-265t-gps-with-lifetime-traffic-data-for-150/>
 

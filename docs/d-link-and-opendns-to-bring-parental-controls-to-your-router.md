@@ -1,4 +1,4 @@
-# D-Link 和 OpenDNS 为您的路由器带来家长控制 TechCrunch
+# D-Link 和 OpenDNS 为您的路由器带来家长控制 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/d-link-and-opendns-to-bring-parental-controls-to-your-router/>
 

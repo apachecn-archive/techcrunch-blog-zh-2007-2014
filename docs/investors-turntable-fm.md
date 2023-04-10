@@ -1,4 +1,4 @@
-# 尽管许多投资者都在打转，但 Turntable.fm 还没有挑选出一位 DJ TechCrunch
+# 尽管许多投资者都在打转，但 Turntable.fm 还没有挑选出一位 DJ 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/07/investors-turntable-fm/>
 

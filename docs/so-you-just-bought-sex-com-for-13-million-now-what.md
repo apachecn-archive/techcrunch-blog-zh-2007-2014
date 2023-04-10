@@ -1,4 +1,4 @@
-# 你刚刚花 1300 万美元买下了 Sex.com，现在呢？TechCrunch
+# 你刚刚花 1300 万美元买下了 Sex.com，现在呢？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/so-you-just-bought-sex-com-for-13-million-now-what/>
 

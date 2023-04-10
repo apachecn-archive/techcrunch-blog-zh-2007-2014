@@ -1,4 +1,4 @@
-# 迪士尼-ABC 与亚马逊和网飞签署流媒体协议 TechCrunch
+# 迪士尼-ABC 与亚马逊和网飞签署流媒体协议 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/31/disney-abc-signs-streaming-deals-with-amazon-and-netflix/>
 

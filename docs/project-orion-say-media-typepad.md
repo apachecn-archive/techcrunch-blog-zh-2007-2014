@@ -1,4 +1,4 @@
-# 猎户座项目:Say Media 计划将 TypePad 改造成 CMS，并成为网络的 Conde Nast TechCrunch
+# 猎户座项目:Say Media 计划将 TypePad 改造成 CMS，并成为网络的 Conde Nast 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/14/project-orion-say-media-typepad/>
 

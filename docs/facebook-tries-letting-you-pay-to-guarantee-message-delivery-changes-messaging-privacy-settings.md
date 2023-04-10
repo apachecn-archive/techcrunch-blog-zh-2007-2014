@@ -1,4 +1,4 @@
-# 脸书试图让你付费以保证信息传递，改变信息隐私设置 TechCrunch
+# 脸书试图让你付费以保证信息传递，改变信息隐私设置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/20/facebook-tries-letting-you-pay-to-guarantee-message-delivery-changes-messaging-privacy-settings/>
 

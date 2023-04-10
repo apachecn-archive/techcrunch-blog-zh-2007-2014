@@ -1,4 +1,4 @@
-# 佳能正式推出 Pixma Pro-1 照片打印机 TechCrunch
+# 佳能正式推出 Pixma Pro-1 照片打印机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/26/canon-officially-unveils-the-pixma-pro-1-photo-printer/>
 

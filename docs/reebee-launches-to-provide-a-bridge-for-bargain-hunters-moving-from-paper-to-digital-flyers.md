@@ -1,4 +1,4 @@
-# Reebee 的推出为寻找便宜货的人从纸质传单转向数字传单提供了一座桥梁 TechCrunch
+# Reebee 的推出为寻找便宜货的人从纸质传单转向数字传单提供了一座桥梁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/01/reebee-launches-to-provide-a-bridge-for-bargain-hunters-moving-from-paper-to-digital-flyers/>
 

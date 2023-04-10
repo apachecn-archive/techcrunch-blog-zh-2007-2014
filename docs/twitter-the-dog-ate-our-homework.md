@@ -1,4 +1,4 @@
-# 推特:狗吃了我们的作业 TechCrunch
+# 推特:狗吃了我们的作业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/14/twitter-the-dog-ate-our-homework/>
 

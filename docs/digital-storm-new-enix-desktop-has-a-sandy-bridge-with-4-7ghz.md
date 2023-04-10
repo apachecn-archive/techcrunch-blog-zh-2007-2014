@@ -1,4 +1,4 @@
-# Digital Storm 新的 Enix 台式机拥有 4.7GHz 的 Sandy Bridge TechCrunch
+# Digital Storm 新的 Enix 台式机拥有 4.7GHz 的 Sandy Bridge 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/24/digital-storm-new-enix-desktop-has-a-sandy-bridge-with-4-7ghz/>
 

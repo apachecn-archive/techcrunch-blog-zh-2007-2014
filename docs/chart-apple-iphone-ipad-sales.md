@@ -1,4 +1,4 @@
-# 苹果的 iPhone 和 iPad 销量破纪录 TechCrunch
+# 苹果的 iPhone 和 iPad 销量破纪录 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/28/chart-apple-iphone-ipad-sales/>
 

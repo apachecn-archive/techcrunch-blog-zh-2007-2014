@@ -1,4 +1,4 @@
-# 电子商务革命全靠你 TechCrunch
+# 电子商务革命全靠你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/29/the-ecommerce-revolution-is-all-about-you/>
 

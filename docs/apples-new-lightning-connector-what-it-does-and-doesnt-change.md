@@ -1,4 +1,4 @@
-# 苹果新的 Lightning 连接器:它改变了什么，没有改变什么 TechCrunch
+# 苹果新的 Lightning 连接器:它改变了什么，没有改变什么 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/12/apples-new-lightning-connector-what-it-does-and-doesnt-change/>
 

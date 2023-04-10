@@ -1,4 +1,4 @@
-# Windows 8.1 企业版预览版已经发布，请点击此处获取它以及它包含的内容 TechCrunch
+# Windows 8.1 企业版预览版已经发布，请点击此处获取它以及它包含的内容 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/the-windows-8-1-enterprise-preview-is-out-heres-where-to-get-it-and-what-it-contains/>
 

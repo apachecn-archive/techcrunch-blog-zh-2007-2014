@@ -1,4 +1,4 @@
-# 雅虎高管结构瓦解:陆、加林豪斯和马基雅尼离开 TechCrunch
+# 雅虎高管结构瓦解:陆、加林豪斯和马基雅尼离开 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/19/yahoos-executive-structure-crumbles-lu-garlinghouse-and-makhijani-to-leave/>
 

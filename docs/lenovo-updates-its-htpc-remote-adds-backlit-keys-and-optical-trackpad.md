@@ -1,4 +1,4 @@
-# 联想更新了 HTPC 遥控器，增加了背光按键和光学触控板 TechCrunch
+# 联想更新了 HTPC 遥控器，增加了背光按键和光学触控板 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/lenovo-updates-its-htpc-remote-adds-backlit-keys-and-optical-trackpad/>
 

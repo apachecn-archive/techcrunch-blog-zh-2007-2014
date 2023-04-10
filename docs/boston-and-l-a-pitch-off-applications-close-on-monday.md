@@ -1,4 +1,4 @@
-# 波士顿和洛杉矶的竞标申请将于周一截止 TechCrunch
+# 波士顿和洛杉矶的竞标申请将于周一截止 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/27/boston-and-l-a-pitch-off-applications-close-on-monday/>
 

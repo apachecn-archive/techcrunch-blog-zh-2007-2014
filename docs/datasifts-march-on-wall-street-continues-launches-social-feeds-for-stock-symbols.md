@@ -1,4 +1,4 @@
-# DataSift 继续进军华尔街——推出股票代码社交订阅源 TechCrunch
+# DataSift 继续进军华尔街——推出股票代码社交订阅源 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/datasifts-march-on-wall-street-continues-launches-social-feeds-for-stock-symbols/>
 

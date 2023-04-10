@@ -1,4 +1,4 @@
-# 脸书在 OS X 的亲身体验:轻松分享、应用访问和联系人同步 TechCrunch
+# 脸书在 OS X 的亲身体验:轻松分享、应用访问和联系人同步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/19/hands-on-with-facebook-in-os-x-sharing-made-easy-app-access-and-contact-syncing/>
 

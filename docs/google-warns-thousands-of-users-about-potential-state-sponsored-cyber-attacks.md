@@ -1,4 +1,4 @@
-# 谷歌就潜在的国家支持的网络攻击警告数千名用户 TechCrunch
+# 谷歌就潜在的国家支持的网络攻击警告数千名用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/05/google-warns-thousands-of-users-about-potential-state-sponsored-cyber-attacks/>
 

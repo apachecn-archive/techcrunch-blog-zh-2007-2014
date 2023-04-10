@@ -1,4 +1,4 @@
-# Brand Networks 的目标是成为社会营销的一站式商店，它在第一次融资中筹集了 6800 万美元 TechCrunch
+# Brand Networks 的目标是成为社会营销的一站式商店，它在第一次融资中筹集了 6800 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/06/brand-networks-funding/>
 

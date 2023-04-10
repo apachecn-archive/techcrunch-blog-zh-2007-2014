@@ -1,4 +1,4 @@
-# 追踪 Twitter 入侵线索到 digital gangster TechCrunch
+# 追踪 Twitter 入侵线索到 digital gangster 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/05/following-the-twitter-hack-trail-to-digitalganster/>
 

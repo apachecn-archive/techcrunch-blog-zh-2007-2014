@@ -1,4 +1,4 @@
-# 网飞继续拯救电影产业，那么为什么电影公司继续讨厌它呢？TechCrunch
+# 网飞继续拯救电影产业，那么为什么电影公司继续讨厌它呢？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/29/because-theyre-idiots/>
 

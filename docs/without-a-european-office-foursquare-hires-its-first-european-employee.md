@@ -1,4 +1,4 @@
-# 没有欧洲办公室，Foursquare 雇佣了第一名欧洲员工 TechCrunch
+# 没有欧洲办公室，Foursquare 雇佣了第一名欧洲员工 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/without-a-european-office-foursquare-hires-its-first-european-employee/>
 

@@ -1,4 +1,4 @@
-# 红树林嗅到小企业的机会，以 175 万美元支持搜狐 TechCrunch
+# 红树林嗅到小企业的机会，以 175 万美元支持搜狐 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/mangrove-sohoos/>
 

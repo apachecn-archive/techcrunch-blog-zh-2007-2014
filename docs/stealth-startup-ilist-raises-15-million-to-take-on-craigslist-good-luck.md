@@ -1,4 +1,4 @@
-# 秘密创业公司 iList 筹集了 150 万美元来收购 Craigslist。祝你好运。TechCrunch
+# 秘密创业公司 iList 筹集了 150 万美元来收购 Craigslist。祝你好运。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/21/stealth-startup-ilist-raises-15-million-to-take-on-craigslist-good-luck/>
 

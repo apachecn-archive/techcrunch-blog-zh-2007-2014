@@ -1,4 +1,4 @@
-# Context 让你可以在 Dropbox、Evernote、Spotify 等网站上搜索，所有这些都来自 Google.com TechCrunch
+# Context 让你可以在 Dropbox、Evernote、Spotify 等网站上搜索，所有这些都来自 Google.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/context-lets-you-search-across-dropbox-evernote-spotify-more-all-from-google-com/>
 

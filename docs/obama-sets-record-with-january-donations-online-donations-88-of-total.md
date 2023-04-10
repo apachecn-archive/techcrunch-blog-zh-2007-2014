@@ -1,4 +1,4 @@
-# 奥巴马创下一月捐款记录；在线捐款占总额的 88% TechCrunch
+# 奥巴马创下一月捐款记录；在线捐款占总额的 88% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/04/obama-sets-record-with-january-donations-online-donations-88-of-total/>
 

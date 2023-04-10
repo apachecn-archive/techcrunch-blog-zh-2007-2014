@@ -1,4 +1,4 @@
-# 我相信 Google Plus TechCrunch
+# 我相信 Google Plus 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/22/i-believe-in-google-plus/>
 

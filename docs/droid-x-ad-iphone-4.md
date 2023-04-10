@@ -1,4 +1,4 @@
-# Droid X Ad:随心所欲握持手机 TechCrunch
+# Droid X Ad:随心所欲握持手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/30/droid-x-ad-iphone-4/>
 

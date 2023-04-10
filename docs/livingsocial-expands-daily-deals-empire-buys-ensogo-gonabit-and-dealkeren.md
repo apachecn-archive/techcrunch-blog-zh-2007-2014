@@ -1,4 +1,4 @@
-# LivingSocial 扩张每日交易帝国；收购 Ensogo、GoNabit 和 deal keren TechCrunch
+# LivingSocial 扩张每日交易帝国；收购 Ensogo、GoNabit 和 deal keren 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/27/livingsocial-expands-daily-deals-empire-buys-ensogo-gonabit-and-dealkeren/>
 

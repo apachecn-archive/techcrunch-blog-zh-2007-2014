@@ -1,4 +1,4 @@
-# 杨决定关闭雅虎 360——没人注意到 TechCrunch
+# 杨决定关闭雅虎 360——没人注意到 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/23/yang-decides-to-shut-down-yahoo-360%e2%80%94nobody-notices/>
 

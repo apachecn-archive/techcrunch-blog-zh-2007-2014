@@ -1,4 +1,4 @@
-# 为什么 Groupon 不是 Ebay TechCrunch
+# 为什么 Groupon 不是 Ebay 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/17/why-groupon-is-no-ebay/>
 

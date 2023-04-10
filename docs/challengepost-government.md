@@ -1,4 +1,4 @@
-# 挑战 Post 成为政府承包商 TechCrunch
+# 挑战 Post 成为政府承包商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/27/challengepost-government/>
 

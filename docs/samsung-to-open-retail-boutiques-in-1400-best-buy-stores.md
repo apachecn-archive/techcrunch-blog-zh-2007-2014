@@ -1,4 +1,4 @@
-# 三星将在 1400 家百思买商店开设零售专卖店 TechCrunch
+# 三星将在 1400 家百思买商店开设零售专卖店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/samsung-to-open-retail-boutiques-in-1400-best-buy-stores/>
 

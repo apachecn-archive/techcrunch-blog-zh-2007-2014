@@ -1,4 +1,4 @@
-# MediaMall 的 PlayLater 承诺成为互联网视频的 DVR，进入有限的测试版 TechCrunch
+# MediaMall 的 PlayLater 承诺成为互联网视频的 DVR，进入有限的测试版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/29/mediamalls-playlater-promises-to-be-a-dvr-for-internet-video-enters-closed-beta/>
 

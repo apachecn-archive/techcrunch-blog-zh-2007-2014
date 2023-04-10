@@ -1,4 +1,4 @@
-# 鲜花订阅服务 H.Bloom 融资 1000 万美元 TechCrunch
+# 鲜花订阅服务 H.Bloom 融资 1000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/flower-subscription-service-h-bloom-raises-10-million/>
 

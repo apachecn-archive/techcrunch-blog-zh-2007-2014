@@ -1,4 +1,4 @@
-# Chrome 似乎已经达到了 10，000 个扩展，慢慢接近 Firefox TechCrunch
+# Chrome 似乎已经达到了 10，000 个扩展，慢慢接近 Firefox 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/10/chrome-extension-numbers/>
 

@@ -1,4 +1,4 @@
-# IBM 公布 Q2 收入为 267 亿美元，净收入增长 8%至 37 亿美元，Ups 展望 TechCrunch
+# IBM 公布 Q2 收入为 267 亿美元，净收入增长 8%至 37 亿美元，Ups 展望 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/ibm-posts-q2-revenue-of-26-7b-with-net-income-up-8-percent-to-3-7b-ups-outlook/>
 

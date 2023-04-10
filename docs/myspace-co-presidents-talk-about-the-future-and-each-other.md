@@ -1,4 +1,4 @@
-# MySpace 联席总裁谈论未来和彼此 TechCrunch
+# MySpace 联席总裁谈论未来和彼此 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/24/myspace-co-presidents-talk-about-the-future-and-each-other/>
 

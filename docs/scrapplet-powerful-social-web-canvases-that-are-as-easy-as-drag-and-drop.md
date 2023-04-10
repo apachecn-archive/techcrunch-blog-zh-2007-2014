@@ -1,4 +1,4 @@
-# Scrapplet:功能强大的社交网络画布，像拖放一样简单 TechCrunch
+# Scrapplet:功能强大的社交网络画布，像拖放一样简单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/22/scrapplet-powerful-social-web-canvases-that-are-as-easy-as-drag-and-drop/>
 

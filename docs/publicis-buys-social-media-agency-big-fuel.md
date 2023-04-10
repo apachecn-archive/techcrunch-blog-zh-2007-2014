@@ -1,4 +1,4 @@
-# 阳狮收购社交媒体机构 Big Fuel TechCrunch
+# 阳狮收购社交媒体机构 Big Fuel 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/publicis-buys-social-media-agency-big-fuel/>
 

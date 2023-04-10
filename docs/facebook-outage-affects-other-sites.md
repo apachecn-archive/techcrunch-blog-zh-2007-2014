@@ -1,4 +1,4 @@
-# 研究:昨天脸书的停电也降低了主要媒体和零售网站的速度 TechCrunch
+# 研究:昨天脸书的停电也降低了主要媒体和零售网站的速度 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/01/facebook-outage-affects-other-sites/>
 

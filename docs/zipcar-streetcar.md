@@ -1,4 +1,4 @@
-# Zipcar 以 5000 万美元收购英国汽车共享公司 Streetcar TechCrunch
+# Zipcar 以 5000 万美元收购英国汽车共享公司 Streetcar 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/zipcar-streetcar/>
 

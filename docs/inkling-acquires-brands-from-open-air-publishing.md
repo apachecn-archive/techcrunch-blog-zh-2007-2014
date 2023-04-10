@@ -1,4 +1,4 @@
-# Inkling 从露天出版公司收购了两个消费者图书品牌，继续向课堂之外推进 TechCrunch
+# Inkling 从露天出版公司收购了两个消费者图书品牌，继续向课堂之外推进 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/21/inkling-acquires-brands-from-open-air-publishing/>
 

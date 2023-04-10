@@ -1,4 +1,4 @@
-# Postmates 的目标是成为包裹的优步-以及更多 TechCrunch
+# Postmates 的目标是成为包裹的优步-以及更多 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/local-messenger-postmates-aims-to-be-the-uber-of-packages-and-more/>
 

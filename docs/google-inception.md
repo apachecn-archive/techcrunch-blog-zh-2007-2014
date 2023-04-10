@@ -1,4 +1,4 @@
-# 谷歌是在梦幻世界吗？如果是这样，他们离地狱边缘有多近？TechCrunch
+# 谷歌是在梦幻世界吗？如果是这样，他们离地狱边缘有多近？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/20/google-inception/>
 

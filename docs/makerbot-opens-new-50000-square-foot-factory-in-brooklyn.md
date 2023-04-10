@@ -1,4 +1,4 @@
-# Makerbot 在布鲁克林开设了一家占地 50，000 平方英尺的新工厂 TechCrunch
+# Makerbot 在布鲁克林开设了一家占地 50，000 平方英尺的新工厂 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/03/makerbot-opens-new-50000-square-foot-factory-in-brooklyn/>
 

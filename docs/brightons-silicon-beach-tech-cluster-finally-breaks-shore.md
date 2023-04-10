@@ -1,4 +1,4 @@
-# 布莱顿的硅滩科技集群终于上岸了 TechCrunch
+# 布莱顿的硅滩科技集群终于上岸了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/brightons-silicon-beach-tech-cluster-finally-breaks-shore/>
 

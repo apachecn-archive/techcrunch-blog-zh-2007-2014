@@ -1,4 +1,4 @@
-# Skype 将群组视频通话加入企业产品 TechCrunch
+# Skype 将群组视频通话加入企业产品 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/06/skype-adds-group-video-calling-to-enterprise-offering/>
 

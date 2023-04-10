@@ -1,4 +1,4 @@
-# Instagram 的崛起:追踪该应用在全球的传播 TechCrunch
+# Instagram 的崛起:追踪该应用在全球的传播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/24/the-rise-of-instagram-tracking-the-apps-spread-worldwide/>
 

@@ -1,4 +1,4 @@
-# Answers.com 被它的新主人搞得焦头烂额:大规模裁员，首席执行官和首席技术官离开 TechCrunch
+# Answers.com 被它的新主人搞得焦头烂额:大规模裁员，首席执行官和首席技术官离开 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/27/answers-com-gets-gutted-by-its-new-owner-massive-layoffs-ceo-and-cto-out/>
 

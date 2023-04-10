@@ -1,4 +1,4 @@
-# 企业数据软件公司 Splunk 将 IPO 定价为每股 17 美元；价值 16 亿美元 TechCrunch
+# 企业数据软件公司 Splunk 将 IPO 定价为每股 17 美元；价值 16 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/19/enterprise-data-software-company-splunk-prices-ipo-at-17-per-share-valued-at-1-6b/>
 

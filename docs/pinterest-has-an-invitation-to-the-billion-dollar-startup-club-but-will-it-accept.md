@@ -1,4 +1,4 @@
-# Pinterest 有十亿美元创业俱乐部的邀请，但它会接受吗？TechCrunch
+# Pinterest 有十亿美元创业俱乐部的邀请，但它会接受吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/05/pinterest-has-an-invitation-to-the-billion-dollar-startup-club-but-will-it-accept/>
 

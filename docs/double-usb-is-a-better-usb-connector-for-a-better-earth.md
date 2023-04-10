@@ -1,4 +1,4 @@
-# 双 USB 是更好的 USB 连接器，让地球更美好 TechCrunch
+# 双 USB 是更好的 USB 连接器，让地球更美好 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/double-usb-is-a-better-usb-connector-for-a-better-earth/>
 

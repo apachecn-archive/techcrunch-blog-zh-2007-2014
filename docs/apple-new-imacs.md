@@ -1,4 +1,4 @@
-# 苹果用新的英特尔处理器、高速 802.11ac Wi-Fi 和更快的闪存更新 iMac TechCrunch
+# 苹果用新的英特尔处理器、高速 802.11ac Wi-Fi 和更快的闪存更新 iMac 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/apple-new-imacs/>
 

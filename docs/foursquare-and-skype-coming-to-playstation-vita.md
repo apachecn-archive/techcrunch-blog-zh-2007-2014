@@ -1,4 +1,4 @@
-# Foursquare 和 Skype 即将登陆 Playstation Vita TechCrunch
+# Foursquare 和 Skype 即将登陆 Playstation Vita 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/16/foursquare-and-skype-coming-to-playstation-vita/>
 

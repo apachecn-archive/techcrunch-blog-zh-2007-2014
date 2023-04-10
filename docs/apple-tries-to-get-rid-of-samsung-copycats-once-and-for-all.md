@@ -1,4 +1,4 @@
-# 苹果试图一劳永逸地摆脱三星模仿者 TechCrunch
+# 苹果试图一劳永逸地摆脱三星模仿者 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/05/apple-tries-to-get-rid-of-samsung-copycats-once-and-for-all/>
 

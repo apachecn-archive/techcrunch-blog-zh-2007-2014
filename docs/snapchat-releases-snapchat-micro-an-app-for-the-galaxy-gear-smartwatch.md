@@ -1,4 +1,4 @@
-# Snapchat 发布 Snapchat Micro，这是一款适用于 Galaxy Gear 智能手表的应用程序 TechCrunch
+# Snapchat 发布 Snapchat Micro，这是一款适用于 Galaxy Gear 智能手表的应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/snapchat-releases-snapchat-micro-an-app-for-the-galaxy-gear-smartwatch/>
 

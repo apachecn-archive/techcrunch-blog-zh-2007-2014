@@ -1,4 +1,4 @@
-# 沃克数码就游戏专利起诉 Zynga、动视暴雪 TechCrunch
+# 沃克数码就游戏专利起诉 Zynga、动视暴雪 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/05/walker-digital-zynga-activision-and-blizzard/>
 

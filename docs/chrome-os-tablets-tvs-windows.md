@@ -1,4 +1,4 @@
-# 谷歌副总裁:Chrome 操作系统将登陆平板电脑和电视；Windows 和系统管理员减少 TechCrunch
+# 谷歌副总裁:Chrome 操作系统将登陆平板电脑和电视；Windows 和系统管理员减少 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/25/chrome-os-tablets-tvs-windows/>
 

@@ -1,4 +1,4 @@
-# 凯鹏华盈支持的 Vlix 是一个视频的 Instagram 为移动视频添加滤镜、效果等 TechCrunch
+# 凯鹏华盈支持的 Vlix 是一个视频的 Instagram 为移动视频添加滤镜、效果等 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/15/kleiner-backed-vlix-is-an-instagram-for-video-adds-filters-effects-and-more-to-mobile-video/>
 

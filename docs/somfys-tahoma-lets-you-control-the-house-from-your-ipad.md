@@ -1,4 +1,4 @@
-# Somfy 的 TaHomA 让你从 iPad 上控制房子 TechCrunch
+# Somfy 的 TaHomA 让你从 iPad 上控制房子 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/somfys-tahoma-lets-you-control-the-house-from-your-ipad/>
 

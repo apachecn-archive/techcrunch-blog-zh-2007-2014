@@ -1,4 +1,4 @@
-# 英国公司开发透视相机技术 TechCrunch
+# 英国公司开发透视相机技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/10/british-company-advances-see-through-camera-tech/>
 

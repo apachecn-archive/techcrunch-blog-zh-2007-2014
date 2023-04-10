@@ -1,4 +1,4 @@
-# Meebo 无法获得他们的价格，转而进行融资而不是出售 TechCrunch
+# Meebo 无法获得他们的价格，转而进行融资而不是出售 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/09/meebo-cant-get-their-price-go-for-a-fundraising-instead-of-sale/>
 

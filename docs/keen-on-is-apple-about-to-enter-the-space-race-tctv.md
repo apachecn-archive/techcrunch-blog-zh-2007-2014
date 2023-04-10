@@ -1,4 +1,4 @@
-# 热衷于...苹果是否即将进入太空竞赛？TechCrunch
+# 热衷于...苹果是否即将进入太空竞赛？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/keen-on-is-apple-about-to-enter-the-space-race-tctv/>
 

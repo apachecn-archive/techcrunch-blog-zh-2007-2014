@@ -1,4 +1,4 @@
-# 艾伦公司以 10 亿美元收购 LinkedIn TechCrunch
+# 艾伦公司以 10 亿美元收购 LinkedIn 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/05/allen-co-pitching-linkedin-at-1-billion/>
 

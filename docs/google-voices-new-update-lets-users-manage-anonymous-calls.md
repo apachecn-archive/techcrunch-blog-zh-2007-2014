@@ -1,4 +1,4 @@
-# 谷歌语音的新更新让用户可以管理匿名电话 TechCrunch
+# 谷歌语音的新更新让用户可以管理匿名电话 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/30/google-voices-new-update-lets-users-manage-anonymous-calls/>
 

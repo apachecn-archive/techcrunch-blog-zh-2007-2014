@@ -1,4 +1,4 @@
-# 谷歌语音追逐易受影响的年轻人；学生优先获得邀请 TechCrunch
+# 谷歌语音追逐易受影响的年轻人；学生优先获得邀请 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/14/google-voice-goes-after-impressionable-young-minds-students-get-invite-priority/>
 

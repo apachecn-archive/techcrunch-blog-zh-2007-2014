@@ -1,4 +1,4 @@
-# 认识这位自学成才的 14 岁黑客 TechCrunch
+# 认识这位自学成才的 14 岁黑客 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/22/meet-this-14-year-old-self-taught-hacker/>
 

@@ -1,4 +1,4 @@
-# LS9 再筹集 3000 万美元，用植物燃料和化学品替代石油 TechCrunch
+# LS9 再筹集 3000 万美元，用植物燃料和化学品替代石油 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/20/ls9-series-d-30-millio/>
 

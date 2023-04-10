@@ -1,4 +1,4 @@
-# Yelp 在 Q2 收入 5500 万美元，每股收益 0.01 美元，超过华尔街预期 TechCrunch
+# Yelp 在 Q2 收入 5500 万美元，每股收益 0.01 美元，超过华尔街预期 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/yelp-beats-street-estimates-in-q2-with-revenue-of-55m-eps-loss-of-0-01/>
 

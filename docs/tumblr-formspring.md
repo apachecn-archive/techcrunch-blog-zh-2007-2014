@@ -1,4 +1,4 @@
-# 受 Formspring 的“启发”, Tumblr 推出了几乎相同的“问我”, TechCrunch
+# 受 Formspring 的“启发”, Tumblr 推出了几乎相同的“问我”, 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/06/tumblr-formspring/>
 

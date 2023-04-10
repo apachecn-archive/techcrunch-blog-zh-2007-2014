@@ -1,4 +1,4 @@
-# Square 现在每周处理数百万美元的移动交易 TechCrunch
+# Square 现在每周处理数百万美元的移动交易 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/09/square-now-processing-millions-of-dollars-in-mobile-transactions-every-week/>
 

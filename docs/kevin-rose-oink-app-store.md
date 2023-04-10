@@ -1,4 +1,4 @@
-# 凯文·罗斯的哼哼声登陆应用商店 TechCrunch
+# 凯文·罗斯的哼哼声登陆应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/03/kevin-rose-oink-app-store/>
 

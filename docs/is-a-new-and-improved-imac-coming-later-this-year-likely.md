@@ -1,4 +1,4 @@
-# 今年晚些时候会推出新的改进版 iMac 吗？可能 TechCrunch
+# 今年晚些时候会推出新的改进版 iMac 吗？可能 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/23/is-a-new-and-improved-imac-coming-later-this-year-likely/>
 

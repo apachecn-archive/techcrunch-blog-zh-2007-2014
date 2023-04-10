@@ -1,4 +1,4 @@
-# Madefire 筹集 520 万美元，由 True Ventures 领投，试图重塑数字漫画 TechCrunch
+# Madefire 筹集 520 万美元，由 True Ventures 领投，试图重塑数字漫画 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/02/madefire-series-a/>
 

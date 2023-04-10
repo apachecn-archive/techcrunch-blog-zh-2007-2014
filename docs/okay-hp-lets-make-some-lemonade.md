@@ -1,4 +1,4 @@
-# 好了，惠普，让我们来点柠檬水吧 TechCrunch
+# 好了，惠普，让我们来点柠檬水吧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/18/okay-hp-lets-make-some-lemonade/>
 

@@ -1,4 +1,4 @@
-# SOS 在线备份获得 300 万美元首轮融资 TechCrunch
+# SOS 在线备份获得 300 万美元首轮融资 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/08/sos-online-backup-secures-3-million-series-a-round/>
 

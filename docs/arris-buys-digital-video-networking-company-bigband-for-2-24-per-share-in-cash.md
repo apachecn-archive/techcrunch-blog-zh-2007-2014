@@ -1,4 +1,4 @@
-# ARRIS 以每股 2.24 美元的现金价格收购数字视频网络公司 BigBand TechCrunch
+# ARRIS 以每股 2.24 美元的现金价格收购数字视频网络公司 BigBand 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/11/arris-buys-digital-video-networking-company-bigband-for-2-24-per-share-in-cash/>
 

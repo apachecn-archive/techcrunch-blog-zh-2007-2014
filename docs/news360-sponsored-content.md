@@ -1,4 +1,4 @@
-# News360 将 Edelman 和 Network For Good 作为广告商加入其新的赞助内容计划 TechCrunch
+# News360 将 Edelman 和 Network For Good 作为广告商加入其新的赞助内容计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/21/news360-sponsored-content/>
 

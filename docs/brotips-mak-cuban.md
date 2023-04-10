@@ -1,4 +1,4 @@
-# 马克·库班想让你上床，投资了男性咨询网站 Brotips TechCrunch
+# 马克·库班想让你上床，投资了男性咨询网站 Brotips 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/12/brotips-mak-cuban/>
 

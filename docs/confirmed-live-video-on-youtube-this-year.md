@@ -1,4 +1,4 @@
-# 已确认:今年 YouTube 上的直播视频 TechCrunch
+# 已确认:今年 YouTube 上的直播视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/29/confirmed-live-video-on-youtube-this-year/>
 

@@ -1,4 +1,4 @@
-# 另一个企业管理工具转向云:倍耐力宽带集团采用 SaaS 容量管理系统 TechCrunch
+# 另一个企业管理工具转向云:倍耐力宽带集团采用 SaaS 容量管理系统 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/12/another-enterprise-administrative-tool-shifts-to-the-cloud-pirelli-broadband-group-adopts-saas-capacity-management-system/>
 

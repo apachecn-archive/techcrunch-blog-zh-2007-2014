@@ -1,4 +1,4 @@
-# 免费！iOS 版超级蠕虫 TechCrunch
+# 免费！iOS 版超级蠕虫 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/12/free-super-mega-worm-for-ios/>
 

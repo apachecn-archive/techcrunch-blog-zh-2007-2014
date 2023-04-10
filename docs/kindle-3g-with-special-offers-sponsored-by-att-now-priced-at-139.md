@@ -1,4 +1,4 @@
-# 美国电话电报公司赞助的 Kindle 3G 特别优惠，现在售价 139 美元 TechCrunch
+# 美国电话电报公司赞助的 Kindle 3G 特别优惠，现在售价 139 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/13/kindle-3g-with-special-offers-sponsored-by-att-now-priced-at-139/>
 

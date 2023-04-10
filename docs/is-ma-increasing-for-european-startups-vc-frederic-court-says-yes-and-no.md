@@ -1,4 +1,4 @@
-# 欧洲创业公司的 M&A 增长了吗？VC 弗雷德里克·考特说是...没有...TechCrunch
+# 欧洲创业公司的 M&A 增长了吗？VC 弗雷德里克·考特说是...没有...
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/is-ma-increasing-for-european-startups-vc-frederic-court-says-yes-and-no/>
 

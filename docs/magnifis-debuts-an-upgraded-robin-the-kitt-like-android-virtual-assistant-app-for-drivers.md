@@ -1,4 +1,4 @@
-# 放大首次亮相升级版 Robin，类似 KITT 的 Android 虚拟驾驶员助手应用程序 TechCrunch
+# 放大首次亮相升级版 Robin，类似 KITT 的 Android 虚拟驾驶员助手应用程序 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/19/magnifis-debuts-an-upgraded-robin-the-kitt-like-android-virtual-assistant-app-for-drivers/>
 

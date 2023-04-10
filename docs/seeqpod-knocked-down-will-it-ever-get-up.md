@@ -1,4 +1,4 @@
-# Seeqpod 被打倒了，它还会起来吗？TechCrunch
+# Seeqpod 被打倒了，它还会起来吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/27/seeqpod-knocked-down-will-it-ever-get-up/>
 

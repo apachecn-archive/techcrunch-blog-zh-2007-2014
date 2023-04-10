@@ -1,4 +1,4 @@
-# 索尼终于全面推出了它的 Android 平板电脑，索尼 S 和 P TechCrunch
+# 索尼终于全面推出了它的 Android 平板电脑，索尼 S 和 P 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/31/sony-s-p-tablets/>
 

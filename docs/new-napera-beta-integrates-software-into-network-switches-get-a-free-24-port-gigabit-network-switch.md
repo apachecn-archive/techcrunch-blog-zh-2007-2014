@@ -1,4 +1,4 @@
-# 新的 Napera 测试版将软件集成到网络交换机中-获得一个免费的 24 端口千兆网络交换机 TechCrunch
+# 新的 Napera 测试版将软件集成到网络交换机中-获得一个免费的 24 端口千兆网络交换机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/25/new-napera-beta-integrates-software-into-network-switches-get-a-free-24-port-gigabit-network-switch/>
 

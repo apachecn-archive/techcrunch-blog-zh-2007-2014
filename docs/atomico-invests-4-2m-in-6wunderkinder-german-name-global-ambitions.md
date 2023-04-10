@@ -1,4 +1,4 @@
-# Atomico 向 6Wunderkinder 投资 420 万美元:德国名字，全球野心 TechCrunch
+# Atomico 向 6Wunderkinder 投资 420 万美元:德国名字，全球野心 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/atomico-invests-4-2m-in-6wunderkinder-german-name-global-ambitions/>
 

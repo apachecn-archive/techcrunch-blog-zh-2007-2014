@@ -1,4 +1,4 @@
-# Fotolia 拥有 100 万注册会员和 500 万张图片 TechCrunch
+# Fotolia 拥有 100 万注册会员和 500 万张图片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/20/fotolia-reaches-one-million-registered-members-and-five-million-images/>
 

@@ -1,4 +1,4 @@
-# Sling 发布了多年来的第一款新硬件，Slingbox 500 和 Slingbox 350 TechCrunch
+# Sling 发布了多年来的第一款新硬件，Slingbox 500 和 Slingbox 350 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/sling-releases-its-first-new-hardware-in-years-the-slingbox-500-and-slingbox-350/>
 

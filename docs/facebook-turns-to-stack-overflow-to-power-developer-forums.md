@@ -1,4 +1,4 @@
-# 脸书转向堆栈溢出以支持开发者论坛 TechCrunch
+# 脸书转向堆栈溢出以支持开发者论坛 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/facebook-turns-to-stack-overflow-to-power-developer-forums/>
 

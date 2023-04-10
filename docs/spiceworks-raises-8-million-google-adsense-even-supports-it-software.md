@@ -1,4 +1,4 @@
-# SpiceWorks 融资 800 万美元；Google Adsense 甚至支持 IT 软件 TechCrunch
+# SpiceWorks 融资 800 万美元；Google Adsense 甚至支持 IT 软件 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/spiceworks-raises-8-million-google-adsense-even-supports-it-software/>
 

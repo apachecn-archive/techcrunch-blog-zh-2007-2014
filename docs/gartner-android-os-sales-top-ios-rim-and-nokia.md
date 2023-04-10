@@ -1,4 +1,4 @@
-# Gartner: Android 操作系统销量超过 iOS、RIM 和诺基亚 TechCrunch
+# Gartner: Android 操作系统销量超过 iOS、RIM 和诺基亚 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/11/gartner-android-os-sales-top-ios-rim-and-nokia/>
 

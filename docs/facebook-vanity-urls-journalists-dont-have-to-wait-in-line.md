@@ -1,4 +1,4 @@
-# 脸书虚荣网址:记者不必排队 TechCrunch
+# 脸书虚荣网址:记者不必排队 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/10/facebook-vanity-urls-journalists-dont-have-to-wait-in-line/>
 

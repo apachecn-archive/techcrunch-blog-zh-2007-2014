@@ -1,4 +1,4 @@
-# Quora 其实是关于一个更好的维基百科，而不是罗伯特·斯考伯的希望和梦想 TechCrunch
+# Quora 其实是关于一个更好的维基百科，而不是罗伯特·斯考伯的希望和梦想 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/30/quora-is-really-about-a-better-wikipedia-not-robert-scobles-hopes-dreams/>
 

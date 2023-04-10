@@ -1,4 +1,4 @@
-# 天哪，你的披萨？LMAO！TechCrunch
+# 天哪，你的披萨？LMAO！
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/18/omg-text-4-ur-pizza-lmao/>
 

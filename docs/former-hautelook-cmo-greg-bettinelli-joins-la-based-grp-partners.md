@@ -1,4 +1,4 @@
-# 前 Hautelook CMO Greg Bettinelli 加入总部位于洛杉矶的 GRP Partners TechCrunch
+# 前 Hautelook CMO Greg Bettinelli 加入总部位于洛杉矶的 GRP Partners 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/12/former-hautelook-cmo-greg-bettinelli-joins-la-based-grp-partners/>
 

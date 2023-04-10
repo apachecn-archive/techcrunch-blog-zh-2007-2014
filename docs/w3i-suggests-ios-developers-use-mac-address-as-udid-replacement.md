@@ -1,4 +1,4 @@
-# W3i 建议 iOS 开发者使用 MAC 地址作为 UDID 替代品 TechCrunch
+# W3i 建议 iOS 开发者使用 MAC 地址作为 UDID 替代品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/28/w3i-suggests-ios-developers-use-mac-address-as-udid-replacement/>
 

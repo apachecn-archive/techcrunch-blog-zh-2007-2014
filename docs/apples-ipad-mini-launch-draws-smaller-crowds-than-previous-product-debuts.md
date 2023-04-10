@@ -1,4 +1,4 @@
-# 苹果的 iPad Mini 发布会吸引的人群少于之前的产品发布会 TechCrunch
+# 苹果的 iPad Mini 发布会吸引的人群少于之前的产品发布会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/02/apples-ipad-mini-launch-draws-smaller-crowds-than-previous-product-debuts/>
 

@@ -1,4 +1,4 @@
-# 脸书因禁用账户激起愤怒 TechCrunch
+# 脸书因禁用账户激起愤怒 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/11/facebook-stirring-up-anger-for-disabling-accounts/>
 

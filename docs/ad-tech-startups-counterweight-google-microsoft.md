@@ -1,4 +1,4 @@
-# 独家报道:广告技术初创公司联合起来挑战谷歌和微软 TechCrunch
+# 独家报道:广告技术初创公司联合起来挑战谷歌和微软 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/18/ad-tech-startups-counterweight-google-microsoft/>
 

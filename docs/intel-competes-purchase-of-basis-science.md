@@ -1,4 +1,4 @@
-# 英特尔完成对基础科学公司的收购，该公司将加入英特尔设备集团 TechCrunch
+# 英特尔完成对基础科学公司的收购，该公司将加入英特尔设备集团 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/intel-competes-purchase-of-basis-science/>
 

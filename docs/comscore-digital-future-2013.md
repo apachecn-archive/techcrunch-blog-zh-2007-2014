@@ -1,4 +1,4 @@
-# ComScore 称 2012 年显示了 5.3 万亿条广告，但 10 条中有 3 条从未被看过——TechCrunch
+# ComScore 称 2012 年显示了 5.3 万亿条广告，但 10 条中有 3 条从未被看过——
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/14/comscore-digital-future-2013/>
 

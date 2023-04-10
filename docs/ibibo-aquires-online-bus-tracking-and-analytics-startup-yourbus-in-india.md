@@ -1,4 +1,4 @@
-# Naspers 支持的 ibiboGroup 收购印度在线公交跟踪和分析初创公司 your Bus TechCrunch
+# Naspers 支持的 ibiboGroup 收购印度在线公交跟踪和分析初创公司 your Bus 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/19/ibibo-aquires-online-bus-tracking-and-analytics-startup-yourbus-in-india/>
 

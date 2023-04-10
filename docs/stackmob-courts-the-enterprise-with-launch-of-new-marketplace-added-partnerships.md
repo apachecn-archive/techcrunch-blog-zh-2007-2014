@@ -1,4 +1,4 @@
-# StackMob 通过推出新市场、增加合作伙伴关系来吸引企业 TechCrunch
+# StackMob 通过推出新市场、增加合作伙伴关系来吸引企业 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/19/stackmob-courts-the-enterprise-with-launch-of-new-marketplace-added-partnerships/>
 

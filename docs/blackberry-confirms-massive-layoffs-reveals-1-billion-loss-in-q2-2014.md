@@ -1,4 +1,4 @@
-# 黑莓证实大规模裁员，透露在 Q2 损失约 10 亿美元 2014 TechCrunch
+# 黑莓证实大规模裁员，透露在 Q2 损失约 10 亿美元 2014 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/20/blackberry-confirms-massive-layoffs-reveals-1-billion-loss-in-q2-2014/>
 

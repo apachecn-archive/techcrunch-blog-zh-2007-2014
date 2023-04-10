@@ -1,4 +1,4 @@
-# 随着硬件初创公司的起飞，材料和技术市场 Inventables 筹集了 300 万美元 TechCrunch
+# 随着硬件初创公司的起飞，材料和技术市场 Inventables 筹集了 300 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/16/as-hardware-startups-take-off-materials-and-technology-marketplace-inventables-raises-3m/>
 

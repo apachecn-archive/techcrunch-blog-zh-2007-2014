@@ -1,4 +1,4 @@
-# 移动广告交易平台 MoPub 称其 5 月份的收入达到了 1 亿美元 TechCrunch
+# 移动广告交易平台 MoPub 称其 5 月份的收入达到了 1 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/30/mopub-100-million-revenue/>
 

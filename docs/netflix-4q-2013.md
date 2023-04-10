@@ -1,4 +1,4 @@
-# 网飞超过分析师预期，新增 230 万国内用户，每股收益 79 美分 TechCrunch
+# 网飞超过分析师预期，新增 230 万国内用户，每股收益 79 美分 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/22/netflix-4q-2013/>
 

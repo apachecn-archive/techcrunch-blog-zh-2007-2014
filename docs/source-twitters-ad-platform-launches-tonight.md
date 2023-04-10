@@ -1,4 +1,4 @@
-# 来源:Twitter 的广告平台今晚发布 TechCrunch
+# 来源:Twitter 的广告平台今晚发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/12/source-twitters-ad-platform-launches-tonight/>
 

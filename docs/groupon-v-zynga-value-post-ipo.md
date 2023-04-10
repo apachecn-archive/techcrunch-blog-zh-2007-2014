@@ -1,4 +1,4 @@
-# Groupon Vs. Zynga:哪家公司 IPO 后会更有价值？TechCrunch
+# Groupon Vs. Zynga:哪家公司 IPO 后会更有价值？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/04/groupon-v-zynga-value-post-ipo/>
 

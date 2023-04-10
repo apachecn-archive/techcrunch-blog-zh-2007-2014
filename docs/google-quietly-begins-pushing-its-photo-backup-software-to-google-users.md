@@ -1,4 +1,4 @@
-# 谷歌悄然开始向 Google+用户推广其照片备份软件 TechCrunch
+# 谷歌悄然开始向 Google+用户推广其照片备份软件 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/google-quietly-begins-pushing-its-photo-backup-software-to-google-users/>
 

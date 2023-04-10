@@ -1,4 +1,4 @@
-# 雅虎关闭 Bix。有人注意到了吗？TechCrunch
+# 雅虎关闭 Bix。有人注意到了吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/yahoo-shut-bix-down-did-anyone-notice-when/>
 

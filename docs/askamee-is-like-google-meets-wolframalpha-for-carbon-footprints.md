@@ -1,4 +1,4 @@
-# AskAMEE 就像谷歌和 WolframAlpha 在碳足迹上相遇 TechCrunch
+# AskAMEE 就像谷歌和 WolframAlpha 在碳足迹上相遇 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/16/askamee-is-like-google-meets-wolframalpha-for-carbon-footprints/>
 

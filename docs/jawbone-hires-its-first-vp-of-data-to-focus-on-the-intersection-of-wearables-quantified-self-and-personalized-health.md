@@ -1,4 +1,4 @@
-# Jawbone 聘请了首位数据副总裁，专注于可穿戴设备、量化自我和个性化健康的交叉领域 TechCrunch
+# Jawbone 聘请了首位数据副总裁，专注于可穿戴设备、量化自我和个性化健康的交叉领域 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/28/jawbone-hires-its-first-vp-of-data-to-focus-on-the-intersection-of-wearables-quantified-self-and-personalized-health/>
 

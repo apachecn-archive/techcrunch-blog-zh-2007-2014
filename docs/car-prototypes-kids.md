@@ -1,4 +1,4 @@
-# 这些由孩子们制造的汽车原型每加仑能跑近 2000 英里 TechCrunch
+# 这些由孩子们制造的汽车原型每加仑能跑近 2000 英里 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/25/car-prototypes-kids/>
 

@@ -1,4 +1,4 @@
-# 更新:脸书证实没有私人信息出现在时间轴上。它们是旧的墙柱。TechCrunch
+# 更新:脸书证实没有私人信息出现在时间轴上。它们是旧的墙柱。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/24/reports-facebook-users-seeing-private-messages-pre-2009-showing-up-on-timelines-as-posted-by-friends/>
 

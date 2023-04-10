@@ -1,4 +1,4 @@
-# Dropbox:最佳云服务 TechCrunch
+# Dropbox:最佳云服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/dropbox-best-cloud-service/>
 

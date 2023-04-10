@@ -1,4 +1,4 @@
-# Circa 的新 iOS 应用将改变你阅读新闻的方式 TechCrunch
+# Circa 的新 iOS 应用将改变你阅读新闻的方式 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/15/circas-new-ios-app-will-change-the-way-you-consume-news/>
 

@@ -1,4 +1,4 @@
-# 1%的人会喜欢这款炫丽的双 iPad 保护套 TechCrunch
+# 1%的人会喜欢这款炫丽的双 iPad 保护套 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/the-1-will-love-this-ostentatious-double-ipad-case/>
 

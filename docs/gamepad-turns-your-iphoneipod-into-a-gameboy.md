@@ -1,4 +1,4 @@
-# Gamepad 将你的 iPhone/iPod 变成游戏机 TechCrunch
+# Gamepad 将你的 iPhone/iPod 变成游戏机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/27/gamepad-turns-your-iphoneipod-into-a-gameboy/>
 

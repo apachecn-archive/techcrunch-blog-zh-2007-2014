@@ -1,4 +1,4 @@
-# Cardagin Networks 以 425 万美元收购移动忠诚度平台 TechCrunch
+# Cardagin Networks 以 425 万美元收购移动忠诚度平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/cardagin-networks-grabs-4-25-million-for-mobile-loyalty-platform/>
 

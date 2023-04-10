@@ -1,4 +1,4 @@
-# Google Keep 已经摇摇欲坠 TechCrunch
+# Google Keep 已经摇摇欲坠 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/18/google-keep-spring-cleaning/>
 

@@ -1,4 +1,4 @@
-# 技术天使在 2013 年突破 10 亿美元大关 TechCrunch
+# 技术天使在 2013 年突破 10 亿美元大关 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/08/tech-angels-cross-the-1billion-mark-in-2013/>
 

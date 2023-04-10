@@ -1,4 +1,4 @@
-# Backupify 筹集了 450 万美元用于在云中备份数据 TechCrunch
+# Backupify 筹集了 450 万美元用于在云中备份数据 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/07/backupify-raises-4-5-million-to-back-up-data-in-the-cloud/>
 

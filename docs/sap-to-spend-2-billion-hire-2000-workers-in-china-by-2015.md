@@ -1,4 +1,4 @@
-# SAP 将斥资 20 亿美元，到 2015 年在中国雇佣 2000 名员工 TechCrunch
+# SAP 将斥资 20 亿美元，到 2015 年在中国雇佣 2000 名员工 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/sap-to-spend-2-billion-hire-2000-workers-in-china-by-2015/>
 

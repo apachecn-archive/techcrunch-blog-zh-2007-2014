@@ -1,4 +1,4 @@
-# 本田新的多视角摄像系统让驾驶更安全 TechCrunch
+# 本田新的多视角摄像系统让驾驶更安全 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/23/hondas-new-multi-view-camera-system-makes-driving-safer/>
 

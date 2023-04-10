@@ -1,4 +1,4 @@
-# BizPad:松下发布面向企业的 Android 平板电脑 TechCrunch
+# BizPad:松下发布面向企业的 Android 平板电脑 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/bizpad-panasonic-announces-android-tablets-targeted-at-businesses/>
 

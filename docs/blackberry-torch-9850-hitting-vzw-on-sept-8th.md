@@ -1,4 +1,4 @@
-# 黑莓 Torch 9850 于 9 月 8 日登陆 VZW TechCrunch
+# 黑莓 Torch 9850 于 9 月 8 日登陆 VZW 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/06/blackberry-torch-9850-hitting-vzw-on-sept-8th/>
 

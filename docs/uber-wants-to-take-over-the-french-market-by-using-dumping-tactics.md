@@ -1,4 +1,4 @@
-# 优步希望通过激进的奖金策略占领法国市场 TechCrunch
+# 优步希望通过激进的奖金策略占领法国市场 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/28/uber-wants-to-take-over-the-french-market-by-using-dumping-tactics/>
 

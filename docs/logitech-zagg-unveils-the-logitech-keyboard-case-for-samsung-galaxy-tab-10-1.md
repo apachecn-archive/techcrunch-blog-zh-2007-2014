@@ -1,4 +1,4 @@
-# 罗技& Zagg 推出三星 Galaxy Tab 10.1 的罗技键盘外壳 TechCrunch
+# 罗技& Zagg 推出三星 Galaxy Tab 10.1 的罗技键盘外壳 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/10/logitech-zagg-unveils-the-logitech-keyboard-case-for-samsung-galaxy-tab-10-1/>
 

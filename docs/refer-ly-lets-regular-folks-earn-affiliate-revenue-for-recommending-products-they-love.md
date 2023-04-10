@@ -1,4 +1,4 @@
-# Refer.ly 让普通人通过推荐他们喜欢的产品获得代销商收入 TechCrunch
+# Refer.ly 让普通人通过推荐他们喜欢的产品获得代销商收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/14/refer-ly-lets-regular-folks-earn-affiliate-revenue-for-recommending-products-they-love/>
 

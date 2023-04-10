@@ -1,4 +1,4 @@
-# 脸书确认将从微软收购 Atlas Advertiser Suite 以结束广告支出循环 TechCrunch
+# 脸书确认将从微软收购 Atlas Advertiser Suite 以结束广告支出循环 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/28/facebook-acquires-atlas/>
 

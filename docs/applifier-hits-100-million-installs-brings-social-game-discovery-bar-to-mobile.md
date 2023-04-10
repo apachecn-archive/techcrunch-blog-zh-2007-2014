@@ -1,4 +1,4 @@
-# Applifier 安装量达到 1 亿次，将社交游戏 Discovery Bar 引入手机 TechCrunch
+# Applifier 安装量达到 1 亿次，将社交游戏 Discovery Bar 引入手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/applifier-hits-100-million-installs-brings-social-game-discovery-bar-to-mobile/>
 

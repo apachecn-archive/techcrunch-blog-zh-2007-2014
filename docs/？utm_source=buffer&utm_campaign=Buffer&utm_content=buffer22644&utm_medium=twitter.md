@@ -1,4 +1,4 @@
-# Pinterest 用新文章图钉吸引出版商，推动成为书签和“以后再看”服务 TechCrunch
+# Pinterest 用新文章图钉吸引出版商，推动成为书签和“以后再看”服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/pinterest-article-pins/?utm_source=buffer&utm_campaign=Buffer&utm_content=buffer22644&utm_medium=twitter>
 

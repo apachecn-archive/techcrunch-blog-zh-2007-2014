@@ -1,4 +1,4 @@
-# Sibblingz 从 YouWeb 获得 100 万美元，帮助开发者开发 HTML5 游戏 TechCrunch
+# Sibblingz 从 YouWeb 获得 100 万美元，帮助开发者开发 HTML5 游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/sibblingz-grabs-1m-from-youweb-to-help-developers-create-html5-games/>
 

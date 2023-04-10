@@ -1,4 +1,4 @@
-# iOS 将在下一个 iMac 版本中首次亮相桌面？TechCrunch
+# iOS 将在下一个 iMac 版本中首次亮相桌面？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/ios-to-make-its-desktop-debut-with-next-imac-revision/>
 

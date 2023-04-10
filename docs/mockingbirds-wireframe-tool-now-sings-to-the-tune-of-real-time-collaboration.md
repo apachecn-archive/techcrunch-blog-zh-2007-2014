@@ -1,4 +1,4 @@
-# Mockingbird 的线框工具现在与实时协作齐头并进 TechCrunch
+# Mockingbird 的线框工具现在与实时协作齐头并进 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/08/mockingbirds-wireframe-tool-now-sings-to-the-tune-of-real-time-collaboration/>
 

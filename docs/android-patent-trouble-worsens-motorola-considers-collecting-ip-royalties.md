@@ -1,4 +1,4 @@
-# 安卓专利问题恶化:摩托罗拉考虑收取知识产权使用费 TechCrunch
+# 安卓专利问题恶化:摩托罗拉考虑收取知识产权使用费 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/11/android-patent-trouble-worsens-motorola-considers-collecting-ip-royalties/>
 

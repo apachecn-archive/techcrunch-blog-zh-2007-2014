@@ -1,4 +1,4 @@
-# WWDC 2013 门票于 4 月 25 日上午 10 点(太平洋时间)开始发售，时间为 6 月 10 日至 14 日 TechCrunch
+# WWDC 2013 门票于 4 月 25 日上午 10 点(太平洋时间)开始发售，时间为 6 月 10 日至 14 日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/24/wwdc-2013-tickets-on-sale-april-25-at-10am-pt-runs-june-10-14/>
 

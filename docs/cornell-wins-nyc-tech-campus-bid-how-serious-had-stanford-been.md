@@ -1,4 +1,4 @@
-# 康奈尔赢得纽约理工大学校园竞标(斯坦福有多认真？)TechCrunch
+# 康奈尔赢得纽约理工大学校园竞标(斯坦福有多认真？)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/19/cornell-wins-nyc-tech-campus-bid-how-serious-had-stanford-been/>
 

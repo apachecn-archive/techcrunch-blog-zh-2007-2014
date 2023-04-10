@@ -1,4 +1,4 @@
-# 以移动为先的企业初创公司 DoubleDutch 从 Floodgate 等公司获得 400 万美元 B 轮融资 TechCrunch
+# 以移动为先的企业初创公司 DoubleDutch 从 Floodgate 等公司获得 400 万美元 B 轮融资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/12/mobile-first-enterprise-startup-doubledutch-raises-4-million-series-b-from-floodgate-others/>
 

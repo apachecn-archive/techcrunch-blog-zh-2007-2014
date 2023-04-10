@@ -1,4 +1,4 @@
-# 大数据分析公司 Opera Solutions 首轮融资 8400 万美元 TechCrunch
+# 大数据分析公司 Opera Solutions 首轮融资 8400 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/big-data-analytics-company-opera-solutions-raises-84m-in-first-round-funding/>
 

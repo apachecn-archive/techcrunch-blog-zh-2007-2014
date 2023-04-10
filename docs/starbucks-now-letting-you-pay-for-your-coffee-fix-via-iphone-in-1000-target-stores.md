@@ -1,4 +1,4 @@
-# 星巴克现在允许你在 1000 多家目标店通过 iPhone 支付咖啡费用 TechCrunch
+# 星巴克现在允许你在 1000 多家目标店通过 iPhone 支付咖啡费用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/03/30/starbucks-now-letting-you-pay-for-your-coffee-fix-via-iphone-in-1000-target-stores/>
 

@@ -1,4 +1,4 @@
-# 点画首次为出版商和品牌推出新的自助式“图像广告词”广告平台 TechCrunch
+# 点画首次为出版商和品牌推出新的自助式“图像广告词”广告平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/stipple-debuts-new-self-serve-adsense-for-images-ad-platform-for-publishers-and-brands/>
 

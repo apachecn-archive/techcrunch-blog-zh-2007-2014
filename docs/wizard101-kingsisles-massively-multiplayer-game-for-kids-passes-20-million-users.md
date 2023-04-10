@@ -1,4 +1,4 @@
-# KingsIsle 的大型儿童多人游戏《巫师 101》拥有 2000 万用户 TechCrunch
+# KingsIsle 的大型儿童多人游戏《巫师 101》拥有 2000 万用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/06/wizard101-kingsisles-massively-multiplayer-game-for-kids-passes-20-million-users/>
 

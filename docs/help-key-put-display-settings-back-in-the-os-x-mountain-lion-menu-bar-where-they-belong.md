@@ -1,4 +1,4 @@
-# 帮助键:将显示设置放回 OS X Mountain Lion 菜单栏中它们所属的位置 TechCrunch
+# 帮助键:将显示设置放回 OS X Mountain Lion 菜单栏中它们所属的位置 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/27/help-key-put-display-settings-back-in-the-os-x-mountain-lion-menu-bar-where-they-belong/>
 

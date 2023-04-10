@@ -1,4 +1,4 @@
-# StatSheet 更名为 Automated Insights，获得 400 万美元 TechCrunch
+# StatSheet 更名为 Automated Insights，获得 400 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/statsheet-changes-name-to-automated-insights-lands-4-million/>
 

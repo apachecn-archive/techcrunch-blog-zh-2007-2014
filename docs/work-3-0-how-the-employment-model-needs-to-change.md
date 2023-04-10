@@ -1,4 +1,4 @@
-# 工作 3.0:就业模式需要如何改变 TechCrunch
+# 工作 3.0:就业模式需要如何改变 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/04/work-3-0-how-the-employment-model-needs-to-change/>
 

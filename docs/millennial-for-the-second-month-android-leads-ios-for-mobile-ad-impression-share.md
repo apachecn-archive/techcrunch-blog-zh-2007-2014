@@ -1,4 +1,4 @@
-# 千禧一代:Android 连续第二个月在移动广告印象份额方面领先 iOS TechCrunch
+# 千禧一代:Android 连续第二个月在移动广告印象份额方面领先 iOS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/14/millennial-for-the-second-month-android-leads-ios-for-mobile-ad-impression-share/>
 

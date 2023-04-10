@@ -1,4 +1,4 @@
-# Gild 拥有 50 万会员，现在让开发者“面对面”看谁最有技巧 TechCrunch
+# Gild 拥有 50 万会员，现在让开发者“面对面”看谁最有技巧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/gild-hits-half-a-million-members-now-lets-developers-face-off-to-see-whos-got-the-most-skillz/>
 

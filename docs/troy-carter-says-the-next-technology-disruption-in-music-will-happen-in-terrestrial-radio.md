@@ -1,4 +1,4 @@
-# 特洛伊·卡特称音乐领域的下一次技术变革将发生在地面广播 TechCrunch
+# 特洛伊·卡特称音乐领域的下一次技术变革将发生在地面广播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/troy-carter-says-the-next-technology-disruption-in-music-will-happen-in-terrestrial-radio/>
 

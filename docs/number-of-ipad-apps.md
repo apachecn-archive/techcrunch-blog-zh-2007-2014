@@ -1,4 +1,4 @@
-# 事实上，已经有超过 5000 个 iPad 应用程序了。iPad 告诉我的。TechCrunch
+# 事实上，已经有超过 5000 个 iPad 应用程序了。iPad 告诉我的。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/30/number-of-ipad-apps/>
 

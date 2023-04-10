@@ -1,4 +1,4 @@
-# 威瑞森的摩托罗拉 Q 9m:先看 TechCrunch
+# 威瑞森的摩托罗拉 Q 9m:先看 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/verizons-motorola-q-9m-first-look/>
 

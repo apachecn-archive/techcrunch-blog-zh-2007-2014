@@ -1,4 +1,4 @@
-# IBM 国际象棋电脑深蓝庆祝 15 岁生日 TechCrunch
+# IBM 国际象棋电脑深蓝庆祝 15 岁生日 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/11/ibms-chess-playing-computer-deep-blue-celebrates-15th-birthday/>
 

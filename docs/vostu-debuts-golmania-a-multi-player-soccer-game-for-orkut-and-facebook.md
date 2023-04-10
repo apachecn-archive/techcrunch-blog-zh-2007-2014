@@ -1,4 +1,4 @@
-# 沃斯图首次推出 Golmania，一款 Orkut 和脸书的多人足球游戏 TechCrunch
+# 沃斯图首次推出 Golmania，一款 Orkut 和脸书的多人足球游戏 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/29/vostu-debuts-golmania-a-multi-player-soccer-game-for-orkut-and-facebook/>
 

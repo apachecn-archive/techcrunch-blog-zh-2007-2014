@@ -1,4 +1,4 @@
-# Android 和苹果现在占据了美国智能手机市场近 70%的份额 TechCrunch
+# Android 和苹果现在占据了美国智能手机市场近 70%的份额 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/android-apple-70-percent-smartphone/>
 

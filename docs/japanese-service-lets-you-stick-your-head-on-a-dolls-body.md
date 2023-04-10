@@ -1,4 +1,4 @@
-# 日本服务让你把头贴在玩偶身上 TechCrunch
+# 日本服务让你把头贴在玩偶身上 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/japanese-service-lets-you-stick-your-head-on-a-dolls-body/>
 

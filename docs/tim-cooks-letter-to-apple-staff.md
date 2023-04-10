@@ -1,4 +1,4 @@
-# 蒂姆·库克致苹果员工的信 TechCrunch
+# 蒂姆·库克致苹果员工的信 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/tim-cooks-letter-to-apple-staff/>
 

@@ -1,4 +1,4 @@
-# Spool 是 Instapaper 的兴奋剂 TechCrunch
+# Spool 是 Instapaper 的兴奋剂 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/spool-is-instapaper-on-steroids/>
 

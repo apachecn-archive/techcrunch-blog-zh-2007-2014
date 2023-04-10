@@ -1,4 +1,4 @@
-# 谷歌与 RockMelt:谁更擅长搜索预览？TechCrunch
+# 谷歌与 RockMelt:谁更擅长搜索预览？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/09/google-rockmelt-search-preview/>
 

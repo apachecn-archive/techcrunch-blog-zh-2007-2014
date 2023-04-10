@@ -1,4 +1,4 @@
-# 花了一年时间，但健身小工具 Fitbit 最终将推出 TechCrunch
+# 花了一年时间，但健身小工具 Fitbit 最终将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/24/it-took-a-year-but-fitness-gadget-fitbit-finally-launches/>
 

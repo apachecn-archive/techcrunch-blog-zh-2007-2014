@@ -1,4 +1,4 @@
-# Chegg 收购软件公司 Flux / 3D3R，SEC 文件披露 TechCrunch
+# Chegg 收购软件公司 Flux / 3D3R，SEC 文件披露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/chegg-acquires-software-company-flux-3d3r-sec-filing-reveals/>
 

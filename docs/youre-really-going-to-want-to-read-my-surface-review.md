@@ -1,4 +1,4 @@
-# 火星表面:我与微软展台的约会 TechCrunch
+# 火星表面:我与微软展台的约会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/11/youre-really-going-to-want-to-read-my-surface-review/>
 

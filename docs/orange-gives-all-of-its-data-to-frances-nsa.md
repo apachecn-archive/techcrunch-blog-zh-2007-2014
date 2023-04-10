@@ -1,4 +1,4 @@
-# Orange 将其所有数据提供给法国国家安全局 TechCrunch
+# Orange 将其所有数据提供给法国国家安全局 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/orange-gives-all-of-its-data-to-frances-nsa/>
 

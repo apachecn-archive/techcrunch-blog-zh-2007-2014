@@ -1,4 +1,4 @@
-# 旧金山通过法律要求手机辐射警告 TechCrunch
+# 旧金山通过法律要求手机辐射警告 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/20/san-francisco-passes-law-requiring-radiation-warnings-for-cell-phones/>
 

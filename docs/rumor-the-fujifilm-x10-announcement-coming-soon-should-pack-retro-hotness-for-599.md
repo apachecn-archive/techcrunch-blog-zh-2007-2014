@@ -1,4 +1,4 @@
-# 传言:富士 X10 即将发布，应该会以 599 美元的价格推出复古热卖版 TechCrunch
+# 传言:富士 X10 即将发布，应该会以 599 美元的价格推出复古热卖版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/22/rumor-the-fujifilm-x10-announcement-coming-soon-should-pack-retro-hotness-for-599/>
 

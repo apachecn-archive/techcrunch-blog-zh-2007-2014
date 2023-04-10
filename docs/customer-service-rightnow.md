@@ -1,4 +1,4 @@
-# 研究:82%的美国消费者在糟糕的客户服务后放弃品牌 TechCrunch
+# 研究:82%的美国消费者在糟糕的客户服务后放弃品牌 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/13/customer-service-rightnow/>
 

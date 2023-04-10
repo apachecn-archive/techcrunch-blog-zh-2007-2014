@@ -1,4 +1,4 @@
-# C 和 UNIX 之父 Dennis Ritchie 去世，享年 70 岁 TechCrunch
+# C 和 UNIX 之父 Dennis Ritchie 去世，享年 70 岁 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/father-of-c-and-unix-dennis-ritchie-passes-away-at-age-70/>
 

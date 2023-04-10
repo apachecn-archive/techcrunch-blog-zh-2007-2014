@@ -1,4 +1,4 @@
-# 史泰博的“政策”是用虚假的“文件转换”费来敲诈你 TechCrunch
+# 史泰博的“政策”是用虚假的“文件转换”费来敲诈你 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/24/it-is-staples-policy-to-rip-you-off-with-bogus-file-conversion-fees/>
 

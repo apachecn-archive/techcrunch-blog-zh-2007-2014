@@ -1,4 +1,4 @@
-# 经过多年的专利诉讼，Nuance 收购了 Vlingo TechCrunch
+# 经过多年的专利诉讼，Nuance 收购了 Vlingo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/after-years-of-patent-litigation-nuance-acquires-vlingo/>
 

@@ -1,4 +1,4 @@
-# 社交忠诚度和奖励平台 CrowdTwist 从软银和其他公司筹集了 600 万美元 TechCrunch
+# 社交忠诚度和奖励平台 CrowdTwist 从软银和其他公司筹集了 600 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/19/social-loyalty-and-rewards-platform-crowdtwist-raises-6m-from-softbank-and-others/>
 

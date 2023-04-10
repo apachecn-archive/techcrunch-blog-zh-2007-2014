@@ -1,4 +1,4 @@
-# 首席创意官 Mike Verdu 离开 Zynga，创办了由 Zynga 支持的新公司 TechCrunch
+# 首席创意官 Mike Verdu 离开 Zynga，创办了由 Zynga 支持的新公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/chief-creative-officer-mike-verdu-leaves-zynga-to-found-new-zynga-backed-startup/>
 

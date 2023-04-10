@@ -1,4 +1,4 @@
-# 埃里克·施密特评论 Google+的成功，声称拥有“数百万”用户 TechCrunch
+# 埃里克·施密特评论 Google+的成功，声称拥有“数百万”用户 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/09/eric-schmidt-on-gauging-googles-success/>
 

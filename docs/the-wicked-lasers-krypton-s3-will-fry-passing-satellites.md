@@ -1,4 +1,4 @@
-# 邪恶的激光氪 S3 将烧毁路过的卫星 TechCrunch
+# 邪恶的激光氪 S3 将烧毁路过的卫星 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/05/the-wicked-lasers-krypton-s3-will-fry-passing-satellites/>
 

@@ -1,4 +1,4 @@
-# 谷歌的 Mod_Pagespeed 现已退出测试，准备让你的网站更快 TechCrunch
+# 谷歌的 Mod_Pagespeed 现已退出测试，准备让你的网站更快 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/10/googles-mod_pagespeed-is-now-out-of-beta-and-ready-to-make-your-sites-faster/>
 

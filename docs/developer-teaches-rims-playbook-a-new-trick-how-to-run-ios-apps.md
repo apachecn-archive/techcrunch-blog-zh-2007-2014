@@ -1,4 +1,4 @@
-# 开发者向 RIM 的 PlayBook 传授新技巧:如何运行 iOS 应用 TechCrunch
+# 开发者向 RIM 的 PlayBook 传授新技巧:如何运行 iOS 应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/13/developer-teaches-rims-playbook-a-new-trick-how-to-run-ios-apps/>
 

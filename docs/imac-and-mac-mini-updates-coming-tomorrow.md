@@ -1,4 +1,4 @@
-# iMac 和 Mac mini 明天会更新吗？TechCrunch
+# iMac 和 Mac mini 明天会更新吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/02/imac-and-mac-mini-updates-coming-tomorrow/>
 

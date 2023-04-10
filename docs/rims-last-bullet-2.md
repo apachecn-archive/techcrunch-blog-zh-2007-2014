@@ -1,4 +1,4 @@
-# RIM 的最后一颗子弹 TechCrunch
+# RIM 的最后一颗子弹 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/18/rims-last-bullet-2/>
 

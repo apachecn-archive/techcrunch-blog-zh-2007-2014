@@ -1,4 +1,4 @@
-# 盗版方就 Megaupload 宕机组织对 FBI 的诉讼 TechCrunch
+# 盗版方就 Megaupload 宕机组织对 FBI 的诉讼 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/26/pirate-parties-organizing-lawsuit-against-fbi-over-megaupload-takedown/>
 

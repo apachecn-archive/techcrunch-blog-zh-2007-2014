@@ -1,4 +1,4 @@
-# NRDC 脸书& Opower 合作开发节能社交应用 TechCrunch
+# NRDC 脸书& Opower 合作开发节能社交应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/facebook-nrdc-opower-to-partner-on-energy-saving-social-app/>
 

@@ -1,4 +1,4 @@
-# 已证实:Skype 收购移动视频初创公司 Qik TechCrunch
+# 已证实:Skype 收购移动视频初创公司 Qik 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/06/confirmed-skype-buys-mobile-video-startup-qik/>
 

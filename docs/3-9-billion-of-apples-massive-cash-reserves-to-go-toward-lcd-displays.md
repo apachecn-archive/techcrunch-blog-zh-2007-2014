@@ -1,4 +1,4 @@
-# 苹果公司巨额现金储备中的 39 亿美元将用于液晶显示器？TechCrunch
+# 苹果公司巨额现金储备中的 39 亿美元将用于液晶显示器？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/3-9-billion-of-apples-massive-cash-reserves-to-go-toward-lcd-displays/>
 

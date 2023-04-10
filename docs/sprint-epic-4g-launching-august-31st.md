@@ -1,4 +1,4 @@
-# Sprint Epic 4G 于 8 月 31 日发布 TechCrunch
+# Sprint Epic 4G 于 8 月 31 日发布 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/12/sprint-epic-4g-launching-august-31st/>
 

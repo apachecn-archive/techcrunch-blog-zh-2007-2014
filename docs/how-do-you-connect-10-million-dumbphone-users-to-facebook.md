@@ -1,4 +1,4 @@
-# 你如何将 1000 万 Dumbphone 用户连接到脸书？TechCrunch
+# 你如何将 1000 万 Dumbphone 用户连接到脸书？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/19/how-do-you-connect-10-million-dumbphone-users-to-facebook/>
 

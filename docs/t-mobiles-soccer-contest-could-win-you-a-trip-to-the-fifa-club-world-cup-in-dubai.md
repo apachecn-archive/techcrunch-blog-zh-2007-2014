@@ -1,4 +1,4 @@
-# T-Mobile 的足球比赛可能会为您赢得前往迪拜参加国际足联俱乐部世界杯的机会 TechCrunch
+# T-Mobile 的足球比赛可能会为您赢得前往迪拜参加国际足联俱乐部世界杯的机会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/19/t-mobiles-soccer-contest-could-win-you-a-trip-to-the-fifa-club-world-cup-in-dubai/>
 

@@ -1,4 +1,4 @@
-# 有些事情需要改变 TechCrunch
+# 有些事情需要改变 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/01/28/some-things-need-to-change/>
 

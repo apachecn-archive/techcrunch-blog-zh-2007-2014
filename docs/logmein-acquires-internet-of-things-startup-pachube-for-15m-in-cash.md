@@ -1,4 +1,4 @@
-# LogMeIn 以 1500 万美元现金收购“物联网”初创公司 PAC hube TechCrunch
+# LogMeIn 以 1500 万美元现金收购“物联网”初创公司 PAC hube 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/20/logmein-acquires-internet-of-things-startup-pachube-for-15m-in-cash/>
 

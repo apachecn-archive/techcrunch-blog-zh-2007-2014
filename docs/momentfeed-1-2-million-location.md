@@ -1,4 +1,4 @@
-# MomentFeed 获得 120 万美元种子资金，帮助企业按位置管理特价商品 TechCrunch
+# MomentFeed 获得 120 万美元种子资金，帮助企业按位置管理特价商品 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/11/momentfeed-1-2-million-location/>
 

@@ -1,4 +1,4 @@
-# 大规模推特:有用吗？TechCrunch
+# 大规模推特:有用吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/22/twitter-at-scale-will-it-work/>
 

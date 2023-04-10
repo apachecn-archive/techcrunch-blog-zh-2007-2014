@@ -1,4 +1,4 @@
-# Salesforce.com 支持云解决方案公司 Appirio 的全球统治计划 TechCrunch
+# Salesforce.com 支持云解决方案公司 Appirio 的全球统治计划 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/26/salesforce-com-backs-cloud-solution-company-appirios-world-domination-plans/>
 

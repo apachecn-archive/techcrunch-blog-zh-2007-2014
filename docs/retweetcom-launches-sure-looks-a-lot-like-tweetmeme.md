@@ -1,4 +1,4 @@
-# ReTweet.com 发布，看起来很像 TweetMeme TechCrunch
+# ReTweet.com 发布，看起来很像 TweetMeme 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/19/retweetcom-launches-sure-looks-a-lot-like-tweetmeme/>
 

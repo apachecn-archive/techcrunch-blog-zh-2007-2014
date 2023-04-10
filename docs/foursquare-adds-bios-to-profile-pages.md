@@ -1,4 +1,4 @@
-# Foursquare 将个人简介添加到个人资料页面，发展成为一个更加独立的社交网络 TechCrunch
+# Foursquare 将个人简介添加到个人资料页面，发展成为一个更加独立的社交网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/03/29/foursquare-adds-bios-to-profile-pages/>
 

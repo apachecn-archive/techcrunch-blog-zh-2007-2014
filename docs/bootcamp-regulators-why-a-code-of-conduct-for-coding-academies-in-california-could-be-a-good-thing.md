@@ -1,4 +1,4 @@
-# 黑客学校的手铐？为什么训练营编码的“行为准则”实际上对生态系统有益 TechCrunch
+# 黑客学校的手铐？为什么训练营编码的“行为准则”实际上对生态系统有益 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/bootcamp-regulators-why-a-code-of-conduct-for-coding-academies-in-california-could-be-a-good-thing/>
 

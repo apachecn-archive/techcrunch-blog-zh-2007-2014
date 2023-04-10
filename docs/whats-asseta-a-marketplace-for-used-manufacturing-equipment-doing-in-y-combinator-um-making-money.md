@@ -1,4 +1,4 @@
-# 二手制造设备市场 Asseta 在 Y Combinator 做什么？嗯，赚钱 TechCrunch
+# 二手制造设备市场 Asseta 在 Y Combinator 做什么？嗯，赚钱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/02/whats-asseta-a-marketplace-for-used-manufacturing-equipment-doing-in-y-combinator-um-making-money/>
 

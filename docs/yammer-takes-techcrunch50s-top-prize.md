@@ -1,4 +1,4 @@
-# Yammer 在 TechCrunch50 上获得最高奖项 TechCrunch
+# Yammer 在 TechCrunch50 上获得最高奖项 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/10/yammer-takes-techcrunch50s-top-prize/>
 

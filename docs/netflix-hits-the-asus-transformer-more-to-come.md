@@ -1,4 +1,4 @@
-# 网飞击中华硕变压器，更多来？TechCrunch
+# 网飞击中华硕变压器，更多来？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/25/netflix-hits-the-asus-transformer-more-to-come/>
 

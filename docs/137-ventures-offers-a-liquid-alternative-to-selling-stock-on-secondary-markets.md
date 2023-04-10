@@ -1,4 +1,4 @@
-# 137 Ventures 为在二级市场上出售股票提供了一种流动性替代方案 TechCrunch
+# 137 Ventures 为在二级市场上出售股票提供了一种流动性替代方案 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/19/137-ventures-offers-a-liquid-alternative-to-selling-stock-on-secondary-markets/>
 

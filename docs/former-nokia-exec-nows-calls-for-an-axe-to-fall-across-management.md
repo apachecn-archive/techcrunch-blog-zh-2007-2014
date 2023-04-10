@@ -1,4 +1,4 @@
-# 前诺基亚高管 nows 呼吁削减管理层 TechCrunch
+# 前诺基亚高管 nows 呼吁削减管理层 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/former-nokia-exec-nows-calls-for-an-axe-to-fall-across-management/>
 

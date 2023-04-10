@@ -1,4 +1,4 @@
-# Target Accelerator 首批在印度大举投资社交商务、移动和分析技术 TechCrunch
+# Target Accelerator 首批在印度大举投资社交商务、移动和分析技术 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/24/target-accelerators-first-batch-in-india-bets-big-on-social-commerce-mobile-and-analytics/>
 

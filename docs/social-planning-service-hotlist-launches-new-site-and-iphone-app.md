@@ -1,4 +1,4 @@
-# 社交规划服务 Hotlist 推出新网站和 iPhone 应用 TechCrunch
+# 社交规划服务 Hotlist 推出新网站和 iPhone 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/09/social-planning-service-hotlist-launches-new-site-and-iphone-app/>
 

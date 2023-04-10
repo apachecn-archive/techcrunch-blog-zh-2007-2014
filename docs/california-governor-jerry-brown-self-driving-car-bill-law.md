@@ -1,4 +1,4 @@
-# 系好安全带，加州:州长杰里·布朗签署州法律允许无人驾驶汽车 TechCrunch
+# 系好安全带，加州:州长杰里·布朗签署州法律允许无人驾驶汽车 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/25/california-governor-jerry-brown-self-driving-car-bill-law/>
 

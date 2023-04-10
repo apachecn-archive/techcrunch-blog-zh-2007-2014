@@ -1,4 +1,4 @@
-# 参议员威胁电信公司调查网络中立 TechCrunch
+# 参议员威胁电信公司调查网络中立 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/26/senators-threatening-telcos-with-probe-over-net-neutrality/>
 

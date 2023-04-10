@@ -1,4 +1,4 @@
-# 马克·安德森加入脸书董事会 TechCrunch
+# 马克·安德森加入脸书董事会 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/29/confirmed-marc-andreessen-joins-facebooks-board-of-directors/>
 

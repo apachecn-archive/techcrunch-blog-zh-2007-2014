@@ -1,4 +1,4 @@
-# 面向零售商的电子商务平台 Plimus 被 PE 公司以 1.15 亿美元收购 TechCrunch
+# 面向零售商的电子商务平台 Plimus 被 PE 公司以 1.15 亿美元收购 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/08/e-commerce-platform-for-retailers-plimus-acquired-by-pe-firm-for-115-million/>
 

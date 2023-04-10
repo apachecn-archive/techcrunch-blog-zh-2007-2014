@@ -1,4 +1,4 @@
-# 苹果专利三传感器，三镜头 iPhone 相机，分辨率和色彩精度更高 TechCrunch
+# 苹果专利三传感器，三镜头 iPhone 相机，分辨率和色彩精度更高 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/30/apple-patents-triple-sensor-triple-lens-iphone-camera-for-better-resolution-and-color-accuracy/>
 

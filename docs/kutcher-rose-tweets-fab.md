@@ -1,4 +1,4 @@
-# 阿什顿·库彻和凯文·罗斯，谁的微博更有价值？TechCrunch
+# 阿什顿·库彻和凯文·罗斯，谁的微博更有价值？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/kutcher-rose-tweets-fab/>
 

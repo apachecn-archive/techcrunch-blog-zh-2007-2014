@@ -1,4 +1,4 @@
-# 第四季度在线广告收入增长 10.2% TechCrunch
+# 第四季度在线广告收入增长 10.2% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/10/online-advertising-up-10-2-percent-fourth-quarter/>
 

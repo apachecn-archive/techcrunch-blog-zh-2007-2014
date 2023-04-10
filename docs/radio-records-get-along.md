@@ -1,4 +1,4 @@
-# 广播和唱片:我们就不能好好相处吗？TechCrunch
+# 广播和唱片:我们就不能好好相处吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/18/radio-records-get-along/>
 

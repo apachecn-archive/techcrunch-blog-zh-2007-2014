@@ -1,4 +1,4 @@
-# 保罗·格拉厄姆希望你建立一个新的搜索引擎，收件箱，或者成为下一个史蒂夫乔布斯 TechCrunch
+# 保罗·格拉厄姆希望你建立一个新的搜索引擎，收件箱，或者成为下一个史蒂夫乔布斯 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/10/paul-grahams-billion-dollar-ideas/>
 

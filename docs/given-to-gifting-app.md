@@ -1,4 +1,4 @@
-# Given.to 希望在为团体礼物投资时不再需要猜测 TechCrunch
+# Given.to 希望在为团体礼物投资时不再需要猜测 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/11/06/given-to-gifting-app/>
 

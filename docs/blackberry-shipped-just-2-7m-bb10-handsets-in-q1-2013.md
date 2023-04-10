@@ -1,4 +1,4 @@
-# 黑莓 2014 年在 Q1 仅售出 270 万部 BB10 手机 TechCrunch
+# 黑莓 2014 年在 Q1 仅售出 270 万部 BB10 手机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/28/blackberry-shipped-just-2-7m-bb10-handsets-in-q1-2013/>
 

@@ -1,4 +1,4 @@
-# 在线视频中风投哪里出错了？TechCrunch
+# 在线视频中风投哪里出错了？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/12/online-video-vcs-wrong/>
 

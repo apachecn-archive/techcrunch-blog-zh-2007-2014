@@ -1,4 +1,4 @@
-# Koornk 公然抄袭 Twitter TechCrunch
+# Koornk 公然抄袭 Twitter 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/11/27/koornk-blatantly-rips-off-twitter/>
 

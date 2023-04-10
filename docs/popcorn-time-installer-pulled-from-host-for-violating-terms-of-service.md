@@ -1,4 +1,4 @@
-# 爆米花时间安装程序因违反服务条款被从主机上撤下更新:它回来了 TechCrunch
+# 爆米花时间安装程序因违反服务条款被从主机上撤下更新:它回来了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/popcorn-time-installer-pulled-from-host-for-violating-terms-of-service/>
 

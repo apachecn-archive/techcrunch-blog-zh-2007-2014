@@ -1,4 +1,4 @@
-# 谷歌将云打印引入 Windows，让打印机共享更简单 TechCrunch
+# 谷歌将云打印引入 Windows，让打印机共享更简单 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/google-brings-cloud-print-to-windows-makes-printer-sharing-easier/>
 

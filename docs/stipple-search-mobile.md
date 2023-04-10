@@ -1,4 +1,4 @@
-# 点画推出图像归属服务点画搜索，外加一款手机应用 TechCrunch
+# 点画推出图像归属服务点画搜索，外加一款手机应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/24/stipple-search-mobile/>
 

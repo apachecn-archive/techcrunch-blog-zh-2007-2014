@@ -1,4 +1,4 @@
-# 公寓列表又筹集了 600 万美元来改善你的找房计划 TechCrunch
+# 公寓列表又筹集了 600 万美元来改善你的找房计划 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/apartment-list-6m/>
 

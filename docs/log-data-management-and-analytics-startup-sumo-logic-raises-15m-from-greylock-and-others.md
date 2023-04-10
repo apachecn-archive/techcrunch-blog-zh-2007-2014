@@ -1,4 +1,4 @@
-# 日志数据管理和分析初创公司 Sumo Logic 从 Greylock 和其他公司获得 1500 万美元 TechCrunch
+# 日志数据管理和分析初创公司 Sumo Logic 从 Greylock 和其他公司获得 1500 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/31/log-data-management-and-analytics-startup-sumo-logic-raises-15m-from-greylock-and-others/>
 

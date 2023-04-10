@@ -1,4 +1,4 @@
-# 死党得到 NES 模拟器？这是真的，我见过 TechCrunch
+# 死党得到 NES 模拟器？这是真的，我见过 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/12/sidekick-to-get-nes-emulator-its-true-ive-seen-it/>
 

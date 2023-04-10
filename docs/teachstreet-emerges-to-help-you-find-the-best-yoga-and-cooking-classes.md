@@ -1,4 +1,4 @@
-# TeachStreet 帮助你找到最好的瑜伽和烹饪课程 TechCrunch
+# TeachStreet 帮助你找到最好的瑜伽和烹饪课程 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/20/teachstreet-emerges-to-help-you-find-the-best-yoga-and-cooking-classes/>
 

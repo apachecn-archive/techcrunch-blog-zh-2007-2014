@@ -1,4 +1,4 @@
-# Google Squared 是什么？这就是谷歌如何击败 Wolfram Alpha(独家视频)TechCrunch
+# Google Squared 是什么？这就是谷歌如何击败 Wolfram Alpha(独家视频)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/12/what-is-google-squared-it-is-how-google-will-crush-wolfram-alpha-exclusive-video/>
 

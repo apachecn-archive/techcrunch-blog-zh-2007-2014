@@ -1,4 +1,4 @@
-# Twitter 正在测试可扩展的时间线 TechCrunch
+# Twitter 正在测试可扩展的时间线 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/twitter-is-testing-expandable-timeline/>
 

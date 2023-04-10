@@ -1,4 +1,4 @@
-# 视频:防睡眠呼吸暂停机器人枕头 TechCrunch
+# 视频:防睡眠呼吸暂停机器人枕头 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/02/video-anti-sleep-apnea-robot-pillow/>
 

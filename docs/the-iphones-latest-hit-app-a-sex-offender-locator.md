@@ -1,4 +1,4 @@
-# iPhone 的最新热门应用:性犯罪者定位器 TechCrunch
+# iPhone 的最新热门应用:性犯罪者定位器 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/25/the-iphones-latest-hit-app-a-sex-offender-locator/>
 

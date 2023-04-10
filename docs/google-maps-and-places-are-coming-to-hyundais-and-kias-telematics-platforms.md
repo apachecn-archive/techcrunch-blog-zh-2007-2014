@@ -1,4 +1,4 @@
-# 谷歌地图和地点正在进入现代和起亚的远程信息平台 TechCrunch
+# 谷歌地图和地点正在进入现代和起亚的远程信息平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/02/google-maps-and-places-are-coming-to-hyundais-and-kias-telematics-platforms/>
 

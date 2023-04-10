@@ -1,4 +1,4 @@
-# 64GB Lenovo IdeaPad K1 还没上市就降价 100 美元 TechCrunch
+# 64GB Lenovo IdeaPad K1 还没上市就降价 100 美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/21/get-100-off-the-64gb-lenovo-ideapad-k1-before-its-even-out/>
 

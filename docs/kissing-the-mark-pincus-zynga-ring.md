@@ -1,4 +1,4 @@
-# 亲吻 Mark Pincus Zynga 戒指 TechCrunch
+# 亲吻 Mark Pincus Zynga 戒指 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/22/kissing-the-mark-pincus-zynga-ring/>
 

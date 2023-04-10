@@ -1,4 +1,4 @@
-# 预计 Hulu 会失败:NBCU 首席 TechCrunch
+# 预计 Hulu 会失败:NBCU 首席 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/25/expect-failure-from-hulu-nbcu-chief/>
 

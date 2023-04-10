@@ -1,4 +1,4 @@
-# Digg 清理门户，禁止 80+脚本用户 TechCrunch
+# Digg 清理门户，禁止 80+脚本用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/19/digg-cleans-house-bans-80-script-users/>
 

@@ -1,4 +1,4 @@
-# DROID XYBOARD 平板电脑正式上市，本月在威瑞森上市 TechCrunch
+# DROID XYBOARD 平板电脑正式上市，本月在威瑞森上市 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/12/06/droid-xyboard-tablets-get-official-hitting-verizon-stores-this-month/>
 

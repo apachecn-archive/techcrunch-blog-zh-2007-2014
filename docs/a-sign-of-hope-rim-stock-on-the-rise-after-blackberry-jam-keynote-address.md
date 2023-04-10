@@ -1,4 +1,4 @@
-# 希望的标志？黑莓果酱主题演讲结束后 RIM 股价上涨 TechCrunch
+# 希望的标志？黑莓果酱主题演讲结束后 RIM 股价上涨 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/a-sign-of-hope-rim-stock-on-the-rise-after-blackberry-jam-keynote-address/>
 

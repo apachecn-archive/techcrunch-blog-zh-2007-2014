@@ -1,4 +1,4 @@
-# 苹果应用商店搜索排名的大范围变化使得 iOS 应用平均移动了 40 多位 TechCrunch
+# 苹果应用商店搜索排名的大范围变化使得 iOS 应用平均移动了 40 多位 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/13/widespread-apple-app-store-search-rankings-change-sees-ios-apps-moved-over-40-spots-on-average/>
 

@@ -1,4 +1,4 @@
-# 2011 年第四季度，美国风险投资公司融资 56 亿美元；承诺增加 162%，但基金数量下降 TechCrunch
+# 2011 年第四季度，美国风险投资公司融资 56 亿美元；承诺增加 162%，但基金数量下降 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/u-s-vc-firms-raised-5-6b-in-q4-2011-commitments-up-162-percent-but-number-of-funds-down/>
 

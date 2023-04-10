@@ -1,4 +1,4 @@
-# Urban Airship 收购苹果 Passbook 的 PassTools 制造商泰洛，因为并非所有品牌都需要全功能应用 TechCrunch
+# Urban Airship 收购苹果 Passbook 的 PassTools 制造商泰洛，因为并非所有品牌都需要全功能应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/urban-airship-acquires-tello-maker-of-passtools-for-apples-passbook-because-not-all-brands-need-fully-featured-apps/>
 

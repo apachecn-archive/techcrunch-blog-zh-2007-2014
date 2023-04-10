@@ -1,4 +1,4 @@
-# iPhone 推送通知的 Twitter 正在内部测试；即将推出 TechCrunch
+# iPhone 推送通知的 Twitter 正在内部测试；即将推出 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/02/twitter-for-iphone-push-notifications/>
 

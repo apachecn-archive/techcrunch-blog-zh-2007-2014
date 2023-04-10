@@ -1,4 +1,4 @@
-# Google Talk 的新功能:来自 YouTube 和 Google Video 的嵌入式视频 TechCrunch
+# Google Talk 的新功能:来自 YouTube 和 Google Video 的嵌入式视频 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/22/new-in-google-talk-embedded-youtube-videos/>
 

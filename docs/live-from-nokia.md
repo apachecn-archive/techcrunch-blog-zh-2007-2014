@@ -1,4 +1,4 @@
-# 诺基亚 Windows Phone 8 新闻发布会现场直播 TechCrunch
+# 诺基亚 Windows Phone 8 新闻发布会现场直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/05/live-from-nokia/>
 

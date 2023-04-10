@@ -1,4 +1,4 @@
-# 欧洲活动人士可能会迫使脸书的新隐私变化进行全球投票 TechCrunch
+# 欧洲活动人士可能会迫使脸书的新隐私变化进行全球投票 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/18/european-activists-force-facebooks-new-privacy-changes-to-a-worldwide-vote/>
 

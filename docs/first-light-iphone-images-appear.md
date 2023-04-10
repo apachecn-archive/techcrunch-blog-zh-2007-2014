@@ -1,4 +1,4 @@
-# 首次出现“浅色”iPhone 图片 TechCrunch
+# 首次出现“浅色”iPhone 图片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/first-light-iphone-images-appear/>
 

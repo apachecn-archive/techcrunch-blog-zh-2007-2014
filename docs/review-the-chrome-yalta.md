@@ -1,4 +1,4 @@
-# 包包周回顾:Chrome 雅尔塔背包 TechCrunch
+# 包包周回顾:Chrome 雅尔塔背包 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/review-the-chrome-yalta/>
 

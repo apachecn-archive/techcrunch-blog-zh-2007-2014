@@ -1,4 +1,4 @@
-# 苹果 Q1 2012:463 亿美元收入，售出 3700 万部 iPhones 和 1540 万部 ipad TechCrunch
+# 苹果 Q1 2012:463 亿美元收入，售出 3700 万部 iPhones 和 1540 万部 ipad 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/24/apples-q1-2012-46-3b-in-revenue-37m-iphones-and-15-4m-ipads-sold/>
 

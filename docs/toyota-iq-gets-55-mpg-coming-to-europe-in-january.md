@@ -1,4 +1,4 @@
-# 丰田 iQ 获得 55+ MPG，1 月登陆欧洲 TechCrunch
+# 丰田 iQ 获得 55+ MPG，1 月登陆欧洲 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/13/toyota-iq-gets-55-mpg-coming-to-europe-in-january/>
 

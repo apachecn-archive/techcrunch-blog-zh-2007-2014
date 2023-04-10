@@ -1,4 +1,4 @@
-# 快，重新接入互联网:Rackspace 大停电 TechCrunch
+# 快，重新接入互联网:Rackspace 大停电 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/12/quick-plug-the-internet-back-in-major-rackspace-outage/>
 

@@ -1,4 +1,4 @@
-# 黑莓 10 Touch、Qwerty 设备视频泄露；RIM 希望 Lady Gaga 帮助销售 BB10 TechCrunch
+# 黑莓 10 Touch、Qwerty 设备视频泄露；RIM 希望 Lady Gaga 帮助销售 BB10 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/28/blackberry-10-touch-qwerty-devices-leak-in-video-rim-wants-lady-gaga-to-help-sell-bb10/>
 

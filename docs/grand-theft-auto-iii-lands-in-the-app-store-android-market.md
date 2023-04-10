@@ -1,4 +1,4 @@
-# 《侠盗猎车手 3》登陆安卓市场应用商店 TechCrunch
+# 《侠盗猎车手 3》登陆安卓市场应用商店 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/grand-theft-auto-iii-lands-in-the-app-store-android-market/>
 

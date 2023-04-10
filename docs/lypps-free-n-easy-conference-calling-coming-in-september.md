@@ -1,4 +1,4 @@
-# Lypp 的免费 n-Easy 电话会议将于 9 月举行——TechCrunch
+# Lypp 的免费 n-Easy 电话会议将于 9 月举行——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/22/lypps-free-n-easy-conference-calling-coming-in-september/>
 

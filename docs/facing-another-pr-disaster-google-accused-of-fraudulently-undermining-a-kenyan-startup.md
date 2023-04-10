@@ -1,4 +1,4 @@
-# [更新]面临另一场公关灾难:谷歌被指控欺诈性破坏肯尼亚初创公司 TechCrunch
+# [更新]面临另一场公关灾难:谷歌被指控欺诈性破坏肯尼亚初创公司 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/13/facing-another-pr-disaster-google-accused-of-fraudulently-undermining-a-kenyan-startup/>
 

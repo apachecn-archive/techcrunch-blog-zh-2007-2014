@@ -1,4 +1,4 @@
-# Gartner:2013 年全球应用商店下载量达 1020 亿次，销售额达 260 亿美元，17%来自应用内购买 TechCrunch
+# Gartner:2013 年全球应用商店下载量达 1020 亿次，销售额达 260 亿美元，17%来自应用内购买 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/19/gartner-102b-app-store-downloads-globally-in-2013-26b-in-sales-17-from-in-app-purchases/>
 

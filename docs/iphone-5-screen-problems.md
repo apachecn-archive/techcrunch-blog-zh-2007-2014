@@ -1,4 +1,4 @@
-# 一些早期 iPhone 5 用户报告了奇怪的屏幕问题 TechCrunch
+# 一些早期 iPhone 5 用户报告了奇怪的屏幕问题 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/21/iphone-5-screen-problems/>
 

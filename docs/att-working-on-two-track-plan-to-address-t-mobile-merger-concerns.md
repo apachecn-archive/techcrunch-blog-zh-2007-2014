@@ -1,4 +1,4 @@
-# 美国电话电报公司致力于“双轨计划”以解决 T-Mobile 合并问题 TechCrunch
+# 美国电话电报公司致力于“双轨计划”以解决 T-Mobile 合并问题 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/02/att-working-on-two-track-plan-to-address-t-mobile-merger-concerns/>
 

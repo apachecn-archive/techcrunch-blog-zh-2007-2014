@@ -1,4 +1,4 @@
-# 维德挥挥手。“没有 iPhone。”但是在日本有——在很大程度上。TechCrunch
+# 维德挥挥手。“没有 iPhone。”但是在日本有——在很大程度上。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/26/japan-darth-vader-commercial/>
 

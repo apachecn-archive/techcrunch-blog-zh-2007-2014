@@ -1,4 +1,4 @@
-# 谷歌希望所有人都停止讨厌谷歌眼镜 TechCrunch
+# 谷歌希望所有人都停止讨厌谷歌眼镜 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/google-wants-everyone-to-stop-hating-on-glass/?ncid=tcdaily>
 

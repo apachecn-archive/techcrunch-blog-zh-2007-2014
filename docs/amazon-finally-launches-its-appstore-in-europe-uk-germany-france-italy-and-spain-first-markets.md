@@ -1,4 +1,4 @@
-# 亚马逊 vs B&N 在欧洲升温:安卓应用商店在英国、德国、法国、意大利和西班牙上线；B&N 增加更多 Nook 零售商 TechCrunch
+# 亚马逊 vs B&N 在欧洲升温:安卓应用商店在英国、德国、法国、意大利和西班牙上线；B&N 增加更多 Nook 零售商 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/30/amazon-finally-launches-its-appstore-in-europe-uk-germany-france-italy-and-spain-first-markets/>
 

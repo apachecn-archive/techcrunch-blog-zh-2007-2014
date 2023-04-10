@@ -1,4 +1,4 @@
-# 谷歌 10 月份获得美国搜索市场份额，但增长放缓 TechCrunch
+# 谷歌 10 月份获得美国搜索市场份额，但增长放缓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/25/google-gains-us-search-market-share-in-october-but-growth-slows/>
 

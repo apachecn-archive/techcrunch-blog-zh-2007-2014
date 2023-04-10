@@ -1,4 +1,4 @@
-# 宣布出售后最大的 Pligg 合作伙伴缺陷–TechCrunch
+# 宣布出售后最大的 Pligg 合作伙伴缺陷–
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/22/largest-pligg-partner-defects-after-announced-sale/>
 

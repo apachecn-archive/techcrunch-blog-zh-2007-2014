@@ -1,4 +1,4 @@
-# 15 家以色列初创公司下月访问加州 TechCrunch
+# 15 家以色列初创公司下月访问加州 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/12/fifteen-israeli-startups-visit-california-next-month/>
 

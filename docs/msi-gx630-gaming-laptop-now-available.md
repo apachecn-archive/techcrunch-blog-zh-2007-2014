@@ -1,4 +1,4 @@
-# MSI GX630 游戏笔记本电脑现已上市 TechCrunch
+# MSI GX630 游戏笔记本电脑现已上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/12/msi-gx630-gaming-laptop-now-available/>
 

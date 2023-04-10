@@ -1,4 +1,4 @@
-# 微软的 key ser sze Opportunity TechCrunch
+# 微软的 key ser sze Opportunity 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/12/microsoft-bing-iphone/>
 

@@ -1,4 +1,4 @@
-# 视频:日本防卫省开发出令人敬畏的球形无人机 TechCrunch
+# 视频:日本防卫省开发出令人敬畏的球形无人机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/25/video-japans-defense-ministry-develops-awesome-ball-shaped-drone/>
 

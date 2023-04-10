@@ -1,4 +1,4 @@
-# 谷歌在视频退款问题上立场逆转；对他们有好处——TechCrunch
+# 谷歌在视频退款问题上立场逆转；对他们有好处——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/21/google-reverses-position-on-video-refunds-good-for-them/>
 

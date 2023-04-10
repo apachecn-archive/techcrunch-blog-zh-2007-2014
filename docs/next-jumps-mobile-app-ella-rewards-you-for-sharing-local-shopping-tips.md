@@ -1,4 +1,4 @@
-# Next Jump 的移动应用 Ella 奖励你分享当地购物技巧 TechCrunch
+# Next Jump 的移动应用 Ella 奖励你分享当地购物技巧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/29/next-jumps-mobile-app-ella-rewards-you-for-sharing-local-shopping-tips/>
 

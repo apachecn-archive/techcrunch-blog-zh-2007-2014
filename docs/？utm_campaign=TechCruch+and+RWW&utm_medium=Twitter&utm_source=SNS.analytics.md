@@ -1,4 +1,4 @@
-# “苹果是邪恶的！抵制 iPad！-从我的 iPad 发送”TechCrunch
+# “苹果是邪恶的！抵制 iPad！-从我的 iPad 发送”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/01/i-quit-quitting-the-ipad/?utm_campaign=TechCruch+and+RWW&utm_medium=Twitter&utm_source=SNS.analytics>
 

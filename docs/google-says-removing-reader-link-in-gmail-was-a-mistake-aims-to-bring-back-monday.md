@@ -1,4 +1,4 @@
-# 谷歌称删除 Gmail 中的“Reader”链接是一个错误，旨在今天将其恢复 TechCrunch
+# 谷歌称删除 Gmail 中的“Reader”链接是一个错误，旨在今天将其恢复 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/23/google-says-removing-reader-link-in-gmail-was-a-mistake-aims-to-bring-back-monday/>
 

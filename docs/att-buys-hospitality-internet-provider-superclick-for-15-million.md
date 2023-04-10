@@ -1,4 +1,4 @@
-# 美国电话电报公司以 1500 万美元收购酒店互联网提供商 Superclick TechCrunch
+# 美国电话电报公司以 1500 万美元收购酒店互联网提供商 Superclick 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/26/att-buys-hospitality-internet-provider-superclick-for-15-million/>
 

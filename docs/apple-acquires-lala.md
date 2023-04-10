@@ -1,4 +1,4 @@
-# 苹果已经收购了 Lala TechCrunch
+# 苹果已经收购了 Lala 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/04/apple-acquires-lala/>
 

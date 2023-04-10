@@ -1,4 +1,4 @@
-# 美国哪些州和 ISP 赢得了网速竞赛？TechCrunch
+# 美国哪些州和 ISP 赢得了网速竞赛？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/27/which-states-and-isps-are-winning-the-internet-speed-race-in-the-u-s/>
 

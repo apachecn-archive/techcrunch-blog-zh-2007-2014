@@ -1,4 +1,4 @@
-# 实现盈利后，Zillow 任命 Hotwire 创始人斯潘塞·拉斯科夫为首席执行官 TechCrunch
+# 实现盈利后，Zillow 任命 Hotwire 创始人斯潘塞·拉斯科夫为首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/after-hitting-profitability-zillow-appoints-hotwire-founder-spencer-rascoff-as-ceo/>
 

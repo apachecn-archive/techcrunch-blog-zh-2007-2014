@@ -1,4 +1,4 @@
-# 三星推出三款 Bada 智能手机 TechCrunch
+# 三星推出三款 Bada 智能手机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/30/samsung-introduces-a-trio-of-bada-powered-wave-smartphones/>
 

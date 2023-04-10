@@ -1,4 +1,4 @@
-# Google/Slide Quiet 的推出继续带来奖励——金钱社交竞赛 TechCrunch
+# Google/Slide Quiet 的推出继续带来奖励——金钱社交竞赛 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/03/google-slides-prizes/>
 

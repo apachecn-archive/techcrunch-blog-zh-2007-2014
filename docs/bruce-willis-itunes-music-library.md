@@ -1,4 +1,4 @@
-# 布鲁斯·威利斯没有就 iTunes 音乐所有权起诉苹果 TechCrunch
+# 布鲁斯·威利斯没有就 iTunes 音乐所有权起诉苹果 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/03/bruce-willis-itunes-music-library/>
 

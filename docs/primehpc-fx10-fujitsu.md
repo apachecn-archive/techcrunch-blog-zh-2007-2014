@@ -1,4 +1,4 @@
-# PRIMEHPC FX10:富士通向公司销售新的超级计算机 TechCrunch
+# PRIMEHPC FX10:富士通向公司销售新的超级计算机 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/primehpc-fx10-fujitsu/>
 

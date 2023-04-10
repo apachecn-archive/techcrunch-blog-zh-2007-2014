@@ -1,4 +1,4 @@
-# Sencha 推出移动 HTML5 云，sencha . io TechCrunch
+# Sencha 推出移动 HTML5 云，sencha . io 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/24/sencha-launches-mobile-html5-cloud-sencha-io/>
 

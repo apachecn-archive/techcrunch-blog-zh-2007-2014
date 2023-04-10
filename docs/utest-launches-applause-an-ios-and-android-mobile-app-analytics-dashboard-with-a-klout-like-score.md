@@ -1,4 +1,4 @@
-# uTest 发布了一个 iOS 和 Android 移动应用分析仪表板 plateau，其得分与 Klout 相似 TechCrunch
+# uTest 发布了一个 iOS 和 Android 移动应用分析仪表板 plateau，其得分与 Klout 相似 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/30/utest-launches-applause-an-ios-and-android-mobile-app-analytics-dashboard-with-a-klout-like-score/>
 

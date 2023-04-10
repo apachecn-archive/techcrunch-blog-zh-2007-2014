@@ -1,4 +1,4 @@
-# Pinterest 收购图像识别和视觉搜索初创公司 Visual graph TechCrunch
+# Pinterest 收购图像识别和视觉搜索初创公司 Visual graph 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/06/pinterest-visualgraph/>
 

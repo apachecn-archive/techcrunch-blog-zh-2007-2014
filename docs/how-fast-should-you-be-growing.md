@@ -1,4 +1,4 @@
-# 你应该以多快的速度成长？TechCrunch
+# 你应该以多快的速度成长？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/24/how-fast-should-you-be-growing/>
 

@@ -1,4 +1,4 @@
-# 应用内购买大变动开始了:Boxcar 免费！TechCrunch
+# 应用内购买大变动开始了:Boxcar 免费！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/15/the-in-app-purchase-shakeup-begins-boxcar-goes-free/>
 

@@ -1,4 +1,4 @@
-# StumbleUpon 将推出 su.pr ShortUrl 服务 TechCrunch
+# StumbleUpon 将推出 su.pr ShortUrl 服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/12/stumbleupon-to-launch-supr-shorturl-service/>
 

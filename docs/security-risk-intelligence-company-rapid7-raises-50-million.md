@@ -1,4 +1,4 @@
-# 安全风险情报公司 Rapid7 融资 5000 万美元 TechCrunch
+# 安全风险情报公司 Rapid7 融资 5000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/17/security-risk-intelligence-company-rapid7-raises-50-million/>
 

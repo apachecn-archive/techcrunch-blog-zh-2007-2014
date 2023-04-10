@@ -1,4 +1,4 @@
-# 移动支付初创公司 Square 增加了理查德·布兰森爵士作为投资者，着眼于 2012 年的国际扩张 TechCrunch
+# 移动支付初创公司 Square 增加了理查德·布兰森爵士作为投资者，着眼于 2012 年的国际扩张 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/virgin-group-founder-sir-richard-branson-invests-in-mobile-payments-startup-square/>
 

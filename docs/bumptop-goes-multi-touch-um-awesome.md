@@ -1,4 +1,4 @@
-# BumpTop 支持多点触控。嗯，太棒了。TechCrunch
+# BumpTop 支持多点触控。嗯，太棒了。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/30/bumptop-goes-multi-touch-um-awesome/>
 

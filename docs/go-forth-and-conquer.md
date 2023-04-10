@@ -1,4 +1,4 @@
-# 勇往直前征服 TechCrunch
+# 勇往直前征服 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/02/go-forth-and-conquer/>
 

@@ -1,4 +1,4 @@
-# 37 信号中断——看来 Rackspace 又要受到指责了 TechCrunch
+# 37 信号中断——看来 Rackspace 又要受到指责了 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/18/37signals-down-looks-like-rackspace-is-to-blame-again/>
 

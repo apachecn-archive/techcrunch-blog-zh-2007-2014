@@ -1,4 +1,4 @@
-# PS 越狱实现了它的承诺:越狱你的 PS3 TechCrunch
+# PS 越狱实现了它的承诺:越狱你的 PS3 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/19/ps-jailbreak-does-what-it-promises-jailbreaks-your-ps3/>
 

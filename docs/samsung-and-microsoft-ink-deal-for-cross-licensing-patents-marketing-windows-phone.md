@@ -1,4 +1,4 @@
-# 三星和微软达成专利交叉许可协议，开发 Windows Phone TechCrunch
+# 三星和微软达成专利交叉许可协议，开发 Windows Phone 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/samsung-and-microsoft-ink-deal-for-cross-licensing-patents-marketing-windows-phone/>
 

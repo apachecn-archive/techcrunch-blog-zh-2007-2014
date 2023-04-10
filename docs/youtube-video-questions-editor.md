@@ -1,4 +1,4 @@
-# YouTube 测试功能可在您观看视频时对您进行测试 TechCrunch
+# YouTube 测试功能可在您观看视频时对您进行测试 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/20/youtube-video-questions-editor/>
 

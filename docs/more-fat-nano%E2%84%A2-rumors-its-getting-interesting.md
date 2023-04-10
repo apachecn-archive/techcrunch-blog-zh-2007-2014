@@ -1,4 +1,4 @@
-# 更多 Fat Nano 谣言:越来越有趣了——TechCrunch
+# 更多 Fat Nano 谣言:越来越有趣了——
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/24/more-fat-nano%E2%84%A2-rumors-its-getting-interesting/>
 

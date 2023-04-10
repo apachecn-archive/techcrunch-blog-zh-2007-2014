@@ -1,4 +1,4 @@
-# YouTube 推出新的评论管理工具 TechCrunch
+# YouTube 推出新的评论管理工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/youtube-launches-new-comments-management-tool/>
 

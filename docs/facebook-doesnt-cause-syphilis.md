@@ -1,4 +1,4 @@
-# 冷静点。脸书不会导致梅毒。TechCrunch
+# 冷静点。脸书不会导致梅毒。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/03/24/facebook-doesnt-cause-syphilis/>
 

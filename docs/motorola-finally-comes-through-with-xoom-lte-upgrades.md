@@ -1,4 +1,4 @@
-# 摩托罗拉终于推出 Xoom LTE 升级版 TechCrunch
+# 摩托罗拉终于推出 Xoom LTE 升级版 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/28/motorola-finally-comes-through-with-xoom-lte-upgrades/>
 

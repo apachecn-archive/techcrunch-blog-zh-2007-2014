@@ -1,4 +1,4 @@
-# 脸书向农业局支付 850 万美元收购 Fb.com TechCrunch
+# 脸书向农业局支付 850 万美元收购 Fb.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/11/facebook-paid-farm-bureau-8-5-million-to-acquire-fb-com/>
 

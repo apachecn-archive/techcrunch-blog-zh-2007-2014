@@ -1,4 +1,4 @@
-# RewardLoop 为支持二维码的忠诚度计划筹集了 100 万美元 TechCrunch
+# RewardLoop 为支持二维码的忠诚度计划筹集了 100 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/09/rewardloop-series-a/>
 

@@ -1,4 +1,4 @@
-# 亚马逊与华纳兄弟达成许可协议，为 Prime Instant Video 带来更多电视节目 TechCrunch
+# 亚马逊与华纳兄弟达成许可协议，为 Prime Instant Video 带来更多电视节目 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/20/amazon-warner-bros-tv-shows/>
 

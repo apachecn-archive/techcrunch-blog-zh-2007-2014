@@ -1,4 +1,4 @@
-# 靠左行驶 TechCrunch
+# 靠左行驶 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/02/driving-on-the-left/>
 

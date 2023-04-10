@@ -1,4 +1,4 @@
-# Smibs 带来商业网络的新观点 TechCrunch
+# Smibs 带来商业网络的新观点 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/11/smibs-brings-a-new-take-on-business-networking/>
 

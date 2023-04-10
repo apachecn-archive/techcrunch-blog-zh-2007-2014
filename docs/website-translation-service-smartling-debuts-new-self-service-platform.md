@@ -1,4 +1,4 @@
-# 网站翻译服务 Smartling 推出新的自助服务平台 TechCrunch
+# 网站翻译服务 Smartling 推出新的自助服务平台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/website-translation-service-smartling-debuts-new-self-service-platform/>
 

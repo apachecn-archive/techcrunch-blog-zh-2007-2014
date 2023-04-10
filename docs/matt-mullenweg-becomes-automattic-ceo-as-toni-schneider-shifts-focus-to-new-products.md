@@ -1,4 +1,4 @@
-# 托尼·施耐德将重心转移到新产品上，马特·莫楞威格成为 Automattic 首席执行官 TechCrunch
+# 托尼·施耐德将重心转移到新产品上，马特·莫楞威格成为 Automattic 首席执行官 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/matt-mullenweg-becomes-automattic-ceo-as-toni-schneider-shifts-focus-to-new-products/>
 

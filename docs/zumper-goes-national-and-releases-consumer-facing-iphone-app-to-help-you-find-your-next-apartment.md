@@ -1,4 +1,4 @@
-# Zumper 走向全国，发布了一款 iPhone 应用程序，帮助你找到下一个公寓 TechCrunch
+# Zumper 走向全国，发布了一款 iPhone 应用程序，帮助你找到下一个公寓 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/15/zumper-goes-national-and-releases-consumer-facing-iphone-app-to-help-you-find-your-next-apartment/>
 

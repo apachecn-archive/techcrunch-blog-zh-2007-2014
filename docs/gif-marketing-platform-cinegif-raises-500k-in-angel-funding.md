@@ -1,4 +1,4 @@
-# GIF 营销平台 Cinegif 获得 50 万美元天使投资 TechCrunch
+# GIF 营销平台 Cinegif 获得 50 万美元天使投资 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/19/gif-marketing-platform-cinegif-raises-500k-in-angel-funding/>
 

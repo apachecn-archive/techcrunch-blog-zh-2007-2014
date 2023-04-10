@@ -1,4 +1,4 @@
-# 《纽约时报》与 Fwix 合作授权实时超本地新闻流 TechCrunch
+# 《纽约时报》与 Fwix 合作授权实时超本地新闻流 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/17/fwix-lands-deal-with-the-new-york-times-company-to-license-realtime-hyperlocal-news-stream/>
 

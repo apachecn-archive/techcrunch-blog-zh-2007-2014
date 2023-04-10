@@ -1,4 +1,4 @@
-# 新的外壳设备为 iPhone 4 增加了双 sim 卡 TechCrunch
+# 新的外壳设备为 iPhone 4 增加了双 sim 卡 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/08/new-case-device-adds-dual-sims-to-iphone-4/>
 

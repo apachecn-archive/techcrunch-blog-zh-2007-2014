@@ -1,4 +1,4 @@
-# Skype For Android 现在支持视频通话，通过 WiFi 和 3G 工作 TechCrunch
+# Skype For Android 现在支持视频通话，通过 WiFi 和 3G 工作 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/30/skype-for-android-now-support-video-calls-works-over-wifi-and-3g/>
 

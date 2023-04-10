@@ -1,4 +1,4 @@
-# 创业只是出口吗？TechCrunch
+# 创业只是出口吗？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/06/12/is-entrepreneurship-just-about-the-exit/>
 

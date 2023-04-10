@@ -1,4 +1,4 @@
-# 战斗仍在继续:三星将上诉苹果的欧洲禁令 TechCrunch
+# 战斗仍在继续:三星将上诉苹果的欧洲禁令 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/the-battle-continues-samsung-to-appeal-apples-european-injunction/>
 

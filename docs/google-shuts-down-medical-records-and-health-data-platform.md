@@ -1,4 +1,4 @@
-# 谷歌关闭医疗记录和健康数据平台 TechCrunch
+# 谷歌关闭医疗记录和健康数据平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/24/google-shuts-down-medical-records-and-health-data-platform/>
 

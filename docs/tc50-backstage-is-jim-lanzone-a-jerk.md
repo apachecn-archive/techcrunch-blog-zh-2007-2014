@@ -1,4 +1,4 @@
-# TC50 后台:吉姆·兰佐内是个混蛋吗？TechCrunch
+# TC50 后台:吉姆·兰佐内是个混蛋吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/14/tc50-backstage-is-jim-lanzone-a-jerk/>
 

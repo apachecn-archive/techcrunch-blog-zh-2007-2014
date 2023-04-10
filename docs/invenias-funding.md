@@ -1,4 +1,4 @@
-# Invenias 筹集 150 万美元在美国和亚洲推广其高管搜索和招聘 SaaS 平台 TechCrunch
+# Invenias 筹集 150 万美元在美国和亚洲推广其高管搜索和招聘 SaaS 平台 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/invenias-funding/>
 

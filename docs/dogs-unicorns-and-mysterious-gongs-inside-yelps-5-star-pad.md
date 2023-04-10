@@ -1,4 +1,4 @@
-# 狗、独角兽和神秘的铜锣:走进 Yelp 的五星级公寓 TechCrunch
+# 狗、独角兽和神秘的铜锣:走进 Yelp 的五星级公寓 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/03/dogs-unicorns-and-mysterious-gongs-inside-yelps-5-star-pad/>
 

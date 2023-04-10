@@ -1,4 +1,4 @@
-# Twitter 通过短信提供双重认证，增强了网络安全性，但共享账户仍有危险 TechCrunch
+# Twitter 通过短信提供双重认证，增强了网络安全性，但共享账户仍有危险 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/22/twitter-ups-account-security-with-optional-two-factor-authentication-via-sms/>
 

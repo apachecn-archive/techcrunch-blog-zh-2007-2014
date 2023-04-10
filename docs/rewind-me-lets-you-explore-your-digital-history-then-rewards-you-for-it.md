@@ -1,4 +1,4 @@
-# 倒带。Me 让您探索您的数字历史，然后为此奖励您 TechCrunch
+# 倒带。Me 让您探索您的数字历史，然后为此奖励您 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/14/rewind-me-lets-you-explore-your-digital-history-then-rewards-you-for-it/>
 

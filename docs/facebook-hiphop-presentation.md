@@ -1,4 +1,4 @@
-# 来自脸书 HipHop 技术品尝会的现场直播 TechCrunch
+# 来自脸书 HipHop 技术品尝会的现场直播 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/facebook-hiphop-presentation/>
 

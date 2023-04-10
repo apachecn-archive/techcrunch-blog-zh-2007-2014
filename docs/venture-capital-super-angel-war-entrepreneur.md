@@ -1,4 +1,4 @@
-# 风投和超级天使:企业家之战 TechCrunch
+# 风投和超级天使:企业家之战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/15/venture-capital-super-angel-war-entrepreneur/>
 

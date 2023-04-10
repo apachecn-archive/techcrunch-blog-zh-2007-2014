@@ -1,8 +1,8 @@
-# TechCrunch 赠品:摩托罗拉 Xoom # TechCrunch TechCrunch
+# TechCrunch 赠品:摩托罗拉 Xoom # TechCrunch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/techcrunch-giveaway-motorola-xoom-techcrunch/>
 
-# TechCrunch 赠品:摩托罗拉 Xoom #TechCrunch
+# TechCrunch 赠品:摩托罗拉 Xoom #
 
 今天是星期五，我们有一些特别的东西要送出。在过去的一年里，我们已经送出了一些这样的礼物，今天我们很高兴送出最后一份礼物。
 

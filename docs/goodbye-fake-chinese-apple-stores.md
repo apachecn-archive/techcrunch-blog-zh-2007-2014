@@ -1,4 +1,4 @@
-# 再见，假冒的中国苹果店 TechCrunch
+# 再见，假冒的中国苹果店 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/goodbye-fake-chinese-apple-stores/>
 

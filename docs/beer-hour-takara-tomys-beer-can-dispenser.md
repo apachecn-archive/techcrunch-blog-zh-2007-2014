@@ -1,4 +1,4 @@
-# 啤酒时间:Takara Tomy 的啤酒罐自动售货机 TechCrunch
+# 啤酒时间:Takara Tomy 的啤酒罐自动售货机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/26/beer-hour-takara-tomys-beer-can-dispenser/>
 

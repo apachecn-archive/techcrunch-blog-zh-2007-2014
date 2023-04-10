@@ -1,4 +1,4 @@
-# Bionym 对未来的愿景:安全账户持有者就是他们自己的凭证 TechCrunch
+# Bionym 对未来的愿景:安全账户持有者就是他们自己的凭证 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/18/bionym-nimi-video/>
 

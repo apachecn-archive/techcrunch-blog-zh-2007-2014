@@ -1,4 +1,4 @@
-# 易贝预测 2012 年移动商务交易额为 80 亿美元；PayPal 将达到 70 亿美元 TechCrunch
+# 易贝预测 2012 年移动商务交易额为 80 亿美元；PayPal 将达到 70 亿美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/12/ebay-forecasts-8b-in-mobile-commerce-volume-in-2012-paypal-will-reach-7b/>
 

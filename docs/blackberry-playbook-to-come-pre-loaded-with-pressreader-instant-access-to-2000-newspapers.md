@@ -1,4 +1,4 @@
-# 预装 PressReader 的黑莓 PlayBook:即时访问 2，000 多份报纸 TechCrunch
+# 预装 PressReader 的黑莓 PlayBook:即时访问 2，000 多份报纸 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/blackberry-playbook-to-come-pre-loaded-with-pressreader-instant-access-to-2000-newspapers/>
 

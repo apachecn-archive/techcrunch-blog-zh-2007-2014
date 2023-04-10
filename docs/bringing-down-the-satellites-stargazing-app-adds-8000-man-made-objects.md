@@ -1,4 +1,4 @@
-# 击落卫星:观星应用增加 8000 个人造物体 TechCrunch
+# 击落卫星:观星应用增加 8000 个人造物体 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/bringing-down-the-satellites-stargazing-app-adds-8000-man-made-objects/>
 

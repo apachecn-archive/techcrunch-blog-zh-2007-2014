@@ -1,4 +1,4 @@
-# 比兹·斯通退出 Twitter，与 Ev Williams 和詹森·高德曼一起重新推出明显的 TechCrunch
+# 比兹·斯通退出 Twitter，与 Ev Williams 和詹森·高德曼一起重新推出明显的 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/28/biz-stone-steps-back-from-twitter-to-relaunch-obvious-with-ev-williams-and-jason-goldman/>
 

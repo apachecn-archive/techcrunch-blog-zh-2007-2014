@@ -1,4 +1,4 @@
-# 四家风投公司争夺 Foursquare，估值飙升 TechCrunch
+# 四家风投公司争夺 Foursquare，估值飙升 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/25/four-vc-firms-battle-for-foursquare-valuation-goes-stratospheric/>
 

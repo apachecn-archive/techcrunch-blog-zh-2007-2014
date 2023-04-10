@@ -1,4 +1,4 @@
-# Coraid 为下一代弹性数据存储募集 5000 万美元 TechCrunch
+# Coraid 为下一代弹性数据存储募集 5000 万美元 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/03/coraid-raises-50-million-for-next-gen-elastic-data-storage/>
 

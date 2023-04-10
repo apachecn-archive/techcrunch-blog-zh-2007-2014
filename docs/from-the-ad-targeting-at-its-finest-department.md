@@ -1,4 +1,4 @@
-# 来自针对其最佳部门的广告 TechCrunch
+# 来自针对其最佳部门的广告 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/14/from-the-ad-targeting-at-its-finest-department/>
 

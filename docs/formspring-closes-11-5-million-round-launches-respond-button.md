@@ -1,4 +1,4 @@
-# Formspring 完成 1150 万美元的融资，启动“响应”按钮 TechCrunch
+# Formspring 完成 1150 万美元的融资，启动“响应”按钮 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/11/formspring-closes-11-5-million-round-launches-respond-button/>
 

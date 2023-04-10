@@ -1,4 +1,4 @@
-# Zynga 与百思买联手销售 FarmVille 收藏毛绒玩具 TechCrunch
+# Zynga 与百思买联手销售 FarmVille 收藏毛绒玩具 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/zynga-teams-up-with-bestbuy-to-sell-farmville-collectible-plush-toys/>
 

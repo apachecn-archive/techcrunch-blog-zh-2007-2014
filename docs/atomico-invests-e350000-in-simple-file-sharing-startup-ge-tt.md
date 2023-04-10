@@ -1,4 +1,4 @@
-# Atomico 向€投资 35 万美元投资简单文件共享初创公司 ge . TT TechCrunch
+# Atomico 向€投资 35 万美元投资简单文件共享初创公司 ge . TT 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/atomico-invests-e350000-in-simple-file-sharing-startup-ge-tt/>
 

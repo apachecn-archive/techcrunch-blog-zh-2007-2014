@@ -1,4 +1,4 @@
-# 用户宣言:防御黑客攻击、篡改和越狱 TechCrunch
+# 用户宣言:防御黑客攻击、篡改和越狱 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/18/the-users-manifesto-in-defense-of-hacking-modding-and-jailbreaking/>
 

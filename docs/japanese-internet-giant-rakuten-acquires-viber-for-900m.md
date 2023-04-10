@@ -1,4 +1,4 @@
-# 日本互联网巨头乐天以 9 亿美元收购 Viber TechCrunch
+# 日本互联网巨头乐天以 9 亿美元收购 Viber 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/13/japanese-internet-giant-rakuten-acquires-viber-for-900m/>
 

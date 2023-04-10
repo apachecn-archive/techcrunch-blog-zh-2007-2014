@@ -1,4 +1,4 @@
-# 摩托罗拉正式推出 Droid RAZR HD 和 Droid RAZR MAXX HD TechCrunch
+# 摩托罗拉正式推出 Droid RAZR HD 和 Droid RAZR MAXX HD 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/05/motorola-officially-unveils-the-droid-razr-hd-and-droid-razr-maxx-hd/>
 

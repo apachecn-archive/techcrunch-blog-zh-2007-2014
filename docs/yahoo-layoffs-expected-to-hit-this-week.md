@@ -1,4 +1,4 @@
-# 雅虎预计本周裁员 TechCrunch
+# 雅虎预计本周裁员 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/19/yahoo-layoffs-expected-to-hit-this-week/>
 

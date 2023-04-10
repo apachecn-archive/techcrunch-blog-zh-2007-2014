@@ -1,4 +1,4 @@
-# 为什么您需要关注一般招标 TechCrunch
+# 为什么您需要关注一般招标 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/21/why-you-need-to-pay-attention-to-general-solicitation/>
 

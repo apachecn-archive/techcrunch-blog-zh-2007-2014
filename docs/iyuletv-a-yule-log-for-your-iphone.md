@@ -1,4 +1,4 @@
-# iyu le . TV:iPhone 的圣诞日志 TechCrunch
+# iyu le . TV:iPhone 的圣诞日志 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/26/iyuletv-a-yule-log-for-your-iphone/>
 

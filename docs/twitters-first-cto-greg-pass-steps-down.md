@@ -1,4 +1,4 @@
-# Twitter 首位首席技术官格雷格·帕斯下台 TechCrunch
+# Twitter 首位首席技术官格雷格·帕斯下台 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/20/twitters-first-cto-greg-pass-steps-down/>
 

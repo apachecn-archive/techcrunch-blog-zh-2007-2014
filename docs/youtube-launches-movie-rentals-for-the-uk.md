@@ -1,4 +1,4 @@
-# YouTube 推出英国电影租赁服务 TechCrunch
+# YouTube 推出英国电影租赁服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/07/youtube-launches-movie-rentals-for-the-uk/>
 

@@ -1,4 +1,4 @@
-# 据报道，三星试图压制一部批评其安全记录的电影 TechCrunch
+# 据报道，三星试图压制一部批评其安全记录的电影 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/25/samsung-another-family/>
 

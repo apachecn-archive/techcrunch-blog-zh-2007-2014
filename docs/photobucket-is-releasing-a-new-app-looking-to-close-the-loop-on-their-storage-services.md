@@ -1,4 +1,4 @@
-# Photobucket 发布了一款新的应用程序，旨在完善他们的存储服务 TechCrunch
+# Photobucket 发布了一款新的应用程序，旨在完善他们的存储服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/photobucket-is-releasing-a-new-app-looking-to-close-the-loop-on-their-storage-services/>
 

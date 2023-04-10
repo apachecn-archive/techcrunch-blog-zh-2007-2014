@@ -1,4 +1,4 @@
-# 摩托罗拉 Droid HD 对着摄像头微笑，Droid Bionic 标签跟随 TechCrunch
+# 摩托罗拉 Droid HD 对着摄像头微笑，Droid Bionic 标签跟随 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/motorola-droid-hd-smiles-for-the-camera-droid-bionic-tags-along/>
 

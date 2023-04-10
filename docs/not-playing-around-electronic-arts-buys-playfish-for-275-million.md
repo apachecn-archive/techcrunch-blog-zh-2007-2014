@@ -1,4 +1,4 @@
-# 不是闹着玩。EA 以 3 亿美元收购 Playfish，并获得 1 亿美元的收益。TechCrunch
+# 不是闹着玩。EA 以 3 亿美元收购 Playfish，并获得 1 亿美元的收益。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/09/not-playing-around-electronic-arts-buys-playfish-for-275-million/>
 

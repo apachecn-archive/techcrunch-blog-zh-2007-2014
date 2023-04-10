@@ -1,4 +1,4 @@
-# Fanzila 升级了脸书页面，增加了博客、论坛、竞赛等应用 TechCrunch
+# Fanzila 升级了脸书页面，增加了博客、论坛、竞赛等应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/15/fanzila-upgrades-facebook-pages-with-apps-for-blogs-forums-contest-and-more/>
 

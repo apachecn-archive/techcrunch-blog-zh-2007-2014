@@ -1,4 +1,4 @@
-# 基辅的初创公司黑客马拉松今天希望为亲欧盟示威抗议打造工具 TechCrunch
+# 基辅的初创公司黑客马拉松今天希望为亲欧盟示威抗议打造工具 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/28/startup-hackathon-in-kiev-today-hopes-to-build-tools-for-euromaidan-protest/>
 

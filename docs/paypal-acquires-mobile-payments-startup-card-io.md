@@ -1,4 +1,4 @@
-# PayPal 收购移动支付创业卡。io TechCrunch
+# PayPal 收购移动支付创业卡。io 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/paypal-acquires-mobile-payments-startup-card-io/>
 

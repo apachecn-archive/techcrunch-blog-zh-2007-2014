@@ -1,4 +1,4 @@
-# 我们 Dash GPS 比赛的冠军是。。。TechCrunch
+# 我们 Dash GPS 比赛的冠军是。。。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/01/and-the-winner-of-our-dash-gps-contest-is/>
 

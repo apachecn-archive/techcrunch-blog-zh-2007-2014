@@ -1,4 +1,4 @@
-# hotel 迅速筹集 116 万美元 A 轮融资，在亚洲扩张 TechCrunch
+# hotel 迅速筹集 116 万美元 A 轮融资，在亚洲扩张 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/hotelquickly-raises-1-16m-series-a-to-expand-in-asia/>
 

@@ -1,4 +1,4 @@
-# 展望:Android 市场增长更快，但 App Store 吸引了更多开发者 TechCrunch
+# 展望:Android 市场增长更快，但 App Store 吸引了更多开发者 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/16/lookout-android-market-growing-faster-but-app-store-attracting-more-developers/>
 

@@ -1,4 +1,4 @@
-# 法国 Jooce 进入 WebOS 领域——TechCrunch
+# 法国 Jooce 进入 WebOS 领域——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/frances-jooce-enters-webos-space/>
 

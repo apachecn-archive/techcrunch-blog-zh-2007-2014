@@ -1,4 +1,4 @@
-# 多屏视频商店平台 Latto 再融资 400 万美元 TechCrunch
+# 多屏视频商店平台 Latto 再融资 400 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/latto-raises-4m/>
 

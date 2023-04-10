@@ -1,4 +1,4 @@
-# 网飞超过分析师预期，拥有 2920 万美国用户和 10 亿美元 Q1 收入 TechCrunch
+# 网飞超过分析师预期，拥有 2920 万美国用户和 10 亿美元 Q1 收入 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/22/netflix-beats-analyst-estimates-with-29-2-million-us-subscribers-and-1-billion-in-q1-revenue/>
 

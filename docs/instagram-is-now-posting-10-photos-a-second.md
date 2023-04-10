@@ -1,4 +1,4 @@
-# Instagram 注册用户超过 425 万，现在每秒发布 10 张照片 TechCrunch
+# Instagram 注册用户超过 425 万，现在每秒发布 10 张照片 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/24/instagram-is-now-posting-10-photos-a-second/>
 

@@ -1,4 +1,4 @@
-# BilltoMobile 与 Discover 合作推出移动支付服务 TechCrunch
+# BilltoMobile 与 Discover 合作推出移动支付服务 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/27/billtomobile-partners-with-discover-on-mobile-payments-push/>
 

@@ -1,4 +1,4 @@
-# ZOOZBeat 将您的手机变成音乐工作室 TechCrunch
+# ZOOZBeat 将您的手机变成音乐工作室 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/14/zoozbeat-turns-your-phone-into-a-music-studio/>
 

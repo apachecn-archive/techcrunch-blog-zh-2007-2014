@@ -1,4 +1,4 @@
-# Shopify 调查了商业网站的社交投资回报率，发现脸书占据主导地位，但 Reddit 正在增长 TechCrunch
+# Shopify 调查了商业网站的社交投资回报率，发现脸书占据主导地位，但 Reddit 正在增长 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/10/shopify-examines-social-roi-for-commerce-sites-finds-facebook-dominates-but-reddit-is-growing/>
 

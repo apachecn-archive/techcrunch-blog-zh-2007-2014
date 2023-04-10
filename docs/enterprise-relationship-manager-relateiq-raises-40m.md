@@ -1,4 +1,4 @@
-# 企业关系经理 RelateIQ 融资 4000 万美元 TechCrunch
+# 企业关系经理 RelateIQ 融资 4000 万美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/enterprise-relationship-manager-relateiq-raises-40m/>
 

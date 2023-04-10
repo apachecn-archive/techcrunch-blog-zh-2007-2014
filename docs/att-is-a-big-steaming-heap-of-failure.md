@@ -1,4 +1,4 @@
-# 美国电话电报公司是一大堆热气腾腾的失败案例 TechCrunch
+# 美国电话电报公司是一大堆热气腾腾的失败案例 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/18/att-is-a-big-steaming-heap-of-failure/>
 

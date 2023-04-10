@@ -1,4 +1,4 @@
-# HealthRally 推出，帮助你通过健身获得报酬 TechCrunch
+# HealthRally 推出，帮助你通过健身获得报酬 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/12/healthrally-launches-to-help-you-get-paid-for-getting-in-shape/>
 

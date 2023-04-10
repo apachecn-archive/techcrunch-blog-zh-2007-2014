@@ -1,4 +1,4 @@
-# Posterous 开始在网站中自动插入附属链接，却忘记告诉用户 TechCrunch
+# Posterous 开始在网站中自动插入附属链接，却忘记告诉用户 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/30/posterous-starts-automatically-inserting-affiliate-links-into-sites-forgets-to-tell-users/>
 

@@ -1,4 +1,4 @@
-# 互联网是人 TechCrunch
+# 互联网是人 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/01/01/the-internet-is-people/>
 

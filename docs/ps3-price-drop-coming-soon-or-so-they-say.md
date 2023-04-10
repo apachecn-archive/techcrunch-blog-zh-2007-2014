@@ -1,4 +1,4 @@
-# PS3 价格“很快”会下降，至少他们这么说 TechCrunch
+# PS3 价格“很快”会下降，至少他们这么说 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/18/ps3-price-drop-coming-soon-or-so-they-say/>
 

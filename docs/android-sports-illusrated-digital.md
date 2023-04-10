@@ -1,4 +1,4 @@
-# 时代公司发布体育画报数字订阅 TechCrunch
+# 时代公司发布体育画报数字订阅 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/11/android-sports-illusrated-digital/>
 

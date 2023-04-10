@@ -1,4 +1,4 @@
-# 编辑社区 Kibin 帮助你快速免费校对你的文章 TechCrunch
+# 编辑社区 Kibin 帮助你快速免费校对你的文章 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/18/those-that-cannot-write-do/>
 

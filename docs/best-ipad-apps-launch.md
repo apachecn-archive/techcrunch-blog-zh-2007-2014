@@ -1,4 +1,4 @@
-# 发布的最佳 iPad 应用 TechCrunch
+# 发布的最佳 iPad 应用 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/04/02/best-ipad-apps-launch/>
 

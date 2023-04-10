@@ -1,4 +1,4 @@
-# comScore:美国第三季度电子商务支出增长 13%，至 363 亿美元 TechCrunch
+# comScore:美国第三季度电子商务支出增长 13%，至 363 亿美元 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/comscore-u-s-e-commerce-spending-up-13-percent-in-q3-to-36-3-billion/>
 

@@ -1,4 +1,4 @@
-# 谷歌戏弄我们，承诺一个新的 Orkut——TechCrunch
+# 谷歌戏弄我们，承诺一个新的 Orkut——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/google-teases-us-with-a-promised-new-orkut>
 

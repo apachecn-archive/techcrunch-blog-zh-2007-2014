@@ -1,4 +1,4 @@
-# 尼尔森:安卓占据操作系统榜首，苹果领先制造商 TechCrunch
+# 尼尔森:安卓占据操作系统榜首，苹果领先制造商 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/28/nielsen-android-takes-top-os-spot-apple-tops-manufacturers/>
 

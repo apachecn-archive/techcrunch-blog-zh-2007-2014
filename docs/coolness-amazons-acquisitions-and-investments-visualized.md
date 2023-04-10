@@ -1,4 +1,4 @@
-# 酷:亚马逊的收购和投资，可视化 TechCrunch
+# 酷:亚马逊的收购和投资，可视化 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/27/coolness-amazons-acquisitions-and-investments-visualized/>
 

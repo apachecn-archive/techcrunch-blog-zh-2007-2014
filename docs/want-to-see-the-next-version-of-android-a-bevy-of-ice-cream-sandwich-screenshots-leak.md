@@ -1,4 +1,4 @@
-# 想看看下一个版本的 Android 吗？一组冰淇淋三明治截图泄露 TechCrunch
+# 想看看下一个版本的 Android 吗？一组冰淇淋三明治截图泄露 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/07/want-to-see-the-next-version-of-android-a-bevy-of-ice-cream-sandwich-screenshots-leak/>
 

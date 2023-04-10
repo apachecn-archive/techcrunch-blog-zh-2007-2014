@@ -1,4 +1,4 @@
-# 为什么我们需要废除软件专利 TechCrunch
+# 为什么我们需要废除软件专利 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/08/07/why-we-need-to-abolish-software-patents/>
 

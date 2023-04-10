@@ -1,4 +1,4 @@
-# 平板手机是新常态 TechCrunch
+# 平板手机是新常态 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/13/phablets-are-the-new-normal/>
 

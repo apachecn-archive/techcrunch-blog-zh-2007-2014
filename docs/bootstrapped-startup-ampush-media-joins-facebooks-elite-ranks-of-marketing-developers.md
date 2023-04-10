@@ -1,4 +1,4 @@
-# 创业公司 Ampush 加入脸书营销开发精英行列 TechCrunch
+# 创业公司 Ampush 加入脸书营销开发精英行列 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/bootstrapped-startup-ampush-media-joins-facebooks-elite-ranks-of-marketing-developers/>
 

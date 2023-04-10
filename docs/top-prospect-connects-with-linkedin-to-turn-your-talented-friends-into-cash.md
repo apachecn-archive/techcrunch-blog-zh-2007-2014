@@ -1,4 +1,4 @@
-# 顶级潜在客户与 LinkedIn 联系，将您的天才朋友转化为现金 TechCrunch
+# 顶级潜在客户与 LinkedIn 联系，将您的天才朋友转化为现金 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/15/top-prospect-connects-with-linkedin-to-turn-your-talented-friends-into-cash/>
 

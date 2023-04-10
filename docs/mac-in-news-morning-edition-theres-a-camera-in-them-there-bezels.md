@@ -1,4 +1,4 @@
-# Mac-in-news 晨报版:那个边框里有一个摄像头！TechCrunch
+# Mac-in-news 晨报版:那个边框里有一个摄像头！
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/02/mac-in-news-morning-edition-theres-a-camera-in-them-there-bezels/>
 

@@ -1,4 +1,4 @@
-# 视频:洛克希德公司的“萨马拉伊”无人机像枫树种子一样旋转 TechCrunch
+# 视频:洛克希德公司的“萨马拉伊”无人机像枫树种子一样旋转 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/12/video-lockheeds-samarai-drone-spins-like-a-maple-seed/>
 

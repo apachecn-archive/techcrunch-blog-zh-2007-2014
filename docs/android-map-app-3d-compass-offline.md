@@ -1,4 +1,4 @@
-# Android 地图应用将获得 3D 建筑、指南针方向和离线功能 TechCrunch
+# Android 地图应用将获得 3D 建筑、指南针方向和离线功能 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/06/android-map-app-3d-compass-offline/>
 

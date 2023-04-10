@@ -1,4 +1,4 @@
-# iOS 报刊亭开始营业 TechCrunch
+# iOS 报刊亭开始营业 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/the-ios-newsstand-is-open-for-business/>
 

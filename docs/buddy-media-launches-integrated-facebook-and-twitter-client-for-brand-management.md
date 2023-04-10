@@ -1,4 +1,4 @@
-# 巴迪媒体推出用于品牌管理的集成脸书和 Twitter 客户端 TechCrunch
+# 巴迪媒体推出用于品牌管理的集成脸书和 Twitter 客户端 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/20/buddy-media-launches-integrated-facebook-and-twitter-client-for-brand-management/>
 

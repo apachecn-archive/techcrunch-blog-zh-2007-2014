@@ -1,4 +1,4 @@
-# Hitwise:高收入购物者在假期削减支出最多 TechCrunch
+# Hitwise:高收入购物者在假期削减支出最多 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/30/hitwise-high-income-shoppers-slashed-spending-most-over-the-holidays/>
 

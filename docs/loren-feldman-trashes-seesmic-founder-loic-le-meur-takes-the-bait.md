@@ -1,4 +1,4 @@
-# 罗兰·费尔德曼诋毁 Seesmic 创始人 Loic Le Meur 上钩 TechCrunch
+# 罗兰·费尔德曼诋毁 Seesmic 创始人 Loic Le Meur 上钩 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/16/loren-feldman-trashes-seesmic-founder-loic-le-meur-takes-the-bait/>
 

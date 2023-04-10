@@ -1,4 +1,4 @@
-# 社交游戏公司 Kabam 融资 3000 万美元，计划收购 TechCrunch
+# 社交游戏公司 Kabam 融资 3000 万美元，计划收购 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/20/social-gaming-company-kabam-raises-30-million-plans-acquisitions/>
 

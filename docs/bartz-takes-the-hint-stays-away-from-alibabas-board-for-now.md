@@ -1,4 +1,4 @@
-# 巴茨领会了这个暗示，远离了阿里巴巴的董事会...目前 TechCrunch
+# 巴茨领会了这个暗示，远离了阿里巴巴的董事会...目前 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/14/bartz-takes-the-hint-stays-away-from-alibabas-board-for-now/>
 

@@ -1,4 +1,4 @@
-# 易贝推出购物社交网络 TechCrunch
+# 易贝推出购物社交网络 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/10/09/ebay-launches-shopping-social-networks/>
 

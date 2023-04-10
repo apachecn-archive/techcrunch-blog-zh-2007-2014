@@ -1,4 +1,4 @@
-# 25 年后，首个注册域名易手 TechCrunch
+# 25 年后，首个注册域名易手 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/27/25-years-later-first-registered-domain-name-changes-hands/>
 

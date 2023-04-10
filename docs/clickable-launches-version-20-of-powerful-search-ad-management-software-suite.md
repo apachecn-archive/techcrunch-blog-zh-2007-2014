@@ -1,4 +1,4 @@
-# Clickable 推出功能强大的搜索广告管理软件套件 2.0 版 TechCrunch
+# Clickable 推出功能强大的搜索广告管理软件套件 2.0 版 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/09/clickable-launches-version-20-of-powerful-search-ad-management-software-suite/>
 

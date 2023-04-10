@@ -1,4 +1,4 @@
-# Blippar AR 广告应用推出社交分享，缩短图像识别时间 TechCrunch
+# Blippar AR 广告应用推出社交分享，缩短图像识别时间 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/22/blippar-ar-advertising-app-launches-social-sharing-improves-image-recognition-time/>
 

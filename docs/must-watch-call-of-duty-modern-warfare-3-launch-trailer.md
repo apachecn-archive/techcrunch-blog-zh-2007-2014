@@ -1,4 +1,4 @@
-# 必看:使命召唤:现代战争 3 发布预告片 TechCrunch
+# 必看:使命召唤:现代战争 3 发布预告片 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/22/must-watch-call-of-duty-modern-warfare-3-launch-trailer/>
 

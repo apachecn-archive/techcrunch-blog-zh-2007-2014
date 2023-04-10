@@ -1,4 +1,4 @@
-# 飞还是死:颜色如何成为 iPhone 应用的明星 TechCrunch
+# 飞还是死:颜色如何成为 iPhone 应用的明星 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/25/fly-or-die-color-ishtar/>
 

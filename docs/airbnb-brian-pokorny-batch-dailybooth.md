@@ -1,4 +1,4 @@
-# Airbnb Acqui-雇佣 Brian Pokorny 和 Batch/DailyBooth 团队来促进移动应用 TechCrunch
+# Airbnb Acqui-雇佣 Brian Pokorny 和 Batch/DailyBooth 团队来促进移动应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/airbnb-brian-pokorny-batch-dailybooth/>
 

@@ -1,4 +1,4 @@
-# “好地图”复活节彩蛋将离线模式带回新的谷歌地图应用 TechCrunch
+# “好地图”复活节彩蛋将离线模式带回新的谷歌地图应用 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/save-maps-offline-new-google-maps/>
 

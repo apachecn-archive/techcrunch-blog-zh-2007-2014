@@ -1,4 +1,4 @@
-# 技术是零和游戏吗？TechCrunch
+# 技术是零和游戏吗？
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/31/is-technology-a-zero-sum-game/>
 

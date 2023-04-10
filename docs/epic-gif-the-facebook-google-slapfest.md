@@ -1,4 +1,4 @@
-# 史诗 Gif:脸书 Google+闹剧 TechCrunch
+# 史诗 Gif:脸书 Google+闹剧 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/08/epic-gif-the-facebook-google-slapfest/>
 

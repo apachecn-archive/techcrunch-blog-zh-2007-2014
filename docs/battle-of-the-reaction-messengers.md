@@ -1,4 +1,4 @@
-# “反应”使者之战 TechCrunch
+# “反应”使者之战 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/21/battle-of-the-reaction-messengers/>
 

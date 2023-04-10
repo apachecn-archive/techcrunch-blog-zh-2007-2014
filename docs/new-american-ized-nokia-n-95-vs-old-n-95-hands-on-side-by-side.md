@@ -1,4 +1,4 @@
-# 新的美国化诺基亚 N-95 与旧的 N-95:携手并肩 TechCrunch
+# 新的美国化诺基亚 N-95 与旧的 N-95:携手并肩 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/29/new-american-ized-nokia-n-95-vs-old-n-95-hands-on-side-by-side/>
 

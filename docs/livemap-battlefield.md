@@ -1,4 +1,4 @@
-# Livemap 展示了内置导航的摩托车头盔概念 TechCrunch
+# Livemap 展示了内置导航的摩托车头盔概念 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/livemap-battlefield/>
 

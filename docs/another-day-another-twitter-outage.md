@@ -1,4 +1,4 @@
-# 又是一天，又是一次 Twitter 宕机 TechCrunch
+# 又是一天，又是一次 Twitter 宕机 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/another-day-another-twitter-outage/>
 

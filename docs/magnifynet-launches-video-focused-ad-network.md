@@ -1,4 +1,4 @@
-# Magnify.net 推出聚焦视频的广告网络——TechCrunch
+# Magnify.net 推出聚焦视频的广告网络——
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/29/magnifynet-launches-video-focused-ad-network/>
 

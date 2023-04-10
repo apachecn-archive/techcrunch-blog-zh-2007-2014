@@ -1,4 +1,4 @@
-# Visa 加快芯片迁移以支持 NFC 和移动支付 TechCrunch
+# Visa 加快芯片迁移以支持 NFC 和移动支付 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/visa-to-ramp-up-chip-migration-to-support-nfc-and-mobile-payments/>
 

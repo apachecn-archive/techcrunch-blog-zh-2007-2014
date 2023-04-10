@@ -1,4 +1,4 @@
-# 再见，Lumia 920:美国电话电报公司独家超级手机可能会失败 TechCrunch
+# 再见，Lumia 920:美国电话电报公司独家超级手机可能会失败 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/goodbye-lumia-920-the-att-exclusive-superphone-will-probably-flop/>
 

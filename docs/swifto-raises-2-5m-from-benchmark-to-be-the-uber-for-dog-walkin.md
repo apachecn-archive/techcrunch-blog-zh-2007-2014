@@ -1,4 +1,4 @@
-# Swifto 从 Benchmark 募集 250 万美元成为遛狗优步 TechCrunch
+# Swifto 从 Benchmark 募集 250 万美元成为遛狗优步 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/26/swifto-raises-2-5m-from-benchmark-to-be-the-uber-for-dog-walkin/>
 

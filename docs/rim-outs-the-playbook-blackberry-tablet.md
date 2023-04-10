@@ -1,4 +1,4 @@
-# RIM 推出 PlayBook 黑莓平板电脑[更新:视频演示！】TechCrunch
+# RIM 推出 PlayBook 黑莓平板电脑[更新:视频演示！】
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/27/rim-outs-the-playbook-blackberry-tablet/>
 

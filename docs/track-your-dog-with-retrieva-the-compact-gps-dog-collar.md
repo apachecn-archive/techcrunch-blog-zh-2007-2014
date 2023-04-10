@@ -1,4 +1,4 @@
-# 使用紧凑型 GPS 狗项圈 Retriever 追踪您的狗 TechCrunch
+# 使用紧凑型 GPS 狗项圈 Retriever 追踪您的狗 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/track-your-dog-with-retrieva-the-compact-gps-dog-collar/>
 

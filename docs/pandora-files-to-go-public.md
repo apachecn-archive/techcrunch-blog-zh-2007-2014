@@ -1,4 +1,4 @@
-# 拥有 8000 万用户的 Pandora 申请上市 TechCrunch
+# 拥有 8000 万用户的 Pandora 申请上市 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/pandora-files-to-go-public/>
 

@@ -1,4 +1,4 @@
-# 三星收购医疗成像公司 neuro nica TechCrunch
+# 三星收购医疗成像公司 neuro nica 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/samsung-buys-medical-imaging-company-neurologica/>
 
