@@ -1,4 +1,4 @@
-# 宣布第一个硬件战场，一家初创公司将赢得 5 万美元| TechCrunch
+# 宣布第一个硬件战场，一家初创公司将赢得 5 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/19/announcing-the-first-hardware-startup-battlefield-where-one-lucky-hacker-will-win-50000/>
 

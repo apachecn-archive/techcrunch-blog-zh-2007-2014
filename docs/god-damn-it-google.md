@@ -1,4 +1,4 @@
-# 该死的，谷歌| TechCrunch
+# 该死的，谷歌
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/17/god-damn-it-google/>
 

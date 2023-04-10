@@ -1,4 +1,4 @@
-# Interactive Intelligence 以 1400 万美元现金收购 Latitude 软件| TechCrunch
+# Interactive Intelligence 以 1400 万美元现金收购 Latitude 软件
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/05/interactive-intelligence-buys-latitude-software-for-14-million-in-cash/>
 

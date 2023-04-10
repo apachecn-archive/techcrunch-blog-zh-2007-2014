@@ -1,4 +1,4 @@
-# 50%的电子商务网站访问者登录脸书| TechCrunch
+# 50%的电子商务网站访问者登录脸书
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/22/ecommerce-logged-in/>
 

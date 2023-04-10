@@ -1,4 +1,4 @@
-# Trulioo 筹集 600 万美元验证在线档案| TechCrunch
+# Trulioo 筹集 600 万美元验证在线档案
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/trulioo-raises-6m-to-verify-online-profiles/>
 

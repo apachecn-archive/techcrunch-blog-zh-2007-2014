@@ -1,4 +1,4 @@
-# b5Media | TechCrunch 的大博主降薪
+# b5Media  的大博主降薪
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/02/big-blogger-pay-cuts-at-b5media/>
 

@@ -1,4 +1,4 @@
-# 点评:LG 42LD450 液晶电视| TechCrunch
+# 点评:LG 42LD450 液晶电视
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/review-lg-42ld450-lcd-tv/>
 

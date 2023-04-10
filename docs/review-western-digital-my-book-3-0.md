@@ -1,4 +1,4 @@
-# 点评:西部数据我的书 3.0 | TechCrunch
+# 点评:西部数据我的书 3.0 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/01/review-western-digital-my-book-3-0/>
 

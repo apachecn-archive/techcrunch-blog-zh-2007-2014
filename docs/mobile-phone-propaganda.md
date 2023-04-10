@@ -1,4 +1,4 @@
-# 手机宣传| TechCrunch
+# 手机宣传
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/mobile-phone-propaganda/>
 

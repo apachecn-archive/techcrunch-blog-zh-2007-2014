@@ -1,4 +1,4 @@
-# Warby Parker 在纽约开设零售店，波士顿紧随其后，在线下击败谷歌和亚马逊| TechCrunch
+# Warby Parker 在纽约开设零售店，波士顿紧随其后，在线下击败谷歌和亚马逊
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/13/warby-parker-opens-retail-store-in-nyc-with-boston-up-next-beats-google-amazon-to-the-offline-punch/>
 

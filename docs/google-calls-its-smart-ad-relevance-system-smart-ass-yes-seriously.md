@@ -1,4 +1,4 @@
-# 谷歌称其智能广告关联系统为“智能屁股”(是的，说真的)| TechCrunch
+# 谷歌称其智能广告关联系统为“智能屁股”(是的，说真的)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/05/31/google-calls-its-smart-ad-relevance-system-smart-ass-yes-seriously/>
 

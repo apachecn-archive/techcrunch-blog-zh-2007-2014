@@ -1,4 +1,4 @@
-# 迷失在 YouTube | TechCrunch 上 Gilligan 的 Island Clips Surface
+# 迷失在 YouTube  上 Gilligan 的 Island Clips Surface
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/lost-on-gilligans-island-clips-surface-on-youtube/>
 

@@ -1,4 +1,4 @@
-# Twitter 推出电视广告定位，Twitter 为流媒体实时视频放大| TechCrunch
+# Twitter 推出电视广告定位，Twitter 为流媒体实时视频放大
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/23/twitter-launches-twitter-amplify-for-real-time-videos-in-stream-partnering-with-bbc-fox-fuse-and-weather-channel/>
 

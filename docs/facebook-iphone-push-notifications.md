@@ -1,4 +1,4 @@
-# 脸书的 iPhone 应用程序终于获得推送通知，联系人同步| TechCrunch
+# 脸书的 iPhone 应用程序终于获得推送通知，联系人同步
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/06/facebook-iphone-push-notifications/>
 

@@ -1,4 +1,4 @@
-# “数十亿美元的健康保险公司”| TechCrunch 的法律威胁后，Watsi 将改变其标志
+# “数十亿美元的健康保险公司” 的法律威胁后，Watsi 将改变其标志
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/26/watsi-to-change-its-logo-following-legal-threats-from-multi-billion-dollar-health-insurance-company/>
 

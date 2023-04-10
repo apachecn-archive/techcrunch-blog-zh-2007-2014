@@ -1,4 +1,4 @@
-# Practice Fusion 凭借 2500 万份电子病历在电子病历领域排名第一，首次推出 iPad 应用程序| TechCrunch
+# Practice Fusion 凭借 2500 万份电子病历在电子病历领域排名第一，首次推出 iPad 应用程序
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/practice-fusion-ipad/>
 

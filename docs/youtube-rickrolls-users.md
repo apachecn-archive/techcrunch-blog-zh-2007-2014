@@ -1,4 +1,4 @@
-# YouTube RickRolls 用户| TechCrunch
+# YouTube RickRolls 用户
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/31/youtube-rickrolls-users/>
 

@@ -1,4 +1,4 @@
-# Intuit 以 1.7 亿美元收购(前 TechCrunch50 强得主)Mint | TechCrunch
+# Intuit 以 1.7 亿美元收购(前 TechCrunch50 强得主)Mint 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/13/intuit-to-acquire-former-techcrunch50-winner-mint-for-170-million/>
 

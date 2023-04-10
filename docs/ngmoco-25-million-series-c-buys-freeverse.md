@@ -1,4 +1,4 @@
-# iPhone 游戏公司 ngmoco 融资 2500 万美元，收购 Freeverse | TechCrunch
+# iPhone 游戏公司 ngmoco 融资 2500 万美元，收购 Freeverse 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/ngmoco-25-million-series-c-buys-freeverse/>
 

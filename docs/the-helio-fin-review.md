@@ -1,4 +1,4 @@
-# Helio Fin 评论| TechCrunch
+# Helio Fin 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/18/the-helio-fin-review/>
 

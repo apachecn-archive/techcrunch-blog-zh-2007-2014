@@ -1,4 +1,4 @@
-# 关键使挑选内存变得容易，甚至你的妈妈也可以做到| TechCrunch
+# 关键使挑选内存变得容易，甚至你的妈妈也可以做到
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/crucial-makes-picking-ram-easy-even-your-mom-can-do-it/>
 

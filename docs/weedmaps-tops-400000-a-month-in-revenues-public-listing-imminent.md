@@ -1,4 +1,4 @@
-# WeedMaps 每月收入超过 40 万美元，即将上市| TechCrunch
+# WeedMaps 每月收入超过 40 万美元，即将上市
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/18/weedmaps-tops-400000-a-month-in-revenues-public-listing-imminent/>
 

@@ -1,4 +1,4 @@
-# 联想发布其首款台式机 IdeaCentre K210 | TechCrunch
+# 联想发布其首款台式机 IdeaCentre K210 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/30/lenovo-announces-its-first-desktop-ideacentre-k210/>
 

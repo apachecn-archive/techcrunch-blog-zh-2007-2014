@@ -1,4 +1,4 @@
-# Checkmarx 从 Salesforce.com、Ofer 高科技| TechCrunch 筹集资金
+# Checkmarx 从 Salesforce.com、Ofer 高科技 筹集资金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/checkmarx-raises-funding-from-salesforce-com-ofer-hi-tech/>
 

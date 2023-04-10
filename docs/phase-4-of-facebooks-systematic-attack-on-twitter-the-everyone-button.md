@@ -1,4 +1,4 @@
-# 脸书系统攻击 Twitter 的第四阶段:人人按钮| TechCrunch
+# 脸书系统攻击 Twitter 的第四阶段:人人按钮
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/17/phase-4-of-facebooks-systematic-attack-on-twitter-the-everyone-button/>
 

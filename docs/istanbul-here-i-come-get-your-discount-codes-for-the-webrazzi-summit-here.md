@@ -1,4 +1,4 @@
-# 伊斯坦布尔，我来了(点击这里获取网络狗仔队峰会的折扣代码)| TechCrunch
+# 伊斯坦布尔，我来了(点击这里获取网络狗仔队峰会的折扣代码)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/istanbul-here-i-come-get-your-discount-codes-for-the-webrazzi-summit-here/>
 

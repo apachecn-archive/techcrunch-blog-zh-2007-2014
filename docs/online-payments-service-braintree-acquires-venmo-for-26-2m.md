@@ -1,4 +1,4 @@
-# 在线支付服务 Braintree 以 2620 万美元收购社交支付初创公司 Venmo | TechCrunch
+# 在线支付服务 Braintree 以 2620 万美元收购社交支付初创公司 Venmo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/online-payments-service-braintree-acquires-venmo-for-26-2m/>
 

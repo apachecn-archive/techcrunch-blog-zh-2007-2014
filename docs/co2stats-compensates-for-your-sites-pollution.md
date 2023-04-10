@@ -1,4 +1,4 @@
-# CO2Stats 补偿你网站的污染| TechCrunch
+# CO2Stats 补偿你网站的污染
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/08/14/co2stats-compensates-for-your-sites-pollution/>
 

@@ -1,4 +1,4 @@
-# Ozon:首席执行官| TechCrunch 表示，俄罗斯对亚马逊的回应是为云做准备，不会很快解决“Kindle”
+# Ozon:首席执行官 表示，俄罗斯对亚马逊的回应是为云做准备，不会很快解决“Kindle”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/04/ozon-russian-amazon-result/>
 

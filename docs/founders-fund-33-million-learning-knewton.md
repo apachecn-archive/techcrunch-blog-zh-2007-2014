@@ -1,4 +1,4 @@
-# 创始人基金领投学习创业公司 Knewton | TechCrunch 的 3300 万美元 D 轮投资
+# 创始人基金领投学习创业公司 Knewton  的 3300 万美元 D 轮投资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/13/founders-fund-33-million-learning-knewton/>
 

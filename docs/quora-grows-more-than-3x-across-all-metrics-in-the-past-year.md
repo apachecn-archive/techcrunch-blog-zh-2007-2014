@@ -1,4 +1,4 @@
-# 去年，Quora 的所有指标都增长了 3 倍以上| TechCrunch
+# 去年，Quora 的所有指标都增长了 3 倍以上
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/28/quora-grows-more-than-3x-across-all-metrics-in-the-past-year/>
 

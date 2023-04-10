@@ -1,4 +1,4 @@
-# Mint 加入世界经济论坛，知道你已经减少了星巴克| TechCrunch
+# Mint 加入世界经济论坛，知道你已经减少了星巴克
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/04/mint-joins-the-world-economic-forum-knows-that-youve-cut-back-on-starbucks/>
 

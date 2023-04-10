@@ -1,4 +1,4 @@
-# Caktus 拥抱传感器确保你喝了足够的水| TechCrunch
+# Caktus 拥抱传感器确保你喝了足够的水
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/19/the-caktus-hug-sensor-makes-sure-youre-drinking-enough-water/>
 

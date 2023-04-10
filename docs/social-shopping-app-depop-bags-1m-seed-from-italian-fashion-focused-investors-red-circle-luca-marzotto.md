@@ -1,4 +1,4 @@
-# 社交购物应用 Depop 从专注于时尚的投资者 Red Circle & Luca marzo tto | TechCrunch 获得 100 万美元种子资金
+# 社交购物应用 Depop 从专注于时尚的投资者 Red Circle & Luca marzo tto  获得 100 万美元种子资金
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/16/social-shopping-app-depop-bags-1m-seed-from-italian-fashion-focused-investors-red-circle-luca-marzotto/>
 

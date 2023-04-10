@@ -1,4 +1,4 @@
-# y Combinator aluminum 引人注目地推出了超级简单的“一键式”网站生成器| TechCrunch
+# y Combinator aluminum 引人注目地推出了超级简单的“一键式”网站生成器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/02/y-combinator-alum-strikingly-launches-its-super-easy-one-click-site-builder/>
 

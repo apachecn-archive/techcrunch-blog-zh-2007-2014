@@ -1,4 +1,4 @@
-# 网飞将科幻与它的下一个原创系列，Sense8 | TechCrunch
+# 网飞将科幻与它的下一个原创系列，Sense8 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/netflix-goes-sci-fi-with-its-next-original-series-sense8/>
 

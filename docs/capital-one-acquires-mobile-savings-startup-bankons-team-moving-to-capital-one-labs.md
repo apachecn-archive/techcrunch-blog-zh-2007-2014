@@ -1,4 +1,4 @@
-# Capital One 收购移动储蓄初创公司 BankOns，团队转移到 Capital One 实验室| TechCrunch
+# Capital One 收购移动储蓄初创公司 BankOns，团队转移到 Capital One 实验室
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/07/capital-one-acquires-mobile-savings-startup-bankons-team-moving-to-capital-one-labs/>
 

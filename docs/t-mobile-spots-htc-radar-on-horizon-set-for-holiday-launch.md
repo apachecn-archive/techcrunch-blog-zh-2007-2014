@@ -1,4 +1,4 @@
-# T-Mobile 在地平线上发现 HTC Radar 4G，为假日发布而设| TechCrunch
+# T-Mobile 在地平线上发现 HTC Radar 4G，为假日发布而设
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/27/t-mobile-spots-htc-radar-on-horizon-set-for-holiday-launch/>
 

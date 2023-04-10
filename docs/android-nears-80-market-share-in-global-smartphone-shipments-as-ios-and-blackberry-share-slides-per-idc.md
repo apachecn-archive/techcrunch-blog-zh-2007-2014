@@ -1,4 +1,4 @@
-# 据 IDC | TechCrunch 报道，随着 iOS 和黑莓的份额下滑，Android 在全球智能手机出货量中的市场份额接近 80%
+# 据 IDC  报道，随着 iOS 和黑莓的份额下滑，Android 在全球智能手机出货量中的市场份额接近 80%
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/07/android-nears-80-market-share-in-global-smartphone-shipments-as-ios-and-blackberry-share-slides-per-idc/>
 

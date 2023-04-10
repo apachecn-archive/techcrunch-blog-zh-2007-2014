@@ -1,4 +1,4 @@
-# 好的第一个迹象:我非常想继续使用 Google+ | TechCrunch
+# 好的第一个迹象:我非常想继续使用 Google+ 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/google-plus-is-actually-pretty-good/>
 

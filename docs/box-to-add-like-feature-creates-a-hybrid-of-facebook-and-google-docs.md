@@ -1,4 +1,4 @@
-# 框添加“喜欢”功能，创造了一个脸书和谷歌文档| TechCrunch 的混合体
+# 框添加“喜欢”功能，创造了一个脸书和谷歌文档 的混合体
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/box-to-add-like-feature-creates-a-hybrid-of-facebook-and-google-docs/>
 

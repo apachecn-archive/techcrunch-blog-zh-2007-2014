@@ -1,4 +1,4 @@
-# Asana 为 Android | TechCrunch 带来了简单的任务管理和生产力应用程序
+# Asana 为 Android  带来了简单的任务管理和生产力应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/28/asana-brings-simple-task-management-and-productivity-app-to-android/>
 

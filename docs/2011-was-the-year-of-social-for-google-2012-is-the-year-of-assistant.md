@@ -1,4 +1,4 @@
-# 谷歌与苹果多平台 Siri 竞争的计划？谷歌“助手”| TechCrunch
+# 谷歌与苹果多平台 Siri 竞争的计划？谷歌“助手”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/02/2011-was-the-year-of-social-for-google-2012-is-the-year-of-assistant/>
 

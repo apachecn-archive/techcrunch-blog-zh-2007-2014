@@ -1,4 +1,4 @@
-# EIR | TechCrunch 的 Salesforce Chatter 创建者补充道，Accel 提升了社会企业专业知识
+# EIR  的 Salesforce Chatter 创建者补充道，Accel 提升了社会企业专业知识
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/23/accel-boosts-social-enterprise-expertise-adds-salesforce-chatter-creator-as-eir/>
 

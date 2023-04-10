@@ -1,4 +1,4 @@
-# Siri 只是开始| TechCrunch
+# Siri 只是开始
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/07/siri-is-only-the-beginning/>
 

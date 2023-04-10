@@ -1,4 +1,4 @@
-# 谷歌为什么需要这么多机器人？从网络跳到现实世界| TechCrunch
+# 谷歌为什么需要这么多机器人？从网络跳到现实世界
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/14/why-does-google-need-so-many-robots-to-jump-from-the-web-to-the-read-world/>
 

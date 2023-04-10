@@ -1,4 +1,4 @@
-# 脸书的 6.8 亿移动用户数首次超过了桌面用户数——扎克伯格称自己现在是一家“移动公司”| TechCrunch
+# 脸书的 6.8 亿移动用户数首次超过了桌面用户数——扎克伯格称自己现在是一家“移动公司”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/30/for-the-first-time-facebook-mobile-daus-exceeded-web-daus-in-q4-2012/>
 

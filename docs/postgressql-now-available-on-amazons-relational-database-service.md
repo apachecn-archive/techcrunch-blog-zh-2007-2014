@@ -1,4 +1,4 @@
-# 亚马逊关系数据库服务| TechCrunch 现已推出 PostgreSQL
+# 亚马逊关系数据库服务 现已推出 PostgreSQL
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/postgressql-now-available-on-amazons-relational-database-service/>
 

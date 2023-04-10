@@ -1,4 +1,4 @@
-# 脸书通过 OpenTable Reservations 和 Rovi TV Guide Info | TechCrunch 使移动页面更加实用
+# 脸书通过 OpenTable Reservations 和 Rovi TV Guide Info  使移动页面更加实用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/12/facebook-opentable-useful-not-just-social/>
 

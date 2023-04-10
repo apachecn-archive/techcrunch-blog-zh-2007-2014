@@ -1,4 +1,4 @@
-# 彼得·泰尔和现有投资者又向会计软件公司 Xero | TechCrunch 投资了 4900 万美元
+# 彼得·泰尔和现有投资者又向会计软件公司 Xero  投资了 4900 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/29/peter-thiel-and-existing-investors-put-another-49-million-in-accounting-software-company-xero/>
 

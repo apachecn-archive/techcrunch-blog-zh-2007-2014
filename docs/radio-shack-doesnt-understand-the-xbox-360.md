@@ -1,4 +1,4 @@
-# Radio Shack 不懂 Xbox 360 | TechCrunch
+# Radio Shack 不懂 Xbox 360 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/14/radio-shack-doesnt-understand-the-xbox-360/>
 

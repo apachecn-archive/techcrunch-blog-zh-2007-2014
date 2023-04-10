@@ -1,4 +1,4 @@
-# Y Combinator 的秘密财务和运营武器| TechCrunch
+# Y Combinator 的秘密财务和运营武器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/09/meet-kirsty-nathoo-y-combinators-secret-financial-and-operational-weapon/>
 

@@ -1,4 +1,4 @@
-# WAC 遭受重创:电信支持的联盟并入 GSMA，资产由 API 管理服务 Apigee | TechCrunch 收购
+# WAC 遭受重创:电信支持的联盟并入 GSMA，资产由 API 管理服务 Apigee  收购
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/wac-whacked-telecom-backed-alliance-merges-into-gsma-assets-acquired-by-api-management-service-apigee/>
 

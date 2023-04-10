@@ -1,4 +1,4 @@
-# 现在就用固件 1.2 版加速你的 now | TechCrunch
+# 现在就用固件 1.2 版加速你的 now 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/05/speed-up-your-nook-with-firmware-v1-2-right-now/>
 

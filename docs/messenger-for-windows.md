@@ -1,4 +1,4 @@
-# 脸书测试 Messenger for Windows Ticker+聊天桌面客户端| TechCrunch
+# 脸书测试 Messenger for Windows Ticker+聊天桌面客户端
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/messenger-for-windows/>
 

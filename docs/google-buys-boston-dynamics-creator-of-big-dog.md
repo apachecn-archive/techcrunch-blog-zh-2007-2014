@@ -1,4 +1,4 @@
-# 谷歌收购波士顿动力公司，大狗| TechCrunch 的创始人
+# 谷歌收购波士顿动力公司，大狗 的创始人
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/14/google-buys-boston-dynamics-creator-of-big-dog/>
 

@@ -1,4 +1,4 @@
-# GoDaddy 直接收购，建立山景城办公室| TechCrunch
+# GoDaddy 直接收购，建立山景城办公室
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/18/godaddy-acquires-cloud-based-financial-management-application-company-outright/>
 

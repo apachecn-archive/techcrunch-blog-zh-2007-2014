@@ -1,4 +1,4 @@
-# Nvidia 增加控制台模式以超越 Ouya，更新至 Android 4.3 | TechCrunch
+# Nvidia 增加控制台模式以超越 Ouya，更新至 Android 4.3 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/28/nvidia-adds-console-mode-to-outclass-the-ouya-updates-to-android-4-3/>
 

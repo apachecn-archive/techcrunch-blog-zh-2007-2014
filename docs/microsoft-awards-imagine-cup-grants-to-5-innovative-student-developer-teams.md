@@ -1,4 +1,4 @@
-# 微软向 5 个创新学生开发团队颁发创新杯奖金| TechCrunch
+# 微软向 5 个创新学生开发团队颁发创新杯奖金
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/microsoft-awards-imagine-cup-grants-to-5-innovative-student-developer-teams/>
 

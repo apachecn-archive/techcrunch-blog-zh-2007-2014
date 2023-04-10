@@ -1,4 +1,4 @@
-# Mag.ma 向 TechCrunch 读者发出 300 份邀请| TechCrunch
+# Mag.ma 向 TechCrunch 读者发出 300 份邀请
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/10/magma-bubbles-up-300-invites-for-techcrunch-readers/>
 

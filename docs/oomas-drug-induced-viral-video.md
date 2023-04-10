@@ -1,4 +1,4 @@
-# Ooma 的第一(药物诱导？)病毒视频| TechCrunch
+# Ooma 的第一(药物诱导？)病毒视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/19/oomas-drug-induced-viral-video/>
 

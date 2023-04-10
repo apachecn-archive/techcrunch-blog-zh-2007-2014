@@ -1,4 +1,4 @@
-# 提交软件下载网站，赢取有价值的奖品| TechCrunch
+# 提交软件下载网站，赢取有价值的奖品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/17/submit-software-to-download-sites-win-valuable-prizes/>
 

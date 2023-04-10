@@ -1,4 +1,4 @@
-# 已证实:Foursquare 从联合广场和奥莱利 AlphaTech | TechCrunch 获得 135 万美元
+# 已证实:Foursquare 从联合广场和奥莱利 AlphaTech  获得 135 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/04/confirmed-foursquare-gets-135-million-to-play-with/>
 

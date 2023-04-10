@@ -1,4 +1,4 @@
-# 大片电影通行证:Dish Network 每月 10 美元的网飞答案| TechCrunch
+# 大片电影通行证:Dish Network 每月 10 美元的网飞答案
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/23/blockbuster-movie-pass-dish-networks-answer-to-netflix-and-qwikster/>
 

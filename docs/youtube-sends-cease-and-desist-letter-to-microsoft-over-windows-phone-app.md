@@ -1,4 +1,4 @@
-# YouTube 通过 Windows Phone 应用程序| TechCrunch 向微软发送停止通知函
+# YouTube 通过 Windows Phone 应用程序 向微软发送停止通知函
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/15/youtube-sends-cease-and-desist-letter-to-microsoft-over-windows-phone-app/>
 

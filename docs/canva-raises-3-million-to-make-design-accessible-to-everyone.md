@@ -1,4 +1,4 @@
-# Canva 筹集 300 万美元，让每个人都能使用设计| TechCrunch
+# Canva 筹集 300 万美元，让每个人都能使用设计
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/19/canva-raises-3-million-to-make-design-accessible-to-everyone/>
 

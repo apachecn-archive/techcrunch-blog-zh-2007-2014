@@ -1,4 +1,4 @@
-# 三星如何变大| TechCrunch
+# 三星如何变大
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/01/how-samsung-got-big/>
 

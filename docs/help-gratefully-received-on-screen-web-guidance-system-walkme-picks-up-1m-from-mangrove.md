@@ -1,4 +1,4 @@
-# 感激地接受帮助:屏幕网络导航系统 WalkMe 从红树林| TechCrunch 获得 100 多万美元
+# 感激地接受帮助:屏幕网络导航系统 WalkMe 从红树林 获得 100 多万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/12/help-gratefully-received-on-screen-web-guidance-system-walkme-picks-up-1m-from-mangrove/>
 

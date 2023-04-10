@@ -1,4 +1,4 @@
-# 做大事| TechCrunch
+# 做大事
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/do-great-things/>
 

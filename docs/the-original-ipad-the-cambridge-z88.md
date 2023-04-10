@@ -1,4 +1,4 @@
-# 原版 iPad:剑桥 Z88 | TechCrunch
+# 原版 iPad:剑桥 Z88 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/10/the-original-ipad-the-cambridge-z88/>
 

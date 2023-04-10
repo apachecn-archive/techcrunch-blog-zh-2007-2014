@@ -1,4 +1,4 @@
-# 带审判之眼的 Playstation Eye 发货| TechCrunch
+# 带审判之眼的 Playstation Eye 发货
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/playstation-eye-shipping-with-eye-of-judgement/>
 

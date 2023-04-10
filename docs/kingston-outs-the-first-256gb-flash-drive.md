@@ -1,4 +1,4 @@
-# 金士顿推出首款 256GB 闪存驱动器| TechCrunch
+# 金士顿推出首款 256GB 闪存驱动器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/20/kingston-outs-the-first-256gb-flash-drive/>
 

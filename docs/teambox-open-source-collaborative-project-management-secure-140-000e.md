@@ -1,4 +1,4 @@
-# 用于项目管理的 Teambox 获得了€14 万英镑的资助| TechCrunch
+# 用于项目管理的 Teambox 获得了€14 万英镑的资助
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/01/teambox-open-source-collaborative-project-management-secure-140-000e/>
 

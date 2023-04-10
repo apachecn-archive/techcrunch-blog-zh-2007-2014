@@ -1,4 +1,4 @@
-# Mac OS/OS X 欢迎历代电影| TechCrunch
+# Mac OS/OS X 欢迎历代电影
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/mac-osos-x-welcome-movies-through-the-ages/>
 

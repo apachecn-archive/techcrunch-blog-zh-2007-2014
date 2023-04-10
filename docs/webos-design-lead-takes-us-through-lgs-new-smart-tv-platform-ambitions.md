@@ -1,4 +1,4 @@
-# WebOS 设计领导带领我们了解 LG 新智能电视平台的雄心| TechCrunch
+# WebOS 设计领导带领我们了解 LG 新智能电视平台的雄心
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/06/webos-design-lead-takes-us-through-lgs-new-smart-tv-platform-ambitions/>
 

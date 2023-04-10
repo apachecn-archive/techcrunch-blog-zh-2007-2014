@@ -1,4 +1,4 @@
-# 20 岁的创始人 Jessica Mah 获得 100 万美元投资银行业初创公司 InDinero | TechCrunch
+# 20 岁的创始人 Jessica Mah 获得 100 万美元投资银行业初创公司 InDinero 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/jessica-mahindinero/>
 

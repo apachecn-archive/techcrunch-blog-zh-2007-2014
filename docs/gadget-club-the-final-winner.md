@@ -1,4 +1,4 @@
-# 小工具俱乐部:最终赢家| TechCrunch
+# 小工具俱乐部:最终赢家
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/11/gadget-club-the-final-winner/>
 

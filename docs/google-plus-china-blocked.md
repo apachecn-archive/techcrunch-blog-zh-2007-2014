@@ -1,4 +1,4 @@
-# 中国已经在屏蔽 Google+ | TechCrunch 了
+# 中国已经在屏蔽 Google+  了
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/29/google-plus-china-blocked/>
 

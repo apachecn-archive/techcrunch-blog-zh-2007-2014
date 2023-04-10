@@ -1,4 +1,4 @@
-# 无法承受的数据之轻| TechCrunch
+# 无法承受的数据之轻
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/09/the-unbearable-lightness-of-data/>
 

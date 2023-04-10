@@ -1,4 +1,4 @@
-# Startup Genome 排名世界顶级创业生态系统:硅谷、特拉维夫和洛杉矶。引领潮流| TechCrunch
+# Startup Genome 排名世界顶级创业生态系统:硅谷、特拉维夫和洛杉矶。引领潮流
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/20/startup-genome-ranks-the-worlds-top-startup-ecosystems-silicon-valley-tel-aviv-l-a-lead-the-way/>
 

@@ -1,4 +1,4 @@
-# 又一家倒闭了:雅虎百叶窗 Kickstart | TechCrunch
+# 又一家倒闭了:雅虎百叶窗 Kickstart 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/17/another-one-bites-the-dust-yahoo-kickstart-shutters/>
 

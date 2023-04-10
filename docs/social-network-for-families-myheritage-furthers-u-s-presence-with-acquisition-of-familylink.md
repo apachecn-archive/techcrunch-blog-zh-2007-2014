@@ -1,4 +1,4 @@
-# 家庭社交网络 MyHeritage 通过收购 FamilyLink | TechCrunch 进一步拓展美国市场
+# 家庭社交网络 MyHeritage 通过收购 FamilyLink  进一步拓展美国市场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/21/social-network-for-families-myheritage-furthers-u-s-presence-with-acquisition-of-familylink/>
 

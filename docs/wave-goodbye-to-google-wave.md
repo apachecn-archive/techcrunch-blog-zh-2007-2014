@@ -1,4 +1,4 @@
-# 向 Google Wave | TechCrunch 挥手告别
+# 向 Google Wave  挥手告别
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/04/wave-goodbye-to-google-wave/>
 

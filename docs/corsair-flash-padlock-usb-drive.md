@@ -1,4 +1,4 @@
-# 海盗船闪光挂锁 u 盘| TechCrunch
+# 海盗船闪光挂锁 u 盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/corsair-flash-padlock-usb-drive/>
 

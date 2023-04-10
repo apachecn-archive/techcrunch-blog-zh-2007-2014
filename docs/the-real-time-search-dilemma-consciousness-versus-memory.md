@@ -1,4 +1,4 @@
-# 实时搜索困境:意识还是记忆| TechCrunch
+# 实时搜索困境:意识还是记忆
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/26/the-real-time-search-dilemma-consciousness-versus-memory/>
 

@@ -1,4 +1,4 @@
-# 谷歌称 1/3 的搜索广告现在被“增强”,推出新格式| TechCrunch
+# 谷歌称 1/3 的搜索广告现在被“增强”,推出新格式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/03/google-says-13-of-search-ads-are-now-enhanced-launches-new-formats/>
 

@@ -1,4 +1,4 @@
-# 主流媒体仍然睁大眼睛| TechCrunch
+# 主流媒体仍然睁大眼睛
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/26/mainstream-media-still-has-eyes-wide-shut-proves-michael-jacksons-death-reporting/>
 

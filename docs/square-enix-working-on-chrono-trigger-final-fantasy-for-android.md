@@ -1,4 +1,4 @@
-# Square-Enix 正在开发 Chrono 触发器，Android 的最终幻想| TechCrunch
+# Square-Enix 正在开发 Chrono 触发器，Android 的最终幻想
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/16/square-enix-working-on-chrono-trigger-final-fantasy-for-android/>
 

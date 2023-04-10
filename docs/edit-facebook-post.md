@@ -1,4 +1,4 @@
-# 脸书允许你在 Android 和 Web Now、iOS Soon | TechCrunch 上分享后编辑帖子
+# 脸书允许你在 Android 和 Web Now、iOS Soon  上分享后编辑帖子
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/26/edit-facebook-post/>
 

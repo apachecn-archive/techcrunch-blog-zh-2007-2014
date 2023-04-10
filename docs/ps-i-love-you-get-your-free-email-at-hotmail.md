@@ -1,4 +1,4 @@
-# PS:我爱你。在 Hotmail | TechCrunch 获取免费电子邮件
+# PS:我爱你。在 Hotmail  获取免费电子邮件
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/18/ps-i-love-you-get-your-free-email-at-hotmail/>
 

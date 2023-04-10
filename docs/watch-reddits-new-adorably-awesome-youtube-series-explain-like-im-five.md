@@ -1,4 +1,4 @@
-# 观看 Reddit 的新的超赞 YouTube 系列“像我五岁一样解释”| TechCrunch
+# 观看 Reddit 的新的超赞 YouTube 系列“像我五岁一样解释”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/19/watch-reddits-new-adorably-awesome-youtube-series-explain-like-im-five/>
 

@@ -1,4 +1,4 @@
-# 消息人士证实，Spotify 将在 12 月 11 日的活动中推出有限免费移动访问| TechCrunch
+# 消息人士证实，Spotify 将在 12 月 11 日的活动中推出有限免费移动访问
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/05/free-spotify-mobile/>
 

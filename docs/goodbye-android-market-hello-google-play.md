@@ -1,4 +1,4 @@
-# 再见安卓市场，你好 Google Play | TechCrunch
+# 再见安卓市场，你好 Google Play 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/06/goodbye-android-market-hello-google-play/>
 

@@ -1,4 +1,4 @@
-# 布拉德·加林豪斯成为蓬勃发展的文件共享网站 YouSendIt | TechCrunch 的首席执行官
+# 布拉德·加林豪斯成为蓬勃发展的文件共享网站 YouSendIt  的首席执行官
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/brad-garlinghouse-becomes-ceo-of-booming-file-sharing-site-yousendit/>
 

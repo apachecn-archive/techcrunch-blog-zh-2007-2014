@@ -1,4 +1,4 @@
-# 推特挖走了前谷歌高管马特·德雷拉，让他成为代理业务发展的新总监| TechCrunch
+# 推特挖走了前谷歌高管马特·德雷拉，让他成为代理业务发展的新总监
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/22/twitter-poaches-former-google-exec-matt-derella-as-new-director-of-agency-business-development/>
 

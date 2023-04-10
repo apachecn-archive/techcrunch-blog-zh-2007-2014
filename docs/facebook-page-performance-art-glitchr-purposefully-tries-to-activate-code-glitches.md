@@ -1,4 +1,4 @@
-# 脸书页面行为艺术故障 chr 故意试图激活代码故障| TechCrunch
+# 脸书页面行为艺术故障 chr 故意试图激活代码故障
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/11/facebook-page-performance-art-glitchr-purposefully-tries-to-activate-code-glitches/>
 

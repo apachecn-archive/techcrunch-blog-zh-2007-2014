@@ -1,4 +1,4 @@
-# VMware 退出协作市场，将 SlideRocket 出售给销售合作平台 clear slide | TechCrunch
+# VMware 退出协作市场，将 SlideRocket 出售给销售合作平台 clear slide 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/05/vmware-exits-collaboration-market-with-sale-of-sliderocket-to-clearslide/>
 

@@ -1,4 +1,4 @@
-# MyHeritage 利用 1.8 亿人的个人资料与 Geni | TechCrunch 开战
+# MyHeritage 利用 1.8 亿人的个人资料与 Geni  开战
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/28/myheritage-takes-180-million-people-profiles-to-war-with-geni/>
 

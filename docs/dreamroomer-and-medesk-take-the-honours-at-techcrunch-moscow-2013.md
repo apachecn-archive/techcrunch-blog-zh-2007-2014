@@ -1,4 +1,4 @@
-# DreamRoomer 和 MeDesk 在 2013 年莫斯科 TechCrunch | TechCrunch 上获得荣誉
+# DreamRoomer 和 MeDesk 在 2013 年莫斯科 TechCrunch  上获得荣誉
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/09/dreamroomer-and-medesk-take-the-honours-at-techcrunch-moscow-2013/>
 

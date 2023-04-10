@@ -1,4 +1,4 @@
-# 亲身体验 4Moms 折纸婴儿车| TechCrunch
+# 亲身体验 4Moms 折纸婴儿车
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/hands-on-with-the-4moms-origami-stroller/>
 

@@ -1,4 +1,4 @@
-# 在线视频内容先驱改版 3 与探索频道| TechCrunch 进行收购谈判
+# 在线视频内容先驱改版 3 与探索频道 进行收购谈判
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/30/online-video-content-pioneer-revision3-in-acquisition-talks-with-the-discovery-channel/>
 

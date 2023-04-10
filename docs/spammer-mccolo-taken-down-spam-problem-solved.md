@@ -1,4 +1,4 @@
-# 垃圾邮件发送者 McColo 被拿下，垃圾邮件问题得到解决| TechCrunch
+# 垃圾邮件发送者 McColo 被拿下，垃圾邮件问题得到解决
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/13/spammer-mccolo-taken-down-spam-problem-solved/>
 

@@ -1,4 +1,4 @@
-# Jangl 在 PlentyOfFish | TechCrunch 上支持匿名电话性爱
+# Jangl 在 PlentyOfFish  上支持匿名电话性爱
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/31/jangl-powering-anonymous-phone-sex-on-plentyoffish/>
 

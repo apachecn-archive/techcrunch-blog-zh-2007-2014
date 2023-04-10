@@ -1,4 +1,4 @@
-# 图片合成:三星电视墙@ IFA 2008 | TechCrunch
+# 图片合成:三星电视墙@ IFA 2008 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/01/a-photosynth-samsungs-tv-wall-ifa-2008/>
 

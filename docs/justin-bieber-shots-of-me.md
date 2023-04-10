@@ -1,4 +1,4 @@
-# 贾斯汀比伯支持的“我的照片”发布自拍分享应用| TechCrunch
+# 贾斯汀比伯支持的“我的照片”发布自拍分享应用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/justin-bieber-shots-of-me/>
 

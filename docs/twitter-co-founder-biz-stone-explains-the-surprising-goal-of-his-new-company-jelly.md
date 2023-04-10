@@ -1,4 +1,4 @@
-# Twitter 联合创始人比兹·斯通解释了他的新公司 Jelly | TechCrunch 的惊人目标
+# Twitter 联合创始人比兹·斯通解释了他的新公司 Jelly  的惊人目标
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/twitter-co-founder-biz-stone-explains-the-surprising-goal-of-his-new-company-jelly/>
 

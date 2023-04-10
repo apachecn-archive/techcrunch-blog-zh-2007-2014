@@ -1,4 +1,4 @@
-# 美国电话电报公司安全漏洞泄漏了数千 iPad 所有者的电子邮件(但幸运的是，几乎没有其他泄漏)| TechCrunch
+# 美国电话电报公司安全漏洞泄漏了数千 iPad 所有者的电子邮件(但幸运的是，几乎没有其他泄漏)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/09/att-security-breach-leaks-thousands-of-ipad-owners-emails-but-luckily-nothing-more/>
 

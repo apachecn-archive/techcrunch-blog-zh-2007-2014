@@ -1,4 +1,4 @@
-# 一次坚定的推动:亲手使用 4Moms Breeze 游戏围栏| TechCrunch
+# 一次坚定的推动:亲手使用 4Moms Breeze 游戏围栏
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/18/one-firm-push-hands-on-with-the-4moms-breeze-playpen/>
 

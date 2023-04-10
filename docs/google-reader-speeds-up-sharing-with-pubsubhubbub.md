@@ -1,4 +1,4 @@
-# 谷歌阅读器通过 PubSubHubbub | TechCrunch 加速分享
+# 谷歌阅读器通过 PubSubHubbub  加速分享
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/05/google-reader-speeds-up-sharing-with-pubsubhubbub/>
 

@@ -1,4 +1,4 @@
-# Chrome 获得桌面通知| TechCrunch
+# Chrome 获得桌面通知
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/01/chrome-is-gaining-desktop-notifications/>
 

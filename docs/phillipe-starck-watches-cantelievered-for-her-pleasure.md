@@ -1,4 +1,4 @@
-# Phillipe Starck 手表:为她提供乐趣| TechCrunch
+# Phillipe Starck 手表:为她提供乐趣
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/phillipe-starck-watches-cantelievered-for-her-pleasure/>
 

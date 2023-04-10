@@ -1,4 +1,4 @@
-# 使用 mShopper | TechCrunch 的移动商店
+# 使用 mShopper  的移动商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/mobile-shop-with-mshopper/>
 

@@ -1,4 +1,4 @@
-# 就在被收购之前，Instagram 以红杉、Thrive、Greylock 和 Benchmark | TechCrunch 亿美元的估值完成了 5000 万美元的交易
+# 就在被收购之前，Instagram 以红杉、Thrive、Greylock 和 Benchmark  亿美元的估值完成了 5000 万美元的交易
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/09/right-before-acquisition-instagram-closed-50m-at-a-500m-valuation-from-sequoia-thrive-greylock-and-benchmark/>
 

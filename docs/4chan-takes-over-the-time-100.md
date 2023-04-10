@@ -1,4 +1,4 @@
-# 4Chan 接管时间 100 | TechCrunch
+# 4Chan 接管时间 100 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/21/4chan-takes-over-the-time-100/>
 

@@ -1,4 +1,4 @@
-# 古怪的婚礼蛋糕| TechCrunch
+# 古怪的婚礼蛋糕
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/30/dorktastic-wedding-cakes/>
 

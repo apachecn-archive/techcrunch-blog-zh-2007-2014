@@ -1,4 +1,4 @@
-# 派拉蒙、梦工厂选择 HD DVD | TechCrunch
+# 派拉蒙、梦工厂选择 HD DVD 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/paramount-dreamworks-pick-hd-dvd/>
 

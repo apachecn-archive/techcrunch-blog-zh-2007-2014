@@ -1,4 +1,4 @@
-# 库克透露了苹果产品命名政策的更多细节，是的，S 代表 Siri | TechCrunch
+# 库克透露了苹果产品命名政策的更多细节，是的，S 代表 Siri 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/29/cook-reveals-more-details-about-apples-product-naming-policies-and-yes-the-s-stands-for-siri/>
 

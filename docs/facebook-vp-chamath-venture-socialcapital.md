@@ -1,4 +1,4 @@
-# 脸书副总裁 Chamath Palihapitiya 成立了新的风险投资基金——社会+资本伙伴关系| TechCrunch
+# 脸书副总裁 Chamath Palihapitiya 成立了新的风险投资基金——社会+资本伙伴关系
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/03/facebook-vp-chamath-venture-socialcapital/>
 

@@ -1,4 +1,4 @@
-# 雅虎将跟随谷歌加密数据中心流量，客户数据流由 Q1 的 14 | TechCrunch
+# 雅虎将跟随谷歌加密数据中心流量，客户数据流由 Q1 的 14 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/18/yahoo-will-follow-google-in-encrypting-data-center-traffic-all-traffic-between-company-and-customers-by-q1-14/>
 

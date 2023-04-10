@@ -1,4 +1,4 @@
-# 乘法 4.0:社交网络照片分享做得好| TechCrunch
+# 乘法 4.0:社交网络照片分享做得好
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/26/multiply-40-social-network-photo-sharing-done-right/>
 

@@ -1,4 +1,4 @@
-# 电子商务平台 Shopify 收购移动应用开发工作室选择开始| TechCrunch
+# 电子商务平台 Shopify 收购移动应用开发工作室选择开始
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/01/ecommerce-platform-shopify-acquires-mobile-app-development-studio-select-start/>
 

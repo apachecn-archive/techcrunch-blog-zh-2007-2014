@@ -1,4 +1,4 @@
-# Viber 发布黑莓应用更新以赶上 iOS 和 Android | TechCrunch
+# Viber 发布黑莓应用更新以赶上 iOS 和 Android 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/23/viber-releases-update-to-blackberry-app-to-catch-up-with-ios-and-android/>
 

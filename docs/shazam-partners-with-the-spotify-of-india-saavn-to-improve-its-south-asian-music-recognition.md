@@ -1,4 +1,4 @@
-# Shazam 与“印度的 Spotify”Saavn 合作，提高其南亚音乐认知度| TechCrunch
+# Shazam 与“印度的 Spotify”Saavn 合作，提高其南亚音乐认知度
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/03/shazam-partners-with-the-spotify-of-india-saavn-to-improve-its-south-asian-music-recognition/>
 

@@ -1,4 +1,4 @@
-# Zoom 轮融资 600 万美元，推出完全不同的虚拟会议工具 1.0 版| TechCrunch
+# Zoom 轮融资 600 万美元，推出完全不同的虚拟会议工具 1.0 版
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/28/zoom-raises-6m-series-a-launches-version-1-0-of-its-radically-different-virtual-conferencing-tool/>
 

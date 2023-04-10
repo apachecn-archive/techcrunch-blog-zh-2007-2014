@@ -1,4 +1,4 @@
-# 向众包投资开放消费产品，CircleUp 融资 1400 万美元| TechCrunch
+# 向众包投资开放消费产品，CircleUp 融资 1400 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/opening-consumer-products-to-crowdsourced-investment-circleup-raises-14-million/>
 

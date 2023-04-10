@@ -1,4 +1,4 @@
-# 脸书宣布了它的第三大支柱“图形搜索”,给你答案，而不是像 Google | TechCrunch 这样的链接
+# 脸书宣布了它的第三大支柱“图形搜索”,给你答案，而不是像 Google  这样的链接
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/facebook-announces-its-third-pillar-graph-search/>
 

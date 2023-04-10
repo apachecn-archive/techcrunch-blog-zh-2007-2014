@@ -1,4 +1,4 @@
-# 视频:ItchyClips 会把你的音乐卖给音乐人| TechCrunch
+# 视频:ItchyClips 会把你的音乐卖给音乐人
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/29/video-itchyclips-will-sell-your-music-to-musicians/>
 

@@ -1,4 +1,4 @@
-# Tr.im 砍掉 Bit.ly 的 301works 创意，想卖掉| TechCrunch
+# Tr.im 砍掉 Bit.ly 的 301works 创意，想卖掉
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/08/10/trim-cuts-off-bitlys-301works-idea-wants-to-sell/>
 

@@ -1,4 +1,4 @@
-# 孤独星球收购移动旅游应用 TouristEye | TechCrunch
+# 孤独星球收购移动旅游应用 TouristEye 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/13/lonely-planet-touristeye/>
 

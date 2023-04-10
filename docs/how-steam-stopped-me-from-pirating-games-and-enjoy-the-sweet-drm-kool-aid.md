@@ -1,4 +1,4 @@
-# Steam 如何阻止我盗版游戏，并享受甜蜜的 DRM kool-aid | TechCrunch
+# Steam 如何阻止我盗版游戏，并享受甜蜜的 DRM kool-aid 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/05/how-steam-stopped-me-from-pirating-games-and-enjoy-the-sweet-drm-kool-aid/>
 

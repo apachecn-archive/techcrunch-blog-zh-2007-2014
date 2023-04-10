@@ -1,4 +1,4 @@
-# 带 USB 的微型磁性 GPS 跟踪器| TechCrunch
+# 带 USB 的微型磁性 GPS 跟踪器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/11/tiny-magnetic-gps-tracker-with-usb/>
 

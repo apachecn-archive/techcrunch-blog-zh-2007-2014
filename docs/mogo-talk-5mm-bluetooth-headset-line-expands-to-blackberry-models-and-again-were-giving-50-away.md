@@ -1,4 +1,4 @@
-# MoGo Talk 集成折叠式蓝牙耳机系列扩展至黑莓机型，我们将赠送 50 部| TechCrunch
+# MoGo Talk 集成折叠式蓝牙耳机系列扩展至黑莓机型，我们将赠送 50 部
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/21/mogo-talk-5mm-bluetooth-headset-line-expands-to-blackberry-models-and-again-were-giving-50-away/>
 

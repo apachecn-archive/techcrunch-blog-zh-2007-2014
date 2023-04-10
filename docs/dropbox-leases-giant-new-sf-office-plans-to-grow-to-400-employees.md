@@ -1,4 +1,4 @@
-# Dropbox 租赁巨型新 SF 办公室，计划增至 400 多名员工| TechCrunch
+# Dropbox 租赁巨型新 SF 办公室，计划增至 400 多名员工
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/27/dropbox-leases-giant-new-sf-office-plans-to-grow-to-400-employees/>
 

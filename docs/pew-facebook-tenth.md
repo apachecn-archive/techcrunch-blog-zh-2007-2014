@@ -1,4 +1,4 @@
-# 皮尤:10 岁的脸书看到成人使用“加剧”；57%的成年人是用户，64%每天访问| TechCrunch
+# 皮尤:10 岁的脸书看到成人使用“加剧”；57%的成年人是用户，64%每天访问
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/pew-facebook-tenth/>
 

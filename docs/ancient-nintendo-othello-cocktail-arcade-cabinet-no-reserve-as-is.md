@@ -1,4 +1,4 @@
-# 古代任天堂奥赛罗鸡尾酒街机柜，没有保留，因为是| TechCrunch
+# 古代任天堂奥赛罗鸡尾酒街机柜，没有保留，因为是
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/23/ancient-nintendo-othello-cocktail-arcade-cabinet-no-reserve-as-is/>
 

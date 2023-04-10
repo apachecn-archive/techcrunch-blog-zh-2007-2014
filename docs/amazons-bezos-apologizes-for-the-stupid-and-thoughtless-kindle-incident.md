@@ -1,4 +1,4 @@
-# 亚马逊的贝佐斯为“愚蠢”和“欠考虑”的 Kindle 事件道歉| TechCrunch
+# 亚马逊的贝佐斯为“愚蠢”和“欠考虑”的 Kindle 事件道歉
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/23/amazons-bezos-apologizes-for-the-stupid-and-thoughtless-kindle-incident/>
 

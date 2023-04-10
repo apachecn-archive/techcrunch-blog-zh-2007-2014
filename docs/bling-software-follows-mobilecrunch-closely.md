@@ -1,4 +1,4 @@
-# Bling 软件紧跟 mobile runch | TechCrunch
+# Bling 软件紧跟 mobile runch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/bling-software-follows-mobilecrunch-closely/>
 

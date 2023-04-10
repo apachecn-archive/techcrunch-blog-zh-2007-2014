@@ -1,4 +1,4 @@
-# 谷歌支付 7 亿美元现金收购航班信息提供商 ITA | TechCrunch
+# 谷歌支付 7 亿美元现金收购航班信息提供商 ITA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/01/google-ita-700-million/>
 

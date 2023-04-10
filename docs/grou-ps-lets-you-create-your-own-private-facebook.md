@@ -1,4 +1,4 @@
-# GROU。PS 让你创建自己的私人脸书| TechCrunch
+# GROU。PS 让你创建自己的私人脸书
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/09/grou-ps-lets-you-create-your-own-private-facebook/>
 

@@ -1,4 +1,4 @@
-# PCH 国际收购 shock let 为硬件初创公司“关闭循环”| TechCrunch
+# PCH 国际收购 shock let 为硬件初创公司“关闭循环”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/pch-acquires-shoplocket/>
 

@@ -1,4 +1,4 @@
-# 谷歌为其原生 iOS 地图应用提供 SDK，这样开发者就可以绕过苹果的| TechCrunch
+# 谷歌为其原生 iOS 地图应用提供 SDK，这样开发者就可以绕过苹果的
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/google-makes-sdk-available-for-its-native-ios-maps-app-so-that-developers-can-bypass-apples/>
 

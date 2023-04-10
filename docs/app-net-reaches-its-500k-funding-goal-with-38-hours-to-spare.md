@@ -1,4 +1,4 @@
-# App.net 在 38 小时内达到 50 万美元的融资目标| TechCrunch
+# App.net 在 38 小时内达到 50 万美元的融资目标
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/12/app-net-reaches-its-500k-funding-goal-with-38-hours-to-spare/>
 

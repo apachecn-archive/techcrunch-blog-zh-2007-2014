@@ -1,4 +1,4 @@
-# 妈妈商务网站 EcoMom Banks 110 万美元| TechCrunch
+# 妈妈商务网站 EcoMom Banks 110 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/06/mom-commerce-site-ecomom-banks-1-1-million/>
 

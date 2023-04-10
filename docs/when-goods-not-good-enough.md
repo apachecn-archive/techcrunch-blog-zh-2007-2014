@@ -1,4 +1,4 @@
-# 有牵引力但没有现金，4chan 创始人杀死了画布/DrawQuest | TechCrunch
+# 有牵引力但没有现金，4chan 创始人杀死了画布/DrawQuest 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/when-goods-not-good-enough/>
 

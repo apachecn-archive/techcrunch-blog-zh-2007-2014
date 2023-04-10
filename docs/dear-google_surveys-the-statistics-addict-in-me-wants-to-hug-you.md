@@ -1,4 +1,4 @@
-# 亲爱的@Google_Surveys，我这个统计学迷想要拥抱你| TechCrunch
+# 亲爱的@Google_Surveys，我这个统计学迷想要拥抱你
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/07/dear-google_surveys-the-statistics-addict-in-me-wants-to-hug-you/>
 

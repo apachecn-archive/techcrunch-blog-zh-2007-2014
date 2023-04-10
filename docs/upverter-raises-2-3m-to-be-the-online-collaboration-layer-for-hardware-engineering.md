@@ -1,4 +1,4 @@
-# Upverter 筹集 230 万美元成为硬件工程| TechCrunch 的在线协作层
+# Upverter 筹集 230 万美元成为硬件工程 的在线协作层
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/upverter-raises-2-3m-to-be-the-online-collaboration-layer-for-hardware-engineering/>
 

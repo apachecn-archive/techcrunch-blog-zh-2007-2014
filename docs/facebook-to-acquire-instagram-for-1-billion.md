@@ -1,4 +1,4 @@
-# 脸书以 10 亿美元收购 Instagram，将初露头角的竞争对手变成了它的独立照片应用程序| TechCrunch
+# 脸书以 10 亿美元收购 Instagram，将初露头角的竞争对手变成了它的独立照片应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/>
 

@@ -1,4 +1,4 @@
-# Pandora Beats 2013 年第三季度收入增长 60%，至 1.2 亿美元，净收入 210 万美元；第四季度预测远低于预期| TechCrunch
+# Pandora Beats 2013 年第三季度收入增长 60%，至 1.2 亿美元，净收入 210 万美元；第四季度预测远低于预期
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/04/pandoras-q3-2013/>
 

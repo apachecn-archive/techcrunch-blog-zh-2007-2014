@@ -1,4 +1,4 @@
-# 维基百科| TechCrunch 的真相
+# 维基百科 的真相
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/08/the-truth-according-to-wikipedia/>
 

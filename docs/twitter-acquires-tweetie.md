@@ -1,4 +1,4 @@
-# Twitter 收购 Tweetie | TechCrunch
+# Twitter 收购 Tweetie 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/09/twitter-acquires-tweetie/>
 

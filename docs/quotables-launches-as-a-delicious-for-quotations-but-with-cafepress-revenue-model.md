@@ -1,4 +1,4 @@
-# Quotables 以美味报价的形式推出，但采用 CafePress 收入模式| TechCrunch
+# Quotables 以美味报价的形式推出，但采用 CafePress 收入模式
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/02/quotables-launches-as-a-delicious-for-quotations-but-with-cafepress-revenue-model/>
 

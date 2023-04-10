@@ -1,4 +1,4 @@
-# 随着旧金山发布在即，Lyft 的司机数量增加了一倍，并准备推出安卓应用程序| TechCrunch
+# 随着旧金山发布在即，Lyft 的司机数量增加了一倍，并准备推出安卓应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/25/lyft-san-francisco-launch/>
 

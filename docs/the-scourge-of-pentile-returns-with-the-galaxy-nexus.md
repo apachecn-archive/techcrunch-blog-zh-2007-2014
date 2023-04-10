@@ -1,4 +1,4 @@
-# Pentile 的灾难随着 Galaxy Nexus | TechCrunch 回归
+# Pentile 的灾难随着 Galaxy Nexus  回归
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/20/the-scourge-of-pentile-returns-with-the-galaxy-nexus/>
 

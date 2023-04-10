@@ -1,4 +1,4 @@
-# 语义网/问答初创公司 Beepl 失去前 TechCrunch 首席执行官，为移动应用| TechCrunch 做准备
+# 语义网/问答初创公司 Beepl 失去前 TechCrunch 首席执行官，为移动应用 做准备
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/05/semantic-webqa-startup-beepl-loses-ex-techcrunch-ceo-gears-up-for-mobile-app/>
 

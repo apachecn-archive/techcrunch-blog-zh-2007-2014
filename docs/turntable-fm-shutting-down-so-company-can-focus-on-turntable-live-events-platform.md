@@ -1,4 +1,4 @@
-# Turntable.fm 关闭，以便公司能够专注于转盘直播活动平台| TechCrunch
+# Turntable.fm 关闭，以便公司能够专注于转盘直播活动平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/22/turntable-fm-shutting-down-so-company-can-focus-on-turntable-live-events-platform/>
 

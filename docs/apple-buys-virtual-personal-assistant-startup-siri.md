@@ -1,4 +1,4 @@
-# 证实:苹果收购虚拟个人助理初创公司 Siri | TechCrunch
+# 证实:苹果收购虚拟个人助理初创公司 Siri 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/apple-buys-virtual-personal-assistant-startup-siri/>
 

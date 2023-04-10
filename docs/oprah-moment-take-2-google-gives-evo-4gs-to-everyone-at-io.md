@@ -1,4 +1,4 @@
-# 奥普拉时刻，第二条:谷歌在 I/O | TechCrunch 给每个人发了一部 EVO 4G
+# 奥普拉时刻，第二条:谷歌在 I/O  给每个人发了一部 EVO 4G
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/20/oprah-moment-take-2-google-gives-evo-4gs-to-everyone-at-io/>
 

@@ -1,4 +1,4 @@
-# Apture Highlights 为任何网页带来即时搜索| TechCrunch
+# Apture Highlights 为任何网页带来即时搜索
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/apture-now-brings-instantaneous-search-to-any-web-page/>
 

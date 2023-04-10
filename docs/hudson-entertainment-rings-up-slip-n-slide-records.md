@@ -1,4 +1,4 @@
-# Hudson Entertainment Rings-up Slip-N-Slide 唱片公司| TechCrunch
+# Hudson Entertainment Rings-up Slip-N-Slide 唱片公司
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/hudson-entertainment-rings-up-slip-n-slide-records/>
 

@@ -1,4 +1,4 @@
-# 彭博风险投资公司联合创始人马特·图尔克加入 FirstMark Capital 担任董事总经理，负责大数据应用市场| TechCrunch
+# 彭博风险投资公司联合创始人马特·图尔克加入 FirstMark Capital 担任董事总经理，负责大数据应用市场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/05/bloomberg-ventures-founder-matt-turck-joining-firstmark-capital-as-managing-partner/>
 

@@ -1,4 +1,4 @@
-# 展示广告数据智能初创公司 MixRank 从马克·库班、500 Startups | TechCrunch 融资 150 万美元
+# 展示广告数据智能初创公司 MixRank 从马克·库班、500 Startups  融资 150 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/display-ad-data-intelligence-startup-mixrank-raises-1-5m-from-mark-cubam-500-startups/>
 

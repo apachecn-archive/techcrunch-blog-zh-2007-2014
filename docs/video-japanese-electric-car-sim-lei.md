@@ -1,4 +1,4 @@
-# 视频:日本电动汽车行驶里程超过 300 公里| TechCrunch
+# 视频:日本电动汽车行驶里程超过 300 公里
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/29/video-japanese-electric-car-sim-lei/>
 

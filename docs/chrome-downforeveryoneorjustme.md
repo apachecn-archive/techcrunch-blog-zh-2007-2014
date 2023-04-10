@@ -1,4 +1,4 @@
-# 谷歌 Chrome 是新的“人人皆可下载，还是只有我一个人”| TechCrunch
+# 谷歌 Chrome 是新的“人人皆可下载，还是只有我一个人”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/31/chrome-downforeveryoneorjustme/>
 

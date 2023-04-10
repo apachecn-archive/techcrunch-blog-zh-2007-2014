@@ -1,4 +1,4 @@
-# 安息吧 RSS | TechCrunch
+# 安息吧 RSS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/05/rest-in-peace-rss/>
 

@@ -1,4 +1,4 @@
-# MyHeritage 扩展了它的家谱| TechCrunch
+# MyHeritage 扩展了它的家谱
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/22/myheritage-expands-its-family-tree/>
 

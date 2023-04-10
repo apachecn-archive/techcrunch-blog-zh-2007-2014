@@ -1,4 +1,4 @@
-# Griffin Amplifi 评论| TechCrunch
+# Griffin Amplifi 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/griffin-amplifi-review/>
 

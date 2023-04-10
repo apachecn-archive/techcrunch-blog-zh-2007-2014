@@ -1,4 +1,4 @@
-# BZZZZZZ: YouTube 得到了一个呜呜祖拉按钮(说真的)| TechCrunch
+# BZZZZZZ: YouTube 得到了一个呜呜祖拉按钮(说真的)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/23/bzzzzzz-youtube-gets-a-vuvuzela-button-seriously/>
 

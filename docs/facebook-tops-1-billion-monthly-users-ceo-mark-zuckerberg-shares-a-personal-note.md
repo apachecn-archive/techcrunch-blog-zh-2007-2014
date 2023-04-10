@@ -1,4 +1,4 @@
-# 脸书每月活跃用户超过 10 亿，首席执行官马克·扎克伯格分享个人笔记| TechCrunch
+# 脸书每月活跃用户超过 10 亿，首席执行官马克·扎克伯格分享个人笔记
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/04/facebook-tops-1-billion-monthly-users-ceo-mark-zuckerberg-shares-a-personal-note/>
 

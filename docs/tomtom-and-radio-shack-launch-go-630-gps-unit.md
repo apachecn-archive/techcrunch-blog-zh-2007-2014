@@ -1,4 +1,4 @@
-# TomTom 和 Radio Shack 推出 GO 630 GPS 单元| TechCrunch
+# TomTom 和 Radio Shack 推出 GO 630 GPS 单元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/11/tomtom-and-radio-shack-launch-go-630-gps-unit/>
 

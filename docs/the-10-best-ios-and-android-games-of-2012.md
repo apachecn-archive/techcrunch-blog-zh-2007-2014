@@ -1,4 +1,4 @@
-# 2012 年十大最佳 iOS 和 Android 游戏| TechCrunch
+# 2012 年十大最佳 iOS 和 Android 游戏
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/29/the-10-best-ios-and-android-games-of-2012/>
 

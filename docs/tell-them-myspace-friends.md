@@ -1,4 +1,4 @@
-# 告诉他们 MySpace 好友| TechCrunch
+# 告诉他们 MySpace 好友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/tell-them-myspace-friends/>
 

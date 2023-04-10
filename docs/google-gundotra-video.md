@@ -1,4 +1,4 @@
-# 谷歌的 Gundotra 追逐苹果:视频| TechCrunch
+# 谷歌的 Gundotra 追逐苹果:视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/20/google-gundotra-video/>
 

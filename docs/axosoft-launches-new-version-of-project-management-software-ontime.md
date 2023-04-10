@@ -1,4 +1,4 @@
-# Axosoft 推出新版项目管理软件 OnTime | TechCrunch
+# Axosoft 推出新版项目管理软件 OnTime 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/15/axosoft-launches-new-version-of-project-management-software-ontime/>
 

@@ -1,4 +1,4 @@
-# 气体已经从 iPhone 传到了 Windows Phone 7:屁应用高居榜首| TechCrunch
+# 气体已经从 iPhone 传到了 Windows Phone 7:屁应用高居榜首
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/10/13/windows-phone-7-fart-apps/>
 

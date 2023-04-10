@@ -1,4 +1,4 @@
-# 随着 400 万视频被观看，社交视频应用 Vodio 推出重大更新| TechCrunch
+# 随着 400 万视频被观看，社交视频应用 Vodio 推出重大更新
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/20/with-4-million-videos-viewed-social-video-app-vodio-rolls-out-major-update/>
 

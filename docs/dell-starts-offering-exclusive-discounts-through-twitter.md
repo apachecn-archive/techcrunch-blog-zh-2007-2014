@@ -1,4 +1,4 @@
-# 戴尔开始通过 Twitter | TechCrunch 提供独家折扣
+# 戴尔开始通过 Twitter  提供独家折扣
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/03/dell-starts-offering-exclusive-discounts-through-twitter/>
 

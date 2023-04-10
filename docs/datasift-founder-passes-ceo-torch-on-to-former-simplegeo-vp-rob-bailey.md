@@ -1,4 +1,4 @@
-# DataSift 创始人将 CEO 火炬传递给前 SimpleGeo 副总裁罗伯·拜利| TechCrunch
+# DataSift 创始人将 CEO 火炬传递给前 SimpleGeo 副总裁罗伯·拜利
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/datasift-founder-passes-ceo-torch-on-to-former-simplegeo-vp-rob-bailey/>
 

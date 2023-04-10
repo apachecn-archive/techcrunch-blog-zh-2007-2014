@@ -1,4 +1,4 @@
-# Asana 为简单的任务管理和生产力应用程序| TechCrunch 添加了更强大的搜索、错误跟踪等功能
+# Asana 为简单的任务管理和生产力应用程序 添加了更强大的搜索、错误跟踪等功能
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/09/asana-adds-more-powerful-search-bug-tracking-and-more-to-simple-task-management-and-productivity-app/>
 

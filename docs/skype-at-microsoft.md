@@ -1,4 +1,4 @@
-# Skype 在 MSFT 怎么样？使用率跃升 50%，上个季度用户记录了 115B 分钟的通话时间| TechCrunch
+# Skype 在 MSFT 怎么样？使用率跃升 50%，上个季度用户记录了 115B 分钟的通话时间
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/19/skype-at-microsoft/>
 

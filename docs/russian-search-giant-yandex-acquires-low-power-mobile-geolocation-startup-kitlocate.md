@@ -1,4 +1,4 @@
-# 俄罗斯搜索巨头 Yandex 收购低功耗移动地理定位初创公司 KitLocate | TechCrunch
+# 俄罗斯搜索巨头 Yandex 收购低功耗移动地理定位初创公司 KitLocate 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/russian-search-giant-yandex-acquires-low-power-mobile-geolocation-startup-kitlocate/>
 

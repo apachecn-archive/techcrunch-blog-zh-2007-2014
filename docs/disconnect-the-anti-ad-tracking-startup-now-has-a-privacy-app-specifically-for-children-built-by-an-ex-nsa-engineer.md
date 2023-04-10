@@ -1,4 +1,4 @@
-# 断开连接，反广告跟踪初创公司，现在有了一个专门针对儿童的隐私应用程序(由一名前国安局工程师开发)| TechCrunch
+# 断开连接，反广告跟踪初创公司，现在有了一个专门针对儿童的隐私应用程序(由一名前国安局工程师开发)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/12/disconnect-the-anti-ad-tracking-startup-now-has-a-privacy-app-specifically-for-children-built-by-an-ex-nsa-engineer/>
 

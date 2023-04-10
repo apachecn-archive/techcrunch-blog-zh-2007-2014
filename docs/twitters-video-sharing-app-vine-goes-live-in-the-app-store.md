@@ -1,4 +1,4 @@
-# Twitter 的 6 秒视频分享应用 Vine 在 App Store | TechCrunch 上线
+# Twitter 的 6 秒视频分享应用 Vine 在 App Store  上线
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/24/twitters-video-sharing-app-vine-goes-live-in-the-app-store/>
 

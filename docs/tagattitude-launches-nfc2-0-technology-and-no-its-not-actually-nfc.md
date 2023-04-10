@@ -1,4 +1,4 @@
-# Tagattitude 推出“NFC2.0”技术(不，实际上不是 NFC) | TechCrunch
+# Tagattitude 推出“NFC2.0”技术(不，实际上不是 NFC) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/tagattitude-launches-nfc2-0-technology-and-no-its-not-actually-nfc/>
 

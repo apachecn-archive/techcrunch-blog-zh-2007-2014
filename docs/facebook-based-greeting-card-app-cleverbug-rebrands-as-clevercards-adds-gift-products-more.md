@@ -1,4 +1,4 @@
-# 总部位于脸书的贺卡应用程序 Cleverbug 更名为 CleverCards，增加了礼品产品等| TechCrunch
+# 总部位于脸书的贺卡应用程序 Cleverbug 更名为 CleverCards，增加了礼品产品等
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/facebook-based-greeting-card-app-cleverbug-rebrands-as-clevercards-adds-gift-products-more/>
 

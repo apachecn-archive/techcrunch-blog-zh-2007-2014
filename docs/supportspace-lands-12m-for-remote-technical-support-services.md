@@ -1,4 +1,4 @@
-# SupportSpace 获得 1200 万美元的远程技术支持服务| TechCrunch
+# SupportSpace 获得 1200 万美元的远程技术支持服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/15/supportspace-lands-12m-for-remote-technical-support-services/>
 

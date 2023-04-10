@@ -1,4 +1,4 @@
-# YouTube 增加了一个 Twitter 按钮| TechCrunch
+# YouTube 增加了一个 Twitter 按钮
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/26/youtube-adds-a-twitter-button/>
 

@@ -1,4 +1,4 @@
-# 苹果已经批准了 iPhone 的官方谷歌语音应用，期待它很快| TechCrunch
+# 苹果已经批准了 iPhone 的官方谷歌语音应用，期待它很快
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/27/google-voice-iphone-3/>
 

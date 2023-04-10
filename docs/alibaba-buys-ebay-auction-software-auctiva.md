@@ -1,4 +1,4 @@
-# 阿里巴巴收购易贝拍卖软件 Auctiva | TechCrunch
+# 阿里巴巴收购易贝拍卖软件 Auctiva 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/24/alibaba-buys-ebay-auction-software-auctiva/>
 

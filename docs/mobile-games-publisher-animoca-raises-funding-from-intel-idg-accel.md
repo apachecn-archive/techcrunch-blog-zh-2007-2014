@@ -1,4 +1,4 @@
-# 手机游戏发行商 Animoca 从英特尔、IDG-Accel | TechCrunch 筹集资金
+# 手机游戏发行商 Animoca 从英特尔、IDG-Accel  筹集资金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/15/mobile-games-publisher-animoca-raises-funding-from-intel-idg-accel/>
 

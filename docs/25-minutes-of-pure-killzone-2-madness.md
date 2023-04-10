@@ -1,4 +1,4 @@
-# 25 分钟的纯杀戮地带 2 疯狂| TechCrunch
+# 25 分钟的纯杀戮地带 2 疯狂
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/26/25-minutes-of-pure-killzone-2-madness/>
 

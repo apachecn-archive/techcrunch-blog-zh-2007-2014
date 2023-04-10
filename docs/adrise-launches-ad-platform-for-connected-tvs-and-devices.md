@@ -1,4 +1,4 @@
-# AdRise 为联网电视和设备推出广告平台| TechCrunch
+# AdRise 为联网电视和设备推出广告平台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/adrise-launches-ad-platform-for-connected-tvs-and-devices/>
 

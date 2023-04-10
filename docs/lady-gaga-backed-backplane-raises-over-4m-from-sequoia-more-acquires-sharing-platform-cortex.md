@@ -1,4 +1,4 @@
-# Lady Gaga 支持的背板从红杉资本筹集超过 400 万美元；收购共享平台 Cortex | TechCrunch
+# Lady Gaga 支持的背板从红杉资本筹集超过 400 万美元；收购共享平台 Cortex 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/16/lady-gaga-backed-backplane-raises-over-4m-from-sequoia-more-acquires-sharing-platform-cortex/>
 

@@ -1,4 +1,4 @@
-# 谷歌收购上下文丰富的新闻浏览初创公司 Apture 以增强 Chrome | TechCrunch
+# 谷歌收购上下文丰富的新闻浏览初创公司 Apture 以增强 Chrome 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/10/google-buys-contextual-rich-news-browsing-startup-apture-to-beef-up-chrome/>
 

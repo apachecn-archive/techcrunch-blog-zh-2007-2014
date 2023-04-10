@@ -1,4 +1,4 @@
-# 社交分享应用 Buffer 通过谷歌分析、关注者追踪| TechCrunch 对其高端商业产品进行了加倍的开发
+# 社交分享应用 Buffer 通过谷歌分析、关注者追踪 对其高端商业产品进行了加倍的开发
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/09/buffer-business-analytics/>
 

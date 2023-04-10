@@ -1,4 +1,4 @@
-# Evernote 目前在中国拥有 400 万用户，面向拥有印相毕集商务| TechCrunch 的企业
+# Evernote 目前在中国拥有 400 万用户，面向拥有印相毕集商务 的企业
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/07/evernote-launches-yinxiang-biji-business-taking-its-premium-business-service-to-china/>
 

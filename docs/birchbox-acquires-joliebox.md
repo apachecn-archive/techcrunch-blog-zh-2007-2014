@@ -1,4 +1,4 @@
-# Birchbox 进军欧洲，收购法国 JolieBox | TechCrunch
+# Birchbox 进军欧洲，收购法国 JolieBox 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/13/birchbox-acquires-joliebox/>
 

@@ -1,4 +1,4 @@
-# 创业和经营的终极秘籍| TechCrunch
+# 创业和经营的终极秘籍
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/24/the-ultimate-cheat-sheet-for-starting-and-running-your-business/>
 

@@ -1,4 +1,4 @@
-# knewton Bags 600 万美元的自适应学习平台 B 轮融资| TechCrunch
+# knewton Bags 600 万美元的自适应学习平台 B 轮融资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/07/knewton-bags-6-million-series-b-round-for-adaptive-learning-platform/>
 

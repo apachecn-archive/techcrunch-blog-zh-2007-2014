@@ -1,4 +1,4 @@
-# Handmark 抢占 I-play 的手机游戏| TechCrunch
+# Handmark 抢占 I-play 的手机游戏
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/handmark-grabs-i-play%e2%80%99s-mobile-games/>
 

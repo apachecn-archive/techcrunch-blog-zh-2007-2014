@@ -1,4 +1,4 @@
-# 柏林 ResearchGate | TechCrunch 的协作力量
+# 柏林 ResearchGate  的协作力量
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/30/the-collaborative-power-of-berlin-based-researchgate/>
 

@@ -1,4 +1,4 @@
-# 安德森·霍洛维茨从 Instagram | TechCrunch 的 25 万美元投资中获利 7800 万美元
+# 安德森·霍洛维茨从 Instagram  的 25 万美元投资中获利 7800 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/04/22/andreessen-horowitz-made-78m-off-250000-investment-in-instagram/>
 

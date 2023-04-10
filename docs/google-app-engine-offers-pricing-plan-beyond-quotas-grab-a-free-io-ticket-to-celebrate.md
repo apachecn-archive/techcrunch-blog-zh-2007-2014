@@ -1,4 +1,4 @@
-# 谷歌应用引擎提供超越配额的定价方案；获取免费 I/O 入场券庆祝| TechCrunch
+# 谷歌应用引擎提供超越配额的定价方案；获取免费 I/O 入场券庆祝
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/25/google-app-engine-offers-pricing-plan-beyond-quotas-grab-a-free-io-ticket-to-celebrate/>
 

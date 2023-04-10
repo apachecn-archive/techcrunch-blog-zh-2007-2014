@@ -1,4 +1,4 @@
-# 如果谷歌得到了他们，它可能会开放。搜索，。App，。博客和。面向公众的云通用顶级域名| TechCrunch
+# 如果谷歌得到了他们，它可能会开放。搜索，。App，。博客和。面向公众的云通用顶级域名
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/09/if-it-gets-them-google-may-open-search-app-blog-and-cloud-gtlds-to-the-public/>
 

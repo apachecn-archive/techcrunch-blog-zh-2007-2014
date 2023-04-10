@@ -1,4 +1,4 @@
-# ArtCorgi 通过其新市场| TechCrunch 简化艺术委托流程
+# ArtCorgi 通过其新市场 简化艺术委托流程
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/artcorgi-launch/>
 

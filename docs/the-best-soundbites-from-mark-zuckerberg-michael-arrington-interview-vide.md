@@ -1,4 +1,4 @@
-# 马克·扎克伯格上市后第一次采访的最佳片段[视频] | TechCrunch
+# 马克·扎克伯格上市后第一次采访的最佳片段[视频] 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/the-best-soundbites-from-mark-zuckerberg-michael-arrington-interview-vide/>
 

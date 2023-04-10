@@ -1,4 +1,4 @@
-# 索尼日本发布限量版 PS3 | TechCrunch
+# 索尼日本发布限量版 PS3 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/ninokuni-sony-japan-announces-limited-edition-and-pretty-ps3/>
 

@@ -1,4 +1,4 @@
-# Entenmann 的标签冲浪以#无罪推文| TechCrunch 失败告终
+# Entenmann 的标签冲浪以#无罪推文 失败告终
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/05/entenmanns-hashtag-surfing-fails-hard-with-notguilty-tweet/>
 

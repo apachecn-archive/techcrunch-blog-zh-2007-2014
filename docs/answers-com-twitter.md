@@ -1,4 +1,4 @@
-# Answers.com 开始在 Twitter | TechCrunch 上回答问题
+# Answers.com 开始在 Twitter  上回答问题
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/20/answers-com-twitter/>
 

@@ -1,4 +1,4 @@
-# 2012 年 20 位最具创新精神的民主人士| TechCrunch
+# 2012 年 20 位最具创新精神的民主人士
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/03/the-20-most-innovative-people-in-democracy-2012/>
 

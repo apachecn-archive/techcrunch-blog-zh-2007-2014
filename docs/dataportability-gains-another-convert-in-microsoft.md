@@ -1,4 +1,4 @@
-# 数据可移植性在微软| TechCrunch 中获得了又一次转变
+# 数据可移植性在微软 中获得了又一次转变
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/01/24/dataportability-gains-another-convert-in-microsoft/>
 

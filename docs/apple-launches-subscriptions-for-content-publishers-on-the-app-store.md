@@ -1,4 +1,4 @@
-# 苹果在 App Store | TechCrunch 上为内容出版商推出订阅服务
+# 苹果在 App Store  上为内容出版商推出订阅服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/15/apple-launches-subscriptions-for-content-publishers-on-the-app-store/>
 

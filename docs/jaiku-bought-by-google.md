@@ -1,4 +1,4 @@
-# 谷歌收购的 jaiku | TechCrunch
+# 谷歌收购的 jaiku 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/09/jaiku-bought-by-google/>
 

@@ -1,4 +1,4 @@
-# 展台宝贝不工作| TechCrunch
+# 展台宝贝不工作
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/booth-babes-dont-convert/>
 

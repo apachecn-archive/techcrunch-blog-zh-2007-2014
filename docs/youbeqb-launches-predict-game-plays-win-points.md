@@ -1,4 +1,4 @@
-# YouBeQB 发布–预测游戏玩法，赢取积分| TechCrunch
+# YouBeQB 发布–预测游戏玩法，赢取积分
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/24/youbeqb-launches-predict-game-plays-win-points/>
 

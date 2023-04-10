@@ -1,4 +1,4 @@
-# 你的创业计划很糟糕吗？拨打电话并练习| TechCrunch
+# 你的创业计划很糟糕吗？拨打电话并练习
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/17/does-your-startup-pitch-suck-call-pitchphone-and-practice/>
 

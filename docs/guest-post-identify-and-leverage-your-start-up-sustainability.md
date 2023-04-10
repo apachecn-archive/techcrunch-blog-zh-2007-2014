@@ -1,4 +1,4 @@
-# 客座博文:确定并利用你的创业可持续性| TechCrunch
+# 客座博文:确定并利用你的创业可持续性
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/21/guest-post-identify-and-leverage-your-start-up-sustainability/>
 

@@ -1,4 +1,4 @@
-# Twitter 收购、关闭社交新闻初创公司 Summify | TechCrunch
+# Twitter 收购、关闭社交新闻初创公司 Summify 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/19/twitter-acquires-summify/>
 

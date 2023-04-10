@@ -1,4 +1,4 @@
-# Steve Newcomb 的 Famo.us 筹集了 400 万美元用于 HTML5 | TechCrunch 中快速、漂亮的应用程序
+# Steve Newcomb 的 Famo.us 筹集了 400 万美元用于 HTML5  中快速、漂亮的应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/03/famous-series-a/>
 

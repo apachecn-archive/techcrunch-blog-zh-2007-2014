@@ -1,4 +1,4 @@
-# 创建社交媒体广播(Sonecast) | TechCrunch
+# 创建社交媒体广播(Sonecast) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/03/21/creating-the-social-media-broadcast-sonecast/>
 

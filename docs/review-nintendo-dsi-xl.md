@@ -1,4 +1,4 @@
-# 点评:任天堂 DSi XL | TechCrunch
+# 点评:任天堂 DSi XL 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/30/review-nintendo-dsi-xl/>
 

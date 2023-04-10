@@ -1,4 +1,4 @@
-# 打造优秀社交产品需要知道的七个原则| TechCrunch
+# 打造优秀社交产品需要知道的七个原则
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/26/the-seven-principles-you-need-to-know-to-build-a-great-social-product/>
 

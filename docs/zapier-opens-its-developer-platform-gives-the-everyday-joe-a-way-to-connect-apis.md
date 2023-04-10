@@ -1,4 +1,4 @@
-# Zapier 开放了其开发者平台，为普通人提供了连接 APIs | TechCrunch 的方法
+# Zapier 开放了其开发者平台，为普通人提供了连接 APIs  的方法
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/17/zapier-opens-its-developer-platform-gives-the-everyday-joe-a-way-to-connect-apis/>
 

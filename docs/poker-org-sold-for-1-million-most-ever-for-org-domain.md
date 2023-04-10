@@ -1,4 +1,4 @@
-# Poker.org 卖了 100 万美元，是有史以来最高的。组织域名| TechCrunch
+# Poker.org 卖了 100 万美元，是有史以来最高的。组织域名
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/poker-org-sold-for-1-million-most-ever-for-org-domain/>
 

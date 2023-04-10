@@ -1,4 +1,4 @@
-# 英特留斯再次申请上市。仍然是一个巨大的有毒骗局| TechCrunch
+# 英特留斯再次申请上市。仍然是一个巨大的有毒骗局
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/27/intelius-files-to-go-public-again-still-a-huge-toxic-scam/>
 

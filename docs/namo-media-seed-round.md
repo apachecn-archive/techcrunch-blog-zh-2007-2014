@@ -1,4 +1,4 @@
-# DrawChat 创建者推出他的移动广告创业公司 Namo Media，由 Google Ventures | TechCrunch 领投融资 190 万美元
+# DrawChat 创建者推出他的移动广告创业公司 Namo Media，由 Google Ventures  领投融资 190 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/18/namo-media-seed-round/>
 

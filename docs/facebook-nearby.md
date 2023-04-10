@@ -1,4 +1,4 @@
-# 手握脸书附近，一个新的本地商业探索功能，挑战 Yelp 和 Foursquare | TechCrunch
+# 手握脸书附近，一个新的本地商业探索功能，挑战 Yelp 和 Foursquare 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/facebook-nearby/>
 

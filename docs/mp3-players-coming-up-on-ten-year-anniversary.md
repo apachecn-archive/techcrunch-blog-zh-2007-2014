@@ -1,4 +1,4 @@
-# MP3 播放器即将迎来十周年纪念日| TechCrunch
+# MP3 播放器即将迎来十周年纪念日
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/10/mp3-players-coming-up-on-ten-year-anniversary/>
 

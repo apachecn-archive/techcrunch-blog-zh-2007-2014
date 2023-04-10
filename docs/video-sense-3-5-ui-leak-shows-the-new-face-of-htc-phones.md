@@ -1,4 +1,4 @@
-# 视频:Sense 3.5 UI 泄露展示 HTC 手机新面孔| TechCrunch
+# 视频:Sense 3.5 UI 泄露展示 HTC 手机新面孔
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/29/video-sense-3-5-ui-leak-shows-the-new-face-of-htc-phones/>
 

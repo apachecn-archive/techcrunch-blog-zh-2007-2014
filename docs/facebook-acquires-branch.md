@@ -1,4 +1,4 @@
-# 脸书收购分支媒体团队，领导新的“对话”小组| TechCrunch
+# 脸书收购分支媒体团队，领导新的“对话”小组
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/facebook-acquires-branch/>
 

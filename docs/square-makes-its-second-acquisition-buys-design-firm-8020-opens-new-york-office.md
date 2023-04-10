@@ -1,4 +1,4 @@
-# 支付公司 Square 进行第二次收购；收购设计公司 80/20，开设纽约办事处| TechCrunch
+# 支付公司 Square 进行第二次收购；收购设计公司 80/20，开设纽约办事处
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/01/square-makes-its-second-acquisition-buys-design-firm-8020-opens-new-york-office/>
 

@@ -1,4 +1,4 @@
-# Snapchat 在 Benchmark 的带领下筹集了 1350 万美元的 A 轮融资，现在每天发送 6000 万张快照| TechCrunch
+# Snapchat 在 Benchmark 的带领下筹集了 1350 万美元的 A 轮融资，现在每天发送 6000 万张快照
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/08/snapchat-raises-13-5m-series-a-led-by-benchmark-now-sees-60m-snaps-sent-per-day/>
 

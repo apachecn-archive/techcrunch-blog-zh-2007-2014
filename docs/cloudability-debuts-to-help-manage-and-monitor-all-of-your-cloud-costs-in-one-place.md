@@ -1,4 +1,4 @@
-# Cloudability 首次亮相，有助于在一个地方管理和监控您的所有云成本| TechCrunch
+# Cloudability 首次亮相，有助于在一个地方管理和监控您的所有云成本
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/02/cloudability-debuts-to-help-manage-and-monitor-all-of-your-cloud-costs-in-one-place/>
 

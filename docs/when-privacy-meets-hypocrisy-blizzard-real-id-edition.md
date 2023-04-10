@@ -1,4 +1,4 @@
-# 当隐私遇上虚伪:暴雪真实 ID 版| TechCrunch
+# 当隐私遇上虚伪:暴雪真实 ID 版
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/08/when-privacy-meets-hypocrisy-blizzard-real-id-edition/>
 

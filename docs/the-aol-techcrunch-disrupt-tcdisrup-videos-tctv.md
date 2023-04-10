@@ -1,4 +1,4 @@
-# 美国在线公告，视频 TCTV | TechCrunch
+# 美国在线公告，视频 TCTV 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/28/the-aol-techcrunch-disrupt-tcdisrup-videos-tctv/>
 

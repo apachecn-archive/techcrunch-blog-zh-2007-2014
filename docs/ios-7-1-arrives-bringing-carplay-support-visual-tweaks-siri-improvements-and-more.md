@@ -1,4 +1,4 @@
-# iOS 7.1 带来了 CarPlay 支持、视觉调整、Siri 改进等等| TechCrunch
+# iOS 7.1 带来了 CarPlay 支持、视觉调整、Siri 改进等等
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/10/ios-7-1-arrives-bringing-carplay-support-visual-tweaks-siri-improvements-and-more/>
 

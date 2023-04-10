@@ -1,4 +1,4 @@
-# YouTube 宣布合作伙伴资助计划，支持 4K 视频分辨率| TechCrunch
+# YouTube 宣布合作伙伴资助计划，支持 4K 视频分辨率
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/09/youtube-partner-program-4k/>
 

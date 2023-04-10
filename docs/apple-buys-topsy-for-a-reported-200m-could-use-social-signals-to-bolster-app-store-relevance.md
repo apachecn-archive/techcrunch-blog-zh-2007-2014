@@ -1,4 +1,4 @@
-# 据报道，苹果以超过 2 亿美元的价格收购托普斯，可以利用社交信号来支持 Siri，App Store 相关性| TechCrunch
+# 据报道，苹果以超过 2 亿美元的价格收购托普斯，可以利用社交信号来支持 Siri，App Store 相关性
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/02/apple-buys-topsy-for-a-reported-200m-could-use-social-signals-to-bolster-app-store-relevance/>
 

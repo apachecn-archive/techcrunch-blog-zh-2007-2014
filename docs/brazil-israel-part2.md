@@ -1,4 +1,4 @@
-# 巴西的创业产业:来自以色列的印象、见解和教训(下)| TechCrunch
+# 巴西的创业产业:来自以色列的印象、见解和教训(下)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/09/brazil-israel-part2/>
 

@@ -1,4 +1,4 @@
-# Hack Team 的语音指导学习驾驶应用程序使与爸爸妈妈一起学习减少了家庭干扰| TechCrunch
+# Hack Team 的语音指导学习驾驶应用程序使与爸爸妈妈一起学习减少了家庭干扰
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/28/hackathon-learn-to-drive/>
 

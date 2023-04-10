@@ -1,4 +1,4 @@
-# iPhone 生态系统的现状:4000 万台设备和 50000 个应用程序| TechCrunch
+# iPhone 生态系统的现状:4000 万台设备和 50000 个应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/08/40-million-iphones-and-ipod-touches-and-50000-apps/>
 

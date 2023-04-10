@@ -1,4 +1,4 @@
-# 金·多特康姆的 Baboom 看起来像现代的 Myspace | TechCrunch
+# 金·多特康姆的 Baboom 看起来像现代的 Myspace 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/20/kim-dotcoms-baboom-looks-like-a-modern-day-myspace/>
 

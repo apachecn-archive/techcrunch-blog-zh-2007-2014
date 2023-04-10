@@ -1,4 +1,4 @@
-# Quora 拥有魔力:Benchmark 投资 8600 万美元估值| TechCrunch
+# Quora 拥有魔力:Benchmark 投资 8600 万美元估值
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/28/quora-has-the-magic-benchmark-invests-at-86-million-valuation/>
 

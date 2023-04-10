@@ -1,4 +1,4 @@
-# 感谢赞助商:采用实时矩阵、多媒体和档案生成器| TechCrunch
+# 感谢赞助商:采用实时矩阵、多媒体和档案生成器
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/18/thank-you-sponsors-featuring-real-time-matrix-domedia-and-profile-builder/>
 

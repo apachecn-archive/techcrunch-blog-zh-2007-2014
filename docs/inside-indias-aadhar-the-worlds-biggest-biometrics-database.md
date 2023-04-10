@@ -1,4 +1,4 @@
-# 世界上最大的生物识别数据库| TechCrunch
+# 世界上最大的生物识别数据库
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/06/inside-indias-aadhar-the-worlds-biggest-biometrics-database/>
 

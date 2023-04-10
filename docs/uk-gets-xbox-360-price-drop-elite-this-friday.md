@@ -1,4 +1,4 @@
-# 英国 Xbox 360 价格下降，精英本周五| TechCrunch
+# 英国 Xbox 360 价格下降，精英本周五
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/uk-gets-xbox-360-price-drop-elite-this-friday/>
 

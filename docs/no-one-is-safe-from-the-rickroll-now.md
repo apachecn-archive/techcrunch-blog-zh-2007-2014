@@ -1,4 +1,4 @@
-# 感谢 Twilio，现在没有人能幸免于 Rick roll | TechCrunch
+# 感谢 Twilio，现在没有人能幸免于 Rick roll 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/18/no-one-is-safe-from-the-rickroll-now/>
 

@@ -1,4 +1,4 @@
-# 目标现在价格匹配亚马逊，Walmart.com，BestBuy.com 和 Toysrus.com 全年| TechCrunch
+# 目标现在价格匹配亚马逊，Walmart.com，BestBuy.com 和 Toysrus.com 全年
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/08/target-now-price-matching-amazon-walmart-com-bestbuy-com-toyrus-com-year-round/>
 

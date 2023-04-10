@@ -1,4 +1,4 @@
-# Enflick 推出针对亲密联系人的移动消息应用程序，Touch | TechCrunch
+# Enflick 推出针对亲密联系人的移动消息应用程序，Touch 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/05/enflick-launches-mobile-messaging-app-for-close-contacts-touch/>
 

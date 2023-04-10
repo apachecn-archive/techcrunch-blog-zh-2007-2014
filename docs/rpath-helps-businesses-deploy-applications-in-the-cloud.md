@@ -1,4 +1,4 @@
-# rPath 帮助企业在云端部署应用程序| TechCrunch
+# rPath 帮助企业在云端部署应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/25/rpath-helps-businesses-deploy-applications-in-the-cloud/>
 

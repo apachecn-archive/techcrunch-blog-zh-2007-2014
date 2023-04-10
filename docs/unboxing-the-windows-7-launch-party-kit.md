@@ -1,4 +1,4 @@
-# 拆箱 Windows 7 发布派对套件| TechCrunch
+# 拆箱 Windows 7 发布派对套件
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/09/unboxing-the-windows-7-launch-party-kit/>
 

@@ -1,4 +1,4 @@
-# SendGrid 发送 75 亿封电子邮件，让前甲骨文高管担任首席执行官| TechCrunch
+# SendGrid 发送 75 亿封电子邮件，让前甲骨文高管担任首席执行官
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/09/sendgrid-sends-7-5-billion-emails-brings-former-oracle-exec-as-ceo/>
 

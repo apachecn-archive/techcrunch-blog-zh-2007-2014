@@ -1,4 +1,4 @@
-# 来源:谷歌正在收购 EtherPad | TechCrunch 背后的公司 AppJet
+# 来源:谷歌正在收购 EtherPad  背后的公司 AppJet
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/04/google-acquires-appjet-etherpad/>
 

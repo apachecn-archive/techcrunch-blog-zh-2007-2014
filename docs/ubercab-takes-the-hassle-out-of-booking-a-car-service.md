@@ -1,4 +1,4 @@
-# UberCab 免去了预约汽车服务的麻烦| TechCrunch
+# UberCab 免去了预约汽车服务的麻烦
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/05/ubercab-takes-the-hassle-out-of-booking-a-car-service/>
 

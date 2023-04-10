@@ -1,4 +1,4 @@
-# Betaworks 支持的 Blend.io 让音乐家无需放弃 Ableton | TechCrunch 就能进行合作
+# Betaworks 支持的 Blend.io 让音乐家无需放弃 Ableton  就能进行合作
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/24/betaworks-backed-blend-io-lets-musicians-collaborate-without-ever-abandoning-ableton/>
 

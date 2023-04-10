@@ -1,4 +1,4 @@
-# 语音邮件前三思| TechCrunch
+# 语音邮件前三思
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/05/think-before-you-voicemail/>
 

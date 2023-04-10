@@ -1,4 +1,4 @@
-# KickApps 通过视频、格式| TechCrunch 让 iPhone 变得友好
+# KickApps 通过视频、格式 让 iPhone 变得友好
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/kickapps-gets-iphone-friendly-with-video-formatting/>
 

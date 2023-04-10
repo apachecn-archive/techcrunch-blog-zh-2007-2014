@@ -1,4 +1,4 @@
-# 安全专家布莱恩·克雷布斯(Brian Krebs)在俄罗斯网络犯罪网站| TechCrunch 上发帖后面临现实生活中的痛击
+# 安全专家布莱恩·克雷布斯(Brian Krebs)在俄罗斯网络犯罪网站 上发帖后面临现实生活中的痛击
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/18/security-expert-brian-krebs-faced-a-real-life-swating-after-posting-about-russian-cybercrime-site/>
 

@@ -1,4 +1,4 @@
-# Twitter 正式发布其 API 1.1 版，开发者必须在 2013 年 3 月 5 日之前切换| TechCrunch
+# Twitter 正式发布其 API 1.1 版，开发者必须在 2013 年 3 月 5 日之前切换
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/05/twitter-officially-launches-v1-1-of-its-api-developers-have-until-march-5-2013-to-switch/>
 

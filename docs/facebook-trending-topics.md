@@ -1,4 +1,4 @@
-# 在手机测试之后，脸书在桌面新闻订阅| TechCrunch 上尝试了一个“趋势”栏目
+# 在手机测试之后，脸书在桌面新闻订阅 上尝试了一个“趋势”栏目
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/30/facebook-trending-topics/>
 

@@ -1,4 +1,4 @@
-# Google Apps 用户现在可以在 Google+ | TechCrunch 上闲逛(以及做更多的事情)
+# Google Apps 用户现在可以在 Google+  上闲逛(以及做更多的事情)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/27/google-apps-users-can-now-hangout-and-more-on-google/>
 

@@ -1,4 +1,4 @@
-# 亚马逊收购了社交阅读网站 Goodreads，这让该公司比苹果| TechCrunch 更具社会优势
+# 亚马逊收购了社交阅读网站 Goodreads，这让该公司比苹果 更具社会优势
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/28/amazon-acquires-social-reading-site-goodreads/>
 

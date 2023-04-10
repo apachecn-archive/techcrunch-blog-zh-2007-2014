@@ -1,4 +1,4 @@
-# Cr-48 上路:Chrome 笔记本既闪亮又黯淡| TechCrunch
+# Cr-48 上路:Chrome 笔记本既闪亮又黯淡
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/12/cr-48-chrome-notebook-review/>
 

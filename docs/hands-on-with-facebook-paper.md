@@ -1,4 +1,4 @@
-# 脸书造纸公司| TechCrunch
+# 脸书造纸公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/04/hands-on-with-facebook-paper/>
 

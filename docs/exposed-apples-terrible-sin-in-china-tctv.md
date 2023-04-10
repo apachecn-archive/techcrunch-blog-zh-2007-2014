@@ -1,4 +1,4 @@
-# 曝光:苹果在中国的可怕罪恶(TCTV) | TechCrunch
+# 曝光:苹果在中国的可怕罪恶(TCTV) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/31/exposed-apples-terrible-sin-in-china-tctv/>
 

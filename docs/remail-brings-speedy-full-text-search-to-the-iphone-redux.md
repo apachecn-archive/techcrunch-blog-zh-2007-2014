@@ -1,4 +1,4 @@
-# reMail 2.0 Nails iPhone 全文搜索| TechCrunch
+# reMail 2.0 Nails iPhone 全文搜索
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/13/remail-brings-speedy-full-text-search-to-the-iphone-redux/>
 

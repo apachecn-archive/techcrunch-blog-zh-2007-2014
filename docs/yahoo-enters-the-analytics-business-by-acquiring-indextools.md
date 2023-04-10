@@ -1,4 +1,4 @@
-# 雅虎通过收购 IndexTools | TechCrunch 进入分析业务
+# 雅虎通过收购 IndexTools  进入分析业务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/09/yahoo-enters-the-analytics-business-by-acquiring-indextools/>
 

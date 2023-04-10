@@ -1,4 +1,4 @@
-# 前 Slingshot 高管(和 MySpace 联合创始人)为社交商务初创公司 BeachMint | TechCrunch 筹集了 500 万美元
+# 前 Slingshot 高管(和 MySpace 联合创始人)为社交商务初创公司 BeachMint  筹集了 500 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/14/ex-slingshot-execs-raise-5-million-for-social-commerce-startup-beachmint/>
 

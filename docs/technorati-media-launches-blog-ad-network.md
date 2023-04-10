@@ -1,4 +1,4 @@
-# Technorati 推出博客广告网络，Technorati Media | TechCrunch
+# Technorati 推出博客广告网络，Technorati Media 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/17/technorati-media-launches-blog-ad-network/>
 

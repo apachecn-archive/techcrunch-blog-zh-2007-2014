@@ -1,4 +1,4 @@
-# 不知道怎么编码？使用 Scroll Kit 构建您的下一个网站| TechCrunch
+# 不知道怎么编码？使用 Scroll Kit 构建您的下一个网站
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/05/dont-know-how-to-code-use-scroll-kit-to-build-your-next-website/>
 

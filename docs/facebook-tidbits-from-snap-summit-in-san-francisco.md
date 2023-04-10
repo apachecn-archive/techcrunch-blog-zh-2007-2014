@@ -1,4 +1,4 @@
-# 旧金山 Snap 峰会的脸书趣闻| TechCrunch
+# 旧金山 Snap 峰会的脸书趣闻
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/25/facebook-tidbits-from-snap-summit-in-san-francisco/>
 

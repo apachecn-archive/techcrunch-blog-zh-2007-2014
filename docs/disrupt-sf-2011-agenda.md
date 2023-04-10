@@ -1,4 +1,4 @@
-# 扰乱 SF 2011:完整议程| TechCrunch
+# 扰乱 SF 2011:完整议程
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/disrupt-sf-2011-agenda/>
 

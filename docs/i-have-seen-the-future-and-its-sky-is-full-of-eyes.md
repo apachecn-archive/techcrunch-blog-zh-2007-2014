@@ -1,4 +1,4 @@
-# 我已经看到了未来，它的天空充满了眼睛| TechCrunch
+# 我已经看到了未来，它的天空充满了眼睛
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/18/i-have-seen-the-future-and-its-sky-is-full-of-eyes/>
 

@@ -1,4 +1,4 @@
-# 如何用 Windows | TechCrunch 破解你的 iPhone 的简单视频
+# 如何用 Windows  破解你的 iPhone 的简单视频
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/easy-peasy-video-on-how-to-hack-your-iphone-with-windows/>
 

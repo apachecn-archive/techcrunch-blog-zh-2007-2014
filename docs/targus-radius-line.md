@@ -1,4 +1,4 @@
-# 塔格斯半径线| TechCrunch
+# 塔格斯半径线
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/targus-radius-line/>
 

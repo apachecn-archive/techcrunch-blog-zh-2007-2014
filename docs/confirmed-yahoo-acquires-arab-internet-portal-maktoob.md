@@ -1,4 +1,4 @@
-# 证实:雅虎收购阿拉伯互联网门户网站 Maktoob | TechCrunch
+# 证实:雅虎收购阿拉伯互联网门户网站 Maktoob 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/25/confirmed-yahoo-acquires-arab-internet-portal-maktoob/>
 

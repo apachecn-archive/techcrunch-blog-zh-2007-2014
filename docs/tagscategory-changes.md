@@ -1,4 +1,4 @@
-# 标签/类别变更| TechCrunch
+# 标签/类别变更
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/tagscategory-changes/>
 

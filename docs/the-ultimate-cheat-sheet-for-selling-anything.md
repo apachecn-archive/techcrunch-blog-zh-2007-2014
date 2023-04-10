@@ -1,4 +1,4 @@
-# 销售任何东西的终极秘籍| TechCrunch
+# 销售任何东西的终极秘籍
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/21/the-ultimate-cheat-sheet-for-selling-anything/>
 

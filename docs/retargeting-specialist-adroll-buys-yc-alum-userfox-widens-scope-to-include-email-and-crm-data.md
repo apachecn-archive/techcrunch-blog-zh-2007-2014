@@ -1,4 +1,4 @@
-# 重新定位专家 AdRoll 收购 YC 明矾 Userfox，将电子邮件和 CRM 数据添加到其网络| TechCrunch
+# 重新定位专家 AdRoll 收购 YC 明矾 Userfox，将电子邮件和 CRM 数据添加到其网络
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/retargeting-specialist-adroll-buys-yc-alum-userfox-widens-scope-to-include-email-and-crm-data/>
 

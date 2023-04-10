@@ -1,4 +1,4 @@
-# Dropbox 获得了所有人都认为它拥有的领域:Dropbox.com | TechCrunch
+# Dropbox 获得了所有人都认为它拥有的领域:Dropbox.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/13/dropbox-acquires-the-domain-everyone-thought-it-had-dropbox-com/>
 

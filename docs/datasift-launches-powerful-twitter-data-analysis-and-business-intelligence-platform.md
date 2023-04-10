@@ -1,4 +1,4 @@
-# DataSift 推出强大的 Twitter 数据分析和商业智能平台| TechCrunch
+# DataSift 推出强大的 Twitter 数据分析和商业智能平台
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/datasift-launches-powerful-twitter-data-analysis-and-business-intelligence-platform/>
 

@@ -1,4 +1,4 @@
-# Rapportive 宣布被 LinkedIn 收购，(基本上)确认了 1500 万美元的价格| TechCrunch
+# Rapportive 宣布被 LinkedIn 收购，(基本上)确认了 1500 万美元的价格
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/22/rapportive-linkedin-acquisition/>
 

@@ -1,4 +1,4 @@
-# 问风投:现在就向 True Ventures 和 Shasta Ventures | TechCrunch 提交你的问题
+# 问风投:现在就向 True Ventures 和 Shasta Ventures  提交你的问题
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/17/ask-a-vc-submit-your-questions-now-for-true-ventures-and-shasta-ventures/>
 

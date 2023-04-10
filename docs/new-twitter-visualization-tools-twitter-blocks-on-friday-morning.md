@@ -1,4 +1,4 @@
-# 新的 Twitter 可视化工具即将推出:首先是 Twitter Blocks | TechCrunch
+# 新的 Twitter 可视化工具即将推出:首先是 Twitter Blocks 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com/2007/08/30/new-twitter-visualization-tools-twitter-blocks-on-friday-morning/>
 

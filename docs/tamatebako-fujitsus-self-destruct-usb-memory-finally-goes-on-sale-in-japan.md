@@ -1,4 +1,4 @@
-# Tamatebako:富士通的自毁 USB 存储器终于上市了(在日本)| TechCrunch
+# Tamatebako:富士通的自毁 USB 存储器终于上市了(在日本)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/29/tamatebako-fujitsus-self-destruct-usb-memory-finally-goes-on-sale-in-japan/>
 

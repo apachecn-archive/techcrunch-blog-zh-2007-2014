@@ -1,4 +1,4 @@
-# 为什么天使投资者不赚钱…以及给那些无论如何都要成为天使的人的建议| TechCrunch
+# 为什么天使投资者不赚钱…以及给那些无论如何都要成为天使的人的建议
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/30/why-angel-investors-dont-make-money-and-advice-for-people-who-are-going-to-become-angels-anyway/>
 

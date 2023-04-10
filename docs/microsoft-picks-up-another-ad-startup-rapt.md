@@ -1,4 +1,4 @@
-# 微软收购另一家广告初创公司:Rapt | TechCrunch
+# 微软收购另一家广告初创公司:Rapt 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/14/microsoft-picks-up-another-ad-startup-rapt/>
 

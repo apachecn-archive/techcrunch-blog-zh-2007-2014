@@ -1,4 +1,4 @@
-# 先睹为快:超级马里奥银河 2 | TechCrunch
+# 先睹为快:超级马里奥银河 2 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/28/sneak-peek-super-mario-galaxy-2/>
 

@@ -1,4 +1,4 @@
-# 谷歌的 Chrome 网上商店| TechCrunch 的销量很少
+# 谷歌的 Chrome 网上商店 的销量很少
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/01/04/sales-have-slowed-to-a-trickle-on-googles-chrome-web-store/>
 

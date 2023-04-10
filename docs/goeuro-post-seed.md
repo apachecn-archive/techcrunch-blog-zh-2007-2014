@@ -1,4 +1,4 @@
-# GoEuro 从 Lakestar 获得“数百万”充值，为其旅程规划平台| TechCrunch 增加更多市场
+# GoEuro 从 Lakestar 获得“数百万”充值，为其旅程规划平台 增加更多市场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/23/goeuro-post-seed/>
 

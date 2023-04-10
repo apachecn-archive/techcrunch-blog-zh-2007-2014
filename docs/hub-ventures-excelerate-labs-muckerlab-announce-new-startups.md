@@ -1,4 +1,4 @@
-# Hub Ventures、Excelerate Labs、MuckerLab 和 DreamIt 宣布新的创业公司| TechCrunch
+# Hub Ventures、Excelerate Labs、MuckerLab 和 DreamIt 宣布新的创业公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/hub-ventures-excelerate-labs-muckerlab-announce-new-startups/>
 

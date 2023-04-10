@@ -1,4 +1,4 @@
-# Radio Shack 期待苹果商店推出 inspirado | TechCrunch
+# Radio Shack 期待苹果商店推出 inspirado 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/18/radio-shack-looks-to-apple-stores-for-inspirado/>
 

@@ -1,4 +1,4 @@
-# 谷歌对脸书的回应:“Maka-Maka”| TechCrunch
+# 谷歌对脸书的回应:“Maka-Maka”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/29/googles-response-to-facebook-maka-maka/>
 

@@ -1,4 +1,4 @@
-# 规模经济即服务| TechCrunch
+# 规模经济即服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/27/economies-of-scale-as-a-service/>
 

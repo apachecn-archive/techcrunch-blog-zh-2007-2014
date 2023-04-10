@@ -1,4 +1,4 @@
-# WeedMaps 以 420 万美元低价收购 Marijuana.com | TechCrunch
+# WeedMaps 以 420 万美元低价收购 Marijuana.com 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/28/weedmaps-acquires-marijuana-com-for-a-kushy-4-20-million/>
 

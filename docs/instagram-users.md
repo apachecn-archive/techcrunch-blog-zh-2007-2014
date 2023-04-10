@@ -1,4 +1,4 @@
-# Instagram 在不到一周的时间里捕获了 10 万名手机照片爱好者| TechCrunch
+# Instagram 在不到一周的时间里捕获了 10 万名手机照片爱好者
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/13/instagram-users/>
 

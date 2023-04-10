@@ -1,4 +1,4 @@
-# Kensington 推出 iPod dock，带有扩展电池、时钟和天气应用程序、笔记本套和支架组合| TechCrunch
+# Kensington 推出 iPod dock，带有扩展电池、时钟和天气应用程序、笔记本套和支架组合
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/kensington-rolls-out-ipod-dock-with-extended-battery-clock-and-weather-app-convertible-notebook-sleeve-and-stand-combo/>
 

@@ -1,4 +1,4 @@
-# 英特尔向 Cloudera 注资 7.4 亿美元，换取 18%的股份| TechCrunch
+# 英特尔向 Cloudera 注资 7.4 亿美元，换取 18%的股份
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/31/intel-pours-740m-into-cloudera-in-exchange-for-an-18-stake/embed/>
 

@@ -1,4 +1,4 @@
-# 通过收购摩托罗拉，谷歌现在可以在 Android | TechCrunch 上为所欲为了
+# 通过收购摩托罗拉，谷歌现在可以在 Android  上为所欲为了
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/15/by-buying-motorola-google-can-now-do-whatever-the-heck-they-want-with-android/>
 

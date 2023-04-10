@@ -1,4 +1,4 @@
-# 使用 iStik | TechCrunch 将您的 iPod 戴上，就像佩戴姓名牌一样
+# 使用 iStik  将您的 iPod 戴上，就像佩戴姓名牌一样
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/22/wear-your-ipod-like-a-name-badge-with-istik/>
 

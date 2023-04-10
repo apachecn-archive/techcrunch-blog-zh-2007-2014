@@ -1,4 +1,4 @@
-# Android 现在每天有 55 万次激活| TechCrunch
+# Android 现在每天有 55 万次激活
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/14/android-now-seeing-550000-activations-per-day/>
 

@@ -1,4 +1,4 @@
-# Flint 退出测试版，用其基于摄像头的移动支付应用| TechCrunch 挑战 Square
+# Flint 退出测试版，用其基于摄像头的移动支付应用 挑战 Square
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/16/flint-exits-beta-to-take-on-square-with-its-camera-based-mobile-payment-app/>
 

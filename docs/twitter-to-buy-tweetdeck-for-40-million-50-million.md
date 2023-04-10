@@ -1,4 +1,4 @@
-# Twitter 将以 4000 万至 5000 万美元收购 TweetDeck | TechCrunch
+# Twitter 将以 4000 万至 5000 万美元收购 TweetDeck 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/05/02/twitter-to-buy-tweetdeck-for-40-million-50-million/>
 

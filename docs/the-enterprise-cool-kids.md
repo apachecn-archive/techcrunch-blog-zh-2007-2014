@@ -1,4 +1,4 @@
-# 企业酷儿| TechCrunch
+# 企业酷儿
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/27/the-enterprise-cool-kids/>
 

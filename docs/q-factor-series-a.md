@@ -1,4 +1,4 @@
-# Q Factor 筹集了 650 万美元的 A 轮融资，通过消除等待来解决移动设备上的富媒体交付问题| TechCrunch
+# Q Factor 筹集了 650 万美元的 A 轮融资，通过消除等待来解决移动设备上的富媒体交付问题
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/29/q-factor-series-a/>
 

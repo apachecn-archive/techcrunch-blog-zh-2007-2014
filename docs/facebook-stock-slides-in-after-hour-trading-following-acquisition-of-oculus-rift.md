@@ -1,4 +1,4 @@
-# 收购 Oculus Rift | TechCrunch 后，脸书股票在盘后交易中下滑
+# 收购 Oculus Rift  后，脸书股票在盘后交易中下滑
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/25/facebook-stock-slides-in-after-hour-trading-following-acquisition-of-oculus-rift/>
 

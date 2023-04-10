@@ -1,4 +1,4 @@
-# 来自英国、葡萄牙和奥地利的学生团队赢得微软 2013 年创新杯，每人获得 5 万美元| TechCrunch
+# 来自英国、葡萄牙和奥地利的学生团队赢得微软 2013 年创新杯，每人获得 5 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/student-teams-from-the-uk-portugal-and-austria-win-microsofts-imagine-cup-2013-and-50k-each/>
 

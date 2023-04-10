@@ -1,4 +1,4 @@
-# 沃尔玛推出 Shopycat，这是一款基于脸书| TechCrunch 的社交礼品搜索工具
+# 沃尔玛推出 Shopycat，这是一款基于脸书 的社交礼品搜索工具
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/walmart-launches-shopycat-a-social-gift-finder-built-on-top-of-facebook/>
 

@@ -1,4 +1,4 @@
-# 派拉蒙的最后一部 HD DVD 电影将于下周上映；Blu-ray | TechCrunch 上将会有血
+# 派拉蒙的最后一部 HD DVD 电影将于下周上映；Blu-ray  上将会有血
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/29/paramounts-last-hd-dvd-releases-due-next-week-there-will-be-blood-on-blu-ray/>
 

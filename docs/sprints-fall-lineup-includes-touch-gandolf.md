@@ -1,4 +1,4 @@
-# Sprint 的秋季阵容包括 Touch、Gandolf | TechCrunch
+# Sprint 的秋季阵容包括 Touch、Gandolf 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/sprints-fall-lineup-includes-touch-gandolf/>
 

@@ -1,4 +1,4 @@
-# Maide 将你的 iPad 变成 3D 控制器| TechCrunch
+# Maide 将你的 iPad 变成 3D 控制器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/12/maide-turns-your-ipad-into-a-3d-controller/>
 

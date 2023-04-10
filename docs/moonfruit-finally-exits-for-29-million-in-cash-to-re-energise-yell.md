@@ -1,4 +1,4 @@
-# Moonfruit 最终以 2900 万美元的现金退出，重振 Yell | TechCrunch
+# Moonfruit 最终以 2900 万美元的现金退出，重振 Yell 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/moonfruit-finally-exits-for-29-million-in-cash-to-re-energise-yell/>
 

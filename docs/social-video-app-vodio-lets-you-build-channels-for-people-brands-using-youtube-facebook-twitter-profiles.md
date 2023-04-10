@@ -1,4 +1,4 @@
-# 社交视频应用 Vodio 让你使用 YouTube、脸书和 Twitter 个人资料| TechCrunch 为人们和品牌建立渠道
+# 社交视频应用 Vodio 让你使用 YouTube、脸书和 Twitter 个人资料 为人们和品牌建立渠道
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/14/social-video-app-vodio-lets-you-build-channels-for-people-brands-using-youtube-facebook-twitter-profiles/>
 

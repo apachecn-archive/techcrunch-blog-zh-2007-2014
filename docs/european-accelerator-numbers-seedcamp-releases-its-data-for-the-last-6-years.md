@@ -1,4 +1,4 @@
-# 欧洲加速器数据— Seedcamp 发布其过去 6 年的数据| TechCrunch
+# 欧洲加速器数据— Seedcamp 发布其过去 6 年的数据
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/02/european-accelerator-numbers-seedcamp-releases-its-data-for-the-last-6-years/>
 

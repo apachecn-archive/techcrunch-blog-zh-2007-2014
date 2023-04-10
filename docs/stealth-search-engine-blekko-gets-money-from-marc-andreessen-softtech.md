@@ -1,4 +1,4 @@
-# 隐形搜索引擎 Blekko 从马克·安德森、SoftTech | TechCrunch 获得资金
+# 隐形搜索引擎 Blekko 从马克·安德森、SoftTech  获得资金
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/14/stealth-search-engine-blekko-gets-money-from-marc-andreessen-softtech/>
 

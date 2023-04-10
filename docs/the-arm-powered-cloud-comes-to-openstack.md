@@ -1,4 +1,4 @@
-# ARM 驱动的云来到 OpenStack | TechCrunch
+# ARM 驱动的云来到 OpenStack 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/18/the-arm-powered-cloud-comes-to-openstack/>
 

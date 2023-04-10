@@ -1,4 +1,4 @@
-# SMC 增加了新的 802.11n 设备草案| TechCrunch
+# SMC 增加了新的 802.11n 设备草案
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/smc-adds-new-draft-80211n-devices/>
 

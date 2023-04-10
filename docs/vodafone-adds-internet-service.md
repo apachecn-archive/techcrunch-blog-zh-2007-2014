@@ -1,4 +1,4 @@
-# 沃达丰增加互联网服务| TechCrunch
+# 沃达丰增加互联网服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/vodafone-adds-internet-service/>
 

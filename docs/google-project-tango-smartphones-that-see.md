@@ -1,4 +1,4 @@
-# 现在是你的智能手机的下一个技巧:看和理解，由 Google | TechCrunch 提供
+# 现在是你的智能手机的下一个技巧:看和理解，由 Google  提供
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/20/google-project-tango-smartphones-that-see/>
 

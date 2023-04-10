@@ -1,4 +1,4 @@
-# Intuit 收购个人理财应用 Cha-Ching | TechCrunch
+# Intuit 收购个人理财应用 Cha-Ching 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/10/intuit-buys-personal-finance-management-app-cha-ching/>
 

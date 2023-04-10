@@ -1,4 +1,4 @@
-# 每周好:科里·布克在公共服务，推特，和...燃烧的建筑| TechCrunch
+# 每周好:科里·布克在公共服务，推特，和...燃烧的建筑
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/23/the-weekly-good-cory-booker-on-public-service-twitter-and-burning-buildings/>
 

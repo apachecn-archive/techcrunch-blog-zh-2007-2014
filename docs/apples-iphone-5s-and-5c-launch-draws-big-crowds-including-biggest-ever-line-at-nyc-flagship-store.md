@@ -1,4 +1,4 @@
-# 苹果 iPhone 5s 和 5c 的发布会吸引了大量人群，包括纽约旗舰店| TechCrunch 有史以来最大的队伍
+# 苹果 iPhone 5s 和 5c 的发布会吸引了大量人群，包括纽约旗舰店 有史以来最大的队伍
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/20/apples-iphone-5s-and-5c-launch-draws-big-crowds-including-biggest-ever-line-at-nyc-flagship-store/>
 

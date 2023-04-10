@@ -1,4 +1,4 @@
-# comScore:在美国移动市场，三星、安卓高居榜首；应用超越网页浏览| TechCrunch
+# comScore:在美国移动市场，三星、安卓高居榜首；应用超越网页浏览
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/02/comscore-in-u-s-mobile-market-samsung-android-top-the-charts-apps-overtake-web-browsing/>
 

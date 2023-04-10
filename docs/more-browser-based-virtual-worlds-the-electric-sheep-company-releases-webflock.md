@@ -1,4 +1,4 @@
-# 更多基于浏览器的虚拟世界:电动绵羊公司发布 WebFlock | TechCrunch
+# 更多基于浏览器的虚拟世界:电动绵羊公司发布 WebFlock 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/17/more-browser-based-virtual-worlds-the-electric-sheep-company-releases-webflock/>
 

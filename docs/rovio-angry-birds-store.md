@@ -1,4 +1,4 @@
-# Rovio 在芬兰开设了全球首家愤怒的小鸟商店| TechCrunch
+# Rovio 在芬兰开设了全球首家愤怒的小鸟商店
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/11/rovio-angry-birds-store/>
 

@@ -1,4 +1,4 @@
-# Twitter 开始推出贡献者功能，Salesforce 激活| TechCrunch
+# Twitter 开始推出贡献者功能，Salesforce 激活
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/23/twitter-contributors-salesforce/>
 

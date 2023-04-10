@@ -1,4 +1,4 @@
-# Box.net 筹集 1500 万美元在云中挑战微软 SharePoint | TechCrunch
+# Box.net 筹集 1500 万美元在云中挑战微软 SharePoint 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/07/box-net-raises-15-million-to-take-on-microsoft-sharepoint-in-the-cloud/>
 

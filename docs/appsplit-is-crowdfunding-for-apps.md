@@ -1,4 +1,4 @@
-# Appsplit 正在为应用程序| TechCrunch 进行众筹
+# Appsplit 正在为应用程序 进行众筹
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/03/appsplit-is-crowdfunding-for-apps/>
 

@@ -1,4 +1,4 @@
-# 支付初创公司 Clinkle 裁员四分之一[更新:除了已经离职的 30 多人外，又有新的裁员] | TechCrunch
+# 支付初创公司 Clinkle 裁员四分之一[更新:除了已经离职的 30 多人外，又有新的裁员] 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/09/payments-startup-clinkle-lays-off-a-quarter-of-its-staff/>
 

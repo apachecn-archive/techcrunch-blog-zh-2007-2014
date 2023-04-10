@@ -1,4 +1,4 @@
-# 最新疯狂的 Instagram 统计:1.5 亿张照片，每秒 15 张，80%被过滤| TechCrunch
+# 最新疯狂的 Instagram 统计:1.5 亿张照片，每秒 15 张，80%被过滤
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/03/instagram-150-million/>
 

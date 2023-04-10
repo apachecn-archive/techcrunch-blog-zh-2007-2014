@@ -1,4 +1,4 @@
-# 这就是我们告诉过你的| TechCrunch 的脸书“人人按钮”
+# 这就是我们告诉过你的 的脸书“人人按钮”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/24/facebook-brings-privacy-controls-to-publisher/>
 

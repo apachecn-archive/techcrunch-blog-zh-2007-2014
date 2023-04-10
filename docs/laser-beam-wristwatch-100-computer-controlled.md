@@ -1,4 +1,4 @@
-# 激光束腕表:100%电脑控制| TechCrunch
+# 激光束腕表:100%电脑控制
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/laser-beam-wristwatch-100-computer-controlled/>
 

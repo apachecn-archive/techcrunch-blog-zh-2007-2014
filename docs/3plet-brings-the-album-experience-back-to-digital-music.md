@@ -1,4 +1,4 @@
-# 3plet 将专辑体验带回数字音乐| TechCrunch
+# 3plet 将专辑体验带回数字音乐
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/20/3plet-brings-the-album-experience-back-to-digital-music/>
 

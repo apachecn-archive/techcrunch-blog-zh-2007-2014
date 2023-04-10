@@ -1,4 +1,4 @@
-# CloudBees 筹集了 1120 万美元的 C 轮融资，由威瑞森风险投资公司牵头，以扩大其以 Java 为中心的企业 PaaS | TechCrunch
+# CloudBees 筹集了 1120 万美元的 C 轮融资，由威瑞森风险投资公司牵头，以扩大其以 Java 为中心的企业 PaaS 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/05/cloudbees-raises-11-2m-series-c-led-by-verizon-ventures-to-expand-its-java-centric-enterprise-paas/>
 

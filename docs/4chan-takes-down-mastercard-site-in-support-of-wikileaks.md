@@ -1,4 +1,4 @@
-# 4Chan 关闭万事达网站支持维基解密| TechCrunch
+# 4Chan 关闭万事达网站支持维基解密
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/08/4chan-takes-down-mastercard-site-in-support-of-wikileaks/>
 

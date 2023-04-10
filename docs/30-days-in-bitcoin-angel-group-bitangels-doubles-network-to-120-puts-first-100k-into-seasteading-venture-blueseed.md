@@ -1,4 +1,4 @@
-# 30 天内，比特币天使集团 BitAngels 将网络扩大了一倍，达到 120 人，向 Seasteading Venture，Blueseed | TechCrunch 投入了第一笔 10 万美元
+# 30 天内，比特币天使集团 BitAngels 将网络扩大了一倍，达到 120 人，向 Seasteading Venture，Blueseed  投入了第一笔 10 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/19/30-days-in-bitcoin-angel-group-bitangels-doubles-network-to-120-puts-first-100k-into-seasteading-venture-blueseed/>
 

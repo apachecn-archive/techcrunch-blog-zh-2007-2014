@@ -1,4 +1,4 @@
-# 东芝 T401 DAP 有 Wi-Fi | TechCrunch
+# 东芝 T401 DAP 有 Wi-Fi 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/toshiba-t401-dap-has-the-wi-fi/>
 

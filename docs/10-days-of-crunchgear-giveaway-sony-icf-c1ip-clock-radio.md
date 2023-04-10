@@ -1,4 +1,4 @@
-# 10 天的 CrunchGear 赠品:索尼 ICF-C1iP 时钟收音机| TechCrunch
+# 10 天的 CrunchGear 赠品:索尼 ICF-C1iP 时钟收音机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/18/10-days-of-crunchgear-giveaway-sony-icf-c1ip-clock-radio/>
 

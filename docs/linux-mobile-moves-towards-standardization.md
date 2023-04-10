@@ -1,4 +1,4 @@
-# Linux Mobile 走向标准化| TechCrunch
+# Linux Mobile 走向标准化
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/linux-mobile-moves-towards-standardization/>
 

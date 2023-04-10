@@ -1,4 +1,4 @@
-# Ogmento 第一家获得风投资金的 AR 游戏初创公司| TechCrunch
+# Ogmento 第一家获得风投资金的 AR 游戏初创公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/26/ogmento-first-ar-gaming-startup-to-win-vc-funding/>
 

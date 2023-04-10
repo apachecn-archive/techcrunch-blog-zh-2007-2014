@@ -1,4 +1,4 @@
-# LG G Flex | TechCrunch 一周
+# LG G Flex  一周
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/14/a-week-with-the-lg-g-flex/>
 

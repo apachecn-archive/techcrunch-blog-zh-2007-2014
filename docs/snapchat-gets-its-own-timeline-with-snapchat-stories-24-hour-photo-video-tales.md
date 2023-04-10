@@ -1,4 +1,4 @@
-# Snapchat 拥有自己的时间线，包含 Snapchat 故事、24 小时照片和视频故事| TechCrunch
+# Snapchat 拥有自己的时间线，包含 Snapchat 故事、24 小时照片和视频故事
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/03/snapchat-gets-its-own-timeline-with-snapchat-stories-24-hour-photo-video-tales/>
 

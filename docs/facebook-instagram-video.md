@@ -1,4 +1,4 @@
-# Instagram 推出 15 秒视频分享功能，有 13 个滤镜和编辑| TechCrunch
+# Instagram 推出 15 秒视频分享功能，有 13 个滤镜和编辑
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/20/facebook-instagram-video/>
 

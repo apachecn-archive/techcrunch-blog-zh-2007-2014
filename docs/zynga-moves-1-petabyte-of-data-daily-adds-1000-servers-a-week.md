@@ -1,4 +1,4 @@
-# Zynga 每天移动 1pb 的数据；每周增加 1，000 台服务器| TechCrunch
+# Zynga 每天移动 1pb 的数据；每周增加 1，000 台服务器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/22/zynga-moves-1-petabyte-of-data-daily-adds-1000-servers-a-week/>
 

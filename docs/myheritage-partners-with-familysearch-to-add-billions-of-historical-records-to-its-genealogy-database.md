@@ -1,4 +1,4 @@
-# MyHeritage 与 FamilySearch 合作，将数十亿条历史记录添加到其家谱数据库| TechCrunch
+# MyHeritage 与 FamilySearch 合作，将数十亿条历史记录添加到其家谱数据库
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/15/myheritage-partners-with-familysearch-to-add-billions-of-historical-records-to-its-genealogy-database/>
 

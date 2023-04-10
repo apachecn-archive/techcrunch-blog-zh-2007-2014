@@ -1,4 +1,4 @@
-# Palm 向“公益事业”| TechCrunch 赠送了 500 部 Pre Plus 手机和 15 万美元的服务
+# Palm 向“公益事业” 赠送了 500 部 Pre Plus 手机和 15 万美元的服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/06/palm-gives-away-500-pre-plus-phones-and-150000-of-service-to-good-causes/>
 

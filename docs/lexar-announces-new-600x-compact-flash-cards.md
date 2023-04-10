@@ -1,4 +1,4 @@
-# Lexar 发布新的 600x 紧凑型闪存卡| TechCrunch
+# Lexar 发布新的 600x 紧凑型闪存卡
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/21/lexar-announces-new-600x-compact-flash-cards/>
 

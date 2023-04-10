@@ -1,4 +1,4 @@
-# 从网上发微博？九种不同的网络客户端| TechCrunch
+# 从网上发微博？九种不同的网络客户端
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/25/tweeting-from-the-web-nine-alternative-web-clients/>
 

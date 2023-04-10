@@ -1,4 +1,4 @@
-# 突发新闻:雅虎最终出售 Kelkoo | TechCrunch
+# 突发新闻:雅虎最终出售 Kelkoo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/21/yahoo-finally-sells-kelkoo-and-brings-cash-in/>
 

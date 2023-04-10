@@ -1,4 +1,4 @@
-# 为什么联邦通信委员会想要砸开 iPhone | TechCrunch
+# 为什么联邦通信委员会想要砸开 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/01/why-the-fcc-wants-to-smash-open-the-iphone/>
 

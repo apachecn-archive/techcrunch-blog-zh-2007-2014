@@ -1,4 +1,4 @@
-# Intuit 收购移动支付公司 AisleBuyer，将整合到 GoPayment、POS Solutions | TechCrunch
+# Intuit 收购移动支付公司 AisleBuyer，将整合到 GoPayment、POS Solutions 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/11/intuit-acquires-mobile-payments-company-aislebuyer-will-integrate-into-gopayment-pos-solutions/>
 

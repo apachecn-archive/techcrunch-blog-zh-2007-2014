@@ -1,4 +1,4 @@
-# 凯瑞之王计划如何用 Tweak | TechCrunch 颠覆设计行业
+# 凯瑞之王计划如何用 Tweak  颠覆设计行业
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/04/how-the-king-of-kerry-plans-to-disrupt-the-design-industry-with-tweak/>
 

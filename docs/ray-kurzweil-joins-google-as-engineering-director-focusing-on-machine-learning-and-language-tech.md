@@ -1,4 +1,4 @@
-# 雷·库兹韦尔加入谷歌，担任全职工程总监；将专注于机器学习、语言处理| TechCrunch
+# 雷·库兹韦尔加入谷歌，担任全职工程总监；将专注于机器学习、语言处理
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/14/ray-kurzweil-joins-google-as-engineering-director-focusing-on-machine-learning-and-language-tech/>
 

@@ -1,4 +1,4 @@
-# 苹果和大众正在开发 iCar | TechCrunch
+# 苹果和大众正在开发 iCar 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/apple-and-volkswagen-working-on-icar/>
 

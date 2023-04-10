@@ -1,4 +1,4 @@
-# 新的 Twitter 品牌页面，带有醒目的横幅和固定视频| TechCrunch
+# 新的 Twitter 品牌页面，带有醒目的横幅和固定视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/08/new-twitter-brand-pages/>
 

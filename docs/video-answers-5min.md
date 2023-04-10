@@ -1,4 +1,4 @@
-# 独家:Answers.com 从 5 分钟| TechCrunch 获得 20 万个视频答案
+# 独家:Answers.com 从 5 分钟 获得 20 万个视频答案
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/28/video-answers-5min/>
 

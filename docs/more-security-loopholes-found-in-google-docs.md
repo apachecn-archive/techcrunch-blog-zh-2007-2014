@@ -1,4 +1,4 @@
-# 谷歌文档| TechCrunch 发现更多安全漏洞
+# 谷歌文档 发现更多安全漏洞
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/26/more-security-loopholes-found-in-google-docs/>
 

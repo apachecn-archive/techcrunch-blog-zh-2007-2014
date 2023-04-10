@@ -1,4 +1,4 @@
-# 三洋承诺新投影仪 4000 小时免维护使用| TechCrunch
+# 三洋承诺新投影仪 4000 小时免维护使用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/28/sanyo-promises-4000-hours-of-maintenance-free-use-for-new-projector/>
 

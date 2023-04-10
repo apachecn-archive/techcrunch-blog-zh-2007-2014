@@ -1,4 +1,4 @@
-# 索尼 VAIO W 上网本评测| TechCrunch
+# 索尼 VAIO W 上网本评测
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/26/sony-vaio-w-netbook-reviewed/>
 

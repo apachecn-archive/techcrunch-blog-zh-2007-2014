@@ -1,4 +1,4 @@
-# 脸书再次转向 Twitter 寻求灵感，将@ Tagging 引入状态更新| TechCrunch
+# 脸书再次转向 Twitter 寻求灵感，将@ Tagging 引入状态更新
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/10/facebook-turns-to-twitter-for-inspiration-again-brings-tagging-to-status-updates/>
 

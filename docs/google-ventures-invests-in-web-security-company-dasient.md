@@ -1,4 +1,4 @@
-# 谷歌风投投资网络安全公司 Dasient | TechCrunch
+# 谷歌风投投资网络安全公司 Dasient 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/07/google-ventures-invests-in-web-security-company-dasient/>
 

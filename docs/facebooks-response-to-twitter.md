@@ -1,4 +1,4 @@
-# 脸书对 Twitter | TechCrunch 的回应
+# 脸书对 Twitter  的回应
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/facebooks-response-to-twitter/>
 

@@ -1,4 +1,4 @@
-# BMC 收购数据库自动化解决方案提供商 GridApp Systems | TechCrunch
+# BMC 收购数据库自动化解决方案提供商 GridApp Systems 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/03/bmc-gridapp-systems/>
 

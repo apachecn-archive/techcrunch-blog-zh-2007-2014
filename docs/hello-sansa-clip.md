@@ -1,4 +1,4 @@
-# 你好，珊莎剪辑| TechCrunch
+# 你好，珊莎剪辑
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/25/hello-sansa-clip/>
 

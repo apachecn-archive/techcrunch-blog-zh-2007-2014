@@ -1,4 +1,4 @@
-# Y Combinator S12 演示日第二批:认识 Instacart、Coco 控制器、Referly | TechCrunch
+# Y Combinator S12 演示日第二批:认识 Instacart、Coco 控制器、Referly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/21/y-combinator-second-batch/>
 

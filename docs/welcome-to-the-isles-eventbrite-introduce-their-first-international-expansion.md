@@ -1,4 +1,4 @@
-# Eventbrite 推出他们的首次国际扩张| TechCrunch
+# Eventbrite 推出他们的首次国际扩张
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/26/welcome-to-the-isles-eventbrite-introduce-their-first-international-expansion/>
 

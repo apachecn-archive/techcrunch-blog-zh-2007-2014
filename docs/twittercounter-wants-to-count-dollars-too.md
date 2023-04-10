@@ -1,4 +1,4 @@
-# TwitterCounter 也想数钱| TechCrunch
+# TwitterCounter 也想数钱
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/10/twittercounter-wants-to-count-dollars-too/>
 

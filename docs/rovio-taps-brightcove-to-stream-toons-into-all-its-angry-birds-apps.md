@@ -1,4 +1,4 @@
-# Rovio 利用 Brightcove 将动画导入其所有愤怒的小鸟应用| TechCrunch
+# Rovio 利用 Brightcove 将动画导入其所有愤怒的小鸟应用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/02/rovio-taps-brightcove-to-stream-toons-into-all-its-angry-birds-apps/>
 

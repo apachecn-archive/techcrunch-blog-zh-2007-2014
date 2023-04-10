@@ -1,4 +1,4 @@
-# SoundCloud 与 Getty Images Music 合作——用户可以“同步”授权曲目用于商业用途| TechCrunch
+# SoundCloud 与 Getty Images Music 合作——用户可以“同步”授权曲目用于商业用途
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/soundcloud-partners-with-getty-images-music-users-can-sync-license-their-tracks-for-commercial-use/>
 

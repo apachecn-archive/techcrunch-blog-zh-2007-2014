@@ -1,4 +1,4 @@
-# 官方 Nexus One 桌面坞站现已推出| TechCrunch
+# 官方 Nexus One 桌面坞站现已推出
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/28/official-nexus-one-desktop-dock-now-available/>
 

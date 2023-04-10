@@ -1,4 +1,4 @@
-# 42 层楼的 PDA:创业公司之间的人才大战需要一种新的方法。以下是为什么| TechCrunch
+# 42 层楼的 PDA:创业公司之间的人才大战需要一种新的方法。以下是为什么
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/27/42floors-pda-the-war-for-talent-among-startups-needs-a-new-approach-heres-why/>
 

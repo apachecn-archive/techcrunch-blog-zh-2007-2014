@@ -1,4 +1,4 @@
-# 为什么我们迫切需要一个新的(更好的)Google | TechCrunch
+# 为什么我们迫切需要一个新的(更好的)Google 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/01/01/why-we-desperately-need-a-new-and-better-google-2/>
 

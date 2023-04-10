@@ -1,4 +1,4 @@
-# 点评:让我们点击 Wii | TechCrunch
+# 点评:让我们点击 Wii 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/06/review-lets-tap-for-the-wii/>
 

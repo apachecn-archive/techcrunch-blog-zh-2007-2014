@@ -1,4 +1,4 @@
-# GoInstant 是不下载的浏览器共享| TechCrunch
+# GoInstant 是不下载的浏览器共享
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/goinstant-is-browser-sharing-with-no-downloads/>
 

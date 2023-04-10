@@ -1,4 +1,4 @@
-# 实时地图现在包括 Photosynth 链接| TechCrunch
+# 实时地图现在包括 Photosynth 链接
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/06/live-maps-now-includes-photosynth-links/>
 

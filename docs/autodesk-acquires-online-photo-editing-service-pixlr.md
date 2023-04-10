@@ -1,4 +1,4 @@
-# Autodesk 收购在线照片编辑服务 Pixlr | TechCrunch
+# Autodesk 收购在线照片编辑服务 Pixlr 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/19/autodesk-acquires-online-photo-editing-service-pixlr/>
 

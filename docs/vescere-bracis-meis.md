@@ -1,4 +1,4 @@
-# 保罗·卡尔(Paul Carr)的《新策略》(The New Gambit)想成为《经济学人》(The Economist)，但很有趣(而且仅限平板电脑！)| TechCrunch
+# 保罗·卡尔(Paul Carr)的《新策略》(The New Gambit)想成为《经济学人》(The Economist)，但很有趣(而且仅限平板电脑！)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/14/vescere-bracis-meis/>
 

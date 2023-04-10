@@ -1,4 +1,4 @@
-# Twitter 创始人支持一家新的创业公司:Lift | TechCrunch
+# Twitter 创始人支持一家新的创业公司:Lift 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/24/twitter-founders-put-their-weight-behind-a-new-startup-lift/>
 

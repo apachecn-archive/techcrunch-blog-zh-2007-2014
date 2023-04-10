@@ -1,4 +1,4 @@
-# 也许下载我:尼尔森| TechCrunch 称，受 2012 年 13 亿张数字唱片销量的推动，美国音乐市场增长了 3.1%
+# 也许下载我:尼尔森 称，受 2012 年 13 亿张数字唱片销量的推动，美国音乐市场增长了 3.1%
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/04/download-me-maybe-u-s-music-market-up-by-3-1-fuelled-by-1-3b-digital-track-sales/>
 

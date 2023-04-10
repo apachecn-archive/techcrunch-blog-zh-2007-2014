@@ -1,4 +1,4 @@
-# 谷歌申请。谷歌，。文档。YouTube 和。LOL 顶级域名| TechCrunch
+# 谷歌申请。谷歌，。文档。YouTube 和。LOL 顶级域名
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/31/google-applies-for-google-youtube-and-lol-top-level-domains/>
 

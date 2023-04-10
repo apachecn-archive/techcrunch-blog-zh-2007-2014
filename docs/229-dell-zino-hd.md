@@ -1,4 +1,4 @@
-# 229 美元的戴尔 Zino HD | TechCrunch 的 5 大最佳用途
+# 229 美元的戴尔 Zino HD  的 5 大最佳用途
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/12/229-dell-zino-hd/>
 

@@ -1,4 +1,4 @@
-# 苹果让脸书与 Siri、分享、应用商店、API | TechCrunch 深度整合到 iOS 6 中
+# 苹果让脸书与 Siri、分享、应用商店、API  深度整合到 iOS 6 中
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/facebook-apple-wwdc/>
 

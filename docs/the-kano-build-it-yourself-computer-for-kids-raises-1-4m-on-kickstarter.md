@@ -1,4 +1,4 @@
-# 儿童用 Kano 自己组装电脑在 Kickstarter | TechCrunch 上筹集了 140 万美元
+# 儿童用 Kano 自己组装电脑在 Kickstarter  上筹集了 140 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/the-kano-build-it-yourself-computer-for-kids-raises-1-4m-on-kickstarter/>
 

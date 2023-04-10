@@ -1,4 +1,4 @@
-# iHeartRadio 点击 BandPage，让艺术家控制他们的个人资料信息| TechCrunch
+# iHeartRadio 点击 BandPage，让艺术家控制他们的个人资料信息
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/25/iheartradio-taps-bandpage-to-give-artists-control-over-their-profile-info/>
 

@@ -1,4 +1,4 @@
-# 独立游戏《外伤》使用 Photosynth(？)作为控制方法| TechCrunch
+# 独立游戏《外伤》使用 Photosynth(？)作为控制方法
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/03/indie-game-trauma-uses-photosynth-as-control-method/>
 

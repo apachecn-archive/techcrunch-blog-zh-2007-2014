@@ -1,4 +1,4 @@
-# 食品配送服务公司 GrubHub 获得 200 万美元 B 轮融资| TechCrunch
+# 食品配送服务公司 GrubHub 获得 200 万美元 B 轮融资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/23/food-delivery-service-grubhub-secures-2-million-in-series-b-funding/>
 

@@ -1,4 +1,4 @@
-# 极端初创公司演示日总结:加拿大初创公司表现强劲| TechCrunch
+# 极端初创公司演示日总结:加拿大初创公司表现强劲
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/13/extreme-startups-demo-day-wrap-up-canadian-startups-make-a-strong-showing/>
 

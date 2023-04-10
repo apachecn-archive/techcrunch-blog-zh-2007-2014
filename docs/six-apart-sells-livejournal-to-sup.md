@@ -1,4 +1,4 @@
-# Six Apart 将 LiveJournal 出售给俄罗斯的 SUP | TechCrunch
+# Six Apart 将 LiveJournal 出售给俄罗斯的 SUP 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/02/six-apart-sells-livejournal-to-sup/>
 

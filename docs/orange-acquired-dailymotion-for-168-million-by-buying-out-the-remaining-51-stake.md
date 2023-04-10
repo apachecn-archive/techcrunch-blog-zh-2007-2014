@@ -1,4 +1,4 @@
-# Orange 以 1.68 亿美元收购了 Dailymotion 剩余的 51%股份[更新:Orange 证实] | TechCrunch
+# Orange 以 1.68 亿美元收购了 Dailymotion 剩余的 51%股份[更新:Orange 证实] 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/22/orange-acquired-dailymotion-for-168-million-by-buying-out-the-remaining-51-stake/>
 

@@ -1,4 +1,4 @@
-# 人工智能的惊人之路| TechCrunch
+# 人工智能的惊人之路
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/09/khosla-artificial-intelligence/>
 

@@ -1,4 +1,4 @@
-# Beats 音乐流媒体服务于 2014 年 1 月推出，启动用户名预订| TechCrunch
+# Beats 音乐流媒体服务于 2014 年 1 月推出，启动用户名预订
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/04/beats-music-streaming-service-launches-january-2014/>
 

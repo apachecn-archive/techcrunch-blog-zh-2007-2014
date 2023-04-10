@@ -1,4 +1,4 @@
-# 俄罗斯搜索巨头 Yandex 收购社交新闻初创公司“推特时代”(The Tweeted Times)| TechCrunch
+# 俄罗斯搜索巨头 Yandex 收购社交新闻初创公司“推特时代”(The Tweeted Times)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/26/russian-search-giant-yandex-acquires-social-news-startup-the-tweet-times/>
 

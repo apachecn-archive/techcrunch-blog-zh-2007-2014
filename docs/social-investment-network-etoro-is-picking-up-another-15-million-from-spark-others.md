@@ -1,4 +1,4 @@
-# 社交投资网络 eToro 从 Spark，Others | TechCrunch 又获得了 1500 万美元
+# 社交投资网络 eToro 从 Spark，Others  又获得了 1500 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/13/social-investment-network-etoro-is-picking-up-another-15-million-from-spark-others/>
 

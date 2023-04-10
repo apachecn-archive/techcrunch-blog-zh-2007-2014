@@ -1,4 +1,4 @@
-# T-Mobile 正式宣布 G1 Android 手机| TechCrunch
+# T-Mobile 正式宣布 G1 Android 手机
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/23/t-mobile-officially-announces-the-g1-android-phone/>
 

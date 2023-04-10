@@ -1,4 +1,4 @@
-# 脸书为何在 WhatsApp 上砸下 190 亿美元:进军欧洲、新兴市场| TechCrunch
+# 脸书为何在 WhatsApp 上砸下 190 亿美元:进军欧洲、新兴市场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/19/facebook-whatsapp/>
 

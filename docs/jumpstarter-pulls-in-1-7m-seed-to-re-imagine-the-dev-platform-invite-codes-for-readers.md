@@ -1,4 +1,4 @@
-# Jumpstarter 筹集了 170 万美元的种子资金，以重新想象开发平台——为读者征集代码| TechCrunch
+# Jumpstarter 筹集了 170 万美元的种子资金，以重新想象开发平台——为读者征集代码
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/04/jumpstarter-pulls-in-1-7m-seed-to-re-imagine-the-dev-platform-invite-codes-for-readers/>
 

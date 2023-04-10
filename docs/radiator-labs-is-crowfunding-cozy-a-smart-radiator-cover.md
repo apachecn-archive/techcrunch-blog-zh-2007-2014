@@ -1,4 +1,4 @@
-# 散热器实验室正在众筹 Cozy，一个智能散热器盖| TechCrunch
+# 散热器实验室正在众筹 Cozy，一个智能散热器盖
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/10/radiator-labs-is-crowfunding-cozy-a-smart-radiator-cover/>
 

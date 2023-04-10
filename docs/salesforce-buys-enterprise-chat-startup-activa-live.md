@@ -1,4 +1,4 @@
-# Salesforce 收购企业聊天初创公司 Activa Live | TechCrunch
+# Salesforce 收购企业聊天初创公司 Activa Live 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/24/salesforce-buys-enterprise-chat-startup-activa-live/>
 

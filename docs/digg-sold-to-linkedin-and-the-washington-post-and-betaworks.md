@@ -1,4 +1,4 @@
-# Digg 卖给了 LinkedIn、华盛顿邮报和 Betaworks | TechCrunch
+# Digg 卖给了 LinkedIn、华盛顿邮报和 Betaworks 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/12/digg-sold-to-linkedin-and-the-washington-post-and-betaworks/>
 

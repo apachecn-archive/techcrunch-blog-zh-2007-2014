@@ -1,4 +1,4 @@
-# 独家报道:CrunchGear 与摩托罗拉 Q9h | TechCrunch 进行了一次亲密接触
+# 独家报道:CrunchGear 与摩托罗拉 Q9h  进行了一次亲密接触
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/exclusive-crunchgear-sneaks-a-hands-on-with-motorola-q9h/>
 

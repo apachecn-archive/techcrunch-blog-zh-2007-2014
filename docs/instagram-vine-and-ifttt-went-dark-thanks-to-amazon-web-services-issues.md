@@ -1,4 +1,4 @@
-# AWS 服务器问题搞垮了 Instagram、Vine、Airbnb 和 IFTTT | TechCrunch
+# AWS 服务器问题搞垮了 Instagram、Vine、Airbnb 和 IFTTT 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/25/instagram-vine-and-ifttt-went-dark-thanks-to-amazon-web-services-issues/>
 

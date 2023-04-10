@@ -1,4 +1,4 @@
-# 为简单的在线记账应用程序| TechCrunch 直接筹集 500 多万美元
+# 为简单的在线记账应用程序 直接筹集 500 多万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/16/outright-sequoia-funding/>
 

@@ -1,4 +1,4 @@
-# Aetna 透露其收购了 Healthagen，后者是排名第一的移动健康应用 iTriage | TechCrunch 的开发者
+# Aetna 透露其收购了 Healthagen，后者是排名第一的移动健康应用 iTriage  的开发者
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/16/aetna-itriage-healthagen/>
 

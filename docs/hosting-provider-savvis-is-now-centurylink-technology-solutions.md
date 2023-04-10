@@ -1,4 +1,4 @@
-# 主机提供商 Savvis 现在是 CenturyLink 技术解决方案| TechCrunch
+# 主机提供商 Savvis 现在是 CenturyLink 技术解决方案
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/hosting-provider-savvis-is-now-centurylink-technology-solutions/>
 

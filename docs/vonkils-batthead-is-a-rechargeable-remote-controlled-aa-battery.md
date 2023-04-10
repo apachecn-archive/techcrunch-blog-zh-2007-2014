@@ -1,4 +1,4 @@
-# Vonkil 的 Batthead 是一款可充电的遥控 AA 电池| TechCrunch
+# Vonkil 的 Batthead 是一款可充电的遥控 AA 电池
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/22/vonkils-batthead-is-a-rechargeable-remote-controlled-aa-battery/>
 

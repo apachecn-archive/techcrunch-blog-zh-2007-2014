@@ -1,4 +1,4 @@
-# 好了，我们有了第一个基于 DNA 的约会服务:GenePartner | TechCrunch
+# 好了，我们有了第一个基于 DNA 的约会服务:GenePartner 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/22/ok-we-have-our-first-dna-based-dating-site-genepartner/>
 

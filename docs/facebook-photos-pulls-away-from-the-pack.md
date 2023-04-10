@@ -1,4 +1,4 @@
-# 脸书照片脱离人群| TechCrunch
+# 脸书照片脱离人群
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/22/facebook-photos-pulls-away-from-the-pack/>
 

@@ -1,4 +1,4 @@
-# 关于整合 Twitter 卡的凯文·斯特罗姆:我们希望图片能在 Instagram.com | TechCrunch 上看到
+# 关于整合 Twitter 卡的凯文·斯特罗姆:我们希望图片能在 Instagram.com  上看到
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/05/kevin-systrom-on-pulling-twitter-cards-integration-we-want-images-viewed-on-instagram-com/>
 

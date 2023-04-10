@@ -1,4 +1,4 @@
-# 美国电话电报公司倾斜 ROM 截图，同 Ole WinMo 6 | TechCrunch
+# 美国电话电报公司倾斜 ROM 截图，同 Ole WinMo 6 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/att-tilt-rom-screenshots-same-ole-winmo-6/>
 

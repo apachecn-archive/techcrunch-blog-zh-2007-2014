@@ -1,4 +1,4 @@
-# 报道:现在已经有超过 2 . 5 亿个域名被注册，几乎一半。Com 和。Net | TechCrunch
+# 报道:现在已经有超过 2 . 5 亿个域名被注册，几乎一半。Com 和。Net 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/08/internet-passes-250m-registered-top-level-domain-names/>
 

@@ -1,4 +1,4 @@
-# 苹果应用商店应用下载量突破 150 万，1B 下载量上月增加| TechCrunch
+# 苹果应用商店应用下载量突破 150 万，1B 下载量上月增加
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/07/apples-app-store-crosses-15b-app-downloads-adds-1b-downloads-in-past-month/>
 

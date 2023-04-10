@@ -1,4 +1,4 @@
-# 据 CPSC | TechCrunch 报道，Fitbit Force 召回影响了美国约 100 万台手机和加拿大的 2.8 万台手机
+# 据 CPSC  报道，Fitbit Force 召回影响了美国约 100 万台手机和加拿大的 2.8 万台手机
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/12/fitbit-force-1-million-units-sold/>
 

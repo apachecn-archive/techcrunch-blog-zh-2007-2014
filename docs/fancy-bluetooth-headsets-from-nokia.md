@@ -1,4 +1,4 @@
-# 来自诺基亚的花式蓝牙耳机| TechCrunch
+# 来自诺基亚的花式蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/fancy-bluetooth-headsets-from-nokia/>
 

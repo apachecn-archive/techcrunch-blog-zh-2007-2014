@@ -1,4 +1,4 @@
-# Twitter、Flickr | TechCrunch 上关于印度恐怖袭击的第一手报道
+# Twitter、Flickr  上关于印度恐怖袭击的第一手报道
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/26/first-hand-accounts-of-terrorist-attacks-in-india-on-twitter/>
 

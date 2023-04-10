@@ -1,4 +1,4 @@
-# 亚马逊投资土耳其电子商务初创公司 Ciceksepeti | TechCrunch
+# 亚马逊投资土耳其电子商务初创公司 Ciceksepeti 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/amazon-invests-in-turkish-e-commerce-startup-ciceksepeti/>
 

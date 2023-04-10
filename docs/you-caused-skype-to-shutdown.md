@@ -1,4 +1,4 @@
-# 你导致 Skype 关闭| TechCrunch
+# 你导致 Skype 关闭
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/you-caused-skype-to-shutdown/>
 

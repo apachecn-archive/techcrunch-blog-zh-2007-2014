@@ -1,4 +1,4 @@
-# 谷歌创造了一种更好的方式将 IE 转化为 Chrome:一个商业就绪的 Windows Installer | TechCrunch
+# 谷歌创造了一种更好的方式将 IE 转化为 Chrome:一个商业就绪的 Windows Installer 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/15/google-chrome-for-business/>
 

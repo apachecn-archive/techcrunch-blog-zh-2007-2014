@@ -1,4 +1,4 @@
-# 如何自助出版一本畅销书:出版 3.0 | TechCrunch
+# 如何自助出版一本畅销书:出版 3.0 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/20/how-to-self-publish-a-bestseller-publishing-3-0/>
 

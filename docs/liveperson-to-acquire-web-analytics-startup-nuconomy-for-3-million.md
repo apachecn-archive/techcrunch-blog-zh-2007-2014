@@ -1,4 +1,4 @@
-# LivePerson 以 300 万美元收购网络分析初创公司 nuco nomy | TechCrunch
+# LivePerson 以 300 万美元收购网络分析初创公司 nuco nomy 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/liveperson-to-acquire-web-analytics-startup-nuconomy-for-3-million/>
 

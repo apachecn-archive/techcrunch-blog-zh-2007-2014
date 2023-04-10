@@ -1,4 +1,4 @@
-# Y Combinator 的 Airbed And Breakfast 像 AirBnB | TechCrunch 一样扩大了房屋租赁的范围
+# Y Combinator 的 Airbed And Breakfast 像 AirBnB  一样扩大了房屋租赁的范围
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/y-combinators-airbed-and-breakfast-casts-a-wider-net-for-housing-rentals-as-airbnb/>
 

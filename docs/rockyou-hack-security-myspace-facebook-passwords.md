@@ -1,4 +1,4 @@
-# RockYou Hack:每况愈下| TechCrunch
+# RockYou Hack:每况愈下
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/12/14/rockyou-hack-security-myspace-facebook-passwords/>
 

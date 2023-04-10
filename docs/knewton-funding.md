@@ -1,4 +1,4 @@
-# 教育技术公司 Knewton 再获得 1250 万美元| TechCrunch
+# 教育技术公司 Knewton 再获得 1250 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/19/knewton-funding/>
 

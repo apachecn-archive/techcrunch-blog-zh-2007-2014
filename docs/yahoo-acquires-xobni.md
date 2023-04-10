@@ -1,4 +1,4 @@
-# 雅虎收购 Xobni | TechCrunch
+# 雅虎收购 Xobni 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/03/yahoo-acquires-xobni/>
 

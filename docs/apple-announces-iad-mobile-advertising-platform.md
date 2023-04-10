@@ -1,4 +1,4 @@
-# 苹果发布 iAd 移动广告平台| TechCrunch
+# 苹果发布 iAd 移动广告平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/08/apple-announces-iad-mobile-advertising-platform/>
 

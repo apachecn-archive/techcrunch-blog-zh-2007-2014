@@ -1,4 +1,4 @@
-# “第二人生”创始人为新的秘密创业公司 High Fidelity | TechCrunch 融资 240 万美元
+# “第二人生”创始人为新的秘密创业公司 High Fidelity  融资 240 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/04/second-life-founder-raises-2-4m-for-new-stealth-startup-high-fidelity/>
 

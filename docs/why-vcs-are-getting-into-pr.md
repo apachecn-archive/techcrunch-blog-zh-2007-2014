@@ -1,4 +1,4 @@
-# 风投为何进入 PR | TechCrunch
+# 风投为何进入 PR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/12/why-vcs-are-getting-into-pr/>
 

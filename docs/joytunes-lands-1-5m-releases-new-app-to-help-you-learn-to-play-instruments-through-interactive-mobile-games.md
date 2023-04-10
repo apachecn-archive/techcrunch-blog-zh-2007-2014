@@ -1,4 +1,4 @@
-# JoyTunes 获得 150 万美元，发布新应用程序帮助你通过互动手机游戏学习演奏乐器| TechCrunch
+# JoyTunes 获得 150 万美元，发布新应用程序帮助你通过互动手机游戏学习演奏乐器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/05/joytunes-lands-1-5m-releases-new-app-to-help-you-learn-to-play-instruments-through-interactive-mobile-games/>
 

@@ -1,4 +1,4 @@
-# 飞还是死:Striiv 健身设备| TechCrunch
+# 飞还是死:Striiv 健身设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/16/fly-or-die-the-striiv-fitness-device/>
 

@@ -1,4 +1,4 @@
-# 点评:西部数据 WD TV 高清媒体播放器| TechCrunch
+# 点评:西部数据 WD TV 高清媒体播放器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/14/review-western-digital-wd-tv-hd-media-player/>
 

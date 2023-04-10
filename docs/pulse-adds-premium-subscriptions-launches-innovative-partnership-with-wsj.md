@@ -1,4 +1,4 @@
-# Pulse 增加高级订阅，与 WSJ | TechCrunch 建立创新合作伙伴关系
+# Pulse 增加高级订阅，与 WSJ  建立创新合作伙伴关系
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/26/pulse-adds-premium-subscriptions-launches-innovative-partnership-with-wsj/>
 

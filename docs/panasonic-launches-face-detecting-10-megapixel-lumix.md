@@ -1,4 +1,4 @@
-# 松下推出面部检测 1000 万像素 Lumix | TechCrunch
+# 松下推出面部检测 1000 万像素 Lumix 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/30/panasonic-launches-face-detecting-10-megapixel-lumix/>
 

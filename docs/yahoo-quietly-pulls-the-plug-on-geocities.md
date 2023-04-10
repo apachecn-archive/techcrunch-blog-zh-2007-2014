@@ -1,4 +1,4 @@
-# 雅虎悄悄关闭了 Geocities | TechCrunch
+# 雅虎悄悄关闭了 Geocities 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/23/yahoo-quietly-pulls-the-plug-on-geocities/>
 

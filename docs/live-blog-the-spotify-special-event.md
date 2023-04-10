@@ -1,4 +1,4 @@
-# 博客直播:Spotify 特别活动| TechCrunch
+# 博客直播:Spotify 特别活动
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/30/live-blog-the-spotify-special-event/>
 

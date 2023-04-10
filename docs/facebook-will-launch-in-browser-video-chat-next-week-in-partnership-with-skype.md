@@ -1,4 +1,4 @@
-# 脸书将于下周与 Skype | TechCrunch 合作推出浏览器内视频聊天
+# 脸书将于下周与 Skype  合作推出浏览器内视频聊天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/01/facebook-will-launch-in-browser-video-chat-next-week-in-partnership-with-skype/>
 

@@ -1,4 +1,4 @@
-# 微软庆祝 Photosynth 服务器故障，让人惊喜喜欢| TechCrunch
+# 微软庆祝 Photosynth 服务器故障，让人惊喜喜欢
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/21/microsoft-celebrates-photosynth-server-failure-surprised-people-like-it/>
 

@@ -1,4 +1,4 @@
-# 本地花店平台 BloomNation 从 Andre essen Horowitz & Others | TechCrunch 融资 165 万美元
+# 本地花店平台 BloomNation 从 Andre essen Horowitz & Others  融资 165 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/24/bloomnation-raises-1-65m-from-andreessen-horowitz-others-for-a-florist-marketplace-online-software/>
 

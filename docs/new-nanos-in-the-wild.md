@@ -1,4 +1,4 @@
-# 新的纳米在野外| TechCrunch
+# 新的纳米在野外
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/new-nanos-in-the-wild/>
 

@@ -1,4 +1,4 @@
-# Goo.gl 可以开始了。“网络上最稳定、最安全、最快的网址缩写程序”| TechCrunch
+# Goo.gl 可以开始了。“网络上最稳定、最安全、最快的网址缩写程序”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/30/googlegoo-gl-is-a-go-the-stablest-most-secure-and-fastest-url-shortener-on-the-web/>
 

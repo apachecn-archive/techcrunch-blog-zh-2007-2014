@@ -1,4 +1,4 @@
-# MySpace 与 Google、OneRiot 和 Groovy | TechCrunch 推出了一套新的实时 API
+# MySpace 与 Google、OneRiot 和 Groovy  推出了一套新的实时 API
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/09/myspace-realtime-api-google-oneriot-groovy/>
 

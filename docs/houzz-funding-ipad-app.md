@@ -1,4 +1,4 @@
-# 注意了，家居设计爱好者们:Houzz 发布了新的 iPad 应用程序，募集了 100 万美元 2M | TechCrunch
+# 注意了，家居设计爱好者们:Houzz 发布了新的 iPad 应用程序，募集了 100 万美元 2M 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/11/houzz-funding-ipad-app/>
 

@@ -1,4 +1,4 @@
-# 来自 GeeknRolla 2010 | TechCrunch 的所有演讲、演讲者和视频
+# 来自 GeeknRolla 2010  的所有演讲、演讲者和视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/21/all-the-pitches-speakers-and-video-from-geeknrolla-2010/>
 

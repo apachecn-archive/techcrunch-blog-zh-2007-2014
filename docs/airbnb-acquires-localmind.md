@@ -1,4 +1,4 @@
-# Airbnb 旨在通过收购问答初创公司 Localmind | TechCrunch 来提高社交化程度
+# Airbnb 旨在通过收购问答初创公司 Localmind  来提高社交化程度
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/13/airbnb-acquires-localmind/>
 

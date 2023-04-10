@@ -1,4 +1,4 @@
-# Skydeck 走向社交并发布 API(700 个邀请)| TechCrunch
+# Skydeck 走向社交并发布 API(700 个邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/02/skydeck-goes-social-and-releases-apis-700-invites/>
 

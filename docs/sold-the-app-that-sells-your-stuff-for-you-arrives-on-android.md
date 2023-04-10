@@ -1,4 +1,4 @@
-# Sold 是一款为你出售商品的应用程序，在 Android | TechCrunch 上发布
+# Sold 是一款为你出售商品的应用程序，在 Android  上发布
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/24/sold-the-app-that-sells-your-stuff-for-you-arrives-on-android/>
 

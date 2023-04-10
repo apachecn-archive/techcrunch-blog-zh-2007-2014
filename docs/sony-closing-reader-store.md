@@ -1,4 +1,4 @@
-# 索尼放弃了电子书业务，将把账户和购买转移到 Kobo | TechCrunch
+# 索尼放弃了电子书业务，将把账户和购买转移到 Kobo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/06/sony-closing-reader-store/>
 

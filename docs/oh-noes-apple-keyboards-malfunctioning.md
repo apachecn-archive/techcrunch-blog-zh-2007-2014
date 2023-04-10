@@ -1,4 +1,4 @@
-# 哦不！苹果键盘故障| TechCrunch
+# 哦不！苹果键盘故障
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/oh-noes-apple-keyboards-malfunctioning/>
 

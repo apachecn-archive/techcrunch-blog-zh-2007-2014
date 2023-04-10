@@ -1,4 +1,4 @@
-# Instagram 上线 28 个月后月活用户突破 1 亿| TechCrunch
+# Instagram 上线 28 个月后月活用户突破 1 亿
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/26/instagram-100-million/>
 

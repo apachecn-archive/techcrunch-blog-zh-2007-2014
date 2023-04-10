@@ -1,4 +1,4 @@
-# 如何使用品牌页面的脸书时间线:新功能详情| TechCrunch
+# 如何使用品牌页面的脸书时间线:新功能详情
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2012/02/29/how-to-use-timeline-for-pages/>
 

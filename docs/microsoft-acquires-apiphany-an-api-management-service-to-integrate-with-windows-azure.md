@@ -1,4 +1,4 @@
-# 微软收购 Apiphany，这是一个与 Windows Azure | TechCrunch 集成的 API 管理服务
+# 微软收购 Apiphany，这是一个与 Windows Azure  集成的 API 管理服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/23/microsoft-acquires-apiphany-an-api-management-service-to-integrate-with-windows-azure/>
 

@@ -1,4 +1,4 @@
-# Xobni 以超过 6000 万美元的价格被收购| TechCrunch
+# Xobni 以超过 6000 万美元的价格被收购
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/03/source-xobni-was-acquired-for-more-than-60-million/>
 

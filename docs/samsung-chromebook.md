@@ -1,4 +1,4 @@
-# 请看:Chromebook(三星系列 5) | TechCrunch
+# 请看:Chromebook(三星系列 5) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/05/11/samsung-chromebook/>
 

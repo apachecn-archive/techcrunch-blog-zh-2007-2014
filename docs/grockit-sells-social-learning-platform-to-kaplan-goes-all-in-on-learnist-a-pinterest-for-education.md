@@ -1,4 +1,4 @@
-# Grockit 向 Kaplan 出售社交学习平台，全力投资 Learnist，这是它的“教育 Pinterest”| TechCrunch
+# Grockit 向 Kaplan 出售社交学习平台，全力投资 Learnist，这是它的“教育 Pinterest”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/grockit-sells-social-learning-platform-to-kaplan-goes-all-in-on-learnist-a-pinterest-for-education/>
 

@@ -1,4 +1,4 @@
-# Houzz 将其面向重塑和设计专业人士的 Pro+服务扩展到 425 个市场，推出新的分析工具| TechCrunch
+# Houzz 将其面向重塑和设计专业人士的 Pro+服务扩展到 425 个市场，推出新的分析工具
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/12/houzz-launches-new-analytics-tool/>
 

@@ -1,4 +1,4 @@
-# Blackboard 买家 Providence Equity 从 PrepMe | TechCrunch 收购个性化在线学习平台
+# Blackboard 买家 Providence Equity 从 PrepMe  收购个性化在线学习平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/18/blackboard-buyer-providence-equity-acquires-personalized-online-learning-platform-from-prepme/>
 

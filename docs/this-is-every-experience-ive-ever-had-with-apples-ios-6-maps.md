@@ -1,4 +1,4 @@
-# 这是我使用苹果 iOS 6 地图| TechCrunch 的所有体验
+# 这是我使用苹果 iOS 6 地图 的所有体验
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/this-is-every-experience-ive-ever-had-with-apples-ios-6-maps/>
 

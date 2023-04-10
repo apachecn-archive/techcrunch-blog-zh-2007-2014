@@ -1,4 +1,4 @@
-# 第一眼:Backplane，Lady Gaga 支持的社区平台，全明星投资者(邀请)| TechCrunch
+# 第一眼:Backplane，Lady Gaga 支持的社区平台，全明星投资者(邀请)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/first-look-backplane-the-lady-gaga-backed-community-platform-with-all-star-investors-invites/>
 

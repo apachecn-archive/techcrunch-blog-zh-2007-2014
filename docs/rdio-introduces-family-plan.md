@@ -1,4 +1,4 @@
-# Rdio 推出家庭计划| TechCrunch
+# Rdio 推出家庭计划
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/rdio-introduces-family-plan/>
 

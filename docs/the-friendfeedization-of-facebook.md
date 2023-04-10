@@ -1,4 +1,4 @@
-# 脸书| TechCrunch 的好友化
+# 脸书 的好友化
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/21/the-friendfeedization-of-facebook/>
 

@@ -1,4 +1,4 @@
-# Truly.am 使用面部识别来帮助您验证您的在线约会| TechCrunch
+# Truly.am 使用面部识别来帮助您验证您的在线约会
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/10/27/truly-am-uses-facial-recognition-to-help-you-verify-your-online-dates/>
 

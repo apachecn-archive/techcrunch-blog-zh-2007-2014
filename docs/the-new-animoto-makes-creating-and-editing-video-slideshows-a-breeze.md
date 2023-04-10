@@ -1,4 +1,4 @@
-# 新的 Animoto 使创建和编辑视频幻灯片变得轻而易举| TechCrunch
+# 新的 Animoto 使创建和编辑视频幻灯片变得轻而易举
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/the-new-animoto-makes-creating-and-editing-video-slideshows-a-breeze/>
 

@@ -1,4 +1,4 @@
-# IBM 发布 Lotus Notes，Domino 版本 8 | TechCrunch
+# IBM 发布 Lotus Notes，Domino 版本 8 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/18/ibm-releases-lotus-notes-domino-version-8/>
 

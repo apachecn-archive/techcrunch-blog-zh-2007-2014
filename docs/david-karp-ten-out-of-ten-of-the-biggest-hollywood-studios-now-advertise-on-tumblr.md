@@ -1,4 +1,4 @@
-# 戴维·卡普:好莱坞十大电影公司中有十家现在都在 Tumblr | TechCrunch 上做广告
+# 戴维·卡普:好莱坞十大电影公司中有十家现在都在 Tumblr  上做广告
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/01/david-karp-ten-out-of-ten-of-the-biggest-hollywood-studios-now-advertise-on-tumblr/>
 

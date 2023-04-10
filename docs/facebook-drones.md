@@ -1,4 +1,4 @@
-# 脸书将通过无人机提供互联网，其“连接实验室”项目由 Ascenta | TechCrunch 的 Acqhires 提供支持
+# 脸书将通过无人机提供互联网，其“连接实验室”项目由 Ascenta  的 Acqhires 提供支持
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/27/facebook-drones/>
 

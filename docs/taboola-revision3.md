@@ -1,4 +1,4 @@
-# Taboola Turbo Charges 版本 3 的视频提升 90% | TechCrunch
+# Taboola Turbo Charges 版本 3 的视频提升 90% 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/taboola-revision3/>
 

@@ -1,4 +1,4 @@
-# 2K 削减生化奇兵 2 DRM: SecuROM 几乎消失了| TechCrunch
+# 2K 削减生化奇兵 2 DRM: SecuROM 几乎消失了
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/25/2k-pares-down-bioshock-2-drm-securom-all-but-gone-now/>
 

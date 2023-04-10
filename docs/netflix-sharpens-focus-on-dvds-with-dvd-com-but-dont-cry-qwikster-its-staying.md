@@ -1,4 +1,4 @@
-# 和 DVD.com 一起，网飞加强了对 DVD 的关注，但是不要哭。(它留下来了)| TechCrunch
+# 和 DVD.com 一起，网飞加强了对 DVD 的关注，但是不要哭。(它留下来了)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/30/netflix-sharpens-focus-on-dvds-with-dvd-com-but-dont-cry-qwikster-its-staying/>
 

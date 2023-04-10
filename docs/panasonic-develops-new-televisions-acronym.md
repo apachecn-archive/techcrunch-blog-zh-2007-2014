@@ -1,4 +1,4 @@
-# 松下开发新电视，缩写| TechCrunch
+# 松下开发新电视，缩写
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/22/panasonic-develops-new-televisions-acronym/>
 

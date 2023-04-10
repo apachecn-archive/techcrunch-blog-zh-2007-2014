@@ -1,4 +1,4 @@
-# 谷歌继续疯狂购物；收购 reMail 和前 Gmail 员工| TechCrunch
+# 谷歌继续疯狂购物；收购 reMail 和前 Gmail 员工
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/17/google-continues-shopping-spree-acquires-remail-and-former-gmail-employee/>
 

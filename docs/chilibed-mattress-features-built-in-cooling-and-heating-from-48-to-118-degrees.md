@@ -1,4 +1,4 @@
-# ChiliBed 床垫内置冷却和加热功能，温度范围为 48 至 118 度| TechCrunch
+# ChiliBed 床垫内置冷却和加热功能，温度范围为 48 至 118 度
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/chilibed-mattress-features-built-in-cooling-and-heating-from-48-to-118-degrees/>
 

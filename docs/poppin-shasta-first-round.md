@@ -1,4 +1,4 @@
-# Poppin 从 Shasta 和首轮融资中获得 600 万美元，用于美化你乏味的办公室| TechCrunch
+# Poppin 从 Shasta 和首轮融资中获得 600 万美元，用于美化你乏味的办公室
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/poppin-shasta-first-round/>
 

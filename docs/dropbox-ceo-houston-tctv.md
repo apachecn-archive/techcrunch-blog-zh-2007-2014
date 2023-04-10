@@ -1,4 +1,4 @@
-# (TCTV 独家报道)DropBox 首席执行官德鲁·休斯顿表示，这 2.5 亿美元“将全部注入公司”| TechCrunch
+# (TCTV 独家报道)DropBox 首席执行官德鲁·休斯顿表示，这 2.5 亿美元“将全部注入公司”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/dropbox-ceo-houston-tctv/>
 

@@ -1,4 +1,4 @@
-# Coursera 推出由顶级大学教授的在线职业迷你证书| TechCrunch
+# Coursera 推出由顶级大学教授的在线职业迷你证书
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/21/coursera-launches-an-online-vocational-mini-credential-taught-by-top-colleges/>
 

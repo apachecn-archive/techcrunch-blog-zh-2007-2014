@@ -1,4 +1,4 @@
-# 呼唤欧洲创业公司！申请 Disrupt NY | TechCrunch 的战场还剩不到两周时间
+# 呼唤欧洲创业公司！申请 Disrupt NY  的战场还剩不到两周时间
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/calling-european-startups-only-two-weeks-left-to-apply-for-the-battlefield-at-disrupt-ny/>
 

@@ -1,4 +1,4 @@
-# 乔·格林辞去 NationBuilder 总裁一职，加入安德森·霍洛维茨成为 EIR | TechCrunch
+# 乔·格林辞去 NationBuilder 总裁一职，加入安德森·霍洛维茨成为 EIR 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/06/joe-green-steps-down-as-president-of-nationbuilder-will-be-announcing-exciting-initiatives-in-the-coming-weeks/>
 

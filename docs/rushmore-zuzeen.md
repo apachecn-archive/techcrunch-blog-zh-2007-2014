@@ -1,4 +1,4 @@
-# Betaworks 联合创建的音乐社区 Rushmore 与直播视频平台 Zuzeen | TechCrunch 合并
+# Betaworks 联合创建的音乐社区 Rushmore 与直播视频平台 Zuzeen  合并
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/21/rushmore-zuzeen/>
 

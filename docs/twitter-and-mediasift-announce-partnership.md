@@ -1,4 +1,4 @@
-# Twitter 和 Mediasift 合作转售消防软管数据| TechCrunch
+# Twitter 和 Mediasift 合作转售消防软管数据
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/04/04/twitter-and-mediasift-announce-partnership/>
 

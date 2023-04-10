@@ -1,4 +1,4 @@
-# 为什么我不用 Twitter | TechCrunch
+# 为什么我不用 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/17/why-i-dont-use-twitter/>
 

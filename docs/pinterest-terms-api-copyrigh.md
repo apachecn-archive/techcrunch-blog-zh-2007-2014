@@ -1,4 +1,4 @@
-# Pinterest 更新服务条款，准备一个 API 和私有公告板:更版权友好| TechCrunch
+# Pinterest 更新服务条款，准备一个 API 和私有公告板:更版权友好
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/24/pinterest-terms-api-copyrigh/>
 

@@ -1,4 +1,4 @@
-# Medium 推出简单的 iPhone 应用程序，仅用于阅读| TechCrunch
+# Medium 推出简单的 iPhone 应用程序，仅用于阅读
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/20/medium-launches-simple-iphone-app-thats-just-for-reading/>
 

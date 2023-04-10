@@ -1,4 +1,4 @@
-# 超级碗备忘单| TechCrunch
+# 超级碗备忘单
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/07/super-bowl-cheat-sheet/>
 

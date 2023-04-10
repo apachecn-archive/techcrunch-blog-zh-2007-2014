@@ -1,4 +1,4 @@
-# 谷歌:美国和欧洲超过 500 个学区现在使用 Chromebooks | TechCrunch
+# 谷歌:美国和欧洲超过 500 个学区现在使用 Chromebooks 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/chromebooks-education-500-school-districts/>
 

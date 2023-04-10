@@ -1,4 +1,4 @@
-# 大胆尝试:风险投资巨头唐·瓦伦丁和汤姆·帕金斯将在《颠覆 SF | TechCrunch》中登台亮相
+# 大胆尝试:风险投资巨头唐·瓦伦丁和汤姆·帕金斯将在《颠覆 SF 》中登台亮相
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/06/something-ventured-vc-titans-don-valentine-and-tom-perkins-will-take-the-stage-at-disrupt-sf/>
 

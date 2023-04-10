@@ -1,4 +1,4 @@
-# 把你的名字保留在大约。我| TechCrunch
+# 把你的名字保留在大约。我
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/10/reserve-your-name-at-about-me/>
 

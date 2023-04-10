@@ -1,4 +1,4 @@
-# GoDaddy 说 Crash 不是匿名的，它不是黑客，它不是 DDoS。是内部网络问题| TechCrunch
+# GoDaddy 说 Crash 不是匿名的，它不是黑客，它不是 DDoS。是内部网络问题
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/godaddy-says-it-wasnt-anonymous-it-wasnt-a-hack-it-wasnt-a-ddos-it-was-internal-network-issues/>
 

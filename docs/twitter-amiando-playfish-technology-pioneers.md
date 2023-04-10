@@ -1,4 +1,4 @@
-# Twitter、Amiando、Obopay 和 Playfish 被世界经济论坛| TechCrunch 评为技术先锋
+# Twitter、Amiando、Obopay 和 Playfish 被世界经济论坛 评为技术先锋
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/03/twitter-amiando-playfish-technology-pioneers/>
 

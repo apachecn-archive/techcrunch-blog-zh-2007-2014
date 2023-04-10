@@ -1,4 +1,4 @@
-# 颠覆性趋势| TechCrunch
+# 颠覆性趋势
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/17/disruptive-tendencies/>
 

@@ -1,4 +1,4 @@
-# AOL 电子邮件全文:XDrive、AOL Pictures、MyMobile 和 Bluestring 关闭| TechCrunch
+# AOL 电子邮件全文:XDrive、AOL Pictures、MyMobile 和 Bluestring 关闭
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/24/full-text-of-aol-email-xdrive-aol-pictures-mymobile-and-bluestring-to-shut-down/>
 

@@ -1,4 +1,4 @@
-# Spabba 给你的 Del.icio.us 书签一个新家| TechCrunch
+# Spabba 给你的 Del.icio.us 书签一个新家
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/16/spabba-gives-your-del-icio-us-bookmarks-a-new-home/>
 

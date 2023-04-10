@@ -1,4 +1,4 @@
-# 谷歌机顶盒(想想电视上的 Android)| TechCrunch
+# 谷歌机顶盒(想想电视上的 Android)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/20/the-google-set-top-box-think-android-for-tv/>
 

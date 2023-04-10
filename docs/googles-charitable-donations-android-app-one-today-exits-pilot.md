@@ -1,4 +1,4 @@
-# 谷歌慈善捐款安卓应用“今日一家”退出试点| TechCrunch
+# 谷歌慈善捐款安卓应用“今日一家”退出试点
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/09/googles-charitable-donations-android-app-one-today-exits-pilot/>
 

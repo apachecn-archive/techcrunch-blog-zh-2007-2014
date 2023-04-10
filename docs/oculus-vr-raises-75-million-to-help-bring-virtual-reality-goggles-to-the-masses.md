@@ -1,4 +1,4 @@
-# Oculus VR 筹集 7500 万美元，帮助将虚拟现实护目镜带给大众| TechCrunch
+# Oculus VR 筹集 7500 万美元，帮助将虚拟现实护目镜带给大众
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/12/oculus-vr-raises-75-million-to-help-bring-virtual-reality-goggles-to-the-masses/>
 

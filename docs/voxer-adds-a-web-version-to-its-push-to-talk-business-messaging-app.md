@@ -1,4 +1,4 @@
-# Voxer 为其一键通商业消息应用| TechCrunch 增加了一个网络版本
+# Voxer 为其一键通商业消息应用 增加了一个网络版本
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/14/voxer-adds-a-web-version-to-its-push-to-talk-business-messaging-app/>
 

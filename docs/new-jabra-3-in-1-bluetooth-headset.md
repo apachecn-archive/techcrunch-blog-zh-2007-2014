@@ -1,4 +1,4 @@
-# 全新 Jabra 三合一蓝牙耳机| TechCrunch
+# 全新 Jabra 三合一蓝牙耳机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/new-jabra-3-in-1-bluetooth-headset/>
 

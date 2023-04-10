@@ -1,4 +1,4 @@
-# @WalmartLabs 收购移动代理小社会| TechCrunch
+# @WalmartLabs 收购移动代理小社会
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/04/walmartlabs-acquires-mobile-agency-small-society/>
 

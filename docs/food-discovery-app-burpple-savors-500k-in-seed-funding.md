@@ -1,4 +1,4 @@
-# 美食探索应用 Burpple 享受 50 万美元的种子基金| TechCrunch
+# 美食探索应用 Burpple 享受 50 万美元的种子基金
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/12/food-discovery-app-burpple-savors-500k-in-seed-funding/>
 

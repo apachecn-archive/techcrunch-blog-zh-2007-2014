@@ -1,4 +1,4 @@
-# DART 现在是出版商的 DoubleClick，Google Ad Manager 更名为 DFP Small Business | TechCrunch
+# DART 现在是出版商的 DoubleClick，Google Ad Manager 更名为 DFP Small Business 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/22/doubleclick-new-interface-branding-api-dfp-small-business/>
 

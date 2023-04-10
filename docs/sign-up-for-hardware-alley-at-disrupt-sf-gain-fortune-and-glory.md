@@ -1,4 +1,4 @@
-# 在 Disrupt SF 注册硬件巷，获得财富和荣耀| TechCrunch
+# 在 Disrupt SF 注册硬件巷，获得财富和荣耀
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/24/sign-up-for-hardware-alley-at-disrupt-sf-gain-fortune-and-glory/>
 

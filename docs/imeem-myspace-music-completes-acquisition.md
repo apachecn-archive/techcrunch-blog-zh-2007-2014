@@ -1,4 +1,4 @@
-# 好了，现在完成了。MySpace Music 完成对 iMeem | TechCrunch 的收购
+# 好了，现在完成了。MySpace Music 完成对 iMeem  的收购
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/08/imeem-myspace-music-completes-acquisition/>
 

@@ -1,4 +1,4 @@
-# YouTube 支持视频内部的深度链接| TechCrunch
+# YouTube 支持视频内部的深度链接
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2008/10/25/youtube-enables-deep-linking-within-videos/>
 

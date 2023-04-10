@@ -1,4 +1,4 @@
-# Snapchat 在 2013 年 Crunchies 上赢得“最佳移动应用”，奖项在 10 秒钟内消失| TechCrunch
+# Snapchat 在 2013 年 Crunchies 上赢得“最佳移动应用”，奖项在 10 秒钟内消失
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/10/snapchat-wins-best-mobile-application-at-the-2013-crunchies-award-disappears-in-10-seconds/>
 

@@ -1,4 +1,4 @@
-# AirWatch 获得 2 亿美元首轮融资| TechCrunch
+# AirWatch 获得 2 亿美元首轮融资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/25/airwatch-gets-200-million-series-a-funding/>
 

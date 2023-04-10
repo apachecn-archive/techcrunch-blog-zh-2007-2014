@@ -1,4 +1,4 @@
-# 今年 10 万美元的技术研究员奖的获奖者是...| TechCrunch
+# 今年 10 万美元的技术研究员奖的获奖者是...
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/22/the-winners-of-this-years-100000-techfellow-awards-are/>
 

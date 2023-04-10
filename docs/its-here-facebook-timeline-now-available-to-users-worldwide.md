@@ -1,4 +1,4 @@
-# 它在这里！脸书时间表现已向全球用户开放| TechCrunch
+# 它在这里！脸书时间表现已向全球用户开放
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/its-here-facebook-timeline-now-available-to-users-worldwide/>
 

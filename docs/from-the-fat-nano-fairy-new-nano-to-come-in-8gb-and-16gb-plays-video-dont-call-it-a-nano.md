@@ -1,4 +1,4 @@
-# 来自肥胖的纳米仙女:8GB 和 16GB 的新纳米，播放视频，不要叫它纳米| TechCrunch
+# 来自肥胖的纳米仙女:8GB 和 16GB 的新纳米，播放视频，不要叫它纳米
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/from-the-fat-nano-fairy-new-nano-to-come-in-8gb-and-16gb-plays-video-dont-call-it-a-nano/>
 

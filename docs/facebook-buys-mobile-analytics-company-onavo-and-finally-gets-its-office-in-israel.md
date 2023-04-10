@@ -1,4 +1,4 @@
-# 据报道，脸书以 2 亿美元收购移动数据分析公司 Onavo...还有(最后？)在以色列设立办公室| TechCrunch
+# 据报道，脸书以 2 亿美元收购移动数据分析公司 Onavo...还有(最后？)在以色列设立办公室
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/13/facebook-buys-mobile-analytics-company-onavo-and-finally-gets-its-office-in-israel/>
 

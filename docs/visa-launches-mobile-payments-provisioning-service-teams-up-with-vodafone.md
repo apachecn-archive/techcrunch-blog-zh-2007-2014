@@ -1,4 +1,4 @@
-# Visa 推出移动支付供应服务；与沃达丰| TechCrunch 合作
+# Visa 推出移动支付供应服务；与沃达丰 合作
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/visa-launches-mobile-payments-provisioning-service-teams-up-with-vodafone/>
 

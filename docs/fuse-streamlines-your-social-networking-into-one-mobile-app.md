@@ -1,4 +1,4 @@
-# Fuse 将您的社交网络简化为一个移动应用| TechCrunch
+# Fuse 将您的社交网络简化为一个移动应用
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/28/fuse-streamlines-your-social-networking-into-one-mobile-app/>
 

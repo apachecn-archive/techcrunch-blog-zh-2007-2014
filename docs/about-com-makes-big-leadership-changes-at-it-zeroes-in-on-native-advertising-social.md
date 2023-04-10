@@ -1,4 +1,4 @@
-# About.com 在专注于本土广告和社交网站| TechCrunch 时进行了大规模的领导层变动
+# About.com 在专注于本土广告和社交网站 时进行了大规模的领导层变动
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/about-com-makes-big-leadership-changes-at-it-zeroes-in-on-native-advertising-social/>
 

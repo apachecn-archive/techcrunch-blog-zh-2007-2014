@@ -1,4 +1,4 @@
-# 21 岁的 Thiel Fellow 为 Figma | TechCrunch 筹集了 380 万美元
+# 21 岁的 Thiel Fellow 为 Figma  筹集了 380 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/26/21-years-4-million-dollars/>
 

@@ -1,4 +1,4 @@
-# Zoho Calendar 通过分享、订阅等功能走出测试版| TechCrunch
+# Zoho Calendar 通过分享、订阅等功能走出测试版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/07/07/zoho-calendar-steps-out-of-beta-with-sharing-subscribing-and-more/>
 

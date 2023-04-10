@@ -1,4 +1,4 @@
-# Casttoo:为你的演员纹身| TechCrunch
+# Casttoo:为你的演员纹身
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/10/casttoo-a-tattoo-for-your-cast/>
 

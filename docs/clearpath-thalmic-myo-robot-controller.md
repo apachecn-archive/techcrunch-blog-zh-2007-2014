@@ -1,4 +1,4 @@
-# Clearpath 使用 Thalmic 的 Myo 臂环来驾驶机器人，Jaeger Control 肯定是下一个| TechCrunch
+# Clearpath 使用 Thalmic 的 Myo 臂环来驾驶机器人，Jaeger Control 肯定是下一个
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/clearpath-thalmic-myo-robot-controller/>
 

@@ -1,4 +1,4 @@
-# 问一位风险投资家:凯鹏华盈(Kleiner Perkins)的特德施莱因(Ted Schlein)谈风险投资业发生了怎样的变化；企业的下一步是什么以及更多| TechCrunch
+# 问一位风险投资家:凯鹏华盈(Kleiner Perkins)的特德施莱因(Ted Schlein)谈风险投资业发生了怎样的变化；企业的下一步是什么以及更多
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/25/ask-a-vc-kleiner-perkins-ted-schlein-on-how-the-vc-industry-has-changed-whats-next-for-the-enterprise-and-more/>
 

@@ -1,4 +1,4 @@
-# Proximic 与雅虎和易贝签署协议，将产品列表转化为情境广告；挑战 AdSense | TechCrunch
+# Proximic 与雅虎和易贝签署协议，将产品列表转化为情境广告；挑战 AdSense 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/15/proximic-signs-deals-with-yahoo-and-ebay-to-turn-product-listings-into-contextual-ads-taking-on-adsense/>
 

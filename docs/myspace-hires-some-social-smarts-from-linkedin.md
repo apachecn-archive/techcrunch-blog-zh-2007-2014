@@ -1,4 +1,4 @@
-# MySpace 从 LinkedIn | TechCrunch 雇佣了一些社交高手
+# MySpace 从 LinkedIn  雇佣了一些社交高手
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/12/myspace-hires-some-social-smarts-from-linkedin/>
 

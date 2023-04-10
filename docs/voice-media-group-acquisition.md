@@ -1,4 +1,4 @@
-# Village Voice Media 高管收购该公司著名的 Alt 周刊，成立新的控股公司| TechCrunch
+# Village Voice Media 高管收购该公司著名的 Alt 周刊，成立新的控股公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/23/voice-media-group-acquisition/>
 

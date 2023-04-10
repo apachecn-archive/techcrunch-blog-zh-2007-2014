@@ -1,4 +1,4 @@
-# Dropbox 收购了简化在线销售的服务 Sold，以帮助其打造一款新的神秘商务产品| TechCrunch
+# Dropbox 收购了简化在线销售的服务 Sold，以帮助其打造一款新的神秘商务产品
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/04/dropbox-snatches-up-sold-the-service-that-simplifies-selling-online-to-help-it-build-a-new-mystery-ecommerce-product/>
 

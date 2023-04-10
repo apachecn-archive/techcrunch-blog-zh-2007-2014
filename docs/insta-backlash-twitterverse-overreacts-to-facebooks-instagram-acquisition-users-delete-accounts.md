@@ -1,4 +1,4 @@
-# Insta-Backlash: Twitterverse 对脸书收购 Instagram 反应过度，用户删除账户| TechCrunch
+# Insta-Backlash: Twitterverse 对脸书收购 Instagram 反应过度，用户删除账户
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/09/insta-backlash-twitterverse-overreacts-to-facebooks-instagram-acquisition-users-delete-accounts/>
 

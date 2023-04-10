@@ -1,4 +1,4 @@
-# TweetDeck 加入脸书连接大军| TechCrunch
+# TweetDeck 加入脸书连接大军
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/16/tweetdeck-joins-the-facebook-connect-army/>
 

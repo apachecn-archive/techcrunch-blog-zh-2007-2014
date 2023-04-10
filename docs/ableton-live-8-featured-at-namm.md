@@ -1,4 +1,4 @@
-# Ableton Live 8 亮相 NAMM | TechCrunch
+# Ableton Live 8 亮相 NAMM 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/19/ableton-live-8-featured-at-namm/>
 

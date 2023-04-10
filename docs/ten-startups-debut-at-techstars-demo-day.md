@@ -1,4 +1,4 @@
-# 十家创业公司亮相 TechStars 演示日| TechCrunch
+# 十家创业公司亮相 TechStars 演示日
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/20/ten-startups-debut-at-techstars-demo-day/>
 

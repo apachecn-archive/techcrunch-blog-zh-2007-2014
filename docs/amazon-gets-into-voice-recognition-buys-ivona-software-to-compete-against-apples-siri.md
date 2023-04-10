@@ -1,4 +1,4 @@
-# 亚马逊进军语音识别领域，收购 Ivona 软件与苹果的 Siri | TechCrunch 竞争
+# 亚马逊进军语音识别领域，收购 Ivona 软件与苹果的 Siri  竞争
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/24/amazon-gets-into-voice-recognition-buys-ivona-software-to-compete-against-apples-siri/>
 

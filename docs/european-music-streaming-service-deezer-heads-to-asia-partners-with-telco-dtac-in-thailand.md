@@ -1,4 +1,4 @@
-# 欧洲音乐流媒体服务 Deezer 进军亚洲；与泰国电信 dTac 合作| TechCrunch
+# 欧洲音乐流媒体服务 Deezer 进军亚洲；与泰国电信 dTac 合作
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/15/european-music-streaming-service-deezer-heads-to-asia-partners-with-telco-dtac-in-thailand/>
 

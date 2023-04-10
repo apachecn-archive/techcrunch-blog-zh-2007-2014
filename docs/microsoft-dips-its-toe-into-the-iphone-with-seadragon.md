@@ -1,4 +1,4 @@
-# 微软凭借 Seadragon Mobile | TechCrunch 涉足 iPhone
+# 微软凭借 Seadragon Mobile  涉足 iPhone
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/13/microsoft-dips-its-toe-into-the-iphone-with-seadragon/>
 

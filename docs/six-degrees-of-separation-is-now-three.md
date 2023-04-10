@@ -1,4 +1,4 @@
-# 六度分离现在是三度| TechCrunch
+# 六度分离现在是三度
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/03/six-degrees-of-separation-is-now-three/>
 

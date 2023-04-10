@@ -1,4 +1,4 @@
-# 点评:Innergie mCube90 通用适配器| TechCrunch
+# 点评:Innergie mCube90 通用适配器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/12/review-innergie-mcube90-universal-adapter/>
 

@@ -1,4 +1,4 @@
-# 新闻集团在 Flixster | TechCrunch 上卸载烂番茄
+# 新闻集团在 Flixster  上卸载烂番茄
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/04/rotten-tomatoes-flixster/>
 

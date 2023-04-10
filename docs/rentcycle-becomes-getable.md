@@ -1,4 +1,4 @@
-# Rentcycle 变得可获得；为租赁店推出店内管理平台| TechCrunch
+# Rentcycle 变得可获得；为租赁店推出店内管理平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/05/rentcycle-becomes-getable/>
 

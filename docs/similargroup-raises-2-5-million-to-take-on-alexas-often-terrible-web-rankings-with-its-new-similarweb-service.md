@@ -1,4 +1,4 @@
-# SimilarGroup 筹集了 250 万美元，通过其新的 SimilarWeb 服务| TechCrunch 来挑战 Alexa(通常很糟糕)的网络排名
+# SimilarGroup 筹集了 250 万美元，通过其新的 SimilarWeb 服务 来挑战 Alexa(通常很糟糕)的网络排名
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/29/similargroup-raises-2-5-million-to-take-on-alexas-often-terrible-web-rankings-with-its-new-similarweb-service/>
 

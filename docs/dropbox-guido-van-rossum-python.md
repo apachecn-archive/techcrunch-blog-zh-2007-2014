@@ -1,4 +1,4 @@
-# Dropbox 雇佣了谷歌的 Guido Van Rossum，Python | TechCrunch 之父
+# Dropbox 雇佣了谷歌的 Guido Van Rossum，Python  之父
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/07/dropbox-guido-van-rossum-python/>
 

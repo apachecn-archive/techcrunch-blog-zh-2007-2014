@@ -1,4 +1,4 @@
-# Nickelodeon 的 NPower 电子产品系列| TechCrunch
+# Nickelodeon 的 NPower 电子产品系列
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/27/nickelodeons-npower-lineup-of-electronics/>
 

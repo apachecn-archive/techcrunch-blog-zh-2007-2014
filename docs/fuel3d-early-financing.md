@@ -1,4 +1,4 @@
-# 在 Kickstarter 获得 30 万美元后，Fuel3D 为其高分辨率 3D 扫描仪又获得了 260 万美元，并讨论了早期 IPO | TechCrunch
+# 在 Kickstarter 获得 30 万美元后，Fuel3D 为其高分辨率 3D 扫描仪又获得了 260 万美元，并讨论了早期 IPO 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/13/fuel3d-early-financing/>
 

@@ -1,4 +1,4 @@
-# Akamai 以 3.7 亿美元收购 DDoS 预防专家 Prolexic，为企业增加安全产品| TechCrunch
+# Akamai 以 3.7 亿美元收购 DDoS 预防专家 Prolexic，为企业增加安全产品
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/02/akamai-buys-ddos-prevention-specialist-prolexic-for-370m-to-ramp-up-security-offerings/>
 

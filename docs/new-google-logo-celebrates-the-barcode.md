@@ -1,4 +1,4 @@
-# 新谷歌标志庆祝条形码| TechCrunch
+# 新谷歌标志庆祝条形码
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/06/new-google-logo-celebrates-the-barcode/>
 

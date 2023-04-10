@@ -1,4 +1,4 @@
-# Skype 正在谈判收购 Gizmo5 | TechCrunch
+# Skype 正在谈判收购 Gizmo5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/13/skype-in-negotiations-to-acquire-gizmo5/>
 

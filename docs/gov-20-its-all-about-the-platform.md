@@ -1,4 +1,4 @@
-# Gov 2.0:一切都在于平台| TechCrunch
+# Gov 2.0:一切都在于平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/04/gov-20-its-all-about-the-platform/>
 

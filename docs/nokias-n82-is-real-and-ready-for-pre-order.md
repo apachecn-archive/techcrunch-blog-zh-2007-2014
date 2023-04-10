@@ -1,4 +1,4 @@
-# 诺基亚的 N82 是真的，并准备好预购| TechCrunch
+# 诺基亚的 N82 是真的，并准备好预购
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/06/nokias-n82-is-real-and-ready-for-pre-order/>
 

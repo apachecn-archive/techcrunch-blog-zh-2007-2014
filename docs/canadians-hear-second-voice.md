@@ -1,4 +1,4 @@
-# 加拿大人听到第二种声音| TechCrunch
+# 加拿大人听到第二种声音
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/29/canadians-hear-second-voice/>
 

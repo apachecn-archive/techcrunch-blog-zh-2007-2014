@@ -1,4 +1,4 @@
-# 在 500 万次 iOS 下载后，房屋改造平台 Houzz 发布了其 Android 应用程序| TechCrunch
+# 在 500 万次 iOS 下载后，房屋改造平台 Houzz 发布了其 Android 应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/19/after-5m-ios-downloads-house-remodeling-platform-houzz-launches-its-android-app/>
 

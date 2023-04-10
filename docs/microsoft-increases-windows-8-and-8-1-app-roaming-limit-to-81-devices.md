@@ -1,4 +1,4 @@
-# 微软将 Windows 8 和 8.1 应用漫游限制提高至 81 台设备| TechCrunch
+# 微软将 Windows 8 和 8.1 应用漫游限制提高至 81 台设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/27/microsoft-increases-windows-8-and-8-1-app-roaming-limit-to-81-devices/>
 

@@ -1,4 +1,4 @@
-# Greenhouse 筹集了 270 万美元，让招聘成为 Airbnb | TechCrunch 等高速增长的初创公司的一门科学
+# Greenhouse 筹集了 270 万美元，让招聘成为 Airbnb  等高速增长的初创公司的一门科学
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/14/greenhouse-recruiting/>
 

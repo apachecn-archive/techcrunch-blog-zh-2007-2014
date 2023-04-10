@@ -1,4 +1,4 @@
-# Metail，你可能从未听说过的虚拟试衣间，与 Warehouse，Shop Direct 合作，跟随 Tesco 试用| TechCrunch
+# Metail，你可能从未听说过的虚拟试衣间，与 Warehouse，Shop Direct 合作，跟随 Tesco 试用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/05/metail-the-virtual-fitting-room-startup/>
 

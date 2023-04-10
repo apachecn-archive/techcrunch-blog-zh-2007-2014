@@ -1,4 +1,4 @@
-# RRE 风险投资公司、罗恩·康韦和方正集体向 BuzzFeed | TechCrunch 投资 800 万美元
+# RRE 风险投资公司、罗恩·康韦和方正集体向 BuzzFeed  投资 800 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/05/12/buzzfeed-8-million/>
 

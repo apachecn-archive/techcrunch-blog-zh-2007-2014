@@ -1,4 +1,4 @@
-# 帮助我帮助使用众包提高灾难响应效率| TechCrunch
+# 帮助我帮助使用众包提高灾难响应效率
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/04/help-me-help-wants-to-make-emergency-response-during-disasters-more-efficient/>
 

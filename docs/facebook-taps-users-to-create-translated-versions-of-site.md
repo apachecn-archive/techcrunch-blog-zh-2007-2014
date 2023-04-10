@@ -1,4 +1,4 @@
-# 脸书让用户创建网站的翻译版本。西班牙语、法语和德语现已推出| TechCrunch
+# 脸书让用户创建网站的翻译版本。西班牙语、法语和德语现已推出
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/01/21/facebook-taps-users-to-create-translated-versions-of-site/>
 

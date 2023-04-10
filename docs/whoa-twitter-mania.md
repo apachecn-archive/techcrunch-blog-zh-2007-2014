@@ -1,4 +1,4 @@
-# 哇，推特热| TechCrunch
+# 哇，推特热
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/13/whoa-twitter-mania/>
 

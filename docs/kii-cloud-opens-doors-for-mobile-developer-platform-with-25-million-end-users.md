@@ -1,4 +1,4 @@
-# Kii 云为拥有 2500 万最终用户的移动开发者平台打开大门| TechCrunch
+# Kii 云为拥有 2500 万最终用户的移动开发者平台打开大门
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/11/kii-cloud-opens-doors-for-mobile-developer-platform-with-25-million-end-users/>
 

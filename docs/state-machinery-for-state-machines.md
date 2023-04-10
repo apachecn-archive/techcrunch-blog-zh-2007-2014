@@ -1,4 +1,4 @@
-# 国家机器| TechCrunch
+# 国家机器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/23/state-machinery-for-state-machines/>
 

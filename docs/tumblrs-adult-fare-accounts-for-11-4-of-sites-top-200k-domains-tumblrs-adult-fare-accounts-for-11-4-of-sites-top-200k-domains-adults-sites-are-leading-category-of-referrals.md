@@ -1,4 +1,4 @@
-# Tumblr 的成人费用占网站前 20 万域名的 11.4%，成人网站是推荐的主要类别| TechCrunch
+# Tumblr 的成人费用占网站前 20 万域名的 11.4%，成人网站是推荐的主要类别
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/20/tumblrs-adult-fare-accounts-for-11-4-of-sites-top-200k-domains-tumblrs-adult-fare-accounts-for-11-4-of-sites-top-200k-domains-adults-sites-are-leading-category-of-referrals/>
 

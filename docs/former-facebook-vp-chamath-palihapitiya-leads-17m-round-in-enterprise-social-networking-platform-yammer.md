@@ -1,4 +1,4 @@
-# 前脸书副总裁 Chamath Palihapitiya 在企业社交网络平台 Yammer | TechCrunch 领投 1700 万美元
+# 前脸书副总裁 Chamath Palihapitiya 在企业社交网络平台 Yammer  领投 1700 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/27/former-facebook-vp-chamath-palihapitiya-leads-17m-round-in-enterprise-social-networking-platform-yammer/>
 

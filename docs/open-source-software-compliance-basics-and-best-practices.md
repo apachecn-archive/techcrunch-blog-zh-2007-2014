@@ -1,4 +1,4 @@
-# 开源软件:合规基础和最佳实践| TechCrunch
+# 开源软件:合规基础和最佳实践
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/>
 

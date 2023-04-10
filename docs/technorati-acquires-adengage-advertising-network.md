@@ -1,4 +1,4 @@
-# Technorati 收购 AdEngage 广告网络| TechCrunch
+# Technorati 收购 AdEngage 广告网络
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/15/technorati-acquires-adengage-advertising-network/>
 

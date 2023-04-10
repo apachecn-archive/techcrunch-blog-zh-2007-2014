@@ -1,4 +1,4 @@
-# 3D 模型在线市场 CGTrader 从 Practica | TechCrunch 筹集了 18.5 万欧元
+# 3D 模型在线市场 CGTrader 从 Practica  筹集了 18.5 万欧元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/21/cgtrader-an-online-marketplace-for-3d-models-raises-185k-euro-from-practica/>
 

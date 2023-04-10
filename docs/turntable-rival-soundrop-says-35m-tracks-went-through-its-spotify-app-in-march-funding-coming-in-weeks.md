@@ -1,4 +1,4 @@
-# 唱盘竞争对手 Soundrop 表示，3 月份有 3500 万首歌曲通过了 Spotify 应用程序；资金将在数周内到位| TechCrunch
+# 唱盘竞争对手 Soundrop 表示，3 月份有 3500 万首歌曲通过了 Spotify 应用程序；资金将在数周内到位
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/17/turntable-rival-soundrop-says-35m-tracks-went-through-its-spotify-app-in-march-funding-coming-in-weeks/>
 

@@ -1,4 +1,4 @@
-# 微收购:TwitterCounter 包含 Twitaholic | TechCrunch
+# 微收购:TwitterCounter 包含 Twitaholic 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/04/micro-acquisition-twittercounter-subsumes-twitaholic/>
 

@@ -1,4 +1,4 @@
-# “你可以打败全球性的美国公司，”VKontakte 创始人帕维尔·杜罗夫| TechCrunch 说
+# “你可以打败全球性的美国公司，”VKontakte 创始人帕维尔·杜罗夫 说
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/28/beat-american-companies-vkontakte/>
 

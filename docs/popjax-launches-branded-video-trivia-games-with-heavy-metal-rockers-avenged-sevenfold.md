@@ -1,4 +1,4 @@
-# Popjax 推出品牌视频琐事游戏，重金属摇滚七倍复仇| TechCrunch
+# Popjax 推出品牌视频琐事游戏，重金属摇滚七倍复仇
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/05/20/popjax-launches-branded-video-trivia-games-with-heavy-metal-rockers-avenged-sevenfold/>
 

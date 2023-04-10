@@ -1,4 +1,4 @@
-# 关于免费 Windows | TechCrunch 的一些想法
+# 关于免费 Windows  的一些想法
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/28/a-few-thoughts-on-free-windows/>
 

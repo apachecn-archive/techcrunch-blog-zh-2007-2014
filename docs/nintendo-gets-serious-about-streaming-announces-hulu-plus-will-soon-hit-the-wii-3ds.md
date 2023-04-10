@@ -1,4 +1,4 @@
-# 任天堂开始重视流媒体，宣布 Hulu Plus 将很快登陆 Wii，3DS | TechCrunch
+# 任天堂开始重视流媒体，宣布 Hulu Plus 将很快登陆 Wii，3DS 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/21/nintendo-gets-serious-about-streaming-announces-hulu-plus-will-soon-hit-the-wii-3ds/>
 

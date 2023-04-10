@@ -1,4 +1,4 @@
-# 如何回到之前的脸书界面(当你还可以的时候)| TechCrunch
+# 如何回到之前的脸书界面(当你还可以的时候)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/21/how-to-go-back-to-the-previous-facebook-interface-while-you-still-can/>
 

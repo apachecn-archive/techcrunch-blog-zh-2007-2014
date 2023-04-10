@@ -1,4 +1,4 @@
-# Twitter 手铐客户端应用程序的新 API 变化| TechCrunch
+# Twitter 手铐客户端应用程序的新 API 变化
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/16/twitter-api-client-apps/>
 

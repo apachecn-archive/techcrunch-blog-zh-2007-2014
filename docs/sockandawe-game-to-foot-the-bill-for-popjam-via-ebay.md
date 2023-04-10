@@ -1,4 +1,4 @@
-# 为 PopJam 买单的 SockAndAwe 游戏——via 易贝| TechCrunch
+# 为 PopJam 买单的 SockAndAwe 游戏——via 易贝
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/17/sockandawe-game-to-foot-the-bill-for-popjam-via-ebay/>
 

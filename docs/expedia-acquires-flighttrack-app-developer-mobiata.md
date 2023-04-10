@@ -1,4 +1,4 @@
-# Expedia 收购 FlightTrack 应用开发商 Mobiata | TechCrunch
+# Expedia 收购 FlightTrack 应用开发商 Mobiata 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/18/expedia-acquires-flighttrack-app-developer-mobiata/>
 

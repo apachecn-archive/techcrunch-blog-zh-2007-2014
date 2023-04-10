@@ -1,4 +1,4 @@
-# 要解锁全价美国电话电报公司 iPhone 5，只需在 iTunes | TechCrunch 中恢复即可
+# 要解锁全价美国电话电报公司 iPhone 5，只需在 iTunes  中恢复即可
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/26/to-unlock-a-full-price-att-iphone-5-just-restore-it-in-itunes/>
 

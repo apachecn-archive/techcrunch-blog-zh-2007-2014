@@ -1,4 +1,4 @@
-# 创意禅现在播放 AAC 文件| TechCrunch
+# 创意禅现在播放 AAC 文件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/creative-zen-now-plays-aac-files/>
 

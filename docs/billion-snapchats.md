@@ -1,4 +1,4 @@
-# 你知道什么很酷吗？十亿张 Snapchats:应用程序每天分享超过 2000 万张照片，发布在 Android | TechCrunch 上
+# 你知道什么很酷吗？十亿张 Snapchats:应用程序每天分享超过 2000 万张照片，发布在 Android  上
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/29/billion-snapchats/>
 

@@ -1,4 +1,4 @@
-# Splunk 收购 BugSense，一个分析移动数据的平台| TechCrunch
+# Splunk 收购 BugSense，一个分析移动数据的平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/16/splunk-acquires-bugsense-a-platform-for-analyzing-mobile-data/>
 

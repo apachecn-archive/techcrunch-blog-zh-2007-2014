@@ -1,4 +1,4 @@
-# 随着 SocialPlan 被 MySpace | TechCrunch 收购，Slingshot Labs 的消亡被夸大了
+# 随着 SocialPlan 被 MySpace  收购，Slingshot Labs 的消亡被夸大了
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/13/slingshot-myspace-socialplan/>
 

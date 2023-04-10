@@ -1,4 +1,4 @@
-# Scribol 飙升至 2600 万美元(但你并不想去那里)| TechCrunch
+# Scribol 飙升至 2600 万美元(但你并不想去那里)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/06/scribol-surges-to-26-million-uniques-but-you-didnt-mean-to-go-there/>
 

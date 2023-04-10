@@ -1,4 +1,4 @@
-# 苹果应用商店点击 650，000 个应用:250，000 个为 iPad 设计，55 亿美元支付给 Devs | TechCrunch
+# 苹果应用商店点击 650，000 个应用:250，000 个为 iPad 设计，55 亿美元支付给 Devs 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/apple-app-store-hits-650000-apps-250000-designed-for-ipad-5-5b-paid-out-to-devs/>
 

@@ -1,4 +1,4 @@
-# 手机游戏新闻:恶魔城来自科那米，凯普康的甲板上的恶魔，我-发挥冲向 ER | TechCrunch
+# 手机游戏新闻:恶魔城来自科那米，凯普康的甲板上的恶魔，我-发挥冲向 ER 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/mobile-game-news-castlevania-coming-from-konami-capcoms-devil-on-deck-i-play-rushes-to-the-er/>
 

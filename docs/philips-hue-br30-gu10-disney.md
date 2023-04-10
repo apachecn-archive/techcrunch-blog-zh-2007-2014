@@ -1,4 +1,4 @@
-# 飞利浦 Hue 凭借新的 BR30、GU10 和迪士尼灯继续主导智能照明| TechCrunch
+# 飞利浦 Hue 凭借新的 BR30、GU10 和迪士尼灯继续主导智能照明
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/05/philips-hue-br30-gu10-disney/>
 

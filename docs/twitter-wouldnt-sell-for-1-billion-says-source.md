@@ -1,4 +1,4 @@
-# 来源| TechCrunch 称，Twitter 不会以 10 亿美元出售
+# 来源 称，Twitter 不会以 10 亿美元出售
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/03/twitter-wouldnt-sell-for-1-billion-says-source/>
 

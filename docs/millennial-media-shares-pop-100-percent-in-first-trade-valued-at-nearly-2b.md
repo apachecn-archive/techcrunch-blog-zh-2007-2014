@@ -1,4 +1,4 @@
-# 千禧传媒的股票在交易的第一天上涨了 100%；2B | TechCrunch
+# 千禧传媒的股票在交易的第一天上涨了 100%；2B 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/29/millennial-media-shares-pop-100-percent-in-first-trade-valued-at-nearly-2b/>
 

@@ -1,4 +1,4 @@
-# 从前在美国...一鸣惊人的破产文件| TechCrunch
+# 从前在美国...一鸣惊人的破产文件
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/23/blockbuster-goes-bust/>
 

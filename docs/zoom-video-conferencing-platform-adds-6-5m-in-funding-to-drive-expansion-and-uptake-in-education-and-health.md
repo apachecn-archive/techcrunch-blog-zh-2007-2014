@@ -1,4 +1,4 @@
-# Zoom 视频会议增加了 650 万美元的资金，推动教育和医疗领域的扩展和普及| TechCrunch
+# Zoom 视频会议增加了 650 万美元的资金，推动教育和医疗领域的扩展和普及
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/24/zoom-video-conferencing-platform-adds-6-5m-in-funding-to-drive-expansion-and-uptake-in-education-and-health/>
 

@@ -1,4 +1,4 @@
-# 深入了解 Blackbox 关于创业失败及其主要原因的数据:过早扩展[信息图] | TechCrunch
+# 深入了解 Blackbox 关于创业失败及其主要原因的数据:过早扩展[信息图] 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/01/a-deeper-look-at-blackboxs-data-on-startup-failure-and-its-top-cause-premature-scaling-infographic/>
 

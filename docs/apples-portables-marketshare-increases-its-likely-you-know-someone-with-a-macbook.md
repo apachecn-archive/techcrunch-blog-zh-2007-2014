@@ -1,4 +1,4 @@
-# 苹果便携式电脑的市场份额增加；你很可能认识某个拥有 MacBook | TechCrunch 的人
+# 苹果便携式电脑的市场份额增加；你很可能认识某个拥有 MacBook  的人
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/29/apples-portables-marketshare-increases-its-likely-you-know-someone-with-a-macbook/>
 

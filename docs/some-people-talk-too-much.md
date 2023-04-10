@@ -1,4 +1,4 @@
-# 有些人说得太多| TechCrunch
+# 有些人说得太多
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/some-people-talk-too-much/>
 

@@ -1,4 +1,4 @@
-# OpenSocial 再次被黑| TechCrunch
+# OpenSocial 再次被黑
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/05/opensocial-hacked-again/>
 

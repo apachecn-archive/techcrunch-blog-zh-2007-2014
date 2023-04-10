@@ -1,4 +1,4 @@
-# 进入 Dronenet | TechCrunch
+# 进入 Dronenet 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/05/matternet-enter-the-dronenet/>
 

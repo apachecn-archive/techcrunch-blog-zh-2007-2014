@@ -1,4 +1,4 @@
-# Shopify 与 FUBU 创始人蒂姆·费里斯(Tim Ferriss)和埃里克·里斯(Eric Ries)联手，帮助你打造价值 100 万美元的电子商务业务| TechCrunch
+# Shopify 与 FUBU 创始人蒂姆·费里斯(Tim Ferriss)和埃里克·里斯(Eric Ries)联手，帮助你打造价值 100 万美元的电子商务业务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/10/shopify-build-a-business-competition/>
 

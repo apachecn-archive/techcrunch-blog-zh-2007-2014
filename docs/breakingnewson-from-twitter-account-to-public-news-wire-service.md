@@ -1,4 +1,4 @@
-# @BreakingNewsOn:从 Twitter 账户到公共新闻通讯社| TechCrunch
+# @BreakingNewsOn:从 Twitter 账户到公共新闻通讯社
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/08/breakingnewson-from-twitter-account-to-public-news-wire-service/>
 

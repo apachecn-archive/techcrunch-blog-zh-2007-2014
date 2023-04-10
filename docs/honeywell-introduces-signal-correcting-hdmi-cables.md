@@ -1,4 +1,4 @@
-# 霍尼韦尔推出信号校正 HDMI 电缆| TechCrunch
+# 霍尼韦尔推出信号校正 HDMI 电缆
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/29/honeywell-introduces-signal-correcting-hdmi-cables/>
 

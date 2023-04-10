@@ -1,4 +1,4 @@
-# 手机 3D 乐高积木| TechCrunch
+# 手机 3D 乐高积木
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/28/3d-legos-for-your-mobile-phone/>
 

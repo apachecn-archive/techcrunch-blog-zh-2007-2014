@@ -1,4 +1,4 @@
-# Adobe 收购 HTML5 移动应用框架 PhoneGap Nitobi | TechCrunch 的开发商
+# Adobe 收购 HTML5 移动应用框架 PhoneGap Nitobi  的开发商
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/adobe-acquires-developer-of-html5-mobile-app-framework-phonegap-nitobi/>
 

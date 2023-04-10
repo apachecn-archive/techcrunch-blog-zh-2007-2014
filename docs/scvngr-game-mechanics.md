@@ -1,4 +1,4 @@
-# SCVNGR 的秘密游戏机制 Playdeck | TechCrunch
+# SCVNGR 的秘密游戏机制 Playdeck 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/25/scvngr-game-mechanics/>
 

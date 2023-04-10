@@ -1,4 +1,4 @@
-# 系列 A 华勃:基准投资 3300 万美元在新 BI 公司 Domo | TechCrunch
+# 系列 A 华勃:基准投资 3300 万美元在新 BI 公司 Domo 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/13/series-a-whopper-benchmark-invests-33m-in-new-bi-company-domo/>
 

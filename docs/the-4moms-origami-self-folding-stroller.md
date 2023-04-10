@@ -1,4 +1,4 @@
-# 4Moms 的折纸自动折叠婴儿车| TechCrunch
+# 4Moms 的折纸自动折叠婴儿车
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/20/the-4moms-origami-self-folding-stroller/>
 

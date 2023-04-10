@@ -1,4 +1,4 @@
-# Spotify 收购音乐发现应用 Tunigo，这是 Spotify 支持的 Songza 的竞争对手| TechCrunch
+# Spotify 收购音乐发现应用 Tunigo，这是 Spotify 支持的 Songza 的竞争对手
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/03/spotify-acquires-music-discovery-app-tunigo-a-spotify-powered-songza-competitor/>
 

@@ -1,4 +1,4 @@
-# 为什么不应该在 API 调用上建立业务| TechCrunch
+# 为什么不应该在 API 调用上建立业务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/14/why-you-shouldnt-build-a-business-on-an-api-call/>
 

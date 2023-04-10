@@ -1,4 +1,4 @@
-# 你必须在 SXSW Royal Rumble | TechCrunch 上使用的所有定位应用程序
+# 你必须在 SXSW Royal Rumble  上使用的所有定位应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/06/all-the-location-apps-you-have-to-use-at-the-sxsw-royal-rumble/>
 

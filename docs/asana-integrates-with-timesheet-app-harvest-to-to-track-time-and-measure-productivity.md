@@ -1,4 +1,4 @@
-# Asana 与时间表应用 Harvest 集成，以跟踪时间和衡量生产力| TechCrunch
+# Asana 与时间表应用 Harvest 集成，以跟踪时间和衡量生产力
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/07/asana-integrates-with-timesheet-app-harvest-to-to-track-time-and-measure-productivity/>
 

@@ -1,4 +1,4 @@
-# 随着雅培从 Palm 跳槽到 Twitter，帕斯成为了第一位 Twitter 首席技术官| TechCrunch
+# 随着雅培从 Palm 跳槽到 Twitter，帕斯成为了第一位 Twitter 首席技术官
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/19/twitter-palm-abbott-pass-cto/>
 

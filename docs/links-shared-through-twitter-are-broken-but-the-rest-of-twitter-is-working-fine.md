@@ -1,4 +1,4 @@
-# 通过 Twitter 分享的链接中断了，但 Twitter 的其他部分工作正常(更新:只是开玩笑)| TechCrunch
+# 通过 Twitter 分享的链接中断了，但 Twitter 的其他部分工作正常(更新:只是开玩笑)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/links-shared-through-twitter-are-broken-but-the-rest-of-twitter-is-working-fine/>
 

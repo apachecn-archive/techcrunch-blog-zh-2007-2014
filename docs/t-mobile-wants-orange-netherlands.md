@@ -1,4 +1,4 @@
-# T-Mobile 想要 Orange Netherlands | TechCrunch
+# T-Mobile 想要 Orange Netherlands 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/t-mobile-wants-orange-netherlands/>
 

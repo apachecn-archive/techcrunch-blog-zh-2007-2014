@@ -1,4 +1,4 @@
-# 之前和之后| TechCrunch
+# 之前和之后
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/20/before-and-after/>
 

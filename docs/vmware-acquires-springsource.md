@@ -1,4 +1,4 @@
-# VMWare 收购 SpringSource | TechCrunch
+# VMWare 收购 SpringSource 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/10/vmware-acquires-springsource/>
 

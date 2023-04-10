@@ -1,4 +1,4 @@
-# 真他妈的酷:Photosynth 团队演示合成应用| TechCrunch 的新版本
+# 真他妈的酷:Photosynth 团队演示合成应用 的新版本
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/13/really-damn-cool-photosynth-team-demos-new-version-of-compositing-app/>
 

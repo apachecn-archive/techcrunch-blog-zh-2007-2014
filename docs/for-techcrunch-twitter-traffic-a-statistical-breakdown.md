@@ -1,4 +1,4 @@
-# 对于 TechCrunch 来说，Twitter =流量(一个统计细目)| TechCrunch
+# 对于 TechCrunch 来说，Twitter =流量(一个统计细目)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/14/for-techcrunch-twitter-traffic-a-statistical-breakdown/>
 

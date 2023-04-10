@@ -1,4 +1,4 @@
-# SocialGreat 开始追踪所有四方城市的时尚地点| TechCrunch
+# SocialGreat 开始追踪所有四方城市的时尚地点
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/04/socialgreat-starts-tracking-trendy-places-for-all-foursquare-cities/>
 

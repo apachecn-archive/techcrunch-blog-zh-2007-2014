@@ -1,4 +1,4 @@
-# 任天堂 Prez: iPad 带来“不惊喜”| TechCrunch
+# 任天堂 Prez: iPad 带来“不惊喜”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/29/nintendo-prez-ipad-brings-no-surprises/>
 

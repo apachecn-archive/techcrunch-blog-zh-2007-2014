@@ -1,4 +1,4 @@
-# 学到 DNS 不安全的惨痛教训:攻击细节现已公开| TechCrunch
+# 学到 DNS 不安全的惨痛教训:攻击细节现已公开
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/22/learning-the-hard-way-that-dns-is-insecure-attack-details-now-public/>
 

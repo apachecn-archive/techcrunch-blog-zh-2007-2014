@@ -1,4 +1,4 @@
-# Joustin' Beaver 应用程序制造商收到了贾斯汀比伯| TechCrunch 的停止令
+# Joustin' Beaver 应用程序制造商收到了贾斯汀比伯 的停止令
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/24/joustin-beaver-app-maker-served-a-cease-desist-order-from-justin-bieber/>
 

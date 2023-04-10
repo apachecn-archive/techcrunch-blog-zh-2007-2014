@@ -1,4 +1,4 @@
-# QuicklyChat 为小型远程团队带来“一键通”视频| TechCrunch
+# QuicklyChat 为小型远程团队带来“一键通”视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/13/quicklychat-brings-push-to-talk-video-to-small-remote-teams/>
 

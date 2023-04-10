@@ -1,4 +1,4 @@
-# Pinvolve 将脸书页面转换成 Pinterest 图钉板，将 Repins 增加 150%+ | TechCrunch
+# Pinvolve 将脸书页面转换成 Pinterest 图钉板，将 Repins 增加 150%+ 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/09/pinvolve-converts-facebook-pages-into-pinterest-pinboards-increases-repins-by-150/>
 

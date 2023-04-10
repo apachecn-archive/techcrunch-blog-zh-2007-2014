@@ -1,4 +1,4 @@
-# 麦克米伦收购 Late Nite Labs，帮助将虚拟科学实验室带入高等教育| TechCrunch
+# 麦克米伦收购 Late Nite Labs，帮助将虚拟科学实验室带入高等教育
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/20/macmillan-buys-late-nite-labs-to-help-bring-virtual-science-labs-to-higher-ed/>
 

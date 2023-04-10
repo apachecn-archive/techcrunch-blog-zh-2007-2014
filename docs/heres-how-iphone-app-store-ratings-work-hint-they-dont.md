@@ -1,4 +1,4 @@
-# 以下是苹果应用商店评级的运作方式。提示:他们没有。| TechCrunch
+# 以下是苹果应用商店评级的运作方式。提示:他们没有。
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2009/06/29/heres-how-iphone-app-store-ratings-work-hint-they-dont/>
 

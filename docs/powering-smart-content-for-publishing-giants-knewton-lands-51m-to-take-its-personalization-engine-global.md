@@ -1,4 +1,4 @@
-# 为出版巨头提供智能内容，Knewton 斥资 5100 万美元将个性化学习推向全球| TechCrunch
+# 为出版巨头提供智能内容，Knewton 斥资 5100 万美元将个性化学习推向全球
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/19/powering-smart-content-for-publishing-giants-knewton-lands-51m-to-take-its-personalization-engine-global/>
 

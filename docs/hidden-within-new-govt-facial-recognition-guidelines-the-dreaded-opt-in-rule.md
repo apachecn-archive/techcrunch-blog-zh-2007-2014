@@ -1,4 +1,4 @@
-# 隐藏在新政府内部。面部识别指南，可怕的“选择加入”规则| TechCrunch
+# 隐藏在新政府内部。面部识别指南，可怕的“选择加入”规则
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/24/hidden-within-new-govt-facial-recognition-guidelines-the-dreaded-opt-in-rule/>
 

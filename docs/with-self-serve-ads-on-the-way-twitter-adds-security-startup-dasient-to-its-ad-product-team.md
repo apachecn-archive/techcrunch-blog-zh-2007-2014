@@ -1,4 +1,4 @@
-# 随着自助广告的出现，Twitter 将安全初创公司 Dasient 加入其广告产品团队| TechCrunch
+# 随着自助广告的出现，Twitter 将安全初创公司 Dasient 加入其广告产品团队
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/23/with-self-serve-ads-on-the-way-twitter-adds-security-startup-dasient-to-its-ad-product-team/>
 

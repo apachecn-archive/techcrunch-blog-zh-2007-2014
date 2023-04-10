@@ -1,4 +1,4 @@
-# 比较新款 iMac 键盘和老款键盘| TechCrunch
+# 比较新款 iMac 键盘和老款键盘
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/20/comparing-the-new-imac-keyboard-to-the-oldies/>
 

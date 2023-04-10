@@ -1,4 +1,4 @@
-# 帮助键:苹果律师五分钟内伪造 Photoshop the Fat Nano | TechCrunch
+# 帮助键:苹果律师五分钟内伪造 Photoshop the Fat Nano 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/help-key-fake-photoshop-the-fat-nano%e2%84%a2-in-five-minutes-for-apples-lawyers/>
 

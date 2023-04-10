@@ -1,4 +1,4 @@
-# 索尼宣布推出 32GB 记忆棒 PRO-HG Duo HX | TechCrunch
+# 索尼宣布推出 32GB 记忆棒 PRO-HG Duo HX 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/13/sony-goes-hogwild-announces-the-32gb-memory-stick-pro-hg-duo-hx/>
 

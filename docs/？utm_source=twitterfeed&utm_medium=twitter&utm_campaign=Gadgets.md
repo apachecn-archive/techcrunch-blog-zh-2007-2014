@@ -1,4 +1,4 @@
-# 周末搞怪图片:这个触摸板广告有什么问题？| TechCrunch
+# 周末搞怪图片:这个触摸板广告有什么问题？
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/21/weekend-wacky-jumble-picture-whats-wrong-with-this-touchpad-ad/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Gadgets>
 

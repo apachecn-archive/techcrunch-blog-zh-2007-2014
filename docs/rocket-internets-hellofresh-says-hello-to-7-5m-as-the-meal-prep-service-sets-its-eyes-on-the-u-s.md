@@ -1,4 +1,4 @@
-# Rocket Internet 的 HelloFresh 向 750 万美元问好，因为膳食准备服务将目光投向了美国| TechCrunch
+# Rocket Internet 的 HelloFresh 向 750 万美元问好，因为膳食准备服务将目光投向了美国
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/30/rocket-internets-hellofresh-says-hello-to-7-5m-as-the-meal-prep-service-sets-its-eyes-on-the-u-s/>
 

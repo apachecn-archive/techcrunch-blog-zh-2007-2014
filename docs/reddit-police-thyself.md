@@ -1,4 +1,4 @@
-# Reddit，管好你自己| TechCrunch
+# Reddit，管好你自己
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/13/reddit-police-thyself/>
 

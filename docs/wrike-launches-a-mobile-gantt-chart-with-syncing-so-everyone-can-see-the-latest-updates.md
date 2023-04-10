@@ -1,4 +1,4 @@
-# Wrike 推出了一个带有同步功能的移动甘特图，这样每个人都可以看到最新的更新| TechCrunch
+# Wrike 推出了一个带有同步功能的移动甘特图，这样每个人都可以看到最新的更新
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/08/wrike-launches-a-mobile-gantt-chart-with-syncing-so-everyone-can-see-the-latest-updates/>
 

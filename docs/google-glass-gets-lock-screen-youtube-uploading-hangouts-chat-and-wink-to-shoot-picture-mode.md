@@ -1,4 +1,4 @@
-# 谷歌眼镜有“眨眼拍照”模式、锁屏、YouTube 上传和 Hangouts 聊天| TechCrunch
+# 谷歌眼镜有“眨眼拍照”模式、锁屏、YouTube 上传和 Hangouts 聊天
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/12/17/google-glass-gets-lock-screen-youtube-uploading-hangouts-chat-and-wink-to-shoot-picture-mode/>
 

@@ -1,4 +1,4 @@
-# Gartner:2012 年移动支付超过 1720 亿美元；短信、网络最受欢迎的路线| TechCrunch
+# Gartner:2012 年移动支付超过 1720 亿美元；短信、网络最受欢迎的路线
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/29/gartner-over-172b-in-mobile-payments-in-2012-with-212m-users-sms-web-most-popular-transaction-methods/>
 

@@ -1,4 +1,4 @@
-# Shazam，送货代理合作伙伴，让您购买您最喜爱的电视角色的东西| TechCrunch
+# Shazam，送货代理合作伙伴，让您购买您最喜爱的电视角色的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/08/shazam-delivery-agent-partner-to-let-you-buy-your-favorite-tv-characters-stuff/>
 

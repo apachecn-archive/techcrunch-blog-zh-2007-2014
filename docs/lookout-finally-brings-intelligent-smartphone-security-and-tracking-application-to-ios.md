@@ -1,4 +1,4 @@
-# Lookout 终于为 iOS | TechCrunch 带来了智能手机安全和跟踪应用程序
+# Lookout 终于为 iOS  带来了智能手机安全和跟踪应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/18/lookout-finally-brings-intelligent-smartphone-security-and-tracking-application-to-ios/>
 

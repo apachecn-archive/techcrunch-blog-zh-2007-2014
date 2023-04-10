@@ -1,4 +1,4 @@
-# 解锁的谷歌手机(已证实及更多细节)| TechCrunch
+# 解锁的谷歌手机(已证实及更多细节)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/12/the-google-phone-unlocked-confirmed-and-more-details/>
 

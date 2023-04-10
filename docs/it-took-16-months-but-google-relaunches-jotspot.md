@@ -1,4 +1,4 @@
-# 花了 16 个月，但谷歌重新推出了 Jotspot | TechCrunch
+# 花了 16 个月，但谷歌重新推出了 Jotspot 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/27/it-took-16-months-but-google-relaunches-jotspot/>
 

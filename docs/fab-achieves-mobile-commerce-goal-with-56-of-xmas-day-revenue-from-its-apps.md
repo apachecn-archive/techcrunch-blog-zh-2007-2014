@@ -1,4 +1,4 @@
-# Fab 实现移动商务目标，56%的圣诞节收入来自其应用程序| TechCrunch
+# Fab 实现移动商务目标，56%的圣诞节收入来自其应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/26/fab-achieves-mobile-commerce-goal-with-56-of-xmas-day-revenue-from-its-apps/>
 

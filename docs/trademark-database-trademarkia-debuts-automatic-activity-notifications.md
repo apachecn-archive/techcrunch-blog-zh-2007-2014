@@ -1,4 +1,4 @@
-# 商标数据库 Trademarkia 首次推出自动活动通知| TechCrunch
+# 商标数据库 Trademarkia 首次推出自动活动通知
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/04/trademark-database-trademarkia-debuts-automatic-activity-notifications/>
 

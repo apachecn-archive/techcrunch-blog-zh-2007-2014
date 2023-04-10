@@ -1,4 +1,4 @@
-# FlightTrack Pro 将 TripIt(及更多)放入您的口袋| TechCrunch
+# FlightTrack Pro 将 TripIt(及更多)放入您的口袋
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/06/flighttrack-pro-puts-tripit-and-more-in-your-pocket/>
 

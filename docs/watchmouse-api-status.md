@@ -1,4 +1,4 @@
-# WatchMouse 监控 26 个流行的 API，因此您不必| TechCrunch
+# WatchMouse 监控 26 个流行的 API，因此您不必
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/19/watchmouse-api-status/>
 

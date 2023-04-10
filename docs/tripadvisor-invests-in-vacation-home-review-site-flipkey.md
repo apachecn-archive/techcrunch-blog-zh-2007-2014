@@ -1,4 +1,4 @@
-# 猫途鹰投资度假屋评论网站 FlipKey | TechCrunch
+# 猫途鹰投资度假屋评论网站 FlipKey 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/20/tripadvisor-invests-in-vacation-home-review-site-flipkey/>
 

@@ -1,4 +1,4 @@
-# Clinkle 筹集了名人云集的 2500 万美元，准备消除实体钱包| TechCrunch
+# Clinkle 筹集了名人云集的 2500 万美元，准备消除实体钱包
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/clinkle-raises-celebrity-filled-25m-round-as-it-gears-up-to-eliminate-the-physical-wallet/>
 

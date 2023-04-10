@@ -1,4 +1,4 @@
-# 摩托罗拉 RAZR 2 V9m 快速查看| TechCrunch
+# 摩托罗拉 RAZR 2 V9m 快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/motorola-razr-2-v9m-quick-look/>
 

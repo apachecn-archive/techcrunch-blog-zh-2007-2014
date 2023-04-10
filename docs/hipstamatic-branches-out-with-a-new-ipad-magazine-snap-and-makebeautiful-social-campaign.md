@@ -1,4 +1,4 @@
-# Hipstamatic 推出了新的 iPad 杂志 Snap 和# make beautiful Social Campaign | TechCrunch
+# Hipstamatic 推出了新的 iPad 杂志 Snap 和# make beautiful Social Campaign 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/31/hipstamatic-branches-out-with-a-new-ipad-magazine-snap-and-makebeautiful-social-campaign/>
 

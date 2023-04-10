@@ -1,4 +1,4 @@
-# Salesforce 收购社交表现平台 Rypple 将推出“人力资本管理”单元 Successforce | TechCrunch
+# Salesforce 收购社交表现平台 Rypple 将推出“人力资本管理”单元 Successforce 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/15/salesforce-acquires-social-performance-platform-rypple-will-launch-human-capital-management-unit-successforce/>
 

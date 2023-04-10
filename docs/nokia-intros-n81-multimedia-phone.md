@@ -1,4 +1,4 @@
-# 诺基亚推出 N81 多媒体手机| TechCrunch
+# 诺基亚推出 N81 多媒体手机
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/nokia-intros-n81-multimedia-phone/>
 

@@ -1,4 +1,4 @@
-# Salesfusion 收购营销分析平台 LoopFuse | TechCrunch
+# Salesfusion 收购营销分析平台 LoopFuse 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/30/salesfusion-loopfuse/>
 

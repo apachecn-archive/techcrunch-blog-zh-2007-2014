@@ -1,4 +1,4 @@
-# Evernote 开启了三项新的安全功能，包括双因素认证，在 2 月份的重大违规事件后| TechCrunch
+# Evernote 开启了三项新的安全功能，包括双因素认证，在 2 月份的重大违规事件后
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/30/evernote-turns-on-three-new-security-features-including-2-factor-authentication-after-a-malicious-hack-forced-it-to-reset-all-50m-user-passwords-this-year/>
 

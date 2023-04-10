@@ -1,4 +1,4 @@
-# 69adget 的 OhMiBod 自由泳评论| TechCrunch
+# 69adget 的 OhMiBod 自由泳评论
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/24/69gadgets-ohmibod-freestyle-review/>
 

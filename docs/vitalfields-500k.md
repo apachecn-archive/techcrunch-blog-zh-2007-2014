@@ -1,4 +1,4 @@
-# 爱沙尼亚农场管理初创公司 VitalFields 进一步提高€50 万| TechCrunch
+# 爱沙尼亚农场管理初创公司 VitalFields 进一步提高€50 万
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/vitalfields-500k/>
 

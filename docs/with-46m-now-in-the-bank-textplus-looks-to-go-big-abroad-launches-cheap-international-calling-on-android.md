@@ -1,4 +1,4 @@
-# 拥有 4600 万美元存款的 textPlus 打算进军海外，在 Android | TechCrunch 上推出廉价的国际通话服务
+# 拥有 4600 万美元存款的 textPlus 打算进军海外，在 Android  上推出廉价的国际通话服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/13/with-46m-now-in-the-bank-textplus-looks-to-go-big-abroad-launches-cheap-international-calling-on-android/>
 

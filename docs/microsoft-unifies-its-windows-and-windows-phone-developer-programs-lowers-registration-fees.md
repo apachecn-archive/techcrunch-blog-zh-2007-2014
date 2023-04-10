@@ -1,4 +1,4 @@
-# 微软统一 Windows 和 Windows Phone 开发者计划，降低注册费| TechCrunch
+# 微软统一 Windows 和 Windows Phone 开发者计划，降低注册费
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/06/microsoft-unifies-its-windows-and-windows-phone-developer-programs-lowers-registration-fees/>
 

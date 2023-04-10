@@ -1,4 +1,4 @@
-# 脸书收购了 Gowalla | TechCrunch
+# 脸书收购了 Gowalla 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/02/report-facebook-has-acquired-gowalla/>
 

@@ -1,4 +1,4 @@
-# 非官方的谷歌文本到语音转换 API | TechCrunch
+# 非官方的谷歌文本到语音转换 API 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/14/the-unofficial-google-text-to-speech-api/>
 

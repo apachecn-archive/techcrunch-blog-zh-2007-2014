@@ -1,4 +1,4 @@
-# 三星发布了 Galaxy Note 3，这是平板电脑| TechCrunch 更轻薄的进化版
+# 三星发布了 Galaxy Note 3，这是平板电脑 更轻薄的进化版
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/04/samsungn-reveals-the-galaxy-note-3-the-slimmer-and-lighter-evolution-of-the-phablet/>
 

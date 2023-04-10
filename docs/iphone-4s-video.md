@@ -1,4 +1,4 @@
-# 手表:这是苹果 iPhone 4S 视频介绍| TechCrunch
+# 手表:这是苹果 iPhone 4S 视频介绍
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/iphone-4s-video/>
 

@@ -1,4 +1,4 @@
-# 日本获得超级可爱的缝合电视| TechCrunch
+# 日本获得超级可爱的缝合电视
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/06/japan-gets-super-cute-stitch-tv/>
 

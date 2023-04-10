@@ -1,4 +1,4 @@
-# 每周好:Maya Baratz 和 Hunter Walk 合作编写“创业厨师”食谱| TechCrunch
+# 每周好:Maya Baratz 和 Hunter Walk 合作编写“创业厨师”食谱
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/07/the-weekly-good-maya-baratz-and-hunter-walk-team-up-for-the-startup-chef-cookbook/>
 

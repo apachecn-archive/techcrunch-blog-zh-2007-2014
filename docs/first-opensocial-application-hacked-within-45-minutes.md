@@ -1,4 +1,4 @@
-# 首个在 45 分钟内被黑的 OpenSocial 应用程序| TechCrunch
+# 首个在 45 分钟内被黑的 OpenSocial 应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/02/first-opensocial-application-hacked-within-45-minutes/>
 

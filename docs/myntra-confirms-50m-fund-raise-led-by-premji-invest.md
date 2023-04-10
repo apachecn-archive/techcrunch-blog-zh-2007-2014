@@ -1,4 +1,4 @@
-# Myntra 确认由 Premji Invest | TechCrunch 牵头的 5000 万美元融资
+# Myntra 确认由 Premji Invest  牵头的 5000 万美元融资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/05/myntra-confirms-50m-fund-raise-led-by-premji-invest/>
 

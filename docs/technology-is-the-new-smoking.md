@@ -1,4 +1,4 @@
-# 技术是新的吸烟| TechCrunch
+# 技术是新的吸烟
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/technology-is-the-new-smoking/>
 

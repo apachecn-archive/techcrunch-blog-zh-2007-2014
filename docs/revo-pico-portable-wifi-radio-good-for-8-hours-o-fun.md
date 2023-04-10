@@ -1,4 +1,4 @@
-# Revo Pico 便携式 WiFi 无线电适合 8 小时娱乐| TechCrunch
+# Revo Pico 便携式 WiFi 无线电适合 8 小时娱乐
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/22/revo-pico-portable-wifi-radio-good-for-8-hours-o-fun/>
 

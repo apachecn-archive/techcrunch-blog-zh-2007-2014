@@ -1,4 +1,4 @@
-# AVOS 收购链接节省服务 Trunk.ly | TechCrunch
+# AVOS 收购链接节省服务 Trunk.ly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/09/avos-acquires-link-saving-service-trunk-ly/>
 

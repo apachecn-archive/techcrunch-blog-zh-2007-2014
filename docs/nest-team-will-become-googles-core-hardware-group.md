@@ -1,4 +1,4 @@
-# Nest 团队将成为谷歌的核心硬件团队| TechCrunch
+# Nest 团队将成为谷歌的核心硬件团队
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/nest-team-will-become-googles-core-hardware-group/>
 

@@ -1,4 +1,4 @@
-# 背板将在 SXSW 举办音乐黑客马拉松，由顶级行业经理担任评委| TechCrunch
+# 背板将在 SXSW 举办音乐黑客马拉松，由顶级行业经理担任评委
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/06/backplane-to-hold-music-hackathon-at-sxsw-with-top-industry-managers-as-judges/>
 

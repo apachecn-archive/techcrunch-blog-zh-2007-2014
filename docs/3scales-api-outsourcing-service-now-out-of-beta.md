@@ -1,4 +1,4 @@
-# 3Scale 的 API 外包服务现已停止测试| TechCrunch
+# 3Scale 的 API 外包服务现已停止测试
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/12/3scales-api-outsourcing-service-now-out-of-beta/>
 

@@ -1,4 +1,4 @@
-# 诺基亚地图登陆 iOS 和 Android(但仅作为一个网络应用程序)| TechCrunch
+# 诺基亚地图登陆 iOS 和 Android(但仅作为一个网络应用程序)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/13/nokia-maps-arrives-on-ios-android-but-only-as-a-web-app/>
 

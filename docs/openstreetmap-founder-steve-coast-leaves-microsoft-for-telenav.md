@@ -1,4 +1,4 @@
-# OpenStreetMap 创始人 Steve Coast 离开微软，加盟 Telenav | TechCrunch
+# OpenStreetMap 创始人 Steve Coast 离开微软，加盟 Telenav 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/03/openstreetmap-founder-steve-coast-leaves-microsoft-for-telenav/>
 

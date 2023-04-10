@@ -1,4 +1,4 @@
-# 自举比较好？Smugmug 的相机真棒超过 400 万次下载，增加了 Instagram 支持| TechCrunch
+# 自举比较好？Smugmug 的相机真棒超过 400 万次下载，增加了 Instagram 支持
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/03/27/smugmug-camera-awesome/>
 

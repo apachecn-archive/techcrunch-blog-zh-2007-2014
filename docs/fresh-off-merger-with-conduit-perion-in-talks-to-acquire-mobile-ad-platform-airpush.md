@@ -1,4 +1,4 @@
-# 刚刚与 Conduit 合并，Perion 正在谈判收购移动广告平台 AirPush | TechCrunch
+# 刚刚与 Conduit 合并，Perion 正在谈判收购移动广告平台 AirPush 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/03/fresh-off-merger-with-conduit-perion-in-talks-to-acquire-mobile-ad-platform-airpush/>
 

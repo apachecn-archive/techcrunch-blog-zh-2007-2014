@@ -1,4 +1,4 @@
-# 美国在线收购个人资料启动约。我| TechCrunch
+# 美国在线收购个人资料启动约。我
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/20/aol-acquires-personal-profile-startup-about-me/>
 

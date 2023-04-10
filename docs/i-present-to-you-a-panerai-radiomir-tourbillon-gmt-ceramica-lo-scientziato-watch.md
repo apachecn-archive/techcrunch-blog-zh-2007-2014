@@ -1,4 +1,4 @@
-# 我向您展示一枚沛纳海 radio mir Tourbillon GMT Ceramica Lo Scientziato 腕表| TechCrunch
+# 我向您展示一枚沛纳海 radio mir Tourbillon GMT Ceramica Lo Scientziato 腕表
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/27/i-present-to-you-a-panerai-radiomir-tourbillon-gmt-ceramica-lo-scientziato-watch/>
 

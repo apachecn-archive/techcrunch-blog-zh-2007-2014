@@ -1,4 +1,4 @@
-# 面对激烈的竞争，Rhapsody 从 Columbus Nova | TechCrunch 获得了“巨额”投资
+# 面对激烈的竞争，Rhapsody 从 Columbus Nova  获得了“巨额”投资
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/09/17/faced-with-fierce-competition-rhapsody-takes-significant-investment-from-columbus-nova/>
 

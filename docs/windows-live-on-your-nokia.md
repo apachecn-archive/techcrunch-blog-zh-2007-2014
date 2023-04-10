@@ -1,4 +1,4 @@
-# 诺基亚| TechCrunch 上的 Windows Live
+# 诺基亚 上的 Windows Live
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/windows-live-on-your-nokia/>
 

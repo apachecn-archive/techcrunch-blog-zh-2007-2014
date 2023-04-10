@@ -1,4 +1,4 @@
-# 在 CRV | TechCrunch 460 万美元的支持下，Cybereason 将其恶意操作检测平台带出秘密
+# 在 CRV  460 万美元的支持下，Cybereason 将其恶意操作检测平台带出秘密
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/11/cybereason-launch/>
 

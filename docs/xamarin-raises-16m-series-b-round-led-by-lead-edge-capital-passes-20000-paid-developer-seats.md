@@ -1,4 +1,4 @@
-# Xamarin 筹集了 1600 万美元的 B 轮融资，由 Lead Edge Capital 牵头，通过了 20，000 个付费开发者席位| TechCrunch
+# Xamarin 筹集了 1600 万美元的 B 轮融资，由 Lead Edge Capital 牵头，通过了 20，000 个付费开发者席位
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/17/xamarin-raises-16m-series-b-round-led-by-lead-edge-capital-passes-20000-paid-developer-seats/>
 

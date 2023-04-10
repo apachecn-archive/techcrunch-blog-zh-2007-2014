@@ -1,4 +1,4 @@
-# VMware 以 12.6 亿美元收购 Nicira，并提供更多关于云战略的线索| TechCrunch
+# VMware 以 12.6 亿美元收购 Nicira，并提供更多关于云战略的线索
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/23/vmware-buys-nicira-for-1-26-billion-and-gives-more-clues-about-cloud-strategy/>
 

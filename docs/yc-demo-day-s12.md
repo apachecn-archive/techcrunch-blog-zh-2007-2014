@@ -1,4 +1,4 @@
-# Y Combinator S12 演示日第一批:Meet 9GAG、Double Robotics、Hubchilla、SmartAsset 等| TechCrunch
+# Y Combinator S12 演示日第一批:Meet 9GAG、Double Robotics、Hubchilla、SmartAsset 等
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/21/yc-demo-day-s12/>
 

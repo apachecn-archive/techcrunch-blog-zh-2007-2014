@@ -1,4 +1,4 @@
-# 斯坦福的上交所风险投资基金 Diffbot | TechCrunch
+# 斯坦福的上交所风险投资基金 Diffbot 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/27/stanfords-sse-ventures-funds-diffbot/>
 

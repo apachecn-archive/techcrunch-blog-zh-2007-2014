@@ -1,4 +1,4 @@
-# PiCloud 向公众推出无服务器计算平台| TechCrunch
+# PiCloud 向公众推出无服务器计算平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/19/picloud-launches-serverless-computing-platform-to-the-public/>
 

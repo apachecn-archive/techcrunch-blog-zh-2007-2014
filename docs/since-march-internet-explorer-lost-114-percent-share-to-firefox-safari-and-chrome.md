@@ -1,4 +1,4 @@
-# 自 3 月以来，ie 浏览器的 11.4%份额被火狐、Safari 和 Chrome | TechCrunch 夺走
+# 自 3 月以来，ie 浏览器的 11.4%份额被火狐、Safari 和 Chrome  夺走
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/05/since-march-internet-explorer-lost-114-percent-share-to-firefox-safari-and-chrome/>
 

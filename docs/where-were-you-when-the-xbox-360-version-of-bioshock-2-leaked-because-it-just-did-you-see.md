@@ -1,4 +1,4 @@
-# Xbox 360 版生化奇兵 2 泄露的时候你在哪里？(因为它刚刚做了，你看。)| TechCrunch
+# Xbox 360 版生化奇兵 2 泄露的时候你在哪里？(因为它刚刚做了，你看。)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/04/where-were-you-when-the-xbox-360-version-of-bioshock-2-leaked-because-it-just-did-you-see/>
 

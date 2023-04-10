@@ -1,4 +1,4 @@
-# LG 宣布推出全球首款透明设计手机| TechCrunch
+# LG 宣布推出全球首款透明设计手机
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/20/lg-announces-the-worlds-first-transparent-design-phone/>
 

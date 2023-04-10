@@ -1,4 +1,4 @@
-# Photobucket 将以 6000 万美元的价格出售给 Ontela | TechCrunch
+# Photobucket 将以 6000 万美元的价格出售给 Ontela 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/19/photobucket-to-be-valued-at-60-million-in-sale-to-ontela/>
 

@@ -1,4 +1,4 @@
-# RIP: Cloudbook maker，Everex 2008 - 2009 | TechCrunch
+# RIP: Cloudbook maker，Everex 2008 - 2009 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/15/rip-cloudbook-maker-everex-2008-2009/>
 

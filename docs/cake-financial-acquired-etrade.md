@@ -1,4 +1,4 @@
-# 蛋糕金融被 E*Trade | TechCrunch 收购
+# 蛋糕金融被 E*Trade  收购
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/14/cake-financial-acquired-etrade/>
 

@@ -1,4 +1,4 @@
-# 来自 Bing | TechCrunch 的最新消息
+# 来自 Bing  的最新消息
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/18/the-latest-news-from-bing/>
 

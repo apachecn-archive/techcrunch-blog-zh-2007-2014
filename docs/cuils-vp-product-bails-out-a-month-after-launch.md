@@ -1,4 +1,4 @@
-# Cuil 的副总裁产品在发布一个月后退出| TechCrunch
+# Cuil 的副总裁产品在发布一个月后退出
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/11/cuils-vp-product-bails-out-a-month-after-launch/>
 

@@ -1,4 +1,4 @@
-# Last.fm 关闭其流媒体服务，专注于 Scrobbling | TechCrunch
+# Last.fm 关闭其流媒体服务，专注于 Scrobbling 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/last-fm-shuts-down-its-streaming-service-to-focus-on-scrobbling/>
 

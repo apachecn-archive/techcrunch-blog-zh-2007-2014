@@ -1,4 +1,4 @@
-# 脸书，YouTube，Skype，《广告狂人》风格| TechCrunch
+# 脸书，YouTube，Skype，《广告狂人》风格
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/06/facebook-youtube-skype-mad-men-style/>
 

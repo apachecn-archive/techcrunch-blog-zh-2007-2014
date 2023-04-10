@@ -1,4 +1,4 @@
-# 图中手势，英特尔收购 Omek，但 PrimeSense 否认苹果收购传闻| TechCrunch
+# 图中手势，英特尔收购 Omek，但 PrimeSense 否认苹果收购传闻
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/gesture-in-the-picture-as-intel-reportedly-picks-up-omek-but-primesense-dismisses-apple-acquisition-rumors/>
 

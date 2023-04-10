@@ -1,4 +1,4 @@
-# Zynga 在 Playdom Fight 中解决了暴民战争诉讼| TechCrunch
+# Zynga 在 Playdom Fight 中解决了暴民战争诉讼
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/13/zynga-settles-mob-wars-litigation-as-it-settles-in-to-playdom-war/>
 

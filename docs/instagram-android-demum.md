@@ -1,4 +1,4 @@
-# 在 iOS 上拥有超过 3000 万用户的 Instagram 终于来到了 Android | TechCrunch
+# 在 iOS 上拥有超过 3000 万用户的 Instagram 终于来到了 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/03/instagram-android-demum/>
 

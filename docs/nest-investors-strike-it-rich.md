@@ -1,4 +1,4 @@
-# 谷歌买 Nest 谁发财？凯鹏华盈 2000 万美元回报 20 倍，沙斯塔网约 2 亿美元| TechCrunch
+# 谷歌买 Nest 谁发财？凯鹏华盈 2000 万美元回报 20 倍，沙斯塔网约 2 亿美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/13/nest-investors-strike-it-rich/>
 

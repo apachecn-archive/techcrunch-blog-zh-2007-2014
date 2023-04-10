@@ -1,4 +1,4 @@
-# 特纳广播公司将女性网站 TheFrisky.com 更名为 BUZZMEDIA | TechCrunch
+# 特纳广播公司将女性网站 TheFrisky.com 更名为 BUZZMEDIA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/11/turner-broadcasting-flips-womens-website-thefrisky-com-to-buzzmedia/>
 

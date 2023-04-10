@@ -1,4 +1,4 @@
-# 苹果发布 Siri 语音界面:仅用于 iPhone 的“智能助手”4S | TechCrunch
+# 苹果发布 Siri 语音界面:仅用于 iPhone 的“智能助手”4S 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/04/apple-reveals-siri-voice-interface-the-intelligent-assistant/>
 

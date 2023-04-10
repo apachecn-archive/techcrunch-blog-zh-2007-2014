@@ -1,4 +1,4 @@
-# Akai 推出 APC40 网站| TechCrunch
+# Akai 推出 APC40 网站
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/12/akai-launches-mpc40-website/>
 

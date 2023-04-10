@@ -1,4 +1,4 @@
-# Twitter 与 Datalogix 合作，跟踪推文何时导致线下销售| TechCrunch
+# Twitter 与 Datalogix 合作，跟踪推文何时导致线下销售
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/08/twitter-datalogix/>
 

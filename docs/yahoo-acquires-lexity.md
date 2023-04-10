@@ -1,4 +1,4 @@
-# 雅虎收购 Lexity，将继续运营电子商务应用平台，但更名为 It | TechCrunch
+# 雅虎收购 Lexity，将继续运营电子商务应用平台，但更名为 It 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/yahoo-acquires-lexity/>
 

@@ -1,4 +1,4 @@
-# Wis.dm 获得 500 万美元| TechCrunch
+# Wis.dm 获得 500 万美元
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/27/wisdm-takes-5-million/>
 

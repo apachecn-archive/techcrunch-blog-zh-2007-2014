@@ -1,4 +1,4 @@
-# 消息应用泛滥| TechCrunch
+# 消息应用泛滥
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/06/overrun-with-messaging-apps/>
 

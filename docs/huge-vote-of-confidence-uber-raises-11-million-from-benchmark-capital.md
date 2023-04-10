@@ -1,4 +1,4 @@
-# 巨大的信任票:优步从基准资本| TechCrunch 融资 1100 万美元
+# 巨大的信任票:优步从基准资本 融资 1100 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/02/14/huge-vote-of-confidence-uber-raises-11-million-from-benchmark-capital/>
 

@@ -1,4 +1,4 @@
-# 2K 谈 PS3 的生化奇兵幸存者模式| TechCrunch
+# 2K 谈 PS3 的生化奇兵幸存者模式
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/06/2k-talks-about-ps3s-bioshock-survivor-mode/>
 

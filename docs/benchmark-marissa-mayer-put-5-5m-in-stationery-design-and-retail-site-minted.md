@@ -1,4 +1,4 @@
-# 基准测试，玛丽莎·梅耶尔向文具设计和零售网站 Minted | TechCrunch 投资 550 万美元
+# 基准测试，玛丽莎·梅耶尔向文具设计和零售网站 Minted  投资 550 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/11/15/benchmark-marissa-mayer-put-5-5m-in-stationery-design-and-retail-site-minted/>
 

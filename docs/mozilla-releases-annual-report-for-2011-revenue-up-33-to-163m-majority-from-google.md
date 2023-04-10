@@ -1,4 +1,4 @@
-# Mozilla 发布 2011 年年度报告:收入增长 33%至 1.63 亿美元，主要来自 Google | TechCrunch
+# Mozilla 发布 2011 年年度报告:收入增长 33%至 1.63 亿美元，主要来自 Google 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/15/mozilla-releases-annual-report-for-2011-revenue-up-33-to-163m-majority-from-google/>
 

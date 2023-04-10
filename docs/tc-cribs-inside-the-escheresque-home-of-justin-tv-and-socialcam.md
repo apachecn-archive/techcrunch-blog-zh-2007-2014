@@ -1,4 +1,4 @@
-# TC 婴儿床:Justin.tv 和 Socialcam | TechCrunch 的 Escheresque 之家
+# TC 婴儿床:Justin.tv 和 Socialcam  的 Escheresque 之家
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/21/tc-cribs-inside-the-escheresque-home-of-justin-tv-and-socialcam/>
 

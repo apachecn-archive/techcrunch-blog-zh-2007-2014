@@ -1,4 +1,4 @@
-# 当沃兹年轻时| TechCrunch
+# 当沃兹年轻时
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/20/when-woz-wuz-young/>
 

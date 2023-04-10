@@ -1,4 +1,4 @@
-# 用 Nexus One、Palm Pre 或诺基亚 N900 | TechCrunch 越狱 PS3
+# 用 Nexus One、Palm Pre 或诺基亚 N900  越狱 PS3
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/06/jailbreak-a-ps3-with-just-a-nexus-one-palm-pre-or-nokia-n900/>
 

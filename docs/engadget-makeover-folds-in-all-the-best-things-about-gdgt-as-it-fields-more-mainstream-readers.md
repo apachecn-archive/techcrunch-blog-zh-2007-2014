@@ -1,4 +1,4 @@
-# 随着 Gdgt 吸引越来越多的主流读者，Engadget 改头换面融入了 Gdgt 的“所有优点”| TechCrunch
+# 随着 Gdgt 吸引越来越多的主流读者，Engadget 改头换面融入了 Gdgt 的“所有优点”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/18/engadget-makeover-folds-in-all-the-best-things-about-gdgt-as-it-fields-more-mainstream-readers/>
 

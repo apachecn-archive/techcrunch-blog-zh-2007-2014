@@ -1,4 +1,4 @@
-# 社交网络全球竞赛升温。关注 Hi5、Friendster 和 Imeem | TechCrunch
+# 社交网络全球竞赛升温。关注 Hi5、Friendster 和 Imeem 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/27/the-global-race-among-social-networks-heats-up-keep-an-eye-on-hi5-friendster-and-imeem/>
 

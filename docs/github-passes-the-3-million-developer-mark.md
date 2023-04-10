@@ -1,4 +1,4 @@
-# GitHub 突破 300 万开发者大关| TechCrunch
+# GitHub 突破 300 万开发者大关
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/16/github-passes-the-3-million-developer-mark/>
 

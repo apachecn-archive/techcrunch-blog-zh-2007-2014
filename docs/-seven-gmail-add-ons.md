@@ -1,4 +1,4 @@
-# 让电子邮件变得不那么糟糕的七个 Gmail 插件| TechCrunch
+# 让电子邮件变得不那么糟糕的七个 Gmail 插件
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/21/-seven-gmail-add-ons/>
 

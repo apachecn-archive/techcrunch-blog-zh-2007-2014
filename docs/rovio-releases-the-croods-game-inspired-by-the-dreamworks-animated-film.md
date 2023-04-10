@@ -1,4 +1,4 @@
-# Rovio 发布“The Croods”游戏，灵感来自梦工厂动画电影| TechCrunch
+# Rovio 发布“The Croods”游戏，灵感来自梦工厂动画电影
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/14/rovio-releases-the-croods-game-inspired-by-the-dreamworks-animated-film/>
 

@@ -1,4 +1,4 @@
-# Google+更名其群发消息应用；从已经采取的“Huddle”到，看看这个，“Messenger”| TechCrunch
+# Google+更名其群发消息应用；从已经采取的“Huddle”到，看看这个，“Messenger”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/google-renames-its-group-messaging-app-from-the-already-taken-huddle-to-get-this-messenger/>
 

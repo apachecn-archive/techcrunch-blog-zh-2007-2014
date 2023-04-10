@@ -1,4 +1,4 @@
-# 脸书时代| TechCrunch
+# 脸书时代
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/25/the-age-of-facebook/>
 

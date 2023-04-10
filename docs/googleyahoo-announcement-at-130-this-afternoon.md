@@ -1,4 +1,4 @@
-# 今天下午 1:30 谷歌/雅虎搜索合作公告(更新)| TechCrunch
+# 今天下午 1:30 谷歌/雅虎搜索合作公告(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/12/googleyahoo-announcement-at-130-this-afternoon/>
 

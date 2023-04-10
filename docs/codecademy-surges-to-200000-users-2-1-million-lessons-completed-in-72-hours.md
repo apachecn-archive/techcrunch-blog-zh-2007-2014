@@ -1,4 +1,4 @@
-# Codecademy 用户激增至 200，000 人，72 小时内完成 210 万次课程| TechCrunch
+# Codecademy 用户激增至 200，000 人，72 小时内完成 210 万次课程
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/22/codecademy-surges-to-200000-users-2-1-million-lessons-completed-in-72-hours/>
 

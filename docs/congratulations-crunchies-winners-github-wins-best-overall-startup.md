@@ -1,4 +1,4 @@
-# 祝贺脆饼干赢家！GitHub 赢得最佳整体启动| TechCrunch
+# 祝贺脆饼干赢家！GitHub 赢得最佳整体启动
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/31/congratulations-crunchies-winners-github-wins-best-overall-startup/>
 

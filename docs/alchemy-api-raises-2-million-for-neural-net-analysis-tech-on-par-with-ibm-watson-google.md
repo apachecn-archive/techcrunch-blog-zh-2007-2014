@@ -1,4 +1,4 @@
-# AlchemyAPI 为神经网络分析技术筹集了 200 万美元，与 IBM Watson、Google | TechCrunch 不相上下
+# AlchemyAPI 为神经网络分析技术筹集了 200 万美元，与 IBM Watson、Google  不相上下
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/07/alchemy-api-raises-2-million-for-neural-net-analysis-tech-on-par-with-ibm-watson-google/>
 

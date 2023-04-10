@@ -1,4 +1,4 @@
-# 全新微星经典系列 CX520 和 CR620 笔记本电脑 rock Core i5 或 i3 CPUs | TechCrunch
+# 全新微星经典系列 CX520 和 CR620 笔记本电脑 rock Core i5 或 i3 CPUs 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/the-new-msi-classic-series-cx520-and-cr620-notebooks-rock-core-i5-or-i3-cpus/>
 

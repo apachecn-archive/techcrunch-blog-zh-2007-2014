@@ -1,4 +1,4 @@
-# Chomp 开始通过威瑞森应用| TechCrunch 为 Android 手机的应用搜索提供支持
+# Chomp 开始通过威瑞森应用 为 Android 手机的应用搜索提供支持
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/chomp-to-begin-powering-app-search-for-android-phones-via-verizon-apps/>
 

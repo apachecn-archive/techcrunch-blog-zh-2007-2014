@@ -1,4 +1,4 @@
-# Banjo 发布 iPad 和 Android 平板应用，专注于内容消费和第二屏幕| TechCrunch
+# Banjo 发布 iPad 和 Android 平板应用，专注于内容消费和第二屏幕
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/24/banjo-releases-ipad-and-android-tablet-app-focuses-on-content-consumption-and-the-second-screen/>
 

@@ -1,4 +1,4 @@
-# 随着数百名欧洲之星乘客的痛苦，欧洲之星忽略了 Twitter | TechCrunch
+# 随着数百名欧洲之星乘客的痛苦，欧洲之星忽略了 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/12/19/as-hundreds-of-eurostar-passengers-languish-eurostar-ignores-twitter/>
 

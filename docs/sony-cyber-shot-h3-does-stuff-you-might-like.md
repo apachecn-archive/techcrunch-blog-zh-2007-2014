@@ -1,4 +1,4 @@
-# 索尼 Cyber-shot H3，做你(可能)喜欢的东西| TechCrunch
+# 索尼 Cyber-shot H3，做你(可能)喜欢的东西
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/sony-cyber-shot-h3-does-stuff-you-might-like/>
 

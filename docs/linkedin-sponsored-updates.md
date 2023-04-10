@@ -1,4 +1,4 @@
-# LinkedIn 扩大广告计划，推出赞助更新| TechCrunch
+# LinkedIn 扩大广告计划，推出赞助更新
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/linkedin-sponsored-updates/>
 

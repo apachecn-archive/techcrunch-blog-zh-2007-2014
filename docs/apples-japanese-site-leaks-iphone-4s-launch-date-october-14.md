@@ -1,4 +1,4 @@
-# 苹果日本网站泄露 iPhone 4S 上市日期:10 月 14 日(更新)| TechCrunch
+# 苹果日本网站泄露 iPhone 4S 上市日期:10 月 14 日(更新)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/apples-japanese-site-leaks-iphone-4s-launch-date-october-14/>
 

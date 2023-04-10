@@ -1,4 +1,4 @@
-# Kantar Worldpanel: Android 主导智能手机整体销量；美国 iOS 关闭| TechCrunch
+# Kantar Worldpanel: Android 主导智能手机整体销量；美国 iOS 关闭
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/15/kaiser-worldpanel-android-dominates-smartphone-sales-overall-in-u-s-ios-closing-in/>
 

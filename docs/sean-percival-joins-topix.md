@@ -1,4 +1,4 @@
-# Wittlebee 联合创始人(前 Myspace 高管)Sean Percival 加入 Topix，担任营销副总裁| TechCrunch
+# Wittlebee 联合创始人(前 Myspace 高管)Sean Percival 加入 Topix，担任营销副总裁
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/12/sean-percival-joins-topix/>
 

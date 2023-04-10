@@ -1,4 +1,4 @@
-# AdBrite 再赚 2300 万美元| TechCrunch
+# AdBrite 再赚 2300 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/29/adbrite-takes-in-another-23-million/>
 

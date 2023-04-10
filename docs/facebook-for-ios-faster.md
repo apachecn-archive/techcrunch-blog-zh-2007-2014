@@ -1,4 +1,4 @@
-# iOS 应用程序的脸书现在快了两倍:更快的启动、照片、提要和内置 Messenger | TechCrunch
+# iOS 应用程序的脸书现在快了两倍:更快的启动、照片、提要和内置 Messenger 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/23/facebook-for-ios-faster/>
 

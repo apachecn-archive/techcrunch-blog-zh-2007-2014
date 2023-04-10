@@ -1,4 +1,4 @@
-# 谷歌推出地图引擎 Lite，轻松创建高级定制地图| TechCrunch
+# 谷歌推出地图引擎 Lite，轻松创建高级定制地图
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/27/google-launches-maps-engine-lite-makes-it-easy-to-create-advanced-custom-maps/>
 

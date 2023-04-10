@@ -1,4 +1,4 @@
-# Yammer 在 TC50 上发布:面向公司的 Twitter | TechCrunch
+# Yammer 在 TC50 上发布:面向公司的 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/08/yammer-launches-at-tc50-twitter-for-companies/>
 

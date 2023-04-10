@@ -1,4 +1,4 @@
-# LCD 中“点”与“像素”的快速 PSA | TechCrunch
+# LCD 中“点”与“像素”的快速 PSA 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/21/a-quick-psa-on-dots-versus-pixels-in-lcds/>
 

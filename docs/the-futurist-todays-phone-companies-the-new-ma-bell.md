@@ -1,4 +1,4 @@
-# 未来学家:今天的电话公司=新的马贝尔| TechCrunch
+# 未来学家:今天的电话公司=新的马贝尔
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/16/the-futurist-todays-phone-companies-the-new-ma-bell/>
 

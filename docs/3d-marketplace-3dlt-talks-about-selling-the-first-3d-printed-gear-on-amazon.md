@@ -1,4 +1,4 @@
-# 3D Marketplace 3DLT 谈论在亚马逊| TechCrunch 上销售首款 3D 打印设备
+# 3D Marketplace 3DLT 谈论在亚马逊 上销售首款 3D 打印设备
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/10/3d-marketplace-3dlt-talks-about-selling-the-first-3d-printed-gear-on-amazon/>
 

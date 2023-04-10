@@ -1,4 +1,4 @@
-# Twitter 的新“列表”功能最终引入了分组，为 SUL | TechCrunch 提供了另一种选择
+# Twitter 的新“列表”功能最终引入了分组，为 SUL  提供了另一种选择
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/30/twitters-new-lists-feature-finally-introduces-grouping-offers-an-alternative-to-the-sul/>
 

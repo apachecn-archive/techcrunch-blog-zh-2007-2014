@@ -1,4 +1,4 @@
-# 美国在线悄悄地罐头博客公司生命科学博客| TechCrunch
+# 美国在线悄悄地罐头博客公司生命科学博客
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/23/aol-quietly-cans-weblogs-inc-life-sciences-blogs/>
 

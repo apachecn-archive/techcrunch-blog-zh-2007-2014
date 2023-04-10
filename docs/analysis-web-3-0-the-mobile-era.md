@@ -1,4 +1,4 @@
-# Web 3.0:移动时代| TechCrunch
+# Web 3.0:移动时代
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/11/analysis-web-3-0-the-mobile-era/>
 

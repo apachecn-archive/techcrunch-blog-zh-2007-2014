@@ -1,4 +1,4 @@
-# 每周好:一个明星是(重新)出生，莱斯特钱伯斯的故事| TechCrunch
+# 每周好:一个明星是(重新)出生，莱斯特钱伯斯的故事
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/04/the-weekly-good-a-star-is-reborn-the-lester-chambers-story/>
 

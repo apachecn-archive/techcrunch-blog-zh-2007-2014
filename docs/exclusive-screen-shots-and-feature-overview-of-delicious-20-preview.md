@@ -1,4 +1,4 @@
-# 独家:Delicious 2.0 预览版的截图和功能概述| TechCrunch
+# 独家:Delicious 2.0 预览版的截图和功能概述
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/06/exclusive-screen-shots-and-feature-overview-of-delicious-20-preview/>
 

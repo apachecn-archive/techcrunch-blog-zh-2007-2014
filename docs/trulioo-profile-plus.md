@@ -1,4 +1,4 @@
-# 随着谷歌前身份总监担任首席技术官和$2M 的新资金，Trulioo 推出假脸书个人资料检测器| TechCrunch
+# 随着谷歌前身份总监担任首席技术官和$2M 的新资金，Trulioo 推出假脸书个人资料检测器
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/20/trulioo-profile-plus/>
 

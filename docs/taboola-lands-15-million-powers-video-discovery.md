@@ -1,4 +1,4 @@
-# Taboola 获得 150 万美元，推动视频探索| TechCrunch
+# Taboola 获得 150 万美元，推动视频探索
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/11/14/taboola-lands-15-million-powers-video-discovery/>
 

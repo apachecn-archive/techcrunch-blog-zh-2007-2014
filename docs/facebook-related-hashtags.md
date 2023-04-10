@@ -1,4 +1,4 @@
-# 脸书推出相关标签和#移动网站支持| TechCrunch
+# 脸书推出相关标签和#移动网站支持
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/27/facebook-related-hashtags/>
 

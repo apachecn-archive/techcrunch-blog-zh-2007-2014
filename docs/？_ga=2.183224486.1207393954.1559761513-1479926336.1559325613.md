@@ -1,4 +1,4 @@
-# Looker 从第一轮和 PivotNorth 中获得$2M，为商业智能| TechCrunch 构建“SQL 续集”
+# Looker 从第一轮和 PivotNorth 中获得$2M，为商业智能 构建“SQL 续集”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/06/looker-takes-2m-from-first-round-and-pivotnorth-to-build-a-sequel-to-sql-for-business-intelligence/?_ga=2.183224486.1207393954.1559761513-1479926336.1559325613>
 

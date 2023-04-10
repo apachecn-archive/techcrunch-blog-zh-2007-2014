@@ -1,4 +1,4 @@
-# Sunrise 出色地重新定义了 iOS | TechCrunch 上的日历应用
+# Sunrise 出色地重新定义了 iOS  上的日历应用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/19/sunrise-brilliantly-redefines-calendar-apps-on-ios/>
 

@@ -1,4 +1,4 @@
-# YouTube 推出新的视频广告形式| TechCrunch
+# YouTube 推出新的视频广告形式
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/youtube-launches-new-video-advertising-format/>
 

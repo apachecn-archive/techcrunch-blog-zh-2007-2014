@@ -1,4 +1,4 @@
-# Palm 称收入将低于预期，引用滞销| TechCrunch
+# Palm 称收入将低于预期，引用滞销
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/25/palm-says-revenue-will-be-lower-than-expected-cites-slow-sales/>
 

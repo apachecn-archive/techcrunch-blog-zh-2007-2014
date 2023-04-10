@@ -1,4 +1,4 @@
-# 新的屏幕技术 TapSense 可以区分你手的不同部位| TechCrunch
+# 新的屏幕技术 TapSense 可以区分你手的不同部位
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/19/new-screen-technology-tapsense-can-distinguish-between-different-parts-of-your-hand/>
 

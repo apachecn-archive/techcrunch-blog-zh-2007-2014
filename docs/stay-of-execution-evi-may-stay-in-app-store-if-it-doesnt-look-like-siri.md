@@ -1,4 +1,4 @@
-# 暂停执行——如果 Evi 看起来不像 Siri | TechCrunch，它可能会留在 App Store
+# 暂停执行——如果 Evi 看起来不像 Siri ，它可能会留在 App Store
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/27/stay-of-execution-evi-may-stay-in-app-store-if-it-doesnt-look-like-siri/>
 

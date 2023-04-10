@@ -1,4 +1,4 @@
-# 数字海洋从 TechStars Reject 到云托管宠儿的旅程| TechCrunch
+# 数字海洋从 TechStars Reject 到云托管宠儿的旅程
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/23/digital-oceans-journey-from-techstars-reject-to-cloud-hosting-darling/>
 

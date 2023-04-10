@@ -1,4 +1,4 @@
-# 统计游戏服务来到 YouTube | TechCrunch
+# 统计游戏服务来到 YouTube 
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/23/myspace-style-profile-gaming-comes-to-youtube/>
 

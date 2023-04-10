@@ -1,4 +1,4 @@
-# 以 12 亿美元收购 Yammer，微软的社会企业战略成型| TechCrunch
+# 以 12 亿美元收购 Yammer，微软的社会企业战略成型
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/25/its-official-microsoft-confirms-it-has-acquired-yammer-for-1-2-billion-in-cash/>
 

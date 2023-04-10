@@ -1,4 +1,4 @@
-# Lavabit 的 Ladar Levison 在 SXSW 2014 | TechCrunch 上讨论隐私和黑暗邮件
+# Lavabit 的 Ladar Levison 在 SXSW 2014  上讨论隐私和黑暗邮件
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/13/lavabits-ladar-levison-discusses-privacy-and-dark-mail-at-sxsw-2014/>
 

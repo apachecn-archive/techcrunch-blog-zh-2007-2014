@@ -1,4 +1,4 @@
-# 远程技术支持公司 24/7 Techies 筹集了 60 万美元的种子资金——由 500 家初创公司牵头——以扩大中小企业业务| TechCrunch
+# 远程技术支持公司 24/7 Techies 筹集了 60 万美元的种子资金——由 500 家初创公司牵头——以扩大中小企业业务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/11/05/247-techies-remote-tech-support-startup-for-smbs-raises-600k-seed-round-led-by-500-startups/>
 

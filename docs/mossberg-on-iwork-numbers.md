@@ -1,4 +1,4 @@
-# Mossberg on iWork，Numbers | TechCrunch
+# Mossberg on iWork，Numbers 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/17/mossberg-on-iwork-numbers/>
 

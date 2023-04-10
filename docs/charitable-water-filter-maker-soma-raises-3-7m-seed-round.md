@@ -1,4 +1,4 @@
-# 慈善滤水器制造商 Soma 募集 370 万美元种子资金| TechCrunch
+# 慈善滤水器制造商 Soma 募集 370 万美元种子资金
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/16/charitable-water-filter-maker-soma-raises-3-7m-seed-round/>
 

@@ -1,4 +1,4 @@
-# 谷歌削减脂肪| TechCrunch
+# 谷歌削减脂肪
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/google-trims-the-fat/>
 

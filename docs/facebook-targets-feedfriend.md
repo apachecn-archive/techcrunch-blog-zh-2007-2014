@@ -1,4 +1,4 @@
-# 脸书瞄准 FriendFeed 打开新闻订阅| TechCrunch
+# 脸书瞄准 FriendFeed 打开新闻订阅
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/02/22/facebook-targets-feedfriend/>
 

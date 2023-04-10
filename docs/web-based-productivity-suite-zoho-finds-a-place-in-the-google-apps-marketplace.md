@@ -1,4 +1,4 @@
-# 基于网络的生产力套件 Zoho 在 Google Apps market Place | TechCrunch 找到了一席之地
+# 基于网络的生产力套件 Zoho 在 Google Apps market Place  找到了一席之地
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/09/web-based-productivity-suite-zoho-finds-a-place-in-the-google-apps-marketplace/>
 

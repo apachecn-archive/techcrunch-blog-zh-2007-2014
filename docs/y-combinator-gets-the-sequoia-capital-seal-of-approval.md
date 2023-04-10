@@ -1,4 +1,4 @@
-# Y Combinator 获得红杉资本批准| TechCrunch
+# Y Combinator 获得红杉资本批准
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/16/y-combinator-gets-the-sequoia-capital-seal-of-approval/>
 

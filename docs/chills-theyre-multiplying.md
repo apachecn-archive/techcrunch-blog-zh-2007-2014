@@ -1,4 +1,4 @@
-# 黑色幽默| TechCrunch
+# 黑色幽默
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/30/chills-theyre-multiplying/>
 

@@ -1,4 +1,4 @@
-# Egnyte 首席执行官 Vineet Jain 谈论云存储、Box 的首次公开募股以及与微软| TechCrunch 的正面交锋
+# Egnyte 首席执行官 Vineet Jain 谈论云存储、Box 的首次公开募股以及与微软 的正面交锋
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/13/egnyte-ceo-vineet-jain-talks-cloud-storage-boxs-ipo-and-going-head-to-head-with-microsoft/>
 

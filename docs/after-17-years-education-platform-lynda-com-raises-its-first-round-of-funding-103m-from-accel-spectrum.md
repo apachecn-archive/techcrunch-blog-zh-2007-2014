@@ -1,4 +1,4 @@
-# 17 年后，教育平台 Lynda.com 获得第一轮融资，来自 Accel & Spectrum | TechCrunch 的 1.03 亿美元
+# 17 年后，教育平台 Lynda.com 获得第一轮融资，来自 Accel & Spectrum  的 1.03 亿美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/15/after-17-years-education-platform-lynda-com-raises-its-first-round-of-funding-103m-from-accel-spectrum/>
 

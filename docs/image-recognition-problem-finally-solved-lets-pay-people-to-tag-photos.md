@@ -1,4 +1,4 @@
-# 图像识别问题终于解决了:让我们付钱给人来标记照片| TechCrunch
+# 图像识别问题终于解决了:让我们付钱给人来标记照片
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/29/image-recognition-problem-finally-solved-lets-pay-people-to-tag-photos/>
 

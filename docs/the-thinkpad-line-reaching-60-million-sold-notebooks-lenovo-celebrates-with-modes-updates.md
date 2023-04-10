@@ -1,4 +1,4 @@
-# ThinkPad 系列售出 6000 万台笔记本，联想庆祝模式更新| TechCrunch
+# ThinkPad 系列售出 6000 万台笔记本，联想庆祝模式更新
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/10/05/the-thinkpad-line-reaching-60-million-sold-notebooks-lenovo-celebrates-with-modes-updates/>
 

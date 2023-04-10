@@ -1,4 +1,4 @@
-# 泳池社交网络在手机上重新启动，有一个应用程序可以更好地联系附近的朋友| TechCrunch
+# 泳池社交网络在手机上重新启动，有一个应用程序可以更好地联系附近的朋友
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/07/social-network-at-the-pool-relaunches-on-mobile-with-an-app-to-better-connect-nearby-friends/>
 

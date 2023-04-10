@@ -1,4 +1,4 @@
-# Metawatch 的目标是高端智能手表，由前 Vertu 设计师| TechCrunch 设计
+# Metawatch 的目标是高端智能手表，由前 Vertu 设计师 设计
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/05/metawatch-aims-for-the-high-end-with-new-smartwatches-by-a-former-vertu-designer/>
 

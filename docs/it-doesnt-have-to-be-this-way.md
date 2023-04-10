@@ -1,4 +1,4 @@
-# 不一定非要这样| TechCrunch
+# 不一定非要这样
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/24/it-doesnt-have-to-be-this-way/>
 

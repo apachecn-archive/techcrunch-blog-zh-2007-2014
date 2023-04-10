@@ -1,4 +1,4 @@
-# 亚马逊影业现在资助亚马逊即时视频服务| TechCrunch 的原创内容系列
+# 亚马逊影业现在资助亚马逊即时视频服务 的原创内容系列
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/02/amazon-studios-now-funding-original-content-series-for-amazon-instant-video-service/>
 

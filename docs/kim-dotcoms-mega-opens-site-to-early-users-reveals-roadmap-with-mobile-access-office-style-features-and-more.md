@@ -1,4 +1,4 @@
-# 金·多特康姆的 Mega 面向早期用户开放，揭示定价层级、移动接入路线图、即时消息、办公风格功能| TechCrunch
+# 金·多特康姆的 Mega 面向早期用户开放，揭示定价层级、移动接入路线图、即时消息、办公风格功能
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/18/kim-dotcoms-mega-opens-site-to-early-users-reveals-roadmap-with-mobile-access-office-style-features-and-more/>
 

@@ -1,4 +1,4 @@
-# MyHeritage.com 收购家谱备份服务 BackupMyTree | TechCrunch
+# MyHeritage.com 收购家谱备份服务 BackupMyTree 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/20/myheritage-com-acquires-family-tree-backup-service-backupmytree/>
 

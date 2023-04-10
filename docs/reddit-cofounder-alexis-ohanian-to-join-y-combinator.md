@@ -1,4 +1,4 @@
-# Reddit 联合创始人亚历克西斯·奥哈尼安将加入 Y Combinator | TechCrunch
+# Reddit 联合创始人亚历克西斯·奥哈尼安将加入 Y Combinator 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/01/reddit-cofounder-alexis-ohanian-to-join-y-combinator/>
 

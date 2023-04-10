@@ -1,4 +1,4 @@
-# 谷歌将非盈利信息添加到知识图表中，通过 Google+关注按钮| TechCrunch 为他们提供支持
+# 谷歌将非盈利信息添加到知识图表中，通过 Google+关注按钮 为他们提供支持
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/09/google-adds-non-profit-information-to-knowledge-graph-gives-them-a-boost-with-google-follow-buttons/>
 

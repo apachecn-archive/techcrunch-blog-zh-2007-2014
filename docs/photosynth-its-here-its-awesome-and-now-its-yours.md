@@ -1,4 +1,4 @@
-# Photosynth！它就在这里，棒极了，现在它是你的了| TechCrunch
+# Photosynth！它就在这里，棒极了，现在它是你的了
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/20/photosynth-its-here-its-awesome-and-now-its-yours/>
 

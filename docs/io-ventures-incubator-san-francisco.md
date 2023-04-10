@@ -1,4 +1,4 @@
-# i/o Ventures -一个工作/咖啡馆孵化器在旧金山启动| TechCrunch
+# i/o Ventures -一个工作/咖啡馆孵化器在旧金山启动
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/06/io-ventures-incubator-san-francisco/>
 

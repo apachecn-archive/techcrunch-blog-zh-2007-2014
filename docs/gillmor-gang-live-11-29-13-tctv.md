@@ -1,4 +1,4 @@
-# 吉尔摩帮派直播 11.29.13 (TCTV) | TechCrunch
+# 吉尔摩帮派直播 11.29.13 (TCTV) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/29/gillmor-gang-live-11-29-13-tctv/>
 

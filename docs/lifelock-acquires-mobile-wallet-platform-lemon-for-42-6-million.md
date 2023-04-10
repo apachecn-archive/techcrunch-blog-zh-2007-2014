@@ -1,4 +1,4 @@
-# LifeLock 以 4260 万美元收购移动钱包平台 Lemon，推出 LifeLock 钱包| TechCrunch
+# LifeLock 以 4260 万美元收购移动钱包平台 Lemon，推出 LifeLock 钱包
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/12/lifelock-acquires-mobile-wallet-platform-lemon-for-42-6-million/>
 

@@ -1,4 +1,4 @@
-# 关于腾讯| TechCrunch，硅谷公司应该知道什么
+# 关于腾讯，硅谷公司应该知道什么
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/20/what-valley-companies-should-know-about-tencent/>
 

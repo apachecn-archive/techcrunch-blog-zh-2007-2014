@@ -1,4 +1,4 @@
-# Snapchat 发布 5.0 版，改进了用户界面、滑动导航和应用内档案| TechCrunch
+# Snapchat 发布 5.0 版，改进了用户界面、滑动导航和应用内档案
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/05/snapchat-launches-v5-0-banquo-with-revamped-ui-address-book-friend-finder-and-in-app-profiles/>
 

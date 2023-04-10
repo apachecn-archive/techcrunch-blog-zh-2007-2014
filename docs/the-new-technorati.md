@@ -1,4 +1,4 @@
-# 新 Technorati | TechCrunch
+# 新 Technorati 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/14/the-new-technorati/>
 

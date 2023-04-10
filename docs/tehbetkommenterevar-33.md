@@ -1,4 +1,4 @@
-# 嗯。Be$T.Kommenter.Evar | TechCrunch
+# 嗯。Be$T.Kommenter.Evar 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/tehbetkommenterevar-33/>
 

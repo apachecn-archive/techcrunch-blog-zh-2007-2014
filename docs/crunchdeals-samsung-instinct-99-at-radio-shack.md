@@ -1,4 +1,4 @@
-# Radio Shack | TechCrunch 的三星本能 99 美元
+# Radio Shack  的三星本能 99 美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/28/crunchdeals-samsung-instinct-99-at-radio-shack/>
 

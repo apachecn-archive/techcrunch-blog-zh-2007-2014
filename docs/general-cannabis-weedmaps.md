@@ -1,4 +1,4 @@
-# 通过合资企业:一般大麻吸入 Weedmaps | TechCrunch
+# 通过合资企业:一般大麻吸入 Weedmaps 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/11/21/general-cannabis-weedmaps/>
 

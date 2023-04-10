@@ -1,4 +1,4 @@
-# Adobe 凭借 6 款新应用和“创意云”| TechCrunch 进军平板电脑领域
+# Adobe 凭借 6 款新应用和“创意云” 进军平板电脑领域
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/03/adobe-pushes-into-tablet-space-with-6-new-apps-and-creative-cloud/>
 

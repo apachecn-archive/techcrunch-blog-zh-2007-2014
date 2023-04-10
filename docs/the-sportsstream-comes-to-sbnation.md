@@ -1,4 +1,4 @@
-# 体育新闻来到 SBNation | TechCrunch
+# 体育新闻来到 SBNation 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/09/the-sportsstream-comes-to-sbnation/>
 

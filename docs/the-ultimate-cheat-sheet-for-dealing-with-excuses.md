@@ -1,4 +1,4 @@
-# 对付借口的终极秘籍| TechCrunch
+# 对付借口的终极秘籍
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/07/the-ultimate-cheat-sheet-for-dealing-with-excuses/>
 

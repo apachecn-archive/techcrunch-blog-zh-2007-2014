@@ -1,4 +1,4 @@
-# BioWare 试图用质量效应 2 | TechCrunch 来平衡 BioWare 方式与新粉丝的吸引力
+# BioWare 试图用质量效应 2  来平衡 BioWare 方式与新粉丝的吸引力
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/01/12/bioware-tries-to-balance-the-bioware-way-with-the-attraction-of-new-fans-with-mass-effect-2/>
 

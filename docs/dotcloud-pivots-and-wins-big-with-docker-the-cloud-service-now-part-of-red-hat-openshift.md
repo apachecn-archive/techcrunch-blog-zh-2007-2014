@@ -1,4 +1,4 @@
-# DotCloud 以 Docker 为支点并大获全胜，Docker 是现在 Red Hat OpenShift | TechCrunch 的云服务的一部分
+# DotCloud 以 Docker 为支点并大获全胜，Docker 是现在 Red Hat OpenShift  的云服务的一部分
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/19/dotcloud-pivots-and-wins-big-with-docker-the-cloud-service-now-part-of-red-hat-openshift/>
 

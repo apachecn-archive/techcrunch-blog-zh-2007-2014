@@ -1,4 +1,4 @@
-# 前 Sprint 和 Radio Shack 高管试图用 eRecyclingCorps | TechCrunch 拯救世界
+# 前 Sprint 和 Radio Shack 高管试图用 eRecyclingCorps  拯救世界
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/22/ex-sprint-and-radio-shack-erecyclingcorp/>
 

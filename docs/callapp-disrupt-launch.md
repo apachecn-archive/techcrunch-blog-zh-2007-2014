@@ -1,4 +1,4 @@
-# CallApp 利用社交数据构建更智能的智能手机通讯录| TechCrunch
+# CallApp 利用社交数据构建更智能的智能手机通讯录
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/21/callapp-disrupt-launch/>
 

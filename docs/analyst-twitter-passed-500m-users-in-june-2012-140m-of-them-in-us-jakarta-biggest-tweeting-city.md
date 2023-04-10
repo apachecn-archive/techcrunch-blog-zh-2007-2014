@@ -1,4 +1,4 @@
-# 分析师:Twitter 在 2012 年 6 月超过了 5 亿用户，其中 1.4 亿在美国；雅加达“最大的推特”城市| TechCrunch
+# 分析师:Twitter 在 2012 年 6 月超过了 5 亿用户，其中 1.4 亿在美国；雅加达“最大的推特”城市
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/30/analyst-twitter-passed-500m-users-in-june-2012-140m-of-them-in-us-jakarta-biggest-tweeting-city/>
 

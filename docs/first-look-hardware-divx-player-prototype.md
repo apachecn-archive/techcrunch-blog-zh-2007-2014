@@ -1,4 +1,4 @@
-# 第一眼:硬件 DivX 播放器原型| TechCrunch
+# 第一眼:硬件 DivX 播放器原型
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/23/first-look-hardware-divx-player-prototype/>
 

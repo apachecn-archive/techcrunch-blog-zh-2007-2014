@@ -1,4 +1,4 @@
-# 脸书开放图领导者离开:产品管理总监 Carl Sjogreen 策划下一次冒险| TechCrunch
+# 脸书开放图领导者离开:产品管理总监 Carl Sjogreen 策划下一次冒险
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/facebook-carl-sjogreen/>
 

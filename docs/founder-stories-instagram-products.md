@@ -1,4 +1,4 @@
-# (创始人故事)Instagram 首席执行官:“世界上最好的产品都是从功能开始的”| TechCrunch
+# (创始人故事)Instagram 首席执行官:“世界上最好的产品都是从功能开始的”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/03/founder-stories-instagram-products/>
 

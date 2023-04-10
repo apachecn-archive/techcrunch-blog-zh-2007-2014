@@ -1,4 +1,4 @@
-# Thiel、Zuck、Conway 将选出 10 万美元的 TechFellow 奖获奖者| TechCrunch
+# Thiel、Zuck、Conway 将选出 10 万美元的 TechFellow 奖获奖者
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/08/founders-fund-techfellow-awards/>
 

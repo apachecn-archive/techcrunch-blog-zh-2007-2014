@@ -1,4 +1,4 @@
-# Justin.tv 重新设计，让广播更简单，聊天更明显| TechCrunch
+# Justin.tv 重新设计，让广播更简单，聊天更明显
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/14/justintv-redesigns-to-make-broadcasting-easier-and-chat-more-obvious/>
 

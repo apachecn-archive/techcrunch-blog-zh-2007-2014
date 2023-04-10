@@ -1,4 +1,4 @@
-# Parrot 展示新的小型无人机和跳跃的相扑滚动机器人| TechCrunch
+# Parrot 展示新的小型无人机和跳跃的相扑滚动机器人
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/05/parrot-shows-off-new-minidrone-and-leaping-sumo-rolling-bot/>
 

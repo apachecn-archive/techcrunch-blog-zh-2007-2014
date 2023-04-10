@@ -1,4 +1,4 @@
-# Shazam 首席执行官谈论 Android 与 iPhone，以及他们如何倾听自己的成功之路| TechCrunch
+# Shazam 首席执行官谈论 Android 与 iPhone，以及他们如何倾听自己的成功之路
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/23/shazam-ceo-talks-android-vs-iphone-and-how-theyre-listening-their-way-to-success/>
 

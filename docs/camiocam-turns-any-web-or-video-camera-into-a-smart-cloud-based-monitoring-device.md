@@ -1,4 +1,4 @@
-# CamioCam 将任何网络或视频摄像头转变为智能的、基于云的监控设备| TechCrunch
+# CamioCam 将任何网络或视频摄像头转变为智能的、基于云的监控设备
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/26/camiocam-turns-any-web-or-video-camera-into-a-smart-cloud-based-monitoring-device/>
 

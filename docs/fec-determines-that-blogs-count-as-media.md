@@ -1,4 +1,4 @@
-# FEC 决定博客算作媒体| TechCrunch
+# FEC 决定博客算作媒体
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/05/fec-determines-that-blogs-count-as-media/>
 

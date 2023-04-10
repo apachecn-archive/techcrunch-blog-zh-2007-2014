@@ -1,4 +1,4 @@
-# 英特尔:第二代酷睿 CPU 出货量达到 7500 万，是公司历史上销售最快的| TechCrunch
+# 英特尔:第二代酷睿 CPU 出货量达到 7500 万，是公司历史上销售最快的
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/14/intel-75-million-2nd-generation-core-cpus-shipped-fastest-selling-cpu-in-companys-history/>
 

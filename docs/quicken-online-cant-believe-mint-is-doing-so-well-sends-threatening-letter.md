@@ -1,4 +1,4 @@
-# Quicken Online 不敢相信 Mint 做得这么好；发送恐吓信| TechCrunch
+# Quicken Online 不敢相信 Mint 做得这么好；发送恐吓信
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/02/19/quicken-online-cant-believe-mint-is-doing-so-well-sends-threatening-letter/>
 

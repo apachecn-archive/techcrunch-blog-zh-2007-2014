@@ -1,4 +1,4 @@
-# 危险的“研究工作法案”| TechCrunch
+# 危险的“研究工作法案”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/15/the-dangerous-research-works-act/>
 

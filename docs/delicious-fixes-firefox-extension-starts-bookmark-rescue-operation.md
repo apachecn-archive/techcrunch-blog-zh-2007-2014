@@ -1,4 +1,4 @@
-# Delicious 修复 Firefox 扩展，开始“书签拯救行动”| TechCrunch
+# Delicious 修复 Firefox 扩展，开始“书签拯救行动”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/29/delicious-fixes-firefox-extension-starts-bookmark-rescue-operation/>
 

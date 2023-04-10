@@ -1,4 +1,4 @@
-# Bose SoundDock 便携式快速查看| TechCrunch
+# Bose SoundDock 便携式快速查看
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/29/bose-sounddock-portable-quick-look/>
 

@@ -1,4 +1,4 @@
-# 优秀的老游戏没有关闭，明天重新推出新游戏中的博德之门| TechCrunch
+# 优秀的老游戏没有关闭，明天重新推出新游戏中的博德之门
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/22/good-old-games-not-shutting-down-re-launches-tomorrow-with-baldurs-gate-among-new-games/>
 

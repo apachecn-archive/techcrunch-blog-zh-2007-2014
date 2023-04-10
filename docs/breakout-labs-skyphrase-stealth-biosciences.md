@@ -1,4 +1,4 @@
-# 彼得·泰尔的突破实验室资助了“纳米管道”和一个类似 Siri 的自然语言处理初创公司| TechCrunch
+# 彼得·泰尔的突破实验室资助了“纳米管道”和一个类似 Siri 的自然语言处理初创公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/17/breakout-labs-skyphrase-stealth-biosciences/>
 

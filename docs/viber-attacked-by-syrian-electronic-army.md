@@ -1,4 +1,4 @@
-# Viber 被叙利亚电子军攻击| TechCrunch
+# Viber 被叙利亚电子军攻击
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/23/viber-attacked-by-syrian-electronic-army/>
 

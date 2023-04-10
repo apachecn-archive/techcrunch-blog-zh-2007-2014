@@ -1,4 +1,4 @@
-# Lyft 对社区的关注和粉色小胡子背后的故事| TechCrunch
+# Lyft 对社区的关注和粉色小胡子背后的故事
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/17/lyfts-focus-on-community-and-the-story-behind-the-pink-mustache/>
 

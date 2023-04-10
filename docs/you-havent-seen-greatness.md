@@ -1,4 +1,4 @@
-# 如果你认为你不需要它，你就没有见过伟大| TechCrunch
+# 如果你认为你不需要它，你就没有见过伟大
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/24/you-havent-seen-greatness/>
 

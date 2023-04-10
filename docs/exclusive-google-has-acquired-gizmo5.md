@@ -1,4 +1,4 @@
-# 独家:谷歌收购了 Gizmo5 | TechCrunch
+# 独家:谷歌收购了 Gizmo5 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/09/exclusive-google-has-acquired-gizmo5/>
 

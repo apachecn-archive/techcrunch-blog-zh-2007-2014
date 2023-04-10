@@ -1,4 +1,4 @@
-# Facestagram:脸书+ Instagram 可能推出五项新功能| TechCrunch
+# Facestagram:脸书+ Instagram 可能推出五项新功能
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/09/facebook-instagram-features/>
 

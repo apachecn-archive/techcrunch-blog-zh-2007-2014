@@ -1,4 +1,4 @@
-# 宋杂举七图圆；在云中发布可共享的移动音乐收藏| TechCrunch
+# 宋杂举七图圆；在云中发布可共享的移动音乐收藏
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/songza-raises-seven-figure-round-launches-mobile-sharable-music-collections-in-the-cloud/>
 

@@ -1,4 +1,4 @@
-# 为什么微软别无选择只能收购诺基亚智能手机业务一张图| TechCrunch
+# 为什么微软别无选择只能收购诺基亚智能手机业务一张图
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/17/why-microsoft-had-no-choice-but-to-buy-nokias-smartphone-business-in-one-chart/>
 

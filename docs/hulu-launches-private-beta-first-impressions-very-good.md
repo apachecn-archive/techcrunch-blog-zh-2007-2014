@@ -1,4 +1,4 @@
-# Hulu 发布私人测试版，第一印象很好| TechCrunch
+# Hulu 发布私人测试版，第一印象很好
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/10/28/hulu-launches-private-beta-first-impressions-very-good/>
 

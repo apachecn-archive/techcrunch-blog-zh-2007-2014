@@ -1,4 +1,4 @@
-# Dropbox 收购小型平板电脑营销公司 TapEngage | TechCrunch
+# Dropbox 收购小型平板电脑营销公司 TapEngage 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/17/dropbox-acquires-small-tablet-marketing-company-tapengage/>
 

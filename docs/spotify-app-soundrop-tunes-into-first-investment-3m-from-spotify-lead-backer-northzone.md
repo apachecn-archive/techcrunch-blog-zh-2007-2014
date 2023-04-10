@@ -1,4 +1,4 @@
-# Spotify 应用 Soundrop 获得第一笔投资:Spotify 主要支持者 Northzone | TechCrunch 投资 300 万美元
+# Spotify 应用 Soundrop 获得第一笔投资:Spotify 主要支持者 Northzone  投资 300 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/06/11/spotify-app-soundrop-tunes-into-first-investment-3m-from-spotify-lead-backer-northzone/>
 

@@ -1,4 +1,4 @@
-# 盗版者拿 iPhone 当奖品| TechCrunch
+# 盗版者拿 iPhone 当奖品
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/pirates-take-iphone-as-a-prize/>
 

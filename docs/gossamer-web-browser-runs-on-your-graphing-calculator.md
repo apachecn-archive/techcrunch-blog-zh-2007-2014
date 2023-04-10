@@ -1,4 +1,4 @@
-# Gossamer Web 浏览器在您的图形计算器| TechCrunch 上运行
+# Gossamer Web 浏览器在您的图形计算器 上运行
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/25/gossamer-web-browser-runs-on-your-graphing-calculator/>
 

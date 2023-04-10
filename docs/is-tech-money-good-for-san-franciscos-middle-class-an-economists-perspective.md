@@ -1,4 +1,4 @@
-# 科技资金对旧金山的中产阶级有好处吗？经济学家的视角| TechCrunch
+# 科技资金对旧金山的中产阶级有好处吗？经济学家的视角
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/15/is-tech-money-good-for-san-franciscos-middle-class-an-economists-perspective/>
 

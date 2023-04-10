@@ -1,4 +1,4 @@
-# Goodreads 募集天使轮帮助你找到完美的书| TechCrunch
+# Goodreads 募集天使轮帮助你找到完美的书
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/12/17/goodreads-raises-angel-round-to-help-you-find-that-perfect-book/>
 

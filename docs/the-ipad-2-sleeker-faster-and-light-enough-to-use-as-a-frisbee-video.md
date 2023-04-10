@@ -1,4 +1,4 @@
-# iPad 2:更时尚、更快、更轻，可以当飞盘用？[视频] | TechCrunch
+# iPad 2:更时尚、更快、更轻，可以当飞盘用？[视频] 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/03/02/the-ipad-2-sleeker-faster-and-light-enough-to-use-as-a-frisbee-video/>
 

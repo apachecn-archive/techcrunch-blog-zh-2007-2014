@@ -1,4 +1,4 @@
-# TechCrunch | TechCrunch 的道歉
+# TechCrunch  的道歉
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/08/an-apology-from-techcrunch/>
 

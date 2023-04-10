@@ -1,4 +1,4 @@
-# 在与英国天空广播公司发生商标纠纷后，微软将“SkyDrive”更名为“one drive”| TechCrunch
+# 在与英国天空广播公司发生商标纠纷后，微软将“SkyDrive”更名为“one drive”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/27/following-trademark-dispute-microsoft-rebrands-skydrive-to-onedrive/>
 

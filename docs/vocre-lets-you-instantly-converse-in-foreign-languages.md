@@ -1,4 +1,4 @@
-# Vocre 让你立即用外语交谈| TechCrunch
+# Vocre 让你立即用外语交谈
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/vocre-lets-you-instantly-converse-in-foreign-languages/>
 

@@ -1,4 +1,4 @@
-# 根据 Y Combinator Startups | TechCrunch 的数据，Y Combinator 2014 年冬季的三大创业公司
+# 根据 Y Combinator Startups  的数据，Y Combinator 2014 年冬季的三大创业公司
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/27/y-combinator-top-three-startups/>
 

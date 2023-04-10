@@ -1,4 +1,4 @@
-# 不支付 Lypp 服务| TechCrunch
+# 不支付 Lypp 服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/23/not-paying-lypp-service/>
 

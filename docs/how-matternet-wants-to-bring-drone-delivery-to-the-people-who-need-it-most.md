@@ -1,4 +1,4 @@
-# Matternet 如何将无人机送货服务带给最需要的人| TechCrunch
+# Matternet 如何将无人机送货服务带给最需要的人
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/12/10/how-matternet-wants-to-bring-drone-delivery-to-the-people-who-need-it-most/>
 

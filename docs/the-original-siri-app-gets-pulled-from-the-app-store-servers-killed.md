@@ -1,4 +1,4 @@
-# 最初的 Siri 应用程序从应用程序商店下架，服务器被杀| TechCrunch
+# 最初的 Siri 应用程序从应用程序商店下架，服务器被杀
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/04/the-original-siri-app-gets-pulled-from-the-app-store-servers-killed/>
 

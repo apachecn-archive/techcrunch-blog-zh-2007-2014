@@ -1,4 +1,4 @@
-# 这很快:易贝将米洛的结果添加到移动“红色激光”应用程序| TechCrunch
+# 这很快:易贝将米洛的结果添加到移动“红色激光”应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/07/that-was-quick-ebay-adds-milo-results-to-mobile-redlaser-apps/>
 

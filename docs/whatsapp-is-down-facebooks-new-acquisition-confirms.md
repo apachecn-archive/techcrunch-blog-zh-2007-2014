@@ -1,4 +1,4 @@
-# WhatsApp 宕机，确认服务器问题[更新:宕机 210 分钟后恢复] | TechCrunch
+# WhatsApp 宕机，确认服务器问题[更新:宕机 210 分钟后恢复] 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/22/whatsapp-is-down-facebooks-new-acquisition-confirms/>
 

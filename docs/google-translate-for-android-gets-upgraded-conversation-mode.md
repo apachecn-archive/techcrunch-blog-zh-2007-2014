@@ -1,4 +1,4 @@
-# 谷歌安卓翻译升级“对话模式”| TechCrunch
+# 谷歌安卓翻译升级“对话模式”
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/google-translate-for-android-gets-upgraded-conversation-mode/>
 

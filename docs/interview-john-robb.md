@@ -1,4 +1,4 @@
-# 采访:约翰·罗布| TechCrunch
+# 采访:约翰·罗布
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/28/interview-john-robb/>
 

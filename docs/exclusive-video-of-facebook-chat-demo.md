@@ -1,4 +1,4 @@
-# 脸书聊天演示独家视频| TechCrunch
+# 脸书聊天演示独家视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/03/18/exclusive-video-of-facebook-chat-demo/>
 

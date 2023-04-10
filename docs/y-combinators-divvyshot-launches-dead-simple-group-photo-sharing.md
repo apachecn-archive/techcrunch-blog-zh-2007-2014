@@ -1,4 +1,4 @@
-# Y Combinator 的 Divvyshot 推出死亡简单合影分享| TechCrunch
+# Y Combinator 的 Divvyshot 推出死亡简单合影分享
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/04/y-combinators-divvyshot-launches-dead-simple-group-photo-sharing/>
 

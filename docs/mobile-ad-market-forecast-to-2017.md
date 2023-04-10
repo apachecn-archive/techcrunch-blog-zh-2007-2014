@@ -1,4 +1,4 @@
-# Gartner | TechCrunch 称，2014 年移动广告市场支出将达到 180 亿美元，到 2017 年将升至 420 亿美元
+# Gartner  称，2014 年移动广告市场支出将达到 180 亿美元，到 2017 年将升至 420 亿美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/21/mobile-ad-market-forecast-to-2017/>
 

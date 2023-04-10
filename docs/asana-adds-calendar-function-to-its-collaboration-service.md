@@ -1,4 +1,4 @@
-# Asana 在其协作服务| TechCrunch 中增加了日历功能
+# Asana 在其协作服务 中增加了日历功能
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/29/asana-adds-calendar-function-to-its-collaboration-service/>
 

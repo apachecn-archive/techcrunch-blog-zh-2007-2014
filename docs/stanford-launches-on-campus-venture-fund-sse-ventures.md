@@ -1,4 +1,4 @@
-# 斯坦福大学推出校内风险基金，SSE Ventures | TechCrunch
+# 斯坦福大学推出校内风险基金，SSE Ventures 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/04/06/stanford-launches-on-campus-venture-fund-sse-ventures/>
 

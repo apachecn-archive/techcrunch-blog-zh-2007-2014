@@ -1,4 +1,4 @@
-# Listia 与百思买合作，让你以旧换新| TechCrunch
+# Listia 与百思买合作，让你以旧换新
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/01/21/listia-partners-with-best-buy/>
 

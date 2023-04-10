@@ -1,4 +1,4 @@
-# 飞还是死:新的 Twitter | TechCrunch
+# 飞还是死:新的 Twitter 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/20/fly-or-die-the-new-new-twitter/>
 

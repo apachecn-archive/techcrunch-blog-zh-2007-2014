@@ -1,4 +1,4 @@
-# Siri:iPhone | TechCrunch 的强大虚拟助手
+# Siri:iPhone  的强大虚拟助手
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/27/siri-the-virtual-assistant-that-will-make-everyone-love-the-iphone-even-more/>
 

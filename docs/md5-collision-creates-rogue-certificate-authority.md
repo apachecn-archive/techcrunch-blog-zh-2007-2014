@@ -1,4 +1,4 @@
-# MD5 冲突创建流氓证书颁发机构| TechCrunch
+# MD5 冲突创建流氓证书颁发机构
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/12/30/md5-collision-creates-rogue-certificate-authority/>
 

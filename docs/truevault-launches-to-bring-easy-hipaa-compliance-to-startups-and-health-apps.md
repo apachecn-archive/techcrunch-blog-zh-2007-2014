@@ -1,4 +1,4 @@
-# TrueVault 推出，为初创公司和健康应用带来轻松的 HIPAA 合规性| TechCrunch
+# TrueVault 推出，为初创公司和健康应用带来轻松的 HIPAA 合规性
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/14/truevault-launches-to-bring-easy-hipaa-compliance-to-startups-and-health-apps/>
 

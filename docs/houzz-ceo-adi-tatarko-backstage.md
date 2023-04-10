@@ -1,4 +1,4 @@
-# Houzz 首席执行官 Adi Tatarko 谈如何建立成功的市场| TechCrunch
+# Houzz 首席执行官 Adi Tatarko 谈如何建立成功的市场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/10/houzz-ceo-adi-tatarko-backstage/>
 

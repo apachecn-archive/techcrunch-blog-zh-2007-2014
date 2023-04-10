@@ -1,4 +1,4 @@
-# 7 座？在轿车里？特斯拉的“平板电池”Model S (TCTV) | TechCrunch
+# 7 座？在轿车里？特斯拉的“平板电池”Model S (TCTV) 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/14/tesla-flat-pack/>
 

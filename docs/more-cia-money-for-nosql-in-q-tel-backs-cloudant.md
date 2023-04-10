@@ -1,4 +1,4 @@
-# 中情局为 NoSQL 提供更多资金:In-Q-Tel 支持 Cloudant | TechCrunch
+# 中情局为 NoSQL 提供更多资金:In-Q-Tel 支持 Cloudant 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/02/more-cia-money-for-nosql-in-q-tel-backs-cloudant/>
 

@@ -1,4 +1,4 @@
-# Lyft 推出反向激增定价，提供动态“欢乐时光”折扣| TechCrunch
+# Lyft 推出反向激增定价，提供动态“欢乐时光”折扣
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/18/lyft-happy-hour/>
 

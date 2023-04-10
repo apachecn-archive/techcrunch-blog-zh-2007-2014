@@ -1,4 +1,4 @@
-# 竞赛:5 生化危机:黑暗编年史僵尸 t 恤| TechCrunch
+# 竞赛:5 生化危机:黑暗编年史僵尸 t 恤
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/08/25/contest-5-resident-evil-the-darkside-chronicles-zombie-tees/>
 

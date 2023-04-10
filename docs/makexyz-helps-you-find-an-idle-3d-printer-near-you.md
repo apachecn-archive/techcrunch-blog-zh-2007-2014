@@ -1,4 +1,4 @@
-# MakeXYZ 帮助您找到附近闲置的 3D 打印机| TechCrunch
+# MakeXYZ 帮助您找到附近闲置的 3D 打印机
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/25/makexyz-helps-you-find-an-idle-3d-printer-near-you/>
 

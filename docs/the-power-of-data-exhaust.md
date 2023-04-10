@@ -1,4 +1,4 @@
-# 数据枯竭的力量| TechCrunch
+# 数据枯竭的力量
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/26/the-power-of-data-exhaust/>
 

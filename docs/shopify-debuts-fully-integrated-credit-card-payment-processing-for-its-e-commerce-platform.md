@@ -1,4 +1,4 @@
-# Shopify 为其电子商务平台| TechCrunch 首次推出完全集成的信用卡支付处理
+# Shopify 为其电子商务平台 首次推出完全集成的信用卡支付处理
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/12/shopify-debuts-fully-integrated-credit-card-payment-processing-for-its-e-commerce-platform/>
 

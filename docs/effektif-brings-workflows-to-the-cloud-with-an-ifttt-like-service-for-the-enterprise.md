@@ -1,4 +1,4 @@
-# Effektif 通过面向企业| TechCrunch 的 IFTTT 式服务将工作流引入云
+# Effektif 通过面向企业 的 IFTTT 式服务将工作流引入云
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/01/14/effektif-brings-workflows-to-the-cloud-with-an-ifttt-like-service-for-the-enterprise/>
 

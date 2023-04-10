@@ -1,4 +1,4 @@
-# 苹果年度应用:Hipstamatic、植物大战僵尸、Flipboard 和 Osmos | TechCrunch
+# 苹果年度应用:Hipstamatic、植物大战僵尸、Flipboard 和 Osmos 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/09/apple-top-apps-2010/>
 

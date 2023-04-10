@@ -1,4 +1,4 @@
-# Technorati 推出流媒体更新服务| TechCrunch
+# Technorati 推出流媒体更新服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/10/technorati-launches-streaming-updates-service/>
 

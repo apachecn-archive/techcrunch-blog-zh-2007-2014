@@ -1,4 +1,4 @@
-# 亚伦定律成型| TechCrunch
+# 亚伦定律成型
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/11/aarons-law-takes-shape/>
 

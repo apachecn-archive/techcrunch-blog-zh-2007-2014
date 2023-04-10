@@ -1,4 +1,4 @@
-# Anki 在 WWDC 以有趣的赛车游戏推出严肃的机器人人工智能，由 A16Z | TechCrunch 领投融资 5000 万美元
+# Anki 在 WWDC 以有趣的赛车游戏推出严肃的机器人人工智能，由 A16Z  领投融资 5000 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/10/anki-debuts-at-wwdc-with-an-ai-car-racing-game-raises-50m-from-a16z-and-others/>
 

@@ -1,4 +1,4 @@
-# 旧金山基准| TechCrunch
+# 旧金山基准
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/25/benchmark-in-san-francisco/>
 

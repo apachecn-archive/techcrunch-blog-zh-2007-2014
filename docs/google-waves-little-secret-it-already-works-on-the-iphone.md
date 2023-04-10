@@ -1,4 +1,4 @@
-# Google Wave 的小秘密:它已经在 iPhone | TechCrunch 上运行了
+# Google Wave 的小秘密:它已经在 iPhone  上运行了
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/10/13/google-waves-little-secret-it-already-works-on-the-iphone/>
 

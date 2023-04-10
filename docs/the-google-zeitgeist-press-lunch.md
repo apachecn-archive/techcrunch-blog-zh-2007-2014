@@ -1,4 +1,4 @@
-# 谷歌时代精神新闻午餐会| TechCrunch
+# 谷歌时代精神新闻午餐会
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/09/14/the-google-zeitgeist-press-lunch/>
 

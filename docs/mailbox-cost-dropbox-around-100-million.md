@@ -1,4 +1,4 @@
-# 邮箱成本 Dropbox 约 1 亿美元| TechCrunch
+# 邮箱成本 Dropbox 约 1 亿美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/03/15/mailbox-cost-dropbox-around-100-million/>
 

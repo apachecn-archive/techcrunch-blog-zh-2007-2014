@@ -1,4 +1,4 @@
-# 英特尔详细介绍下一代“Pine Trail”凌动平台，介绍更新的“移动”用户界面| TechCrunch
+# 英特尔详细介绍下一代“Pine Trail”凌动平台，介绍更新的“移动”用户界面
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/19/intel-details-next-generation-pine-trail-atom-platform-intros-updated-moblin-ui/>
 

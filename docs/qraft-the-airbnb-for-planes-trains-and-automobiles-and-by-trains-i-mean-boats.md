@@ -1,4 +1,4 @@
-# 飞机、火车和汽车的 Airbnb(火车，我指的是船。)| TechCrunch
+# 飞机、火车和汽车的 Airbnb(火车，我指的是船。)
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/13/qraft-the-airbnb-for-planes-trains-and-automobiles-and-by-trains-i-mean-boats/>
 

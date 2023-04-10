@@ -1,4 +1,4 @@
-# 安装或被惹恼:谷歌主页唠叨火狐浏览器，互联网探索者转向 Chrome | TechCrunch
+# 安装或被惹恼:谷歌主页唠叨火狐浏览器，互联网探索者转向 Chrome 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/04/firefox-install-google-chrome-home-page/>
 

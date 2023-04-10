@@ -1,4 +1,4 @@
-# 红杉在 MongoDB 大数据数据库提供商 10gen | TechCrunch 领投 2000 万美元
+# 红杉在 MongoDB 大数据数据库提供商 10gen  领投 2000 万美元
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/12/sequoia-leads-20-million-round-in-mongodb-big-data-database-provider-10gen/>
 

@@ -1,4 +1,4 @@
-# 加拿大的 Wind Mobile 提供无限制的美国通话、文本和数据漫游，每月 15 美元| TechCrunch
+# 加拿大的 Wind Mobile 提供无限制的美国通话、文本和数据漫游，每月 15 美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/30/canadas-wind-mobile-offering-unlimited-u-s-talk-text-and-data-roaming-for-15-per-month/>
 

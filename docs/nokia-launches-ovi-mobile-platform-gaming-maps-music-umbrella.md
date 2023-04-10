@@ -1,4 +1,4 @@
-# 诺基亚推出 Ovi 移动平台:游戏、地图、音乐伞| TechCrunch
+# 诺基亚推出 Ovi 移动平台:游戏、地图、音乐伞
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/29/nokia-launches-ovi-mobile-platform-gaming-maps-music-umbrella/>
 

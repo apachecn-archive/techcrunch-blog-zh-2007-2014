@@ -1,4 +1,4 @@
-# 向 iPhone 3G S 问好——“S”代表速度| TechCrunch
+# 向 iPhone 3G S 问好——“S”代表速度
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/08/say-hello-to-the-iphone-3gs-s-is-for-screaming-fast/>
 

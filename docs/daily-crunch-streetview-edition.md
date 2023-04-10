@@ -1,4 +1,4 @@
-# 每日快讯:街景版| TechCrunch
+# 每日快讯:街景版
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/21/daily-crunch-streetview-edition/>
 

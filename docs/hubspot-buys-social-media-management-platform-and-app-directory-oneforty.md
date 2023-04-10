@@ -1,4 +1,4 @@
-# HubSpot 收购社交媒体管理平台和应用目录 one 四十| TechCrunch
+# HubSpot 收购社交媒体管理平台和应用目录 one 四十
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/08/18/hubspot-buys-social-media-management-platform-and-app-directory-oneforty/>
 

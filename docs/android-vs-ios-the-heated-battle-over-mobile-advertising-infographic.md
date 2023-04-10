@@ -1,4 +1,4 @@
-# Android vs. iOS:关于移动广告的激烈战斗[信息图] | TechCrunch
+# Android vs. iOS:关于移动广告的激烈战斗[信息图] 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/07/22/android-vs-ios-the-heated-battle-over-mobile-advertising-infographic/>
 

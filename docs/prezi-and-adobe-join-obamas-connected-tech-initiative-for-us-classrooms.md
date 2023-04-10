@@ -1,4 +1,4 @@
-# Prezi 和 Adobe 加入奥巴马的美国教室互联技术计划| TechCrunch
+# Prezi 和 Adobe 加入奥巴马的美国教室互联技术计划
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/28/prezi-and-adobe-join-obamas-connected-tech-initiative-for-us-classrooms/>
 

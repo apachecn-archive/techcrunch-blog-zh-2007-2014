@@ -1,4 +1,4 @@
-# URL 缩短战:Twitter 抛弃 TinyURL，转而支持 bit.ly | TechCrunch
+# URL 缩短战:Twitter 抛弃 TinyURL，转而支持 bit.ly 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/05/06/url-shortening-wars-twitter-ditches-tinyurl-for-bitly/>
 

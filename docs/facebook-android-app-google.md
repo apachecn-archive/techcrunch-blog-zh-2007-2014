@@ -1,4 +1,4 @@
-# 脸书的安卓应用糟糕是因为“令人讨厌的”谷歌收购了开发者| TechCrunch
+# 脸书的安卓应用糟糕是因为“令人讨厌的”谷歌收购了开发者
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/11/03/facebook-android-app-google/>
 

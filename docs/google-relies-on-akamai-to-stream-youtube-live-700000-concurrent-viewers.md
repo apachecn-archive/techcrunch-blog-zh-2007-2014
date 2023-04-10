@@ -1,4 +1,4 @@
-# 谷歌依靠 Akamai 直播 YouTube70 万并发观众| TechCrunch
+# 谷歌依靠 Akamai 直播 YouTube70 万并发观众
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/11/22/google-relies-on-akamai-to-stream-youtube-live-700000-concurrent-viewers/>
 

@@ -1,4 +1,4 @@
-# Line 报告称，Q1 2013 年收入为 5890 万美元:一半来自游戏应用内购买，30%来自贴纸，80%来自日本| TechCrunch
+# Line 报告称，Q1 2013 年收入为 5890 万美元:一半来自游戏应用内购买，30%来自贴纸，80%来自日本
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/05/09/line-reports-q1-2013-earnings-of-58-9m-half-from-game-in-app-purchases-30-from-stickers-80-from-japan/>
 

@@ -1,4 +1,4 @@
-# WWE 投资视频信息初创公司 Tout 1340 万美元的 B 轮融资| TechCrunch
+# WWE 投资视频信息初创公司 Tout 1340 万美元的 B 轮融资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/11/wwe-yep-wrestling-invests-in-video-messaging-startup-touts-13-4-million-series-b/>
 

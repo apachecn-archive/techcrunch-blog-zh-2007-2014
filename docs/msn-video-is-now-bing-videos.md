@@ -1,4 +1,4 @@
-# MSN 视频现在是必应视频| TechCrunch
+# MSN 视频现在是必应视频
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/10/msn-video-is-now-bing-videos/>
 

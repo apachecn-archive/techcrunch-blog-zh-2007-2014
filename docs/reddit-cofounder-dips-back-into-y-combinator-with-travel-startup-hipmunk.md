@@ -1,4 +1,4 @@
-# Reddit 联合创始人重返 Y Combinator，投资旅游初创公司 Hipmunk | TechCrunch
+# Reddit 联合创始人重返 Y Combinator，投资旅游初创公司 Hipmunk 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/08/17/reddit-cofounder-dips-back-into-y-combinator-with-travel-startup-hipmunk/>
 

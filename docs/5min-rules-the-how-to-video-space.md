@@ -1,4 +1,4 @@
-# 5 分钟决定视频空间| TechCrunch
+# 5 分钟决定视频空间
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/5min-rules-the-how-to-video-space/>
 

@@ -1,4 +1,4 @@
-# 谷歌增加了 Google+个人资料图片、一键聊天和匿名动物来驱动| TechCrunch
+# 谷歌增加了 Google+个人资料图片、一键聊天和匿名动物来驱动
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/25/google-anonymous-animals/>
 

@@ -1,4 +1,4 @@
-# Spire:任何 iOS 5 设备的新合法 Siri 端口| TechCrunch
+# Spire:任何 iOS 5 设备的新合法 Siri 端口
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/27/spire-a-new-legal-siri-port-for-any-ios-5-device/>
 

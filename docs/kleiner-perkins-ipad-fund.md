@@ -1,4 +1,4 @@
-# 凯鹏华盈(Kleiner Perkins)将 iPad | TechCrunch 的投资基金翻倍至 2 亿美元
+# 凯鹏华盈(Kleiner Perkins)将 iPad  的投资基金翻倍至 2 亿美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/31/kleiner-perkins-ipad-fund/>
 

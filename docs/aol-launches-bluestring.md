@@ -1,4 +1,4 @@
-# 美国在线推出 BlueString | TechCrunch
+# 美国在线推出 BlueString 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2007/09/17/aol-launches-bluestring/>
 

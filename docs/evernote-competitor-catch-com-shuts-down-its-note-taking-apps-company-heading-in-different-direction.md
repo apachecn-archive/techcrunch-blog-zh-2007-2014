@@ -1,4 +1,4 @@
-# Evernote 的竞争对手 Catch.com 关闭了它的笔记应用，公司走向“不同的方向”| TechCrunch
+# Evernote 的竞争对手 Catch.com 关闭了它的笔记应用，公司走向“不同的方向”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/31/evernote-competitor-catch-com-shuts-down-its-note-taking-apps-company-heading-in-different-direction/>
 

@@ -1,4 +1,4 @@
-# 介绍“Boatbound ”,这是一家面向船只的 Airbnb 网站| TechCrunch
+# 介绍“Boatbound ”,这是一家面向船只的 Airbnb 网站
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/20/boatbound-aibnb-for-boats/>
 

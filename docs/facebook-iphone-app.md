@@ -1,4 +1,4 @@
-# iPhone 版脸书更新:不支持 iOS 4，不支持 iPad，UI 破损| TechCrunch
+# iPhone 版脸书更新:不支持 iOS 4，不支持 iPad，UI 破损
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/06/19/facebook-iphone-app/>
 

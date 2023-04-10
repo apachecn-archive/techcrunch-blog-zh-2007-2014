@@ -19,4 +19,4 @@
 | 《纽约时报》 | 2009 年 3 月 26 日 | 纽约州纽约市 | 100 | 5% | [NYT![](img/b9dd71137d47dceb2ac77cc81bf9d3d0.png)](https://web.archive.org/web/20230131195109/http://www.nytimes.com/2009/03/27/business/media/27times.html?_r=1) |
 | 谷歌 | 2009 年 3 月 26 日 | 加利福尼亚州山景城 | 200 | 1% | [NYT![](img/b9dd71137d47dceb2ac77cc81bf9d3d0.png)](https://web.archive.org/web/20230131195109/http://bits.blogs.nytimes.com/2009/03/26/google-plans-to-lay-off-200-workers/) |
 | 国际商用机器公司 | 2009 年 3 月 26 日 | 美利坚合众国 | 5,000 | 1% | [拉次![](img/b9dd71137d47dceb2ac77cc81bf9d3d0.png)](https://web.archive.org/web/20230131195109/http://www.latimes.com/business/la-fi-ibm26-2009mar26,0,5363361.story) |
-| Imeem | 2009 年 3 月 25 日 | 加利福尼亚州旧金山 | 6 | 4% | TechCrunch |
+| Imeem | 2009 年 3 月 25 日 | 加利福尼亚州旧金山 | 6 | 4%  |

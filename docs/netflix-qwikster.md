@@ -1,4 +1,4 @@
-# 突发事件:网飞拆分 DVD 和流媒体业务；为 DVDs | TechCrunch 创建 Qwikster
+# 突发事件:网飞拆分 DVD 和流媒体业务；为 DVDs  创建 Qwikster
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/18/netflix-qwikster/>
 

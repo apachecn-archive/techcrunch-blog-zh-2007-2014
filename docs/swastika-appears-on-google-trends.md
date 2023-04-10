@@ -1,4 +1,4 @@
-# 纳粹出现在谷歌趋势| TechCrunch
+# 纳粹出现在谷歌趋势
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/10/swastika-appears-on-google-trends/>
 

@@ -1,4 +1,4 @@
-# 电台小屋的颂歌| TechCrunch
+# 电台小屋的颂歌
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/04/29/an-ode-to-radio-shack/>
 

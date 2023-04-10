@@ -1,4 +1,4 @@
-# 通过更新随时推出的 iOS 脸书应用程序聊天头| TechCrunch
+# 通过更新随时推出的 iOS 脸书应用程序聊天头
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/16/chat-heads-coming-to-ios-facebook-app-via-update-pushing-out-anytime-now/>
 

@@ -1,4 +1,4 @@
-# 房地产平台 Trulia 首次推出 Android 平板电脑和租赁应用| TechCrunch
+# 房地产平台 Trulia 首次推出 Android 平板电脑和租赁应用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/29/real-estate-platform-trulia-debuts-android-tablet-and-rentals-apps/>
 

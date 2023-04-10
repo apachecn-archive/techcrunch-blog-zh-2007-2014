@@ -1,4 +1,4 @@
-# 宾得推出两个新的点和拍摄| TechCrunch
+# 宾得推出两个新的点和拍摄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/pentax-launches-two-new-point-and-shoots/>
 

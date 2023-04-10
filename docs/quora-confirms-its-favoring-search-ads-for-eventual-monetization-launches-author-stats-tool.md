@@ -1,4 +1,4 @@
-# Quora 表示支持搜索广告最终货币化，推出作者统计工具| TechCrunch
+# Quora 表示支持搜索广告最终货币化，推出作者统计工具
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/12/quora-confirms-its-favoring-search-ads-for-eventual-monetization-launches-author-stats-tool/>
 

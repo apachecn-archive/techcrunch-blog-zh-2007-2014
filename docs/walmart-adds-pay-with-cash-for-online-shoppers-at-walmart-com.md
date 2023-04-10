@@ -1,4 +1,4 @@
-# 沃尔玛在 Walmart.com | TechCrunch 为网上购物者增加“现金支付”
+# 沃尔玛在 Walmart.com  为网上购物者增加“现金支付”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/26/walmart-adds-pay-with-cash-for-online-shoppers-at-walmart-com/>
 

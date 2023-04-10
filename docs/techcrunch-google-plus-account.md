@@ -1,4 +1,4 @@
-# 我们的最新员工:Techathew Cruncherin，Google+ Maven | TechCrunch
+# 我们的最新员工:Techathew Cruncherin，Google+ Maven 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/07/21/techcrunch-google-plus-account/>
 

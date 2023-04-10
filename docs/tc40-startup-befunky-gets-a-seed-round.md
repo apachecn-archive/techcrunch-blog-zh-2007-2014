@@ -1,4 +1,4 @@
-# TC40 初创公司 BeFunky 获得种子轮| TechCrunch
+# TC40 初创公司 BeFunky 获得种子轮
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/06/02/tc40-startup-befunky-gets-a-seed-round/>
 

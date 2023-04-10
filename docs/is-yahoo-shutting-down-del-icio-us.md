@@ -1,4 +1,4 @@
-# 雅虎是在关闭 Del.icio.us 吗？【更新:Del.icio.us 回应】| TechCrunch
+# 雅虎是在关闭 Del.icio.us 吗？【更新:Del.icio.us 回应】
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/16/is-yahoo-shutting-down-del-icio-us/>
 

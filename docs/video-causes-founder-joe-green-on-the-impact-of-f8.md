@@ -1,4 +1,4 @@
-# 视频:Causes 创始人乔·格林谈 f8 | TechCrunch 的影响
+# 视频:Causes 创始人乔·格林谈 f8  的影响
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/22/video-causes-founder-joe-green-on-the-impact-of-f8/>
 

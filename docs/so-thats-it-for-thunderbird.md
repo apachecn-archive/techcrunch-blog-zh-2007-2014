@@ -1,4 +1,4 @@
-# 这就是雷鸟| TechCrunch 的全部内容
+# 这就是雷鸟 的全部内容
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/06/so-thats-it-for-thunderbird/>
 

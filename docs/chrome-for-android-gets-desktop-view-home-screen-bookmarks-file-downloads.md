@@ -1,4 +1,4 @@
-# Android 版 Chrome 获得桌面视图、主屏幕书签、文件下载| TechCrunch
+# Android 版 Chrome 获得桌面视图、主屏幕书签、文件下载
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/17/chrome-for-android-gets-desktop-view-home-screen-bookmarks-file-downloads/>
 

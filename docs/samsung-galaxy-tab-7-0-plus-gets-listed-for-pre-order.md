@@ -1,4 +1,4 @@
-# 三星 Galaxy Tab 7.0 Plus 上市预购| TechCrunch
+# 三星 Galaxy Tab 7.0 Plus 上市预购
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/samsung-galaxy-tab-7-0-plus-gets-listed-for-pre-order/>
 

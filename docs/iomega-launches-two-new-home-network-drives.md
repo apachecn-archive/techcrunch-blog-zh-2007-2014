@@ -1,4 +1,4 @@
-# Iomega 推出两款新的家庭网络驱动器| TechCrunch
+# Iomega 推出两款新的家庭网络驱动器
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/27/iomega-launches-two-new-home-network-drives/>
 

@@ -1,4 +1,4 @@
-# 员工挑战破解脸书安全，成功(更新)| TechCrunch
+# 员工挑战破解脸书安全，成功(更新)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/05/employees-challenged-to-crack-facebook-security-succeed/>
 

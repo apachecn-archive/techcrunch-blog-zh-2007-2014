@@ -1,4 +1,4 @@
-# 雷德·哈斯汀斯和约翰·杜尔登向自适应在线数学学习平台 DreamBox | TechCrunch 投资 1100 万美元
+# 雷德·哈斯汀斯和约翰·杜尔登向自适应在线数学学习平台 DreamBox  投资 1100 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/07/reed-hastings-and-john-doerr-put-11m-in-adaptive-online-math-learning-platform-dreambox/>
 

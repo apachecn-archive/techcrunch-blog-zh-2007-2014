@@ -1,4 +1,4 @@
-# 谷歌 Chrome | TechCrunch 的首批图片
+# 谷歌 Chrome  的首批图片
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/01/first-public-screen-captures-of-google-chrome/>
 

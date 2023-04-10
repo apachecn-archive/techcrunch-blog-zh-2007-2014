@@ -1,4 +1,4 @@
-# AisleFinder 发布超市 API，一个用于杂货的开源| TechCrunch
+# AisleFinder 发布超市 API，一个用于杂货的开源
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/13/aislefinder-launches-supermarket-api-an-open-source-api-for-groceries/>
 

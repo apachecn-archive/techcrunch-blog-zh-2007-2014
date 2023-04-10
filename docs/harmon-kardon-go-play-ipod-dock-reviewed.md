@@ -1,4 +1,4 @@
-# 哈曼卡顿 Go + Play iPod Dock 评论| TechCrunch
+# 哈曼卡顿 Go + Play iPod Dock 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/17/harmon-kardon-go-play-ipod-dock-reviewed/>
 

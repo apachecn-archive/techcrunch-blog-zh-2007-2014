@@ -1,4 +1,4 @@
-# Timehop 将其移动时间机器引入 Android | TechCrunch
+# Timehop 将其移动时间机器引入 Android 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/26/timehop-brings-its-mobile-time-machine-to-android/>
 

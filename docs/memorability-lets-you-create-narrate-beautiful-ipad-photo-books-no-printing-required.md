@@ -1,4 +1,4 @@
-# 可记忆性让您创建和叙述漂亮的 iPad 相册，无需打印| TechCrunch
+# 可记忆性让您创建和叙述漂亮的 iPad 相册，无需打印
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/22/memorability-lets-you-create-narrate-beautiful-ipad-photo-books-no-printing-required/>
 

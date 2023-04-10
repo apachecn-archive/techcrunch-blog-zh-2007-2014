@@ -1,4 +1,4 @@
-# Windows 7 通过测试，准备投入生产| TechCrunch
+# Windows 7 通过测试，准备投入生产
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/07/22/windows-7-passes-the-test-is-ready-for-manufacturing/>
 

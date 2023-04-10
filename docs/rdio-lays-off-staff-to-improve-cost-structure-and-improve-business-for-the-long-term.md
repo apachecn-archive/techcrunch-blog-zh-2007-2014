@@ -1,4 +1,4 @@
-# 音乐流媒体初创公司 Rdio 裁员，以“改善成本结构并确保可扩展的业务”| TechCrunch
+# 音乐流媒体初创公司 Rdio 裁员，以“改善成本结构并确保可扩展的业务”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/11/19/rdio-lays-off-staff-to-improve-cost-structure-and-improve-business-for-the-long-term/>
 

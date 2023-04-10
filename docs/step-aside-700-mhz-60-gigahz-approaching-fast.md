@@ -1,4 +1,4 @@
-# 让开 700 兆赫 60 千兆赫接近快速| TechCrunch
+# 让开 700 兆赫 60 千兆赫接近快速
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/27/step-aside-700-mhz-60-gigahz-approaching-fast/>
 

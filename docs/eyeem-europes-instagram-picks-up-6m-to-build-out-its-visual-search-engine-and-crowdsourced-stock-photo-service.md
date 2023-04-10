@@ -1,4 +1,4 @@
-# 欧洲 insta gram EyeEm 斥资 600 万美元打造其视觉搜索引擎和众包图片服务| TechCrunch
+# 欧洲 insta gram EyeEm 斥资 600 万美元打造其视觉搜索引擎和众包图片服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/17/eyeem-europes-instagram-picks-up-6m-to-build-out-its-visual-search-engine-and-crowdsourced-stock-photo-service/>
 

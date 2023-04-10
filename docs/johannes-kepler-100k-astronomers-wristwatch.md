@@ -1,4 +1,4 @@
-# 约翰尼斯·开普勒 10 万美元天文学家腕表| TechCrunch
+# 约翰尼斯·开普勒 10 万美元天文学家腕表
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/17/johannes-kepler-100k-astronomers-wristwatch/>
 

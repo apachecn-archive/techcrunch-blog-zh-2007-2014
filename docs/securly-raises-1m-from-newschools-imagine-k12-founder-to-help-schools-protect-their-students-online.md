@@ -1,4 +1,4 @@
-# Securly 从新学校筹集 100 万美元，想象 K12 创始人帮助学校在线保护学生| TechCrunch
+# Securly 从新学校筹集 100 万美元，想象 K12 创始人帮助学校在线保护学生
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/11/07/securly-raises-1m-from-newschools-imagine-k12-founder-to-help-schools-protect-their-students-online/>
 

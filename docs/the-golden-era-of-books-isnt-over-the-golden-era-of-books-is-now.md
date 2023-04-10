@@ -1,4 +1,4 @@
-# 书籍的黄金时代还没有结束。现在是图书的黄金时代| TechCrunch
+# 书籍的黄金时代还没有结束。现在是图书的黄金时代
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/08/17/the-golden-era-of-books-isnt-over-the-golden-era-of-books-is-now/>
 

@@ -1,4 +1,4 @@
-# Doodle Jump 多人游戏| TechCrunch
+# Doodle Jump 多人游戏
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/03/29/doodle-jump-goes-multiplayer/>
 

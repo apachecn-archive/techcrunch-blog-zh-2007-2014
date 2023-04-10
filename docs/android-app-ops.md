@@ -1,4 +1,4 @@
-# Android 4.3 包含隐藏的应用程序权限管理器，可增强隐私和安全| TechCrunch
+# Android 4.3 包含隐藏的应用程序权限管理器，可增强隐私和安全
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/26/android-app-ops/>
 

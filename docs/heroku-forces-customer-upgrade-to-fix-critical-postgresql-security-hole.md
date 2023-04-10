@@ -1,4 +1,4 @@
-# Heroku 迫使客户升级以修复关键的 PostgreSQL 安全漏洞| TechCrunch
+# Heroku 迫使客户升级以修复关键的 PostgreSQL 安全漏洞
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/01/heroku-forces-customer-upgrade-to-fix-critical-postgresql-security-hole/>
 

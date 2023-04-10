@@ -1,4 +1,4 @@
-# 邀请媒体分享| TechCrunch
+# 邀请媒体分享
 
 > 原文：<https://web.archive.org/web/http://www.techcrunch.com:80/2007/08/20/inviteshare-in-the-press/>
 

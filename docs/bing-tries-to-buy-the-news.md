@@ -1,4 +1,4 @@
-# 必应试图购买新闻| TechCrunch
+# 必应试图购买新闻
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/22/bing-tries-to-buy-the-news/>
 

@@ -1,4 +1,4 @@
-# Yelp 将以 1270 万美元收购在线预订服务 seat me | TechCrunch
+# Yelp 将以 1270 万美元收购在线预订服务 seat me 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/18/yelp-acquires-online-reservation-service-seatme/>
 

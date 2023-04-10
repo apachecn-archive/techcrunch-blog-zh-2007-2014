@@ -1,4 +1,4 @@
-# Teambox 增加高清视频会议，市场寻求更深入的合作| TechCrunch
+# Teambox 增加高清视频会议，市场寻求更深入的合作
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/18/teambox-adds-high-definition-video-conferencing-market-looks-for-deeper-collaboration/>
 

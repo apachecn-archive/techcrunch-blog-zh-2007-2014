@@ -1,4 +1,4 @@
-# 帮助我们谷歌，你是我们唯一的宽带希望。(政府没骨气。)| TechCrunch
+# 帮助我们谷歌，你是我们唯一的宽带希望。(政府没骨气。)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/03/21/google-national-broadband-plan/>
 

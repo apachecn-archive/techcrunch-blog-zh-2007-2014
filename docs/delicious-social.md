@@ -1,4 +1,4 @@
-# Delicious 增加协作和领先 Pinterest 的隐私| TechCrunch
+# Delicious 增加协作和领先 Pinterest 的隐私
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/delicious-social/>
 

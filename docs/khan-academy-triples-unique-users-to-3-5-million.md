@@ -1,4 +1,4 @@
-# 可汗学院的独立用户增加了两倍，达到 350 万| TechCrunch
+# 可汗学院的独立用户增加了两倍，达到 350 万
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/19/khan-academy-triples-unique-users-to-3-5-million/>
 

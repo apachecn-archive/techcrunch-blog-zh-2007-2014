@@ -1,4 +1,4 @@
-# 3DLT 推出第一家可打印 3D 对象商店| TechCrunch
+# 3DLT 推出第一家可打印 3D 对象商店
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/30/3dlt-launches-the-first-store-for-printable-3d-objects/>
 

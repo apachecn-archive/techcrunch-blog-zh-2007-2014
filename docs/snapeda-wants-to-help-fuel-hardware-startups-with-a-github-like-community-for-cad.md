@@ -1,4 +1,4 @@
-# SnapEDA 希望通过一个类似 Github 的 CAD | TechCrunch 社区来帮助硬件初创公司
+# SnapEDA 希望通过一个类似 Github 的 CAD  社区来帮助硬件初创公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/11/snapeda-wants-to-help-fuel-hardware-startups-with-a-github-like-community-for-cad/>
 

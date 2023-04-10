@@ -1,4 +1,4 @@
-# Beezinga 将数据分析引入养蜂场| TechCrunch
+# Beezinga 将数据分析引入养蜂场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/10/beezinga-brings-data-analytics-to-the-apiary/>
 

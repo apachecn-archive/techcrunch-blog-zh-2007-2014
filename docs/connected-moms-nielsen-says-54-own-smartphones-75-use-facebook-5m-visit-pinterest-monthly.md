@@ -1,4 +1,4 @@
-# 联网妈妈:尼尔森称 54%的人拥有智能手机；75%使用脸书；500 万访问 Pinterest 月刊| TechCrunch
+# 联网妈妈:尼尔森称 54%的人拥有智能手机；75%使用脸书；500 万访问 Pinterest 月刊
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/05/11/connected-moms-nielsen-says-54-own-smartphones-75-use-facebook-5m-visit-pinterest-monthly/>
 

@@ -1,4 +1,4 @@
-# AOL 开始关闭 AOL 图片、BlueString 和 Xdrive | TechCrunch
+# AOL 开始关闭 AOL 图片、BlueString 和 Xdrive 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/24/aol-begins-shutdown-of-aol-pictures-bluestring-and-xdrive/>
 

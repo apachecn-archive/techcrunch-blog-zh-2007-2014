@@ -1,4 +1,4 @@
-# 专业内容分享平台 SlideShare 深化 LinkedIn 整合| TechCrunch
+# 专业内容分享平台 SlideShare 深化 LinkedIn 整合
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/06/22/professional-content-sharing-platform-slideshare-deepens-linkedin-integration/>
 

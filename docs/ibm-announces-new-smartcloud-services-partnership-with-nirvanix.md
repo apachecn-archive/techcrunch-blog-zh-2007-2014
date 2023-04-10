@@ -1,4 +1,4 @@
-# IBM 宣布与 Nirvanix | TechCrunch 合作推出新的智能云服务
+# IBM 宣布与 Nirvanix  合作推出新的智能云服务
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/12/ibm-announces-new-smartcloud-services-partnership-with-nirvanix/>
 

@@ -1,4 +1,4 @@
-# 最近离职的 Magento 首席技术官和联合创始人:易贝不明白开放| TechCrunch 的含义
+# 最近离职的 Magento 首席技术官和联合创始人:易贝不明白开放 的含义
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/04/12/recently-departed-magento-cto-and-co-founder-ebay-doesnt-understand-the-meaning-of-open/>
 

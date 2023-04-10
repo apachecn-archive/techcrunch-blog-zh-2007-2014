@@ -1,4 +1,4 @@
-# Nvidia 试图掩盖有缺陷的 GPUs | TechCrunch
+# Nvidia 试图掩盖有缺陷的 GPUs 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/10/nvidia-tries-to-cover-up-defective-gpus/>
 

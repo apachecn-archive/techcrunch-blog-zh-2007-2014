@@ -1,4 +1,4 @@
-# 如果投资者想要更多投票权，他们应该发明脸书| TechCrunch
+# 如果投资者想要更多投票权，他们应该发明脸书
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/14/facebook-voting-rights/>
 

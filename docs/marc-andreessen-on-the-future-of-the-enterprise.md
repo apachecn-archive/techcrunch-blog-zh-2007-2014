@@ -1,4 +1,4 @@
-# 马克·安德森谈企业的未来| TechCrunch
+# 马克·安德森谈企业的未来
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/>
 

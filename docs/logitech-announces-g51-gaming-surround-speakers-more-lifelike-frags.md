@@ -1,4 +1,4 @@
-# 罗技发布 G51 游戏环绕音箱，更逼真的片段| TechCrunch
+# 罗技发布 G51 游戏环绕音箱，更逼真的片段
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/22/logitech-announces-g51-gaming-surround-speakers-more-lifelike-frags/>
 

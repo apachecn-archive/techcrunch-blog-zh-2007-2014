@@ -1,4 +1,4 @@
-# 诚实现在为问答社交游戏筹集资金| TechCrunch
+# 诚实现在为问答社交游戏筹集资金
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/20/honestly-now-raises-funding-for-qa-social-game/>
 

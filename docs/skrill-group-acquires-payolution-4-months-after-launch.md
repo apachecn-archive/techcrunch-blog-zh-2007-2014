@@ -1,4 +1,4 @@
-# Skrill Group 在推出 4 个月后收购 pay olution | TechCrunch
+# Skrill Group 在推出 4 个月后收购 pay olution 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/07/skrill-group-acquires-payolution-4-months-after-launch/>
 

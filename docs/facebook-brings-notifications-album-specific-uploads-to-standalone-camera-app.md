@@ -1,4 +1,4 @@
-# 脸书将通知和特定专辑上传到独立的相机应用程序| TechCrunch
+# 脸书将通知和特定专辑上传到独立的相机应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/08/28/facebook-brings-notifications-album-specific-uploads-to-standalone-camera-app/>
 

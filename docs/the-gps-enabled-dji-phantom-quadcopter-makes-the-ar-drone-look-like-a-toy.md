@@ -1,4 +1,4 @@
-# 启用 GPS 的 DJI 幻影四轴飞行器制造了 AR。无人机看起来像玩具| TechCrunch
+# 启用 GPS 的 DJI 幻影四轴飞行器制造了 AR。无人机看起来像玩具
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/01/the-gps-enabled-dji-phantom-quadcopter-makes-the-ar-drone-look-like-a-toy/>
 

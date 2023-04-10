@@ -1,4 +1,4 @@
-# Deezer 首席执行官 Axel Dauchez 谈到进军美国市场，以及为什么它不是另一个 Spotify | TechCrunch
+# Deezer 首席执行官 Axel Dauchez 谈到进军美国市场，以及为什么它不是另一个 Spotify 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/10/09/deezer-ceo-streaming-music/>
 

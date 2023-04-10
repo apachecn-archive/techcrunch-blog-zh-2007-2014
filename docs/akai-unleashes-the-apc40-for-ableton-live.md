@@ -1,4 +1,4 @@
-# Akai 为 Ableton Live 发布 APC 40 | TechCrunch
+# Akai 为 Ableton Live 发布 APC 40 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/01/15/akai-unleashes-the-apc40-for-ableton-live/>
 

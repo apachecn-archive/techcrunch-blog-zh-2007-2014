@@ -1,4 +1,4 @@
-# Mint 把个人理财变成游戏。比听起来要好| TechCrunch
+# Mint 把个人理财变成游戏。比听起来要好
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/28/mint-turns-personal-finance-into-a-game-its-not-as-bad-as-it-sounds/>
 

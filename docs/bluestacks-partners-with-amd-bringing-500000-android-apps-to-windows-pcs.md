@@ -1,4 +1,4 @@
-# BlueStacks 与 AMD 合作，为 Windows PCs 带来 500，000 个 Android 应用程序| TechCrunch
+# BlueStacks 与 AMD 合作，为 Windows PCs 带来 500，000 个 Android 应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/27/bluestacks-partners-with-amd-bringing-500000-android-apps-to-windows-pcs/>
 

@@ -1,4 +1,4 @@
-# 如何获得阿姆的 MBA 学位| TechCrunch
+# 如何获得阿姆的 MBA 学位
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/18/how-to-get-an-mba-from-eminem/>
 

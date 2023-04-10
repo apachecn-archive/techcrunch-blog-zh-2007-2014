@@ -1,4 +1,4 @@
-# THQ CEO 称索尼的运动控制器实际上被命名为 Arc，而不是 Gem | TechCrunch
+# THQ CEO 称索尼的运动控制器实际上被命名为 Arc，而不是 Gem 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/03/thq-ceo-says-sonys-motion-controller-is-actually-named-arc-not-gem/>
 

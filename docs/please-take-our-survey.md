@@ -1,4 +1,4 @@
-# 请参加我们的调查| TechCrunch
+# 请参加我们的调查
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/04/please-take-our-survey/>
 

@@ -1,4 +1,4 @@
-# 三星微型 1.8 英寸硬盘达到 160GB | TechCrunch
+# 三星微型 1.8 英寸硬盘达到 160GB 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/samsungs-tiny-18-inch-hard-drives-hit-160gb/>
 

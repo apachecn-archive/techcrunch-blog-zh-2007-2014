@@ -1,4 +1,4 @@
-# Farmigo 通过其新的当地食品社区将农贸市场带到网上(并进入你的办公室),筹集了 800 万美元| TechCrunch
+# Farmigo 通过其新的当地食品社区将农贸市场带到网上(并进入你的办公室),筹集了 800 万美元
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/11/farmigo-local-food-communities/?_ga=2.164545404.254421615.1631522567-209244718.1579131500>
 

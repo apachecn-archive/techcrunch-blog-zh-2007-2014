@@ -1,4 +1,4 @@
-# 美国在线内部电子邮件宣布。Me 收购| TechCrunch
+# 美国在线内部电子邮件宣布。Me 收购
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/20/internal-aol-email-announcing-about-me-acquisition/>
 

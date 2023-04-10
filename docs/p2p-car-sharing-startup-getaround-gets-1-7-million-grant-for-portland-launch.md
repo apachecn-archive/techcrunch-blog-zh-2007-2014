@@ -1,4 +1,4 @@
-# P2P 汽车共享初创公司 Getaround 获得 170 万美元的波特兰启动资金| TechCrunch
+# P2P 汽车共享初创公司 Getaround 获得 170 万美元的波特兰启动资金
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/13/p2p-car-sharing-startup-getaround-gets-1-7-million-grant-for-portland-launch/>
 

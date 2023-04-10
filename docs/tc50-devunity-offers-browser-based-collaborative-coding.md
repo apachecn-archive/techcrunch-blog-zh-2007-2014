@@ -1,4 +1,4 @@
-# TC50: Devunity 提供基于浏览器的协作编码| TechCrunch
+# TC50: Devunity 提供基于浏览器的协作编码
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/09/10/tc50-devunity-offers-browser-based-collaborative-coding/>
 

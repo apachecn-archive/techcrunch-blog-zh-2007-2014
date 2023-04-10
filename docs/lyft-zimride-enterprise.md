@@ -1,4 +1,4 @@
-# Lyft 将遗留的 Zimride 资产出售给企业控股公司，因为它专注于本地乘车共享| TechCrunch
+# Lyft 将遗留的 Zimride 资产出售给企业控股公司，因为它专注于本地乘车共享
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/12/lyft-zimride-enterprise/>
 

@@ -1,4 +1,4 @@
-# Wii U | TechCrunch 现已推出谷歌街景地图
+# Wii U  现已推出谷歌街景地图
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/02/14/google-maps-with-street-view-is-now-available-for-the-wii-u/>
 

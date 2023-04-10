@@ -1,4 +1,4 @@
-# Square 收购 BookFresh，为商家增加预订服务| TechCrunch
+# Square 收购 BookFresh，为商家增加预订服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/26/square-acquires-bookfresh-to-add-booking-services-for-merchants/>
 

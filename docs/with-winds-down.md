@@ -1,4 +1,4 @@
-# “再见，同。路径二你好。”Morin 将用户迁移到新应用| TechCrunch
+# “再见，同。路径二你好。”Morin 将用户迁移到新应用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/12/16/with-winds-down/>
 

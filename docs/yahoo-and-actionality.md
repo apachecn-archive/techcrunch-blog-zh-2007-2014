@@ -1,4 +1,4 @@
-# 雅虎和行动| TechCrunch
+# 雅虎和行动
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/21/yahoo-and-actionality/>
 

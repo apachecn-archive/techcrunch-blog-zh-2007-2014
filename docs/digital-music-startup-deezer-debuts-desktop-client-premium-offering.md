@@ -1,4 +1,4 @@
-# 数字音乐初创公司 Deezer 推出桌面客户端，高级产品| TechCrunch
+# 数字音乐初创公司 Deezer 推出桌面客户端，高级产品
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/05/digital-music-startup-deezer-debuts-desktop-client-premium-offering/>
 

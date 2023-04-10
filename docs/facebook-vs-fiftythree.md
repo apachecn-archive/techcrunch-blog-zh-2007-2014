@@ -1,4 +1,4 @@
-# 脸书“纸”可能击败商标投诉，因为绘图应用程序被注册为“纸由 53”| TechCrunch
+# 脸书“纸”可能击败商标投诉，因为绘图应用程序被注册为“纸由 53”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/03/facebook-vs-fiftythree/>
 

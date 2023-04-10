@@ -1,4 +1,4 @@
-# Nate Silver 的新新闻网站| TechCrunch 的三个数据驱动的金块
+# Nate Silver 的新新闻网站 的三个数据驱动的金块
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/17/three-data-driven-nuggets-from-nate-silvers-new-news-site/>
 

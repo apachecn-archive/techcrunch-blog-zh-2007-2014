@@ -1,4 +1,4 @@
-# 乘船出发的“码头到码头”船舶租赁市场| TechCrunch
+# 乘船出发的“码头到码头”船舶租赁市场
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/13/boatbound-boat-rentals/>
 

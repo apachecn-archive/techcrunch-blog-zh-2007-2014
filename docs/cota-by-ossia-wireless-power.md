@@ -1,4 +1,4 @@
-# Ossia 的 Cota 旨在推动无线电源革命，改变我们对充电的看法| TechCrunch
+# Ossia 的 Cota 旨在推动无线电源革命，改变我们对充电的看法
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/09/09/cota-by-ossia-wireless-power/>
 

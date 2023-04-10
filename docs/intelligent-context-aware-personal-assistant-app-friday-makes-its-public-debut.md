@@ -1,4 +1,4 @@
-# 智能的环境感知个人助理应用程序“星期五”首次公开亮相| TechCrunch
+# 智能的环境感知个人助理应用程序“星期五”首次公开亮相
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/07/20/intelligent-context-aware-personal-assistant-app-friday-makes-its-public-debut/>
 

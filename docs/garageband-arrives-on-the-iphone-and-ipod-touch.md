@@ -1,4 +1,4 @@
-# GarageBand 登陆 iPhone 和 iPod Touch | TechCrunch
+# GarageBand 登陆 iPhone 和 iPod Touch 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/11/01/garageband-arrives-on-the-iphone-and-ipod-touch/>
 

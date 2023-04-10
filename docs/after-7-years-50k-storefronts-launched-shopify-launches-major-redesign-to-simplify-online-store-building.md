@@ -1,4 +1,4 @@
-# 经过 7 年时间，创建了 5 万个店面，Shopify 启动了重大的重新设计，以简化在线商店建设| TechCrunch
+# 经过 7 年时间，创建了 5 万个店面，Shopify 启动了重大的重新设计，以简化在线商店建设
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/04/11/after-7-years-50k-storefronts-launched-shopify-launches-major-redesign-to-simplify-online-store-building/>
 

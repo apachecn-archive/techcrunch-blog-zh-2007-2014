@@ -1,4 +1,4 @@
-# 沃尔玛收购移动和社交广告目标初创公司 OneRiot | TechCrunch
+# 沃尔玛收购移动和社交广告目标初创公司 OneRiot 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/13/walmart-acquires-mobile-and-social-ad-targeting-startup-oneriot/>
 

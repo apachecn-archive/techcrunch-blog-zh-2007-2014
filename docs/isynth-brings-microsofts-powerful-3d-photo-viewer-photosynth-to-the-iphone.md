@@ -1,4 +1,4 @@
-# iSynth 将微软强大的 3D 照片浏览器 Photosynth 引入 iPhone | TechCrunch
+# iSynth 将微软强大的 3D 照片浏览器 Photosynth 引入 iPhone 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/03/11/isynth-brings-microsofts-powerful-3d-photo-viewer-photosynth-to-the-iphone/>
 

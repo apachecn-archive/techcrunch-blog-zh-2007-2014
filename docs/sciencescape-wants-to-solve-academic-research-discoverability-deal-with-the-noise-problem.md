@@ -1,4 +1,4 @@
-# 科学景观想要解决学术研究的可发现性，处理噪音问题| TechCrunch
+# 科学景观想要解决学术研究的可发现性，处理噪音问题
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/16/sciencescape-wants-to-solve-academic-research-discoverability-deal-with-the-noise-problem/>
 

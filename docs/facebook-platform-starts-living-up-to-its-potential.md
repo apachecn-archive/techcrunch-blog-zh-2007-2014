@@ -1,4 +1,4 @@
-# Facebook 平台开始实现其潜力| TechCrunch
+# Facebook 平台开始实现其潜力
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/09/22/facebook-platform-starts-living-up-to-its-potential/>
 

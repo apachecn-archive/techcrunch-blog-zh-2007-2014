@@ -1,4 +1,4 @@
-# 《时代》杂志因被 4Chan | TechCrunch 质疑而束手无策
+# 《时代》杂志因被 4Chan  质疑而束手无策
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/04/27/time-magazine-throws-up-its-hands-as-it-gets-pwned-by-4chan/>
 

@@ -1,4 +1,4 @@
-# Dropbox 是如何扩展到 1.75 亿用户的？一位前工程师详述了早期| TechCrunch
+# Dropbox 是如何扩展到 1.75 亿用户的？一位前工程师详述了早期
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/07/11/how-did-dropbox-scale-to-175m-users-a-former-engineer-details-the-early-days/>
 

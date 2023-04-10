@@ -1,4 +1,4 @@
-# 触地得分:Fleaflicker 创始人从 AOL | TechCrunch 回购幻想体育网站
+# 触地得分:Fleaflicker 创始人从 AOL  回购幻想体育网站
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/06/22/fleaflicker-the-aol-way/>
 

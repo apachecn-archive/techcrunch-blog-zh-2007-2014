@@ -1,4 +1,4 @@
-# CS 里没有女人？嗯，不会太久| TechCrunch
+# CS 里没有女人？嗯，不会太久
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/12/27/stanford-bridging-gender-gap/>
 

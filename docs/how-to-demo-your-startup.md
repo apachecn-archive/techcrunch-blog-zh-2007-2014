@@ -1,4 +1,4 @@
-# 如何演示你的初创公司| TechCrunch
+# 如何演示你的初创公司
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/08/09/how-to-demo-your-startup/>
 

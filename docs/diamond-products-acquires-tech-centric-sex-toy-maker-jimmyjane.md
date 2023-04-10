@@ -1,4 +1,4 @@
-# 钻石产品公司收购以科技为中心的性玩具制造商 Jimmyjane | TechCrunch
+# 钻石产品公司收购以科技为中心的性玩具制造商 Jimmyjane 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/diamond-products-acquires-tech-centric-sex-toy-maker-jimmyjane/>
 

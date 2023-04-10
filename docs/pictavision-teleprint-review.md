@@ -1,4 +1,4 @@
-# Pictavision Teleprint 评论| TechCrunch
+# Pictavision Teleprint 评论
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/30/pictavision-teleprint-review/>
 

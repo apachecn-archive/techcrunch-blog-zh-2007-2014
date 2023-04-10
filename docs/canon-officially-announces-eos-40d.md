@@ -1,4 +1,4 @@
-# 佳能正式宣布 EOS 40D | TechCrunch
+# 佳能正式宣布 EOS 40D 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2007/08/20/canon-officially-announces-eos-40d/>
 

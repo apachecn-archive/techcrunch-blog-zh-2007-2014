@@ -1,4 +1,4 @@
-# 诺基亚对行业:全球移动广告之战一览[信息图] | TechCrunch
+# 诺基亚对行业:全球移动广告之战一览[信息图] 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2011/10/29/nokia-vs-the-industry-a-look-at-the-global-battle-over-mobile-advertising-infographic/>
 

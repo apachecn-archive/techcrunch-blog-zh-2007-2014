@@ -1,4 +1,4 @@
-# X.商务:易贝将推出新的支付身份技术 PayPal AccessMilo 打开 API | TechCrunch
+# X.商务:易贝将推出新的支付身份技术 PayPal AccessMilo 打开 API 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/11/x-commerce-paypal/>
 

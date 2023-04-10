@@ -1,4 +1,4 @@
-# 松下的 3D 全高清电视定价和日期(日本)| TechCrunch
+# 松下的 3D 全高清电视定价和日期(日本)
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/02/09/panasonics-3d-full-hd-tvs-get-priced-and-dated-in-japan/>
 

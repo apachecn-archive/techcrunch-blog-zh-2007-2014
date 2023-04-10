@@ -1,4 +1,4 @@
-# 微软在 Release 中收购了 InCycle 的发布管理服务，以改进其 Team Foundation Server | TechCrunch
+# 微软在 Release 中收购了 InCycle 的发布管理服务，以改进其 Team Foundation Server 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/06/03/microsoft-acquires-incycles-release-management-service-inrelease-to-improve-its-team-foundation-server/>
 

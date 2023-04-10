@@ -1,4 +1,4 @@
-# 法国开放数据团队如何通过 Data | TechCrunch 实现法国政府的现代化
+# 法国开放数据团队如何通过 Data  实现法国政府的现代化
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/12/how-frances-open-data-team-is-modernizing-the-french-government-through-data/>
 

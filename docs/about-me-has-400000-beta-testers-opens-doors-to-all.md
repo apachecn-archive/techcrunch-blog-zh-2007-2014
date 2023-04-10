@@ -1,4 +1,4 @@
-# 关于。Me 拥有 400，000 名测试人员，向所有人敞开大门| TechCrunch
+# 关于。Me 拥有 400，000 名测试人员，向所有人敞开大门
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2010/12/16/about-me-has-400000-beta-testers-opens-doors-to-all/>
 

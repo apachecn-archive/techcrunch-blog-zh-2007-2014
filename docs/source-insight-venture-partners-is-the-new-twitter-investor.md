@@ -1,4 +1,4 @@
-# 来源:Insight Venture Partners 是 Twitter 的新投资者| TechCrunch
+# 来源:Insight Venture Partners 是 Twitter 的新投资者
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/16/source-insight-venture-partners-is-the-new-twitter-investor/>
 

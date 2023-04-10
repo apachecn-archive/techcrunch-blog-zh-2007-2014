@@ -1,4 +1,4 @@
-# 脸书又一次在网络| TechCrunch 上举办了“像海盗一样说话日”
+# 脸书又一次在网络 上举办了“像海盗一样说话日”
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/09/19/once-again-facebook-owns-talk-like-a-pirate-day-on-the-web/>
 

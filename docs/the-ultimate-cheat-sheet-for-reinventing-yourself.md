@@ -1,4 +1,4 @@
-# 重塑自我的终极秘籍| TechCrunch
+# 重塑自我的终极秘籍
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/10/19/the-ultimate-cheat-sheet-for-reinventing-yourself/>
 

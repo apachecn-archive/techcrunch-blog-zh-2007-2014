@@ -1,4 +1,4 @@
-# 价值 140 万美元的 IBM 服务器从叉车上掉落| TechCrunch
+# 价值 140 万美元的 IBM 服务器从叉车上掉落
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/28/14-million-ibm-server-falls-off-forklift/>
 

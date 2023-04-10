@@ -1,4 +1,4 @@
-# Xbox 360 配备 512MB 内部存储空间| TechCrunch
+# Xbox 360 配备 512MB 内部存储空间
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/06/17/xbox-360-with-512mb-of-internal-storage-spotted/>
 

@@ -1,4 +1,4 @@
-# 100 美元 360 包，带 60GB 硬盘、耳机、3 个月金牌服务| TechCrunch
+# 100 美元 360 包，带 60GB 硬盘、耳机、3 个月金牌服务
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/10/29/100-360-pack-with-60gb-hdd-headset-3-months-of-gold/>
 

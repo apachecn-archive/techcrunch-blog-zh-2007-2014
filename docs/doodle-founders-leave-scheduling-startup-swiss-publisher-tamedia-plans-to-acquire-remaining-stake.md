@@ -1,4 +1,4 @@
-# Doodle 创始人离开调度初创公司，瑞士出版商 Tamedia 计划收购剩余股份| TechCrunch
+# Doodle 创始人离开调度初创公司，瑞士出版商 Tamedia 计划收购剩余股份
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/07/doodle-founders-leave-scheduling-startup-swiss-publisher-tamedia-plans-to-acquire-remaining-stake/>
 

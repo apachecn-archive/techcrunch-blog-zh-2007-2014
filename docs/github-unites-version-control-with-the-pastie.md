@@ -1,4 +1,4 @@
-# GitHub 将版本控制与 Pastie | TechCrunch 结合起来
+# GitHub 将版本控制与 Pastie  结合起来
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2008/07/22/github-unites-version-control-with-the-pastie/>
 

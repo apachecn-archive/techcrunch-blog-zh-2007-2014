@@ -1,4 +1,4 @@
-# LED 热:Bridgelux 增加 2100 万美元资金，数字流明走向全球| TechCrunch
+# LED 热:Bridgelux 增加 2100 万美元资金，数字流明走向全球
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/02/09/led-mania-bridgelux-digital-lumens/>
 

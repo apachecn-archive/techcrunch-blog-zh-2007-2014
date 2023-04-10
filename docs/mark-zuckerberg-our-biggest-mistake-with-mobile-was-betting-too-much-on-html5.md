@@ -1,4 +1,4 @@
-# 马克·扎克伯格:我们最大的错误是在 HTML5 | TechCrunch 上下了太多赌注
+# 马克·扎克伯格:我们最大的错误是在 HTML5  上下了太多赌注
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/>
 

@@ -1,4 +1,4 @@
-# 在线订阅计费令人头痛。Recurly 想缓解它。| TechCrunch
+# 在线订阅计费令人头痛。Recurly 想缓解它。
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2009/11/17/online-subscription-billing-is-a-pain-recurly-wants-to-alleviate-it/>
 

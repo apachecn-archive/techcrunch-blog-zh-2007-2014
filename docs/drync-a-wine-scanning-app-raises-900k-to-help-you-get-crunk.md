@@ -1,4 +1,4 @@
-# 酒类扫描应用 Drync 筹集了 90 万美元来帮助你获得 Crunk | TechCrunch
+# 酒类扫描应用 Drync 筹集了 90 万美元来帮助你获得 Crunk 
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/08/14/drync-a-wine-scanning-app-raises-900k-to-help-you-get-crunk/>
 

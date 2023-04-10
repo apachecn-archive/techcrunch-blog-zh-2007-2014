@@ -1,4 +1,4 @@
-# 锁住你的。抢地热潮开始前的 XXX 域名| TechCrunch
+# 锁住你的。抢地热潮开始前的 XXX 域名
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/09/07/lock-down-your-xxx-domain-before-the-land-rush-begins/>
 

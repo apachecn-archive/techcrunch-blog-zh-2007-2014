@@ -1,4 +1,4 @@
-# 新的 Team Stream 应用程序| TechCrunch 的看台报告在 iPad 上发布
+# 新的 Team Stream 应用程序 的看台报告在 iPad 上发布
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/01/20/bleacher-report-arrives-on-ipad-with-new-team-stream-app/?renderMode=ie11>
 

@@ -1,4 +1,4 @@
-# Asana 为重新设计的 iOS 应用程序| TechCrunch 带来了轻量级的核心任务管理
+# Asana 为重新设计的 iOS 应用程序 带来了轻量级的核心任务管理
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/09/06/asana-brings-smooth-task-management-to-new-version-of-ios-app/>
 

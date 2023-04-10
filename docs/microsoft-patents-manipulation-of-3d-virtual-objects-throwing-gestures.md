@@ -1,4 +1,4 @@
-# 微软专利操纵 3D 虚拟物体，投掷手势| TechCrunch
+# 微软专利操纵 3D 虚拟物体，投掷手势
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/27/microsoft-patents-manipulation-of-3d-virtual-objects-throwing-gestures/>
 

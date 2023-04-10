@@ -1,4 +1,4 @@
-# 洛克什·达卡的花式咖啡饮料小抄| TechCrunch
+# 洛克什·达卡的花式咖啡饮料小抄
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com:80/2007/08/26/lokesh-dhakars-fancy-coffee-drink-cheat-sheet/>
 

@@ -1,4 +1,4 @@
-# OpenSesame 获得 800 万美元成为企业培训内容的 iTunes | TechCrunch
+# OpenSesame 获得 800 万美元成为企业培训内容的 iTunes 
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/14/opensesame-lands-8m-to-become-the-itunes-of-corporate-training-content/>
 

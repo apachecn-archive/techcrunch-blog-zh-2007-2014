@@ -1,4 +1,4 @@
-# 雅虎已经结束了愚蠢的收购，将关闭主播，团队为 Bonforte | TechCrunch 工作
+# 雅虎已经结束了愚蠢的收购，将关闭主播，团队为 Bonforte  工作
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/01/28/yahoo-tomfoolery-bonforte/>
 

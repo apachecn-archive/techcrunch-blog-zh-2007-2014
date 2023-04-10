@@ -1,4 +1,4 @@
-# BuddyTV 与美国电话电报公司合作，让您将 U-verse 变成智能电视| TechCrunch
+# BuddyTV 与美国电话电报公司合作，让您将 U-verse 变成智能电视
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2011/10/17/buddytv-partners-with-att-to-let-you-turn-your-u-verse-into-a-smart-tv/>
 

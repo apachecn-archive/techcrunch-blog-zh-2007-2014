@@ -1,4 +1,4 @@
-# 第一击，使命召唤:黑色行动的第一个 DLC 地图包:2 月 1 日，Xbox 360 定时独家| TechCrunch
+# 第一击，使命召唤:黑色行动的第一个 DLC 地图包:2 月 1 日，Xbox 360 定时独家
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/20/first-strike-call-of-duty-black-ops-first-dlc-map-pack-february-1-xbox-360-timed-exclusive/>
 

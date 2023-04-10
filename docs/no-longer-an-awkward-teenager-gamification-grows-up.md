@@ -1,4 +1,4 @@
-# 不再是尴尬的少年？游戏化成长| TechCrunch
+# 不再是尴尬的少年？游戏化成长
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2012/02/12/no-longer-an-awkward-teenager-gamification-grows-up/>
 

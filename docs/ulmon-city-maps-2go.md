@@ -1,4 +1,4 @@
-# CityMaps2Go 制造商 Ulmon 获得了第一笔投资，来自全球创始人资本| TechCrunch 的种子轮投资
+# CityMaps2Go 制造商 Ulmon 获得了第一笔投资，来自全球创始人资本 的种子轮投资
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/03/11/ulmon-city-maps-2go/>
 

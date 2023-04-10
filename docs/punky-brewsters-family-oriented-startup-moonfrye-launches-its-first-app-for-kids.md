@@ -1,4 +1,4 @@
-# Punky Brewster 的面向家庭的创业公司 Moonfrye 推出了它的第一款儿童应用程序| TechCrunch
+# Punky Brewster 的面向家庭的创业公司 Moonfrye 推出了它的第一款儿童应用程序
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2013/08/15/punky-brewsters-family-oriented-startup-moonfrye-launches-its-first-app-for-kids/>
 

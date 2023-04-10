@@ -1,4 +1,4 @@
-# 本·霍洛维茨的比特币赌注| TechCrunch
+# 本·霍洛维茨的比特币赌注
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/02/07/ben-horowitzs-bitcoin-bet/?utm_content=buffer94847&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer>
 

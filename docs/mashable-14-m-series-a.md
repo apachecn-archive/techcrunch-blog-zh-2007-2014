@@ -1,4 +1,4 @@
-# Mashable 完成第一轮 1400 万美元外部融资| TechCrunch
+# Mashable 完成第一轮 1400 万美元外部融资
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2014/03/02/mashable-14-m-series-a/>
 

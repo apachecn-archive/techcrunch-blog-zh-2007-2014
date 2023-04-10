@@ -1,4 +1,4 @@
-# 全尺寸，目标跟踪 TF2 哨兵枪安装在阀门总部| TechCrunch
+# 全尺寸，目标跟踪 TF2 哨兵枪安装在阀门总部
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/12/10/full-size-target-tracking-tf2-sentry-gun-installed-at-valve-hq/>
 

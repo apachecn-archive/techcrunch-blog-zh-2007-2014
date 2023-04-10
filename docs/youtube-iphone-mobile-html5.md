@@ -1,4 +1,4 @@
-# YouTube Mobile 采用 HTML5，视频质量轻松击败原生应用| TechCrunch
+# YouTube Mobile 采用 HTML5，视频质量轻松击败原生应用
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2010/07/07/youtube-iphone-mobile-html5/>
 

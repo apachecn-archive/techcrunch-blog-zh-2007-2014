@@ -1,4 +1,4 @@
-# 来自 ShareThis | TechCrunch 的新研究称，iPhone 是最具社交功能的设备
+# 来自 ShareThis  的新研究称，iPhone 是最具社交功能的设备
 
 > 原文：<https://web.archive.org/web/http://techcrunch.com/2013/07/23/iphone-most-social-device-claims-new-study-from-sharethis/>
 

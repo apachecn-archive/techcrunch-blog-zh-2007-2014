@@ -1,4 +1,4 @@
-# Pocket Gems 推出 Episode，一个互动手机故事平台| TechCrunch
+# Pocket Gems 推出 Episode，一个互动手机故事平台
 
 > 原文：<https://web.archive.org/web/https://techcrunch.com/2014/02/20/pocket-gems-launches-episode/>
 
